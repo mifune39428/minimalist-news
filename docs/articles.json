@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-12T19:38:06.619074+09:00",
+ "updated_at": "2026-08-12T22:17:40.130031+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -28,6 +28,10 @@
  ],
  "things": [
   {
+   "name": "服",
+   "count": 4
+  },
+  {
    "name": "本",
    "count": 4
   },
@@ -40,7 +44,7 @@
    "count": 3
   },
   {
-   "name": "服",
+   "name": "バッグ",
    "count": 3
   },
   {
@@ -48,7 +52,11 @@
    "count": 2
   },
   {
-   "name": "バッグ",
+   "name": "モバイルバッテリー",
+   "count": 2
+  },
+  {
+   "name": "靴",
    "count": 2
   }
  ],
@@ -92,8 +100,188 @@
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 81,
+ "count": 94,
  "items": [
+  {
+   "id": "0f83a4f7cbed5950",
+   "url": "https://www.roomie.jp/2026/08/1860792",
+   "title_original": "夏の散歩シューズにHOKAの「スリッポン」を購入。2万歩弱歩いて、疲れにくさを実感しました",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/260810_hoka_04.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-12T13:00:42+00:00",
+   "title_ja": "夏の散歩を快適にするHOKAのスリッポン「Restore TC」の使用感",
+   "summary_ja": "休日の買い物やちょっとした移動でよく歩く筆者が、夏の暑さや蒸れを解消するために購入したHOKAのスリッポン「Restore TC」のレビュー。2万歩近く歩いても疲れにくく、夏の移動を快適にしてくれる一足を実際に使った感想が綴られています。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "HOKA Restore TC",
+    "スリッポン",
+    "スニーカー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "9d912c8ffdda2043",
+   "url": "https://www.lifehacker.jp/article/2608-use-dark-note-app-android-exh",
+   "title_original": "Google Keepから乗り換えもアリ！Android無料メモアプリ「Dark Note」はかゆいところに手が届く",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/03/18/179b8392-2c43-4555-a7e0-d487dff016de/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-12T13:00:00+00:00",
+   "title_ja": "シンプルで使いやすい無料メモアプリ「Dark Note」の特徴と活用法",
+   "summary_ja": "Google Keepの代替として注目されるAndroidアプリ「Dark Note」の紹介。完全無料かつ広告なしで利用でき、ノートのロックや動画埋め込み機能を備えています。同期機能はないものの、シンプルさとプライバシーを重視する人に適したツールです。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "Dark Note",
+    "Google Keep"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "839b5ab2972ba90a",
+   "url": "https://www.lifehacker.jp/article/2608-4-apple-watch-settings-for-longer-battery-life",
+   "title_original": "Apple Watch Ultra 3のバッテリーを長持ちさせる、4つのシンプルな設定",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/12/1569fede-e90b-4b58-9eb3-736a24fefa83/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-12T12:45:00+00:00",
+   "title_ja": "Apple Watch Ultra 3のバッテリーを長持ちさせる4つの設定",
+   "summary_ja": "Apple Watch Ultra 3のバッテリー消費を抑える設定テクニック。画面の「常にオン」機能のオフや通知の整理など、使い勝手を維持しながら駆動時間を延ばす4つのポイントが紹介されており、睡眠記録までカバーできるようになります。",
+   "category": "道具・ガジェット",
+   "axis": "reduce",
+   "things": [
+    "Apple Watch Ultra 3"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "0796f9ebaa73ab0d",
+   "url": "https://www.roomie.jp/2026/08/1862199",
+   "title_original": "カーテンレールが最高の部屋干しスペースに。山崎実業の専用フックで「ほぼサンルーム」ができた",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/06/928878dc509c2088a6d2f00443ca7206.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-12T12:00:55+00:00",
+   "title_ja": "カーテンレールを部屋干しスペースにする山崎実業の専用フック",
+   "summary_ja": "天気が不安定な時期の部屋干しスペース不足を解決する、山崎実業の「カーテンレール上ハンガーフック タワー」を紹介。カーテンレール上のデッドスペースを有効活用し、手軽に部屋干しスペースを増やすことができる便利なアイテム。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "カーテンレール上ハンガーフック タワー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5c9769fd51c63362",
+   "url": "https://www.theminimalists.com/big3",
+   "title_original": "The Big Three",
+   "source": "The Minimalists",
+   "image": "https://www.theminimalists.com/wp-content/uploads/2026/08/beatriz-camaleao-Rtu1sgu1hrM-unsplash-500x357.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-08-12T12:00:07+00:00",
+   "title_ja": "ミニマリストの読者に響き続ける「3つの大切なこと」",
+   "summary_ja": "著名なミニマリスト・ブログ「The Minimalists」による記事。長年にわたり読者の心に響き続けている、暮らしや物との付き合い方に関する3つの重要な考え方やテーマについて紹介している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "e71f75105ad7411e",
+   "url": "https://www.lifehacker.jp/article/machi-ya-slimplatebank-additional-965649",
+   "title_original": "モバイルバッテリーが「重い」の正体は、重さじゃなくて厚みでした",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/10/243e2a44-4b44-4b84-af30-e9517844cfa6/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-12T11:45:00+00:00",
+   "title_ja": "モバイルバッテリーの持ちにくさは重さではなく厚みが原因",
+   "summary_ja": "モバイルバッテリーを携帯する際、重いと感じる原因は重量そのものではなく、本体の厚みにあると指摘する記事。持ち物の快適性を高め、スマートに持ち運ぶためのガジェット選びの新たな視点を提案している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "モバイルバッテリー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "34d4517e8774ab96",
+   "url": "https://www.roomie.jp/2026/08/1856844",
+   "title_original": "そうめんをレンチンで！「ゆでる以外でも便利」だから、汗をかかず手もぬれないんだ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/20240607_soumen_eye.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-12T11:30:18+00:00",
+   "title_ja": "鍋を使わずレンジでそうめんがゆでられる便利な専用調理器",
+   "summary_ja": "暑い季節に手間がかかるそうめん作りをラクにする、スケーターの「レンジでゆで麺」を紹介。鍋を使わず電子レンジだけで麺がゆでられるため、お湯を沸かす必要がなく、暑いキッチンで汗をかかずに調理ができる便利な道具。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "レンジでゆで麺"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b02547a32a93e9d9",
+   "url": "https://www.roomie.jp/2026/08/1859743",
+   "title_original": "約3年愛用しているマグネット式PCフィルターが手放せない理由。カフェ作業の『視線ストレス』がゼロに",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/pcfilter20260804eye.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-12T11:00:27+00:00",
+   "title_ja": "カフェでのPC作業を快適にする覗き見防止フィルターを3年愛用する話",
+   "summary_ja": "外出先でのパソコン作業時に周囲の視線を遮断できる、マグネット着脱式の覗き見防止フィルター。持ち運びやすく着脱も簡単なため、カフェや新幹線など混雑した場所でも、プライバシーを守りながら安心して作業に集中できる道具として3年間愛用されている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "マグネット式 覗き見防止フィルター",
+    "パソコン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "909728dee63cd873",
+   "url": "https://www.youtube.com/watch?v=vxsWcTL6Vpg",
+   "title_original": "【公開】やましたひでこのシューズクローク。お気に入りの靴たちをご紹介します",
+   "source": "やましたひでこ断捨離",
+   "image": "https://i3.ytimg.com/vi/vxsWcTL6Vpg/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-12T11:00:17+00:00",
+   "title_ja": "断捨離提唱者がお気に入りの靴を並べたシューズクロークを公開",
+   "summary_ja": "断捨離の提唱者であるやましたひでこが、自身のシューズクロークと愛用している靴を紹介する。厳選されたお気に入りの靴だけが並ぶ収納スペースの様子を通して、物を選び抜き、すっきりと暮らすためのヒントを学ぶことができる。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "靴"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "9e8242c9088b07b5",
+   "url": "https://news.livedoor.com/topics/detail/32051199",
+   "title_original": "実家の押し入れが「ゴミ置き場」になっているかも。“断捨離”3ステップですっきり：やましたひでこさん直伝 (2026年8月12日掲載)",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-12T11:00:00+00:00",
+   "title_ja": "実家の押し入れをすっきりさせる3ステップの断捨離術",
+   "summary_ja": "やましたひでこさんが直伝する、実家の押し入れをすっきり片づけるための断捨離術を紹介する記事。ゴミ置き場のようになってしまいがちな押し入れの荷物を、3つのステップに沿って整理し、手放していくための具体的な方法を解説している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "fccf6e424b9f5204",
    "url": "https://monomax.jp/archives/355715",
@@ -239,6 +427,22 @@
     "ランドリーネット"
    ],
    "importance": 2
+  },
+  {
+   "id": "c56ccdda64132c76",
+   "url": "https://mshale.com/6a9a1ae1/0e2b595aPyY-VjYcYDQDASw",
+   "title_original": "「ミニマリストに憧れるけど…」捨てられない女性の自宅へ。モノ減らしたら汚部屋もキレイに片付いた Rolling Loud (EYyauCXCtQ)",
+   "source": "Mshale",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-12T06:48:18+00:00",
+   "title_ja": "物を減らして汚部屋をきれいに片づけた女性の実例",
+   "summary_ja": "ミニマリストに憧れつつも物を捨てられずにいた女性が、自宅のモノを減らすことで汚部屋をきれいに片づけることに成功した事例を紹介する。片づけられない悩みを持つ人が、実際に物を手放して部屋を整えていくプロセスが描かれている。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
   },
   {
    "id": "bab3fddf9761688d",
@@ -971,6 +1175,22 @@
    "importance": 2
   },
   {
+   "id": "8cbb4d9c80556c96",
+   "url": "https://www.reddit.com/r/minimalism/comments/1vl93pe/i_thought_i_was_a_minimalist",
+   "title_original": "I thought I was a minimalist..",
+   "source": "r/minimalism",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-11T06:02:41+00:00",
+   "title_ja": "引っ越しを機に自分の持ち物と向き合った人の話",
+   "summary_ja": "車に入るだけの荷物と少量の箱で長距離の引っ越し準備を進める中で、自分が思っていたよりも感情的に物を手放せないことに気づいた人の体験談。すでに物を減らしたと思った後、さらに物を減らしていく方法や極端な断捨離の後悔について問いかけている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
    "id": "09017a7a76cb30cf",
    "url": "https://www.reddit.com/r/simpleliving/comments/1vl4ftd/this_is_probably_such_a_silly_problem_to_have",
    "title_original": "this is probably such a silly problem to have",
@@ -1024,6 +1244,25 @@
     "本"
    ],
    "importance": 3
+  },
+  {
+   "id": "dc215c82ef12d7d1",
+   "url": "https://www.reddit.com/r/declutter/comments/1vkz7mp/would_you_get_rid_of_all_your_clothes",
+   "title_original": "Would you get rid of all your clothes?",
+   "source": "r/declutter",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-10T22:18:00+00:00",
+   "title_ja": "引越しを機に服をすべて手放し、新しい生活に合うものだけを古着で揃えるアイデア",
+   "summary_ja": "引越しで新居のクローゼットに入りきらない大量の服を抱えた投稿者が、すべて手放して古着や中古で買い直す案を検討している。現在の体型やライフスタイル、新居のスペースに合うものだけを厳選し、手放す手間や感情的負担を減らすための選択肢として考えている。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服",
+    "バッグ"
+   ],
+   "importance": 4
   },
   {
    "id": "ba9e41211c2a388e",
