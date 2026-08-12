@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-12T19:25:43.157742+09:00",
+ "updated_at": "2026-08-12T19:38:06.619074+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -36,15 +36,15 @@
    "count": 3
   },
   {
+   "name": "バックパック",
+   "count": 3
+  },
+  {
    "name": "服",
    "count": 3
   },
   {
    "name": "スーツケース",
-   "count": 2
-  },
-  {
-   "name": "バックパック",
    "count": 2
   },
   {
@@ -58,11 +58,13 @@
   "Be More with Less",
   "Infoseek",
   "MonoMax",
+  "Mshale",
   "No Sidebar",
   "Psychology Today",
   "ROOMIE",
   "The Minimalists",
   "The Simplicity Habit",
+  "WEBザテレビジョン",
   "Yahoo!ニュース",
   "autoevolution",
   "bs-asahi.co.jp",
@@ -87,9 +89,10 @@
   "ライブドアニュース",
   "レイの小さな暮らし",
   "小さな暮らしノート",
-  "筆子ジャーナル"
+  "筆子ジャーナル",
+  "ｄメニューニュース"
  ],
- "count": 73,
+ "count": 81,
  "items": [
   {
    "id": "fccf6e424b9f5204",
@@ -358,6 +361,22 @@
    "importance": 3
   },
   {
+   "id": "52e2a37ef84f3ff3",
+   "url": "https://mshale.com/d327ff45/46245b8aOWrEVSxgNYU",
+   "title_original": "[４人家族ミニマリスト]節約苦手な私が、やめるだけで節約になった８つのこと Sean Connery (f0Y0Y6uVnd)",
+   "source": "Mshale",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-12T02:02:51+00:00",
+   "title_ja": "4人家族のミニマリストがやめるだけで節約になった8つのこと",
+   "summary_ja": "節約が苦手な4人家族のミニマリストが、暮らしの中でやめるだけで効果のあった8つの習慣を紹介する。物を減らして生活をシンプルに整えることで、無理なく自然に支出を抑えるための具体的な考え方やヒントが語られている。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "200180a063ca2103",
    "url": "https://news.yahoo.co.jp/articles/a2b6a23ee1a17622b889d446e5e5e54508bcf2fe/images/000",
    "title_original": "マンUザークツィー、美女スタイリストに依頼しクローゼットを断捨離 “イケてるラッパー風”スタイリングも披露",
@@ -408,6 +427,24 @@
     "本",
     "サングラス",
     "空き瓶"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "bd79df9696408856",
+   "url": "https://mshale.com/e95d7a31/31f5996bXqELoR2oORU",
+   "title_original": "The Best Packable Backpacks For 2026 (Tested Head To Head) Apple Iphone 18 Pro Max (31LBDVOGVi)",
+   "source": "Mshale",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-12T01:01:45+00:00",
+   "title_ja": "2026年におすすめの折りたたみ式バックパックの比較検証",
+   "summary_ja": "旅行や日常の移動に便利な、折りたたんでコンパクトに持ち運べるパッカブルバックパックの2026年おすすめモデルを比較検証する。限られた持ち物で身軽に旅をしたいミニマリストに向けて、最適なバッグの選び方を提案している。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "バックパック"
    ],
    "importance": 3
   },
@@ -757,6 +794,61 @@
    "importance": 2
   },
   {
+   "id": "562c4343bbd8c4ad",
+   "url": "https://mshale.com/d4e882e2/bb4bce24ff3jaNaUx4I",
+   "title_original": "【築３０年キッチンリフォーム1年使ったレビュー】後悔ポイント！使用感／タカラスタンダード選んでヨカッタ！ Al Nassr (CMEUtHSM7b)",
+   "source": "Mshale",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-11T12:19:30+00:00",
+   "title_ja": "築30年のキッチンをリフォームして1年使った感想と後悔",
+   "summary_ja": "築30年の自宅キッチンをタカラスタンダードの製品でリフォームし、1年間実際に使用したレビュー。使ってみて良かった点や、実際に暮らす中で気づいた後悔ポイントなどのリアルな使用感を詳しく紹介している。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "キッチン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c0996622d47c1d6b",
+   "url": "https://topics.smt.docomo.ne.jp/article/ftnews/trend/ftnews-8a69fa6fc7f7e323e982dc68719d9e90c31ff665?page=2",
+   "title_original": "台風で家出れない → 断捨離デーに！ 家に余った【保冷剤・紙袋】の活用法、知ってた？",
+   "source": "ｄメニューニュース",
+   "image": "https://img.topics.smt.news.goo.ne.jp/picture/ftnews/m_ftnews-8a69fa6fc7f7e323e982dc68719d9e90c31ff665.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-11T12:14:00+00:00",
+   "title_ja": "台風の外出自粛時におすすめな保冷剤や紙袋の断捨離と活用法",
+   "summary_ja": "台風などで外出できない日を断捨離に活用する提案。家の中に溜まりがちな保冷剤や紙袋を整理し、ただ捨てるだけでなく、日常生活で再利用するための具体的なアイデアや活用方法について解説している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "保冷剤",
+    "紙袋"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "a4b4c1d3675ceaa4",
+   "url": "https://mshale.com/ed638f32/665bbd5e6iQcOnnFXy0",
+   "title_original": "【シェアサイクル】ハローサイクリング使ってみた！電動アシスト自転車に乗って多摩川サイクリング🚲休日vlog/休日の過ごし方/なんでもない日常/持たない暮らし/ミニマリスト/シェアバイク Alexander Volkov (Lp4KAecjjs)",
+   "source": "Mshale",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-11T12:05:42+00:00",
+   "title_ja": "ミニマリストが実践するシェアサイクルを使った休日の過ごし方",
+   "summary_ja": "自転車を所有しない「持たない暮らし」の実践として、シェアサイクル「ハローサイクリング」を利用して多摩川を巡る休日の様子。電動アシスト自転車を活用し、物を所有せずにサービスを利用するミニマルなライフスタイルを提案している。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "電動アシスト自転車"
+   ],
+   "importance": 3
+  },
+  {
    "id": "39a2ef5c4d97cce2",
    "url": "https://www.reddit.com/r/minimalism/comments/1vlelhq/almost_bought_another_piece_of_furniture_for",
    "title_original": "almost bought another piece of furniture for something I only need two hours a day",
@@ -934,6 +1026,22 @@
    "importance": 3
   },
   {
+   "id": "ba9e41211c2a388e",
+   "url": "https://thetv.jp/news/detail/1428148/18071899",
+   "title_original": "川島如恵留、猪俣周杜が参戦「勉強好きVS勉強嫌い」「ミニマリストVS捨てられない女」で白熱トーク＜上田と女が吠える夜＞",
+   "source": "WEBザテレビジョン",
+   "image": "https://thetv.jp/i/nw/1428148/18071899.jpg?w=1284",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-10T20:44:18+00:00",
+   "title_ja": "「ミニマリストVS捨てられない女」の白熱トーク",
+   "summary_ja": "テレビ番組の企画内で、ミニマリストと捨てられない女性たちがそれぞれの価値観やライフスタイルについてトークを繰り広げる内容です。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "2f420a08d85323d2",
    "url": "https://www.youtube.com/shorts/r8Sw2zC2HdQ",
    "title_original": "来客に異常と言われる、3歳児がいる家",
@@ -1101,6 +1209,24 @@
    "importance": 3
   },
   {
+   "id": "ee0801fb9c00f694",
+   "url": "https://www.reddit.com/r/simpleliving/comments/1vkf5of/phone_use",
+   "title_original": "Phone use",
+   "source": "r/simpleliving",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-10T08:36:33+00:00",
+   "title_ja": "シンプルな暮らしを目指してスマートフォンの使用を減らす工夫",
+   "summary_ja": "自炊や手作りの掃除用洗剤などシンプルな生活を実践する中で、習慣化してしまったスマートフォンの使用時間を減らす方法に悩む人の投稿です。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "スマートフォン"
+   ],
+   "importance": 4
+  },
+  {
    "id": "5c02e3e2987ed1f5",
    "url": "https://www.youtube.com/shorts/9rWtWTmlCag",
    "title_original": "【ミニマリスト主婦】暑い日にやると良いらしいと聞いて",
@@ -1115,6 +1241,22 @@
    "axis": "reduce",
    "things": [],
    "importance": 1
+  },
+  {
+   "id": "882a892182ee0c5c",
+   "url": "https://www.reddit.com/r/simpleliving/comments/1vkeaht/morning",
+   "title_original": "Morning",
+   "source": "r/simpleliving",
+   "image": "https://preview.redd.it/vgttljb65iih1.jpeg?width=640&crop=smart&auto=webp&s=5cb6d9b8d048ef92254c994c125f1e5547778e51",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-10T07:43:32+00:00",
+   "title_ja": "静かな場所で過ごす朝のひととき",
+   "summary_ja": "静かな場所で朝の時間を過ごした体験について共有しています。日々の暮らしの中で心を落ち着かせるシンプルな習慣の実例です。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
   },
   {
    "id": "e49584fa8021c90a",
