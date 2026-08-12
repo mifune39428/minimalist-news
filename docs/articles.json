@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-12T22:17:40.130031+09:00",
+ "updated_at": "2026-08-13T04:07:02.740771+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -48,11 +48,15 @@
    "count": 3
   },
   {
-   "name": "スーツケース",
+   "name": "モバイルバッテリー",
+   "count": 3
+  },
+  {
+   "name": "サングラス",
    "count": 2
   },
   {
-   "name": "モバイルバッテリー",
+   "name": "スーツケース",
    "count": 2
   },
   {
@@ -70,6 +74,8 @@
   "No Sidebar",
   "Psychology Today",
   "ROOMIE",
+  "Real Simple",
+  "Southern Living",
   "The Minimalists",
   "The Simplicity Habit",
   "WEBザテレビジョン",
@@ -100,8 +106,166 @@
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 94,
+ "count": 104,
  "items": [
+  {
+   "id": "d76355ef17981e40",
+   "url": "https://www.realsimple.com/amazon-professional-organizers-pantry-finds-august-2026-12056936",
+   "title_original": "Professional Organizers Use These 7 Products to Keep Their Pantries Beautifully Tidy",
+   "source": "Real Simple",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-12T18:30:00+00:00",
+   "title_ja": "プロが食品庫の整理に愛用している7つの収納アイテム",
+   "summary_ja": "プロの整理収納アドバイザーが、食品庫を美しく片付けるために実際に使用している7つの便利な収納アイテムを紹介しています。日々の食材管理やキッチンの整理整頓に役立つ具体的な道具が分かります。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "収納アイテム"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5f8417b2cce67f39",
+   "url": "https://www.reddit.com/r/minimalism/comments/1vmkk19/doomscrolling_has_become_unattractive",
+   "title_original": "Doomscrolling has become unattractive",
+   "source": "r/minimalism",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-12T17:22:09+00:00",
+   "title_ja": "ネガティブな情報を見続ける悪癖を手放した話",
+   "summary_ja": "スマートフォンでネガティブなニュースやSNSを延々と見続けてしまう悪癖を、魅力のないものとして手放した人の投稿です。デジタルデトックスや情報の断捨離によって心を穏やかに保つ生活の工夫が語られています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "e625d2c54aaa7205",
+   "url": "https://www.reddit.com/r/minimalism/comments/1vmj307/questions_for_the_floor_sleepers",
+   "title_original": "Questions for the floor sleepers",
+   "source": "r/minimalism",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-12T16:31:15+00:00",
+   "title_ja": "日本の敷布団と畳を使った床寝の習慣についての質問",
+   "summary_ja": "日本の布団と畳を使って床で眠る生活を取り入れようとしている人の疑問です。日々の布団のたたみ方や収納場所、畳のメンテナンス方法について、実際にどのように使えばよいかを尋ねています。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "敷布団",
+    "畳"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "14738423aed73ecd",
+   "url": "https://thesimplicityhabit.com/how-the-1-3-5-rule-transform-your-daily-routine",
+   "title_original": "Time Management Mastery: How the 1-3-5 Rule Can Transform Your Daily Routine",
+   "source": "The Simplicity Habit",
+   "image": "https://thesimplicityhabit.com/wp-content/uploads/2025/03/horizontal-blog-post-2025-03-19T093250.331-1024x683.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-08-12T16:24:59+00:00",
+   "title_ja": "1-3-5ルールを使って毎日のタスク管理を効率化する方法",
+   "summary_ja": "やるべきことに追われて圧倒されてしまう日々を変えるため、1-3-5ルールを取り入れて時間を管理する方法を紹介しています。日々のタスクを絞り込み、暮らしとスケジュールをシンプルに整える考え方です。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "265aa246aac3d2a2",
+   "url": "https://thesimplicityhabit.com/helpful-habits-of-people-who-have-a-clutter-free-home",
+   "title_original": "4 Helpful Habits of People Who Have a Clutter-Free Home",
+   "source": "The Simplicity Habit",
+   "image": "https://thesimplicityhabit.com/wp-content/uploads/2025/01/horizontal-blog-post-2025-01-28T100016.482-1024x683.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-08-12T16:16:33+00:00",
+   "title_ja": "物が散らからない家を維持している人たちの4つの習慣",
+   "summary_ja": "ものが散らからないすっきりとした家を常に保っている人たちが実践している、4つの具体的な習慣を紹介しています。日々の生活の中で散らかりを防ぎ、心地よい空間を維持するための考え方が分かります。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "45388f0a3e0b1d6b",
+   "url": "https://www.reddit.com/r/onebag/comments/1vmg95f/how_do_you_do_sink_laundry_when_nothing_dries",
+   "title_original": "How do you do sink laundry when nothing dries overnight in humidity?",
+   "source": "r/onebag",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-12T14:48:43+00:00",
+   "title_ja": "高湿度な旅先での洗濯事情と乾燥対策",
+   "summary_ja": "東南アジアの雨季など湿度80%の環境で服が乾かない問題に対し、旅先での洗濯ルーティンや速乾素材の衣類管理を見直した経験者の話。シャツ4着とパンツ2着を持って毎夜洗う旅行者が直面するリアルな対策。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "シャツ",
+    "パンツ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "18ab058d229c2c04",
+   "url": "https://www.southernliving.com/organizing-habits-clutter-12037200",
+   "title_original": "7 Organizing Habits That Could Be Making Your Home More Cluttered",
+   "source": "Southern Living",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-12T14:25:00+00:00",
+   "title_ja": "かえって散らかりを招いてしまう7つの収納習慣",
+   "summary_ja": "家をすっきりさせるためのつもりが、かえって散らかりの原因になってしまう7つの間違った片づけ習慣について解説しています。日々の収納方法や整理整頓のアプローチを見直すためのヒントが詰まった記事です。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "2f671d09f5d5e1f7",
+   "url": "https://www.lifehacker.jp/article/2608-lht-notta-memo",
+   "title_original": "録音したら、文字起こしまで終わっている。ポケットに収まる「Notta Memo」",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/12/8eaba113-6c0e-43e9-906e-8eff322f2d39/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-12T13:15:00+00:00",
+   "title_ja": "高精度な文字起こしができるポケットサイズのボイスレコーダー",
+   "summary_ja": "録音データの品質にこだわりたい人に向けて、高精度な文字起こし機能を備えたポケットサイズのボイスレコーダー「Notta Memo」を紹介。優秀なアプリを使うだけでなく、録音デバイス自体にこだわることで、文字起こしの精度をワンランク上へと引き上げる。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "Notta Memo",
+    "ボイスレコーダー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "f5deb9d674cfd012",
+   "url": "https://monomax.jp/archives/356556",
+   "title_original": "【サングラスで写真や音楽、通話まで!?】オークリー×Metaの話題作！カメラ・スピーカー・AI搭載の「Oakley Meta HSTN」が優秀すぎた",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2027/08/260603-144471_11zon-scaled.jpeg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-12T13:00:42+00:00",
+   "title_ja": "写真や通話も可能なカメラとスピーカー搭載の多機能サングラス",
+   "summary_ja": "オークリーとMetaがコラボレーションした「Oakley Meta HSTN」を紹介。サングラスでありながら、カメラ、スピーカー、AIを搭載しており、これ一台で写真撮影や音楽鑑賞、通話までこなせる優秀な多機能ガジェット。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "Oakley Meta HSTN",
+    "サングラス"
+   ],
+   "importance": 3
+  },
   {
    "id": "0f83a4f7cbed5950",
    "url": "https://www.roomie.jp/2026/08/1860792",
@@ -409,6 +573,26 @@
    "axis": "reduce",
    "things": [],
    "importance": 2
+  },
+  {
+   "id": "77d28d65d190d4e6",
+   "url": "https://www.reddit.com/r/onebag/comments/1vm7o3w/finally_got_my_charging_setup_down_to_3_things",
+   "title_original": "Finally got my charging setup down to 3 things and it feels great.",
+   "source": "r/onebag",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-12T07:54:35+00:00",
+   "title_ja": "充電器やケーブル類を3つに厳選した人の話",
+   "summary_ja": "大量にあったケーブルや充電器を見直し、小型の急速充電器、USB-Cケーブル、薄型のモバイルバッテリーの3点に減らした。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "急速充電器",
+    "USB-Cケーブル",
+    "モバイルバッテリー"
+   ],
+   "importance": 4
   },
   {
    "id": "cd3977c49b2df728",
