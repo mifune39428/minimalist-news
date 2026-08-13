@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-13T04:07:02.740771+09:00",
+ "updated_at": "2026-08-13T11:12:01.691414+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -65,6 +65,7 @@
   }
  ],
  "sources": [
+  "ABEMA",
   "AOL.co.uk",
   "AOL.com",
   "Be More with Less",
@@ -78,7 +79,9 @@
   "Southern Living",
   "The Minimalists",
   "The Simplicity Habit",
+  "The Spruce",
   "WEBザテレビジョン",
+  "Woman & Home",
   "Yahoo!ニュース",
   "autoevolution",
   "bs-asahi.co.jp",
@@ -86,6 +89,7 @@
   "livingetc.com",
   "mshale.com",
   "note.com",
+  "r/Anticonsumption",
   "r/BuyItForLife",
   "r/declutter",
   "r/minimalism",
@@ -106,8 +110,113 @@
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 104,
+ "count": 121,
  "items": [
+  {
+   "id": "d40b18bf885615c8",
+   "url": "https://minimalist-fudeko.com/reduce-charging-cords-with-ai",
+   "title_original": "たまった充電コードを9本まで減らした手順～正体不明なものはAIに聞けばいい",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/07/phone-chargers.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-13T00:10:10+00:00",
+   "title_ja": "たまった充電コードをAIも活用して9本まで減らした手順",
+   "summary_ja": "機器を買うたびに増えて引き出しを圧迫する充電コードを、引っ越しを機に9本まで減らした手順が紹介されている。正体不明なコードの種類をAIに質問して判別するなど、具体的な整理のコツを解説している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "充電コード"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "98942b9cf4d9a641",
+   "url": "https://www.reddit.com/r/minimalism/comments/1vmu1as/sometimes_i_just_want_to_have_15_of_the_same",
+   "title_original": "Sometimes I just want to have 15 of the same dress and not wear anything else ever again",
+   "source": "r/minimalism",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-12T23:22:41+00:00",
+   "title_ja": "同じドレスを15枚持って暮らしたい人の話",
+   "summary_ja": "同じ白いドレスを15枚揃え、ポケットやカーディガンにこだわりながら同じ服だけで過ごしたいというミニマルな服選びのこだわり。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "ドレス",
+    "カーディガン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "3c94573bedaa66b8",
+   "url": "https://www.roomie.jp/2026/08/1857502",
+   "title_original": "実家から30年愛用している、私の定番。「シャボン玉石けん」は肌にも環境にもやさしいんです",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/Bath-Soap-COVER-2.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-12T23:00:36+00:00",
+   "title_ja": "実家から30年愛用しているシャボン玉石けん",
+   "summary_ja": "30年使い続けているシャボン玉石けんを紹介。色々な石けんを試しても結局いつもの定番に戻ってくるという愛用品の記録。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "石けん"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "dc9b188bc5928549",
+   "url": "https://www.lifehacker.jp/article/2608-book_to_read-2011",
+   "title_original": "【毎日書評】予定に「なんのため？」をそえるだけ。追われる日々が、自分だけの時間に変わるわけ",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/12/dd680a36-dfa3-4026-b8e0-474241dceeb2/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-12T23:00:00+00:00",
+   "title_ja": "予定に「なんのため？」を添えて日々を変える",
+   "summary_ja": "忙しい日々に追われる中で、予定に「なんのため？」という目的を添えることで自分の時間を取り戻す方法について解説している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "8f1dffeef0eda6cc",
+   "url": "https://www.reddit.com/r/simpleliving/comments/1vmsq8q/how_does_one_live_a_simple_life_when_forced_to",
+   "title_original": "How does one live a simple life when forced to work a stressful full-time job just to make ends meet?",
+   "source": "r/simpleliving",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-12T22:28:02+00:00",
+   "title_ja": "フルタイムの仕事で時間がない中でシンプルに生きる方法",
+   "summary_ja": "生活のためにストレスの多いフルタイムの仕事を余儀なくされ、自然に触れる時間も余裕もない中でどうシンプルに生きるかという悩み。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "2dd8d863c4cc9122",
+   "url": "https://www.roomie.jp/2026/08/1835444",
+   "title_original": "ユニクロ「ウルトラストレッチアクティブワイドパンツ」を夫婦で愛用中。夏はこれだけ穿いていたい",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/20260808_la2-1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-12T22:00:11+00:00",
+   "title_ja": "夏にユニクロのワイドパンツを愛用している話",
+   "summary_ja": "夏の暑さや汗によるストレスを解決するため、ユニクロのウルトラストレッチアクティブワイドパンツを夫婦で愛用している実例を紹介している。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "ウルトラストレッチアクティブワイドパンツ"
+   ],
+   "importance": 3
+  },
   {
    "id": "d76355ef17981e40",
    "url": "https://www.realsimple.com/amazon-professional-organizers-pantry-finds-august-2026-12056936",
@@ -124,6 +233,22 @@
    "things": [
     "収納アイテム"
    ],
+   "importance": 3
+  },
+  {
+   "id": "045d819a885923e0",
+   "url": "https://www.thespruce.com/things-to-declutter-from-car-before-end-of-summer-12037108",
+   "title_original": "Don’t Let Summer Clutter Follow You Into Fall—5 Things Organizing Pros Say to Remove From Your Car",
+   "source": "The Spruce",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-12T18:23:00+00:00",
+   "title_ja": "夏の終わりに車内から取り除くべき5つの物",
+   "summary_ja": "夏の間に車内に溜まってしまいがちな不要な物を片付け、秋に向けて車内をすっきりと整理整頓するための5つのアドバイスを紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -194,6 +319,72 @@
    "importance": 4
   },
   {
+   "id": "14c083b3ea44fe0f",
+   "url": "https://www.youtube.com/shorts/5dWohQttU5c",
+   "title_original": "Where could you use some compassion in your own life?",
+   "source": "The Minimalists",
+   "image": "https://i2.ytimg.com/vi/5dWohQttU5c/hqdefault.jpg",
+   "media": "youtube",
+   "region": "海外",
+   "published": "2026-08-12T15:49:31+00:00",
+   "title_ja": "自分の人生のどこに思いやりが必要かを問いかける動画",
+   "summary_ja": "ミニマリストのチャンネルによる、自分の人生のどの部分に対して思いやりを向けるべきかを読者に問いかける動画。自分自身に対する思いやりや慈しみの重要性についての考察を提示している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "8cb1b4586f793571",
+   "url": "https://nosidebar.com/boundaries-everyone-should-have-in-place",
+   "title_original": "7 Boundaries that Every Person Should Have in Place",
+   "source": "No Sidebar",
+   "image": "https://nosidebar.com/wp-content/uploads/boundary-1.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-08-12T15:39:50+00:00",
+   "title_ja": "人生を形作るためにあらかじめ設定しておくべき7つの境界線",
+   "summary_ja": "人間関係だけでなく人生全体を整えるための境界線について解説する記事。境界線とは「事前に決めておく決断」であり、自分自身の暮らしや行動の基準線をあらかじめ引いておくことの大切さを提案している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "8cb7502daba1dda1",
+   "url": "https://topics.smt.docomo.ne.jp/amp/article/osharetecho/trend/osharetecho-104838",
+   "title_original": "【こんな化粧品は捨てるべし！】夏の断捨離美容 〜アイテム編〜",
+   "source": "ｄメニューニュース",
+   "image": "https://img.topics.smt.news.goo.ne.jp/picture/osharetecho/m_osharetecho-104838.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-12T15:00:00+00:00",
+   "title_ja": "夏の断捨離美容として手放すべき化粧品を見極めるポイント",
+   "summary_ja": "夏の断捨離美容として、使わなくなったコスメや古い化粧品など処分すべきアイテムの基準を解説する記事。手持ちの美容アイテムを見直し、不要なものを整理する方法を紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "化粧品"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "3a3f26a82922843d",
+   "url": "https://www.womanandhome.com/homes/cleaning--decluttering/hot-weather-cleaning-tips-advice",
+   "title_original": "Too hot for housework? 5 low-effort ways to keep your home clean during a heatwave",
+   "source": "Woman & Home",
+   "image": "https://cdn.mos.cms.futurecdn.net/ir2Aa8K32YY6PfSQYAX9dM-1920-80.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-12T15:00:00+00:00",
+   "title_ja": "猛暑でも手間をかけずに家を清潔に保つ5つの家事テクニック",
+   "summary_ja": "暑くて家事が億劫な時期でも、少ない労力で部屋の清潔さをキープするための5つの工夫を紹介する記事。無理をせず暮らしをシンプルに保つための簡単な掃除やお手入れのヒントを提案している。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "45388f0a3e0b1d6b",
    "url": "https://www.reddit.com/r/onebag/comments/1vmg95f/how_do_you_do_sink_laundry_when_nothing_dries",
    "title_original": "How do you do sink laundry when nothing dries overnight in humidity?",
@@ -226,6 +417,59 @@
    "category": "部屋・収納",
    "axis": "reduce",
    "things": [],
+   "importance": 3
+  },
+  {
+   "id": "90f210d2f497c4c2",
+   "url": "https://www.reddit.com/r/simpleliving/comments/1vmfciq/i_am_happiest_being_home",
+   "title_original": "I am happiest being home. . .",
+   "source": "r/simpleliving",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-12T14:14:46+00:00",
+   "title_ja": "自宅で過ごす時間に最も幸福を感じる理由",
+   "summary_ja": "自宅にいる時が一番幸せだと感じるシンプルライフの実感をつづった海外の投稿。具体的な抜粋はないが、心の持ち方について語られている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "3baa50c6b7ab50fa",
+   "url": "https://mshale.com/7ea40a30/b1a518f5FTEcAlozawEGI1k",
+   "title_original": "Apple Watchを3回手放した男が、またULTRA初代を買った理由（2025） Wilco Kelderman (iuRixthMbu)",
+   "source": "Mshale",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-12T13:23:46+00:00",
+   "title_ja": "Apple Watchを手放しては買い直した理由",
+   "summary_ja": "Apple Watchを何度も手放した経験を持つ筆者が、初代ULTRAを再び買い直した理由とその経緯について語っている記事です。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "Apple Watch"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "952385c7c705d50c",
+   "url": "https://www.roomie.jp/2026/08/1860146",
+   "title_original": "Switch 2を持ち出す人へ。約80gのスタンドでテーブルモードの不便が解消した",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/1-10.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-12T13:15:36+00:00",
+   "title_ja": "Switchを持ち歩く人に便利な軽量スタンド",
+   "summary_ja": "携帯用のゲーム機をテーブルモードで遊ぶ際の不便さを解消するため、約80gの軽量な専用スタンドを導入した使用感を綴っています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "スタンド",
+    "Switch"
+   ],
    "importance": 3
   },
   {
@@ -541,6 +785,22 @@
    "importance": 5
   },
   {
+   "id": "e8bd8a0d242e42f7",
+   "url": "https://www.reddit.com/r/Anticonsumption/comments/1vm8f0a/shrinkflation_cleaner_finds_huge_35year_old_mars",
+   "title_original": "Shrinkflation: cleaner finds huge 35-year old Mars bar",
+   "source": "r/Anticonsumption",
+   "image": "https://external-preview.redd.it/p-cy5Xu0menjZ01i2geVorUO6HI1jKeYyZAWS984pms.jpeg?width=640&crop=smart&auto=webp&s=e513ab0f73485a93bccaf3ea638ba401440c64ec",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-12T08:39:46+00:00",
+   "title_ja": "35年前のチョコから考える企業の容量削減と価格",
+   "summary_ja": "35年前のチョコレートのサイズと現在の製品を比較し、企業のステルス値上げや容量削減の傾向について疑問を投げかけています。商品の価格据え置きの裏でこっそり量が減らされる実態や、適正価格のあり方について考えさせられる内容です。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "350447c40789978e",
    "url": "https://www.roomie.jp/2026/08/1860879",
    "title_original": "歩くたびやさしい刺激。クロックスの新作クロッグでおしゃれにリカバリー",
@@ -746,6 +1006,22 @@
    "things": [
     "Starlink Mini"
    ],
+   "importance": 3
+  },
+  {
+   "id": "50c2c61bb3cf7965",
+   "url": "https://abema.tv/video/episode/87-263_s311_p1001511",
+   "title_original": "「荒れ果てた家をリセット 一家再生への挑戦」 【BS朝日】ウチ、“断捨離”しました！",
+   "source": "ABEMA",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-12T02:52:19+00:00",
+   "title_ja": "荒れ果てた家をリセット 一家再生への挑戦",
+   "summary_ja": "荒れ果てた家を片付け、家族が新たな生活を取り戻すための断捨離の挑戦を取り上げた番組の放送情報です。ものを手放して暮らしを整えることの難しさと、そこから生まれる再生への過程に焦点を当てています。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -999,6 +1275,22 @@
     "チェルシーブーツ",
     "ブランドストーン"
    ],
+   "importance": 3
+  },
+  {
+   "id": "94eda6ed840ed411",
+   "url": "https://www.reddit.com/r/Anticonsumption/comments/1vlq48a/france_bans_unsolicited_telemarketing_calls",
+   "title_original": "France bans unsolicited telemarketing calls",
+   "source": "r/Anticonsumption",
+   "image": "https://external-preview.redd.it/TqKwYfcAHTgpH1Q47H4FAjnYsAKcdiGAONsiIV8Y7rQ.jpeg?width=640&crop=smart&auto=webp&s=559728032bfbd5063efa75495abc9885a53c4e94",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-11T18:42:58+00:00",
+   "title_ja": "フランスにおける迷惑なテレアポ電話の全面禁止",
+   "summary_ja": "フランスで迷惑なテレアポ営業の電話が原則禁止されたというニュースです。消費者の平穏な生活を守るための権利として、不要な広告や勧誘を遮断する法的な取り組みについて紹介しています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
