@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-13T16:40:04.857213+09:00",
+ "updated_at": "2026-08-13T22:19:06.323961+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -64,6 +64,10 @@
    "count": 2
   },
   {
+   "name": "フライパン",
+   "count": 2
+  },
+  {
    "name": "ベッド",
    "count": 2
   },
@@ -78,6 +82,8 @@
   "AOL.com",
   "Autoblog",
   "Be More with Less",
+  "FinanceBuzz",
+  "Georgia Asian Times",
   "Infoseek",
   "Livingetc",
   "MonoMax",
@@ -90,6 +96,7 @@
   "The Minimalists",
   "The Simplicity Habit",
   "The Spruce",
+  "The Times of India",
   "WEBザテレビジョン",
   "Woman & Home",
   "Yahoo!ニュース",
@@ -110,6 +117,7 @@
   "むぎの頑張らない暮らし",
   "やましたひでこ断捨離",
   "ウォーカープラス",
+  "ウレぴあ総研",
   "ミニマリスト Nozomi",
   "ミニマリストK",
   "ミニマリストじゅん",
@@ -120,8 +128,236 @@
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 130,
+ "count": 143,
  "items": [
+  {
+   "id": "6254b97a63fbbbb5",
+   "url": "https://www.roomie.jp/2026/08/1860597",
+   "title_original": "飛行機移動の荷造りが激変！「タダモノじゃない測り」のおかげで空港でバタバタしなくなった",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/20260810_LS-108BK_00401.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-13T13:00:02+00:00",
+   "title_ja": "荷物の重さとサイズを両方測れるコンパクトなラゲッジスケールの話",
+   "summary_ja": "飛行機の預け入れ荷物や発送用段ボールの重量・サイズを計測できるドリテックのラゲッジスケールを紹介。手のひらサイズで持ち運びやすく、旅や荷造り時のサイズオーバーや空港での焦りを解消してくれる。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "ラゲッジスケール",
+    "重量計"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "fc6717bdd25e5970",
+   "url": "https://www.lifehacker.jp/article/2608-android-tablet-chromebook-setup",
+   "title_original": "AndroidタブレットをChromebook化！仕事のメイン機に変える5つのステップ",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/03/17/89ce9977-8379-4bd4-9e0f-8b59d02b4be7/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-13T13:00:00+00:00",
+   "title_ja": "AndroidタブレットをPC化して軽量な仕事環境を作る5つの手順",
+   "summary_ja": "Androidタブレットに物理キーボード接続や画面分割などを設定し、Chromebookのような仕事道具に変える手順を解説。持ち物を増やさずに、出張や移動中の作業を快適にするモバイルワーク環境の作り方を紹介している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "Androidタブレット",
+    "物理キーボード"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "3d91bc35da0a08e5",
+   "url": "https://www.lifehacker.jp/article/2608-use-the-five-second-rule-to-declutter-faster",
+   "title_original": "部屋が散らかりがちなあなたに。片付けが捗る「5秒ルール」「20/20ルール」が役立つかも",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/10/67ab1533-7070-4015-9a9b-606c8d47b114/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-13T12:45:00+00:00",
+   "title_ja": "片付けの決断力を高める「5秒ルール」と「20/20ルール」の実践",
+   "summary_ja": "部屋の片付けで残すか捨てるか迷う人向けに、決断力を高める5秒ルールとミニマリストが実践する20/20ルールを解説。迷いを減らして不要な物をスムーズに手放し、モノと思考をすっきり整えるための整理術を紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "71bfff22e1f9fc10",
+   "url": "https://gasiantimes.com/lifestyle/2026/08/13/doing-housework-can-declutter-your-home-and-your-mind-as-well",
+   "title_original": "Doing housework can declutter your home, and your mind as well",
+   "source": "Georgia Asian Times",
+   "image": "https://gasiantimes.com/wp-content/uploads/2026/08/monks-declutter-copy.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-13T12:37:05+00:00",
+   "title_ja": "家事をこなすことで住まいと心を同時に整えられるという考え方",
+   "summary_ja": "日常の家事を行うことが、家の中を片付けるだけでなく自分の心の整理にも繋がるという内容のニュース。記事の抜粋がないため、見出しから確実に言える事実のみをまとめている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "0cdb003ef64f2183",
+   "url": "https://www.roomie.jp/2026/08/1862473",
+   "title_original": "脱・自販機！ ハイドロフラスクの「真空断熱ボトル」は、持ち歩き最強の200mlサイズが正解だった",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/ogmax_20260812-16.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-13T12:00:01+00:00",
+   "title_ja": "外出時の自販機利用を減らす、200mlのミニボトル",
+   "summary_ja": "ちょっとした外出時に自動販売機で飲み物を買ってしまう習慣を改善するため、ハイドロフラスクの200mlミニボトルを導入した話。手軽に持ち出せるハンドル付きの真空断熱ボトルで、無駄な出費を減らし水分補給を快適にする。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "真空断熱ボトル"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "173668c0747b2994",
+   "url": "https://www.roomie.jp/2026/08/1863041",
+   "title_original": "拭き直す手間も減らせる。愛車も家の鏡も、スッとクリアになる拭き取りパッド",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/image_001_f3ab4c59_thumbnail.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-13T11:45:39+00:00",
+   "title_ja": "窓や鏡の拭き直しを減らし、手間を省く拭き取りパッド",
+   "summary_ja": "車の窓や自宅の鏡を拭いた後に残るスジや、乾拭きの手間を減らしてくれる拭き取りパッド「カーボンイレイサー」の紹介。高密度カーボン生地と吸水パッドが水分や汚れをしっかりキャッチし、一度でクリアに仕上げることができる。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "カーボンイレイサー",
+    "拭き取りパッド"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ab17b6b5c35f41ee",
+   "url": "https://www.lifehacker.jp/article/machi-ya-diamondicefog-additional-962088",
+   "title_original": "氷も保冷剤もいらない卓上冷風扇。でも、入れる水の温度で届く風は変わります",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/12/2bd50f73-6a8a-4d52-b78b-23b0124c5d39/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-13T11:45:00+00:00",
+   "title_ja": "氷も保冷剤も不要で、水の温度で風が変わる卓上冷風扇",
+   "summary_ja": "氷や保冷剤を準備する手間がいらない、便利な卓上冷風扇についての記事。本体に入れる水の温度によって届く風の冷たさがどのように変化するのか、その特徴を解説している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "卓上冷風扇"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "aa21c35e5a4c1fc4",
+   "url": "https://www.roomie.jp/2026/08/1857686",
+   "title_original": "変形サイズにも対応！紀伊國屋書店の「本のためのポーチ」で積読を気軽に持ち出せるようになった",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/original.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-13T11:30:45+00:00",
+   "title_ja": "紀伊國屋書店のポーチで本を安全に持ち歩く",
+   "summary_ja": "変形サイズの本にも対応する紀伊國屋書店のポーチを使って、外出先への読書用書籍の持ち運びが気軽になった。水滴や汚れから本を守りながら、いつでもどこでも読書を楽しめる環境を整えている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "本のためのポーチ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "91efa6e932e029cb",
+   "url": "https://www.reddit.com/r/simpleliving/comments/1vn7nd6/rabat_morocco_taking_a_break_from_the_office_very",
+   "title_original": "Rabat, Morocco. Taking a break from the office, very simple, really relaxing; free. Good day everyone",
+   "source": "r/simpleliving",
+   "image": "https://preview.redd.it/9ljgk40ck4jh1.jpg?width=140&height=105&auto=webp&s=cf139a8381ef2bd5c503e171070e9d4c65250c60",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-13T11:07:42+00:00",
+   "title_ja": "オフィスから離れてシンプルな休息を取る話",
+   "summary_ja": "日々の仕事から離れ、モロッコのラバトでシンプルかつリラックスした時間を過ごしたという報告。お金をかけずに心を休める、ミニマルな休息のあり方を伝えている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "33dd71f0fcde222a",
+   "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zeenat-aman-house-inside-the-veteran-actors-serene-and-minimalist-mumbai-home-filled-with-natural-light-greenery-white-interiors-floral-accents-and-cosy-family-spaces/articleshow/133206229.cms",
+   "title_original": "Zeenat Aman house: Inside the veteran actor’s serene and minimalist Mumbai home filled with natural light",
+   "source": "The Times of India",
+   "image": "https://static.toiimg.com/thumb/msid-133207345,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-13T11:06:00+00:00",
+   "title_ja": "自然光に満ちたミニマルな自宅を紹介",
+   "summary_ja": "インドの俳優ジーナット・アマンのムンバイにある自宅を紹介。自然光がたっぷり入り、静けさに満ちたミニマルな空間で穏やかな暮らしを送っている様子が伝わる。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "d09a0e75f75eaaba",
+   "url": "https://monomax.jp/archives/354559",
+   "title_original": "【2026年買ってよかったモノ筆頭】デュアルレンズ初搭載！DJI「Osmo Pocket 4P」が凄すぎた。最高峰ジンバルカメラで動画撮影が激変／編集長『コレ買いです』Vol.174",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2026/08/046805a.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-13T09:00:11+00:00",
+   "title_ja": "デュアルレンズ搭載のジンバルカメラを使って感動した人の話",
+   "summary_ja": "DJIのジンバルカメラであるOsmo Pocket 4Pを実際に使用し、買ってよかったモノとして紹介しています。デュアルレンズを初搭載したことで、動画撮影の体験が劇的に変化した様子や、その高い性能についてレポートしています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "Osmo Pocket 4P",
+    "ジンバルカメラ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "13ca2c95cdf0ec6e",
+   "url": "https://financebuzz.com/news/ikea-products-home-organizers-swear-by-4",
+   "title_original": "13 IKEA Organizing Finds Experts Use to Declutter Their Space",
+   "source": "FinanceBuzz",
+   "image": "https://cdn.financebuzz.com/images/2026/04/20/ikea-storefront-white-pegboard.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-13T09:00:00+00:00",
+   "title_ja": "専門家が部屋を片付けるために愛用するイケアの整理グッズ",
+   "summary_ja": "部屋の片付けや整理整頓の専門家たちが、空間をすっきりと整えるために活用しているイケアの整理アイテムを13個紹介しています。見出し情報から、専門家がデクラッター（片付け）のためにどのような道具を取り入れているかが分かります。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "7d04b98f5968452d",
+   "url": "https://ure.pia.co.jp/articles/-/3402428",
+   "title_original": "キッチンにフライパンはたった1つ。旅好きな元マキシマリストが見つけた、“手放すだけじゃないミニマリズム”",
+   "source": "ウレぴあ総研",
+   "image": "https://urepia.ismcdn.jp/mwimgs/2/7/1200w/img_27bfd9d381fb8a957dc00efdca18e0ce70372.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-13T08:30:39+00:00",
+   "title_ja": "フライパン1つで暮らす元マキシマリストが語るミニマリズムのあり方",
+   "summary_ja": "旅好きな元マキシマリストが、キッチンのフライパンを1つに絞るなど、単に物を減らすだけではないミニマリズムの考え方に至った経緯を紹介。自分に合う道具を厳選して暮らす工夫が綴られている。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "フライパン"
+   ],
+   "importance": 3
+  },
   {
    "id": "714255c5d8c04f0c",
    "url": "https://news.infoseek.co.jp/article/fudge_395742",
