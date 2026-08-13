@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-13T11:12:01.691414+09:00",
+ "updated_at": "2026-08-13T16:40:04.857213+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,7 +29,7 @@
  "things": [
   {
    "name": "服",
-   "count": 4
+   "count": 5
   },
   {
    "name": "本",
@@ -60,6 +60,14 @@
    "count": 2
   },
   {
+   "name": "ソファ",
+   "count": 2
+  },
+  {
+   "name": "ベッド",
+   "count": 2
+  },
+  {
    "name": "靴",
    "count": 2
   }
@@ -68,8 +76,10 @@
   "ABEMA",
   "AOL.co.uk",
   "AOL.com",
+  "Autoblog",
   "Be More with Less",
   "Infoseek",
+  "Livingetc",
   "MonoMax",
   "Mshale",
   "No Sidebar",
@@ -110,8 +120,58 @@
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 121,
+ "count": 130,
  "items": [
+  {
+   "id": "714255c5d8c04f0c",
+   "url": "https://news.infoseek.co.jp/article/fudge_395742",
+   "title_original": "シンプリストの「服選び」。少ない服で着回す6つのコツ 【暮らしを灯すアイデア集】｜Infoseekニュース",
+   "source": "Infoseek",
+   "image": "https://media.image.infoseek.co.jp/isnews/photos/fudge/fudge_395742_0.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-13T06:30:49+00:00",
+   "title_ja": "少ない服で上手に着回すシンプリストの服選び",
+   "summary_ja": "少ない手持ち服で着回しを楽しむシンプリストが実践している、服選びのコツを解説する記事。無駄に服を増やさず自分に合ったワードローブを作るためのポイントや工夫を紹介している。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4ec21aafef380b32",
+   "url": "https://news.yahoo.co.jp/articles/43d5df1b62ec18a2be42aeadbcfd05e8e5eb89e1",
+   "title_original": "「モノも人間関係も邪魔だと思っていました」…パート月収15万円・友達ゼロの53歳。快適だったはずの“ミニマリスト生活”をやめた理由（THE GOLD ONLINE（ゴールドオンライン））",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00080857-gonline-000-1-view.jpg?exp=10800",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-13T04:00:45+00:00",
+   "title_ja": "行き過ぎたミニマリスト生活をやめた女性の体験談",
+   "summary_ja": "物や人間関係を削ぎ落として快適に過ごしていたはずの53歳女性が、ミニマリスト生活をやめた理由を明かす記事。極端な削減の果てに行き着いた心境の変化や暮らしの見直しについて語る。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "fb1288ce21bd197b",
+   "url": "https://news.yahoo.co.jp/articles/9f1aeb9061740114bef73a48ee8541cb0d1bab29",
+   "title_original": "藤本美貴、片付けない子に容赦無い断捨離 震える子は「今も何も言ってこない」「欲しかったらあなたのお金で買って」",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00000064-dal-000-3-view.jpg?exp=10800",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-13T03:29:26+00:00",
+   "title_ja": "片付けない子供の物を容赦なく断捨離する理由と家庭ルールの話",
+   "summary_ja": "藤本美貴氏が、片付けをしない子供の物を容赦なく断捨離したエピソード。手放した後に子供から何も言ってこない様子や、本当に欲しい物は自分のお金で買い直させるという家庭内のルールや考え方を語っている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "d40b18bf885615c8",
    "url": "https://minimalist-fudeko.com/reduce-charging-cords-with-ai",
@@ -200,6 +260,22 @@
    "importance": 3
   },
   {
+   "id": "5916ecde830da2ab",
+   "url": "https://www.youtube.com/watch?v=RzKKnhHg3lo",
+   "title_original": "なぜ、モノを捨てても人生が変わらないのか？",
+   "source": "やましたひでこ断捨離",
+   "image": "https://i3.ytimg.com/vi/RzKKnhHg3lo/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-12T22:00:25+00:00",
+   "title_ja": "モノを捨てても人生が変わらない理由を考える断捨離講義",
+   "summary_ja": "モノを減らすだけでなく、その先にある気づきや考え方を学ぶための断捨離講義を紹介。やましたひでこの考え方が詰まったプログラムを通して、片づけや捨てることの本質を理解し、人生に変化をもたらすためのヒントを学ぶことができる。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "2dd8d863c4cc9122",
    "url": "https://www.roomie.jp/2026/08/1835444",
    "title_original": "ユニクロ「ウルトラストレッチアクティブワイドパンツ」を夫婦で愛用中。夏はこれだけ穿いていたい",
@@ -216,6 +292,44 @@
     "ウルトラストレッチアクティブワイドパンツ"
    ],
    "importance": 3
+  },
+  {
+   "id": "a20d53bbd72722c4",
+   "url": "https://www.autoblog.com/deals/petscosset-outdoor-storage-cabinet-walmart-sale",
+   "title_original": "Declutter Your Backyard With Walmart's ‘Well-Made’ Outdoor Storage Cabinet That’s Now 52% Off",
+   "source": "Autoblog",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-12T20:45:00+00:00",
+   "title_ja": "裏庭をすっきり片づける屋外用収納キャビネット",
+   "summary_ja": "裏庭を整理整頓してすっきりさせるために役立つ、ウォルマートの屋外用収納キャビネットを紹介する。散らかりがちな屋外のスペースを片づけ、簡素で整った暮らしの環境を作るための収納アイデアを提案している。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "収納キャビネット"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "f63dc23673fd77a5",
+   "url": "https://www.reddit.com/r/onebag/comments/1vmnag0/tired_of_switching_bags_all_the_time",
+   "title_original": "Tired of switching bags all the time..",
+   "source": "r/onebag",
+   "image": "https://preview.redd.it/xdfmmvyqrzih1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=1568b9ca67fb328a64f7ddfcda509b9798019895",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-12T19:00:19+00:00",
+   "title_ja": "毎日バッグを替える手間に悩みモジュール式を検討する人の話",
+   "summary_ja": "普段使いのバックパックに荷物が少ないと、ポケットが垂れて持ちにくくなる悩みを綴る。バッグをスリングに替える手間を省くため、取り外し可能なポケットがショルダーバッグにもなるような、モジュール式の収納機能に解決策を見出そうとしている。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "Bellroy Lite Daypack",
+    "財布",
+    "鍵"
+   ],
+   "importance": 4
   },
   {
    "id": "d76355ef17981e40",
@@ -436,6 +550,24 @@
    "importance": 3
   },
   {
+   "id": "c1ee772cbf81877f",
+   "url": "https://www.autoevolution.com/news/dune-is-a-beautiful-park-model-tiny-home-with-a-spacious-layout-and-residential-amenities-274090.html",
+   "title_original": "Dune Is a Beautiful Park Model Tiny Home With a Spacious Layout and Residential Amenities",
+   "source": "autoevolution",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-12T13:59:51+00:00",
+   "title_ja": "広々とした間取りと設備を備えた美しいタイニーホーム「Dune」",
+   "summary_ja": "広々としたレイアウトと住宅用のアメニティを備えた、パークモデルの美しいタイニーホーム「Dune」を紹介。限られたスペースの中で快適に暮らすための住まいの形を提案している。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "タイニーホーム"
+   ],
+   "importance": 3
+  },
+  {
    "id": "3baa50c6b7ab50fa",
    "url": "https://mshale.com/7ea40a30/b1a518f5FTEcAlozawEGI1k",
    "title_original": "Apple Watchを3回手放した男が、またULTRA初代を買った理由（2025） Wilco Kelderman (iuRixthMbu)",
@@ -490,6 +622,22 @@
     "ボイスレコーダー"
    ],
    "importance": 3
+  },
+  {
+   "id": "a31ce551a5b052df",
+   "url": "https://news.yahoo.co.jp/articles/504b24a3d7d12eb4e1f7d511acdabcb3200f051f/images/001",
+   "title_original": "実家の押し入れが「ゴミ置き場」になっているかも。“断捨離”3ステップですっきり：やましたひでこさん直伝 (ESSE-online)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3h9uiCojScY7SLYgxmEygY1Zd6ylWM4bnnOlsLaHRdQuHM_HR8SNYUpM6yjYI9OJWpptQK1arrsENiP2-yen-UwqzJ4o6IFUkogu08lXT51Bd64fcgYaY4u9QAoiE0lZx",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-12T13:01:21+00:00",
+   "title_ja": "実家の押し入れをすっきりさせる、やましたひでこさん直伝の断捨離3ステップ",
+   "summary_ja": "実家の押し入れが不要なもので埋まってしまうのを防ぐため、やましたひでこさんが提唱する断捨離の3ステップを紹介。順を追って片づけることで、押し入れをすっきりと整理する方法を解説している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
   },
   {
    "id": "f5deb9d674cfd012",
@@ -1665,6 +1813,25 @@
    "axis": "reduce",
    "things": [],
    "importance": 4
+  },
+  {
+   "id": "a40675c0733b0f09",
+   "url": "https://www.livingetc.com/shopping/west-elm-banks-trundle-sofa-bed",
+   "title_original": "This 'Double-Stacked' Trundle Sofa Pulls Out So Quickly and Turns Into a Generous King-Size Bed",
+   "source": "Livingetc",
+   "image": "https://cdn.mos.cms.futurecdn.net/KTHHYkczeAPm3umYTu6C8S-1920-80.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-11T04:09:32+00:00",
+   "title_ja": "素早くキングサイズベッドに変形する多機能ソファの紹介",
+   "summary_ja": "引き出すだけで簡単にキングサイズのベッドへと姿を変える、2段重ねのトランドルソファを紹介する記事。1台でソファと広々としたベッドの2つの機能を兼ね備えており、部屋のスペースを節約してシンプルに暮らしたい人に適した家具となっている。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "ソファ",
+    "ベッド"
+   ],
+   "importance": 3
   },
   {
    "id": "09017a7a76cb30cf",
