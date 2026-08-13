@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-13T22:19:06.323961+09:00",
+ "updated_at": "2026-08-14T04:08:01.625230+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,7 +29,11 @@
  "things": [
   {
    "name": "服",
-   "count": 5
+   "count": 6
+  },
+  {
+   "name": "バッグ",
+   "count": 4
   },
   {
    "name": "本",
@@ -40,11 +44,11 @@
    "count": 3
   },
   {
-   "name": "バックパック",
+   "name": "ソファ",
    "count": 3
   },
   {
-   "name": "バッグ",
+   "name": "バックパック",
    "count": 3
   },
   {
@@ -57,10 +61,6 @@
   },
   {
    "name": "スーツケース",
-   "count": 2
-  },
-  {
-   "name": "ソファ",
    "count": 2
   },
   {
@@ -82,6 +82,7 @@
   "AOL.com",
   "Autoblog",
   "Be More with Less",
+  "Better Homes & Gardens",
   "FinanceBuzz",
   "Georgia Asian Times",
   "Infoseek",
@@ -91,8 +92,10 @@
   "No Sidebar",
   "Psychology Today",
   "ROOMIE",
+  "Raptitude",
   "Real Simple",
   "Southern Living",
+  "The Minimal Mom",
   "The Minimalists",
   "The Simplicity Habit",
   "The Spruce",
@@ -128,8 +131,91 @@
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 143,
+ "count": 150,
  "items": [
+  {
+   "id": "dc3844cf6a9123d3",
+   "url": "https://www.youtube.com/watch?v=Y1lNZz8I7RA",
+   "title_original": "Would you declutter this for $1000?",
+   "source": "The Minimal Mom",
+   "image": "https://i2.ytimg.com/vi/Y1lNZz8I7RA/hqdefault.jpg",
+   "media": "youtube",
+   "region": "海外",
+   "published": "2026-08-13T17:32:51+00:00",
+   "title_ja": "1000ドルもらえるなら手放すかという問いから始める片付け",
+   "summary_ja": "「もし1000ドルもらえるならこれを手放すか」という問いかけを通して、片付けのモチベーションを高める方法を提案する。家を管理し片付けを進めるための考え方や、物を手放す基準について紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "e39d32299f1e63a6",
+   "url": "https://www.raptitude.com/2026/08/how-to-look-the-sky-in-the-face",
+   "title_original": "How to Look the Sky in the Face",
+   "source": "Raptitude",
+   "image": "https://www.raptitude.com/wp-content/uploads/2026/08/cloud-far-below-2.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-08-13T16:01:56+00:00",
+   "title_ja": "芝生に寝転がって空を見上げるシンプルな時間の過ごし方",
+   "summary_ja": "友人に誘われて公園の芝生に寝転がり、空を見上げる体験をした著者のエピソード。普段は夜寝る時以外に横になることをためらう著者が、何もしない時間やシンプルな暮らしの豊かさに気づかされる様子を描く。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "223acd45e570c74c",
+   "url": "https://www.reddit.com/r/minimalism/comments/1vnczr7/recommendations_for_declutteringminimalism_in_a",
+   "title_original": "Recommendations for decluttering/minimalism in a small space?",
+   "source": "r/minimalism",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-13T14:54:49+00:00",
+   "title_ja": "実家の狭い一室で赤ちゃんを迎えるための片付けのアイデア",
+   "summary_ja": "現在、家を建築中で実家の子ども部屋に夫婦で同居している投稿者が、生まれてくる赤ちゃんのためのスペースを作る方法を相談。家具や荷物が多く収納が狭い部屋で、不要なものを手放してベビーベッドを置くための片付けのアイデアを求めている。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "家具",
+    "ベビーベッド"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e46ffd903236854b",
+   "url": "https://www.southernliving.com/how-to-declutter-bedroom-12037206",
+   "title_original": "10 Decluttering Tips That Can Make Your Bedroom Feel Instantly Calmer",
+   "source": "Southern Living",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-13T14:25:00+00:00",
+   "title_ja": "寝室をすぐに落ち着ける空間にするための10の片付けのコツ",
+   "summary_ja": "寝室を穏やかで居心地の良い空間にするための、10個の片付けのヒントを紹介する。不要なものを減らして部屋を整えることで、心身ともにリラックスできる寝室づくりを目指すためのアイデアがまとめられている。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "7819167b30c81743",
+   "url": "https://www.youtube.com/shorts/6x90rotvQDY",
+   "title_original": "What does real life look like? h/t: James Sexton",
+   "source": "The Minimalists",
+   "image": "https://i3.ytimg.com/vi/6x90rotvQDY/hqdefault.jpg",
+   "media": "youtube",
+   "region": "海外",
+   "published": "2026-08-13T14:01:45+00:00",
+   "title_ja": "離婚弁護士の視点から考える本当に大切な人生のあり方",
+   "summary_ja": "ミニマリストのポッドキャストに登場したゲストの視点を通して、現実の人生や人間関係のあり方について問い直す。何が本当に重要なのかを見極め、暮らしや心をシンプルに整えるためのヒントを提示している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "6254b97a63fbbbb5",
    "url": "https://www.roomie.jp/2026/08/1860597",
@@ -698,6 +784,25 @@
    "category": "心・習慣",
    "axis": "reduce",
    "things": [],
+   "importance": 3
+  },
+  {
+   "id": "fed172c7c0e5573e",
+   "url": "https://www.reddit.com/r/onebag/comments/1vmh8uf/how_do_you_handle_a_work_trip_that_needs_real",
+   "title_original": "How do you handle a work trip that needs real clothes without adding a second bag?",
+   "source": "r/onebag",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-12T15:24:40+00:00",
+   "title_ja": "ワンバッグ出張でシワにならない仕事着の持ち運び方に悩む人の話",
+   "summary_ja": "プライベートではワンバッグ旅行をこなす投稿者が、5日間の出張中にある会議用の服をシワにせず持ち運ぶ方法を相談。手持ちのフォーマルな服はパッキングするとシワになってしまうため、バッグを増やさずにスマートに解決するアイデアを求めている。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "バッグ",
+    "服"
+   ],
    "importance": 3
   },
   {
@@ -2375,6 +2480,24 @@
    "axis": "reduce",
    "things": [],
    "importance": 2
+  },
+  {
+   "id": "d7d5c12e759a6929",
+   "url": "https://www.bhg.com/sofa-styles-to-skip-12023103",
+   "title_original": "5 Sofa Styles Designers Say Can Make Your Home Look Dated",
+   "source": "Better Homes & Gardens",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-10T07:00:00+00:00",
+   "title_ja": "部屋を古臭い印象にしてしまうソファの5つのスタイルを挙げた記事",
+   "summary_ja": "自宅のインテリアを古臭い印象にしてしまう5つのソファのスタイルについて、デザイナーの視点から解説している。部屋の雰囲気を損なわないための家具選びや、インテリアをアップデートする際の参考になる情報を紹介する。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "ソファ"
+   ],
+   "importance": 3
   },
   {
    "id": "e49584fa8021c90a",
