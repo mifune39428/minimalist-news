@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-14T11:10:07.317528+09:00",
+ "updated_at": "2026-08-14T16:30:10.730878+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,11 +29,11 @@
  "things": [
   {
    "name": "服",
-   "count": 6
+   "count": 7
   },
   {
    "name": "スマホ",
-   "count": 4
+   "count": 5
   },
   {
    "name": "バックパック",
@@ -68,6 +68,10 @@
    "count": 2
   },
   {
+   "name": "ノートPC",
+   "count": 2
+  },
+  {
    "name": "フライパン",
    "count": 2
   },
@@ -91,6 +95,7 @@
   "Autoblog",
   "Be More with Less",
   "Better Homes & Gardens",
+  "Country Living Magazine",
   "FinanceBuzz",
   "Georgia Asian Times",
   "Ideal Home",
@@ -105,6 +110,7 @@
   "ROOMIE（ルーミー）",
   "Raptitude",
   "Real Simple",
+  "Simple Lionheart Life",
   "Southern Living",
   "The Minimal Mom",
   "The Minimalists",
@@ -113,12 +119,14 @@
   "The Times of India",
   "WEBザテレビジョン",
   "Woman & Home",
+  "Yahoo Lifestyle Singapore",
   "Yahoo!ニュース",
   "autoevolution",
   "bs-asahi.co.jp",
   "facebook.com",
   "livingetc.com",
   "mshale.com",
+  "nine.com.au",
   "note.com",
   "r/Anticonsumption",
   "r/BuyItForLife",
@@ -139,11 +147,81 @@
   "ライブドアニュース",
   "レイの小さな暮らし",
   "小さな暮らしノート",
+  "山陽新聞",
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 165,
+ "count": 177,
  "items": [
+  {
+   "id": "d6d73d5e0b0ce982",
+   "url": "https://www.countryliving.com/uk/homes-interiors/interiors/a73399121/autumn-declutter",
+   "title_original": "7 clutter hotspots to tackle before autumn for a calmer home, from the hallway to the junk drawer",
+   "source": "Country Living Magazine",
+   "image": "https://hips.hearstapps.com/hmg-prod/images/52f982ff-b33e-40a1-a298-876b0318537c.jpg?crop=1.00xw:0.752xh;0,0.233xh&resize=1200:*",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-14T06:40:02+00:00",
+   "title_ja": "秋を迎える前に整理しておきたい家の中の7つの散らかり場所",
+   "summary_ja": "穏やかな住まいを実現するために、秋が来る前に片づけておきたい玄関や雑多な引き出しなど、家の中で物が溜まりやすい7箇所について取り上げた記事。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "d94f31f5795ff472",
+   "url": "https://www.nine.com.au/shopping/living/decluttering-tips-home-organisation-expert-anita-birges-recommendations-to-shop-20260807-p60mi8.html",
+   "title_original": "A home organisation expert on the products essential to decluttering around the home",
+   "source": "nine.com.au",
+   "image": "https://static.ffx.io/images/$zoom_0.8277%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/21b21bc3470f65b2e80233108d200838630ac4c3783035956915c27e48dd2aa5",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-14T04:46:51+00:00",
+   "title_ja": "片づけの専門家が教える家を整える必須アイテム",
+   "summary_ja": "住まいの整理整頓を手掛ける専門家が、家の中の物を減らして部屋をすっきりと片づけるために欠かせない必須アイテムを紹介している。住環境を効率よく整えたいときに役立つ視点がまとめられている。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "5415d945576684a9",
+   "url": "https://mshale.com/0a8e7723/823c59a1AT4SKQs1XVBcAg4",
+   "title_original": "🤍 Our Reset Day As A Family Of 3 🌤️🌯 Chipotle Run, Decluttering, Curtains + Love Island Talk! Santé (yMYnZKVR70)",
+   "source": "Mshale",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-14T03:39:27+00:00",
+   "title_ja": "3人家族が片づけや家整備を行う休日の過ごし方",
+   "summary_ja": "3人家族が休日に行った自宅の片づけやカーテンの調整、外食などを通して、暮らしをリセットする1日の過ごし方が紹介されている。家庭内で心地よい空間を作るための身近な工夫が描かれている。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [
+    "カーテン"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "0acf47192978f118",
+   "url": "https://www.lifehacker.jp/article/c520-minicamera-review",
+   "title_original": "写りは平成のガラケー。なのに手放せなくなったミニカメラ",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/13/195c99b6-2f76-4eb5-ab5d-ebb970a4ea27/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-14T02:45:00+00:00",
+   "title_ja": "あえてスマホではなく小さなトイカメラを持ち歩く理由",
+   "summary_ja": "手のひらサイズのトイカメラ「C520 ミニデジタルカメラ」を愛用する理由についての記事。失敗のないスマホカメラとは異なり、色ブレや画質の粗さを含めた偶然の1枚を楽しめる道具としての魅力が語られている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "C520 ミニデジタルカメラ",
+    "スマホ"
+   ],
+   "importance": 3
+  },
   {
    "id": "ce7dd601857a6404",
    "url": "https://www.lifehacker.jp/article/machi-ya-toughlitetote-review2-959633",
@@ -253,6 +331,77 @@
    "importance": 3
   },
   {
+   "id": "2021acf44707303c",
+   "url": "https://www.reddit.com/r/onebag/comments/1vnppg1/onebag_vs_hikingcity_sightseeing",
+   "title_original": "Onebag vs hiking/city sightseeing",
+   "source": "r/onebag",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-13T22:39:48+00:00",
+   "title_ja": "1つのリュックで旅する際のバッグ選びと旅先での使い勝手",
+   "summary_ja": "荷物を1つにまとめる旅で人気の四角いバックパックは、空港などの移動には便利だが現地での長距離散策や仕事用には使いにくいと感じる旅行者の意見。移動時だけでなく滞在先での移動や用途も考慮したバッグ選びの重要性を伝えている。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "Osprey 26+6",
+    "Tomtoc T66",
+    "ノートPC"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ee54d762945477df",
+   "url": "https://www.youtube.com/shorts/1f5ujWUcvnQ",
+   "title_original": "来客に「異常」と言われた、我が家の掃除事情",
+   "source": "小さな暮らしノート",
+   "image": "https://i2.ytimg.com/vi/1f5ujWUcvnQ/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-13T22:29:32+00:00",
+   "title_ja": "休日に掃除をしないために平日に少しずつ整える暮らし方",
+   "summary_ja": "日曜日にまとめて掃除するのをやめ、金曜日から分散して掃除を済ませる工夫を紹介。持ち物を少なくすることで掃除をする場所や手間を減らし、休日は子どもとゆっくり過ごせる時間を優先している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "fd40f84ae4eaa307",
+   "url": "https://www.reddit.com/r/simpleliving/comments/1vnn3py/whats_a_life_change_you_did_to_your_mornings_that",
+   "title_original": "What's a life change you did to your mornings that is uncommon?",
+   "source": "r/simpleliving",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-13T20:56:42+00:00",
+   "title_ja": "朝の時間を快適にするために試した珍しい習慣についての問いかけ",
+   "summary_ja": "朝の時間を静かに過ごすことやお茶を飲むことといった定番の工夫以外で、暮らしを良くするために取り入れた珍しい朝の習慣や生活の変化について意見を募っている投稿。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "お茶",
+    "コーヒー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "dbc24da24779566f",
+   "url": "https://www.sanyonews.jp/article/1902837?kw=%E9%A3%9E%E6%9C%BA%E5%8F%B7%E5%A6%82%E4%BD%95%E8%8E%B7%E5%AE%A2%E2%9C%94%EF%B8%8F+rigebi.com+%E2%AD%90++%E5%BE%AE%E5%8D%9A%E8%AE%A4%E8%AF%81%E5%8F%B7%E5%90%B8%E7%B2%89%E5%BF%85%E5%A4%87",
+   "title_original": "杉浦太陽、5人目の誕生を機に“規格外”の断捨離「売りました！」 明石家さんまも感嘆",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/a/7/0/0/a700a4a9daf9cb2558748597380811df_1.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-13T20:34:06+00:00",
+   "title_ja": "5人目の子ども誕生を機に大規模な断捨離を行った話",
+   "summary_ja": "杉浦太陽氏が5人目の子どもが生まれるタイミングを機に、大規模な断捨離をして物を売却したエピソード。家族が増える節目で不要な物を一気に手放した実例が語られている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
    "id": "795a9e95db136ab6",
    "url": "https://www.rfdtv.com/aarp-live-decluttering-for-today-and-tomorrow",
    "title_original": "AARP LIVE: Decluttering for Today and Tomorrow",
@@ -299,6 +448,24 @@
    "axis": "reduce",
    "things": [],
    "importance": 2
+  },
+  {
+   "id": "7754acc127c2a0c0",
+   "url": "https://sg.style.yahoo.com/12-closet-items-toss-asap-160000585.html",
+   "title_original": "12 Closet Items You Should Toss ASAP, According to Professional Organizers",
+   "source": "Yahoo Lifestyle Singapore",
+   "image": "https://s.yimg.com/lo/mysterio/api/a72fc59107ac1229608069164973108a0dcedbffd3fd090ed927d994f3591b00/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhouse_beautiful_336%2Fead21caad546a98524624473b37a51f3.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-13T16:00:00+00:00",
+   "title_ja": "整理のプロが教えるクローゼットからすぐ捨てるべき12個のアイテム",
+   "summary_ja": "プロの整理アドバイザーが薦める、クローゼットからすぐに処分すべき12のアイテムについて解説した記事。服を減らす判断基準や効率的な整理方法が紹介されている。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 3
   },
   {
    "id": "655742fa5631acc2",
@@ -742,6 +909,54 @@
    "published": "2026-08-13T03:29:26+00:00",
    "title_ja": "片付けない子供の物を容赦なく断捨離する理由と家庭ルールの話",
    "summary_ja": "藤本美貴氏が、片付けをしない子供の物を容赦なく断捨離したエピソード。手放した後に子供から何も言ってこない様子や、本当に欲しい物は自分のお金で買い直させるという家庭内のルールや考え方を語っている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "c855b4a1a54063f4",
+   "url": "https://simplelionheartlife.com/steps-to-declutter",
+   "title_original": "10 Easy Steps to Declutter Your Home When You’re Just Getting Started",
+   "source": "Simple Lionheart Life",
+   "image": "https://simplelionheartlife.com/wp-content/uploads/2022/05/11-Easy-Steps-to-Declutter-Your-Home-When-Youre-Just-Getting-Started-3-683x1024.png",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-08-13T02:20:12+00:00",
+   "title_ja": "片づけをゼロから始める人が家を整えるための10のステップ",
+   "summary_ja": "物が増えてしまった家を整理したい初心者や、再び片づけを始めたい人に向けて、焦らず着実に住まいをシンプルにしていくための10の簡単なステップを解説している記事です。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "ba34cd8c8146de8c",
+   "url": "https://simplelionheartlife.com/how-to-decide-what-to-get-rid-of",
+   "title_original": "Declutter with Confidence & Clarity: How to decide what to get rid of",
+   "source": "Simple Lionheart Life",
+   "image": "https://simplelionheartlife.com/wp-content/uploads/2022/05/Declutter-with-Confidence-Clarity-How-to-decide-what-to-get-rid-of-3-1-683x1024.png",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-08-13T02:19:34+00:00",
+   "title_ja": "片づけで手放す物を迷わずに決断するための問いかけと判断基準",
+   "summary_ja": "物を減らす際に何を残して何を捨てるかをスムーズに決めるための質問や判断基準を紹介しています。自信と確信を持って片づけの決断を下し、住まいをシンプルにするための方法を提示しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "dc04cc0c450d08d9",
+   "url": "https://simplelionheartlife.com/why-is-decluttering-so-hard",
+   "title_original": "Why is Decluttering So Hard? 11 of the biggest challenges of decluttering",
+   "source": "Simple Lionheart Life",
+   "image": "https://simplelionheartlife.com/wp-content/uploads/2022/05/Why-is-Decluttering-So-Hard-11-of-the-biggest-challenges-of-decluttering-2-1-683x1024.png",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-08-13T02:15:34+00:00",
+   "title_ja": "片づけが難しく感じる11の理由と課題を乗り越える解決策",
+   "summary_ja": "物を減らす作業がうまくいかない時に直面しやすい11の大きな課題や原因を掘り下げ、それらを克服して片づけの目標を達成するための具体的なアプローチについて解説しています。",
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
