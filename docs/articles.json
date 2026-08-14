@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-14T04:08:01.625230+09:00",
+ "updated_at": "2026-08-14T11:10:07.317528+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -32,6 +32,14 @@
    "count": 6
   },
   {
+   "name": "スマホ",
+   "count": 4
+  },
+  {
+   "name": "バックパック",
+   "count": 4
+  },
+  {
    "name": "バッグ",
    "count": 4
   },
@@ -40,15 +48,7 @@
    "count": 4
   },
   {
-   "name": "スマホ",
-   "count": 3
-  },
-  {
    "name": "ソファ",
-   "count": 3
-  },
-  {
-   "name": "バックパック",
    "count": 3
   },
   {
@@ -57,6 +57,10 @@
   },
   {
    "name": "サングラス",
+   "count": 2
+  },
+  {
+   "name": "スマートフォン",
    "count": 2
   },
   {
@@ -69,6 +73,10 @@
   },
   {
    "name": "ベッド",
+   "count": 2
+  },
+  {
+   "name": "鍵",
    "count": 2
   },
   {
@@ -85,13 +93,16 @@
   "Better Homes & Gardens",
   "FinanceBuzz",
   "Georgia Asian Times",
+  "Ideal Home",
   "Infoseek",
   "Livingetc",
   "MonoMax",
   "Mshale",
   "No Sidebar",
   "Psychology Today",
+  "RFD-TV",
   "ROOMIE",
+  "ROOMIE（ルーミー）",
   "Raptitude",
   "Real Simple",
   "Southern Living",
@@ -131,8 +142,132 @@
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 150,
+ "count": 165,
  "items": [
+  {
+   "id": "ce7dd601857a6404",
+   "url": "https://www.lifehacker.jp/article/machi-ya-toughlitetote-review2-959633",
+   "title_original": "改札の前でもたつかない。肩掛けのまま手が入るトートバッグを使ってみました",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/02/da960589-8d94-4263-bbc9-da4a37fbebe6/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-14T01:30:00+00:00",
+   "title_ja": "肩掛けしたまま鍵やパスケースを取り出せる通勤トートバッグの使用レビュー",
+   "summary_ja": "トートバッグの使いにくさを解消するために作られた通勤用バッグの使用感を紹介。肩に掛けた状態のままでも、鍵やパスケースといった小物をサッと手を入れて取り出せる工夫が施されている。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "トートバッグ",
+    "鍵",
+    "パスケース"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "89956109bf213c8a",
+   "url": "https://www.lifehacker.jp/article/2608-costorypo-clipeus-review1-1483603262",
+   "title_original": "刃物による切り傷や刺し傷のリスクを軽減。一見するとただのタンクトップな防刃シャツ",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/10/224c7287-62e4-4f65-b4c3-ecf1b659df4d/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-13T23:30:00+00:00",
+   "title_ja": "普段着感覚で着られる防刃仕様のインナーシャツ",
+   "summary_ja": "防刃性能を備えながらも普段着として自然に着こなせるタンクトップ型のインナー。伸縮性があり動きやすく、洗濯機で洗えるため日常使いや旅行の備えとして取り入れやすい仕様になっています。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "防刃シャツ"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "cd06df3a71a63a92",
+   "url": "https://mshale.com/efb20e24/aa910a31QBAgkwCP1RI",
+   "title_original": "Rushfaster Travel Backpack Review - Excellent One Bag Travel Contender! Meteo Roma Oggi (Ly6uGELjRm)",
+   "source": "Mshale",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-13T23:12:27+00:00",
+   "title_ja": "旅行向けバックパックの製品レビュー記事",
+   "summary_ja": "旅を身軽にするためのワンバッグトラベル向けバックパックを検証したレビュー記事。旅の荷物を一つにまとめるためのバッグ選びの参考になる内容です。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "バックパック"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "28d9c639c360aa9b",
+   "url": "https://www.roomie.jp/2026/08/1861639",
+   "title_original": "無印良品の399円ポーチをカバンに装着！レジャーで困る「ゴミや濡れもの」に便利だよ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/260216_mujirushiryouhinn_polyethylene-sheet-case_1-scaled-1.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-13T23:00:35+00:00",
+   "title_ja": "無印良品のケースでバッグの中の小物を整理",
+   "summary_ja": "バッグの中で散らかりがちな小物をすっきりと整理するために、無印良品のポリエチレンシートケースを活用している実例。レジャー時のゴミや濡れ物の持ち運びにも便利なアイテムです。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "ポリエチレンシートケース"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "aeb9b269bcba56e3",
+   "url": "https://www.lifehacker.jp/article/2608-book_to_read-2012",
+   "title_original": "【毎日書評】小さな感情のデトックスが、毎日の息苦しさを手放すきっかけになる！",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/13/a4bf2a4e-07d2-42be-a96e-a7f02c946a8f/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-13T23:00:00+00:00",
+   "title_ja": "感情のデトックスで毎日の息苦しさを手放す",
+   "summary_ja": "日々の生活の中で我慢しすぎてしまう気持ちに向き合い、小さな感情のデトックスを行うことで、心の中の息苦しさや負担を手放していくためのメンタルスキルを紹介しています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "6fd54c78f1dec7c8",
+   "url": "https://www.reddit.com/r/minimalism/comments/1vnpx9p/mudita_phone_sucks",
+   "title_original": "Mudita Phone sucks",
+   "source": "r/minimalism",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-13T22:49:01+00:00",
+   "title_ja": "シンプルを求めて買った端末に苦労した話",
+   "summary_ja": "生活をシンプルにしようと特定のコンパクトフォンを導入したものの、通信不良やGPSの不具合などに悩まされ、かえって生活が複雑になってしまった失敗談。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "スマートフォン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "795a9e95db136ab6",
+   "url": "https://www.rfdtv.com/aarp-live-decluttering-for-today-and-tomorrow",
+   "title_original": "AARP LIVE: Decluttering for Today and Tomorrow",
+   "source": "RFD-TV",
+   "image": "https://rfdtv.brightspotgocdn.com/dims4/default/b3da4b0/2147483647/strip/true/crop/1920x1078+0+0/resize/730x410!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-rfdtv.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe4%2F10%2F1bc7138946a4bc134c616c5b20b9%2Faarp-aug-2026-1920x1080.png",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-13T19:45:07+00:00",
+   "title_ja": "将来の暮らしを見据えた片付けをテーマにした番組の紹介",
+   "summary_ja": "アメリカ全米退職者協会（AARP）による、現在と将来の暮らしを快適にするための片付けをテーマにしたライブ番組。これからの生活や老後を見据えて、どのように持ち物を整理し、シンプルに暮らしていくべきかを考えるきっかけを提供する内容となっている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
   {
    "id": "dc3844cf6a9123d3",
    "url": "https://www.youtube.com/watch?v=Y1lNZz8I7RA",
@@ -164,6 +299,24 @@
    "axis": "reduce",
    "things": [],
    "importance": 2
+  },
+  {
+   "id": "655742fa5631acc2",
+   "url": "https://www.reddit.com/r/simpleliving/comments/1vndc77/struggling_with_keeping_in_touch_by_messages",
+   "title_original": "Struggling with keeping in touch by messages",
+   "source": "r/simpleliving",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-13T15:06:41+00:00",
+   "title_ja": "メッセージの返信に疲れスマホに縛られない暮らしを望む人の話",
+   "summary_ja": "友人たちとメッセージで頻繁に連絡を取り合うことに負担を感じている人の悩み。複数人とのやり取りに追われ、スマートフォンや通知に自分の生活が支配されているように感じるため、シンプルで振り回されない人間関係や連絡の取り方を模索している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "スマホ"
+   ],
+   "importance": 3
   },
   {
    "id": "223acd45e570c74c",
@@ -212,6 +365,54 @@
    "title_ja": "離婚弁護士の視点から考える本当に大切な人生のあり方",
    "summary_ja": "ミニマリストのポッドキャストに登場したゲストの視点を通して、現実の人生や人間関係のあり方について問い直す。何が本当に重要なのかを見極め、暮らしや心をシンプルに整えるためのヒントを提示している。",
    "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "4247530c0a2e1c9e",
+   "url": "https://nosidebar.com/purchase",
+   "title_original": "5 Things to Consider Before Making a Purchase",
+   "source": "No Sidebar",
+   "image": "https://nosidebar.com/wp-content/uploads/why-minimalism.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-08-13T14:00:00+00:00",
+   "title_ja": "不要な買い物を防ぐために購入前に考えるべき5つのこと",
+   "summary_ja": "広告や周囲の影響で不要な物を衝動買いしてしまう環境において、本当に必要な物だけを手に入れるために、購入前に自問すべきポイントを提案する記事。物への欲求をコントロールし、シンプルな暮らしを維持するための買い物の考え方を紹介している。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "192bef9e89e6b66a",
+   "url": "https://www.idealhome.co.uk/house-manual/storage-organisation-decluttering/what-is-body-doubling-decluttering",
+   "title_original": "‘Body doubling’ is the psychological hack you need to declutter",
+   "source": "Ideal Home",
+   "image": "https://cdn.mos.cms.futurecdn.net/cz8pF7Zri3croEasfBWyFS-2560-80.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-13T14:00:00+00:00",
+   "title_ja": "片づけを進めるための心理的テクニック「ボディ・ダブリング」",
+   "summary_ja": "誰かと一緒に作業を行う心理的ハックである「ボディ・ダブリング」を活用して、片づけや整理整頓のハードルを乗り越える方法を紹介しています。一人では面倒に感じる作業も、他者の存在を借りることでスムーズに進められるようになるという考え方です。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "0e47c1299329eea1",
+   "url": "https://www.reddit.com/r/simpleliving/comments/1vnau8g/im_tired_of_spending_40_every_time_i_step_out_my",
+   "title_original": "I’m tired of spending $40 every time I step out my front door",
+   "source": "r/simpleliving",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-13T13:32:19+00:00",
+   "title_ja": "外出するたびにかかる出費に疲れた人の暮らしの工夫",
+   "summary_ja": "ちょっと出かけるだけでも駐車場代や入場料、つい買ってしまう飲食物などで毎回大きなお金が消えていく現代の消費社会に疑問を呈しています。お金を使わずに過ごす難しさを実感しながら、外出時の無駄な出費を見直そうとする等身大の悩みです。",
+   "category": "お金・買い方",
    "axis": "reduce",
    "things": [],
    "importance": 3
@@ -285,6 +486,24 @@
    "axis": "reduce",
    "things": [],
    "importance": 2
+  },
+  {
+   "id": "b29df7a1cfb3dde1",
+   "url": "https://www.reddit.com/r/Anticonsumption/comments/1vn9ht4/no_more_conditioner_while_showering",
+   "title_original": "No more conditioner while showering",
+   "source": "r/Anticonsumption",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-13T12:36:10+00:00",
+   "title_ja": "ヘアケアの手順を見直してコンディショナーを手放した話",
+   "summary_ja": "長くて太い髪のために大量のコンディショナーを使い、すすぎにも苦労していた投稿者が、洗い流す製品の常用をやめた話。お風呂上がりに少量の洗い流さないトリートメントとヘアオイルを使う方法に変えたことで、手間の軽減とスッキリ感を実現しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "ヘアオイル"
+   ],
+   "importance": 3
   },
   {
    "id": "0cdb003ef64f2183",
@@ -445,6 +664,24 @@
    "importance": 3
   },
   {
+   "id": "c9bd98e069fcb0fe",
+   "url": "https://www.roomie.jp/2026/08/1857101",
+   "title_original": "ミニマリストなのに立体地図を集める。旅好きライターが見つけた“手放すだけじゃない暮らし”",
+   "source": "ROOMIE（ルーミー）",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/DSC01204-scaled.jpg?w=1200",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-13T08:00:39+00:00",
+   "title_ja": "立体地図を集める旅好きミニマリストの暮らし",
+   "summary_ja": "物を減らすだけではない暮らしを実践し、立体地図を集めている旅好きライターのライフスタイルを紹介する記事です。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "立体地図"
+   ],
+   "importance": 3
+  },
+  {
    "id": "714255c5d8c04f0c",
    "url": "https://news.infoseek.co.jp/article/fudge_395742",
    "title_original": "シンプリストの「服選び」。少ない服で着回す6つのコツ 【暮らしを灯すアイデア集】｜Infoseekニュース",
@@ -461,6 +698,22 @@
     "服"
    ],
    "importance": 3
+  },
+  {
+   "id": "d3aadfd26eee71b1",
+   "url": "https://news.livedoor.com/article/detail/32061860",
+   "title_original": "「モノも人間関係も邪魔だと思っていました」…パート月収15万円・友達ゼロの53歳。快適だったはずの“ミニマリスト生活”をやめた理由",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-13T04:15:00+00:00",
+   "title_ja": "ミニマリスト生活をやめた53歳女性の理由",
+   "summary_ja": "モノも人間関係も邪魔だと思ってミニマリスト生活を送っていた53歳のパート女性が、その生活をやめた理由を語る記事です。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
   },
   {
    "id": "4ec21aafef380b32",
@@ -493,6 +746,22 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
+  },
+  {
+   "id": "bcbac83393909413",
+   "url": "https://www.reddit.com/r/simpleliving/comments/1vmxmrv/whats_something_you_started_appreciating_more_as",
+   "title_original": "What’s something you started appreciating more as you got older?",
+   "source": "r/simpleliving",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-13T02:01:35+00:00",
+   "title_ja": "年齢を重ねてから日常の小さなことに価値を見出す話",
+   "summary_ja": "若い頃は刺激や大きな出来事を求めていましたが、年齢とともに静かな朝や時間に追われない食事など、日常のささやかな瞬間に価値を感じるようになったという投稿です。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
   },
   {
    "id": "d40b18bf885615c8",
