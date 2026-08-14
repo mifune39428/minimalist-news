@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-14T22:13:36.647265+09:00",
+ "updated_at": "2026-08-15T04:00:08.950698+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -48,6 +48,10 @@
    "count": 4
   },
   {
+   "name": "カード",
+   "count": 3
+  },
+  {
    "name": "スーツケース",
    "count": 3
   },
@@ -88,6 +92,10 @@
    "count": 2
   },
   {
+   "name": "財布",
+   "count": 2
+  },
+  {
    "name": "鍵",
    "count": 2
   },
@@ -103,6 +111,7 @@
   "Autoblog",
   "Be More with Less",
   "Better Homes & Gardens",
+  "Bilyonaryo.com",
   "Country Living Magazine",
   "FinanceBuzz",
   "Georgia Asian Times",
@@ -118,6 +127,7 @@
   "ROOMIE（ルーミー）",
   "Raptitude",
   "Real Simple",
+  "Sarah Therese",
   "Simple Lionheart Life",
   "Southern Living",
   "The Minimal Mom",
@@ -142,6 +152,8 @@
   "r/minimalism",
   "r/onebag",
   "r/simpleliving",
+  "southernliving.com",
+  "thespruce.com",
   "うにのゆるシンプルな暮らし",
   "ぴーこ｜ゆるっとミニマルな日常",
   "むぎの頑張らない暮らし",
@@ -160,8 +172,184 @@
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 203,
+ "count": 218,
  "items": [
+  {
+   "id": "eb524c453b736292",
+   "url": "https://www.southernliving.com/hings-organizers-keep-when-decluttering-12026195",
+   "title_original": "6 Things Professional Organizers Never Get Rid Of",
+   "source": "southernliving.com",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-14T17:25:00+00:00",
+   "title_ja": "プロの整理収納アドバイザーが絶対手放さない6つの物",
+   "summary_ja": "プロの整理収納アドバイザーが手放さずに使い続けている6つの物について紹介している。どのような物を残す価値があるのか、プロの視点から学ぶことができる。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "f7de8ac8607e64bc",
+   "url": "https://www.youtube.com/shorts/sbb3wEC3-Vw",
+   "title_original": "What is your version of a rich life? h/t: Jimmy Carr",
+   "source": "The Minimalists",
+   "image": "https://i4.ytimg.com/vi/sbb3wEC3-Vw/hqdefault.jpg",
+   "media": "youtube",
+   "region": "海外",
+   "published": "2026-08-14T17:23:16+00:00",
+   "title_ja": "豊かな人生の定義について考えるミニマリストの視点",
+   "summary_ja": "自分にとっての豊かな人生とは何かを問い直すエピソード。物や時間の使い方を見直し、本当に大切なものに焦点を当てるための考え方について触れている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "d6af68f6639b3125",
+   "url": "https://www.reddit.com/r/simpleliving/comments/1vobiky/what_i_do_every_sunday_night_at_9_pm",
+   "title_original": "What I do every Sunday night at 9 PM",
+   "source": "r/simpleliving",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-14T16:09:44+00:00",
+   "title_ja": "日曜夜のスケジュール管理でストレスを減らす習慣",
+   "summary_ja": "毎週日曜の夜に1週間の予定を書き出し、リストにないことはやらないというルールでストレスを軽減している人の話。計画的な時間の使い方が紹介されている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "3ff85e0591a2e02d",
+   "url": "https://www.thespruce.com/quick-fall-decluttering-habits-12030465",
+   "title_original": "6 Quick Decluttering Tasks Minimalists Swear By Every Fall for a Tidier Home All Season",
+   "source": "thespruce.com",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-14T15:26:00+00:00",
+   "title_ja": "秋に実践したい短い時間でする片付けのコツ",
+   "summary_ja": "秋の季節に実践したい、短時間でする効果的な片付けの作業について解説している。家の中をすっきりと保つためのアイデアがまとめられている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "2e2b550ea92d460c",
+   "url": "https://www.reddit.com/r/minimalism/comments/1vo8w2k/whats_in_your_make_up_bag",
+   "title_original": "What's in your make up bag?",
+   "source": "r/minimalism",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-14T14:31:09+00:00",
+   "title_ja": "メイクポーチの中身を整理したい23歳が必須アイテムを問いかける投稿",
+   "summary_ja": "メイクポーチの整理に悩む23歳の投稿者が、化粧初心者に向けて何が本当に必要なのかを尋ねている。自分にとっての必須アイテムを見極め、持ち物を厳選したいミニマリストたちから、メイク道具を減らすための基準や愛用品のアイデアを募る内容。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "メイクポーチ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d2fcf3ee7d3fb8df",
+   "url": "https://www.youtube.com/watch?v=t_pFJRn6V_Q",
+   "title_original": "Life On Our Property *trailer mom of 5*",
+   "source": "Sarah Therese",
+   "image": "https://i1.ytimg.com/vi/t_pFJRn6V_Q/hqdefault.jpg",
+   "media": "youtube",
+   "region": "海外",
+   "published": "2026-08-14T14:00:29+00:00",
+   "title_ja": "5人の子供を育てる母親がトレーラーでの暮らしを映した動画",
+   "summary_ja": "5人の子供を持つ母親が、自身の土地やトレーラーハウスでの暮らしの様子を収めた動画。限られたスペースの中で、大家族がどのように生活を営んでいるか、シンプルで工夫に満ちた日常の様子を垣間見ることができる。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "ae57225f6b284d11",
+   "url": "https://www.lifehacker.jp/article/machi-ya-tsubanecase-end-951454",
+   "title_original": "なぜ名刺が美しいまま渡せるのか。メイド・イン・ツバメ認定名刺入れのプロジェクトが終了間近！",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/07/13/13ffa632-2c7f-40ef-8100-86512762e392/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-14T14:00:00+00:00",
+   "title_ja": "燕三条で作られた極薄で軽量なチタン製名刺入れの紹介記事",
+   "summary_ja": "燕三条製の純チタンを使用した極薄・軽量な名刺入れ「TSUBANE CASE」を紹介する記事。厚さ0.4mm、重さ19gと非常にスリムで、名刺だけでなくマイナンバーカードや免許証の収納にも適しており、持ち物をコンパクトにまとめたい人に適している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "TSUBANE CASE",
+    "名刺入れ",
+    "カード"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e1c549dad46ffe32",
+   "url": "https://www.lifehacker.jp/article/machi-ya-calm-review-959710",
+   "title_original": "諦めるつもりだった使い勝手も諦めずに済んだ。変化も楽しい、個性的な革の小さなお財布",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/07/22/cefbf040-5998-45a6-b5fe-c57e58576119/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-14T13:45:00+00:00",
+   "title_ja": "小さくても使い勝手を犠牲にしない個性的な革財布の紹介記事",
+   "summary_ja": "コンパクトでありながら使いやすさを追求したイタリアンレザー製の小さな財布を紹介する記事。お札の数えやすさや、財布を閉じたままでもカードが使える利便性を備えており、持ち物を最小限にしつつも日常の使い勝手を諦めたくない人に適している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "財布",
+    "カード"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "19f2bcf02c3ef4e3",
+   "url": "https://www.roomie.jp/2026/08/1863961",
+   "title_original": "「振って置くだけ」で底の汚れまでスッキリ。この洗剤に出会って、毎日使う水筒のニオイが気にならなくなった",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/20260723-cleanhouse-07_02.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-14T13:30:48+00:00",
+   "title_ja": "水筒のニオイや汚れを振って置くだけで落とす洗浄剤",
+   "summary_ja": "毎日使うマイボトルはスポンジが届きにくく汚れやニオイが蓄積しがちですが、スプーン2杯の洗浄剤を入れて振って置くだけでスッキリ解消できました。長く愛用する水筒を清潔に保つための便利なアイテムです。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "水筒",
+    "洗浄剤",
+    "ボトルブラシ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4ca8806ec67c4979",
+   "url": "https://www.lifehacker.jp/article/2608-andgo-packingkint",
+   "title_original": "カメラがもっと身近になる、日常使いで持ち運びやすい「パッキングニット」",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/01/23/71f5e61f-2a2c-4304-b7ff-95af31e457c2/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-14T13:15:00+00:00",
+   "title_ja": "日常使いしやすく持ち運びやすいパッキングニット",
+   "summary_ja": "日常の中でカメラを気軽に持ち運ぶために作られた、アンドゴーのパッキングニットカメラケースの使用レビューです。ちょっとしたお出かけの際にもカメラを安心して持ち歩けるアイテムとして紹介されています。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "カメラケース",
+    "カメラ"
+   ],
+   "importance": 3
+  },
   {
    "id": "9dc0b9bfd9d43d00",
    "url": "https://www.roomie.jp/2026/08/1862131",
@@ -437,6 +625,22 @@
    "importance": 3
   },
   {
+   "id": "2cdea9dbf53cc458",
+   "url": "https://www.reddit.com/r/simpleliving/comments/1vo2ezy/lets_all_celebrate_a_simple_life",
+   "title_original": "Let’s all celebrate a simple life!",
+   "source": "r/simpleliving",
+   "image": "https://preview.redd.it/phgh548u6bjh1.jpeg?width=640&crop=smart&auto=webp&s=ef4adccc48bf5aeb0ef1dbd8705916d03e4bd14a",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-14T09:24:30+00:00",
+   "title_ja": "シンプルな暮らしを皆で讃え合おうと呼びかける投稿",
+   "summary_ja": "海外のコミュニティサイトで、シンプルな暮らしを送ることを皆で祝い、楽しもうと呼びかける投稿。物や雑音に追われる現代社会において、あえて簡素で穏やかな生活を選択することの素晴らしさに焦点を当てている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
    "id": "006770dcde3a2933",
    "url": "https://monomax.jp/archives/355886",
    "title_original": "【ワークマンvs無印良品】猛暑乗り切る「ムレ知らず」の夏シューズを徹底比較！2,300円のEVA×メッシュ素材、足裏にそっと寄り添う快適サンダル、ユニクロの消臭ソックスも",
@@ -477,6 +681,22 @@
    "importance": 3
   },
   {
+   "id": "3f44689a119c6097",
+   "url": "https://bnc.bilyonaryo.com/feng-shui-expert-urges-filipinos-to-curb-impulsive-spending-during-ghost-month/business",
+   "title_original": "Feng Shui expert urges Filipinos to curb impulsive spending during Ghost Month",
+   "source": "Bilyonaryo.com",
+   "image": "https://bnc.bilyonaryo.com/wp-content/uploads/2026/08/jean2.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-14T07:58:59+00:00",
+   "title_ja": "風水専門家が衝動買いを控えるよう呼びかけるニュース",
+   "summary_ja": "アジアの伝統行事である「鬼月」の期間中、風水の専門家がフィリピンの人々に対し、不要な支出や衝動買いを避けるよう注意を促す記事。支出を抑え、物欲をコントロールするための心構えについて言及している。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
    "id": "d6d73d5e0b0ce982",
    "url": "https://www.countryliving.com/uk/homes-interiors/interiors/a73399121/autumn-declutter",
    "title_original": "7 clutter hotspots to tackle before autumn for a calmer home, from the hallway to the junk drawer",
@@ -491,6 +711,25 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
+  },
+  {
+   "id": "b50d3582ca2d12fc",
+   "url": "https://www.reddit.com/r/Anticonsumption/comments/1vnz6a7/i_went_from_zero_living_expenses_to_a_normal_life",
+   "title_original": "I went from zero living expenses to a \"normal\" life and I hate it",
+   "source": "r/Anticonsumption",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-14T06:13:25+00:00",
+   "title_ja": "生活費ゼロの極限生活から普通の暮らしに戻り後悔する人の話",
+   "summary_ja": "精神的な不調から携帯の解約や食料調達の自給化を行い、生活費ゼロの暮らしを経験した人の投稿。雨漏りや虫に悩まされつつも充実していた極限生活から、アパートを借りる普通の生活に戻ったものの、現在の消費社会に強い違和感を抱いている。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [
+    "自転車",
+    "携帯電話"
+   ],
+   "importance": 4
   },
   {
    "id": "d94f31f5795ff472",
@@ -740,6 +979,22 @@
    "title_ja": "休日に掃除をしないために平日に少しずつ整える暮らし方",
    "summary_ja": "日曜日にまとめて掃除するのをやめ、金曜日から分散して掃除を済ませる工夫を紹介。持ち物を少なくすることで掃除をする場所や手間を減らし、休日は子どもとゆっくり過ごせる時間を優先している。",
    "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "9c7a76c2041ae008",
+   "url": "https://www.youtube.com/watch?v=jLMI9cJHBH8",
+   "title_original": "【説明会】断捨離で人生の達人になる方法",
+   "source": "やましたひでこ断捨離",
+   "image": "https://i3.ytimg.com/vi/jLMI9cJHBH8/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-13T22:00:17+00:00",
+   "title_ja": "断捨離の考え方を学ぶ講義プログラムの紹介",
+   "summary_ja": "断捨離の基礎や実践的な考え方を学べるプログラムについて紹介している。トレーナーも受講した講義を通じて、片づけや暮らしを見直すヒントが得られる。",
+   "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
    "importance": 3
@@ -1343,6 +1598,24 @@
    "axis": "reduce",
    "things": [],
    "importance": 4
+  },
+  {
+   "id": "b281c6b83f356dcb",
+   "url": "https://www.livingetc.com/advice/how-to-clean-linen-sofas",
+   "title_original": "\"I Bought a Linen Armchair Recently, but It's Covered in Water Marks Already\" — Here's How to Fix This Nightmare Scenario",
+   "source": "Livingetc",
+   "image": "https://cdn.mos.cms.futurecdn.net/ZgjU5ravpaExhb5fYYyReA-1920-80.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-13T04:00:00+00:00",
+   "title_ja": "リネンのアームチェアについた水ジミの対処法",
+   "summary_ja": "購入したばかりのリネンのアームチェアに早くも水ジミができてしまい、その悪夢のような状況をどのように修復して解決するかについて解説している。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "アームチェア"
+   ],
+   "importance": 2
   },
   {
    "id": "fb1288ce21bd197b",
