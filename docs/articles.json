@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-14T16:30:10.730878+09:00",
+ "updated_at": "2026-08-14T22:13:36.647265+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,7 +29,7 @@
  "things": [
   {
    "name": "服",
-   "count": 7
+   "count": 12
   },
   {
    "name": "スマホ",
@@ -48,6 +48,10 @@
    "count": 4
   },
   {
+   "name": "スーツケース",
+   "count": 3
+  },
+  {
    "name": "ソファ",
    "count": 3
   },
@@ -60,15 +64,19 @@
    "count": 2
   },
   {
+   "name": "サンダル",
+   "count": 2
+  },
+  {
    "name": "スマートフォン",
    "count": 2
   },
   {
-   "name": "スーツケース",
+   "name": "ノートPC",
    "count": 2
   },
   {
-   "name": "ノートPC",
+   "name": "パソコン",
    "count": 2
   },
   {
@@ -142,6 +150,7 @@
   "ウレぴあ総研",
   "ミニマリスト Nozomi",
   "ミニマリストK",
+  "ミニマリストsin",
   "ミニマリストじゅん",
   "ライフハッカー・ジャパン",
   "ライブドアニュース",
@@ -151,8 +160,322 @@
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 177,
+ "count": 203,
  "items": [
+  {
+   "id": "9dc0b9bfd9d43d00",
+   "url": "https://www.roomie.jp/2026/08/1862131",
+   "title_original": "ブルーエアの空気清浄機、1年間24時間つけっぱなしだとこうなる。フィルター交換は驚くほど簡単だった",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/20260812-mio-blueair-blueminimax-01.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-14T13:00:51+00:00",
+   "title_ja": "空気清浄機を1年間使い続けた人がフィルター交換をしてみた話",
+   "summary_ja": "愛用しているブルーエアの空気清浄機「Blue Mini Max」を、お手入れ目安の半年を超えて1年間使い続けた筆者の体験談。どれだけ汚れを集めたかを確認しつつ、驚くほど簡単だったというフィルター交換の手順や、日々の空気環境を整える使い心地を紹介している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "空気清浄機",
+    "Blue Mini Max",
+    "フィルター"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "8a294ff7bcd9a013",
+   "url": "https://www.lifehacker.jp/article/2608-matome-android-iphone-xks",
+   "title_original": "iPhoneへ乗り換えて良さに気づいた、Androidの恋しい機能3選",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/03/09/dacebc48-e834-483b-a95e-05f9018f9ebb/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-14T13:00:00+00:00",
+   "title_ja": "AndroidからiPhoneへ乗り換えて恋しくなった機能を解説",
+   "summary_ja": "AndroidからiPhoneへ乗り換えた筆者が、実際に使ってみて改めて気づいたAndroidの魅力を語る。一貫した「戻る」操作性や、高度なクリップボード機能など、iPhoneユーザーになったからこそ実感する、手放して惜しかった3つの便利な機能を紹介している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "iPhone",
+    "Android"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "4d68a5b7173668d0",
+   "url": "https://www.lifehacker.jp/article/2608-let-claude-organize-chaotic-obsidian-vault-found-connections-forgotten",
+   "title_original": "メモの点と点をAIが結ぶ。ObsidianとClaudeで手に入れる自由な「思考時間」",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/06/17/27067617-75b8-44c4-a816-3b2c8b395f9d/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-14T13:00:00+00:00",
+   "title_ja": "AIを使ってメモの整理やタグ付けの手間をなくした人の話",
+   "summary_ja": "メモアプリのObsidianでのフォルダ整理やタグ付けに疲れた人に向けて、AIアシスタントのClaudeを活用する方法を提案。インボックスにメモを放り込むだけで、AIが過去のアイデアとのつながりを見つけ出すため、整理の手間をゼロにして思考に集中できる。",
+   "category": "その他",
+   "axis": "reduce",
+   "things": [
+    "Obsidian",
+    "Claude"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "52faa07464b7338a",
+   "url": "https://www.roomie.jp/2026/08/1863657",
+   "title_original": "100回洗濯しても新品みたい。色褪せ色落ち知らずでずっと着られる究極の黒Tシャツ&ポロシャツ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/blackshirt1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-14T12:45:53+00:00",
+   "title_ja": "100回洗濯しても色褪せない黒Tシャツを導入した人の話",
+   "summary_ja": "夏のビジネスカジュアルで気になる首元の退色やくたびれ感を解決する「原着半袖黒Tシャツ&ポロシャツ」を紹介。日差しや汗に強く、染めない黒を採用しているため、100回洗濯しても新品のような状態を保ち、ビジネスからカジュアルまで長く着回せる一着となっている。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "黒Tシャツ",
+    "ポロシャツ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d3991817546e6d28",
+   "url": "https://www.roomie.jp/2026/08/1858285",
+   "title_original": "「PCの画面、となりの人に見えてるか心配」ならコレ！リピ買いした“使いやすさ”があるんです",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/0D5A1297.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-14T12:30:10+00:00",
+   "title_ja": "カフェでのPC作業に安心をプラスする画面保護フィルターを愛用する話",
+   "summary_ja": "カフェなどの出先でパソコン作業をする際、周囲からの視線を防ぐために愛用しているプライバシーフィルターを紹介する。パソコンを買い替えた後もリピート買いするほど使い勝手が良く、外出時の必須アイテムになっている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "プライバシースクリーン",
+    "MacBook Pro",
+    "パソコン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "37abe1a89baee707",
+   "url": "https://www.lifehacker.jp/article/2608-reikanmatome",
+   "title_original": "家でも外でも、涼しく過ごせる！編集部員が実践する「シーン別・ひんやり愛用品」活用術",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/13/c2f61377-b212-4a27-adb0-3328693a9f33/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-14T12:30:00+00:00",
+   "title_ja": "猛暑を快適に乗り切るために編集部員が愛用しているひんやりグッズの話",
+   "summary_ja": "編集部員が夏の猛暑を快適に過ごすために実際に愛用している冷感アイテムを紹介する。家でも外出先でも涼しく過ごせるよう、それぞれのシーンに合わせたひんやりグッズの使い方や工夫、本気で重宝しているアイテムをまとめている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "冷感アイテム"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "ca93d5e1ffaed331",
+   "url": "https://www.roomie.jp/2026/08/1859431",
+   "title_original": "帰宅したら、玄関でそのまま開封。ミドリの「レターカッター」で郵便物を溜めない習慣ができた",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/20260809-lettercutter-01.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-14T12:00:48+00:00",
+   "title_ja": "玄関での開封を習慣化し郵便物を溜めない暮らしを実現した人の話",
+   "summary_ja": "帰宅後に郵便物を放置してしまう悩みを、玄関ドアに貼り付けられるマグネットレターカッターの導入で解決した体験談。1ヶ月の使用で、テーブルに未開封の封筒を溜める悪習慣がなくなり、その場ですぐに開封して整理できるようになった。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "マグネットレターカッター",
+    "封筒"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "abc9310599d75f4e",
+   "url": "https://www.lifehacker.jp/article/2608-questioning-skills-lifehack",
+   "title_original": "効率主義だった私が「自動運転モード」をやめて見つけた、一生モノの「問い力」を鍛える7つの思考実験",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/13/84e2b190-b70e-4609-8dfe-01152472a07d/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-14T12:00:00+00:00",
+   "title_ja": "効率主義を捨てて日常の違和感から自分らしさを見つける思考法",
+   "summary_ja": "効率ばかりを求める姿勢や情報の受け流しをやめ、日常の違和感に立ち止まることで思考力を鍛える方法を解説。視点を変える7つの思考実験を通じて、変化の激しい時代を自分らしく主体的に生き抜くための実践的なメソッドを紹介している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "4455f09983aec691",
+   "url": "https://news.livedoor.com/article/detail/32068579",
+   "title_original": "断捨離の悩みを解決！親の「もったいない」に直面した時のシンク下＆食料庫片付け術",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-14T12:00:00+00:00",
+   "title_ja": "親の「もったいない」に直面した時のシンク下と食料庫の片付け術",
+   "summary_ja": "親世代の「もったいない」という気持ちに寄り添いながら、実家のシンク下や食料庫を片付ける方法を紹介。断捨離を進める際によくある衝突や悩みを解決し、お互いに納得しながら整理整頓を進めるための具体的な実践術を解説する。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "b9dbd0d16aae9ef4",
+   "url": "https://www.roomie.jp/2026/08/1863628",
+   "title_original": "1万円台で買えるし冷房効率もアップ。除湿機って意味ある？の思い込みが覆った1台がコレです",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/nwtjoshitsutokkagatacompactmachine5.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-14T11:45:01+00:00",
+   "title_ja": "邪魔にならず冷房効率を高めるコンパクトな除湿機を紹介",
+   "summary_ja": "邪魔になりそうなイメージから導入をためらいがちな除湿機について、コンパクトで日常使いに十分な機能を備えた1万円台の「NWT 除湿特化型コンパクトマシン」を紹介。日本の蒸し暑い夏を快適に過ごし、冷房効率を高めるための選択肢として提案している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "NWT 除湿特化型コンパクトマシン",
+    "除湿機"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "ab20cb9b8e83b279",
+   "url": "https://www.youtube.com/watch?v=M-oetXArCzw",
+   "title_original": "【引っ越し前に全出し】買い物で失敗する服には、ある共通点がありました。【ミニマリスト】",
+   "source": "ミニマリストsin",
+   "image": "https://i2.ytimg.com/vi/M-oetXArCzw/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-14T11:00:26+00:00",
+   "title_ja": "引っ越し前に服を全出しして分かった買い物で失敗する服の共通点",
+   "summary_ja": "引っ越しを機にクローゼットの服をすべて取り出し整理するなかで、購入時に失敗しやすい服に共通する特徴を解説する。クローゼットを整理し、無駄な買い物を減らすための服選びの基準や手放し方のヒントを紹介している。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e1e7fa298e4d5c68",
+   "url": "https://www.youtube.com/watch?v=dhfT605dakc",
+   "title_original": "【衝撃】ミニマル思考で、年間被服費に驚きの変化！/アイテム選びのコツ/20代独身女",
+   "source": "レイの小さな暮らし",
+   "image": "https://i1.ytimg.com/vi/dhfT605dakc/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-14T11:00:26+00:00",
+   "title_ja": "ミニマル思考で被服費を抑える20代女性のワードローブと服選び",
+   "summary_ja": "ミニマルな思考を取り入れることで年間の被服費を抑えている20代独身女性による、服選びのコツと持ち物の紹介。オールシーズンで合計21着という厳選されたワードローブを維持しながら、シンプルで心地よい暮らしを送る工夫を伝える。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "服"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "a63937a70cbed639",
+   "url": "https://www.youtube.com/watch?v=QHpfRL7vRSo",
+   "title_original": "【ミニマリスト】最低限の手間で綺麗を保つ掃除ルーティン、アイテム",
+   "source": "ミニマリスト Nozomi",
+   "image": "https://i2.ytimg.com/vi/QHpfRL7vRSo/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-14T11:00:11+00:00",
+   "title_ja": "4人暮らしで服3着のミニマリストが実践する掃除ルーティンと道具",
+   "summary_ja": "服3着、家族4人で持ち物40個という暮らしを送るミニマリストが、最低限の手間で部屋の綺麗さをキープするための掃除ルーティンと愛用アイテムを紹介。育児や仕事と両立しながらスマートに暮らすための家事の仕組みを提案する。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "服"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "42d4c46248b8680d",
+   "url": "https://www.youtube.com/watch?v=0Zs-YFPFNjo",
+   "title_original": "断捨離で見つけた「本当の自分」 俳優・美村里江さんが語る驚きの体験とは＜前編＞",
+   "source": "やましたひでこ断捨離",
+   "image": "https://i1.ytimg.com/vi/0Zs-YFPFNjo/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-14T11:00:09+00:00",
+   "title_ja": "断捨離で本当の自分を見つけた俳優の美村里江さんが語る体験談",
+   "summary_ja": "俳優の美村里江さんが断捨離を通じて「本当の自分」を見つけた体験を語る。不要なものを手放すことで部屋も心もスッキリさせ、自分自身の心境にどのような変化が訪れたのか、実体験に基づく気づきを紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "62c6af40f655465a",
+   "url": "https://www.reddit.com/r/declutter/comments/1vo3pu1/daytime_tv_is_all_the_motivation_i_need_today",
+   "title_original": "Daytime TV is all the motivation I need today!",
+   "source": "r/declutter",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-14T10:39:20+00:00",
+   "title_ja": "退屈なテレビを避けるために服の仕分けを始めて10着手放した話",
+   "summary_ja": "暑い日に室内で退屈なテレビ番組を見る代わりに、たまっていた洗濯物の片づけを始めた人の体験談。ただ収納するのではなく、一枚ずつ試着しながら仕分けることで、最初の休憩までに不要な服を10着選んで手放している。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "洗濯物",
+    "服"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "006770dcde3a2933",
+   "url": "https://monomax.jp/archives/355886",
+   "title_original": "【ワークマンvs無印良品】猛暑乗り切る「ムレ知らず」の夏シューズを徹底比較！2,300円のEVA×メッシュ素材、足裏にそっと寄り添う快適サンダル、ユニクロの消臭ソックスも",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2027/08/041336-scaled.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-14T09:00:12+00:00",
+   "title_ja": "ワークマンと無印良品の夏シューズやユニクロの靴下を比較した話",
+   "summary_ja": "暑い夏を快適に過ごすためのシューズを徹底比較。ワークマンのメッシュ素材シューズや無印良品の快適なサンダル、ユニクロの消臭ソックスといった、実用的でコスパの高い足元の持ち物を紹介している。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "夏シューズ",
+    "サンダル",
+    "消臭ソックス"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ba15abda7a56a745",
+   "url": "https://www.youtube.com/watch?v=bg0UuN2HKpM",
+   "title_original": "【ミニマリスト】日用品、見直しています。",
+   "source": "ぴーこ｜ゆるっとミニマルな日常",
+   "image": "https://i3.ytimg.com/vi/bg0UuN2HKpM/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-14T08:00:20+00:00",
+   "title_ja": "暮らしの変化に合わせて日用品の買い方を見直した話",
+   "summary_ja": "日々の暮らしや状況の変化に合わせて、スポンジや洗剤、シャンプーのストックといった日用品の買い方や選び方を見直したミニマリストの体験談。一度決めたルールに縛られず、今の生活に合う最適な持ち方やストック量を考えて暮らしをラクにする方法を提案しています。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [
+    "スポンジ",
+    "洗剤",
+    "シャンプー"
+   ],
+   "importance": 3
+  },
   {
    "id": "d6d73d5e0b0ce982",
    "url": "https://www.countryliving.com/uk/homes-interiors/interiors/a73399121/autumn-declutter",
@@ -204,6 +527,25 @@
    "importance": 2
   },
   {
+   "id": "7d9c175d2469d0a1",
+   "url": "https://news.yahoo.co.jp/articles/1af75ea471f0205bd9376cf53e6c6a8020a5c6da/images/002",
+   "title_original": "お盆に帰省したら実家がものだらけ＞でも親に「捨てたら？」は禁句。「来客用布団」「使わない食器」から始める暮らしの見直し方 (婦人公論.jp)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3h9uiCojScY7SLYgxmEygY_ofD9NG5HQWTamWfSRHUtTynsj5pj_tyMlVknpjFLdJbwlFGprsPlNHEUHfofoPad_TZtcJ-Rd2EXhyQcoQegeC5bAsHkHrZ4SOMKcZ3mTSbSXDpOsMugmk7WKA0Z7JVg==",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-14T03:30:47+00:00",
+   "title_ja": "実家の片付けで親に「捨てたら？」と言わずに始める方法",
+   "summary_ja": "お盆の帰省時に物が多い実家を片付ける際、親への「捨てたら？」という言葉を避けつつ、暮らしを見直す方法を紹介。まずは「来客用布団」や「使わない食器」など、ハードルの低い具体的な持ち物の整理から手を付けることで、円滑に片付けを進めるコツを提案しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "来客用布団",
+    "食器"
+   ],
+   "importance": 4
+  },
+  {
    "id": "0acf47192978f118",
    "url": "https://www.lifehacker.jp/article/c520-minicamera-review",
    "title_original": "写りは平成のガラケー。なのに手放せなくなったミニカメラ",
@@ -219,6 +561,24 @@
    "things": [
     "C520 ミニデジタルカメラ",
     "スマホ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "265a0de9d65a9c2f",
+   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vnuo6i/saw_the_vintage_coleman_post_and_wanted_to_join",
+   "title_original": "Saw the vintage Coleman post and wanted to join in. 4 generations and still kickin’.",
+   "source": "r/BuyItForLife",
+   "image": "https://preview.redd.it/g7284gsh39jh1.jpg?width=140&height=138&auto=webp&s=156e81a0ca5ae328f4223c687cf740d9b336648d",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-14T02:22:10+00:00",
+   "title_ja": "4世代にわたって受け継がれ現役で活躍するヴィンテージのコールマン",
+   "summary_ja": "海外の掲示板で、4世代にわたり受け継がれてきたヴィンテージのコールマン製品が紹介されました。長年にわたって大切に手入れされ、今でも現役で使い続けられている様子から、本当に丈夫で質の良い道具を長く持つことの価値が伝わります。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "コールマン"
    ],
    "importance": 3
   },
@@ -239,6 +599,24 @@
     "トートバッグ",
     "鍵",
     "パスケース"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "568c3acf4a63db9a",
+   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vnsmp0/my_bucket_kicked_the_bucket",
+   "title_original": "My bucket kicked the bucket 😭",
+   "source": "r/BuyItForLife",
+   "image": "https://preview.redd.it/squ5snjim8jh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=52c66ff5c1f40cb01bd67db57dcd9f0e39008e0c",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-14T00:47:13+00:00",
+   "title_ja": "100円ショップのバケツを10年以上愛用し続けた人の話",
+   "summary_ja": "2013年に100円ショップで購入した約1ドルのバケツを、10年以上も使い続けた人の投稿です。安価な日用品であっても、壊れるまで大切に使い切るという、物を最後まで全うさせるミニマルな暮らしの姿勢が垣間見えます。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "バケツ"
    ],
    "importance": 3
   },
@@ -434,6 +812,40 @@
    "importance": 3
   },
   {
+   "id": "041ed2ea6ecf772a",
+   "url": "https://www.reddit.com/r/declutter/comments/1vnhfku/wish_me_luck_moving_house_and_attempting_to",
+   "title_original": "Wish me luck! Moving house and attempting to downsize",
+   "source": "r/declutter",
+   "image": "https://preview.redd.it/gc8vxvn1h6jh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=46f7b74b1ffa8644216c6013e07834ac2ffada0f",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-13T17:32:47+00:00",
+   "title_ja": "引っ越しを機に持ち物を減らし仕分けに挑戦する人の話",
+   "summary_ja": "引っ越しをきっかけに、持ち物のダウンサイジングに挑戦する人の投稿。不用品をフリーマーケットで売るための2つの山と、残す・保留・売る・処分するにこれから仕分ける予定の服の山を用意し、片づけを進めようとしている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "ce479ace73953107",
+   "url": "https://www.reddit.com/r/declutter/comments/1vnfatr/clutter_dreamsmoving_out_dreams",
+   "title_original": "Clutter dreams/moving out dreams?",
+   "source": "r/declutter",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-13T16:16:39+00:00",
+   "title_ja": "大量の荷物に追われる夢を見る片づけ実践者の話",
+   "summary_ja": "現実では15年間片づけを続けて成果を感じているものの、自宅や寮からの引っ越し時に大量の荷物に対処しきれなくなる夢を繰り返し見るという投稿。同じように、大量の持ち物に追われる悪夢を見る人がいるか意見を募っている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "e39d32299f1e63a6",
    "url": "https://www.raptitude.com/2026/08/how-to-look-the-sky-in-the-face",
    "title_original": "How to Look the Sky in the Face",
@@ -466,6 +878,22 @@
     "服"
    ],
    "importance": 3
+  },
+  {
+   "id": "a2f83c45d2305b04",
+   "url": "https://www.reddit.com/r/declutter/comments/1vne5li/marketing_encourages_clutter",
+   "title_original": "Marketing encourages clutter",
+   "source": "r/declutter",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-13T15:36:23+00:00",
+   "title_ja": "企業の販売戦略に惑わされず買い物を思いとどまった話",
+   "summary_ja": "複数購入割引や送料無料、定期購入などの企業の仕組みが物を増やす原因だと気づいた人の投稿。新しい物を買う前に今ある物を使い切るべきだと考え、過去に期限切れで処分した苦い記憶を思い出すことで、不要な買い物を抑えている。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
   },
   {
    "id": "655742fa5631acc2",
@@ -849,6 +1277,24 @@
    "importance": 3
   },
   {
+   "id": "6a1a3704e747b721",
+   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vn33mi/avoid_travelpro_for_your_next_suitcase",
+   "title_original": "Avoid TravelPro for your next suitcase",
+   "source": "r/BuyItForLife",
+   "image": "https://preview.redd.it/5yf1qc2u53jh1.png?width=140&height=67&auto=webp&s=312bdabb260579b532467c19f374872609150e23",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-13T06:44:45+00:00",
+   "title_ja": "一生モノだと思って買ったスーツケースが２年で壊れた話",
+   "summary_ja": "長期保証と品質を期待してトラベルプロのスーツケースを購入したものの、2年後に旅先で車輪が壊れてしまった人の体験談。2、3ヶ月に一度の頻度で旅行するため頑丈な製品を求めていたが、期待通りの耐久性が得られなかったと報告している。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "スーツケース"
+   ],
+   "importance": 3
+  },
+  {
    "id": "714255c5d8c04f0c",
    "url": "https://news.infoseek.co.jp/article/fudge_395742",
    "title_original": "シンプリストの「服選び」。少ない服で着回す6つのコツ 【暮らしを灯すアイデア集】｜Infoseekニュース",
@@ -977,6 +1423,24 @@
    "axis": "reduce",
    "things": [],
    "importance": 4
+  },
+  {
+   "id": "7df9a09088950bce",
+   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vmw66y/yamazaki_home_great_customer_service",
+   "title_original": "Yamazaki Home great customer service",
+   "source": "r/BuyItForLife",
+   "image": "https://preview.redd.it/9tj8o395j1jh1.jpeg?width=640&crop=smart&auto=webp&s=13f29cd25d2ad804f5d6fa18391cb35c00153a01",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-13T00:55:38+00:00",
+   "title_ja": "山崎実業のカスタマーサービスの対応についての投稿",
+   "summary_ja": "数年前に購入したタオル掛けの木製棒部分にカビが生えたため問い合わせたところ、メーカーから丁寧な対応を受けたという購入者の体験談。購入後のサポート体制が良いブランドについての情報共有。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "タオル掛け"
+   ],
+   "importance": 2
   },
   {
    "id": "d40b18bf885615c8",
@@ -1169,6 +1633,24 @@
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
+   "importance": 3
+  },
+  {
+   "id": "daa6b4c9b4f579d3",
+   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vmkrsn/what_family_or_household_item_was_actually_worth",
+   "title_original": "What family or household item was actually worth buying the pricier version of?",
+   "source": "r/BuyItForLife",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-12T17:29:58+00:00",
+   "title_ja": "安価な代用品と高価な定番品のどちらを選ぶべきか",
+   "summary_ja": "長く使える良いものを少なく買いたいという思いから、家電などの高価格な製品と安価な競合品のどちらに投資すべきか悩んでいる人の投稿。価格差に見合う価値がある耐久性の高い生活用品や家電について意見を求めている。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [
+    "食器洗い機"
+   ],
    "importance": 3
   },
   {
