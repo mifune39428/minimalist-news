@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15T21:44:02.261411+09:00",
+ "updated_at": "2026-08-16T03:35:10.513780+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -36,11 +36,11 @@
    "count": 6
   },
   {
-   "name": "スマホ",
-   "count": 5
+   "name": "バッグ",
+   "count": 6
   },
   {
-   "name": "バッグ",
+   "name": "スマホ",
    "count": 5
   },
   {
@@ -132,6 +132,10 @@
    "count": 2
   },
   {
+   "name": "車",
+   "count": 2
+  },
+  {
    "name": "鍵",
    "count": 2
   },
@@ -215,8 +219,98 @@
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 263,
+ "count": 272,
  "items": [
+  {
+   "id": "2b0b32bba6c048b0",
+   "url": "https://www.reddit.com/r/minimalism/comments/1vp6q44/its_freeing_to_have_less_clutter",
+   "title_original": "It's freeing to have less clutter",
+   "source": "r/minimalism",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-15T16:08:30+00:00",
+   "title_ja": "20年かけて溜まった家財を3分の1に減らした人の話",
+   "summary_ja": "家族と20年暮らした家で、数ヶ月かけて持ち物を3分の1減らした体験談。まだミニマリストの途中段階だが、朝起きてすっきりしたリビングを見るだけで解放感を得られた。20年かけて溜まった物なので、数ヶ月かけて片づけるのは当然だと前向きに取り組んでいる。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "bae76fbab5c8e0c0",
+   "url": "https://www.roomie.jp/2026/08/1863231",
+   "title_original": "手のひらサイズの「コレ」が、キャンプやプールに行く時の“あのストレス”を解消してくれたよ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/DSC01673.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-15T13:00:26+00:00",
+   "title_ja": "キャンプやプールで活躍する超小型軽量エアーポンプの使用感",
+   "summary_ja": "テント泊のエアマットや浮き輪を膨らませる手間を省く、フィールドアの超小型軽量エアーポンプを紹介。手のひらサイズで驚くほど軽く、面倒な空気入れや空気抜きの作業を一瞬で終わらせてくれる。荷物をコンパクトにまとめたいアウトドアやレジャーで役立つアイテム。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ウルトラライトエアーポンプ",
+    "エアマット",
+    "浮き輪"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "affdb6461333d6d2",
+   "url": "https://monomax.jp/archives/355804",
+   "title_original": "【静かな革新性を追求】トゥミの新コレクション「トゥミ アクシス」が登場！軽量ナイロンと構造美が光る、オンオフ兼用の最新バッグに注目",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2026/08/sub6a.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-15T13:00:08+00:00",
+   "title_ja": "トゥミから登場した軽量ナイロン製のオンオフ兼用バッグコレクション",
+   "summary_ja": "トゥミから登場した新コレクション「トゥミ アクシス」を紹介。軽量なナイロン素材と構造美が特徴で、ビジネスからプライベートまでオンオフ兼用で使える最新バッグ。荷物を兼用化して数を減らしたい人に向いている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "バッグ"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "ea1a7a89b9e445d0",
+   "url": "https://www.roomie.jp/2026/08/1864337",
+   "title_original": "折りたたみ傘くらいのサイズ感。690gのスキャナが、在宅ワークの机まわりを軽くする",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/scanpad100pro4.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-15T12:45:24+00:00",
+   "title_ja": "デスクまわりをペーパーレス化する折りたたみ式軽量ポータブルスキャナ",
+   "summary_ja": "紙の書類や領収書を手軽にデータ化できる、重さ690gのポータブルAIスキャナ「ScanPad100Pro」を紹介。折りたたむと傘ほどのサイズになり、在宅ワークのデスクまわりをすっきりと整理するのに役立つ。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ScanPad100Pro",
+    "書類",
+    "領収書"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "f92aff78468cbde7",
+   "url": "https://www.reddit.com/r/Anticonsumption/comments/1vp1s7b/yeah_just_keep_consuming_whatever_price_our",
+   "title_original": "Yeah just keep consuming whatever price our overlords set, smh",
+   "source": "r/Anticonsumption",
+   "image": "https://preview.redd.it/ls19ngdz9jjh1.png?width=640&crop=smart&auto=webp&s=4fd96219b2daf61a59aaf4ba53ecd30d6d894e06",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-15T12:36:47+00:00",
+   "title_ja": "設定された価格のままに消費を続けることへの疑問を呈した投稿",
+   "summary_ja": "海外のコミュニティで、企業が提示する価格のままに不要な消費を続けることへの皮肉や疑問が投稿された。過剰な消費主義から抜け出し、本当に必要なものだけを見極める姿勢の大切さを示唆している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
   {
    "id": "8e1ba053b9e6c381",
    "url": "https://www.roomie.jp/2026/08/1861166",
@@ -233,6 +327,22 @@
    "things": [
     "ポケッタブルショルダーバッグ"
    ],
+   "importance": 3
+  },
+  {
+   "id": "4f427d782257a966",
+   "url": "https://news.livedoor.com/topics/detail/32074998",
+   "title_original": "一緒に住める？ミニマリストが案ずる、捨てられない＆片付けられない彼との結婚生活 (2026年8月15日掲載)",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-15T12:30:03+00:00",
+   "title_ja": "物を捨てられないパートナーとの結婚生活に悩むミニマリストの話",
+   "summary_ja": "物を捨てられない、または片付けられないパートナーとの同棲や結婚生活に対して、ミニマリストが抱く不安や懸念を描いた記事。価値観の異なる相手とどのように暮らしを整え、お互いが快適に過ごすかという課題を提示している。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -267,6 +377,24 @@
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
+   "importance": 3
+  },
+  {
+   "id": "4e9308707b8a11bb",
+   "url": "https://www.lifehacker.jp/article/2608-use-ai-how-to-study",
+   "title_original": "5年間で試した7つのAI×勉強術。今でも実践しているもの、やめたもの、全部教えます",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/13/3744044e-fb40-4a58-a910-d27b3551025f/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-15T11:45:00+00:00",
+   "title_ja": "5年間で試した学習法のうち継続できたものとやめたこと",
+   "summary_ja": "過去5年半で試した7つの学習法から、継続できた仕組みや挫折した失敗談を振り返る記事。AI英会話やアナログな手帳術などを通じて、完璧を目指さずに自身の生活リズムに合わせた無理のない学びの形を模索する試みが語られている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "手帳"
+   ],
    "importance": 3
   },
   {
@@ -1043,6 +1171,27 @@
    "importance": 3
   },
   {
+   "id": "b173305680f4ddd2",
+   "url": "https://www.reddit.com/r/Anticonsumption/comments/1vo7ooo/eu_is_doing_car_greenwashing",
+   "title_original": "EU is doing car Greenwashing",
+   "source": "r/Anticonsumption",
+   "image": "https://preview.redd.it/nqiyt0xtecjh1.jpeg?width=320&crop=smart&auto=webp&s=d3517f267ae1b569770e8cf310ac024864cc572b",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-14T13:43:59+00:00",
+   "title_ja": "古い車を長く乗り続け部品を再利用するエコな考え方",
+   "summary_ja": "EUの規制が古い車に高税を課して廃棄を促している現状を批判する投稿です。車をスクラップにするのではなく、カーパーツやパネル、ライトなどの部品を再利用し、既存の車を長く使い続けることこそが真のエコであると訴えています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "車",
+    "カーパーツ",
+    "パネル",
+    "ライト"
+   ],
+   "importance": 3
+  },
+  {
    "id": "19f2bcf02c3ef4e3",
    "url": "https://www.roomie.jp/2026/08/1863961",
    "title_original": "「振って置くだけ」で底の汚れまでスッキリ。この洗剤に出会って、毎日使う水筒のニオイが気にならなくなった",
@@ -1680,6 +1829,22 @@
    "things": [
     "バケツ"
    ],
+   "importance": 3
+  },
+  {
+   "id": "f80ea8be02aac5d9",
+   "url": "https://www.reddit.com/r/simpleliving/comments/1vnrx8g/i_have_a_question",
+   "title_original": "I have a question 🙋🏻‍♀️",
+   "source": "r/simpleliving",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-14T00:15:19+00:00",
+   "title_ja": "お金の心配がないとしたら、どんな意味あることに時間を使うか",
+   "summary_ja": "一生分の生活費が保証され、意味のあることに時間を使えるとしたら、これからの10年をどう過ごすか読者に問いかけている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
