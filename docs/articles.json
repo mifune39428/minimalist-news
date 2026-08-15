@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15T15:43:42.652688+09:00",
+ "updated_at": "2026-08-15T21:44:02.261411+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,26 +29,26 @@
  "things": [
   {
    "name": "服",
-   "count": 12
+   "count": 13
+  },
+  {
+   "name": "バックパック",
+   "count": 6
   },
   {
    "name": "スマホ",
    "count": 5
   },
   {
-   "name": "バックパック",
+   "name": "バッグ",
+   "count": 5
+  },
+  {
+   "name": "本",
    "count": 5
   },
   {
    "name": "ソファ",
-   "count": 4
-  },
-  {
-   "name": "バッグ",
-   "count": 4
-  },
-  {
-   "name": "本",
    "count": 4
   },
   {
@@ -68,6 +68,22 @@
    "count": 3
   },
   {
+   "name": "Android",
+   "count": 2
+  },
+  {
+   "name": "Googleフォト",
+   "count": 2
+  },
+  {
+   "name": "iPhone",
+   "count": 2
+  },
+  {
+   "name": "キャリーケース",
+   "count": 2
+  },
+  {
    "name": "サングラス",
    "count": 2
   },
@@ -76,7 +92,19 @@
    "count": 2
   },
   {
+   "name": "シャツ",
+   "count": 2
+  },
+  {
+   "name": "スニーカー",
+   "count": 2
+  },
+  {
    "name": "スマートフォン",
+   "count": 2
+  },
+  {
+   "name": "タオル",
    "count": 2
   },
   {
@@ -116,6 +144,7 @@
   "ABEMA",
   "AOL.co.uk",
   "AOL.com",
+  "Android Police",
   "Autoblog",
   "Be More with Less",
   "Better Homes & Gardens",
@@ -153,6 +182,7 @@
   "autoevolution",
   "bs-asahi.co.jp",
   "facebook.com",
+  "graziamagazine.com",
   "livingetc.com",
   "mshale.com",
   "nine.com.au",
@@ -171,6 +201,7 @@
   "やましたひでこ断捨離",
   "ウォーカープラス",
   "ウレぴあ総研",
+  "ママテナ",
   "ミニマリスト Nozomi",
   "ミニマリストK",
   "ミニマリストsin",
@@ -180,11 +211,301 @@
   "レイの小さな暮らし",
   "小さな暮らしノート",
   "山陽新聞",
+  "私だけミニマリスト｜南さやか",
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 240,
+ "count": 263,
  "items": [
+  {
+   "id": "8e1ba053b9e6c381",
+   "url": "https://www.roomie.jp/2026/08/1861166",
+   "title_original": "フェス用に買ったモンベルのポケッタブルバッグ。気づけば、普段のお出かけや旅行でヘビロテしています",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/608_montbell_shoulder_7.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-15T12:30:26+00:00",
+   "title_ja": "フェス用に買ったモンベルの軽量バッグを日常や旅行で愛用する話",
+   "summary_ja": "夏フェス用として購入したモンベルのポケッタブルショルダーバッグが、軽さと収納力を兼ね備えていることから、普段のお出かけや旅行でも重宝している様子を紹介する。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "ポケッタブルショルダーバッグ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "0b66851e354e5ac5",
+   "url": "https://www.roomie.jp/2026/08/1861148",
+   "title_original": "「無意識スマホ依存」の原因を解消できた！イケアで1000円のこれで、部屋全体の空気まで快適になった",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/IMG_1221-scaled.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-15T12:10:06+00:00",
+   "title_ja": "時間確認でのスマホ見すぎを防ぐためイケアの多機能時計を導入した話",
+   "summary_ja": "時間を確認する際にSNSを眺めてしまう無意識のスマホ依存を解消するため、イケアの温湿度計付き多機能デジタル時計を導入し、部屋の快適性と習慣を改善した事例。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "多機能デジタル時計"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ca622fab36ba6dfc",
+   "url": "https://news.livedoor.com/topics/detail/32074781",
+   "title_original": "【実家の捨て活】母の「謎の引き出し」にツッコミ連発！詰め込み型からの卒業",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-15T12:00:00+00:00",
+   "title_ja": "実家で母の詰め込みがちな引き出しを整理し捨て活を進めた話",
+   "summary_ja": "母親が物を詰め込みがちだった実家の引き出しを整理し、無駄なものを見直して手放していくことで、「詰め込み型」からの卒業を目指した実家での捨て活のエピソード。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "c51b3d6848f9c31e",
+   "url": "https://www.lifehacker.jp/article/machi-ya-capsuleshaver5b-review-961435",
+   "title_original": "携帯用なのにしっかり本格派。あご下のカーブもスッと剃れるチタン5枚刃のミニシェーバー",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/07/29/2f034fb0-99f1-4d06-b555-ea3d4694726a/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-15T11:45:00+00:00",
+   "title_ja": "鏡がない場所でも剃れる携帯用チタン5枚刃ミニシェーバー",
+   "summary_ja": "出先でも失敗しにくい防水仕様の携帯用ミニシェーバー。押し当てずに剃れるチタン5枚刃を採用しており、使用後は水洗い可能。マグネット式カバー付きでカバンに直接入れて持ち運べる。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ミニシェーバー"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "c71a0d6374375680",
+   "url": "https://news.infoseek.co.jp/article/itmedia_nlab_3961721",
+   "title_original": "“少ない持ち物で暮らす”おひとりさまアラフィフ女性の普段使いバッグと中身、身軽な荷物に「すごくスッキリ」「この薄さ絶妙ですね！」｜Infoseekニュース",
+   "source": "Infoseek",
+   "image": "https://media.image.infoseek.co.jp/isnews/photos/itmedia_nlab/itmedia_nlab_3961721_0-enlarge.png",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-15T11:15:00+00:00",
+   "title_ja": "少ない持ち物で身軽に暮らすアラフィフ女性のバッグと中身",
+   "summary_ja": "少ない持ち物で生活するアラフィフ女性が使っている普段使いバッグとその中身を紹介する記事。必要最小限に抑えられたスッキリとした荷物の構成や、かさばらない絶妙な薄さのバッグの活用例を見ることができる。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "バッグ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "f6ca4e18707922ef",
+   "url": "https://www.roomie.jp/2026/08/1863288",
+   "title_original": "すぐ効かなくなる暑さ対策グッズにモヤモヤ。ケユカ「−9.6℃ 冷感クールタオル」なら水道水で何度でも復活するよ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/260814_nurashitehinyari_eye2.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-15T11:00:41+00:00",
+   "title_ja": "かさばらずに持ち運べるケユカの冷感クールタオルの特徴",
+   "summary_ja": "重くかさばる暑さ対策グッズを避けたい人に向けたケユカの冷感クールタオルの紹介。首に巻きやすく、水道水で濡らすことで何度でもひんやり感が復活するため、外出時にも身軽に持ち歩けるアイテムとなっている。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "冷感クールタオル"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "e8c74f71c50dc152",
+   "url": "https://www.youtube.com/watch?v=n7UhLQPD-xw",
+   "title_original": "本を捨てた1週間後、夢だった仕事が舞い込んできた。：俳優・美村里江さん＜後編＞",
+   "source": "やましたひでこ断捨離",
+   "image": "https://i3.ytimg.com/vi/n7UhLQPD-xw/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-15T11:00:27+00:00",
+   "title_ja": "本を手放したことで夢だった仕事が舞い込んできた俳優の体験談",
+   "summary_ja": "俳優の美村里江さんが、本を手放した1週間後に夢だった仕事が舞い込んできたという体験を語る。物を減らすことで新しい運気やチャンスが巡ってくるという、断捨離の効果を実感したエピソードを紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "本"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "6fc3c99641ae297d",
+   "url": "https://monomax.jp/archives/355123",
+   "title_original": "【ランも街歩きもこれ一足】最先端技術が詰まった「アディゼロ EVO SL ジップ」が今アツい！アディダスが魅せる次世代スニーカーをエディターが試し履き",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2026/07/IMG_9872.jpeg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-15T11:00:24+00:00",
+   "title_ja": "ランニングと街歩きの両方に使えるアディダスの多機能スニーカー",
+   "summary_ja": "ランニングから普段の街歩きまで一足でこなせる、アディダスの新作スニーカー「アディゼロ EVO SL ジップ」を紹介。靴の数を減らしてすっきりと暮らしたい人に適した、最先端技術が詰まった多機能な一足をエディターが試着した。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "アディゼロ EVO SL ジップ",
+    "スニーカー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e5f6d88f60c8ce2d",
+   "url": "https://www.androidpolice.com/i-was-drowning-in-50000-photo-until-google-declutter-features-saved-me",
+   "title_original": "I was drowning in 50,000 photos until these Google Photos features saved me",
+   "source": "Android Police",
+   "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/google-photos-logo-beside-a-box-filled-with-photos.jpg?w=1600&h=900&fit=crop",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-15T11:00:16+00:00",
+   "title_ja": "5万枚の写真整理に悩む人を救ったGoogleフォトの便利機能",
+   "summary_ja": "5万枚もの大量の写真データに埋もれていた筆者が、Googleフォトの特定の機能を活用することで整理に成功した体験談。デジタルデータの肥大化に悩み、スマホやクラウドの中身をすっきりと片づけたい人に役立つ内容。",
+   "category": "道具・ガジェット",
+   "axis": "reduce",
+   "things": [
+    "Googleフォト",
+    "写真"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "98fcd9369aff1ecf",
+   "url": "https://www.lifehacker.jp/article/2608-matome-andorid-march",
+   "title_original": "Androidに戻りたい！ iPhoneに乗り換えて気づいた「手放せなかった」3つの理由",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/03/30/7e999732-bc53-49aa-ab11-e4b7089b6ad2/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-15T11:00:00+00:00",
+   "title_ja": "iPhoneに乗り換えて実感したAndroidを手放せない3つの理由",
+   "summary_ja": "iPhoneへ移行したことで、逆にAndroidの良さや「手放せなかった機能」を再認識した筆者の乗り換え体験談。自分にとって本当に必要な道具の基準や、デバイス選びにおけるこだわりについて3つの理由から振り返る。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "iPhone",
+    "Android"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5da6be011cda5948",
+   "url": "https://www.reddit.com/r/minimalism/comments/1vozmnl/overwhelmed_but_adulthood_means_i_have_to_do_this",
+   "title_original": "Overwhelmed but adulthood means I have to do this anyway",
+   "source": "r/minimalism",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-15T10:44:43+00:00",
+   "title_ja": "両親を亡くし実家の片づけに直面した28歳が語る物との向き合い方",
+   "summary_ja": "両親の急逝により、3階建て250平米の実家を片づけることになった28歳の投稿。大量の遺品に囲まれる息苦しさから物を減らす決意をし、2週間後にシェルターから迎える大型犬のためのスペース作りに向けて、孤独な片づけに挑む様子を綴る。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "af8be73befa6983e",
+   "url": "https://www.youtube.com/watch?v=Ft12-4jRiH4",
+   "title_original": "40代ミニマリスト、アクセサリーは13個。全部見せます",
+   "source": "私だけミニマリスト｜南さやか",
+   "image": "https://i3.ytimg.com/vi/Ft12-4jRiH4/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-15T10:00:21+00:00",
+   "title_ja": "服が少ない40代ミニマリストが厳選して所有する13個のアクセサリー",
+   "summary_ja": "服を少なく暮らす40代ミニマリストが、自分にとって本当に必要な13個のアクセサリーを紹介する話。数が少なければ良いという固定観念にとらわれず、自分に合った厳選アイテムを持ちながら身軽に暮らす考え方を伝えている。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "アクセサリー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5115c4c039eb85fa",
+   "url": "https://www.roomie.jp/2026/08/1863992",
+   "title_original": "マーナの専用ケースで「お掃除シートの生活感」がゼロに。サッと拭く習慣がついて、キッチンもきれいになりました",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/2608_sheetcase_top.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-15T10:00:13+00:00",
+   "title_ja": "マーナのワンタッチケースでお掃除シートの生活感を減らした話",
+   "summary_ja": "パッケージの派手なお掃除シートを隠すため、マーナのワンタッチで開くシートケースを導入したレビュー。従来のケースにあったフタの開閉しにくさやシートの乾燥を防ぎ、サッと手軽に掃除できる環境を作った事例を紹介している。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "お掃除シート",
+    "シートケース"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "1e2960bac38187f5",
+   "url": "https://nosidebar.com/everyday-items-making-your-home-feel-cluttered",
+   "title_original": "10 Everyday Items That Are Making Your Home Feel Cluttered",
+   "source": "No Sidebar",
+   "image": "https://nosidebar.com/wp-content/uploads/everyday-item-clutter.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-08-15T09:00:00+00:00",
+   "title_ja": "役に立つと思って増やしがちな日用品が家を散らかす原因になる話",
+   "summary_ja": "タオルや衣服、調理器具や洗面用具といった有用な日用品ほど、数が多ければ良いと思い込み無意識に家を散らかしてしまう懸念を解説。便利だからと疑問を持たずに持ち過ぎてしまう罠と、生活用品の適切な所有量について投げかけている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "タオル",
+    "服",
+    "調理器具",
+    "洗面用具"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "bec8a07e15b5d1b4",
+   "url": "https://monomax.jp/archives/357340",
+   "title_original": "【これ本当に付録!?】1～2泊の旅行に激推し！SHIPS anyの「7大機能ボストン」が優秀すぎる",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2026/08/2610_icon.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-15T08:00:49+00:00",
+   "title_ja": "旅行や出張に活躍する多機能ボストンバッグ",
+   "summary_ja": "１〜２泊の旅行や出張に最適とされる、SHIPS anyの「7大機能ボストン」の使い勝手を紹介。多くの荷物をすっきりと収納できる優秀なバッグとして、身軽な移動をサポートする。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "ボストンバッグ"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "02e4f31bfbe3dffd",
+   "url": "https://www.reddit.com/r/simpleliving/comments/1vowmm8/has_anyone_done_a_proper_subscription_clean_out",
+   "title_original": "Has anyone done a proper subscription clean out?",
+   "source": "r/simpleliving",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-15T07:43:14+00:00",
+   "title_ja": "毎月のサブスクリプションを整理し始めた人の話",
+   "summary_ja": "気づかないうちに増えていく動画配信やストレージなどのサブスクリプションを整理するため、銀行の明細書を確認して不要なサービスを解約しようとする試み。支出を減らし、暮らしをシンプルにすることを目指している。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
   {
    "id": "293b1a85e498d5e2",
    "url": "https://www.roomie.jp/2026/08/1863825",
@@ -431,6 +752,22 @@
    "importance": 2
   },
   {
+   "id": "f68b85e0772b1bee",
+   "url": "https://www.youtube.com/watch?v=gZS7o3h2Eqs",
+   "title_original": "【8/16まで】成功する人に共通する思考法",
+   "source": "やましたひでこ断捨離",
+   "image": "https://i4.ytimg.com/vi/gZS7o3h2Eqs/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-14T22:00:24+00:00",
+   "title_ja": "断捨離で成功する人に共通する思考法",
+   "summary_ja": "断捨離の提唱者であるやましたひでこが、片づけを成功させるために必要な思考法を解説する。物と向き合い、手放すための判断基準や、暮らしをシンプルに整えるための心の持ち方が紹介されている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "edba5a5b3351c871",
    "url": "https://www.reddit.com/r/declutter/comments/1vokjpm/have_less_wear_it_out_then_replace_my_journey",
    "title_original": "Have less. Wear it out. Then replace. My journey with household linens.",
@@ -464,6 +801,42 @@
    "axis": "reduce",
    "things": [],
    "importance": 2
+  },
+  {
+   "id": "856c234d18b49da4",
+   "url": "https://graziamagazine.com/us/articles/justin-biebers-living-room-is-the-most-sophisticated-example-of-warm-minimalism-weve-seen-in-years-25497",
+   "title_original": "Justin Bieber's Living Room Is the Most Sophisticated Example of Warm Minimalism We've Seen in Years",
+   "source": "graziamagazine.com",
+   "image": "https://graziamagazine.com/us/wp-content/uploads/sites/15/2026/08/BroadimageShutterstock.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-14T19:38:27+00:00",
+   "title_ja": "ジャスティン・ビーバーの温かみあるミニマムなリビング",
+   "summary_ja": "歌手のジャスティン・ビーバーの自宅リビングルームが、洗練された「ウォーム・ミニマリズム（温かみのあるミニマリズム）」の優れた実例として紹介されている。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "618550d81b1ed4e3",
+   "url": "https://www.reddit.com/r/onebag/comments/1vogigv/clothes_drying_tip",
+   "title_original": "Clothes drying tip",
+   "source": "r/onebag",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-14T19:11:01+00:00",
+   "title_ja": "旅先での洗濯物を劇的に早く乾かす簡単なアイデア",
+   "summary_ja": "旅行中に手洗いした衣類を早く乾かすコツを紹介。空気を入れて膨らませたホテルのビニール袋やジップロックをシャツの内側に入れることで、生地の間に空気の通り道を作り、乾燥時間を大幅に短縮できる。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "ビニール袋",
+    "ジップロック",
+    "シャツ"
+   ],
+   "importance": 3
   },
   {
    "id": "96ae5a2b7e4dfc05",
@@ -562,6 +935,22 @@
    "importance": 3
   },
   {
+   "id": "acaaff342e3950b7",
+   "url": "https://mama.smt.docomo.ne.jp/ranune/pre/articles/555013",
+   "title_original": "夏は時短美容【5分で完了スキンケア】時間の断捨離でタイパ美容にトライ！ | ラナーヌ",
+   "source": "ママテナ",
+   "image": "https://assets.mama.aacdn.jp/contents/237/2026/8/1786719973807_4j9twzco9bk.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-14T15:00:55+00:00",
+   "title_ja": "5分で完了するスキンケアで時間の断捨離を目指す方法",
+   "summary_ja": "夏の時短美容として、わずか5分で完了するスキンケアを取り入れることで、無駄な時間を削減する「時間の断捨離」を提案。忙しい日々の中で、タイパ（タイムパフォーマンス）を意識したシンプルなスキンケア習慣を推奨している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
    "id": "2e2b550ea92d460c",
    "url": "https://www.reddit.com/r/minimalism/comments/1vo8w2k/whats_in_your_make_up_bag",
    "title_original": "What's in your make up bag?",
@@ -576,6 +965,25 @@
    "axis": "own",
    "things": [
     "メイクポーチ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ecb080016a0b86f3",
+   "url": "https://mshale.com/a59cc6ab/d2a5a960HAOB4pZY_ns",
+   "title_original": "Will This Featherweight Backpack Replace Your Roller? | Pakt One Review Epl (jrct5DMotL)",
+   "source": "Mshale",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-14T14:24:51+00:00",
+   "title_ja": "軽量バックパックが旅行用キャリーケースの代わりになるか",
+   "summary_ja": "超軽量なバックパック「Pakt One」のレビュー。従来のキャスター付きキャリーケースの代わりとして十分機能するのか、ミニマルな旅行スタイルを求める人に向けてその実用性を検証している。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "バックパック",
+    "キャリーケース"
    ],
    "importance": 3
   },
@@ -768,6 +1176,22 @@
     "ポロシャツ"
    ],
    "importance": 3
+  },
+  {
+   "id": "a63a78a12d2251c9",
+   "url": "https://www.walkerplus.com/article/1339527/image16602909.html",
+   "title_original": "画像10 / 192＞【漫画】「復活すんな、飲み会文化」「モヤる…ご祝儀へのお返し問題」「プレゼントの金額差」「プレゼントは何が欲しいか聞け」「コストが大きいほど大事？〜断捨離爆遅太郎〜」ほか収録／著：ゐ",
+   "source": "ウォーカープラス",
+   "image": "https://news.walkerplus.com/article/1339527/16602961_615.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-14T12:31:59+00:00",
+   "title_ja": "人間関係のモヤモヤや断捨離をテーマにした漫画作品の紹介",
+   "summary_ja": "人間関係の付き合い方やプレゼントをめぐるモヤモヤ、断捨離が進まない「断捨離爆遅太郎」などのエピソードを収録したWeb漫画の紹介記事。物や人間関係の整理・所有に対する悩みや考え方を描いている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
   },
   {
    "id": "d3991817546e6d28",
@@ -1448,6 +1872,24 @@
    "axis": "reduce",
    "things": [],
    "importance": 2
+  },
+  {
+   "id": "c82359d52bfde619",
+   "url": "https://www.reddit.com/r/Anticonsumption/comments/1vnkqqq/hp_blocks_the_use_of_subscription_cartridges_if",
+   "title_original": "HP blocks the use of subscription cartridges if cancelled",
+   "source": "r/Anticonsumption",
+   "image": "https://preview.redd.it/wq06308s17jh1.jpeg?width=640&crop=smart&auto=webp&s=203f74eecbb573deb0c6229a4091a897df75b404",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-13T19:29:01+00:00",
+   "title_ja": "HPのインクサブスクは解約するとカートリッジが使用不可に",
+   "summary_ja": "HPのインクカートリッジのサブスクリプション契約を解約すると、手元にあるカートリッジの利用がシステム的にブロックされて使えなくなる仕様を指摘する投稿。モノを所有せずサービスを契約する際のリスクについて伝えている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "インクカートリッジ"
+   ],
+   "importance": 3
   },
   {
    "id": "dc3844cf6a9123d3",
