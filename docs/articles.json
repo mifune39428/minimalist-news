@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15T04:00:08.950698+09:00",
+ "updated_at": "2026-08-15T10:23:47.449684+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -36,6 +36,10 @@
    "count": 5
   },
   {
+   "name": "ソファ",
+   "count": 4
+  },
+  {
    "name": "バックパック",
    "count": 4
   },
@@ -56,7 +60,7 @@
    "count": 3
   },
   {
-   "name": "ソファ",
+   "name": "フライパン",
    "count": 3
   },
   {
@@ -84,11 +88,11 @@
    "count": 2
   },
   {
-   "name": "フライパン",
+   "name": "ベッド",
    "count": 2
   },
   {
-   "name": "ベッド",
+   "name": "家具",
    "count": 2
   },
   {
@@ -130,6 +134,7 @@
   "Sarah Therese",
   "Simple Lionheart Life",
   "Southern Living",
+  "The Good Men Project",
   "The Minimal Mom",
   "The Minimalists",
   "The Simplicity Habit",
@@ -172,8 +177,203 @@
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 218,
+ "count": 231,
  "items": [
+  {
+   "id": "1910e918d1833079",
+   "url": "https://www.roomie.jp/2026/08/1863694",
+   "title_original": "この防災電球で日頃から備えを。停電しても0.2秒で自動点灯、音声操作も懐中電灯代わりにもなる",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/livaia1.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-15T00:45:04+00:00",
+   "title_ja": "日常使いと防災を兼ねる音声防災電球の紹介",
+   "summary_ja": "普段はLED電球として使いながら、停電時には0.2秒で自動点灯する防災電球を紹介しています。懐中電灯代わりにもなり、日常から備えができるアイテムです。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "防災電球",
+    "USB Type-C充電器"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "8f404f822fe5d406",
+   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vooahy/my_humble_buyitforlife_suggestion_little_giant",
+   "title_original": "My humble BuyItForLife suggestion: Little Giant Ladders",
+   "source": "r/BuyItForLife",
+   "image": "https://preview.redd.it/0p2om3k9ofjh1.jpeg?width=320&crop=smart&auto=webp&s=ccb736b9bbc619d41f7577e26ed222162781d113",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-15T00:29:17+00:00",
+   "title_ja": "長年愛用できる頑丈な梯子のレビュー",
+   "summary_ja": "雨樋の設置やハロウィンの飾り付けなど様々な作業でトラブルなく使えている、一生ものの梯子についての体験談です。少しかさばるものの、これ一台で十分だと語られています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "梯子"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4fc8c1411983a9b3",
+   "url": "https://minimalist-fudeko.com/curbing-problematic-shopping",
+   "title_original": "買いすぎるのはいつものクセ。まず今の気持ちを書き出してみる",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/08/writing-notes.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-15T00:10:40+00:00",
+   "title_ja": "買い物をしすぎるクセと心の穴への向き合い方",
+   "summary_ja": "買い物で心の穴を埋めようとしてしまう悩みに対し、まずは今の気持ちを書き出すことを提案しています。買いすぎてしまうクセを見つめ直すためのアドバイスです。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "39bb86719d4698af",
+   "url": "https://www.roomie.jp/2026/08/1864024",
+   "title_original": "香水初心者だけど、不思議と毎日使いたくなる「バウムのオーデコロン」。パートナーと一緒に愛用しています",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2022/12/221210_baum_09.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-15T00:00:24+00:00",
+   "title_ja": "毎日使いたくなるパートナーと愛用のオーデコロン",
+   "summary_ja": "香水に詳しくなかった執筆者が、パートナーと一緒に毎日愛用しているバウムのオーデコロンについて紹介しています。",
+   "category": "その他",
+   "axis": "own",
+   "things": [
+    "オーデコロン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "a0aae88942e642fb",
+   "url": "https://www.lifehacker.jp/article/2708-hair-dryer-summer-hacks",
+   "title_original": "髪を乾かす時間、もっとラクにできる？ 編集部が実践する夏の“乾かし方”アイデアと愛用ドライヤー",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/12/0d5b6d59-6f08-4743-8eb0-44ab3951111f/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-15T00:00:00+00:00",
+   "title_ja": "夏のドライヤー時間を快適にする実践アイデアと愛用道具",
+   "summary_ja": "夏の億劫なドライヤー時間を少しでもラクにするため、編集部が実践している乾かし方や暑さ対策を紹介。愛用しているドライヤーや、すぐに試せる具体的なコツを交えて快適なヘアケアの工夫を語っている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ドライヤー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "0a7309466cead46f",
+   "url": "https://www.lifehacker.jp/article/2608_businessinsider_muji-scarf",
+   "title_original": "涼しく外出したいけど、首にリングはつけたくない…。たどり着いたのは「無印良品の技アリなスカーフ」だった",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/12/de6143ab-29a9-4fe3-abf6-001203def7bd/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-14T23:30:00+00:00",
+   "title_ja": "首元の暑さ対策に選んだ無印良品の冷感スカーフ",
+   "summary_ja": "独特な形状のネッククーラーに抵抗があった人が、夏の暑さ対策としてたどり着いた無印良品の接触冷感スカーフを紹介。服装になじむデザインで涼しく外出するための工夫を語っている。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "ポケット付きスカーフ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "06a9b8335f2cc5e5",
+   "url": "https://www.roomie.jp/2026/08/1864032",
+   "title_original": "ハンバーグも焼き魚もフライパンで焼くのやめました。電子レンジでプロの仕上がりになるって最高だ",
+   "source": "ROOMIE",
+   "image": "https://www.roomie.jp/wp-content/uploads/2025/05/250312_wahei_parige_11-2.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-14T23:00:37+00:00",
+   "title_ja": "フライパンを使わず電子レンジで焼き目をつける調理法",
+   "summary_ja": "毎日の調理でフライパンを使うのをやめ、電子レンジで手軽に焼き目をつける調理法を実践。ハンバーグや焼き魚などの定番料理をレンジで美味しく仕上げるための便利な調理器具を活用している。",
+   "category": "キッチン・食",
+   "axis": "reduce",
+   "things": [
+    "フライパン",
+    "電子レンジ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "15932ee9af60a8ae",
+   "url": "https://www.lifehacker.jp/article/amazon-anker-nanopowerstrip10in1-2608",
+   "title_original": "52mmしか場所とらない。Ankerの新作「挟むだけ電源タップ」でごちゃつき撲滅",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/07/14/fe71c7be-7f05-448a-9638-5a68e04dde5d/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-14T23:00:00+00:00",
+   "title_ja": "デスクの配線をすっきりさせるAnkerの電源タップ",
+   "summary_ja": "Ankerのクランプ式電源タップを活用し、デスク周りのごちゃつきを解消する方法。限られたスペースでコード類を整理したいときに役立つアイテムです。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "電源タップ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "228fbe637b8e4b23",
+   "url": "https://www.youtube.com/shorts/y2LRlXREShk",
+   "title_original": "来客に異常と言われた我が家の掃除事情 シングルマザー土曜日の朝",
+   "source": "小さな暮らしノート",
+   "image": "https://i2.ytimg.com/vi/y2LRlXREShk/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-14T22:30:03+00:00",
+   "title_ja": "少ないもので暮らすシングルマザーの土曜日の朝",
+   "summary_ja": "少ないもので暮らすシングルマザーが、土曜日の朝に掃除を通じて気持ちをリセットしている様子。徹底した掃除で暮らしと心を整える習慣を紹介しています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "b9fc0da0fd83ee75",
+   "url": "https://goodmenproject.com/everyday-life-2/decluttering-before-the-school-year-how-to-reclaim-space-before-fall",
+   "title_original": "Decluttering Before the School Year: How to Reclaim Space Before Fall",
+   "source": "The Good Men Project",
+   "image": "https://goodmenproject.com/wp-content/uploads/2026/08/iStock-2246331124.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-14T22:05:57+00:00",
+   "title_ja": "新学期を迎える前に自宅のスペースを取り戻す方法",
+   "summary_ja": "新学期のスタートを前に、家の中の不要なものを整理して生活空間を取り戻すための片づけのヒント。季節の変わり目に合わせたスペースの活用法です。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "edba5a5b3351c871",
+   "url": "https://www.reddit.com/r/declutter/comments/1vokjpm/have_less_wear_it_out_then_replace_my_journey",
+   "title_original": "Have less. Wear it out. Then replace. My journey with household linens.",
+   "source": "r/declutter",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-14T21:45:53+00:00",
+   "title_ja": "タオルや寝具を減らして使い切る暮らしの工夫",
+   "summary_ja": "引っ越しを機に大量のタオルや寝具を見直し、傷んだものや使わないものを動物保護施設やチャリティへ寄付した体験談。使い切ってから買い替えるルールを実践しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "タオル",
+    "寝具"
+   ],
+   "importance": 4
+  },
   {
    "id": "eb524c453b736292",
    "url": "https://www.southernliving.com/hings-organizers-keep-when-decluttering-12026195",
@@ -697,6 +897,25 @@
    "importance": 2
   },
   {
+   "id": "f1d56c8101cd9f51",
+   "url": "https://www.reddit.com/r/declutter/comments/1vo0cwm/marketplace_runarounds",
+   "title_original": "Marketplace Runarounds",
+   "source": "r/declutter",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-14T07:21:08+00:00",
+   "title_ja": "ネットの個人売買で家具を手放す際の苦労と判断",
+   "summary_ja": "不用品をネットのマーケットプレイスで手放そうとした際、連絡の遅い購入希望者に振り回された経験談。最終的に素早く対応してくれた人に売却でき、今後は別の処分方法も検討している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "家具",
+    "ソファ"
+   ],
+   "importance": 2
+  },
+  {
    "id": "d6d73d5e0b0ce982",
    "url": "https://www.countryliving.com/uk/homes-interiors/interiors/a73399121/autumn-declutter",
    "title_original": "7 clutter hotspots to tackle before autumn for a calmer home, from the hallway to the junk drawer",
@@ -730,6 +949,26 @@
     "携帯電話"
    ],
    "importance": 4
+  },
+  {
+   "id": "efb050ab8cd24bd5",
+   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vny0ff/my_200_bifl_cordovan_dress_shoes",
+   "title_original": "My $200 BIFL cordovan dress shoes",
+   "source": "r/BuyItForLife",
+   "image": "https://preview.redd.it/annamkzbx9jh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=471820404302ed0b7f605913fcf34bfc3d4cc2e3",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-14T05:09:25+00:00",
+   "title_ja": "フリマアプリで見つけた200ドルの革靴を手入れして履く",
+   "summary_ja": "定価850ドルのコードバン革靴を、中古フリマアプリで200ドルで購入して愛用している人の話。馬毛ブラシと靴磨きで手入れをし、経年変化による色の変化も楽しんでいる。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "革靴",
+    "馬毛ブラシ",
+    "靴磨き"
+   ],
+   "importance": 3
   },
   {
    "id": "d94f31f5795ff472",
