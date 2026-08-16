@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-16T10:29:01.638741+09:00",
+ "updated_at": "2026-08-16T15:45:06.156751+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -60,6 +60,10 @@
    "count": 4
   },
   {
+   "name": "財布",
+   "count": 4
+  },
+  {
    "name": "カード",
    "count": 3
   },
@@ -69,10 +73,6 @@
   },
   {
    "name": "フライパン",
-   "count": 3
-  },
-  {
-   "name": "財布",
    "count": 3
   },
   {
@@ -227,8 +227,42 @@
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 285,
+ "count": 288,
  "items": [
+  {
+   "id": "63a4a38a2916b980",
+   "url": "https://www.reddit.com/r/minimalism/comments/1vpom67/military_plaques_and_awards",
+   "title_original": "Military Plaques and Awards",
+   "source": "r/minimalism",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-16T05:36:16+00:00",
+   "title_ja": "軍の記念品と向き合い、思い出の品を手放す話",
+   "summary_ja": "軍の退役を機にミニマリストになった投稿者が、長年保管してきた大量の軍の表彰盾や記念品の扱いに悩んでいる。 sentimentalな価値を見出せないものの、心の重荷になっていた過去の記念品を手放そうと向き合っている体験談である。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "e1b2fe952261bbba",
+   "url": "https://www.lifehacker.jp/article/machi-ya-yoshinawallet-review-960256",
+   "title_original": "買った日から手に馴染むコンパクトな本革財布。使って気づいた、いろんな強み",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/07/30/16bb010f-2037-43ac-ad44-d7052fdf430f/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-16T05:00:00+00:00",
+   "title_ja": "手に馴染むコンパクトな本革財布の使用感",
+   "summary_ja": "牛革と豚革を合わせた、買った直後からしなやかに使えるコンパクトな本革財布を紹介している。大きく開くスクエア型の小銭入れや、6枚のカードを個別に収納できる使い勝手の良さが特徴である。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "財布"
+   ],
+   "importance": 3
+  },
   {
    "id": "dc394fb6540465a7",
    "url": "https://www.roomie.jp/2026/08/1864364",
@@ -245,6 +279,25 @@
    "things": [
     "財布",
     "slim2"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "0a330788e9a1d5df",
+   "url": "https://minimalist-fudeko.com/remake-memorabilia",
+   "title_original": "使い道を変える、出産前に片づける、書いて動き出す〜読者3人の近況",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/08/wind-chime.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-16T00:10:40+00:00",
+   "title_ja": "読者3人の近況：物の再利用や出産前の片づけ",
+   "summary_ja": "読者から寄せられた近況を紹介。もらったお鈴を風鈴に作り替えて使い道を変化させたり、出産に向けて部屋の片づけや産前整理を行ったエピソードが綴られている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "お鈴",
+    "風鈴"
    ],
    "importance": 3
   },
