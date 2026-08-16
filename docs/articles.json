@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-16T03:35:10.513780+09:00",
+ "updated_at": "2026-08-16T10:29:01.638741+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -40,12 +40,20 @@
    "count": 6
   },
   {
+   "name": "本",
+   "count": 6
+  },
+  {
    "name": "スマホ",
    "count": 5
   },
   {
-   "name": "本",
+   "name": "モバイルバッテリー",
    "count": 5
+  },
+  {
+   "name": "スマートフォン",
+   "count": 4
   },
   {
    "name": "ソファ",
@@ -64,7 +72,11 @@
    "count": 3
   },
   {
-   "name": "モバイルバッテリー",
+   "name": "財布",
+   "count": 3
+  },
+  {
+   "name": "車",
    "count": 3
   },
   {
@@ -77,6 +89,10 @@
   },
   {
    "name": "iPhone",
+   "count": 2
+  },
+  {
+   "name": "カーディガン",
    "count": 2
   },
   {
@@ -100,10 +116,6 @@
    "count": 2
   },
   {
-   "name": "スマートフォン",
-   "count": 2
-  },
-  {
    "name": "タオル",
    "count": 2
   },
@@ -124,15 +136,11 @@
    "count": 2
   },
   {
+   "name": "日傘",
+   "count": 2
+  },
+  {
    "name": "水筒",
-   "count": 2
-  },
-  {
-   "name": "財布",
-   "count": 2
-  },
-  {
-   "name": "車",
    "count": 2
   },
   {
@@ -219,8 +227,171 @@
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 272,
+ "count": 285,
  "items": [
+  {
+   "id": "dc394fb6540465a7",
+   "url": "https://www.roomie.jp/2026/08/1864364",
+   "title_original": "開いた瞬間に残金がわかる。薄さ1.5cmの日本製レザー財布なら身軽に過ごせそうだよ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/slim24.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-16T00:45:01+00:00",
+   "title_ja": "薄さ1.5cmの日本製レザー財布で身軽に過ごす話",
+   "summary_ja": "現金とカードを数枚収められる厚さ1.5cmの日本製レザー財布「slim2」を紹介。開いた瞬間に残高が把握できる高い視認性とコンパクトさを両立しており、持ち物を最小限に抑えてスマートに過ごしたい人に適している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "財布",
+    "slim2"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e5e9f1024fe60c43",
+   "url": "https://www.lifehacker.jp/article/2608-think-10000-steps-day-magic-number-for-brain-health-research-suggests-otherwise",
+   "title_original": "「1日1万歩」神話、そろそろ手放してもいいかもしれません。脳が喜ぶのは実はもっと手前でした",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/13/f9fa34d6-1d27-4f46-a47e-feccd71caf2f/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-16T00:00:00+00:00",
+   "title_ja": "1日1万歩という目標を手放して脳を健康に保つ話",
+   "summary_ja": "健康の基準とされてきた「1日1万歩」という固定観念を見直し、より少ない歩数でも脳を守る効果が得られるという研究結果を紹介。無理な目標にとらわれず、日々の生活の中で続けやすい歩き方や習慣の整え方を解説している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "01d9249f4c38cb47",
+   "url": "https://www.lifehacker.jp/article/2608_roomie_marna-shupatto-umbrella",
+   "title_original": "マーナの「閉じるだけでたためる日傘」を導入したら、ズボラな私でも毎日持ち歩けるようになりました",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/12/93caa835-3dd0-4a29-b4d3-f7ea560a9082/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-15T23:30:00+00:00",
+   "title_ja": "簡単に畳めるマーナの日傘を導入し、毎日持ち歩けるようになった人の話",
+   "summary_ja": "日傘をマーナの「Shupatto アンブレラ UV」に変えたところ、ワンアクションで簡単に開閉できるようになり、面倒くさがりでも毎日気軽に持ち歩けるようになった事例。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "Shupatto アンブレラ UV",
+    "日傘"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c6beea347b8e9d2a",
+   "url": "https://www.reddit.com/r/simpleliving/comments/1vph2l5/my_simplest_birthday_was_my_happiest",
+   "title_original": "My simplest birthday was my happiest",
+   "source": "r/simpleliving",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-15T23:16:26+00:00",
+   "title_ja": "派手な祝い事をやめ、近所での朝食や庭仕事で静かで幸せな誕生日を過ごした話",
+   "summary_ja": "普段忙しく過ごす38歳の女性が、大きなパーティーやプレゼントを用意せず、夫と朝食を食べたり庭仕事や洗濯をしたりして過ごしたシンプルな誕生日。特別なことをしない静かな暮らしが、ここ数年で最も幸せで心満たされる日となった。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "19db4a46607eeca9",
+   "url": "https://www.lifehacker.jp/article/amazon-cio-handyfan-2608",
+   "title_original": "「どこでも涼」と「モバ充」合体。CIO初のハンディファンは年中無休だ",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/07/15/2f9f31cd-778d-416a-8d60-02ac8cbe6f81/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-15T23:00:00+00:00",
+   "title_ja": "モバイルバッテリー機能を備えたCIO初のハンディファンが発売された話",
+   "summary_ja": "モバイルバッテリーのメーカーとして知られるCIOから、多機能な「CIO Handy Fan」が登場。扇風機としてだけでなくモバイルバッテリーとしても活躍し、年間を通して使える便利な道具となっている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "CIO Handy Fan",
+    "ハンディファン",
+    "モバイルバッテリー"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "bc4fc0a87128631b",
+   "url": "https://www.reddit.com/r/onebag/comments/1vpgoyu/trip_report_5_days_in_northern_ireland_including",
+   "title_original": "Trip report: 5 days in Northern Ireland, including travel days",
+   "source": "r/onebag",
+   "image": "https://preview.redd.it/9ffr7qi0dmjh1.jpg?width=140&height=105&auto=webp&s=b34dd25ab26faa29f93ba4ea1f509e18e9097980",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-15T22:59:07+00:00",
+   "title_ja": "北アイルランド5日間の旅で、不要な服や失敗した衣類選びを振り返った話",
+   "summary_ja": "電車とフェリーで北アイルランドへ5日間旅行した際の服選びの振り返り。想定より暖かく手洗い洗濯が必要になり、厚手のパンツや重ね着用の長袖は不要だったと実感。気候に合わせた最小限の衣服選びの大切さを語っている。",
+   "category": "旅・持ち歩き",
+   "axis": "reduce",
+   "things": [
+    "ウォーキングパンツ",
+    "カーディガン",
+    "長袖Tシャツ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "23b2bd9154a15296",
+   "url": "https://www.reddit.com/r/minimalism/comments/1vpff0j/i_bought_some_stuff_today",
+   "title_original": "I bought some stuff today.",
+   "source": "r/minimalism",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-15T22:00:57+00:00",
+   "title_ja": "シビアなミニマリストがたまの買い物を楽しみ気分転換に繋げている話",
+   "summary_ja": "極端なミニマリストでありながらも、時に外出して買い物をする楽しさを味わう人の体験談。未完成のノートや本、花瓶に再利用できる瓶詰めの桃などを購入し、矛盾を感じつつもたまの買い物が生活の適度な息抜きになっていると明かしている。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [
+    "ジャーナル",
+    "本",
+    "桃の瓶詰め",
+    "ホットソース"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "9049c0b719ac7f7f",
+   "url": "https://www.lifehacker.jp/article/2608-googles-productivity-expert-says-this-is-the-best-way-to-start-your-day",
+   "title_original": "朝の30分は「余白」への投資。前夜の仕込みから変わる心地よいスタートライン",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2025/05/07/62c2408c-4e22-4d3e-8659-1e30036ea41f/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-15T22:00:00+00:00",
+   "title_ja": "Googleのアドバイザーが勧める心地よい朝を迎えるための過ごし方",
+   "summary_ja": "Googleで生産性のアドバイザーを務める人物が推奨する朝の過ごし方についての記事。前日の夜から準備を行い、朝に30分の余白を作ることで心地よく一日を開始する工夫を紹介している。生活の効率化とゆとりの作り方が語られている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "0a83c961a794f5c8",
+   "url": "https://www.reddit.com/r/simpleliving/comments/1vpdr89/the_answer_was_not_a_better_routine_it_was_5",
+   "title_original": "the answer was not a better routine. it was 5 hours less work",
+   "source": "r/simpleliving",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-15T20:50:20+00:00",
+   "title_ja": "多忙な日常の解決策としてルーティン改善ではなく労働時間を削った話",
+   "summary_ja": "多忙な生活を改善するためルーティンを効率化しようとしていた女性が、物理的に週の労働時間を40時間から35時間に減らした体験談。日々の詰め込み作業をやめ、根本的な時間量を減らすことが心のゆとりに繋がったと伝えている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
   {
    "id": "2b0b32bba6c048b0",
    "url": "https://www.reddit.com/r/minimalism/comments/1vp6q44/its_freeing_to_have_less_clutter",
@@ -236,6 +407,45 @@
    "axis": "reduce",
    "things": [],
    "importance": 4
+  },
+  {
+   "id": "a31d27313cde9094",
+   "url": "https://www.reddit.com/r/onebag/comments/1vp4vdd/nitecore_nb_air_5000mah_not_fully_charging",
+   "title_original": "Nitecore NB Air 5000mAh not fully charging - looking for an alternative",
+   "source": "r/onebag",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-15T14:53:19+00:00",
+   "title_ja": "軽量モバイルバッテリーの不具合から代替品を探す投稿者の相談",
+   "summary_ja": "薄型で軽量な5000mAhのモバイルバッテリーが正常に充電できなくなったため、信頼性の高い代替品を求める投稿。スマートフォンの充電に必要な最小限の容量とコンパクトさを重視した道具選びの視点が示されている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "モバイルバッテリー",
+    "スマートフォン"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "ff165746a07aa07a",
+   "url": "https://www.roomie.jp/2026/08/1863733",
+   "title_original": "自分へのご褒美やギフトにも。電池も充電も不要、世界でひとつのオリーブ材の自動巻き腕時計",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/woodsoundolive2.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-15T13:45:29+00:00",
+   "title_ja": "スマホやスマートウォッチの通知から離れるための木製自動巻き腕時計",
+   "summary_ja": "スマートフォンやスマートウォッチの通知に縛られる生活から脱し、心を休めるためにトラディショナルな腕時計を提案する記事。電池や充電が不要なwoodsoundの「オリーブ木製自動巻腕時計」は、機械式ムーブメントをオリーブの木で包んだ温かみのあるデザインが特徴。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "オリーブ木製自動巻腕時計",
+    "スマートフォン",
+    "スマートウォッチ"
+   ],
+   "importance": 3
   },
   {
    "id": "bae76fbab5c8e0c0",
@@ -1063,6 +1273,24 @@
    "importance": 3
   },
   {
+   "id": "f8b5af02db705953",
+   "url": "https://www.reddit.com/r/onebag/comments/1vo9pwe/10_days_in_taiwan_with_the_ula_cicada_ewp",
+   "title_original": "10 days in Taiwan with the ULA Cicada EWP",
+   "source": "r/onebag",
+   "image": "https://preview.redd.it/rk12rvx8vcjh1.jpg?width=140&height=84&auto=webp&s=d78b82cec35826ce91f57cf04bcc3c77a3539e78",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-14T15:03:08+00:00",
+   "title_ja": "バックパック1つで台湾に10日間滞在した人のパッキングリスト",
+   "summary_ja": "「ULA Cicada EWP」というバックパックを使い、台湾に10日間滞在したミニマリストの持ち物リスト。軽量化のためのパッキングリスト作成ツール「LighterPack」のリンクを通じて、実際に持参した具体的なアイテム一覧が公開されている。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "ULA Cicada EWP"
+   ],
+   "importance": 3
+  },
+  {
    "id": "acaaff342e3950b7",
    "url": "https://mama.smt.docomo.ne.jp/ranune/pre/articles/555013",
    "title_original": "夏は時短美容【5分で完了スキンケア】時間の断捨離でタイパ美容にトライ！ | ラナーヌ",
@@ -1812,6 +2040,24 @@
     "パスケース"
    ],
    "importance": 3
+  },
+  {
+   "id": "e68eae95267785c5",
+   "url": "https://www.reddit.com/r/simpleliving/comments/1vnsw1q/tips_on_living_a_quiet_life_in_the_big_city",
+   "title_original": "Tips on living a quiet life in the big city?",
+   "source": "r/simpleliving",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-14T00:59:26+00:00",
+   "title_ja": "大都市で車を手放し静かに暮らすためのアドバイスを求める投稿",
+   "summary_ja": "自然や静けさを愛する人が、キャリアのために大都市シカゴへ移住するにあたり、都会で穏やかに暮らすコツを尋ねる投稿。散歩が好きで車を手放す予定であり、仕事をこなすだけでなく都会でのシンプルな暮らしを前向きに楽しむための知恵を求めている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "車"
+   ],
+   "importance": 4
   },
   {
    "id": "568c3acf4a63db9a",
