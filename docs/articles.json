@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-16T21:45:40.826339+09:00",
+ "updated_at": "2026-08-17T03:35:05.274844+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -32,12 +32,12 @@
    "count": 14
   },
   {
-   "name": "バッグ",
+   "name": "バックパック",
    "count": 7
   },
   {
-   "name": "バックパック",
-   "count": 6
+   "name": "バッグ",
+   "count": 7
   },
   {
    "name": "本",
@@ -120,6 +120,10 @@
    "count": 2
   },
   {
+   "name": "スピーカー",
+   "count": 2
+  },
+  {
    "name": "タオル",
    "count": 2
   },
@@ -137,6 +141,10 @@
   },
   {
    "name": "写真",
+   "count": 2
+  },
+  {
+   "name": "収納アイテム",
    "count": 2
   },
   {
@@ -164,6 +172,10 @@
    "count": 2
   },
   {
+   "name": "食器",
+   "count": 2
+  },
+  {
    "name": "食器棚",
    "count": 2
   }
@@ -181,6 +193,7 @@
   "Country Living Magazine",
   "FinanceBuzz",
   "Georgia Asian Times",
+  "Hindustan Times",
   "Ideal Home",
   "Infoseek",
   "LIMO | くらしとお金の経済メディア",
@@ -225,6 +238,7 @@
   "r/onebag",
   "r/simpleliving",
   "southernliving.com",
+  "t.co",
   "thespruce.com",
   "うにのゆるシンプルな暮らし",
   "ぴーこ｜ゆるっとミニマルな日常",
@@ -247,8 +261,137 @@
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 308,
+ "count": 322,
  "items": [
+  {
+   "id": "af1c3d4cabaf00dd",
+   "url": "https://www.reddit.com/r/simpleliving/comments/1vq1p01/a_peek_into_my_simple_day_cottage_life_in_finland",
+   "title_original": "A peek into my simple day. Cottage life in Finland",
+   "source": "r/simpleliving",
+   "image": "https://preview.redd.it/m7aax0b9jrjh1.jpg?width=140&height=78&auto=webp&s=5c81d77a69bf7aaea0101d7cb8f909c8f7c0f970",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-16T16:35:57+00:00",
+   "title_ja": "フィンランドの小屋で時計を持たずに過ごすシンプルな日常",
+   "summary_ja": "フィンランドのコテージで、時間にとらわれず湖を眺めてお茶を飲み、薪割りやサウナを楽しんで過ごす人の話。水道のない環境で、ベリー摘みや水浴びなど自然と共に暮らすことで、質の高い睡眠と心豊かな時間を手に入れている。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [
+    "サウナ",
+    "薪"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "e0bbd702404c3bec",
+   "url": "https://www.roomie.jp/2026/08/1862595",
+   "title_original": "見た目も性能も大満足！ アールケの「炭酸メーカー」を迎えて生活が整った話",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/P1020288_16_9-scaled.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-16T13:30:22+00:00",
+   "title_ja": "ペットボトルゴミを減らすために炭酸メーカーを買った人の話",
+   "summary_ja": "間食代わりに炭酸水を飲む習慣で増えたペットボトルゴミを減らすため、アールケの炭酸メーカー「Carbonator 3」を導入した体験談。ゴミが減って罪悪感が消えたほか、スタイリッシュなデザインやランニングコストの良さで暮らしが整った。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "炭酸メーカー",
+    "ペットボトル"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "7bc80d46c9ab65a2",
+   "url": "https://www.lifehacker.jp/article/2608-lht-yamazakijitsugyou-storage-rack-matome",
+   "title_original": "「隠す」と「使いやすさ」のバランスが鍵。無理せず部屋が整う、デッドスペース活用収納3つ",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/13/82552858-e351-4a72-86a6-979a466a7a1f/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-16T13:15:00+00:00",
+   "title_ja": "山崎実業の「隠せる」収納アイテムでデッドスペースを活用し部屋を整える方法",
+   "summary_ja": "山崎実業の「隠せる」収納アイテムを3つピックアップし、デッドスペースを有効活用する方法を紹介。部屋の雰囲気やインテリアになじむデザイン性と実用性を両立させ、無理なく部屋をすっきりと整えるポイントを解説している。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "収納アイテム"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "e593b4b2dbcb5406",
+   "url": "https://www.roomie.jp/2026/08/1858216",
+   "title_original": "風通し抜群のモンベル「ドライタッチシャツ」は夏の味方。 サラサラの着心地がずっと続く1着です",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/20260816_montbell_1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-16T13:00:02+00:00",
+   "title_ja": "夏の暑さを乗り切るモンベルの「ドライタッチシャツ」の着心地レビュー",
+   "summary_ja": "猛暑の夏を乗り切るための1着として、モンベルの半袖「ドライタッチシャツ」を紹介。風通しがよく、サラサラとした涼しい着心地が持続するアウトドアウェアの魅力を伝えている。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "ドライタッチシャツ",
+    "半袖シャツ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "6a84a43e0d1aa0bf",
+   "url": "https://www.reddit.com/r/onebag/comments/1vpwfjz/review_of_osprey_ultralight_dry_stuff_pack_20l",
+   "title_original": "Review of Osprey Ultralight Dry Stuff Pack 20L",
+   "source": "r/onebag",
+   "image": "https://preview.redd.it/ygmi1u9e1qjh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=796333228e1ae0fb6debd0a86d16e4117c699708",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-16T12:59:14+00:00",
+   "title_ja": "重さ約200gで折りたためるオスプレーの20L防水リュックの使用レビュー",
+   "summary_ja": "重さ約200gでたたむとパンほどの大きさになる、オスプレーの20L防水リュックのレビュー。13インチのPCが入る容量や、水筒や手袋を入れられる便利なサイドポケット、大雨での使用感などを解説している。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "オスプレーの防水リュック",
+    "リュック"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "fbb54e501d2745c5",
+   "url": "https://www.roomie.jp/2026/08/1864646",
+   "title_original": "「クリップ1個でパンツ吊るす」ってアリ？試したらクローゼットがスッキリ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/onecliphanger3.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-16T12:45:06+00:00",
+   "title_ja": "パンツをクリップ1個で吊るしてクローゼットを省スペース化するハンガー",
+   "summary_ja": "クリップ1個でパンツを吊るす「ワンクリップアルミハンガー」の使用感を検証した記事。クローゼットをスッキリと整理でき、省スペースで服を掛けられるこだわりの収納道具を紹介している。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "ワンクリップアルミハンガー",
+    "クリップハンガー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "1d72c4eeec92247f",
+   "url": "https://mama.smt.docomo.ne.jp/pre/articles/556075",
+   "title_original": "一緒に住める？ミニマリストが案ずる、捨てられない＆片付けられない彼との結婚生活",
+   "source": "ママテナ",
+   "image": "https://assets.mama.aacdn.jp/contents/195/2026/8/1786797376051_gmfrxjomffk.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-16T12:36:16+00:00",
+   "title_ja": "片付けられない彼との結婚を悩むミニマリストの葛藤",
+   "summary_ja": "物を捨てられない、片付けられないパートナーとの結婚生活を控えたミニマリストが、価値観の違いや一緒に暮らすことへの不安について案じている。お互いの持ち物の管理や暮らしのルール作りをどうすべきかという、共同生活における課題が提示されている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "59b7c469e6b97558",
    "url": "https://www.lifehacker.jp/article/2608-what-people-with-a-success-mindset-do-instead-of-follow-morning-routines-gyo",
@@ -299,6 +442,26 @@
    "things": [
     "イヤホン",
     "VK-ASPEN"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "a46d3724af6a6747",
+   "url": "https://www.reddit.com/r/onebag/comments/1vpuhdu/credits_to_usafaridoc1_for_giving_me_this_idea",
+   "title_original": "Credits to u/Safaridoc1 for giving me this idea for drying shirts",
+   "source": "r/onebag",
+   "image": "https://preview.redd.it/srl3bemh1qjh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=737ef75c2431a1189682ba5cd2586001a39df619",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-16T11:21:17+00:00",
+   "title_ja": "旅先でシャツを乾かすために自作した軽量セパレーター",
+   "summary_ja": "旅行時の衣類乾燥を効率化するため、ナイロンフィラメントと磁石を使ってTシャツ用のセパレーターを自作したアイデア。重さはわずか10グラムで、通気性を高める工夫が施されている。今後はさらにコンパクトに持ち運べるよう、伸縮式や折りたたみ式の開発も検討している。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "Tシャツセパレーター",
+    "磁石",
+    "ナイロンフィラメント"
    ],
    "importance": 3
   },
@@ -439,6 +602,24 @@
    "importance": 3
   },
   {
+   "id": "d713ac48f4a2a3b6",
+   "url": "https://news.livedoor.com/article/detail/32078557",
+   "title_original": "使いきれない食器はどう手放す？ライフさんのすっきり暮らす断捨離術と収納アイデア",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-16T05:59:00+00:00",
+   "title_ja": "使いきれない食器を手放してすっきり暮らす断捨離のコツ",
+   "summary_ja": "使いきれずにたまっている食器を整理し、すっきりと暮らすための断捨離術と収納アイデアを提案する記事。抜粋情報がないため具体的な手順の詳細は不明だが、手放す基準や効果的な収納方法について解説している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "食器"
+   ],
+   "importance": 3
+  },
+  {
    "id": "63a4a38a2916b980",
    "url": "https://www.reddit.com/r/minimalism/comments/1vpom67/military_plaques_and_awards",
    "title_original": "Military Plaques and Awards",
@@ -491,6 +672,27 @@
    "importance": 2
   },
   {
+   "id": "3b742c5adaee2a5c",
+   "url": "https://www.reddit.com/r/onebag/comments/1vpl6ng/first_one_bagging_trip_coming_up",
+   "title_original": "First one bagging trip coming up",
+   "source": "r/onebag",
+   "image": "https://preview.redd.it/u0pe0ptofnjh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=1971b8e7adc956a996dce260a335da2a065f3fd0",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-16T02:35:28+00:00",
+   "title_ja": "15日間の旅行をバッグ1つでこなすミニマルなパッキング",
+   "summary_ja": "初めてバックパック1つでの15日間の旅行に挑戦する人の持ち物リスト。28Lのバッグに、MacBookや充電器、Tシャツ6枚、ショーツ3着、下着類、トイレタリーバッグなどをコンパクトに収納し、旅の準備を整えている。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "バックパック",
+    "MacBook",
+    "Tシャツ",
+    "トイレタリーバッグ"
+   ],
+   "importance": 4
+  },
+  {
    "id": "12affc1290dede61",
    "url": "https://www.sanspo.com/article/20260816-EZJ5UXSAP5GZFABAB7DYQLRJIQ",
    "title_original": "田中みな実「炊飯器も毎回しまってる」ミニマリストぶりにテリー伊藤「結婚したかったな」",
@@ -524,6 +726,22 @@
    "things": [
     "服"
    ],
+   "importance": 4
+  },
+  {
+   "id": "bf524c5fc2ea4fcd",
+   "url": "https://www.reddit.com/r/simpleliving/comments/1vpj3mh/whats_something_you_completely_stopped_caring",
+   "title_original": "What’s something you completely stopped caring about after turning 30 that used to take up way too much of your energy?",
+   "source": "r/simpleliving",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-16T00:51:58+00:00",
+   "title_ja": "30代になって人間関係への執着を手放した人の話",
+   "summary_ja": "20代の頃は大人数の友人グループに合わせることに疲れ、誘いを断ることに罪悪感を抱いていた投稿者。30代になり人間関係を見直したことで、現在は家での静かな時間を楽しみ、本当に親しい数人の友人とだけ付き合うシンプルな暮らしを送っている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
    "importance": 4
   },
   {
@@ -600,6 +818,26 @@
    "importance": 3
   },
   {
+   "id": "72bb3c286247f8ca",
+   "url": "https://www.reddit.com/r/Anticonsumption/comments/1vph9qg/people_threw_away_a_tv_with_a_cracked_screen_i",
+   "title_original": "People threw away a TV with a cracked screen, I salvaged it",
+   "source": "r/Anticonsumption",
+   "image": "https://preview.redd.it/h2y0z9ethmjh1.jpg?width=140&height=105&auto=webp&s=77f1a8ecadbc0830fe9218fb378ba4ff0e483b86",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-15T23:25:43+00:00",
+   "title_ja": "画面が割れて捨てられたテレビを回収して再利用する話",
+   "summary_ja": "画面が割れて廃棄されていたテレビを回収し、部品を再利用しようとする試み。特に電源基板は様々な電圧を出力できるため有用であり、これらを使ってデスクトップスピーカーを自作するほか、割れた画面は妹が活用する予定だという。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "テレビ",
+    "スピーカー",
+    "電源基板"
+   ],
+   "importance": 3
+  },
+  {
    "id": "c6beea347b8e9d2a",
    "url": "https://www.reddit.com/r/simpleliving/comments/1vph2l5/my_simplest_birthday_was_my_happiest",
    "title_original": "My simplest birthday was my happiest",
@@ -614,6 +852,22 @@
    "axis": "reduce",
    "things": [],
    "importance": 4
+  },
+  {
+   "id": "fe1f6bc76ea06fb8",
+   "url": "https://t.co/znpR5uAE21",
+   "title_original": "『ごみ箱からひとつかみ展覧会【断捨離斬り編】』",
+   "source": "t.co",
+   "image": "https://stat.ameba.jp/user_images/20260816/07/runinterry/5f/34/j/o0999099915812726867.jpg?cax=1280-720",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-15T23:01:55+00:00",
+   "title_ja": "ごみ箱からひとつかみ展覧会の断捨離をテーマにした催し",
+   "summary_ja": "「ごみ箱からひとつかみ展覧会【断捨離斬り編】」と題されたイベントに関する情報。詳細な抜粋はないが、不要なものを手放す「断捨離」をテーマにした、暮らしの片付けや物の処分に関わる展示活動であることが伺える。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
   },
   {
    "id": "19db4a46607eeca9",
@@ -670,6 +924,22 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
+  },
+  {
+   "id": "3cc78ffcdf22553f",
+   "url": "https://www.hindustantimes.com/astrology/horoscope/lunar-eclipse-2026-from-journaling-to-decluttering-astrologer-shares-practices-for-this-transit-101786830195955.html",
+   "title_original": "Lunar Eclipse 2026: From journaling to decluttering, astrologer shares practices for this transit | Astrology",
+   "source": "Hindustan Times",
+   "image": "https://www.hindustantimes.com/ht-img/img/2026/08/15/1600x900/logo/moon_1757306686541_1757306686707_1786830944286_3f3f55cc-71c7-428c-b9df-54b5ee77715d.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-15T22:05:50+00:00",
+   "title_ja": "2026年の月食期に合わせた片付けやジャーナリングのすすめ",
+   "summary_ja": "2026年の月食という天体の転換期に向け、占星術師が推奨する過ごし方を紹介。心を整えるジャーナリングや、身の回りをすっきりさせる片付けを実践することで、エネルギーを整え、新たな変化に備えるアプローチを提案している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
   },
   {
    "id": "23b2bd9154a15296",
