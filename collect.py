@@ -40,6 +40,8 @@ USER_AGENT = "minimalist-news/1.0 (+https://github.com/mifune39428)"
 FETCH_TIMEOUT = 25
 
 # 新しく取り込む記事の対象期間。ブログは毎日は更新されないので少し広めに取る。
+# フィード側で intake_days を指定すると、その収集元だけ期間を変えられる
+# （Xの投稿は数日〜数週間おきなので、既定の4日だと1件も入らない）。
 INTAKE_DAYS = 4
 # サイトに残す期間と件数の上限。ニュースと違って古びにくい話題なので長めに残す。
 KEEP_DAYS = 45
@@ -55,7 +57,7 @@ MAX_NEW_PER_RUN = 40
 OWN_QUOTA = 12
 # 1回の実行で、過去の記事のサムネイルを取りに行く件数の上限。
 BACKFILL_PER_RUN = 30
-# Reddit は連続で叩くと 429 を返す。slow 指定のフィードはこの間隔をあけて順番に取る。
+# nitter は連続で叩くと弾かれる。slow 指定のフィードはこの間隔をあけて順番に取る。
 SLOW_FEED_INTERVAL = 12
 SLOW_FEED_RETRIES = 2
 
@@ -75,7 +77,7 @@ CATEGORIES = [
     "その他",
 ]
 
-MEDIA_KINDS = ["blog", "news", "youtube", "reddit"]
+MEDIA_KINDS = ["blog", "news", "youtube", "x"]
 REGIONS = ["国内", "海外"]
 
 # Googleニュース経由で紛れ込む、この話題と縁のない出典。部分一致で落とす。
@@ -189,7 +191,7 @@ def _text(node, *paths: str) -> str:
 
 # 記事のサムネイルとして使わない画像（配信計測用の透明画像やアイコンなど）。
 IMAGE_BLOCKLIST = ("feedburner", "gravatar", "/pixel", "1x1", "blank.gif", "spacer",
-                   "doubleclick", "/award_", "redditstatic")
+                   "doubleclick", "/award_", "profile_images")
 IMG_TAG_RE = re.compile(r'<img[^>]+src=["\']([^"\']+)["\']', re.I)
 OG_IMAGE_RE = re.compile(
     r'<meta[^>]+(?:property|name)=["\'](?:og:image(?::url)?|twitter:image(?::src)?)["\']'
@@ -411,12 +413,34 @@ def clean_youtube_description(raw: str) -> str:
     return " ".join(kept).strip()
 
 
-# Redditの本文末に必ず付く定型（投稿者名とリンク）。要約の材料にならないので落とす。
-REDDIT_BOILERPLATE_RE = re.compile(
-    r"\s*submitted by\s*/u/\S+\s*(\[link\])?\s*(\[comments\])?\s*$", re.I)
-# Redditの画像投稿は、本文に <img> ではなく [link] のリンク先として画像URLが入る。
-REDDIT_IMAGE_RE = re.compile(
-    r'href="(https://(?:i|preview)\.redd\.it/[^"]+|https://i\.imgur\.com/[^"]+)"', re.I)
+# X の投稿は nitter 経由で取る。nitter のURL・画像は本家のものに直してから使う。
+NITTER_STATUS_RE = re.compile(r"^https?://[^/]+/([^/]+)/status/(\d+)")
+NITTER_PIC_RE = re.compile(r'src="https?://[^/"]+/pic/(?:orig/)?([^"?]+)(\?[^"]*)?"')
+# nitter の見出しは、リツイートなら "RT by @…"、返信なら "R to @…" で始まる。
+# 本人の言葉ではないので取り込まない。
+RETWEET_PREFIXES = ("RT by ", "R to ")
+
+
+def x_permalink(nitter_url: str) -> str:
+    """nitter のURLを本家 x.com のURLに直す。読む人を nitter に送らないため。"""
+    match = NITTER_STATUS_RE.match(nitter_url)
+    return f"https://x.com/{match.group(1)}/status/{match.group(2)}" if match else nitter_url
+
+
+def x_image(entry) -> str:
+    """投稿に付いている画像を pbs.twimg.com のURLとして取り出す。
+
+    nitter は画像を自分のドメイン経由（/pic/media%2F…）で配 るので、そのままでは
+    こちらのサイトから見えない。元のファイル名に戻して本家のCDNを指す。
+    """
+    raw = _text(entry, "description", f"{CONTENT}encoded")
+    match = NITTER_PIC_RE.search(raw or "")
+    if not match:
+        return ""
+    path = urllib.parse.unquote(match.group(1))
+    # カード画像は既定が name=80（80px）で、サムネイルにすると粗い。大きい版を指す。
+    query = (match.group(2) or "").replace("name=80", "name=medium").replace("name=small", "name=medium")
+    return usable_image(f"https://pbs.twimg.com/{path}{query}", "https://pbs.twimg.com/")
 
 
 def entry_body(entry, media: str) -> str:
@@ -435,19 +459,7 @@ def entry_body(entry, media: str) -> str:
         f"{ATOM}summary",
         f"{ATOM}content",
     )
-    body = strip_html(raw)
-    if media == "reddit":
-        body = REDDIT_BOILERPLATE_RE.sub("", body).strip()
-    return body
-
-
-def reddit_image(entry) -> str:
-    """Redditの投稿から画像を拾う。本文の [link] が画像を指していればそれを使う。"""
-    raw = " ".join(
-        node.text or "" for node in entry.findall(f"{ATOM}content") + entry.findall(f"{ATOM}summary")
-    )
-    match = REDDIT_IMAGE_RE.search(html.unescape(raw))
-    return usable_image(match.group(1), "https://www.reddit.com/") if match else ""
+    return strip_html(raw)
 
 
 def fetch_feed(feed: dict) -> list[dict]:
@@ -502,9 +514,14 @@ def fetch_feed(feed: dict) -> list[dict]:
         if feed.get("google_news"):
             body = ""
 
-        image = image_from_entry(entry, link)
-        if not image and media == "reddit":
-            image = reddit_image(entry)
+        if media == "x":
+            # 本人の投稿だけを、本家へのリンクと本家の画像で取り込む。
+            if title.startswith(RETWEET_PREFIXES):
+                continue
+            link = x_permalink(link)
+            image = x_image(entry)
+        else:
+            image = image_from_entry(entry, link)
 
         items.append(
             {
@@ -517,6 +534,7 @@ def fetch_feed(feed: dict) -> list[dict]:
                 "media": media if media in MEDIA_KINDS else "blog",
                 "region": feed.get("region", "海外"),
                 "hint": feed.get("hint", ""),
+                "intake_days": int(feed.get("intake_days", 0) or 0),
                 "published": (published or dt.datetime.now(dt.timezone.utc)).isoformat(),
             }
         )
@@ -547,8 +565,8 @@ def collect_feed_items(feeds: list[dict]) -> list[dict]:
             collected.extend(items)
 
     if slow:
-        print(f"  Reddit など {len(slow)}本は{SLOW_FEED_INTERVAL}秒あけて順番に取得します"
-              f"（レート制限のため一部は落ちます）")
+        print(f"  X など {len(slow)}本は{SLOW_FEED_INTERVAL}秒あけて順番に取得します"
+              f"（弾かれた分は次の実行に回ります）")
     for index, feed in enumerate(slow):
         if index:
             time.sleep(SLOW_FEED_INTERVAL)
@@ -682,7 +700,7 @@ def interleave_by_source(items: list[dict], limit: int) -> list[dict]:
 # --------------------------------------------------------------------------
 
 PROMPT_TEMPLATE = """あなたは「ミニマリスト」をテーマにした日本語のニュースサイトの編集者です。
-海外・国内のブログ、ニュース、YouTube、Reddit から集めた記事を渡します。
+海外・国内のブログ、ニュース、YouTube、X から集めた記事を渡します。
 日本語の読者向けに「短い見出し」と「要約」を作り、分類してください。
 
 このサイトが読者に届けたいのは次の2つです。
@@ -727,7 +745,7 @@ MEDIA_LABELS = {
     "blog": "ブログ記事",
     "news": "ニュース記事",
     "youtube": "YouTube動画（見出しは動画タイトル、抜粋は概要欄）",
-    "reddit": "Redditの投稿（見出しは投稿タイトル、抜粋は本文）",
+    "x": "Xの投稿（見出しと抜粋はどちらも投稿本文。短いので書かれていること以上に踏み込まない）",
 }
 
 
@@ -828,7 +846,8 @@ def enrich(items: list[dict]) -> list[dict]:
 
 def to_public(item: dict) -> dict:
     """サイトに出す形に整える。原文の抜粋は公開データに残さない。"""
-    return {key: value for key, value in item.items() if key not in ("excerpt", "hint")}
+    return {key: value for key, value in item.items()
+            if key not in ("excerpt", "hint", "intake_days")}
 
 
 # --------------------------------------------------------------------------
@@ -864,7 +883,6 @@ def main() -> int:
     known_titles = [normalize_title(item.get("title_original", "")) for item in existing_items]
 
     now = dt.datetime.now(dt.timezone.utc)
-    cutoff = now - dt.timedelta(days=INTAKE_DAYS)
 
     # 元媒体を先に見ることで、同じ記事がGoogleニュース経由でも流れてきたときに
     # 元の媒体のURLのほうを残す。
@@ -874,6 +892,7 @@ def main() -> int:
     new_items: list[dict] = []
     for item in fetched:
         published = parse_date(item["published"])
+        cutoff = now - dt.timedelta(days=item["intake_days"] or INTAKE_DAYS)
         if published is None or published < cutoff or published > now + dt.timedelta(hours=12):
             continue
         if item["id"] in known_ids or item["url"] in known_urls:
@@ -920,6 +939,8 @@ def main() -> int:
         if item["id"] not in replaced
         and item.get("category") in CATEGORIES
         and item.get("axis") in AXES
+        # 収集をやめた種別（Redditなど）の記事は、次の実行で棚から下ろす。
+        and item.get("media") in MEDIA_KINDS
         and not any(blocked.lower() in item["source"].lower() for blocked in BLOCK_SOURCES)
     ]
 

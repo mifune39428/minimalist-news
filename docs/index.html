@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>ミニマリスト・ニュース</title>
-<meta name="description" content="世界と日本のミニマリストが「どう減らしているか」と「何を持っているか」を、海外ブログ・ニュース・YouTube・Redditから自動で集め、日本語の要約付きでまとめています。6時間ごとに更新。">
+<meta name="description" content="世界と日本のミニマリストが「どう減らしているか」と「何を持っているか」を、個人ブログ・ニュース・YouTube・Xから自動で集め、日本語の要約付きでまとめています。6時間ごとに更新。">
 <meta name="theme-color" content="#f4f2ee" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#121212" media="(prefers-color-scheme: dark)">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -207,7 +207,7 @@
 </main>
 
 <footer>
-  <p>海外・国内のブログ、ニュース、YouTube、Reddit を自動で集め、見出しと要約を機械生成しています。要約は原文の全訳ではありません。詳しい内容は必ず出典元をご確認ください。</p>
+  <p>海外・国内の個人ブログ、ニュース、YouTube、X を自動で集め、見出しと要約を機械生成しています。要約は原文の全訳ではありません。詳しい内容は必ず出典元をご確認ください。</p>
   <p>「🍃 減らし方」は物を手放す方法や考え方、「🎒 持ち物」は減らしたうえで実際に使っている物の話です。振り分けも自動なので、時々ずれることがあります。</p>
   <p>海外の記事は「🌐 日本語で読む」から Google 翻訳を通したページが開きます。翻訳は Google によるもので、当サイトが訳したものではありません。翻訳を受け付けない媒体もあるので、その場合は隣の「原文」からお読みください。</p>
   <p>記事に出てくる持ち物の名前は、要約の際に本文から拾ったものです。商品名や仕様は出典元でご確認ください。</p>
@@ -225,7 +225,7 @@ const fmt = new Intl.DateTimeFormat("ja-JP", {
   month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit", timeZone: "Asia/Tokyo"
 });
 
-const MEDIA_LABELS = { blog: "📝 ブログ", news: "🗞 ニュース", youtube: "▶️ YouTube", reddit: "💬 Reddit" };
+const MEDIA_LABELS = { blog: "📝 ブログ", news: "🗞 ニュース", youtube: "▶️ YouTube", x: "𝕏 ポスト" };
 const AXIS_LABELS = { reduce: "減らし方", own: "持ち物" };
 const AXIS_MARK = { reduce: "🍃", own: "🎒" };
 
@@ -248,9 +248,10 @@ function translateUrl(raw) {
   }
 }
 
-// 動画は訳しても仕方がないので対象外。日本語の記事もそのまま。
+// 動画は訳しても仕方がなく、Xは翻訳ごしだと本文が出ない。日本語の記事もそのまま。
 function readingUrl(item) {
-  if (item.region !== "海外" || item.media === "youtube") return "";
+  if (item.region !== "海外") return "";
+  if (item.media === "youtube" || item.media === "x") return "";
   return translateUrl(item.url);
 }
 
@@ -334,7 +335,8 @@ function render() {
     const translated = readingUrl(item);
     const open = translated || item.url;
     const cta = translated ? "日本語で読む →"
-      : item.media === "youtube" ? "動画を見る →" : "元の記事を読む →";
+      : item.media === "youtube" ? "動画を見る →"
+      : item.media === "x" ? "Xで見る →" : "元の記事を読む →";
     return `
     <article>
       <a href="${escapeHtml(open)}" target="_blank" rel="noopener noreferrer">

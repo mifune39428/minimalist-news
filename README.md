@@ -21,21 +21,27 @@ docs/articles.json  収集結果。GitHub Actions が差分をコミットする
 `.github/workflows/update.yml` が cron `0 */6 * * *`（日本時間 3/9/15/21時）で実行する。
 手動で回すときは `更新.command` か、Actions の workflow_dispatch。
 
-## 収集元（2026-08-12 に全URL疎通確認）
+## 収集元（2026-08-12 / 2026-08-17 に全URL疎通確認）
 
 | 種別 | 主な収集元 |
 | --- | --- |
-| 海外ブログ | The Minimalists / No Sidebar / Be More with Less / The Simplicity Habit / Nourishing Minimalism / Minimalism Made Simple / Simple Lionheart Life / Raptitude / Carryology |
-| 国内ブログ | 筆子ジャーナル / ROOMIE / ライフハッカー・ジャパン / MonoMax |
+| 海外の個人ブログ | The Minimalists / No Sidebar / Be More with Less / The Simplicity Habit / Nourishing Minimalism / Minimalism Made Simple / Simple Lionheart Life / Raptitude / Carryology / A Slob Comes Clean / Balance Through Simplicity / Simply + Fiercely / Exile Lifestyle |
+| 国内の個人 | 筆子ジャーナル / note の #ミニマリスト #断捨離 #持たない暮らし #少ない服で暮らす |
+| 国内メディア | ROOMIE / ライフハッカー・ジャパン / MonoMax |
 | ニュース | Google ニュース（日本語4本・英語3本のAND検索） |
 | YouTube | 海外5チャンネル・国内14チャンネル |
-| Reddit | r/minimalism / r/simpleliving / r/BuyItForLife / r/onebag / r/declutter / r/Anticonsumption |
+| X | The Minimalists / Joshua Becker / Zen Habits / ミニマリストしぶ（nitter 経由） |
 
 止まっている媒体は `enabled: false` と `_note` を付けて残してある（復活したら戻せる）。
-Becoming Minimalist・Zen Habits・ミニマリストしぶのブログはRSSが凍結中。
+Becoming Minimalist・Zen Habits・ミニマリストしぶのブログはRSSが凍結中だが、
+**書き手本人のXは動いている**ので、そちら（Joshua Becker / Zen Habits / ミニマリストしぶ）で拾えている。
 
 ## 決めごと
 
+- 情報源は個人の発信を主にする。掲示板（Reddit）は信頼できる出どころとは言えないので使わない。
+- 海外の記事は「🌐 日本語で読む」で Google 翻訳（translate.goog）を通したページを開く。
+  URLの組み立てはブラウザ側だけで行い、収集時にGoogleへは問い合わせない。
+  Cloudflare を使っている媒体は翻訳を通せないので、原文リンクを必ず併記する。
 - 載せるのは**日本語の見出し・独自要約・出典名・原文リンクだけ**。全文翻訳はしない。
   原文の抜粋は `articles.json` にも残さない（`to_public()` が落としている）。
 - 英語の記事も要約の段階で日本語にする。翻訳文をそのまま載せることはしない。
@@ -46,15 +52,23 @@ Becoming Minimalist・Zen Habits・ミニマリストしぶのブログはRSSが
 
 - **Googleニュースの検索で `OR` を使わない。** 語がばらけて占い・ゲーム攻略・新商品の記事が
   大量に流れ込み、要約の枠（1回40件）を食い潰す。スペース区切りのAND検索にする。
-- **Redditは連続で叩くと429を返す。** `slow: true` を付けたフィードは12秒あけて順番に取り、
-  失敗しても次の実行に回す（実測で毎回2〜4本は落ちる）。GitHub Actions からは
-  さらに通りにくいので、Redditの記事が数日出てこなくても異常ではない。
+- **X は公式のRSSが無い。** 使えるのは nitter だけで、しかも生きている実装は少ない
+  （2026-08-17時点で xcancel は400、nitter.poast / nitter.space / lightbrd は403、
+  RSSHub は404。動いたのは `nitter.net` のみ）。`slow: true` で12秒あけて順番に取る。
+  取り込むときに **リンクを x.com に、画像を pbs.twimg.com に直す**（nitter のURLのままだと
+  読む人を nitter に送ってしまい、画像も表示できない）。リツイートと返信は見出しの
+  `RT by @…` / `R to @…` で判別して捨てる。
+  なお nitter で取れるアカウントは限られる（Matt D'Avella・The Minimal Mom は404）。
+- **X の投稿は間隔が空くので `intake_days` を21日にしている。** 既定の4日のままだと、
+  取得はできているのに1件も載らない（実際にこれで最初は0件だった）。
+  フィードごとに `intake_days` を書けば取り込み期間を変えられる。
 - **YouTubeの概要欄は大半がスポンサー・SNS誘導・使用機材の一覧。** そのまま要約に渡すと
   「無料体験はこちら」のような要約ができる。`clean_youtube_description()` で行ごと落としたうえ、
   プロンプトでも「宣伝は無視する」と明示している。
 - **YouTubeのサムネイルは `<media:group>` の中**にあるので、`iter()` で入れ子ごと辿る。
-- **Redditの画像投稿は `<img>` を持たない。** 本文の `[link]` のリンク先が i.redd.it などの
-  画像URLになっているので、そこから拾う（`reddit_image()`）。
+- **収集をやめた種別の記事は、既存分も落とす必要がある。** `articles.json` に残った記事は
+  `media` が `MEDIA_KINDS` に無ければ次の実行で棚から下ろす。これが無いと、
+  フィードを外しても最大45日ぶんの記事がサイトに残り続ける。
 - **世の中の発信は「減らす話」に偏っている。** 放っておくと持ち物タブが埋まらないので、
   `OWN_QUOTA` で1回40件のうち12件を持ち物寄りの収集元に先取りさせている。
 
