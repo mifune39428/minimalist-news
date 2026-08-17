@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17T03:35:05.274844+09:00",
+ "updated_at": "2026-08-17T10:25:37.310999+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,7 +29,7 @@
  "things": [
   {
    "name": "服",
-   "count": 14
+   "count": 15
   },
   {
    "name": "バックパック",
@@ -69,6 +69,10 @@
   },
   {
    "name": "カード",
+   "count": 3
+  },
+  {
+   "name": "シャツ",
    "count": 3
   },
   {
@@ -116,10 +120,6 @@
    "count": 2
   },
   {
-   "name": "シャツ",
-   "count": 2
-  },
-  {
    "name": "スピーカー",
    "count": 2
   },
@@ -153,6 +153,10 @@
   },
   {
    "name": "家具",
+   "count": 2
+  },
+  {
+   "name": "寝具",
    "count": 2
   },
   {
@@ -261,8 +265,218 @@
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 322,
+ "count": 337,
  "items": [
+  {
+   "id": "3279291ae70f13f7",
+   "url": "https://www.lifehacker.jp/article/2608-costorypo-teweekaix9-review1-1236033272",
+   "title_original": "薄すぎる。スマホの背面に貼るAI翻訳機で、146言語の壁がここまで下がりました",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/16/f9dbd53b-7e09-411d-b308-12896b7b7081/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-17T01:00:00+00:00",
+   "title_ja": "スマホ背面に装着できる薄型AI翻訳機の特徴",
+   "summary_ja": "スマホリング型のAI翻訳機「TeweekAI X9」は、厚さ5mm・重さ43gと軽量でMagSafeに対応する。146言語の翻訳やOCR写真翻訳など8つのモードを備え、最長7日間の連続使用が可能となっている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "AI翻訳機",
+    "スマホリング"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "ca326c5faaa68eb6",
+   "url": "https://minimalist-fudeko.com/the-joy-of-taking-out-the-trash",
+   "title_original": "リサイクルすれば安心、ではない。ゴミを減らす確実な方法（TED）",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/04/taking-out-garbages.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-17T00:10:04+00:00",
+   "title_ja": "リサイクル頼みをやめてゴミを減らす方法を語るTEDトーク",
+   "summary_ja": "リサイクルに頼るだけではゴミ削減にならないとし、根本的にゴミを減らす方法について語られたTEDトークを紹介する。スピーカーのアパルナ・ナンチェルラ氏がゴミ出しの話題を通して考え方を解説している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "241c9be274ca5ad3",
+   "url": "https://www.roomie.jp/2026/08/1864750",
+   "title_original": "「防災アイテムの第一歩」がスリーコインズで揃った！「4シーン別・防災袋」の中身を全部試してみたよ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/05/eye01_250430_sobani_5-scaled-1.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-17T00:00:21+00:00",
+   "title_ja": "3COINSの防災グッズで揃えた4シーン別防災袋の体験談",
+   "summary_ja": "防災グッズの準備を後回しにしていた筆者が、スリーコインズの防災シリーズを活用して4シーン別の防災袋を作成した体験談。手軽に必要な防災用品を揃えて実際に試した様子を伝えている。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "防災袋",
+    "防災アイテム"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d68ea559956c8688",
+   "url": "https://www.lifehacker.jp/article/machi-ya-scanpad100pro-end-956908",
+   "title_original": "「あとで」を「いま」に変える。Type-A・C両対応の軽量スキャナ",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/06/26/ca353549-67e2-4d53-a962-2a504c3dce59/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-16T23:30:00+00:00",
+   "title_ja": "電源不要で使える収納幅6.8cmの超小型スキャナ",
+   "summary_ja": "超小型スキャナ「ScanPad100Pro」は、横幅6.8cm・重量690gでUSB給電により動作する。1600万画素で1秒スキャンが可能であり、自動補正や99%以上のOCR精度を備えている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ポータブルスキャナ"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "5230efb1440a7303",
+   "url": "https://www.reddit.com/r/minimalism/comments/1vqbxin/how_many_sets_of_bedding_do_you_own",
+   "title_original": "How many sets of bedding do you own?",
+   "source": "r/minimalism",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-16T23:26:24+00:00",
+   "title_ja": "ミニマリストの寝具は何セット？所有数と減らす基準を悩む人の投稿",
+   "summary_ja": "冬用2セット、夏用3セットの計5セットの寝具を持つ投稿者が、収納スペース確保のために1セット減らすべきか悩む。1〜2セットで暮らすミニマリストが多い中、実家には18セットもある状況と比較しながら、世間の一般的な所有数や適切なセット数について意見を求めている。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "寝具"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "2bd39a150e560ff1",
+   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vqbmpe/my_parents_bought_this_cooler_before_i_was_born",
+   "title_original": "My parents bought this cooler before I was born. I’m 31 now!",
+   "source": "r/BuyItForLife",
+   "image": "https://preview.redd.it/9i9wiu8gktjh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=0cdc1ccf1357af06a5035b8da93fa95436e36804",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-16T23:12:56+00:00",
+   "title_ja": "30年以上愛用されるクーラーボックス！親から受け継いだ頑丈な名品",
+   "summary_ja": "31歳の投稿者が、自分が生まれる前に両親が購入したというクーラーボックスを紹介している。30年以上の歳月が経った今でも現役で使われており、耐久性が高く長く使い続けられる「一生モノ」の道具の価値を伝えている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "クーラーボックス"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "b4d9172a9fc438ae",
+   "url": "https://www.bhg.com/common-clutter-culprits-12026305",
+   "title_original": "6 Things Professional Organizers Always Declutter First",
+   "source": "Better Homes & Gardens",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-16T23:06:00+00:00",
+   "title_ja": "プロの整理収納アドバイザーが真っ先に手放すことを勧める6つのもの",
+   "summary_ja": "整理整頓の専門家が、片づけを始める際に真っ先に処分を推奨する6つのアイテムについての記事。不要なものを効率よく減らし、すっきりとした暮らしの空間を作るために、まずは何から手放すべきかの基準をプロの視点から紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "86c3af18e785f460",
+   "url": "https://www.roomie.jp/2026/08/1857898",
+   "title_original": "「押入れの奥のもの取り出せない」問題、解決！自分だけの理想の書庫ができました",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/ponkagu_IMG_8067.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-16T23:00:37+00:00",
+   "title_ja": "押し入れのデッドスペースを有効活用して理想の書庫を作った話",
+   "summary_ja": "賃貸住宅の仕事部屋にある、布団をしまう必要のない押し入れの下段を活用した事例。使いづらくデッドスペースになりがちだった押し入れの奥まで有効に使えるように工夫し、自分だけの理想の書庫スペースへと生まれ変わらせた工夫を紹介している。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "布団"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "3b3d6742d6705a78",
+   "url": "https://www.lifehacker.jp/article/2608-book_to_read-2013",
+   "title_original": "【毎日書評】あえて完璧を手放すことで生まれる、心と時間の「心地よい余白」",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/16/eb64a620-071e-43ce-918d-3586841df1d8/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-16T23:00:00+00:00",
+   "title_ja": "完璧主義を手放して心と時間に心地よい余白を作るための習慣",
+   "summary_ja": "書籍『心を軽やかに整える習慣』の書評。あえて完璧を求めないことで、忙しい日常の中に心と時間の「心地よい余白」を生み出す方法を解説している。物だけでなく、考え方や習慣をスリム化して暮らしを軽やかにするためのヒントが綴られている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "78f63fccc1599c67",
+   "url": "https://www.lifehacker.jp/article/2608-costorypo-jios-end-1599396250",
+   "title_original": "破格の2万円台で国産の自動巻き腕時計デビュー。人生の節目に手に入れたい隠れ名品です",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/13/e195e652-8dcd-48ba-a114-b3dc13acb46b/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-16T22:00:00+00:00",
+   "title_ja": "2万円台の国産自動巻き腕時計を人生の節目に選ぶ選択",
+   "summary_ja": "滋賀県の時計ブランドが手がける日本製の自動巻き腕時計「SEIRAN」を紹介。シチズン製ムーブメントやサファイアガラスを搭載し、ベルト交換も容易なモダンクラシックな一品。高品質ながら手頃な価格で、長く愛用できる。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "腕時計"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "0a783d135661ca48",
+   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vq8imk/buy_it_for_multiple_lives",
+   "title_original": "Buy it for multiple lives.",
+   "source": "r/BuyItForLife",
+   "image": "https://preview.redd.it/ykq9cmhuwsjh1.jpeg?width=640&crop=smart&auto=webp&s=09d179db6a9a517fc4e702f72f1b01514b36fc30",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-16T21:00:44+00:00",
+   "title_ja": "中古ショップで一生モノのミシンを格安購入した人の話",
+   "summary_ja": "海外の掲示板で、中古ショップにて30ドルで購入されたシンガー社製のミシン「15-91」が話題に。頑丈なアメリカ製で、何世代にもわたって使い続けられる「一生モノ」の道具を所有する喜びが語られている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ミシン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "31b9eba0116a2906",
+   "url": "https://www.autoevolution.com/news/raven-outlook-is-a-gorgeous-park-model-tiny-with-a-huge-bay-window-and-full-size-comforts-274246.html",
+   "title_original": "Raven Outlook Is a Gorgeous Park Model Tiny With a Huge Bay Window and Full-Size Comforts",
+   "source": "autoevolution",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-16T20:04:55+00:00",
+   "title_ja": "大きな窓のある快適なタイニーハウスで暮らす選択肢",
+   "summary_ja": "大きな出窓とフルサイズの快適さを備えた、美しくデザインされたパークモデルのタイニーハウス「Raven Outlook」を紹介する。限られたスペースの中で快適に暮らすための住まいのあり方を提案している。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "af1c3d4cabaf00dd",
    "url": "https://www.reddit.com/r/simpleliving/comments/1vq1p01/a_peek_into_my_simple_day_cottage_life_in_finland",
@@ -279,6 +493,27 @@
    "things": [
     "サウナ",
     "薪"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "19894d38d1cce2ec",
+   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vpysqx/i_have_been_converting_my_house_to_all_bifl_and_i",
+   "title_original": "I have been converting my house to all BIFL and I keep seeking made in Japan tools & blades objects 🇯🇵",
+   "source": "r/BuyItForLife",
+   "image": "https://preview.redd.it/jjl6k0t61rjh1.jpeg?width=640&crop=smart&auto=webp&s=b3213c12b8b15a4fb4ea9422bd9406ca9844f7b6",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-16T14:41:19+00:00",
+   "title_ja": "壊れない一生モノを求めて日本製の工具や刃物を選び始めた人の話",
+   "summary_ja": "壊れた電動工具の修理経験から、全ての部品を個別調達できるマキタなどのブランドへ移行した投稿者。さらに、壊れやすいプラスチック製キッチンバサミの代わりに、長く使える投資として日本製のハンドメイド剪定ばさみや包丁、ハサミを選び始めている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "マキタの工具",
+    "キッチンバサミ",
+    "包丁",
+    "園芸用ハサミ"
    ],
    "importance": 4
   },
@@ -373,6 +608,25 @@
    "things": [
     "ワンクリップアルミハンガー",
     "クリップハンガー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "a551d2464551c0ce",
+   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vpw3se/eddie_bauer_bankrupt_since_feb_2026_bifl_status",
+   "title_original": "Eddie Bauer bankrupt since Feb. 2026. BIFL status may change?",
+   "source": "r/BuyItForLife",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-16T12:43:54+00:00",
+   "title_ja": "長年愛用された衣服ブランドの破産と品質変化を心配する投稿",
+   "summary_ja": "長く使える製品として評価されていたブランドの破産と全店閉店に伴い、今後の品質や耐久性の保証を懸念する投稿。投稿者は20年以上前の服を家族が愛用している例を挙げつつ、質の高い物を長く所有し続ける暮らしにおけるブランドの品質変化を悲しんでいる。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "服",
+    "シャツ"
    ],
    "importance": 3
   },
@@ -1013,6 +1267,26 @@
     "おもちゃ"
    ],
    "importance": 2
+  },
+  {
+   "id": "e7dd5a47133bd49f",
+   "url": "https://www.reddit.com/r/declutter/comments/1vpb2cn/weekend_declutter_woowoo_even_small_ones",
+   "title_original": "Weekend declutter woowoo. Even small ones",
+   "source": "r/declutter",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-15T19:00:15+00:00",
+   "title_ja": "週末にコツコツ進めた不要品の手放しと寄付の記録",
+   "summary_ja": "使っていなかったパスポートホルダーや余分な学用品、ハロウィンの仮装グッズなどを集めて寄付やリサイクルに回した人の話。小さな単位でもこまめに手放すことで、家の中の不要品を整理する習慣が実践されている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "パスポートホルダー",
+    "学用品",
+    "仮装マスク"
+   ],
+   "importance": 3
   },
   {
    "id": "95b89ccc314506b7",
