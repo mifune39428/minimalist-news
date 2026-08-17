@@ -1,67 +1,558 @@
 {
-  "_comment": "収集元。enabled:false で一時的に外せる。media は blog / news / youtube / reddit。region は 海外 / 国内。max_items はこのフィードから1回に取り込む上限（件数の多い媒体で枠を食い潰さないための蓋）。slow:true のフィードは同時ではなく間隔をあけて順番に取りに行く（Redditのレート制限対策）。hint に own か reduce を書くと、その軸に寄せて分類される。すべてのURLは2026-08-12に疎通確認済み。",
-
+  "_comment": "収集元。enabled:false で一時的に外せる。media は blog / news / youtube / x。region は 海外 / 国内。max_items はこのフィードから1回に取り込む上限（件数の多い媒体で枠を食い潰さないための蓋）。slow:true のフィードは同時ではなく間隔をあけて順番に取りに行く（nitter対策）。 media:x は nitter 経由で取得し、リンクと画像は x.com / pbs.twimg.com に直したうえで、リツイートと返信は取り込まない。hint に own か reduce を書くと、その軸に寄せて分類される。URLは 2026-08-12（初版）と 2026-08-17（個人ブログ・note・Xの追加）に疎通確認済み。",
   "feeds": [
-    { "name": "The Minimalists", "url": "https://www.theminimalists.com/feed/", "media": "blog", "region": "海外", "max_items": 6, "enabled": true },
-    { "name": "No Sidebar", "url": "https://nosidebar.com/feed/", "media": "blog", "region": "海外", "max_items": 6, "enabled": true },
-    { "name": "Be More with Less", "url": "https://bemorewithless.com/feed/", "media": "blog", "region": "海外", "max_items": 6, "enabled": true },
-    { "name": "The Simplicity Habit", "url": "https://www.thesimplicityhabit.com/feed/", "media": "blog", "region": "海外", "max_items": 6, "enabled": true },
-    { "name": "Nourishing Minimalism", "url": "https://nourishingminimalism.com/feed/", "media": "blog", "region": "海外", "max_items": 6, "enabled": true },
-    { "name": "Minimalism Made Simple", "url": "https://www.minimalismmadesimple.com/feed/", "media": "blog", "region": "海外", "max_items": 6, "enabled": true },
-    { "name": "Simple Lionheart Life", "url": "https://www.simplelionheartlife.com/feed/?v=1", "media": "blog", "region": "海外", "max_items": 6, "enabled": true },
-    { "name": "Raptitude", "url": "https://www.raptitude.com/feed/", "media": "blog", "region": "海外", "max_items": 4, "enabled": true },
-    { "name": "Carryology", "url": "https://www.carryology.com/feed/", "media": "blog", "region": "海外", "hint": "own", "max_items": 4, "enabled": true },
-
-    { "name": "筆子ジャーナル", "url": "https://minimalist-fudeko.com/feed/", "media": "blog", "region": "国内", "max_items": 8, "enabled": true },
-    { "name": "ROOMIE", "url": "https://www.roomie.jp/feed/", "media": "blog", "region": "国内", "hint": "own", "max_items": 5, "enabled": true },
-    { "name": "ライフハッカー・ジャパン", "url": "https://www.lifehacker.jp/feed/index.xml", "media": "blog", "region": "国内", "max_items": 5, "enabled": true },
-    { "name": "MonoMax", "url": "https://www.monomax.jp/feed", "media": "blog", "region": "国内", "hint": "own", "max_items": 4, "enabled": true },
-
-    { "_comment": "Googleニュースの検索は OR を使うと語がばらけて無関係な記事（占い・ゲーム攻略・新商品）が大量に来る。語をスペースで並べたAND検索にすること。2026-08-12に各クエリの中身を目視で確認済み。",
-      "name": "Google ニュース", "url": "https://news.google.com/rss/search?q=%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AA%E3%82%B9%E3%83%88%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja", "media": "news", "region": "国内", "google_news": true, "max_items": 8, "enabled": true },
-    { "name": "Google ニュース", "url": "https://news.google.com/rss/search?q=%E6%96%AD%E6%8D%A8%E9%9B%A2%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja", "media": "news", "region": "国内", "google_news": true, "hint": "reduce", "max_items": 8, "enabled": true },
-    { "name": "Google ニュース", "url": "https://news.google.com/rss/search?q=%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AA%E3%82%B9%E3%83%88%20%E6%84%9B%E7%94%A8%E5%93%81%20when%3A14d&hl=ja&gl=JP&ceid=JP:ja", "media": "news", "region": "国内", "google_news": true, "hint": "own", "max_items": 4, "enabled": true },
-    { "name": "Google ニュース", "url": "https://news.google.com/rss/search?q=%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AA%E3%82%B9%E3%83%88%20%E6%8C%81%E3%81%A1%E7%89%A9%20when%3A14d&hl=ja&gl=JP&ceid=JP:ja", "media": "news", "region": "国内", "google_news": true, "hint": "own", "max_items": 4, "enabled": true },
-    { "name": "Google ニュース", "url": "https://news.google.com/rss/search?q=decluttering%20when%3A7d&hl=en-US&gl=US&ceid=US:en", "media": "news", "region": "海外", "google_news": true, "hint": "reduce", "max_items": 6, "enabled": true },
-    { "name": "Google ニュース", "url": "https://news.google.com/rss/search?q=%22minimalist%20living%22%20when%3A7d&hl=en-US&gl=US&ceid=US:en", "media": "news", "region": "海外", "google_news": true, "max_items": 4, "enabled": true },
-    { "name": "Google ニュース", "url": "https://news.google.com/rss/search?q=%22one%20bag%20travel%22%20when%3A14d&hl=en-US&gl=US&ceid=US:en", "media": "news", "region": "海外", "google_news": true, "hint": "own", "max_items": 4, "enabled": true },
-
-    { "name": "Matt D'Avella", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ24N4O0bP7LGLBDvye7oCA", "media": "youtube", "region": "海外", "max_items": 3, "enabled": true },
-    { "name": "The Minimalists", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmi6OO6sTXuZfmKX1q12x9Q", "media": "youtube", "region": "海外", "max_items": 3, "enabled": true },
-    { "name": "The Minimal Mom", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeLICYOqHfIrfSAQq1TT7PA", "media": "youtube", "region": "海外", "max_items": 3, "enabled": true },
-    { "name": "Jenny Mustard", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7fPf1yuGaYFmbxe0ZrshWw", "media": "youtube", "region": "海外", "max_items": 3, "enabled": true },
-    { "name": "Sarah Therese", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxwEwvBpw3TaI4x9nkAE0jA", "media": "youtube", "region": "海外", "max_items": 3, "enabled": true },
-
-    { "name": "ミニマリストしぶ", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWVO0OICQ1Q-8JBr_3hGKPw", "media": "youtube", "region": "国内", "max_items": 3, "enabled": true },
-    { "name": "ミニマリストK", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDRKKWYAd_q_UEEb9D_L4fQ", "media": "youtube", "region": "国内", "max_items": 3, "enabled": true },
-    { "name": "ミニマリスト Nozomi", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDF3orqa1BkYGBs9NixpIug", "media": "youtube", "region": "国内", "max_items": 3, "enabled": true },
-    { "name": "私だけミニマリスト｜南さやか", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkMwlHpnjP6eyVuFsXd1HHA", "media": "youtube", "region": "国内", "max_items": 3, "enabled": true },
-    { "name": "ミニマリストさよ", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCk8gs7VZz38AqVCJGxfRWfA", "media": "youtube", "region": "国内", "hint": "own", "max_items": 3, "enabled": true },
-    { "name": "ミニマリストじゅん", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl9CUmSVs_FtBfWVLpRLTdw", "media": "youtube", "region": "国内", "max_items": 3, "enabled": true },
-    { "name": "ミニマリストsin", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4aCsI33jgmGLw-uUlOmRhw", "media": "youtube", "region": "国内", "max_items": 3, "enabled": true },
-    { "name": "ぴーこ｜ゆるっとミニマルな日常", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0hd1Gx2LrStito5mS0pWVg", "media": "youtube", "region": "国内", "max_items": 3, "enabled": true },
-    { "name": "小さな暮らしノート", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQHqR390aliR_OWVszqqBiQ", "media": "youtube", "region": "国内", "max_items": 3, "enabled": true },
-    { "name": "レイの小さな暮らし", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_NZDN2Rm9zUTbODj9ll3yQ", "media": "youtube", "region": "国内", "max_items": 3, "enabled": true },
-    { "name": "むぎの頑張らない暮らし", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQkCEizqfz-HSY_tbXLRtAA", "media": "youtube", "region": "国内", "max_items": 3, "enabled": true },
-    { "name": "やましたひでこ断捨離", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeUfv_-CzRphpruWg21QQmQ", "media": "youtube", "region": "国内", "hint": "reduce", "max_items": 3, "enabled": true },
-    { "name": "うにのゆるシンプルな暮らし", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-UqkaOTWL8mCbdofZiLMVg", "media": "youtube", "region": "国内", "max_items": 3, "enabled": true },
-    { "name": "Tokuno | Minimalist", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFFyyG7gwC-qV35c0H9eB5g", "media": "youtube", "region": "国内", "max_items": 3, "enabled": true },
-    { "name": "りくと｜ミニマリスト", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2n4oDOc69GQIgCkJ6MjbkQ", "media": "youtube", "region": "国内", "max_items": 3, "enabled": true },
-    { "name": "mai minimalism", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCa-dX9J4WIodZRMtsQlHm9w", "media": "youtube", "region": "国内", "max_items": 3, "enabled": true },
-    { "name": "Tommy / Tokyo Simple Life", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClkGMhY9XuWE5RTVfBJN2lg", "media": "youtube", "region": "国内", "max_items": 3, "enabled": true },
-
-    { "name": "r/minimalism", "url": "https://www.reddit.com/r/minimalism/top/.rss?t=week", "media": "reddit", "region": "海外", "slow": true, "max_items": 5, "enabled": true },
-    { "name": "r/simpleliving", "url": "https://www.reddit.com/r/simpleliving/top/.rss?t=week", "media": "reddit", "region": "海外", "slow": true, "max_items": 5, "enabled": true },
-    { "name": "r/BuyItForLife", "url": "https://www.reddit.com/r/BuyItForLife/top/.rss?t=week", "media": "reddit", "region": "海外", "slow": true, "hint": "own", "max_items": 5, "enabled": true },
-    { "name": "r/onebag", "url": "https://www.reddit.com/r/onebag/top/.rss?t=week", "media": "reddit", "region": "海外", "slow": true, "hint": "own", "max_items": 4, "enabled": true },
-    { "name": "r/declutter", "url": "https://www.reddit.com/r/declutter/top/.rss?t=week", "media": "reddit", "region": "海外", "slow": true, "hint": "reduce", "max_items": 4, "enabled": true },
-    { "name": "r/Anticonsumption", "url": "https://www.reddit.com/r/Anticonsumption/top/.rss?t=week", "media": "reddit", "region": "海外", "slow": true, "max_items": 4, "enabled": true },
-
-    { "name": "Becoming Minimalist", "url": "https://www.becomingminimalist.com/feed/", "media": "blog", "region": "海外", "max_items": 6, "enabled": false, "_note": "フィードが2025年7月で止まっている（本体は更新されているがRSSが凍結）。復活したら true に。" },
-    { "name": "Zen Habits", "url": "https://feeds.feedburner.com/zenhabits", "media": "blog", "region": "海外", "max_items": 4, "enabled": false, "_note": "最新が2024年11月。公式RSSは404、FeedBurnerだけが残骸で生きている。" },
-    { "name": "Miss Minimalist", "url": "https://www.missminimalist.com/feed/", "media": "blog", "region": "海外", "enabled": false, "_note": "2019年で更新停止。" },
-    { "name": "ミニマリストしぶ（ブログ）", "url": "https://minimalism.jp/feed/", "media": "blog", "region": "国内", "enabled": false, "_note": "2025年3月で更新停止。YouTubeのほうは動いている。" },
-    { "name": "Apartment Therapy", "url": "https://www.apartmenttherapy.com/main.rss", "media": "blog", "region": "海外", "max_items": 4, "enabled": false, "_note": "1日20件と多くミニマリズム以外が大半。枠を食うので既定では外す。" },
-    { "name": "Gear Patrol", "url": "https://www.gearpatrol.com/feed/", "media": "blog", "region": "海外", "hint": "own", "max_items": 4, "enabled": false, "_note": "1日75件。物欲側に振れすぎるので既定では外す。" }
+    {
+      "name": "The Minimalists",
+      "url": "https://www.theminimalists.com/feed/",
+      "media": "blog",
+      "region": "海外",
+      "max_items": 6,
+      "enabled": true
+    },
+    {
+      "name": "No Sidebar",
+      "url": "https://nosidebar.com/feed/",
+      "media": "blog",
+      "region": "海外",
+      "max_items": 6,
+      "enabled": true
+    },
+    {
+      "name": "Be More with Less",
+      "url": "https://bemorewithless.com/feed/",
+      "media": "blog",
+      "region": "海外",
+      "max_items": 6,
+      "enabled": true
+    },
+    {
+      "name": "The Simplicity Habit",
+      "url": "https://www.thesimplicityhabit.com/feed/",
+      "media": "blog",
+      "region": "海外",
+      "max_items": 6,
+      "enabled": true
+    },
+    {
+      "name": "Nourishing Minimalism",
+      "url": "https://nourishingminimalism.com/feed/",
+      "media": "blog",
+      "region": "海外",
+      "max_items": 6,
+      "enabled": true
+    },
+    {
+      "name": "Minimalism Made Simple",
+      "url": "https://www.minimalismmadesimple.com/feed/",
+      "media": "blog",
+      "region": "海外",
+      "max_items": 6,
+      "enabled": true
+    },
+    {
+      "name": "Simple Lionheart Life",
+      "url": "https://www.simplelionheartlife.com/feed/?v=1",
+      "media": "blog",
+      "region": "海外",
+      "max_items": 6,
+      "enabled": true
+    },
+    {
+      "name": "Raptitude",
+      "url": "https://www.raptitude.com/feed/",
+      "media": "blog",
+      "region": "海外",
+      "max_items": 4,
+      "enabled": true
+    },
+    {
+      "name": "Carryology",
+      "url": "https://www.carryology.com/feed/",
+      "media": "blog",
+      "region": "海外",
+      "hint": "own",
+      "max_items": 4,
+      "enabled": true
+    },
+    {
+      "name": "筆子ジャーナル",
+      "url": "https://minimalist-fudeko.com/feed/",
+      "media": "blog",
+      "region": "国内",
+      "max_items": 8,
+      "enabled": true
+    },
+    {
+      "name": "ROOMIE",
+      "url": "https://www.roomie.jp/feed/",
+      "media": "blog",
+      "region": "国内",
+      "hint": "own",
+      "max_items": 5,
+      "enabled": true
+    },
+    {
+      "name": "ライフハッカー・ジャパン",
+      "url": "https://www.lifehacker.jp/feed/index.xml",
+      "media": "blog",
+      "region": "国内",
+      "max_items": 5,
+      "enabled": true
+    },
+    {
+      "name": "MonoMax",
+      "url": "https://www.monomax.jp/feed",
+      "media": "blog",
+      "region": "国内",
+      "hint": "own",
+      "max_items": 4,
+      "enabled": true
+    },
+    {
+      "_comment": "Googleニュースの検索は OR を使うと語がばらけて無関係な記事（占い・ゲーム攻略・新商品）が大量に来る。語をスペースで並べたAND検索にすること。2026-08-12に各クエリの中身を目視で確認済み。",
+      "name": "Google ニュース",
+      "url": "https://news.google.com/rss/search?q=%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AA%E3%82%B9%E3%83%88%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "media": "news",
+      "region": "国内",
+      "google_news": true,
+      "max_items": 8,
+      "enabled": true
+    },
+    {
+      "name": "Google ニュース",
+      "url": "https://news.google.com/rss/search?q=%E6%96%AD%E6%8D%A8%E9%9B%A2%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "media": "news",
+      "region": "国内",
+      "google_news": true,
+      "hint": "reduce",
+      "max_items": 8,
+      "enabled": true
+    },
+    {
+      "name": "Google ニュース",
+      "url": "https://news.google.com/rss/search?q=%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AA%E3%82%B9%E3%83%88%20%E6%84%9B%E7%94%A8%E5%93%81%20when%3A14d&hl=ja&gl=JP&ceid=JP:ja",
+      "media": "news",
+      "region": "国内",
+      "google_news": true,
+      "hint": "own",
+      "max_items": 4,
+      "enabled": true
+    },
+    {
+      "name": "Google ニュース",
+      "url": "https://news.google.com/rss/search?q=%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AA%E3%82%B9%E3%83%88%20%E6%8C%81%E3%81%A1%E7%89%A9%20when%3A14d&hl=ja&gl=JP&ceid=JP:ja",
+      "media": "news",
+      "region": "国内",
+      "google_news": true,
+      "hint": "own",
+      "max_items": 4,
+      "enabled": true
+    },
+    {
+      "name": "Google ニュース",
+      "url": "https://news.google.com/rss/search?q=decluttering%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
+      "media": "news",
+      "region": "海外",
+      "google_news": true,
+      "hint": "reduce",
+      "max_items": 6,
+      "enabled": true
+    },
+    {
+      "name": "Google ニュース",
+      "url": "https://news.google.com/rss/search?q=%22minimalist%20living%22%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
+      "media": "news",
+      "region": "海外",
+      "google_news": true,
+      "max_items": 4,
+      "enabled": true
+    },
+    {
+      "name": "Google ニュース",
+      "url": "https://news.google.com/rss/search?q=%22one%20bag%20travel%22%20when%3A14d&hl=en-US&gl=US&ceid=US:en",
+      "media": "news",
+      "region": "海外",
+      "google_news": true,
+      "hint": "own",
+      "max_items": 4,
+      "enabled": true
+    },
+    {
+      "name": "Matt D'Avella",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ24N4O0bP7LGLBDvye7oCA",
+      "media": "youtube",
+      "region": "海外",
+      "max_items": 3,
+      "enabled": true
+    },
+    {
+      "name": "The Minimalists",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmi6OO6sTXuZfmKX1q12x9Q",
+      "media": "youtube",
+      "region": "海外",
+      "max_items": 3,
+      "enabled": true
+    },
+    {
+      "name": "The Minimal Mom",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeLICYOqHfIrfSAQq1TT7PA",
+      "media": "youtube",
+      "region": "海外",
+      "max_items": 3,
+      "enabled": true
+    },
+    {
+      "name": "Jenny Mustard",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7fPf1yuGaYFmbxe0ZrshWw",
+      "media": "youtube",
+      "region": "海外",
+      "max_items": 3,
+      "enabled": true
+    },
+    {
+      "name": "Sarah Therese",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxwEwvBpw3TaI4x9nkAE0jA",
+      "media": "youtube",
+      "region": "海外",
+      "max_items": 3,
+      "enabled": true
+    },
+    {
+      "name": "ミニマリストしぶ",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWVO0OICQ1Q-8JBr_3hGKPw",
+      "media": "youtube",
+      "region": "国内",
+      "max_items": 3,
+      "enabled": true
+    },
+    {
+      "name": "ミニマリストK",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDRKKWYAd_q_UEEb9D_L4fQ",
+      "media": "youtube",
+      "region": "国内",
+      "max_items": 3,
+      "enabled": true
+    },
+    {
+      "name": "ミニマリスト Nozomi",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDF3orqa1BkYGBs9NixpIug",
+      "media": "youtube",
+      "region": "国内",
+      "max_items": 3,
+      "enabled": true
+    },
+    {
+      "name": "私だけミニマリスト｜南さやか",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkMwlHpnjP6eyVuFsXd1HHA",
+      "media": "youtube",
+      "region": "国内",
+      "max_items": 3,
+      "enabled": true
+    },
+    {
+      "name": "ミニマリストさよ",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCk8gs7VZz38AqVCJGxfRWfA",
+      "media": "youtube",
+      "region": "国内",
+      "hint": "own",
+      "max_items": 3,
+      "enabled": true
+    },
+    {
+      "name": "ミニマリストじゅん",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl9CUmSVs_FtBfWVLpRLTdw",
+      "media": "youtube",
+      "region": "国内",
+      "max_items": 3,
+      "enabled": true
+    },
+    {
+      "name": "ミニマリストsin",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4aCsI33jgmGLw-uUlOmRhw",
+      "media": "youtube",
+      "region": "国内",
+      "max_items": 3,
+      "enabled": true
+    },
+    {
+      "name": "ぴーこ｜ゆるっとミニマルな日常",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0hd1Gx2LrStito5mS0pWVg",
+      "media": "youtube",
+      "region": "国内",
+      "max_items": 3,
+      "enabled": true
+    },
+    {
+      "name": "小さな暮らしノート",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQHqR390aliR_OWVszqqBiQ",
+      "media": "youtube",
+      "region": "国内",
+      "max_items": 3,
+      "enabled": true
+    },
+    {
+      "name": "レイの小さな暮らし",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_NZDN2Rm9zUTbODj9ll3yQ",
+      "media": "youtube",
+      "region": "国内",
+      "max_items": 3,
+      "enabled": true
+    },
+    {
+      "name": "むぎの頑張らない暮らし",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQkCEizqfz-HSY_tbXLRtAA",
+      "media": "youtube",
+      "region": "国内",
+      "max_items": 3,
+      "enabled": true
+    },
+    {
+      "name": "やましたひでこ断捨離",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeUfv_-CzRphpruWg21QQmQ",
+      "media": "youtube",
+      "region": "国内",
+      "hint": "reduce",
+      "max_items": 3,
+      "enabled": true
+    },
+    {
+      "name": "うにのゆるシンプルな暮らし",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-UqkaOTWL8mCbdofZiLMVg",
+      "media": "youtube",
+      "region": "国内",
+      "max_items": 3,
+      "enabled": true
+    },
+    {
+      "name": "Tokuno | Minimalist",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFFyyG7gwC-qV35c0H9eB5g",
+      "media": "youtube",
+      "region": "国内",
+      "max_items": 3,
+      "enabled": true
+    },
+    {
+      "name": "りくと｜ミニマリスト",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2n4oDOc69GQIgCkJ6MjbkQ",
+      "media": "youtube",
+      "region": "国内",
+      "max_items": 3,
+      "enabled": true
+    },
+    {
+      "name": "mai minimalism",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCa-dX9J4WIodZRMtsQlHm9w",
+      "media": "youtube",
+      "region": "国内",
+      "max_items": 3,
+      "enabled": true
+    },
+    {
+      "name": "Tommy / Tokyo Simple Life",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClkGMhY9XuWE5RTVfBJN2lg",
+      "media": "youtube",
+      "region": "国内",
+      "max_items": 3,
+      "enabled": true
+    },
+    {
+      "name": "A Slob Comes Clean",
+      "url": "https://www.aslobcomesclean.com/feed/",
+      "media": "blog",
+      "region": "海外",
+      "max_items": 4,
+      "enabled": true
+    },
+    {
+      "name": "Balance Through Simplicity",
+      "url": "https://balancethroughsimplicity.com/feed/",
+      "media": "blog",
+      "region": "海外",
+      "max_items": 4,
+      "enabled": true,
+      "intake_days": 10
+    },
+    {
+      "name": "Simply + Fiercely",
+      "url": "https://www.simplyfiercely.com/feed/",
+      "media": "blog",
+      "region": "海外",
+      "max_items": 4,
+      "enabled": true,
+      "intake_days": 10
+    },
+    {
+      "name": "Exile Lifestyle",
+      "url": "https://exilelifestyle.com/feed/",
+      "media": "blog",
+      "region": "海外",
+      "max_items": 3,
+      "enabled": true,
+      "intake_days": 10
+    },
+    {
+      "name": "note #ミニマリスト",
+      "url": "https://note.com/hashtag/%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AA%E3%82%B9%E3%83%88/rss",
+      "media": "blog",
+      "region": "国内",
+      "max_items": 6,
+      "enabled": true
+    },
+    {
+      "name": "note #断捨離",
+      "url": "https://note.com/hashtag/%E6%96%AD%E6%8D%A8%E9%9B%A2/rss",
+      "media": "blog",
+      "region": "国内",
+      "max_items": 6,
+      "enabled": true,
+      "hint": "reduce"
+    },
+    {
+      "name": "note #持たない暮らし",
+      "url": "https://note.com/hashtag/%E6%8C%81%E3%81%9F%E3%81%AA%E3%81%84%E6%9A%AE%E3%82%89%E3%81%97/rss",
+      "media": "blog",
+      "region": "国内",
+      "max_items": 5,
+      "enabled": true
+    },
+    {
+      "name": "note #少ない服で暮らす",
+      "url": "https://note.com/hashtag/%E5%B0%91%E3%81%AA%E3%81%84%E6%9C%8D%E3%81%A7%E6%9A%AE%E3%82%89%E3%81%99/rss",
+      "media": "blog",
+      "region": "国内",
+      "max_items": 4,
+      "enabled": true,
+      "hint": "own"
+    },
+    {
+      "name": "The Minimalists（X）",
+      "url": "https://nitter.net/theminimalists/rss",
+      "media": "x",
+      "region": "海外",
+      "slow": true,
+      "max_items": 3,
+      "enabled": true,
+      "intake_days": 21
+    },
+    {
+      "name": "Joshua Becker（X）",
+      "url": "https://nitter.net/joshua_becker/rss",
+      "media": "x",
+      "region": "海外",
+      "slow": true,
+      "max_items": 3,
+      "enabled": true,
+      "intake_days": 21
+    },
+    {
+      "name": "Zen Habits（X）",
+      "url": "https://nitter.net/zen_habits/rss",
+      "media": "x",
+      "region": "海外",
+      "slow": true,
+      "max_items": 3,
+      "enabled": true,
+      "intake_days": 21
+    },
+    {
+      "name": "ミニマリストしぶ（X）",
+      "url": "https://nitter.net/minimalist_sibu/rss",
+      "media": "x",
+      "region": "国内",
+      "slow": true,
+      "max_items": 3,
+      "enabled": true,
+      "intake_days": 21
+    },
+    {
+      "name": "Becoming Minimalist",
+      "url": "https://www.becomingminimalist.com/feed/",
+      "media": "blog",
+      "region": "海外",
+      "max_items": 6,
+      "enabled": false,
+      "_note": "フィードが2025年7月で止まっている（本体は更新されているがRSSが凍結）。復活したら true に。"
+    },
+    {
+      "name": "Zen Habits",
+      "url": "https://feeds.feedburner.com/zenhabits",
+      "media": "blog",
+      "region": "海外",
+      "max_items": 4,
+      "enabled": false,
+      "_note": "最新が2024年11月。公式RSSは404、FeedBurnerだけが残骸で生きている。"
+    },
+    {
+      "name": "Miss Minimalist",
+      "url": "https://www.missminimalist.com/feed/",
+      "media": "blog",
+      "region": "海外",
+      "enabled": false,
+      "_note": "2019年で更新停止。"
+    },
+    {
+      "name": "ミニマリストしぶ（ブログ）",
+      "url": "https://minimalism.jp/feed/",
+      "media": "blog",
+      "region": "国内",
+      "enabled": false,
+      "_note": "2025年3月で更新停止。YouTubeのほうは動いている。"
+    },
+    {
+      "name": "Apartment Therapy",
+      "url": "https://www.apartmenttherapy.com/main.rss",
+      "media": "blog",
+      "region": "海外",
+      "max_items": 4,
+      "enabled": false,
+      "_note": "1日20件と多くミニマリズム以外が大半。枠を食うので既定では外す。"
+    },
+    {
+      "name": "Gear Patrol",
+      "url": "https://www.gearpatrol.com/feed/",
+      "media": "blog",
+      "region": "海外",
+      "hint": "own",
+      "max_items": 4,
+      "enabled": false,
+      "_note": "1日75件。物欲側に振れすぎるので既定では外す。"
+    },
+    {
+      "name": "Matt D'Avella（X）",
+      "url": "https://nitter.net/mattdavella/rss",
+      "media": "x",
+      "region": "海外",
+      "slow": true,
+      "enabled": false,
+      "_note": "nitterが404を返す（本家に居ても取れない）。",
+      "intake_days": 21
+    },
+    {
+      "name": "Be More with Less（X）",
+      "url": "https://nitter.net/bemorewithless/rss",
+      "media": "x",
+      "region": "海外",
+      "slow": true,
+      "enabled": false,
+      "_note": "最終投稿が2年前。ブログのほうを見ている。",
+      "intake_days": 21
+    },
+    {
+      "name": "note #ミニマリストの持ち物",
+      "url": "https://note.com/hashtag/%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E6%8C%81%E3%81%A1%E7%89%A9/rss",
+      "media": "blog",
+      "region": "国内",
+      "hint": "own",
+      "enabled": false,
+      "_note": "記事が1件しかないタグ。"
+    },
+    {
+      "name": "はてなブックマーク検索",
+      "url": "https://b.hatena.ne.jp/search/text?q=%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AA%E3%82%B9%E3%83%88&mode=rss&users=3",
+      "media": "blog",
+      "region": "国内",
+      "enabled": false,
+      "_note": "40件返るが、語が本文に一度出るだけの無関係な記事（技術記事など）が大半。"
+    }
   ]
 }

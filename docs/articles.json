@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17T16:02:11.378067+09:00",
+ "updated_at": "2026-08-17T18:17:09.144407+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -20,7 +20,7 @@
   "blog",
   "news",
   "youtube",
-  "reddit"
+  "x"
  ],
  "regions": [
   "国内",
@@ -29,54 +29,18 @@
  "things": [
   {
    "name": "服",
-   "count": 15
+   "count": 10
   },
   {
    "name": "バックパック",
-   "count": 8
-  },
-  {
-   "name": "バッグ",
-   "count": 7
-  },
-  {
-   "name": "モバイルバッテリー",
-   "count": 6
-  },
-  {
-   "name": "本",
-   "count": 6
-  },
-  {
-   "name": "スマホ",
    "count": 5
   },
   {
-   "name": "スマートフォン",
-   "count": 4
-  },
-  {
-   "name": "スーツケース",
-   "count": 4
+   "name": "バッグ",
+   "count": 5
   },
   {
    "name": "ソファ",
-   "count": 4
-  },
-  {
-   "name": "財布",
-   "count": 4
-  },
-  {
-   "name": "カード",
-   "count": 3
-  },
-  {
-   "name": "シャツ",
-   "count": 3
-  },
-  {
-   "name": "スニーカー",
    "count": 3
   },
   {
@@ -84,7 +48,7 @@
    "count": 3
   },
   {
-   "name": "車",
+   "name": "財布",
    "count": 3
   },
   {
@@ -96,19 +60,11 @@
    "count": 2
   },
   {
-   "name": "USB-Cケーブル",
-   "count": 2
-  },
-  {
    "name": "iPhone",
    "count": 2
   },
   {
-   "name": "おもちゃ",
-   "count": 2
-  },
-  {
-   "name": "カーディガン",
+   "name": "カード",
    "count": 2
   },
   {
@@ -116,27 +72,23 @@
    "count": 2
   },
   {
-   "name": "サングラス",
-   "count": 2
-  },
-  {
    "name": "サンダル",
    "count": 2
   },
   {
-   "name": "ジップロック",
+   "name": "スニーカー",
    "count": 2
   },
   {
-   "name": "スピーカー",
+   "name": "スマホ",
    "count": 2
   },
   {
-   "name": "タオル",
+   "name": "スマートフォン",
    "count": 2
   },
   {
-   "name": "ノートPC",
+   "name": "スーツケース",
    "count": 2
   },
   {
@@ -148,11 +100,7 @@
    "count": 2
   },
   {
-   "name": "リュック",
-   "count": 2
-  },
-  {
-   "name": "写真",
+   "name": "モバイルバッテリー",
    "count": 2
   },
   {
@@ -164,11 +112,7 @@
    "count": 2
   },
   {
-   "name": "家具",
-   "count": 2
-  },
-  {
-   "name": "寝具",
+   "name": "手帳",
    "count": 2
   },
   {
@@ -176,19 +120,28 @@
    "count": 2
   },
   {
-   "name": "水筒",
+   "name": "書類",
    "count": 2
   },
   {
-   "name": "鍵",
+   "name": "本",
    "count": 2
   },
   {
-   "name": "靴",
+   "name": "紙袋",
+   "count": 2
+  },
+  {
+   "name": "食器",
+   "count": 2
+  },
+  {
+   "name": "食器棚",
    "count": 2
   }
  ],
  "sources": [
+  "A Slob Comes Clean",
   "ABEMA",
   "AOL.co.uk",
   "AOL.com",
@@ -223,6 +176,7 @@
   "The Good Men Project",
   "The Minimal Mom",
   "The Minimalists",
+  "The Minimalists（X）",
   "The Simplicity Habit",
   "The Spruce",
   "The Times of India",
@@ -230,6 +184,7 @@
   "Woman & Home",
   "Yahoo Lifestyle Singapore",
   "Yahoo!ニュース",
+  "Zen Habits（X）",
   "aol.com",
   "autoevolution",
   "bs-asahi.co.jp",
@@ -238,13 +193,11 @@
   "livingetc.com",
   "mshale.com",
   "nine.com.au",
+  "note #ミニマリスト",
+  "note #少ない服で暮らす",
+  "note #持たない暮らし",
+  "note #断捨離",
   "note.com",
-  "r/Anticonsumption",
-  "r/BuyItForLife",
-  "r/declutter",
-  "r/minimalism",
-  "r/onebag",
-  "r/simpleliving",
   "southernliving.com",
   "t.co",
   "thespruce.com",
@@ -269,43 +222,279 @@
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 348,
+ "count": 269,
  "items": [
   {
-   "id": "f5c00cf6c158db0c",
-   "url": "https://www.reddit.com/r/onebag/comments/1vqk2ps/how_do_you_all_wash_clothes_for_long_trips",
-   "title_original": "How do you all wash clothes for long trips?",
-   "source": "r/onebag",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-17T06:09:15+00:00",
-   "title_ja": "荷物を極力減らした長期一人旅での洗濯と乾燥方法に関する相談",
-   "summary_ja": "1つのバッグで数週間以上の長期一人旅をする際、衣類をどのように洗濯・乾燥させているかを尋ねる投稿です。宿泊先の設備有無や乾燥にかかる時間への対処法について、経験者へ意見を求めています。",
-   "category": "旅・持ち歩き",
+   "id": "b0b81f5e81432288",
+   "url": "https://note.com/vast_flax6740/n/n39a1843b030c",
+   "title_original": "断捨離を言い換えると",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/304173223/rectangle_large_type_2_5f02b5aa43c94cce34cc045295ad6c1c.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-17T09:05:29+00:00",
+   "title_ja": "ペースを抑えながら少しずつていねいに断捨離を進める人の話",
+   "summary_ja": "自宅で「断捨離まつり」と称して片づけを進めている著者のエピソード。一気にやり始めると没頭してしまうタイプであるため、あえてペースを抑えながら、少しずつ丁寧に進める工夫について綴られている。",
+   "category": "手放す・捨て方",
    "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "5c31292cc7baeb6e",
+   "url": "https://monomax.jp/archives/357492",
+   "title_original": "【Tシャツおじさん脱却】ユニクロ「2,990円のニットポロ」が大人の大正解！上品で洗える秀逸な一着をスタイリストが徹底解説",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2026/08/039650-scaled.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-17T09:00:38+00:00",
+   "title_ja": "ユニクロのニットポロでつくる大人の上品な夏スタイル",
+   "summary_ja": "猛暑日に活躍する、スタイリストが選んだユニクロのニットポロを紹介。自宅で洗えて上品に着こなせる、大人のための秀逸な一着。",
+   "category": "服・ファッション",
+   "axis": "own",
    "things": [
-    "衣類"
+    "ニットポロ"
    ],
    "importance": 3
   },
   {
-   "id": "7e2ee3e4e7504ad1",
-   "url": "https://www.reddit.com/r/onebag/comments/1vqhpwu/bag_finder_megathread_17_august_2026",
-   "title_original": "Bag Finder Megathread - 17 August 2026",
-   "source": "r/onebag",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-17T04:01:31+00:00",
-   "title_ja": "機内持ち込み旅行に向けたバッグ選びと荷物量の測定方法",
-   "summary_ja": "1つのバッグで旅をするためのバックパック選びや助言を募る掲示板の投稿です。最適なバッグの大きさを知るために、パッキングリストを作成して既存の箱やリュックに詰め、荷物の容積を測る手順が紹介されています。",
-   "category": "旅・持ち歩き",
+   "id": "25d600501690c2b0",
+   "url": "https://note.com/ai40th/n/nbf3209fb1fd2",
+   "title_original": "手帳を処分する｜③2024年～2025年のまとめ",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/304397014/rectangle_large_type_2_efa680976d13916ce6c6379f99cd8548.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-17T08:47:52+00:00",
+   "title_ja": "過去の振り返りを経て手帳を処分した人の話",
+   "summary_ja": "2024年から2025年にかけての濃い2年間をじっくりと振り返り、手帳を処分したエピソード。お盆の帰省などを挟みつつ、時間をかけて振り返りをまとめることで、納得して手放すことができた過程が綴られている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "手帳"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "13ff43ea165aeac2",
+   "url": "https://note.com/sane_daisy2099/n/nf3ec5a4993ab",
+   "title_original": "週間覚書 ｜ 人として",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/304379528/rectangle_large_type_2_230f415deef68240df62096d84a398fe.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-17T08:46:08+00:00",
+   "title_ja": "段ボールに眠っていた昔の書類やアルバムを断捨離した人の話",
+   "summary_ja": "自宅でゆっくりと過ごす時間に、何年も段ボールに入れたまま封印していた古い書類の断捨離を行ったエピソード。作業中に出てきた古いアルバムを眺め、感謝の気持ちを抱きながら片づけを進める様子が描かれている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "書類",
+    "アルバム"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "83be3a279fa54bba",
+   "url": "https://note.com/air001/n/n14ab1d248c10",
+   "title_original": "思い出の品を整理する失恋リセット術5つ｜アオイがプレゼントを箱にしまって前を向いた実話",
+   "source": "note #断捨離",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/2eff05c64fe1283dfdd5545d7dd3dc7e40ca6adf.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-17T08:44:38+00:00",
+   "title_ja": "失恋を機に思い出のプレゼントを整理して前を向いた人の話",
+   "summary_ja": "失恋をきっかけに、思い出の品を整理する5つのリセット術を紹介する記事。過去のパートナーからのプレゼントを箱にしまって整理することで、気持ちを切り替えて前を向くことができた実体験が語られている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "プレゼント"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5673842284b2a757",
+   "url": "https://note.com/3shiba_id/n/nff63a9379b31",
+   "title_original": "物を捨てる",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/304375825/rectangle_large_type_2_8d636ccb4a58e27fabba565c954b49c8.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-17T08:42:24+00:00",
+   "title_ja": "ため込んでいた紙袋を手放したエピソード",
+   "summary_ja": "化粧品や洋服の購入時に溜め込んでいた大量の紙袋。使う予定がないまま保管してしまっていたそれらを手放した時の振り返り。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "紙袋"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "8c60cb99cc55caad",
+   "url": "https://note.com/rich_viola3056/n/nd9764d2236b3",
+   "title_original": "【持たない暮らし】「収納を減らす」と、驚くほど勝手にモノが減っていく話",
+   "source": "note #持たない暮らし",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/f009f0111301241b7ceee3a1b46f4ecf179ea763.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-17T08:32:41+00:00",
+   "title_ja": "収納を減らすと自然にモノが減っていく仕組み",
+   "summary_ja": "あえて収納家具やスペース自体を減らすことで、家の中にある不要なモノが驚くほど勝手に減っていく現象について語る。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "d27db1a788e39cd6",
+   "url": "https://note.com/antena_life/n/nc786d1cba408",
+   "title_original": "渡り（ワタリ）という生き方",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/303236240/rectangle_large_type_2_b693b3138fd16199bd64fa7ce6eeb793.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-17T08:23:18+00:00",
+   "title_ja": "場所に縛られない「渡り」という生き方に惹かれる理由",
+   "summary_ja": "ひとつの場所に留まらず、土地を移動しながら生きる「渡り」というライフスタイルや物語の登場人物から、自分の生き方を考える。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "7815e6fbe36b6df0",
+   "url": "https://www.roomie.jp/2026/08/1864290",
+   "title_original": "【ポイント5倍】山崎実業さん、ありがとう。シャワー位置って好きに変えられるんだ…",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/yamazaki-1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-17T08:15:42+00:00",
+   "title_ja": "山崎実業のシャワーホルダーでお風呂の快適性を上げる",
+   "summary_ja": "山崎実業のシャワーホルダーを使い、シャワーヘッドの置き場所や角度を自分の好みの位置に変えてバスタイムを快適にする工夫。",
+   "category": "道具・ガジェット",
    "axis": "own",
    "things": [
-    "バックパック",
-    "リュック"
+    "シャワーホルダー"
    ],
+   "importance": 3
+  },
+  {
+   "id": "9c77b2cc20d5ec7f",
+   "url": "https://note.com/just_jaguar336/n/n3c2308819ce3",
+   "title_original": "ミニマリストを5年目指しているのに、どうもすっきりしない私のはじめてのnote",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/304387776/rectangle_large_type_2_9e04d421bd990edda023806b13714efc.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-17T08:08:18+00:00",
+   "title_ja": "理想の暮らしをこじらせていた過去と手放しの試行錯誤",
+   "summary_ja": "4人の子育てをする主婦が、インテリアやおしゃれアイテム集めに執着していた過去を振り返り、すっきりしない部屋と向き合う様子をつづったエッセイ。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "0703549b031d5699",
+   "url": "https://www.youtube.com/shorts/_58So3A988A",
+   "title_original": "【ミニマリスト主婦】夕方からも頑張ろう",
+   "source": "ぴーこ｜ゆるっとミニマルな日常",
+   "image": "https://i4.ytimg.com/vi/_58So3A988A/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-17T08:00:37+00:00",
+   "title_ja": "ミニマリスト主婦の夕方の暮らしVlog",
+   "summary_ja": "少ないもので暮らすミニマリスト主婦の日常を映した動画。暮らしを整える工夫や日々のルーティンを垣間見ることができる。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "545c7c44985913f8",
+   "url": "https://www.lifehacker.jp/article/machi-ya-ceilingfanlight-review-967443",
+   "title_original": "エアコンの設定温度を上げても快適？ 天井の「これ」を回したら空気が変わった",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/07/31/edbcb9c1-905b-43a8-9a23-5b27b5d79923/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-17T07:30:00+00:00",
+   "title_ja": "照明とファンを1台にまとめたシーリングライト",
+   "summary_ja": "照明と送風機能を一体化させ、部屋の空気を循環させながら明るさを調整できるシーリングファンライトを紹介しています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "シーリングファンライト"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5ff90ed1134f1986",
+   "url": "https://note.com/alert_orchid2505/n/n4cd2a1f30b34",
+   "title_original": "ミニマリストが旅行から帰ってきたらやることは？",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/304366967/rectangle_large_type_2_c4a0366b1a6c3d397893c8646070a355.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-17T07:10:41+00:00",
+   "title_ja": "転勤族のミニマリストが旅行の帰宅後に実践すること",
+   "summary_ja": "身軽でコンパクトな暮らしを心がける転勤族の筆者が、旅行から自宅に帰ってきたあとにどのような行動をとっているのか、日々の暮らしの気づきとともに紹介している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "0e9a715799af36f7",
+   "url": "https://www.roomie.jp/2026/08/1862546",
+   "title_original": "「洗いやすく持ち歩きやすい」が毎日使いの最適解。無印良品のボトルが過去最安",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/20260817mujitop.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-17T06:55:19+00:00",
+   "title_ja": "無印良品の洗いやすい保温保冷ボトル",
+   "summary_ja": "毎日使う水筒として、洗いやすく持ち運びもしやすい無印良品の真空断熱ボトルを紹介。日々の水分補給に便利なアイテムを取り入れている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "無印良品 真空断熱構造 保温保冷ボトル"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ffff302942088cbc",
+   "url": "https://note.com/jitankataduke/n/nc9afa052c76f",
+   "title_original": "服を捨てる基準に迷ったら？ 洋服はあなたの全身名刺です",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/304356549/rectangle_large_type_2_c547191b78d27312dd7c14982585ee1f.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-17T06:47:51+00:00",
+   "title_ja": "服を捨てる基準に迷ったときの考え方",
+   "summary_ja": "まだ着られるけれど1年以上着ていない服など、手放すべきか迷ったときの判断基準について綴った記事。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "ad0cc4958d834af3",
+   "url": "https://www.youtube.com/shorts/dPXTyL_z5OY",
+   "title_original": "同僚に異常と言われた朝の過ごし方•米を炊く日",
+   "source": "小さな暮らしノート",
+   "image": "https://i1.ytimg.com/vi/dPXTyL_z5OY/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-17T05:09:56+00:00",
+   "title_ja": "3歳児の母親が実践する朝の家事ルーティン",
+   "summary_ja": "朝の身支度や掃除を済ませて家をリセットし、仕事から帰宅後の負担を減らすシングルマザーの朝の過ごし方を紹介しています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -324,43 +513,6 @@
    "things": [
     "調光サングラス",
     "偏光サングラス"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ebc1dd8d80e59d03",
-   "url": "https://www.reddit.com/r/onebag/comments/1vqgcco/5000mah_vs_10000mah_for_onebag_travel_where_do",
-   "title_original": "5,000mAh vs 10,000mAh for one-bag travel: where do you draw the line?",
-   "source": "r/onebag",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-17T02:53:50+00:00",
-   "title_ja": "ワンバッグ旅の充電機器を減らすモバイルバッテリーの選び方",
-   "summary_ja": "1個のバッグで旅行するにあたり、充電セットを簡素化したい人がバッテリーの容量で悩む投稿です。軽量な105gの5,000mAhと、ケーブル内蔵で197gの10,000mAhのどちらを選ぶべきか比較・検討しています。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "モバイルバッテリー",
-    "USB-Cケーブル"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "cb524c01a35e94ca",
-   "url": "https://www.reddit.com/r/simpleliving/comments/1vqg5rd/is_staying_home_rather_than_travelling_a_waste_of",
-   "title_original": "Is staying home rather than travelling a waste of your life?",
-   "source": "r/simpleliving",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-17T02:45:03+00:00",
-   "title_ja": "旅行に行かず家で過ごすシンプルな暮らしを選ぶ人の考え",
-   "summary_ja": "観光地巡りなどの旅行には興味を持たず、家で動画を鑑賞したり観葉植物の世話をしたりして過ごすシンプルライフを優先する人の投稿。若いうちに少し旅行を経験した上で、現在は近所のお店や海に出かける程度の静かな生活を選択している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "観葉植物"
    ],
    "importance": 3
   },
@@ -437,47 +589,11 @@
    "importance": 2
   },
   {
-   "id": "5230efb1440a7303",
-   "url": "https://www.reddit.com/r/minimalism/comments/1vqbxin/how_many_sets_of_bedding_do_you_own",
-   "title_original": "How many sets of bedding do you own?",
-   "source": "r/minimalism",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-16T23:26:24+00:00",
-   "title_ja": "ミニマリストの寝具は何セット？所有数と減らす基準を悩む人の投稿",
-   "summary_ja": "冬用2セット、夏用3セットの計5セットの寝具を持つ投稿者が、収納スペース確保のために1セット減らすべきか悩む。1〜2セットで暮らすミニマリストが多い中、実家には18セットもある状況と比較しながら、世間の一般的な所有数や適切なセット数について意見を求めている。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "寝具"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2bd39a150e560ff1",
-   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vqbmpe/my_parents_bought_this_cooler_before_i_was_born",
-   "title_original": "My parents bought this cooler before I was born. I’m 31 now!",
-   "source": "r/BuyItForLife",
-   "image": "https://preview.redd.it/9i9wiu8gktjh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=0cdc1ccf1357af06a5035b8da93fa95436e36804",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-16T23:12:56+00:00",
-   "title_ja": "30年以上愛用されるクーラーボックス！親から受け継いだ頑丈な名品",
-   "summary_ja": "31歳の投稿者が、自分が生まれる前に両親が購入したというクーラーボックスを紹介している。30年以上の歳月が経った今でも現役で使われており、耐久性が高く長く使い続けられる「一生モノ」の道具の価値を伝えている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "クーラーボックス"
-   ],
-   "importance": 2
-  },
-  {
    "id": "b4d9172a9fc438ae",
    "url": "https://www.bhg.com/common-clutter-culprits-12026305",
    "title_original": "6 Things Professional Organizers Always Declutter First",
    "source": "Better Homes & Gardens",
-   "image": "",
+   "image": "https://www.bhg.com/thmb/gKnBGbLQMw5IiXDKcDgps5TT4Ww=/3500x0/filters:no_upscale():max_bytes(150000):strip_icc()/103051755_preview-f9c7ced3153740f5ac588be497be139f.png",
    "media": "news",
    "region": "海外",
    "published": "2026-08-16T23:06:00+00:00",
@@ -486,6 +602,24 @@
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
+   "importance": 3
+  },
+  {
+   "id": "e4c722e45ed5166e",
+   "url": "https://note.com/yusuke_muji/n/n91d7e3157bb2",
+   "title_original": "スマホ代が月5000円から1000円になった",
+   "source": "note #持たない暮らし",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/0f9bf7910eb613dcfd32f5cfdfc38f8883a695b4.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-16T23:01:33+00:00",
+   "title_ja": "スマホプランを見直し月額料金を下げた話",
+   "summary_ja": "使っていないギガを持て余していたため、日本通信からmineoへ乗り換えた体験談。月額料金が約1000円になり、動画視聴も快適で最小限のコストを実現している。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [
+    "スマートフォン"
+   ],
    "importance": 3
   },
   {
@@ -523,16 +657,32 @@
    "importance": 3
   },
   {
-   "id": "ea76a88a38390943",
-   "url": "https://www.reddit.com/r/simpleliving/comments/1vqamnx/when_i_take_away_the_distractions_theres_nothing",
-   "title_original": "When I take away the distractions, there's nothing left.",
-   "source": "r/simpleliving",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-16T22:29:00+00:00",
-   "title_ja": "デジタル上の刺激を減らした結果、強い抑うつ感に直面した人の話",
-   "summary_ja": "SNSをやめ、画面を見る時間を減らすなど1年かけて気を散らすものを排除してきた投稿者。デジタルな刺激を減らすこと自体は良いことだと感じつつも、それらを失ったことで強い抑うつ感に襲われるようになったと現状の悩みを明かしている。",
+   "id": "bbdc4f09e5408758",
+   "url": "https://note.com/motanai_lab08/n/n94171fa0df54",
+   "title_original": "持たない暮らし研究所 第2回 基準編",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/301790580/rectangle_large_type_2_c2a8d64e7a7b1326c8b3affdf98d406f.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-16T22:43:17+00:00",
+   "title_ja": "モノを残すか手放すか判断する基準の作り方",
+   "summary_ja": "持たない暮らし研究所の第2回目として、モノを「残す」か「手放す」かを判断するための基準づくりについて解説している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "25c6166ecb043fe9",
+   "url": "https://note.com/yoyochifu/n/n0d7802666590",
+   "title_original": "「持たない」が、いちばん満たされる。私がシンプルライフで見つけた、心の余白",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/295138376/rectangle_large_type_2_5afb83ac05d923915ae4eda25aab04f6.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-16T22:36:26+00:00",
+   "title_ja": "シンプルライフで心の余白を見つけた体験談",
+   "summary_ja": "多くのモノや情報に囲まれた生活から、本当に大切なものだけを手元に残すことで、脳のノイズが消えて心が豊かになるシンプルライフの効用を説いている。",
    "category": "心・習慣",
    "axis": "reduce",
    "things": [],
@@ -557,24 +707,6 @@
    "importance": 3
   },
   {
-   "id": "0a783d135661ca48",
-   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vq8imk/buy_it_for_multiple_lives",
-   "title_original": "Buy it for multiple lives.",
-   "source": "r/BuyItForLife",
-   "image": "https://preview.redd.it/ykq9cmhuwsjh1.jpeg?width=640&crop=smart&auto=webp&s=09d179db6a9a517fc4e702f72f1b01514b36fc30",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-16T21:00:44+00:00",
-   "title_ja": "中古ショップで一生モノのミシンを格安購入した人の話",
-   "summary_ja": "海外の掲示板で、中古ショップにて30ドルで購入されたシンガー社製のミシン「15-91」が話題に。頑丈なアメリカ製で、何世代にもわたって使い続けられる「一生モノ」の道具を所有する喜びが語られている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ミシン"
-   ],
-   "importance": 3
-  },
-  {
    "id": "31b9eba0116a2906",
    "url": "https://www.autoevolution.com/news/raven-outlook-is-a-gorgeous-park-model-tiny-with-a-huge-bay-window-and-full-size-comforts-274246.html",
    "title_original": "Raven Outlook Is a Gorgeous Park Model Tiny With a Huge Bay Window and Full-Size Comforts",
@@ -589,114 +721,6 @@
    "axis": "own",
    "things": [],
    "importance": 3
-  },
-  {
-   "id": "a057bafae56f8da1",
-   "url": "https://www.reddit.com/r/simpleliving/comments/1vq5o2k/nonattentiongrabbing_yt_channel_recommendations",
-   "title_original": "Non-attention-grabbing YT channel recommendations",
-   "source": "r/simpleliving",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-16T19:08:26+00:00",
-   "title_ja": "SNSをやめ刺激の少ないYouTubeチャンネルのおすすめを尋ねる人の話",
-   "summary_ja": "SNSをやめて長尺動画のみを観るようにしたところ、満足度が高まったという投稿者。注意を引くための過度な演出や、劇的なナレーションがない静かなコンテンツを求めており、おすすめのYouTubeチャンネルについての助言を求めている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "ec8e65cf68da0e0f",
-   "url": "https://www.reddit.com/r/Anticonsumption/comments/1vq47ud/pr_influencers_make_my_bloody_boil",
-   "title_original": "PR & ‘ influencers’ make my bloody boil",
-   "source": "r/Anticonsumption",
-   "image": "https://preview.redd.it/jzd8yf9w2sjh1.jpeg?width=640&crop=smart&auto=webp&s=2c22a0f74382b5cb7eab9567ee568b229541a272",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-16T18:12:40+00:00",
-   "title_ja": "インフルエンサーへの大量のPR提供品と過剰消費に疑問を抱く人の話",
-   "summary_ja": "インフルエンサーが短期間で受け取った大量のPR提供品に対し、不満を抱く投稿者の意見。生活費に苦しむ人々がいる一方で、大量のモノが提供され最終的に廃棄される現状について、過剰消費の観点から強い疑問を呈している。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "536b4331a1510e4c",
-   "url": "https://www.reddit.com/r/Anticonsumption/comments/1vq2v30/my_contribution_to_anticonsumption_cleaning_out",
-   "title_original": "My contribution to anti-consumption: cleaning out all of these zip loc bags",
-   "source": "r/Anticonsumption",
-   "image": "https://preview.redd.it/0yh016uptrjh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=f755043952355209029995f1d064953f7f1742d1",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-16T17:21:13+00:00",
-   "title_ja": "溜まった保存袋を洗って再利用しゴミと消費を抑える人の話",
-   "summary_ja": "毛糸の購入や引っ越しの際に溜まったプラスチック製のジップロックバッグを、捨てずに洗って再利用することにした投稿者。日常の中で余計な買い足しやゴミを減らし、モノを大切に使い続けるための身近な工夫を紹介している。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "ジップロック"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "9442f3139fd8ff1f",
-   "url": "https://www.reddit.com/r/Anticonsumption/comments/1vq26z9/i_made_some_adimprovement_stickers_you_can_print",
-   "title_original": "I made some ad-improvement stickers. You can print your own.",
-   "source": "r/Anticonsumption",
-   "image": "https://preview.redd.it/6ljqcpptorjh1.png?width=140&height=93&auto=webp&s=ee5e3e3e736e628f910232cda0c3e8de2bf56525",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-16T16:55:35+00:00",
-   "title_ja": "ギャンブルや高級品の広告向けに自作ステッカーを印刷公開した人の話",
-   "summary_ja": "ギャンブルや高級品、アパレル、自動車、美容などの広告向けに、自作の広告改善ステッカーを作成した投稿者の話。印刷して誰でも使えるようにデータを公開しており、過剰な消費を促す広告に対して自作ステッカーで対策する試みが共有されている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "ステッカー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "af1c3d4cabaf00dd",
-   "url": "https://www.reddit.com/r/simpleliving/comments/1vq1p01/a_peek_into_my_simple_day_cottage_life_in_finland",
-   "title_original": "A peek into my simple day. Cottage life in Finland",
-   "source": "r/simpleliving",
-   "image": "https://preview.redd.it/m7aax0b9jrjh1.jpg?width=140&height=78&auto=webp&s=5c81d77a69bf7aaea0101d7cb8f909c8f7c0f970",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-16T16:35:57+00:00",
-   "title_ja": "フィンランドの小屋で時計を持たずに過ごすシンプルな日常",
-   "summary_ja": "フィンランドのコテージで、時間にとらわれず湖を眺めてお茶を飲み、薪割りやサウナを楽しんで過ごす人の話。水道のない環境で、ベリー摘みや水浴びなど自然と共に暮らすことで、質の高い睡眠と心豊かな時間を手に入れている。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [
-    "サウナ",
-    "薪"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "19894d38d1cce2ec",
-   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vpysqx/i_have_been_converting_my_house_to_all_bifl_and_i",
-   "title_original": "I have been converting my house to all BIFL and I keep seeking made in Japan tools & blades objects 🇯🇵",
-   "source": "r/BuyItForLife",
-   "image": "https://preview.redd.it/jjl6k0t61rjh1.jpeg?width=640&crop=smart&auto=webp&s=b3213c12b8b15a4fb4ea9422bd9406ca9844f7b6",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-16T14:41:19+00:00",
-   "title_ja": "壊れない一生モノを求めて日本製の工具や刃物を選び始めた人の話",
-   "summary_ja": "壊れた電動工具の修理経験から、全ての部品を個別調達できるマキタなどのブランドへ移行した投稿者。さらに、壊れやすいプラスチック製キッチンバサミの代わりに、長く使える投資として日本製のハンドメイド剪定ばさみや包丁、ハサミを選び始めている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "マキタの工具",
-    "キッチンバサミ",
-    "包丁",
-    "園芸用ハサミ"
-   ],
-   "importance": 4
   },
   {
    "id": "e0bbd702404c3bec",
@@ -755,25 +779,6 @@
    "importance": 3
   },
   {
-   "id": "6a84a43e0d1aa0bf",
-   "url": "https://www.reddit.com/r/onebag/comments/1vpwfjz/review_of_osprey_ultralight_dry_stuff_pack_20l",
-   "title_original": "Review of Osprey Ultralight Dry Stuff Pack 20L",
-   "source": "r/onebag",
-   "image": "https://preview.redd.it/ygmi1u9e1qjh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=796333228e1ae0fb6debd0a86d16e4117c699708",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-16T12:59:14+00:00",
-   "title_ja": "重さ約200gで折りたためるオスプレーの20L防水リュックの使用レビュー",
-   "summary_ja": "重さ約200gでたたむとパンほどの大きさになる、オスプレーの20L防水リュックのレビュー。13インチのPCが入る容量や、水筒や手袋を入れられる便利なサイドポケット、大雨での使用感などを解説している。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "オスプレーの防水リュック",
-    "リュック"
-   ],
-   "importance": 3
-  },
-  {
    "id": "fbb54e501d2745c5",
    "url": "https://www.roomie.jp/2026/08/1864646",
    "title_original": "「クリップ1個でパンツ吊るす」ってアリ？試したらクローゼットがスッキリ",
@@ -789,25 +794,6 @@
    "things": [
     "ワンクリップアルミハンガー",
     "クリップハンガー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "a551d2464551c0ce",
-   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vpw3se/eddie_bauer_bankrupt_since_feb_2026_bifl_status",
-   "title_original": "Eddie Bauer bankrupt since Feb. 2026. BIFL status may change?",
-   "source": "r/BuyItForLife",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-16T12:43:54+00:00",
-   "title_ja": "長年愛用された衣服ブランドの破産と品質変化を心配する投稿",
-   "summary_ja": "長く使える製品として評価されていたブランドの破産と全店閉店に伴い、今後の品質や耐久性の保証を懸念する投稿。投稿者は20年以上前の服を家族が愛用している例を挙げつつ、質の高い物を長く所有し続ける暮らしにおけるブランドの品質変化を悲しんでいる。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "服",
-    "シャツ"
    ],
    "importance": 3
   },
@@ -879,42 +865,6 @@
     "VK-ASPEN"
    ],
    "importance": 3
-  },
-  {
-   "id": "a46d3724af6a6747",
-   "url": "https://www.reddit.com/r/onebag/comments/1vpuhdu/credits_to_usafaridoc1_for_giving_me_this_idea",
-   "title_original": "Credits to u/Safaridoc1 for giving me this idea for drying shirts",
-   "source": "r/onebag",
-   "image": "https://preview.redd.it/srl3bemh1qjh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=737ef75c2431a1189682ba5cd2586001a39df619",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-16T11:21:17+00:00",
-   "title_ja": "旅先でシャツを乾かすために自作した軽量セパレーター",
-   "summary_ja": "旅行時の衣類乾燥を効率化するため、ナイロンフィラメントと磁石を使ってTシャツ用のセパレーターを自作したアイデア。重さはわずか10グラムで、通気性を高める工夫が施されている。今後はさらにコンパクトに持ち運べるよう、伸縮式や折りたたみ式の開発も検討している。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "Tシャツセパレーター",
-    "磁石",
-    "ナイロンフィラメント"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "8591bb60b944a9c7",
-   "url": "https://www.reddit.com/r/simpleliving/comments/1vpu5b2/petting_my_favorite_outdoor_cat_early_in_the",
-   "title_original": "Petting my favorite outdoor cat early in the peaceful morning!",
-   "source": "r/simpleliving",
-   "image": "https://preview.redd.it/w2xdyfm0ypjh1.jpeg?width=640&crop=smart&auto=webp&s=9f01f34d2c7bd07e90d7c8d16a018d03f7e42e2f",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-16T11:02:41+00:00",
-   "title_ja": "静かな早朝にお気に入りの外猫を撫でて穏やかに過ごす人の話",
-   "summary_ja": "静かな早朝の時間帯にお気に入りの外猫を撫でて穏やかに過ごした投稿者の話。特別な道具や買い物を必要とせず、日常の中にある静けさや動物との触れ合いを楽しむシンプルな暮らしのひとときが描かれている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
   },
   {
    "id": "3308a056ac95f6b6",
@@ -1021,6 +971,22 @@
    "importance": 3
   },
   {
+   "id": "1a96a898fde61075",
+   "url": "https://note.com/nice_chives9917/n/n1967004f8e8c",
+   "title_original": "【ミニマリズム】昔作った独自ルールが今も守られているのかの検証。",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/304061359/rectangle_large_type_2_2643366b09464589596b0cceda9c38cc.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-16T08:01:41+00:00",
+   "title_ja": "5年前に作ったミニマリストのルールを検証した話",
+   "summary_ja": "過去に作成したミニマリストになるための50のルールについて、現在の暮らしでも守られているかを10点満点で評価・検証している記事です。自分のルールを見直すきっかけになります。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "44a1ea78b47ddab5",
    "url": "https://www.youtube.com/watch?v=ZeYLDeODHxY",
    "title_original": "【ミニマリスト】3歳児がいる我が家が、あえて持たない14のもの",
@@ -1071,22 +1037,6 @@
    "importance": 3
   },
   {
-   "id": "63a4a38a2916b980",
-   "url": "https://www.reddit.com/r/minimalism/comments/1vpom67/military_plaques_and_awards",
-   "title_original": "Military Plaques and Awards",
-   "source": "r/minimalism",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-16T05:36:16+00:00",
-   "title_ja": "軍の記念品と向き合い、思い出の品を手放す話",
-   "summary_ja": "軍の退役を機にミニマリストになった投稿者が、長年保管してきた大量の軍の表彰盾や記念品の扱いに悩んでいる。 sentimentalな価値を見出せないものの、心の重荷になっていた過去の記念品を手放そうと向き合っている体験談である。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
    "id": "e1b2fe952261bbba",
    "url": "https://www.lifehacker.jp/article/machi-ya-yoshinawallet-review-960256",
    "title_original": "買った日から手に馴染むコンパクトな本革財布。使って気づいた、いろんな強み",
@@ -1123,27 +1073,6 @@
    "importance": 2
   },
   {
-   "id": "3b742c5adaee2a5c",
-   "url": "https://www.reddit.com/r/onebag/comments/1vpl6ng/first_one_bagging_trip_coming_up",
-   "title_original": "First one bagging trip coming up",
-   "source": "r/onebag",
-   "image": "https://preview.redd.it/u0pe0ptofnjh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=1971b8e7adc956a996dce260a335da2a065f3fd0",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-16T02:35:28+00:00",
-   "title_ja": "15日間の旅行をバッグ1つでこなすミニマルなパッキング",
-   "summary_ja": "初めてバックパック1つでの15日間の旅行に挑戦する人の持ち物リスト。28Lのバッグに、MacBookや充電器、Tシャツ6枚、ショーツ3着、下着類、トイレタリーバッグなどをコンパクトに収納し、旅の準備を整えている。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "バックパック",
-    "MacBook",
-    "Tシャツ",
-    "トイレタリーバッグ"
-   ],
-   "importance": 4
-  },
-  {
    "id": "12affc1290dede61",
    "url": "https://www.sanspo.com/article/20260816-EZJ5UXSAP5GZFABAB7DYQLRJIQ",
    "title_original": "田中みな実「炊飯器も毎回しまってる」ミニマリストぶりにテリー伊藤「結婚したかったな」",
@@ -1160,40 +1089,6 @@
     "炊飯器"
    ],
    "importance": 3
-  },
-  {
-   "id": "c05742889b639a45",
-   "url": "https://www.reddit.com/r/minimalism/comments/1vpju7e/hard_time_getting_rid_of_things_i_paid_for",
-   "title_original": "Hard time getting rid of things I paid for",
-   "source": "r/minimalism",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-16T01:28:23+00:00",
-   "title_ja": "購入時のお金への罪悪感から服を手放せずに悩む人の相談",
-   "summary_ja": "大量の服を処分する準備はできているものの、購入時に支払ったお金への罪悪感から手放せずにいる投稿。eBayでの売却や古着屋への持ち込みを考える一方、すぐに処分したい思いや金銭的見返りが得られない葛藤を明かしている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "服"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "bf524c5fc2ea4fcd",
-   "url": "https://www.reddit.com/r/simpleliving/comments/1vpj3mh/whats_something_you_completely_stopped_caring",
-   "title_original": "What’s something you completely stopped caring about after turning 30 that used to take up way too much of your energy?",
-   "source": "r/simpleliving",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-16T00:51:58+00:00",
-   "title_ja": "30代になって人間関係への執着を手放した人の話",
-   "summary_ja": "20代の頃は大人数の友人グループに合わせることに疲れ、誘いを断ることに罪悪感を抱いていた投稿者。30代になり人間関係を見直したことで、現在は家での静かな時間を楽しみ、本当に親しい数人の友人とだけ付き合うシンプルな暮らしを送っている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
   },
   {
    "id": "dc394fb6540465a7",
@@ -1269,40 +1164,20 @@
    "importance": 3
   },
   {
-   "id": "72bb3c286247f8ca",
-   "url": "https://www.reddit.com/r/Anticonsumption/comments/1vph9qg/people_threw_away_a_tv_with_a_cracked_screen_i",
-   "title_original": "People threw away a TV with a cracked screen, I salvaged it",
-   "source": "r/Anticonsumption",
-   "image": "https://preview.redd.it/h2y0z9ethmjh1.jpg?width=140&height=105&auto=webp&s=77f1a8ecadbc0830fe9218fb378ba4ff0e483b86",
-   "media": "reddit",
+   "id": "fc34d6901a7f9b78",
+   "url": "https://www.aol.com/articles/organized-people-swear-cleaning-5-222600000.html",
+   "title_original": "Organized People Swear by Cleaning These 5 Spots Every Sunday for a Smoother, Less Cluttered Week",
+   "source": "AOL.com",
+   "image": "https://hermes.media.static.aol.com/media/2026/08/15/58ed166c-7169-3ed3-abfe-8e97624885c7/372ab5e0-aae5-403c-afe9-7a18a0daa3ff.jpg",
+   "media": "news",
    "region": "海外",
-   "published": "2026-08-15T23:25:43+00:00",
-   "title_ja": "画面が割れて捨てられたテレビを回収して再利用する話",
-   "summary_ja": "画面が割れて廃棄されていたテレビを回収し、部品を再利用しようとする試み。特に電源基板は様々な電圧を出力できるため有用であり、これらを使ってデスクトップスピーカーを自作するほか、割れた画面は妹が活用する予定だという。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "テレビ",
-    "スピーカー",
-    "電源基板"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c6beea347b8e9d2a",
-   "url": "https://www.reddit.com/r/simpleliving/comments/1vph2l5/my_simplest_birthday_was_my_happiest",
-   "title_original": "My simplest birthday was my happiest",
-   "source": "r/simpleliving",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-15T23:16:26+00:00",
-   "title_ja": "派手な祝い事をやめ、近所での朝食や庭仕事で静かで幸せな誕生日を過ごした話",
-   "summary_ja": "普段忙しく過ごす38歳の女性が、大きなパーティーやプレゼントを用意せず、夫と朝食を食べたり庭仕事や洗濯をしたりして過ごしたシンプルな誕生日。特別なことをしない静かな暮らしが、ここ数年で最も幸せで心満たされる日となった。",
+   "published": "2026-08-15T23:12:24+00:00",
+   "title_ja": "整理上手な人が日曜日に掃除する5つの場所",
+   "summary_ja": "スムーズで散らからない1週間を過ごすために、整理上手な人が毎週日曜日に必ず掃除しているという5つの場所を紹介している記事です。週末の習慣作りの参考になります。",
    "category": "心・習慣",
    "axis": "reduce",
    "things": [],
-   "importance": 4
+   "importance": 3
   },
   {
    "id": "fe1f6bc76ea06fb8",
@@ -1341,31 +1216,11 @@
    "importance": 2
   },
   {
-   "id": "bc4fc0a87128631b",
-   "url": "https://www.reddit.com/r/onebag/comments/1vpgoyu/trip_report_5_days_in_northern_ireland_including",
-   "title_original": "Trip report: 5 days in Northern Ireland, including travel days",
-   "source": "r/onebag",
-   "image": "https://preview.redd.it/9ffr7qi0dmjh1.jpg?width=140&height=105&auto=webp&s=b34dd25ab26faa29f93ba4ea1f509e18e9097980",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-15T22:59:07+00:00",
-   "title_ja": "北アイルランド5日間の旅で、不要な服や失敗した衣類選びを振り返った話",
-   "summary_ja": "電車とフェリーで北アイルランドへ5日間旅行した際の服選びの振り返り。想定より暖かく手洗い洗濯が必要になり、厚手のパンツや重ね着用の長袖は不要だったと実感。気候に合わせた最小限の衣服選びの大切さを語っている。",
-   "category": "旅・持ち歩き",
-   "axis": "reduce",
-   "things": [
-    "ウォーキングパンツ",
-    "カーディガン",
-    "長袖Tシャツ"
-   ],
-   "importance": 3
-  },
-  {
    "id": "9a0380e630fdfe8a",
    "url": "https://www.thespruce.com/spots-organized-people-clean-every-sunday-12057429",
    "title_original": "These Are the 5 Spots Organized People Clean Every Sunday to Keep Their Homes Under Control All Week",
    "source": "The Spruce",
-   "image": "",
+   "image": "https://www.thespruce.com/thmb/He8WQEh3zx9ea61RK6fh-CWmbSY=/2121x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2195073177-650c19d80a0144a3bf21b89636b73dae.jpg",
    "media": "news",
    "region": "海外",
    "published": "2026-08-15T22:26:00+00:00",
@@ -1393,27 +1248,6 @@
    "importance": 2
   },
   {
-   "id": "23b2bd9154a15296",
-   "url": "https://www.reddit.com/r/minimalism/comments/1vpff0j/i_bought_some_stuff_today",
-   "title_original": "I bought some stuff today.",
-   "source": "r/minimalism",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-15T22:00:57+00:00",
-   "title_ja": "シビアなミニマリストがたまの買い物を楽しみ気分転換に繋げている話",
-   "summary_ja": "極端なミニマリストでありながらも、時に外出して買い物をする楽しさを味わう人の体験談。未完成のノートや本、花瓶に再利用できる瓶詰めの桃などを購入し、矛盾を感じつつもたまの買い物が生活の適度な息抜きになっていると明かしている。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [
-    "ジャーナル",
-    "本",
-    "桃の瓶詰め",
-    "ホットソース"
-   ],
-   "importance": 4
-  },
-  {
    "id": "9049c0b719ac7f7f",
    "url": "https://www.lifehacker.jp/article/2608-googles-productivity-expert-says-this-is-the-best-way-to-start-your-day",
    "title_original": "朝の30分は「余白」への投資。前夜の仕込みから変わる心地よいスタートライン",
@@ -1428,134 +1262,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
-  },
-  {
-   "id": "0a83c961a794f5c8",
-   "url": "https://www.reddit.com/r/simpleliving/comments/1vpdr89/the_answer_was_not_a_better_routine_it_was_5",
-   "title_original": "the answer was not a better routine. it was 5 hours less work",
-   "source": "r/simpleliving",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-15T20:50:20+00:00",
-   "title_ja": "多忙な日常の解決策としてルーティン改善ではなく労働時間を削った話",
-   "summary_ja": "多忙な生活を改善するためルーティンを効率化しようとしていた女性が、物理的に週の労働時間を40時間から35時間に減らした体験談。日々の詰め込み作業をやめ、根本的な時間量を減らすことが心のゆとりに繋がったと伝えている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "0c2962d9fe82b99a",
-   "url": "https://www.reddit.com/r/declutter/comments/1vpb34g/success_story_saturday_share_your_wins_here",
-   "title_original": "Success Story Saturday - Share Your Wins Here",
-   "source": "r/declutter",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-15T19:01:01+00:00",
-   "title_ja": "クローゼットやデジタルデータなど今週の片付け成果を共有するスレッド",
-   "summary_ja": "メールや写真などのデジタルデータから、クローゼットや押し入れ、子供のおもちゃ、キッチンまで、今週減らすことができた物や片付けの成功体験を投稿者同士で共有するスレッド。寄付やゴミ出しの報告など小さな成果も集まっている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "メール",
-    "写真",
-    "おもちゃ"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "e7dd5a47133bd49f",
-   "url": "https://www.reddit.com/r/declutter/comments/1vpb2cn/weekend_declutter_woowoo_even_small_ones",
-   "title_original": "Weekend declutter woowoo. Even small ones",
-   "source": "r/declutter",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-15T19:00:15+00:00",
-   "title_ja": "週末にコツコツ進めた不要品の手放しと寄付の記録",
-   "summary_ja": "使っていなかったパスポートホルダーや余分な学用品、ハロウィンの仮装グッズなどを集めて寄付やリサイクルに回した人の話。小さな単位でもこまめに手放すことで、家の中の不要品を整理する習慣が実践されている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "パスポートホルダー",
-    "学用品",
-    "仮装マスク"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "95b89ccc314506b7",
-   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vpafs6/this_spatula_is_not_only_extremely_durable_but",
-   "title_original": "This spatula is not only extremely durable but also the nicest one to use. Global GS-27",
-   "source": "r/BuyItForLife",
-   "image": "https://preview.redd.it/w5gx40p12ljh1.jpeg?width=640&crop=smart&auto=webp&s=473310ed234e6964a04dffa16b8e2b762bbef40a",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-15T18:35:26+00:00",
-   "title_ja": "10年間愛用するグローバルのスパチュラ「GS-27」の魅力",
-   "summary_ja": "ステンレスフライパン愛用者が、2015年から使い続けているグローバルのスパチュラ「GS-27」の魅力を語る投稿。適切な柔軟性と復元力を備え、繊細な料理のすき間にもすっと入り込む使い心地と高い耐久性を絶賛しています。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "スパチュラ",
-    "ステンレスパン"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2b0b32bba6c048b0",
-   "url": "https://www.reddit.com/r/minimalism/comments/1vp6q44/its_freeing_to_have_less_clutter",
-   "title_original": "It's freeing to have less clutter",
-   "source": "r/minimalism",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-15T16:08:30+00:00",
-   "title_ja": "20年かけて溜まった家財を3分の1に減らした人の話",
-   "summary_ja": "家族と20年暮らした家で、数ヶ月かけて持ち物を3分の1減らした体験談。まだミニマリストの途中段階だが、朝起きてすっきりしたリビングを見るだけで解放感を得られた。20年かけて溜まった物なので、数ヶ月かけて片づけるのは当然だと前向きに取り組んでいる。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "5ab11b9c4850c1b0",
-   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vp5b51/this_nail_clipper_is_older_than_me_and_the_only",
-   "title_original": "This nail clipper is older than me and the only one I've ever had in my life. My mom used to clip my nails with this when I was a baby. I am now 24, live in a different continent and this is still the only nail clipper I own and use. Reminds me of childhood every time I clip my nails.",
-   "source": "r/BuyItForLife",
-   "image": "https://preview.redd.it/yx31dya91kjh1.jpeg?width=640&crop=smart&auto=webp&s=0e6a33fd29a627e9cd0548a0d0c210703ac916cb",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-15T15:11:24+00:00",
-   "title_ja": "24年間それひとつだけを使い続ける韓国製「BELL」の爪切り",
-   "summary_ja": "赤ちゃんの頃に母親に爪を切ってもらっていた韓国製「BELL」の爪切りを、24歳になった今も海外で唯一の所有物として愛用し続けているという投稿。使うたびに子供時代を思い出しながら、長年壊れずに使い続けられているエピソードです。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "爪切り"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "a31d27313cde9094",
-   "url": "https://www.reddit.com/r/onebag/comments/1vp4vdd/nitecore_nb_air_5000mah_not_fully_charging",
-   "title_original": "Nitecore NB Air 5000mAh not fully charging - looking for an alternative",
-   "source": "r/onebag",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-15T14:53:19+00:00",
-   "title_ja": "軽量モバイルバッテリーの不具合から代替品を探す投稿者の相談",
-   "summary_ja": "薄型で軽量な5000mAhのモバイルバッテリーが正常に充電できなくなったため、信頼性の高い代替品を求める投稿。スマートフォンの充電に必要な最小限の容量とコンパクトさを重視した道具選びの視点が示されている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "モバイルバッテリー",
-    "スマートフォン"
-   ],
-   "importance": 2
   },
   {
    "id": "ff165746a07aa07a",
@@ -1634,22 +1340,6 @@
     "領収書"
    ],
    "importance": 3
-  },
-  {
-   "id": "f92aff78468cbde7",
-   "url": "https://www.reddit.com/r/Anticonsumption/comments/1vp1s7b/yeah_just_keep_consuming_whatever_price_our",
-   "title_original": "Yeah just keep consuming whatever price our overlords set, smh",
-   "source": "r/Anticonsumption",
-   "image": "https://preview.redd.it/ls19ngdz9jjh1.png?width=640&crop=smart&auto=webp&s=4fd96219b2daf61a59aaf4ba53ecd30d6d894e06",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-15T12:36:47+00:00",
-   "title_ja": "設定された価格のままに消費を続けることへの疑問を呈した投稿",
-   "summary_ja": "海外のコミュニティで、企業が提示する価格のままに不要な消費を続けることへの皮肉や疑問が投稿された。過剰な消費主義から抜け出し、本当に必要なものだけを見極める姿勢の大切さを示唆している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
   },
   {
    "id": "8e1ba053b9e6c381",
@@ -1885,22 +1575,6 @@
    "importance": 3
   },
   {
-   "id": "5da6be011cda5948",
-   "url": "https://www.reddit.com/r/minimalism/comments/1vozmnl/overwhelmed_but_adulthood_means_i_have_to_do_this",
-   "title_original": "Overwhelmed but adulthood means I have to do this anyway",
-   "source": "r/minimalism",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-15T10:44:43+00:00",
-   "title_ja": "両親を亡くし実家の片づけに直面した28歳が語る物との向き合い方",
-   "summary_ja": "両親の急逝により、3階建て250平米の実家を片づけることになった28歳の投稿。大量の遺品に囲まれる息苦しさから物を減らす決意をし、2週間後にシェルターから迎える大型犬のためのスペース作りに向けて、孤独な片づけに挑む様子を綴る。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
    "id": "af8be73befa6983e",
    "url": "https://www.youtube.com/watch?v=Ft12-4jRiH4",
    "title_original": "40代ミニマリスト、アクセサリーは13個。全部見せます",
@@ -1977,19 +1651,21 @@
    "importance": 2
   },
   {
-   "id": "02e4f31bfbe3dffd",
-   "url": "https://www.reddit.com/r/simpleliving/comments/1vowmm8/has_anyone_done_a_proper_subscription_clean_out",
-   "title_original": "Has anyone done a proper subscription clean out?",
-   "source": "r/simpleliving",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-15T07:43:14+00:00",
-   "title_ja": "毎月のサブスクリプションを整理し始めた人の話",
-   "summary_ja": "気づかないうちに増えていく動画配信やストレージなどのサブスクリプションを整理するため、銀行の明細書を確認して不要なサービスを解約しようとする試み。支出を減らし、暮らしをシンプルにすることを目指している。",
-   "category": "お金・買い方",
+   "id": "93a656964ad76f66",
+   "url": "https://note.com/natty_shark189/n/n83f630b0f8ed",
+   "title_original": "服を200着から20着に減らすまで。私が手放したのは「服」だけではありませんでした。",
+   "source": "note #少ない服で暮らす",
+   "image": "https://assets.st-note.com/production/uploads/images/303631734/rectangle_large_type_2_1faef11c0f395461a31007bea09cb128.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-15T02:24:45+00:00",
+   "title_ja": "200着から20着の服へ減らした40代の体験談",
+   "summary_ja": "かつて200着以上持っていた服を、オールシーズン20着まで減らした40代後半の体験談です。服だけでなく、物を通して自分の生き方を見つめ直した記録となっています。",
+   "category": "服・ファッション",
    "axis": "reduce",
-   "things": [],
+   "things": [
+    "服"
+   ],
    "importance": 4
   },
   {
@@ -2027,25 +1703,6 @@
    "importance": 3
   },
   {
-   "id": "b8a4639f6ce251b4",
-   "url": "https://www.reddit.com/r/declutter/comments/1vopc2v/success_maybe_neighbor_came_over_and_made_me_be",
-   "title_original": "Success? Maybe? Neighbor came over and made me be productive",
-   "source": "r/declutter",
-   "image": "https://preview.redd.it/avz9iu80tfjh1.jpeg?width=640&crop=smart&auto=webp&s=b11f39558993cd673d904339fcf3e009deaadccc",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-15T01:18:51+00:00",
-   "title_ja": "実家の片付けで大型コンテナを導入して整理を進めた話",
-   "summary_ja": "両親の死後に実家の片付けを進める中、週に一度のゴミ箱回収では追いつかずに大型の廃棄用コンテナを導入した体験談です。割れるガラスや大量の写真フレームなどを効率よく処分し、アーティストだった家族の作品を一部残して整理を進めています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "写真フレーム",
-    "キャンバス"
-   ],
-   "importance": 4
-  },
-  {
    "id": "1910e918d1833079",
    "url": "https://www.roomie.jp/2026/08/1863694",
    "title_original": "この防災電球で日頃から備えを。停電しても0.2秒で自動点灯、音声操作も懐中電灯代わりにもなる",
@@ -2061,24 +1718,6 @@
    "things": [
     "防災電球",
     "USB Type-C充電器"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "8f404f822fe5d406",
-   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vooahy/my_humble_buyitforlife_suggestion_little_giant",
-   "title_original": "My humble BuyItForLife suggestion: Little Giant Ladders",
-   "source": "r/BuyItForLife",
-   "image": "https://preview.redd.it/0p2om3k9ofjh1.jpeg?width=320&crop=smart&auto=webp&s=ccb736b9bbc619d41f7577e26ed222162781d113",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-15T00:29:17+00:00",
-   "title_ja": "長年愛用できる頑丈な梯子のレビュー",
-   "summary_ja": "雨樋の設置やハロウィンの飾り付けなど様々な作業でトラブルなく使えている、一生ものの梯子についての体験談です。少しかさばるものの、これ一台で十分だと語られています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "梯子"
    ],
    "importance": 3
   },
@@ -2222,6 +1861,26 @@
    "importance": 3
   },
   {
+   "id": "9eae8b0d19030ae1",
+   "url": "https://note.com/legal_alpaca3375/n/n183b54a63ebd",
+   "title_original": "今日から実践できる、少ないアイテムの着回し術入門｜トップス3枚×ボトムス2枚で1週間をつくる基本の考え方",
+   "source": "note #少ない服で暮らす",
+   "image": "https://assets.st-note.com/production/uploads/images/303297847/rectangle_large_type_2_3b94aff4b162216ce0724c8a0947ce1b.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-14T22:25:19+00:00",
+   "title_ja": "トップスとボトムスで組む少ない服の着回し術",
+   "summary_ja": "トップス3枚とボトムス2枚を基本にして1週間を過ごす、少ないアイテムでの着回し術の考え方です。毎朝の服選びに悩む人に向けて、ワードローブをコンパクトにするヒントを伝えています。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "トップス",
+    "ボトムス",
+    "服"
+   ],
+   "importance": 3
+  },
+  {
    "id": "b9fc0da0fd83ee75",
    "url": "https://goodmenproject.com/everyday-life-2/decluttering-before-the-school-year-how-to-reclaim-space-before-fall",
    "title_original": "Decluttering Before the School Year: How to Reclaim Space Before Fall",
@@ -2254,25 +1913,6 @@
    "importance": 3
   },
   {
-   "id": "edba5a5b3351c871",
-   "url": "https://www.reddit.com/r/declutter/comments/1vokjpm/have_less_wear_it_out_then_replace_my_journey",
-   "title_original": "Have less. Wear it out. Then replace. My journey with household linens.",
-   "source": "r/declutter",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-14T21:45:53+00:00",
-   "title_ja": "タオルや寝具を減らして使い切る暮らしの工夫",
-   "summary_ja": "引っ越しを機に大量のタオルや寝具を見直し、傷んだものや使わないものを動物保護施設やチャリティへ寄付した体験談。使い切ってから買い替えるルールを実践しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "タオル",
-    "寝具"
-   ],
-   "importance": 4
-  },
-  {
    "id": "f52d0f69be18f463",
    "url": "https://www.marinij.com/2026/08/14/sausalito-author-shares-how-to-declutter-your-life-home/amp",
    "title_original": "Sausalito author shares how to declutter your life, home",
@@ -2289,25 +1929,6 @@
    "importance": 2
   },
   {
-   "id": "251b3debeedbd174",
-   "url": "https://www.reddit.com/r/BuyItForLife/comments/1voik3z/what_is_the_expected_life_for_daily_sneakers",
-   "title_original": "What is the expected life for daily sneakers?",
-   "source": "r/BuyItForLife",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-14T20:27:41+00:00",
-   "title_ja": "毎日履くスニーカーの寿命は何年か？一足の耐用年数を考える",
-   "summary_ja": "ソール交換ができないスニーカーを毎日履く場合、寿命は1年程度なのかを他の利用者に問いかける投稿。ウォーキングやハイキングを楽しむ投稿者が、毎年買い替えるべきなのか、何年間履き続けられるものなのか議論を求めています。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "スニーカー",
-    "ハイキングシューズ"
-   ],
-   "importance": 3
-  },
-  {
    "id": "856c234d18b49da4",
    "url": "https://graziamagazine.com/us/articles/justin-biebers-living-room-is-the-most-sophisticated-example-of-warm-minimalism-weve-seen-in-years-25497",
    "title_original": "Justin Bieber's Living Room Is the Most Sophisticated Example of Warm Minimalism We've Seen in Years",
@@ -2322,26 +1943,6 @@
    "axis": "own",
    "things": [],
    "importance": 2
-  },
-  {
-   "id": "618550d81b1ed4e3",
-   "url": "https://www.reddit.com/r/onebag/comments/1vogigv/clothes_drying_tip",
-   "title_original": "Clothes drying tip",
-   "source": "r/onebag",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-14T19:11:01+00:00",
-   "title_ja": "旅先での洗濯物を劇的に早く乾かす簡単なアイデア",
-   "summary_ja": "旅行中に手洗いした衣類を早く乾かすコツを紹介。空気を入れて膨らませたホテルのビニール袋やジップロックをシャツの内側に入れることで、生地の間に空気の通り道を作り、乾燥時間を大幅に短縮できる。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "ビニール袋",
-    "ジップロック",
-    "シャツ"
-   ],
-   "importance": 3
   },
   {
    "id": "96ae5a2b7e4dfc05",
@@ -2380,7 +1981,7 @@
    "url": "https://www.southernliving.com/hings-organizers-keep-when-decluttering-12026195",
    "title_original": "6 Things Professional Organizers Never Get Rid Of",
    "source": "southernliving.com",
-   "image": "",
+   "image": "https://www.southernliving.com/thmb/BTfaIDT3UKM4nNUkEsh20bPORUI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2228954078-260ff8740e3841959edd58c4e03b964a.jpg",
    "media": "news",
    "region": "海外",
    "published": "2026-08-14T17:25:00+00:00",
@@ -2408,27 +2009,11 @@
    "importance": 3
   },
   {
-   "id": "d6af68f6639b3125",
-   "url": "https://www.reddit.com/r/simpleliving/comments/1vobiky/what_i_do_every_sunday_night_at_9_pm",
-   "title_original": "What I do every Sunday night at 9 PM",
-   "source": "r/simpleliving",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-14T16:09:44+00:00",
-   "title_ja": "日曜夜のスケジュール管理でストレスを減らす習慣",
-   "summary_ja": "毎週日曜の夜に1週間の予定を書き出し、リストにないことはやらないというルールでストレスを軽減している人の話。計画的な時間の使い方が紹介されている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
    "id": "3ff85e0591a2e02d",
    "url": "https://www.thespruce.com/quick-fall-decluttering-habits-12030465",
    "title_original": "6 Quick Decluttering Tasks Minimalists Swear By Every Fall for a Tidier Home All Season",
    "source": "thespruce.com",
-   "image": "",
+   "image": "https://www.thespruce.com/thmb/65eRqbx-5yj9OGnJFuKxAaOoIgQ=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-clean-out-pantry-6834329-01-f42defa955c443f3a0ffa9cecb21e824.jpg",
    "media": "news",
    "region": "海外",
    "published": "2026-08-14T15:26:00+00:00",
@@ -2437,24 +2022,6 @@
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
-   "importance": 3
-  },
-  {
-   "id": "f8b5af02db705953",
-   "url": "https://www.reddit.com/r/onebag/comments/1vo9pwe/10_days_in_taiwan_with_the_ula_cicada_ewp",
-   "title_original": "10 days in Taiwan with the ULA Cicada EWP",
-   "source": "r/onebag",
-   "image": "https://preview.redd.it/rk12rvx8vcjh1.jpg?width=140&height=84&auto=webp&s=d78b82cec35826ce91f57cf04bcc3c77a3539e78",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-14T15:03:08+00:00",
-   "title_ja": "バックパック1つで台湾に10日間滞在した人のパッキングリスト",
-   "summary_ja": "「ULA Cicada EWP」というバックパックを使い、台湾に10日間滞在したミニマリストの持ち物リスト。軽量化のためのパッキングリスト作成ツール「LighterPack」のリンクを通じて、実際に持参した具体的なアイテム一覧が公開されている。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "ULA Cicada EWP"
-   ],
    "importance": 3
   },
   {
@@ -2472,24 +2039,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 2
-  },
-  {
-   "id": "2e2b550ea92d460c",
-   "url": "https://www.reddit.com/r/minimalism/comments/1vo8w2k/whats_in_your_make_up_bag",
-   "title_original": "What's in your make up bag?",
-   "source": "r/minimalism",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-14T14:31:09+00:00",
-   "title_ja": "メイクポーチの中身を整理したい23歳が必須アイテムを問いかける投稿",
-   "summary_ja": "メイクポーチの整理に悩む23歳の投稿者が、化粧初心者に向けて何が本当に必要なのかを尋ねている。自分にとっての必須アイテムを見極め、持ち物を厳選したいミニマリストたちから、メイク道具を減らすための基準や愛用品のアイデアを募る内容。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "メイクポーチ"
-   ],
-   "importance": 3
   },
   {
    "id": "ecb080016a0b86f3",
@@ -2562,27 +2111,6 @@
    "things": [
     "財布",
     "カード"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "b173305680f4ddd2",
-   "url": "https://www.reddit.com/r/Anticonsumption/comments/1vo7ooo/eu_is_doing_car_greenwashing",
-   "title_original": "EU is doing car Greenwashing",
-   "source": "r/Anticonsumption",
-   "image": "https://preview.redd.it/nqiyt0xtecjh1.jpeg?width=320&crop=smart&auto=webp&s=d3517f267ae1b569770e8cf310ac024864cc572b",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-14T13:43:59+00:00",
-   "title_ja": "古い車を長く乗り続け部品を再利用するエコな考え方",
-   "summary_ja": "EUの規制が古い車に高税を課して廃棄を促している現状を批判する投稿です。車をスクラップにするのではなく、カーパーツやパネル、ライトなどの部品を再利用し、既存の車を長く使い続けることこそが真のエコであると訴えています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "車",
-    "カーパーツ",
-    "パネル",
-    "ライト"
    ],
    "importance": 3
   },
@@ -2776,24 +2304,6 @@
    "importance": 2
   },
   {
-   "id": "1facf499e3332d25",
-   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vo5rlu/whats_the_best_water_bottle_youve_ever_used",
-   "title_original": "What’s the best water bottle you’ve ever used?",
-   "source": "r/BuyItForLife",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-14T12:21:50+00:00",
-   "title_ja": "耐久性と保冷力に優れたおすすめの水筒について",
-   "summary_ja": "漏れにくく持ち運びがしやすく、何時間も冷たさをキープできる耐久性の高いおすすめの水筒について意見を求めている投稿です。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "水筒"
-   ],
-   "importance": 3
-  },
-  {
    "id": "ca93d5e1ffaed331",
    "url": "https://www.roomie.jp/2026/08/1859431",
    "title_original": "帰宅したら、玄関でそのまま開封。ミドリの「レターカッター」で郵便物を溜めない習慣ができた",
@@ -2934,41 +2444,6 @@
    "importance": 3
   },
   {
-   "id": "62c6af40f655465a",
-   "url": "https://www.reddit.com/r/declutter/comments/1vo3pu1/daytime_tv_is_all_the_motivation_i_need_today",
-   "title_original": "Daytime TV is all the motivation I need today!",
-   "source": "r/declutter",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-14T10:39:20+00:00",
-   "title_ja": "退屈なテレビを避けるために服の仕分けを始めて10着手放した話",
-   "summary_ja": "暑い日に室内で退屈なテレビ番組を見る代わりに、たまっていた洗濯物の片づけを始めた人の体験談。ただ収納するのではなく、一枚ずつ試着しながら仕分けることで、最初の休憩までに不要な服を10着選んで手放している。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "洗濯物",
-    "服"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2cdea9dbf53cc458",
-   "url": "https://www.reddit.com/r/simpleliving/comments/1vo2ezy/lets_all_celebrate_a_simple_life",
-   "title_original": "Let’s all celebrate a simple life!",
-   "source": "r/simpleliving",
-   "image": "https://preview.redd.it/phgh548u6bjh1.jpeg?width=640&crop=smart&auto=webp&s=ef4adccc48bf5aeb0ef1dbd8705916d03e4bd14a",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-14T09:24:30+00:00",
-   "title_ja": "シンプルな暮らしを皆で讃え合おうと呼びかける投稿",
-   "summary_ja": "海外のコミュニティサイトで、シンプルな暮らしを送ることを皆で祝い、楽しもうと呼びかける投稿。物や雑音に追われる現代社会において、あえて簡素で穏やかな生活を選択することの素晴らしさに焦点を当てている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
    "id": "006770dcde3a2933",
    "url": "https://monomax.jp/archives/355886",
    "title_original": "【ワークマンvs無印良品】猛暑乗り切る「ムレ知らず」の夏シューズを徹底比較！2,300円のEVA×メッシュ素材、足裏にそっと寄り添う快適サンダル、ユニクロの消臭ソックスも",
@@ -3025,25 +2500,6 @@
    "importance": 2
   },
   {
-   "id": "f1d56c8101cd9f51",
-   "url": "https://www.reddit.com/r/declutter/comments/1vo0cwm/marketplace_runarounds",
-   "title_original": "Marketplace Runarounds",
-   "source": "r/declutter",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-14T07:21:08+00:00",
-   "title_ja": "ネットの個人売買で家具を手放す際の苦労と判断",
-   "summary_ja": "不用品をネットのマーケットプレイスで手放そうとした際、連絡の遅い購入希望者に振り回された経験談。最終的に素早く対応してくれた人に売却でき、今後は別の処分方法も検討している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "家具",
-    "ソファ"
-   ],
-   "importance": 2
-  },
-  {
    "id": "d6d73d5e0b0ce982",
    "url": "https://www.countryliving.com/uk/homes-interiors/interiors/a73399121/autumn-declutter",
    "title_original": "7 clutter hotspots to tackle before autumn for a calmer home, from the hallway to the junk drawer",
@@ -3057,45 +2513,6 @@
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
-   "importance": 3
-  },
-  {
-   "id": "b50d3582ca2d12fc",
-   "url": "https://www.reddit.com/r/Anticonsumption/comments/1vnz6a7/i_went_from_zero_living_expenses_to_a_normal_life",
-   "title_original": "I went from zero living expenses to a \"normal\" life and I hate it",
-   "source": "r/Anticonsumption",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-14T06:13:25+00:00",
-   "title_ja": "生活費ゼロの極限生活から普通の暮らしに戻り後悔する人の話",
-   "summary_ja": "精神的な不調から携帯の解約や食料調達の自給化を行い、生活費ゼロの暮らしを経験した人の投稿。雨漏りや虫に悩まされつつも充実していた極限生活から、アパートを借りる普通の生活に戻ったものの、現在の消費社会に強い違和感を抱いている。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [
-    "自転車",
-    "携帯電話"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "efb050ab8cd24bd5",
-   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vny0ff/my_200_bifl_cordovan_dress_shoes",
-   "title_original": "My $200 BIFL cordovan dress shoes",
-   "source": "r/BuyItForLife",
-   "image": "https://preview.redd.it/annamkzbx9jh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=471820404302ed0b7f605913fcf34bfc3d4cc2e3",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-14T05:09:25+00:00",
-   "title_ja": "フリマアプリで見つけた200ドルの革靴を手入れして履く",
-   "summary_ja": "定価850ドルのコードバン革靴を、中古フリマアプリで200ドルで購入して愛用している人の話。馬毛ブラシと靴磨きで手入れをし、経年変化による色の変化も楽しんでいる。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "革靴",
-    "馬毛ブラシ",
-    "靴磨き"
-   ],
    "importance": 3
   },
   {
@@ -3171,24 +2588,6 @@
    "importance": 3
   },
   {
-   "id": "265a0de9d65a9c2f",
-   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vnuo6i/saw_the_vintage_coleman_post_and_wanted_to_join",
-   "title_original": "Saw the vintage Coleman post and wanted to join in. 4 generations and still kickin’.",
-   "source": "r/BuyItForLife",
-   "image": "https://preview.redd.it/g7284gsh39jh1.jpg?width=140&height=138&auto=webp&s=156e81a0ca5ae328f4223c687cf740d9b336648d",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-14T02:22:10+00:00",
-   "title_ja": "4世代にわたって受け継がれ現役で活躍するヴィンテージのコールマン",
-   "summary_ja": "海外の掲示板で、4世代にわたり受け継がれてきたヴィンテージのコールマン製品が紹介されました。長年にわたって大切に手入れされ、今でも現役で使い続けられている様子から、本当に丈夫で質の良い道具を長く持つことの価値が伝わります。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "コールマン"
-   ],
-   "importance": 3
-  },
-  {
    "id": "ce7dd601857a6404",
    "url": "https://www.lifehacker.jp/article/machi-ya-toughlitetote-review2-959633",
    "title_original": "改札の前でもたつかない。肩掛けのまま手が入るトートバッグを使ってみました",
@@ -3206,58 +2605,6 @@
     "鍵",
     "パスケース"
    ],
-   "importance": 3
-  },
-  {
-   "id": "e68eae95267785c5",
-   "url": "https://www.reddit.com/r/simpleliving/comments/1vnsw1q/tips_on_living_a_quiet_life_in_the_big_city",
-   "title_original": "Tips on living a quiet life in the big city?",
-   "source": "r/simpleliving",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-14T00:59:26+00:00",
-   "title_ja": "大都市で車を手放し静かに暮らすためのアドバイスを求める投稿",
-   "summary_ja": "自然や静けさを愛する人が、キャリアのために大都市シカゴへ移住するにあたり、都会で穏やかに暮らすコツを尋ねる投稿。散歩が好きで車を手放す予定であり、仕事をこなすだけでなく都会でのシンプルな暮らしを前向きに楽しむための知恵を求めている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "車"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "568c3acf4a63db9a",
-   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vnsmp0/my_bucket_kicked_the_bucket",
-   "title_original": "My bucket kicked the bucket 😭",
-   "source": "r/BuyItForLife",
-   "image": "https://preview.redd.it/squ5snjim8jh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=52c66ff5c1f40cb01bd67db57dcd9f0e39008e0c",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-14T00:47:13+00:00",
-   "title_ja": "100円ショップのバケツを10年以上愛用し続けた人の話",
-   "summary_ja": "2013年に100円ショップで購入した約1ドルのバケツを、10年以上も使い続けた人の投稿です。安価な日用品であっても、壊れるまで大切に使い切るという、物を最後まで全うさせるミニマルな暮らしの姿勢が垣間見えます。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "バケツ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f80ea8be02aac5d9",
-   "url": "https://www.reddit.com/r/simpleliving/comments/1vnrx8g/i_have_a_question",
-   "title_original": "I have a question 🙋🏻‍♀️",
-   "source": "r/simpleliving",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-14T00:15:19+00:00",
-   "title_ja": "お金の心配がないとしたら、どんな意味あることに時間を使うか",
-   "summary_ja": "一生分の生活費が保証され、意味のあることに時間を使えるとしたら、これからの10年をどう過ごすか読者に問いかけている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
    "importance": 3
   },
   {
@@ -3331,44 +2678,6 @@
    "importance": 3
   },
   {
-   "id": "6fd54c78f1dec7c8",
-   "url": "https://www.reddit.com/r/minimalism/comments/1vnpx9p/mudita_phone_sucks",
-   "title_original": "Mudita Phone sucks",
-   "source": "r/minimalism",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-13T22:49:01+00:00",
-   "title_ja": "シンプルを求めて買った端末に苦労した話",
-   "summary_ja": "生活をシンプルにしようと特定のコンパクトフォンを導入したものの、通信不良やGPSの不具合などに悩まされ、かえって生活が複雑になってしまった失敗談。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "スマートフォン"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2021acf44707303c",
-   "url": "https://www.reddit.com/r/onebag/comments/1vnppg1/onebag_vs_hikingcity_sightseeing",
-   "title_original": "Onebag vs hiking/city sightseeing",
-   "source": "r/onebag",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-13T22:39:48+00:00",
-   "title_ja": "1つのリュックで旅する際のバッグ選びと旅先での使い勝手",
-   "summary_ja": "荷物を1つにまとめる旅で人気の四角いバックパックは、空港などの移動には便利だが現地での長距離散策や仕事用には使いにくいと感じる旅行者の意見。移動時だけでなく滞在先での移動や用途も考慮したバッグ選びの重要性を伝えている。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "Osprey 26+6",
-    "Tomtoc T66",
-    "ノートPC"
-   ],
-   "importance": 3
-  },
-  {
    "id": "ee54d762945477df",
    "url": "https://www.youtube.com/shorts/1f5ujWUcvnQ",
    "title_original": "来客に「異常」と言われた、我が家の掃除事情",
@@ -3398,25 +2707,6 @@
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
-   "importance": 3
-  },
-  {
-   "id": "fd40f84ae4eaa307",
-   "url": "https://www.reddit.com/r/simpleliving/comments/1vnn3py/whats_a_life_change_you_did_to_your_mornings_that",
-   "title_original": "What's a life change you did to your mornings that is uncommon?",
-   "source": "r/simpleliving",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-13T20:56:42+00:00",
-   "title_ja": "朝の時間を快適にするために試した珍しい習慣についての問いかけ",
-   "summary_ja": "朝の時間を静かに過ごすことやお茶を飲むことといった定番の工夫以外で、暮らしを良くするために取り入れた珍しい朝の習慣や生活の変化について意見を募っている投稿。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "お茶",
-    "コーヒー"
-   ],
    "importance": 3
   },
   {
@@ -3452,24 +2742,6 @@
    "importance": 2
   },
   {
-   "id": "c82359d52bfde619",
-   "url": "https://www.reddit.com/r/Anticonsumption/comments/1vnkqqq/hp_blocks_the_use_of_subscription_cartridges_if",
-   "title_original": "HP blocks the use of subscription cartridges if cancelled",
-   "source": "r/Anticonsumption",
-   "image": "https://preview.redd.it/wq06308s17jh1.jpeg?width=640&crop=smart&auto=webp&s=203f74eecbb573deb0c6229a4091a897df75b404",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-13T19:29:01+00:00",
-   "title_ja": "HPのインクサブスクは解約するとカートリッジが使用不可に",
-   "summary_ja": "HPのインクカートリッジのサブスクリプション契約を解約すると、手元にあるカートリッジの利用がシステム的にブロックされて使えなくなる仕様を指摘する投稿。モノを所有せずサービスを契約する際のリスクについて伝えている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "インクカートリッジ"
-   ],
-   "importance": 3
-  },
-  {
    "id": "dc3844cf6a9123d3",
    "url": "https://www.youtube.com/watch?v=Y1lNZz8I7RA",
    "title_original": "Would you declutter this for $1000?",
@@ -3481,40 +2753,6 @@
    "title_ja": "1000ドルもらえるなら手放すかという問いから始める片付け",
    "summary_ja": "「もし1000ドルもらえるならこれを手放すか」という問いかけを通して、片付けのモチベーションを高める方法を提案する。家を管理し片付けを進めるための考え方や、物を手放す基準について紹介している。",
    "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "041ed2ea6ecf772a",
-   "url": "https://www.reddit.com/r/declutter/comments/1vnhfku/wish_me_luck_moving_house_and_attempting_to",
-   "title_original": "Wish me luck! Moving house and attempting to downsize",
-   "source": "r/declutter",
-   "image": "https://preview.redd.it/gc8vxvn1h6jh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=46f7b74b1ffa8644216c6013e07834ac2ffada0f",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-13T17:32:47+00:00",
-   "title_ja": "引っ越しを機に持ち物を減らし仕分けに挑戦する人の話",
-   "summary_ja": "引っ越しをきっかけに、持ち物のダウンサイジングに挑戦する人の投稿。不用品をフリーマーケットで売るための2つの山と、残す・保留・売る・処分するにこれから仕分ける予定の服の山を用意し、片づけを進めようとしている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "服"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "ce479ace73953107",
-   "url": "https://www.reddit.com/r/declutter/comments/1vnfatr/clutter_dreamsmoving_out_dreams",
-   "title_original": "Clutter dreams/moving out dreams?",
-   "source": "r/declutter",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-13T16:16:39+00:00",
-   "title_ja": "大量の荷物に追われる夢を見る片づけ実践者の話",
-   "summary_ja": "現実では15年間片づけを続けて成果を感じているものの、自宅や寮からの引っ越し時に大量の荷物に対処しきれなくなる夢を繰り返し見るという投稿。同じように、大量の持ち物に追われる悪夢を見る人がいるか意見を募っている。",
-   "category": "心・習慣",
    "axis": "reduce",
    "things": [],
    "importance": 3
@@ -3554,64 +2792,11 @@
    "importance": 3
   },
   {
-   "id": "a2f83c45d2305b04",
-   "url": "https://www.reddit.com/r/declutter/comments/1vne5li/marketing_encourages_clutter",
-   "title_original": "Marketing encourages clutter",
-   "source": "r/declutter",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-13T15:36:23+00:00",
-   "title_ja": "企業の販売戦略に惑わされず買い物を思いとどまった話",
-   "summary_ja": "複数購入割引や送料無料、定期購入などの企業の仕組みが物を増やす原因だと気づいた人の投稿。新しい物を買う前に今ある物を使い切るべきだと考え、過去に期限切れで処分した苦い記憶を思い出すことで、不要な買い物を抑えている。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "655742fa5631acc2",
-   "url": "https://www.reddit.com/r/simpleliving/comments/1vndc77/struggling_with_keeping_in_touch_by_messages",
-   "title_original": "Struggling with keeping in touch by messages",
-   "source": "r/simpleliving",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-13T15:06:41+00:00",
-   "title_ja": "メッセージの返信に疲れスマホに縛られない暮らしを望む人の話",
-   "summary_ja": "友人たちとメッセージで頻繁に連絡を取り合うことに負担を感じている人の悩み。複数人とのやり取りに追われ、スマートフォンや通知に自分の生活が支配されているように感じるため、シンプルで振り回されない人間関係や連絡の取り方を模索している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "スマホ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "223acd45e570c74c",
-   "url": "https://www.reddit.com/r/minimalism/comments/1vnczr7/recommendations_for_declutteringminimalism_in_a",
-   "title_original": "Recommendations for decluttering/minimalism in a small space?",
-   "source": "r/minimalism",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-13T14:54:49+00:00",
-   "title_ja": "実家の狭い一室で赤ちゃんを迎えるための片付けのアイデア",
-   "summary_ja": "現在、家を建築中で実家の子ども部屋に夫婦で同居している投稿者が、生まれてくる赤ちゃんのためのスペースを作る方法を相談。家具や荷物が多く収納が狭い部屋で、不要なものを手放してベビーベッドを置くための片付けのアイデアを求めている。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "家具",
-    "ベビーベッド"
-   ],
-   "importance": 3
-  },
-  {
    "id": "e46ffd903236854b",
    "url": "https://www.southernliving.com/how-to-declutter-bedroom-12037206",
    "title_original": "10 Decluttering Tips That Can Make Your Bedroom Feel Instantly Calmer",
    "source": "Southern Living",
-   "image": "",
+   "image": "https://www.southernliving.com/thmb/NP21ME2dzxniRAK1sHkT-Je0WaE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1725778124-6823e85b53e84bb5acc98168d16284a7.jpg",
    "media": "news",
    "region": "海外",
    "published": "2026-08-13T14:25:00+00:00",
@@ -3666,22 +2851,6 @@
    "title_ja": "片づけを進めるための心理的テクニック「ボディ・ダブリング」",
    "summary_ja": "誰かと一緒に作業を行う心理的ハックである「ボディ・ダブリング」を活用して、片づけや整理整頓のハードルを乗り越える方法を紹介しています。一人では面倒に感じる作業も、他者の存在を借りることでスムーズに進められるようになるという考え方です。",
    "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "0e47c1299329eea1",
-   "url": "https://www.reddit.com/r/simpleliving/comments/1vnau8g/im_tired_of_spending_40_every_time_i_step_out_my",
-   "title_original": "I’m tired of spending $40 every time I step out my front door",
-   "source": "r/simpleliving",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-13T13:32:19+00:00",
-   "title_ja": "外出するたびにかかる出費に疲れた人の暮らしの工夫",
-   "summary_ja": "ちょっと出かけるだけでも駐車場代や入場料、つい買ってしまう飲食物などで毎回大きなお金が消えていく現代の消費社会に疑問を呈しています。お金を使わずに過ごす難しさを実感しながら、外出時の無駄な出費を見直そうとする等身大の悩みです。",
-   "category": "お金・買い方",
    "axis": "reduce",
    "things": [],
    "importance": 3
@@ -3757,24 +2926,6 @@
    "importance": 2
   },
   {
-   "id": "b29df7a1cfb3dde1",
-   "url": "https://www.reddit.com/r/Anticonsumption/comments/1vn9ht4/no_more_conditioner_while_showering",
-   "title_original": "No more conditioner while showering",
-   "source": "r/Anticonsumption",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-13T12:36:10+00:00",
-   "title_ja": "ヘアケアの手順を見直してコンディショナーを手放した話",
-   "summary_ja": "長くて太い髪のために大量のコンディショナーを使い、すすぎにも苦労していた投稿者が、洗い流す製品の常用をやめた話。お風呂上がりに少量の洗い流さないトリートメントとヘアオイルを使う方法に変えたことで、手間の軽減とスッキリ感を実現しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "ヘアオイル"
-   ],
-   "importance": 3
-  },
-  {
    "id": "0cdb003ef64f2183",
    "url": "https://www.roomie.jp/2026/08/1862473",
    "title_original": "脱・自販機！ ハイドロフラスクの「真空断熱ボトル」は、持ち歩き最強の200mlサイズが正解だった",
@@ -3848,22 +2999,6 @@
    "importance": 3
   },
   {
-   "id": "91efa6e932e029cb",
-   "url": "https://www.reddit.com/r/simpleliving/comments/1vn7nd6/rabat_morocco_taking_a_break_from_the_office_very",
-   "title_original": "Rabat, Morocco. Taking a break from the office, very simple, really relaxing; free. Good day everyone",
-   "source": "r/simpleliving",
-   "image": "https://preview.redd.it/9ljgk40ck4jh1.jpg?width=140&height=105&auto=webp&s=cf139a8381ef2bd5c503e171070e9d4c65250c60",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-13T11:07:42+00:00",
-   "title_ja": "オフィスから離れてシンプルな休息を取る話",
-   "summary_ja": "日々の仕事から離れ、モロッコのラバトでシンプルかつリラックスした時間を過ごしたという報告。お金をかけずに心を休める、ミニマルな休息のあり方を伝えている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
    "id": "33dd71f0fcde222a",
    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zeenat-aman-house-inside-the-veteran-actors-serene-and-minimalist-mumbai-home-filled-with-natural-light-greenery-white-interiors-floral-accents-and-cosy-family-spaces/articleshow/133206229.cms",
    "title_original": "Zeenat Aman house: Inside the veteran actor’s serene and minimalist Mumbai home filled with natural light",
@@ -3876,6 +3011,22 @@
    "summary_ja": "インドの俳優ジーナット・アマンのムンバイにある自宅を紹介。自然光がたっぷり入り、静けさに満ちたミニマルな空間で穏やかな暮らしを送っている様子が伝わる。",
    "category": "暮らしの実例",
    "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "d5e1ab95df7cf3c0",
+   "url": "https://www.aslobcomesclean.com/2026/08/523-fear-of-others-filling-your-decluttered-spaces-decluttering-books-and-teens-messy-bedrooms",
+   "title_original": "523: Fear of Others Filling Your Decluttered Spaces, Decluttering Books, and Teens’ Messy Bedrooms",
+   "source": "A Slob Comes Clean",
+   "image": "https://www.aslobcomesclean.com/wp-content/uploads/2013/09/podcast-graphic-2.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-08-13T11:00:04+00:00",
+   "title_ja": "片づけたスペースが他人に埋められる恐れへの対処",
+   "summary_ja": "自分がせっかく片づけたスペースに家族や他人が物を置いてしまう不安や、断捨離の本、子どもの散らかった部屋についての質問に答える過去のQ&A音声です。",
+   "category": "心・習慣",
+   "axis": "reduce",
    "things": [],
    "importance": 3
   },
@@ -3947,24 +3098,6 @@
    "axis": "own",
    "things": [
     "立体地図"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "6a1a3704e747b721",
-   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vn33mi/avoid_travelpro_for_your_next_suitcase",
-   "title_original": "Avoid TravelPro for your next suitcase",
-   "source": "r/BuyItForLife",
-   "image": "https://preview.redd.it/5yf1qc2u53jh1.png?width=140&height=67&auto=webp&s=312bdabb260579b532467c19f374872609150e23",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-13T06:44:45+00:00",
-   "title_ja": "一生モノだと思って買ったスーツケースが２年で壊れた話",
-   "summary_ja": "長期保証と品質を期待してトラベルプロのスーツケースを購入したものの、2年後に旅先で車輪が壊れてしまった人の体験談。2、3ヶ月に一度の頻度で旅行するため頑丈な製品を求めていたが、期待通りの耐久性が得られなかったと報告している。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "スーツケース"
    ],
    "importance": 3
   },
@@ -4101,40 +3234,6 @@
    "importance": 3
   },
   {
-   "id": "bcbac83393909413",
-   "url": "https://www.reddit.com/r/simpleliving/comments/1vmxmrv/whats_something_you_started_appreciating_more_as",
-   "title_original": "What’s something you started appreciating more as you got older?",
-   "source": "r/simpleliving",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-13T02:01:35+00:00",
-   "title_ja": "年齢を重ねてから日常の小さなことに価値を見出す話",
-   "summary_ja": "若い頃は刺激や大きな出来事を求めていましたが、年齢とともに静かな朝や時間に追われない食事など、日常のささやかな瞬間に価値を感じるようになったという投稿です。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "7df9a09088950bce",
-   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vmw66y/yamazaki_home_great_customer_service",
-   "title_original": "Yamazaki Home great customer service",
-   "source": "r/BuyItForLife",
-   "image": "https://preview.redd.it/9tj8o395j1jh1.jpeg?width=640&crop=smart&auto=webp&s=13f29cd25d2ad804f5d6fa18391cb35c00153a01",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-13T00:55:38+00:00",
-   "title_ja": "山崎実業のカスタマーサービスの対応についての投稿",
-   "summary_ja": "数年前に購入したタオル掛けの木製棒部分にカビが生えたため問い合わせたところ、メーカーから丁寧な対応を受けたという購入者の体験談。購入後のサポート体制が良いブランドについての情報共有。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "タオル掛け"
-   ],
-   "importance": 2
-  },
-  {
    "id": "d40b18bf885615c8",
    "url": "https://minimalist-fudeko.com/reduce-charging-cords-with-ai",
    "title_original": "たまった充電コードを9本まで減らした手順～正体不明なものはAIに聞けばいい",
@@ -4151,25 +3250,6 @@
     "充電コード"
    ],
    "importance": 4
-  },
-  {
-   "id": "98942b9cf4d9a641",
-   "url": "https://www.reddit.com/r/minimalism/comments/1vmu1as/sometimes_i_just_want_to_have_15_of_the_same",
-   "title_original": "Sometimes I just want to have 15 of the same dress and not wear anything else ever again",
-   "source": "r/minimalism",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-12T23:22:41+00:00",
-   "title_ja": "同じドレスを15枚持って暮らしたい人の話",
-   "summary_ja": "同じ白いドレスを15枚揃え、ポケットやカーディガンにこだわりながら同じ服だけで過ごしたいというミニマルな服選びのこだわり。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "ドレス",
-    "カーディガン"
-   ],
-   "importance": 3
   },
   {
    "id": "3c94573bedaa66b8",
@@ -4200,22 +3280,6 @@
    "published": "2026-08-12T23:00:00+00:00",
    "title_ja": "予定に「なんのため？」を添えて日々を変える",
    "summary_ja": "忙しい日々に追われる中で、予定に「なんのため？」という目的を添えることで自分の時間を取り戻す方法について解説している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "8f1dffeef0eda6cc",
-   "url": "https://www.reddit.com/r/simpleliving/comments/1vmsq8q/how_does_one_live_a_simple_life_when_forced_to",
-   "title_original": "How does one live a simple life when forced to work a stressful full-time job just to make ends meet?",
-   "source": "r/simpleliving",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-12T22:28:02+00:00",
-   "title_ja": "フルタイムの仕事で時間がない中でシンプルに生きる方法",
-   "summary_ja": "生活のためにストレスの多いフルタイムの仕事を余儀なくされ、自然に触れる時間も余裕もない中でどうシンプルに生きるかという悩み。",
    "category": "心・習慣",
    "axis": "reduce",
    "things": [],
@@ -4274,31 +3338,11 @@
    "importance": 2
   },
   {
-   "id": "f63dc23673fd77a5",
-   "url": "https://www.reddit.com/r/onebag/comments/1vmnag0/tired_of_switching_bags_all_the_time",
-   "title_original": "Tired of switching bags all the time..",
-   "source": "r/onebag",
-   "image": "https://preview.redd.it/xdfmmvyqrzih1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=1568b9ca67fb328a64f7ddfcda509b9798019895",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-12T19:00:19+00:00",
-   "title_ja": "毎日バッグを替える手間に悩みモジュール式を検討する人の話",
-   "summary_ja": "普段使いのバックパックに荷物が少ないと、ポケットが垂れて持ちにくくなる悩みを綴る。バッグをスリングに替える手間を省くため、取り外し可能なポケットがショルダーバッグにもなるような、モジュール式の収納機能に解決策を見出そうとしている。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "Bellroy Lite Daypack",
-    "財布",
-    "鍵"
-   ],
-   "importance": 4
-  },
-  {
    "id": "d76355ef17981e40",
    "url": "https://www.realsimple.com/amazon-professional-organizers-pantry-finds-august-2026-12056936",
    "title_original": "Professional Organizers Use These 7 Products to Keep Their Pantries Beautifully Tidy",
    "source": "Real Simple",
-   "image": "",
+   "image": "https://www.realsimple.com/thmb/jqJVnFmY4PNpL5V4jv5-Ll49xSk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rs-storage-hacks-tout-d84afb6ae2274dc5baee6d5a8d75a13c.jpg",
    "media": "news",
    "region": "海外",
    "published": "2026-08-12T18:30:00+00:00",
@@ -4316,7 +3360,7 @@
    "url": "https://www.thespruce.com/things-to-declutter-from-car-before-end-of-summer-12037108",
    "title_original": "Don’t Let Summer Clutter Follow You Into Fall—5 Things Organizing Pros Say to Remove From Your Car",
    "source": "The Spruce",
-   "image": "",
+   "image": "https://www.thespruce.com/thmb/2HZwxQXL53Fz-V_hhPLURW7XRYY=/5088x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1134353221-6bfb0f4ac0db458e826f7471b5ddcc00.jpg",
    "media": "news",
    "region": "海外",
    "published": "2026-08-12T18:23:00+00:00",
@@ -4328,56 +3372,19 @@
    "importance": 3
   },
   {
-   "id": "daa6b4c9b4f579d3",
-   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vmkrsn/what_family_or_household_item_was_actually_worth",
-   "title_original": "What family or household item was actually worth buying the pricier version of?",
-   "source": "r/BuyItForLife",
-   "image": "",
-   "media": "reddit",
+   "id": "00c83f1e6b494162",
+   "url": "https://x.com/TheMinimalists/status/2087582324980588795",
+   "title_original": "Three things that continue to resonate with readers... http://minimalists.com/big3",
+   "source": "The Minimalists（X）",
+   "image": "https://pbs.twimg.com/card_img/2087582325194510338/eJTPyrtf?format=jpg&name=800x419",
+   "media": "x",
    "region": "海外",
-   "published": "2026-08-12T17:29:58+00:00",
-   "title_ja": "安価な代用品と高価な定番品のどちらを選ぶべきか",
-   "summary_ja": "長く使える良いものを少なく買いたいという思いから、家電などの高価格な製品と安価な競合品のどちらに投資すべきか悩んでいる人の投稿。価格差に見合う価値がある耐久性の高い生活用品や家電について意見を求めている。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [
-    "食器洗い機"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "5f8417b2cce67f39",
-   "url": "https://www.reddit.com/r/minimalism/comments/1vmkk19/doomscrolling_has_become_unattractive",
-   "title_original": "Doomscrolling has become unattractive",
-   "source": "r/minimalism",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-12T17:22:09+00:00",
-   "title_ja": "ネガティブな情報を見続ける悪癖を手放した話",
-   "summary_ja": "スマートフォンでネガティブなニュースやSNSを延々と見続けてしまう悪癖を、魅力のないものとして手放した人の投稿です。デジタルデトックスや情報の断捨離によって心を穏やかに保つ生活の工夫が語られています。",
+   "published": "2026-08-12T16:49:46+00:00",
+   "title_ja": "読者の心に残り続ける3つのこと",
+   "summary_ja": "ミニマリストの活動発信において、読者の心に響き続ける3つの重要なテーマについて紹介しているウェブ記事の案内です。",
    "category": "心・習慣",
    "axis": "reduce",
    "things": [],
-   "importance": 3
-  },
-  {
-   "id": "e625d2c54aaa7205",
-   "url": "https://www.reddit.com/r/minimalism/comments/1vmj307/questions_for_the_floor_sleepers",
-   "title_original": "Questions for the floor sleepers",
-   "source": "r/minimalism",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-12T16:31:15+00:00",
-   "title_ja": "日本の敷布団と畳を使った床寝の習慣についての質問",
-   "summary_ja": "日本の布団と畳を使って床で眠る生活を取り入れようとしている人の疑問です。日々の布団のたたみ方や収納場所、畳のメンテナンス方法について、実際にどのように使えばよいかを尋ねています。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "敷布団",
-    "畳"
-   ],
    "importance": 3
   },
   {
@@ -4445,25 +3452,6 @@
    "importance": 3
   },
   {
-   "id": "fed172c7c0e5573e",
-   "url": "https://www.reddit.com/r/onebag/comments/1vmh8uf/how_do_you_handle_a_work_trip_that_needs_real",
-   "title_original": "How do you handle a work trip that needs real clothes without adding a second bag?",
-   "source": "r/onebag",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-12T15:24:40+00:00",
-   "title_ja": "ワンバッグ出張でシワにならない仕事着の持ち運び方に悩む人の話",
-   "summary_ja": "プライベートではワンバッグ旅行をこなす投稿者が、5日間の出張中にある会議用の服をシワにせず持ち運ぶ方法を相談。手持ちのフォーマルな服はパッキングするとシワになってしまうため、バッグを増やさずにスマートに解決するアイデアを求めている。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "バッグ",
-    "服"
-   ],
-   "importance": 3
-  },
-  {
    "id": "8cb7502daba1dda1",
    "url": "https://topics.smt.docomo.ne.jp/amp/article/osharetecho/trend/osharetecho-104838",
    "title_original": "【こんな化粧品は捨てるべし！】夏の断捨離美容 〜アイテム編〜",
@@ -4498,52 +3486,17 @@
    "importance": 3
   },
   {
-   "id": "45388f0a3e0b1d6b",
-   "url": "https://www.reddit.com/r/onebag/comments/1vmg95f/how_do_you_do_sink_laundry_when_nothing_dries",
-   "title_original": "How do you do sink laundry when nothing dries overnight in humidity?",
-   "source": "r/onebag",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-12T14:48:43+00:00",
-   "title_ja": "高湿度な旅先での洗濯事情と乾燥対策",
-   "summary_ja": "東南アジアの雨季など湿度80%の環境で服が乾かない問題に対し、旅先での洗濯ルーティンや速乾素材の衣類管理を見直した経験者の話。シャツ4着とパンツ2着を持って毎夜洗う旅行者が直面するリアルな対策。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "シャツ",
-    "パンツ"
-   ],
-   "importance": 3
-  },
-  {
    "id": "18ab058d229c2c04",
    "url": "https://www.southernliving.com/organizing-habits-clutter-12037200",
    "title_original": "7 Organizing Habits That Could Be Making Your Home More Cluttered",
    "source": "Southern Living",
-   "image": "",
+   "image": "https://www.southernliving.com/thmb/U2AUe5mheL6SfvGBO81qzh0dHxs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2400501_Popli4329-2000-8c5593cd8d1544b791adf75ab1694135-aa353ed7df4640f8a218e5ba19120ec9.jpg",
    "media": "news",
    "region": "海外",
    "published": "2026-08-12T14:25:00+00:00",
    "title_ja": "かえって散らかりを招いてしまう7つの収納習慣",
    "summary_ja": "家をすっきりさせるためのつもりが、かえって散らかりの原因になってしまう7つの間違った片づけ習慣について解説しています。日々の収納方法や整理整頓のアプローチを見直すためのヒントが詰まった記事です。",
    "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "90f210d2f497c4c2",
-   "url": "https://www.reddit.com/r/simpleliving/comments/1vmfciq/i_am_happiest_being_home",
-   "title_original": "I am happiest being home. . .",
-   "source": "r/simpleliving",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-12T14:14:46+00:00",
-   "title_ja": "自宅で過ごす時間に最も幸福を感じる理由",
-   "summary_ja": "自宅にいる時が一番幸せだと感じるシンプルライフの実感をつづった海外の投稿。具体的な抜粋はないが、心の持ち方について語られている。",
-   "category": "心・習慣",
    "axis": "reduce",
    "things": [],
    "importance": 3
@@ -4932,22 +3885,6 @@
    "importance": 5
   },
   {
-   "id": "e8bd8a0d242e42f7",
-   "url": "https://www.reddit.com/r/Anticonsumption/comments/1vm8f0a/shrinkflation_cleaner_finds_huge_35year_old_mars",
-   "title_original": "Shrinkflation: cleaner finds huge 35-year old Mars bar",
-   "source": "r/Anticonsumption",
-   "image": "https://external-preview.redd.it/p-cy5Xu0menjZ01i2geVorUO6HI1jKeYyZAWS984pms.jpeg?width=640&crop=smart&auto=webp&s=e513ab0f73485a93bccaf3ea638ba401440c64ec",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-12T08:39:46+00:00",
-   "title_ja": "35年前のチョコから考える企業の容量削減と価格",
-   "summary_ja": "35年前のチョコレートのサイズと現在の製品を比較し、企業のステルス値上げや容量削減の傾向について疑問を投げかけています。商品の価格据え置きの裏でこっそり量が減らされる実態や、適正価格のあり方について考えさせられる内容です。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
    "id": "350447c40789978e",
    "url": "https://www.roomie.jp/2026/08/1860879",
    "title_original": "歩くたびやさしい刺激。クロックスの新作クロッグでおしゃれにリカバリー",
@@ -4980,26 +3917,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 2
-  },
-  {
-   "id": "77d28d65d190d4e6",
-   "url": "https://www.reddit.com/r/onebag/comments/1vm7o3w/finally_got_my_charging_setup_down_to_3_things",
-   "title_original": "Finally got my charging setup down to 3 things and it feels great.",
-   "source": "r/onebag",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-12T07:54:35+00:00",
-   "title_ja": "充電器やケーブル類を3つに厳選した人の話",
-   "summary_ja": "大量にあったケーブルや充電器を見直し、小型の急速充電器、USB-Cケーブル、薄型のモバイルバッテリーの3点に減らした。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "急速充電器",
-    "USB-Cケーブル",
-    "モバイルバッテリー"
-   ],
-   "importance": 4
   },
   {
    "id": "cd3977c49b2df728",
@@ -5106,22 +4023,6 @@
    "importance": 2
   },
   {
-   "id": "07ed905d2c3d4da3",
-   "url": "https://www.reddit.com/r/minimalism/comments/1vm3a1g/what_things_really_count_in_life",
-   "title_original": "What things really count in life ...",
-   "source": "r/minimalism",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-12T03:50:39+00:00",
-   "title_ja": "人生で本当に大切なものや必要なものを問いかける投稿",
-   "summary_ja": "人生において本当に重要で、心の底から平穏をもたらすものは何なのかを問いかける投稿です。すべての人間にとって不可欠な要素や、根本的な安心感につながる価値観について議論が交わされています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
    "id": "7f5a622823230b36",
    "url": "https://www.psychologytoday.com/us/blog/play-your-way-sane/202512/the-psychology-of-minimalism",
    "title_original": "The mental benefits of having only what you need.",
@@ -5160,7 +4061,7 @@
    "url": "https://abema.tv/video/episode/87-263_s311_p1001511",
    "title_original": "「荒れ果てた家をリセット 一家再生への挑戦」 【BS朝日】ウチ、“断捨離”しました！",
    "source": "ABEMA",
-   "image": "",
+   "image": "https://image.p-c2-x.abema-tv.com/image/programs/87-263_s311_p1001511/thumb001.png?height=720&quality=75&version=1786514208&width=1280",
    "media": "news",
    "region": "国内",
    "published": "2026-08-12T02:52:19+00:00",
@@ -5222,26 +4123,6 @@
    "importance": 2
   },
   {
-   "id": "022e4e43488a96c3",
-   "url": "https://www.reddit.com/r/declutter/comments/1vm00jv/another_round_of_just_things_have_left_the_house",
-   "title_original": "Another round of just . . . \"things\" have left the house",
-   "source": "r/declutter",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-12T01:15:15+00:00",
-   "title_ja": "悩みの種だった本や不用品を古本屋や譲渡で手放した人の話",
-   "summary_ja": "溜め込んでいた本をようやく古本屋に引き取ってもらい、車に積んであった本の中から特に気になっていた箱を処分できた体験談。他にも、自宅に置き忘れられていたサングラスを処分したり、バラバラになっていた空き瓶を買い手に引き渡したりして、家の中の不用品を減らしている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "本",
-    "サングラス",
-    "空き瓶"
-   ],
-   "importance": 3
-  },
-  {
    "id": "bd79df9696408856",
    "url": "https://mshale.com/e95d7a31/31f5996bXqELoR2oORU",
    "title_original": "The Best Packable Backpacks For 2026 (Tested Head To Head) Apple Iphone 18 Pro Max (31LBDVOGVi)",
@@ -5295,60 +4176,6 @@
    "importance": 3
   },
   {
-   "id": "61894479733d7aa9",
-   "url": "https://www.reddit.com/r/declutter/comments/1vlyfy7/reluctant_to_declutter_clothes_because_i_dont",
-   "title_original": "Reluctant to declutter clothes because I don't want to have to replace them",
-   "source": "r/declutter",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-12T00:05:01+00:00",
-   "title_ja": "代わりの服が見つからず衣類の整理をためらってしまう悩み",
-   "summary_ja": "手持ちの服の約6割は不要だと感じつつも、店で好みの服が見つからないため処分をためらっている人の悩み。トレンドのワイドジーンズが体型に合わず、お気に入りのスキニージーンズの代わりが見つからないため、サイズが合わない古い服も捨てられずにいる。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "ジーンズ",
-    "服"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f8b386a068ca9340",
-   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vlv9f2/my_wallets_gone_my_wallets_gone",
-   "title_original": "My wallet’s gone! My wallet’s gone!",
-   "source": "r/BuyItForLife",
-   "image": "https://preview.redd.it/f06nom5rhtih1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=9bf18148c48effc72decb9173d956f6ebd161082",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-11T21:53:37+00:00",
-   "title_ja": "乾燥機で壊れた愛用の革財布の代替品をネットで探す人の話",
-   "summary_ja": "コロンビアの露店で8年前に購入したお気に入りの革財布を、誤って乾燥機にかけて台無しにしてしまったユーザーの投稿。カード類も熱で曲がってしまい、同じ財布や代わりとなる長く使える頑丈な財布の情報を、コミュニティの力を借りて探している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "革財布",
-    "カード"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "b24140995ffb55aa",
-   "url": "https://www.reddit.com/r/minimalism/comments/1vlv6ga/its_working",
-   "title_original": "It's Working!",
-   "source": "r/minimalism",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-11T21:50:22+00:00",
-   "title_ja": "ミニマリズムの実践で効果を実感できたという報告",
-   "summary_ja": "ミニマリズムを取り入れた暮らしの取り組みが、実際に上手くいっていると実感したというシンプルな報告。具体的な片づけの対象や手順についての記載はないが、実践による効果を感じている様子が伝わる。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 1
-  },
-  {
    "id": "8234a81ba2795330",
    "url": "https://www.youtube.com/shorts/ZZLbfYI2iCI",
    "title_original": "子持ちミニマリスト、おもちゃどうしてる？",
@@ -5363,159 +4190,6 @@
    "axis": "reduce",
    "things": [
     "おもちゃ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "23bd0f98507d4e9e",
-   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vlui4y/vintage_sewing_machine_thrift_find",
-   "title_original": "Vintage sewing machine (thrift find)",
-   "source": "r/BuyItForLife",
-   "image": "https://preview.redd.it/i7dbcbvfctih1.jpeg?width=640&crop=smart&auto=webp&s=56d46b2cb89b5e0199ffea5ca6e57cca37a96b5c",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-11T21:23:48+00:00",
-   "title_ja": "リサイクルショップで極上状態のレトロな金属製ミシンを見つけた話",
-   "summary_ja": "リサイクルショップで、すべての部品と説明書が揃った美品のオールメタル製電動ミシンを運良く発見したユーザーの投稿。動作も完璧で、地元の修理店の刻印が入った思い入れのある一品を、ちょうど結婚記念日の日に手に入れられた喜びを語っている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "電動ミシン",
-    "説明書"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "0b076c656e9427e5",
-   "url": "https://www.reddit.com/r/declutter/comments/1vlsf08/what_i_learned_from_decluttering_my_shoes",
-   "title_original": "What I Learned From Decluttering My Shoes",
-   "source": "r/declutter",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-11T20:05:52+00:00",
-   "title_ja": "断捨離の本を読んで家中に溢れていた靴の整理を始めた人の話",
-   "summary_ja": "山下英子氏の書籍『断捨離』を読んだことで意識が変わり、引越しに向けて靴の整理に着手したユーザーの体験談。クローゼットや玄関など、家の中の6箇所に散らばって溢れかえっていた靴をすべて一箇所に集め、本格的な片づけに挑戦している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "靴",
-    "本"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "8a930ddd8d714b98",
-   "url": "https://www.reddit.com/r/onebag/comments/1vls43d/blundstones_or_alternatives_for_do_everything_boot",
-   "title_original": "Blundstones or alternatives for do everything boot",
-   "source": "r/onebag",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-11T19:54:53+00:00",
-   "title_ja": "旅先で多用途に使えるレザーブーツ選びの相談",
-   "summary_ja": "ドレスアップから散策まで1足でこなせる旅行用レザーブーツを探している投稿。手持ちのブーツは重く雨に弱いため、ラバーソールでカジュアルにも合いタフに使えるブランドストーンなどの候補について意見を求めている。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "レザーブーツ",
-    "チェルシーブーツ",
-    "ブランドストーン"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "94eda6ed840ed411",
-   "url": "https://www.reddit.com/r/Anticonsumption/comments/1vlq48a/france_bans_unsolicited_telemarketing_calls",
-   "title_original": "France bans unsolicited telemarketing calls",
-   "source": "r/Anticonsumption",
-   "image": "https://external-preview.redd.it/TqKwYfcAHTgpH1Q47H4FAjnYsAKcdiGAONsiIV8Y7rQ.jpeg?width=640&crop=smart&auto=webp&s=559728032bfbd5063efa75495abc9885a53c4e94",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-11T18:42:58+00:00",
-   "title_ja": "フランスにおける迷惑なテレアポ電話の全面禁止",
-   "summary_ja": "フランスで迷惑なテレアポ営業の電話が原則禁止されたというニュースです。消費者の平穏な生活を守るための権利として、不要な広告や勧誘を遮断する法的な取り組みについて紹介しています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "ca18f9229ccc2daf",
-   "url": "https://www.reddit.com/r/onebag/comments/1vloej5/which_power_bank_would_you_recommend_for",
-   "title_original": "Which power bank would you recommend for travelling?",
-   "source": "r/onebag",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-11T17:42:21+00:00",
-   "title_ja": "旅行に最適なノートPC対応モバイルバッテリーを求める相談",
-   "summary_ja": "旅行用に3つのモバイルバッテリーを使い分けるものの、重さや充電速度に不満を持つ投稿者からの相談。MacBook Airを充電でき、ポケットサイズで、一晩で満充電になるUSB-C対応の製品を予算50〜150ドルで探している。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "モバイルバッテリー",
-    "MacBook Air"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ade240263b3ececd",
-   "url": "https://www.reddit.com/r/onebag/comments/1vlnpn6/the_items_that_survived_4_years_in_south_east_asia",
-   "title_original": "The items that survived 4 years in South East Asia",
-   "source": "r/onebag",
-   "image": "https://preview.redd.it/b7byjk7nzrih1.jpeg?width=640&crop=smart&auto=webp&s=9e3736cdba8cbad760d4c7a64fd948c1060ae140",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-11T17:17:28+00:00",
-   "title_ja": "東南アジアでの4年間の旅を生き抜いた少数精鋭の持ち物",
-   "summary_ja": "拠点を持たずに東南アジアで4年間を過ごした旅行者が、最後まで手元に残った貴重な持ち物を紹介。MacBook Air M1やユニクロのダウンジャケット、舌クリーナー、ミニマッサージガンなど、過酷な移動生活を耐え抜いた愛用品が挙げられている。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "MacBook Air M1",
-    "ユニクロのダウンジャケット",
-    "舌クリーナー",
-    "ミニマッサージガン"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "d288b71f2a0b5eec",
-   "url": "https://www.reddit.com/r/minimalism/comments/1vllcz1/accidentally_discovered_minimalism_by_living_out",
-   "title_original": "Accidentally discovered minimalism by living out of one suitcase",
-   "source": "r/minimalism",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-11T15:53:44+00:00",
-   "title_ja": "スーツケース1つの生活で偶然ミニマリズムの快適さに気づいた話",
-   "summary_ja": "事情により友人の家にスーツケース1つで滞在することになった投稿者の体験談。パッキングキューブ3つに収まる衣類やノートPCなどの最小限の荷物だけで、普段の生活の9割以上を快適にこなせることに気づき、図らずもミニマリズムの良さを実感している。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "スーツケース",
-    "フリースジャケット",
-    "パッカブルダウン",
-    "ノートPC"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "0a70d08d21917d2f",
-   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vljq20/old_is_gold_simple_cars_need_to_be_the_future",
-   "title_original": "Old is Gold, Simple Cars Need to be the Future.",
-   "source": "r/BuyItForLife",
-   "image": "https://preview.redd.it/a6eiytkzerih1.jpeg?width=640&crop=smart&auto=webp&s=0a842a9975d786fd97b3b376f1796ab803d1c32c",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-11T14:54:38+00:00",
-   "title_ja": "自分で修理できる古い車を選ぶメリットを語る投稿",
-   "summary_ja": "4000ドルで購入し、ローンや高い保険料なしで維持している古い車を紹介。最近の車は購入も維持も高額すぎるが、古い車は自分で分解して修理できるのが最大の魅力だという。余計な出費を抑え、自分で手を加えながら長く楽しむ暮らし方を提案している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "車"
    ],
    "importance": 3
   },
@@ -5552,22 +4226,6 @@
    "importance": 4
   },
   {
-   "id": "046219ff61fc810c",
-   "url": "https://www.reddit.com/r/simpleliving/comments/1vliig3/ive_found_that_just_not_caring_about_stuff_is_so",
-   "title_original": "i’ve found that just not caring about stuff is so much easier!",
-   "source": "r/simpleliving",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-11T14:09:19+00:00",
-   "title_ja": "政治への過度な執着を手放したら心が楽になった人の話",
-   "summary_ja": "長年政治活動や討論に没頭し、家族とも議論を戦わせていた人物が、政治的関心への過度な執着をやめた体験談。社会や他人の言動を過剰に気にするのをやめたことで、以前よりも心が穏やかになり、暮らしが非常に楽になったと語っている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
    "id": "588562d31263b4e1",
    "url": "https://www.bs-asahi.co.jp/danshari/lineup/prg_320",
    "title_original": "荒れ果てた家をリセット 一家再生への挑戦",
@@ -5582,43 +4240,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
-  },
-  {
-   "id": "d5593f438c38b5d8",
-   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vlhbco/my_2004_honda_pilot_good_maintenance_on_a_great",
-   "title_original": "My 2004 Honda Pilot. Good maintenance on a great car.",
-   "source": "r/BuyItForLife",
-   "image": "https://preview.redd.it/s5cebpodyqih1.jpeg?width=640&crop=smart&auto=webp&s=8f9169fbe75f9c25375b5a6f844876ebd80d3e32",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-11T13:21:28+00:00",
-   "title_ja": "2004年製ホンダ・パイロットを長く愛用する人の投稿",
-   "summary_ja": "2004年製のホンダ・パイロットを、適切なメンテナンスを行いながら長年愛用し続けているという報告。余計な買い替えをせず、手入れをしながら一つの車を大切に乗り続ける、シンプルでサステナブルな持ち物のあり方を示している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ホンダ・パイロット"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "0ce288b3c0606f2d",
-   "url": "https://www.reddit.com/r/onebag/comments/1vlfvex/osprey_daylite_266_rubbing_on_lower_back",
-   "title_original": "Osprey Daylite 26+6 rubbing on lower back?",
-   "source": "r/onebag",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-11T12:19:52+00:00",
-   "title_ja": "バックパックが腰に擦れる悩みを相談し代替品を求める投稿",
-   "summary_ja": "旅行用バッグ「Osprey Daylite 26+6」を購入した投稿者が、実際に背負うと腰に擦れて痛む悩みを相談。高身長の自身やパートナーでも同じ問題が起きたため、同様のコンセプトで体に合うおすすめのバッグ情報を求めている。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "Osprey Daylite 26+6",
-    "バックパック"
-   ],
-   "importance": 2
   },
   {
    "id": "562c4343bbd8c4ad",
@@ -5674,27 +4295,6 @@
     "電動アシスト自転車"
    ],
    "importance": 3
-  },
-  {
-   "id": "39a2ef5c4d97cce2",
-   "url": "https://www.reddit.com/r/minimalism/comments/1vlelhq/almost_bought_another_piece_of_furniture_for",
-   "title_original": "almost bought another piece of furniture for something I only need two hours a day",
-   "source": "r/minimalism",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-11T11:17:56+00:00",
-   "title_ja": "1日2時間のために家具を買うのをやめた人の話",
-   "summary_ja": "ベッド脇で使う収納家具を数ヶ月探していた投稿者が、折りたたみ式の道具で代用したことで常設の家具は不要だと気づいた体験談。夜間にKindleや眼鏡、スマホ、水を置くためだけに、部屋を狭くする家具をわざわざ買い足さずに済んだと語っている。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "Kindle",
-    "眼鏡",
-    "スマホ",
-    "musso D7"
-   ],
-   "importance": 4
   },
   {
    "id": "4866810f53e73b47",
@@ -5766,22 +4366,6 @@
    "importance": 3
   },
   {
-   "id": "f077023d54948cd2",
-   "url": "https://www.reddit.com/r/minimalism/comments/1vladcs/made_millions_and_i_am_tired",
-   "title_original": "Made millions and I am tired",
-   "source": "r/minimalism",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-11T07:15:48+00:00",
-   "title_ja": "富を築いた40代が物を手放しミニマリストを目指す理由",
-   "summary_ja": "高収入のビジネスによるストレスに疲れ、所有物を売却して引退と旅行を計画する40代の投稿。過去の贅沢な買い物に恥ずかしさを感じ、本当に価値があったのは物ではなく旅行などの思い出だったと気づいた著者が、手放す基準についてアドバイスを求めている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
    "id": "947c786275d36d7a",
    "url": "https://news.infoseek.co.jp/article/fudge_395895",
    "title_original": "築45年超えのヴィンテージマンションで一人暮らし。空間も心も整う、こだわりの3つの愛用品 【あの人の愛用品】",
@@ -5796,22 +4380,6 @@
    "axis": "own",
    "things": [],
    "importance": 2
-  },
-  {
-   "id": "8cbb4d9c80556c96",
-   "url": "https://www.reddit.com/r/minimalism/comments/1vl93pe/i_thought_i_was_a_minimalist",
-   "title_original": "I thought I was a minimalist..",
-   "source": "r/minimalism",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-11T06:02:41+00:00",
-   "title_ja": "引っ越しを機に自分の持ち物と向き合った人の話",
-   "summary_ja": "車に入るだけの荷物と少量の箱で長距離の引っ越し準備を進める中で、自分が思っていたよりも感情的に物を手放せないことに気づいた人の体験談。すでに物を減らしたと思った後、さらに物を減らしていく方法や極端な断捨離の後悔について問いかけている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
   },
   {
    "id": "a40675c0733b0f09",
@@ -5829,24 +4397,6 @@
    "things": [
     "ソファ",
     "ベッド"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "09017a7a76cb30cf",
-   "url": "https://www.reddit.com/r/simpleliving/comments/1vl4ftd/this_is_probably_such_a_silly_problem_to_have",
-   "title_original": "this is probably such a silly problem to have",
-   "source": "r/simpleliving",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-11T02:05:34+00:00",
-   "title_ja": "6年間スマホのない日がなかったことに気づき依存脱却を目指す人の話",
-   "summary_ja": "スマホが通知やスパムで散らかり、依存状態にあることに限界を感じた投稿者の悩み。アプリの連続記録通知をきっかけに、6年以上もスマホから離れた日がないと気づき、仕事に必要な連絡やカレンダー機能だけに絞ってシンプルに使いたいと模索している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "スマホ"
    ],
    "importance": 3
   },
@@ -5886,25 +4436,6 @@
     "本"
    ],
    "importance": 3
-  },
-  {
-   "id": "dc215c82ef12d7d1",
-   "url": "https://www.reddit.com/r/declutter/comments/1vkz7mp/would_you_get_rid_of_all_your_clothes",
-   "title_original": "Would you get rid of all your clothes?",
-   "source": "r/declutter",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-10T22:18:00+00:00",
-   "title_ja": "引越しを機に服をすべて手放し、新しい生活に合うものだけを古着で揃えるアイデア",
-   "summary_ja": "引越しで新居のクローゼットに入りきらない大量の服を抱えた投稿者が、すべて手放して古着や中古で買い直す案を検討している。現在の体型やライフスタイル、新居のスペースに合うものだけを厳選し、手放す手間や感情的負担を減らすための選択肢として考えている。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "服",
-    "バッグ"
-   ],
-   "importance": 4
   },
   {
    "id": "ba9e41211c2a388e",
@@ -5953,25 +4484,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 2
-  },
-  {
-   "id": "3683c839076fae87",
-   "url": "https://www.reddit.com/r/BuyItForLife/comments/1vkmu4m/ue_boom_1_12_years_old",
-   "title_original": "UE Boom 1- 12 years old",
-   "source": "r/BuyItForLife",
-   "image": "https://preview.redd.it/imxo05x68kih1.jpeg?width=640&crop=smart&auto=webp&s=9270aa47a40fd659b507f6acc53584b683f06efa",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-10T14:43:57+00:00",
-   "title_ja": "12年間愛用しているポータブルスピーカーの紹介",
-   "summary_ja": "2014年に購入し、大学時代から12年間使い続けているポータブルスピーカー「UE Boom」の紹介。屋外で何度も使用され、新品同様とはいかないものの、現在でも十分なバッテリー持ちと納得のいく音質を維持している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "UE Boom",
-    "スピーカー"
-   ],
-   "importance": 3
   },
   {
    "id": "da3d9c9d75754218",
@@ -6054,24 +4566,6 @@
    "importance": 3
   },
   {
-   "id": "1441f991e2fe1c25",
-   "url": "https://www.reddit.com/r/simpleliving/comments/1vkg2zr/the_absurdity_of_the_modern_tempo_and_wealth",
-   "title_original": "The absurdity of the modern tempo and wealth hoarding",
-   "source": "r/simpleliving",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-10T09:32:50+00:00",
-   "title_ja": "シンプルな暮らしを求めてまず大金持ちを目指す現代の矛盾",
-   "summary_ja": "本を読み、休息し、急がないシンプルな暮らしを送るために、まず大金を稼ごうとする人々の矛盾を指摘した投稿。週に数日だけ働き、最低限の収入で穏やかに暮らすという素朴な生活を始めるために、富の蓄積が必要とされる現代社会の不条理さを考察している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "本"
-   ],
-   "importance": 4
-  },
-  {
    "id": "2b23923356f8bce1",
    "url": "https://www.aol.co.uk/articles/took-12-ryanair-hand-luggage-090457000.html",
    "title_original": "I took £12 Ryanair hand luggage bag on holiday – here's how much I could fit in",
@@ -6090,24 +4584,6 @@
    "importance": 3
   },
   {
-   "id": "ee0801fb9c00f694",
-   "url": "https://www.reddit.com/r/simpleliving/comments/1vkf5of/phone_use",
-   "title_original": "Phone use",
-   "source": "r/simpleliving",
-   "image": "",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-10T08:36:33+00:00",
-   "title_ja": "シンプルな暮らしを目指してスマートフォンの使用を減らす工夫",
-   "summary_ja": "自炊や手作りの掃除用洗剤などシンプルな生活を実践する中で、習慣化してしまったスマートフォンの使用時間を減らす方法に悩む人の投稿です。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "スマートフォン"
-   ],
-   "importance": 4
-  },
-  {
    "id": "5c02e3e2987ed1f5",
    "url": "https://www.youtube.com/shorts/9rWtWTmlCag",
    "title_original": "【ミニマリスト主婦】暑い日にやると良いらしいと聞いて",
@@ -6124,27 +4600,11 @@
    "importance": 1
   },
   {
-   "id": "882a892182ee0c5c",
-   "url": "https://www.reddit.com/r/simpleliving/comments/1vkeaht/morning",
-   "title_original": "Morning",
-   "source": "r/simpleliving",
-   "image": "https://preview.redd.it/vgttljb65iih1.jpeg?width=640&crop=smart&auto=webp&s=5cb6d9b8d048ef92254c994c125f1e5547778e51",
-   "media": "reddit",
-   "region": "海外",
-   "published": "2026-08-10T07:43:32+00:00",
-   "title_ja": "静かな場所で過ごす朝のひととき",
-   "summary_ja": "静かな場所で朝の時間を過ごした体験について共有しています。日々の暮らしの中で心を落ち着かせるシンプルな習慣の実例です。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
    "id": "d7d5c12e759a6929",
    "url": "https://www.bhg.com/sofa-styles-to-skip-12023103",
    "title_original": "5 Sofa Styles Designers Say Can Make Your Home Look Dated",
    "source": "Better Homes & Gardens",
-   "image": "",
+   "image": "https://www.bhg.com/thmb/65npVlr9H-ukkzVoVA55_0a16YY=/2148x0/filters:no_upscale():max_bytes(150000):strip_icc()/BetterHomesTinyHouse2441-1_preview-84364ca86039419f8ad197d8fa7be99b.jpg",
    "media": "news",
    "region": "海外",
    "published": "2026-08-10T07:00:00+00:00",
@@ -6419,6 +4879,38 @@
     "ハブミニ"
    ],
    "importance": 4
+  },
+  {
+   "id": "6e75b220ca92879f",
+   "url": "https://x.com/zen_habits/status/2085716876336730523",
+   "title_original": "The habits of our minds shape our experience every day. Curiosity, gratitude, savoring, and learning from difficult moments are practices that grow stronger each time we return to them. Read the full post on my blog. #mindfulness #happiness #gratitude",
+   "source": "Zen Habits（X）",
+   "image": "https://pbs.twimg.com/media/HPH0cW2WwAA-PFD.jpg",
+   "media": "x",
+   "region": "海外",
+   "published": "2026-08-07T13:17:08+00:00",
+   "title_ja": "心を整える日々の習慣について",
+   "summary_ja": "好奇心や感謝、困難から学ぶ姿勢といった心の習慣が、日々の経験を形作るという考え方についてのブログ記事。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "b4b0a53a27191493",
+   "url": "https://x.com/TheMinimalists/status/2085025884264858081",
+   "title_original": "Some truths take a lifetime to learn; others fit in a single sentence. http://minimalists.com/truths",
+   "source": "The Minimalists（X）",
+   "image": "https://pbs.twimg.com/card_img/2087566684160700416/j7HIpE9K?format=jpg&name=800x419",
+   "media": "x",
+   "region": "海外",
+   "published": "2026-08-05T15:31:23+00:00",
+   "title_ja": "人生の真理について考えたミニマリストの投稿",
+   "summary_ja": "人生の学びや真理についてのメッセージを簡潔にまとめたミニマリストによる投稿。日々の暮らしや生き方を見つめ直すための考え方を提示している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
   }
  ]
 }
