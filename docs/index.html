@@ -165,7 +165,9 @@
     padding: 1px 9px; font-size: 11.5px; color: var(--muted);
     background: transparent; font-family: inherit; cursor: pointer;
   }
+  .links { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
   .src { font-size: 12.5px; color: var(--accent); font-weight: 500; }
+  .orig { font-size: 11.5px; color: var(--muted); }
 
   .empty, .loading { text-align: center; color: var(--muted); padding: 48px 0; font-size: 14px; }
   #more {
@@ -207,6 +209,7 @@
 <footer>
   <p>海外・国内のブログ、ニュース、YouTube、Reddit を自動で集め、見出しと要約を機械生成しています。要約は原文の全訳ではありません。詳しい内容は必ず出典元をご確認ください。</p>
   <p>「🍃 減らし方」は物を手放す方法や考え方、「🎒 持ち物」は減らしたうえで実際に使っている物の話です。振り分けも自動なので、時々ずれることがあります。</p>
+  <p>海外の記事は「🌐 日本語で読む」から Google 翻訳を通したページが開きます。翻訳は Google によるもので、当サイトが訳したものではありません。翻訳を受け付けない媒体もあるので、その場合は隣の「原文」からお読みください。</p>
   <p>記事に出てくる持ち物の名前は、要約の際に本文から拾ったものです。商品名や仕様は出典元でご確認ください。</p>
   <p>サムネイルは各媒体が配信データ（RSS・OGP）で公開している画像を、出典と原文リンクを添えて表示しています。</p>
   <p>記事および画像の著作権は各媒体に帰属します。掲載の停止をご希望の媒体様はリポジトリのIssueよりご連絡ください。</p>
@@ -225,6 +228,31 @@ const fmt = new Intl.DateTimeFormat("ja-JP", {
 const MEDIA_LABELS = { blog: "📝 ブログ", news: "🗞 ニュース", youtube: "▶️ YouTube", reddit: "💬 Reddit" };
 const AXIS_LABELS = { reduce: "減らし方", own: "持ち物" };
 const AXIS_MARK = { reduce: "🍃", own: "🎒" };
+
+// 海外の記事は Google 翻訳ごしのURLで開く。
+// translate.goog はホスト名の "." を "-"、もとの "-" を "--" に置き換えた別ホストで
+// 同じページを配信する（example-com.translate.goog/…）。
+// 変換はこちら側では一切通信せずに組み立てる。読みに行くのは記事を開いた人のブラウザだけ。
+function translateUrl(raw) {
+  try {
+    const u = new URL(raw);
+    if (u.protocol !== "https:" && u.protocol !== "http:") return "";
+    const host = u.hostname.split(".").map(part => part.replace(/-/g, "--")).join("-");
+    const params = new URLSearchParams(u.search);
+    params.set("_x_tr_sl", "auto");
+    params.set("_x_tr_tl", "ja");
+    params.set("_x_tr_hl", "ja");
+    return `https://${host}.translate.goog${u.pathname}?${params}${u.hash}`;
+  } catch (err) {
+    return "";
+  }
+}
+
+// 動画は訳しても仕方がないので対象外。日本語の記事もそのまま。
+function readingUrl(item) {
+  if (item.region !== "海外" || item.media === "youtube") return "";
+  return translateUrl(item.url);
+}
 
 function relative(iso) {
   const then = new Date(iso), diff = (Date.now() - then) / 1000;
@@ -301,16 +329,25 @@ function render() {
       ? `<div class="things">${item.things.map(t =>
           `<button class="thing" data-thing="${escapeHtml(t)}">${escapeHtml(t)}</button>`).join("")}</div>`
       : "";
+    // 海外の記事は日本語に訳したページを主にし、原文へのリンクも必ず併記する
+    // （翻訳を通さない媒体があるため、原文が行き止まりにならないようにする）。
+    const translated = readingUrl(item);
+    const open = translated || item.url;
+    const cta = translated ? "日本語で読む →"
+      : item.media === "youtube" ? "動画を見る →" : "元の記事を読む →";
     return `
     <article>
-      <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">
+      <a href="${escapeHtml(open)}" target="_blank" rel="noopener noreferrer">
         ${head}
         <p class="summary">${escapeHtml(item.summary_ja)}</p>
       </a>
       ${things}
-      <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">
-        <span class="src">${item.media === "youtube" ? "動画を見る →" : "元の記事を読む →"}</span>
-      </a>
+      <div class="links">
+        <a href="${escapeHtml(open)}" target="_blank" rel="noopener noreferrer">
+          <span class="src">${translated ? "🌐 " : ""}${cta}</span>
+        </a>
+        ${translated ? `<a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer"><span class="orig">原文</span></a>` : ""}
+      </div>
     </article>`;
   }).join(""));
   shown += slice.length;
