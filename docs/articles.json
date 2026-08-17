@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17T18:17:09.144407+09:00",
+ "updated_at": "2026-08-17T21:50:02.201105+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,7 +29,7 @@
  "things": [
   {
    "name": "服",
-   "count": 10
+   "count": 11
   },
   {
    "name": "バックパック",
@@ -40,11 +40,19 @@
    "count": 5
   },
   {
+   "name": "スマホ",
+   "count": 3
+  },
+  {
    "name": "ソファ",
    "count": 3
   },
   {
    "name": "フライパン",
+   "count": 3
+  },
+  {
+   "name": "本",
    "count": 3
   },
   {
@@ -80,10 +88,6 @@
    "count": 2
   },
   {
-   "name": "スマホ",
-   "count": 2
-  },
-  {
    "name": "スマートフォン",
    "count": 2
   },
@@ -101,6 +105,10 @@
   },
   {
    "name": "モバイルバッテリー",
+   "count": 2
+  },
+  {
+   "name": "ワンクリップアルミハンガー",
    "count": 2
   },
   {
@@ -124,11 +132,11 @@
    "count": 2
   },
   {
-   "name": "本",
+   "name": "紙袋",
    "count": 2
   },
   {
-   "name": "紙袋",
+   "name": "鍵",
    "count": 2
   },
   {
@@ -186,6 +194,7 @@
   "Yahoo!ニュース",
   "Zen Habits（X）",
   "aol.com",
+  "au Webポータル",
   "autoevolution",
   "bs-asahi.co.jp",
   "facebook.com",
@@ -216,14 +225,172 @@
   "ライフハッカー・ジャパン",
   "ライブドアニュース",
   "レイの小さな暮らし",
+  "レッツエンジョイ東京",
   "小さな暮らしノート",
   "山陽新聞",
   "私だけミニマリスト｜南さやか",
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 269,
+ "count": 280,
  "items": [
+  {
+   "id": "98bf6dd7459e99f5",
+   "url": "https://www.lifehacker.jp/article/machi-ya-onecliphanger-additional-938814",
+   "title_original": "ハンガーは横長じゃなくていい。縦14cmでクローゼットの容量を増やす裏ワザ",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/15/7c6e0a01-df9c-43db-b6c7-bc2bf69f729d/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-17T12:30:00+00:00",
+   "title_ja": "縦14cmのクリップハンガーで収納を増やす工夫",
+   "summary_ja": "ワンクリップアルミハンガーを使い、スラックスやスカートを挟んで収納している。衣服に跡が付きにくい構造で、クローゼットの容量を増やすことができる。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "ワンクリップアルミハンガー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "33fee0eaec0ec39f",
+   "url": "https://note.com/nice_chives9917/n/n66422e886a8f",
+   "title_original": "ミニマリストになるための５つのルール【２０２６年ver】",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/304464146/rectangle_large_type_2_786ab5dee56ead06b1d7c95f17ea56ab.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-17T12:19:17+00:00",
+   "title_ja": "2026年版のミニマリストになるためのルール",
+   "summary_ja": "5年前に考えた50のルールを振り返り、現在の自分に向けた新しいミニマリストのルールについて考えている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "bc10891db4ed5d3e",
+   "url": "https://note.com/merry_colt6726/n/n82deb858d78a",
+   "title_original": "片付けが進まないので、とにかく段ボールに放り込むことにした",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/304368294/rectangle_large_type_2_66d046120b1d137dec5bc4bd74b4af32.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-17T12:12:57+00:00",
+   "title_ja": "要らなくなった物をまず段ボールに放り込む片付け法",
+   "summary_ja": "片付けが進まない原因は分別を同時に調べることだと気づき、不要なものを一旦段ボールへ放り込んでから分別を考える方法を試している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "段ボール"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "6a12dabdce3924ac",
+   "url": "https://note.com/agile_lotus1970/n/nb440f08b64d1",
+   "title_original": "2児ママの朝は、とにかく「頑張らない」。朝のバタバタを減らすためにやめたこと・始めたこと",
+   "source": "note #持たない暮らし",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/ac7097e02dce813220c94a7f9ec4a3c05c94700c.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-17T12:10:13+00:00",
+   "title_ja": "2児を育てる母親が朝のバタバタを減らすためにやめたこと",
+   "summary_ja": "5歳と2歳の子どもを育てる家庭で、朝の家事や身支度など「ちゃんとやらなければ」と思い込んでいたことを見直し、やることを減らしたことでラクになった工夫を紹介している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "48b7597f98435edc",
+   "url": "https://www.theminimalists.com/p552",
+   "title_original": "Podcast Ep. 552 | Stories We Tell Ourselves",
+   "source": "The Minimalists",
+   "image": "",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-08-17T12:00:03+00:00",
+   "title_ja": "本棚の整理と自分語りの関係について語るポッドキャスト",
+   "summary_ja": "本棚が散らかっていると感じるのは、そこにある本がもはや読者としての役割を果たさなくなった時であるという考え方について、ポッドキャストのエピソードで言及している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "本"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "d6966e300b8f3011",
+   "url": "https://note.com/meg0815/n/nd2fe1d8e5215",
+   "title_original": "心と体が楽になる暮らしを育てる8月🍉｜夏の服選びは、涼しさから考える。",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/img/1786909419-LopmV6RtsiHP9g1ETAFheurG.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-17T11:59:41+00:00",
+   "title_ja": "涼しい夏の服選びで心と体を楽にする方法",
+   "summary_ja": "夏の服選びを通して、心と体が楽になる暮らしの整え方を紹介しています。暑い季節を快適に過ごすための工夫や、持ち物を厳選する考え方が語られています。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "aed100cfaea84067",
+   "url": "https://note.com/zubora_mammy/n/n7cc4245fa8db",
+   "title_original": "「もったいない」を手放す考え方",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/291720149/rectangle_large_type_2_690277211f5783f5b79eca1321ff230f.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-17T11:37:31+00:00",
+   "title_ja": "断捨離で「もったいない」の気持ちに向き合う",
+   "summary_ja": "断捨離の際に苦戦した「もったいない」という感情との向き合い方を振り返っています。実家から受け継いだものなど、手放す作業における心理的なハードルをどう乗り越えたかという考え方です。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "798130421c2e5676",
+   "url": "https://www.lifehacker.jp/article/machi-ya-quickpack-review-961141",
+   "title_original": "片手3秒でスマホが出せる。マグネット式の「スマポッケ」がよくできてる",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/07/31/36fd337e-0de7-4fe9-9dc4-205bbeaca275/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-17T11:30:00+00:00",
+   "title_ja": "スマホや鍵を身軽に持ち運ぶマグネット式ポケット",
+   "summary_ja": "財布を持たない身軽な外出を実現する、重量300gのミニマルなポケットバッグです。スマホや鍵、現金を厳選して携帯できるマグネット式ポケットやスキミング防止機能を備えています。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "ポケットバッグ",
+    "スマホ",
+    "鍵",
+    "現金"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "f59752bd3600da31",
+   "url": "https://www.enjoytokyo.jp/event/2079480",
+   "title_original": "「いま、本当に大切なものに気づく断捨離」やましたひでこ講演会 in 仙台｜レッツエンジョイ東京",
+   "source": "レッツエンジョイ東京",
+   "image": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/e9/2079480/img_1.jpg?1786935450&p=t&w=1200",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-17T10:01:16+00:00",
+   "title_ja": "やましたひでこ氏が語る断捨離の講演会イベント",
+   "summary_ja": "本当に大切なものに気づくための断捨離をテーマにした講演会が仙台で開催されるというお知らせ。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
   {
    "id": "b0b81f5e81432288",
    "url": "https://note.com/vast_flax6740/n/n39a1843b030c",
@@ -445,6 +612,24 @@
    "category": "心・習慣",
    "axis": "reduce",
    "things": [],
+   "importance": 3
+  },
+  {
+   "id": "fc24c1f3c5527f89",
+   "url": "https://www.roomie.jp/2026/08/1864136",
+   "title_original": "山崎実業の「中身に合わせて変形する保冷バッグ」が、通勤にも買い物帰りにも大活躍！",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/05/yamajitsu_horei_top.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-17T07:00:52+00:00",
+   "title_ja": "山崎実業の形を変えられる保冷バッグ",
+   "summary_ja": "かさばりがちな保冷バッグの悩みを解決する、中身に合わせて変形できる山崎実業のアイテムを紹介しています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "保冷バッグ"
+   ],
    "importance": 3
   },
   {
@@ -721,6 +906,22 @@
    "axis": "own",
    "things": [],
    "importance": 3
+  },
+  {
+   "id": "5b7121de572b8975",
+   "url": "https://article.auone.jp/article/87b7d655-dc08-4829-908b-b8f8ee2a9bc7",
+   "title_original": "「もの最小限」生活の田中みな実にテリー伊藤「うち来たらね、入り口で倒れると思うよ」",
+   "source": "au Webポータル",
+   "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/08/16/https___news_jp_i_1461639763196215297.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-16T18:05:24+00:00",
+   "title_ja": "田中みな実のミニマルな生活に言及",
+   "summary_ja": "ものを最小限にして暮らす田中みな実の生活スタイルについて、テリー伊藤が言及している話題です。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
   },
   {
    "id": "e0bbd702404c3bec",
