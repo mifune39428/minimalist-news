@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17T10:25:37.310999+09:00",
+ "updated_at": "2026-08-17T16:02:11.378067+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -33,11 +33,15 @@
   },
   {
    "name": "バックパック",
-   "count": 7
+   "count": 8
   },
   {
    "name": "バッグ",
    "count": 7
+  },
+  {
+   "name": "モバイルバッテリー",
+   "count": 6
   },
   {
    "name": "本",
@@ -45,10 +49,6 @@
   },
   {
    "name": "スマホ",
-   "count": 5
-  },
-  {
-   "name": "モバイルバッテリー",
    "count": 5
   },
   {
@@ -96,6 +96,10 @@
    "count": 2
   },
   {
+   "name": "USB-Cケーブル",
+   "count": 2
+  },
+  {
    "name": "iPhone",
    "count": 2
   },
@@ -120,6 +124,10 @@
    "count": 2
   },
   {
+   "name": "ジップロック",
+   "count": 2
+  },
+  {
    "name": "スピーカー",
    "count": 2
   },
@@ -137,6 +145,10 @@
   },
   {
    "name": "ベッド",
+   "count": 2
+  },
+  {
+   "name": "リュック",
    "count": 2
   },
   {
@@ -173,14 +185,6 @@
   },
   {
    "name": "靴",
-   "count": 2
-  },
-  {
-   "name": "食器",
-   "count": 2
-  },
-  {
-   "name": "食器棚",
    "count": 2
   }
  ],
@@ -265,8 +269,101 @@
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 337,
+ "count": 348,
  "items": [
+  {
+   "id": "f5c00cf6c158db0c",
+   "url": "https://www.reddit.com/r/onebag/comments/1vqk2ps/how_do_you_all_wash_clothes_for_long_trips",
+   "title_original": "How do you all wash clothes for long trips?",
+   "source": "r/onebag",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-17T06:09:15+00:00",
+   "title_ja": "荷物を極力減らした長期一人旅での洗濯と乾燥方法に関する相談",
+   "summary_ja": "1つのバッグで数週間以上の長期一人旅をする際、衣類をどのように洗濯・乾燥させているかを尋ねる投稿です。宿泊先の設備有無や乾燥にかかる時間への対処法について、経験者へ意見を求めています。",
+   "category": "旅・持ち歩き",
+   "axis": "reduce",
+   "things": [
+    "衣類"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "7e2ee3e4e7504ad1",
+   "url": "https://www.reddit.com/r/onebag/comments/1vqhpwu/bag_finder_megathread_17_august_2026",
+   "title_original": "Bag Finder Megathread - 17 August 2026",
+   "source": "r/onebag",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-17T04:01:31+00:00",
+   "title_ja": "機内持ち込み旅行に向けたバッグ選びと荷物量の測定方法",
+   "summary_ja": "1つのバッグで旅をするためのバックパック選びや助言を募る掲示板の投稿です。最適なバッグの大きさを知るために、パッキングリストを作成して既存の箱やリュックに詰め、荷物の容積を測る手順が紹介されています。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "バックパック",
+    "リュック"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "f4d3cbcbd7cde869",
+   "url": "https://www.lifehacker.jp/article/machi-ya-manualtintsunglasses-repost-958447",
+   "title_original": "調光サングラス、クルマの中だと色が変わらない問題。指先で回して解決する一本を試してみた",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/07/21/eeee582c-6c3e-411a-a89a-c183ddbf4f37/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-17T04:00:00+00:00",
+   "title_ja": "車内でも使える9段階の手動調光サングラスを試した話",
+   "summary_ja": "紫外線で色が変わる従来の調光サングラスは、UVカットガラスの車内では機能しない弱点があります。指先でレンズを回して9段階で濃さを調整できる偏光サングラスを使い、車内での見え方や使い勝手を検証したレビューです。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "調光サングラス",
+    "偏光サングラス"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ebc1dd8d80e59d03",
+   "url": "https://www.reddit.com/r/onebag/comments/1vqgcco/5000mah_vs_10000mah_for_onebag_travel_where_do",
+   "title_original": "5,000mAh vs 10,000mAh for one-bag travel: where do you draw the line?",
+   "source": "r/onebag",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-17T02:53:50+00:00",
+   "title_ja": "ワンバッグ旅の充電機器を減らすモバイルバッテリーの選び方",
+   "summary_ja": "1個のバッグで旅行するにあたり、充電セットを簡素化したい人がバッテリーの容量で悩む投稿です。軽量な105gの5,000mAhと、ケーブル内蔵で197gの10,000mAhのどちらを選ぶべきか比較・検討しています。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "モバイルバッテリー",
+    "USB-Cケーブル"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "cb524c01a35e94ca",
+   "url": "https://www.reddit.com/r/simpleliving/comments/1vqg5rd/is_staying_home_rather_than_travelling_a_waste_of",
+   "title_original": "Is staying home rather than travelling a waste of your life?",
+   "source": "r/simpleliving",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-17T02:45:03+00:00",
+   "title_ja": "旅行に行かず家で過ごすシンプルな暮らしを選ぶ人の考え",
+   "summary_ja": "観光地巡りなどの旅行には興味を持たず、家で動画を鑑賞したり観葉植物の世話をしたりして過ごすシンプルライフを優先する人の投稿。若いうちに少し旅行を経験した上で、現在は近所のお店や海に出かける程度の静かな生活を選択している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "観葉植物"
+   ],
+   "importance": 3
+  },
   {
    "id": "3279291ae70f13f7",
    "url": "https://www.lifehacker.jp/article/2608-costorypo-teweekaix9-review1-1236033272",
@@ -426,6 +523,22 @@
    "importance": 3
   },
   {
+   "id": "ea76a88a38390943",
+   "url": "https://www.reddit.com/r/simpleliving/comments/1vqamnx/when_i_take_away_the_distractions_theres_nothing",
+   "title_original": "When I take away the distractions, there's nothing left.",
+   "source": "r/simpleliving",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-16T22:29:00+00:00",
+   "title_ja": "デジタル上の刺激を減らした結果、強い抑うつ感に直面した人の話",
+   "summary_ja": "SNSをやめ、画面を見る時間を減らすなど1年かけて気を散らすものを排除してきた投稿者。デジタルな刺激を減らすこと自体は良いことだと感じつつも、それらを失ったことで強い抑うつ感に襲われるようになったと現状の悩みを明かしている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
    "id": "78f63fccc1599c67",
    "url": "https://www.lifehacker.jp/article/2608-costorypo-jios-end-1599396250",
    "title_original": "破格の2万円台で国産の自動巻き腕時計デビュー。人生の節目に手に入れたい隠れ名品です",
@@ -475,6 +588,74 @@
    "category": "部屋・収納",
    "axis": "own",
    "things": [],
+   "importance": 3
+  },
+  {
+   "id": "a057bafae56f8da1",
+   "url": "https://www.reddit.com/r/simpleliving/comments/1vq5o2k/nonattentiongrabbing_yt_channel_recommendations",
+   "title_original": "Non-attention-grabbing YT channel recommendations",
+   "source": "r/simpleliving",
+   "image": "",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-16T19:08:26+00:00",
+   "title_ja": "SNSをやめ刺激の少ないYouTubeチャンネルのおすすめを尋ねる人の話",
+   "summary_ja": "SNSをやめて長尺動画のみを観るようにしたところ、満足度が高まったという投稿者。注意を引くための過度な演出や、劇的なナレーションがない静かなコンテンツを求めており、おすすめのYouTubeチャンネルについての助言を求めている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "ec8e65cf68da0e0f",
+   "url": "https://www.reddit.com/r/Anticonsumption/comments/1vq47ud/pr_influencers_make_my_bloody_boil",
+   "title_original": "PR & ‘ influencers’ make my bloody boil",
+   "source": "r/Anticonsumption",
+   "image": "https://preview.redd.it/jzd8yf9w2sjh1.jpeg?width=640&crop=smart&auto=webp&s=2c22a0f74382b5cb7eab9567ee568b229541a272",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-16T18:12:40+00:00",
+   "title_ja": "インフルエンサーへの大量のPR提供品と過剰消費に疑問を抱く人の話",
+   "summary_ja": "インフルエンサーが短期間で受け取った大量のPR提供品に対し、不満を抱く投稿者の意見。生活費に苦しむ人々がいる一方で、大量のモノが提供され最終的に廃棄される現状について、過剰消費の観点から強い疑問を呈している。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "536b4331a1510e4c",
+   "url": "https://www.reddit.com/r/Anticonsumption/comments/1vq2v30/my_contribution_to_anticonsumption_cleaning_out",
+   "title_original": "My contribution to anti-consumption: cleaning out all of these zip loc bags",
+   "source": "r/Anticonsumption",
+   "image": "https://preview.redd.it/0yh016uptrjh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=f755043952355209029995f1d064953f7f1742d1",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-16T17:21:13+00:00",
+   "title_ja": "溜まった保存袋を洗って再利用しゴミと消費を抑える人の話",
+   "summary_ja": "毛糸の購入や引っ越しの際に溜まったプラスチック製のジップロックバッグを、捨てずに洗って再利用することにした投稿者。日常の中で余計な買い足しやゴミを減らし、モノを大切に使い続けるための身近な工夫を紹介している。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "ジップロック"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "9442f3139fd8ff1f",
+   "url": "https://www.reddit.com/r/Anticonsumption/comments/1vq26z9/i_made_some_adimprovement_stickers_you_can_print",
+   "title_original": "I made some ad-improvement stickers. You can print your own.",
+   "source": "r/Anticonsumption",
+   "image": "https://preview.redd.it/6ljqcpptorjh1.png?width=140&height=93&auto=webp&s=ee5e3e3e736e628f910232cda0c3e8de2bf56525",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-16T16:55:35+00:00",
+   "title_ja": "ギャンブルや高級品の広告向けに自作ステッカーを印刷公開した人の話",
+   "summary_ja": "ギャンブルや高級品、アパレル、自動車、美容などの広告向けに、自作の広告改善ステッカーを作成した投稿者の話。印刷して誰でも使えるようにデータを公開しており、過剰な消費を促す広告に対して自作ステッカーで対策する試みが共有されている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "ステッカー"
+   ],
    "importance": 3
   },
   {
@@ -718,6 +899,22 @@
     "ナイロンフィラメント"
    ],
    "importance": 3
+  },
+  {
+   "id": "8591bb60b944a9c7",
+   "url": "https://www.reddit.com/r/simpleliving/comments/1vpu5b2/petting_my_favorite_outdoor_cat_early_in_the",
+   "title_original": "Petting my favorite outdoor cat early in the peaceful morning!",
+   "source": "r/simpleliving",
+   "image": "https://preview.redd.it/w2xdyfm0ypjh1.jpeg?width=640&crop=smart&auto=webp&s=9f01f34d2c7bd07e90d7c8d16a018d03f7e42e2f",
+   "media": "reddit",
+   "region": "海外",
+   "published": "2026-08-16T11:02:41+00:00",
+   "title_ja": "静かな早朝にお気に入りの外猫を撫でて穏やかに過ごす人の話",
+   "summary_ja": "静かな早朝の時間帯にお気に入りの外猫を撫でて穏やかに過ごした投稿者の話。特別な道具や買い物を必要とせず、日常の中にある静けさや動物との触れ合いを楽しむシンプルな暮らしのひとときが描かれている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
   },
   {
    "id": "3308a056ac95f6b6",
