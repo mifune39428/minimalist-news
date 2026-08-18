@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18T03:43:48.166968+09:00",
+ "updated_at": "2026-08-18T10:21:20.603350+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -132,6 +132,10 @@
    "count": 2
   },
   {
+   "name": "封筒",
+   "count": 2
+  },
+  {
    "name": "手帳",
    "count": 2
   },
@@ -166,6 +170,7 @@
   "AOL.co.uk",
   "AOL.com",
   "Android Police",
+  "Apartment Therapy",
   "Autoblog",
   "Be More with Less",
   "Better Homes & Gardens",
@@ -177,6 +182,7 @@
   "Hindustan Times",
   "Ideal Home",
   "Infoseek",
+  "Joshua Becker（X）",
   "LIMO | くらしとお金の経済メディア",
   "Livingetc",
   "Marin Independent Journal",
@@ -240,12 +246,112 @@
   "レッツエンジョイ東京",
   "小さな暮らしノート",
   "山陽新聞",
+  "玩具人 TOY PEOPLE",
   "私だけミニマリスト｜南さやか",
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 290,
+ "count": 303,
  "items": [
+  {
+   "id": "2af0645a1277af62",
+   "url": "https://note.com/001903/n/nd6f5f9388308",
+   "title_original": "減らして、増やすとうまくいく",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/304600232/rectangle_large_type_2_f78b7cb2c906f15f233701b7fde89ac3.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-18T01:10:15+00:00",
+   "title_ja": "減らして、増やす好循環のバランス",
+   "summary_ja": "物を減らしてからの過ごし方について綴った記事。具体的な内容は不明だが、ミニマルな暮らしにおける物の増やし方や循環のさせ方について考えさせられる内容。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "373848640d42651c",
+   "url": "https://note.com/calm_lynx7214/n/n99399f8efced",
+   "title_original": "片付けの本を読んで感化されたのですぐ実行。1日10捨て。",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/304352361/rectangle_large_type_2_f262e6be052ff215832ff7bf0e41b712.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-18T01:03:48+00:00",
+   "title_ja": "片付け本に感化されて1日10捨てを実行した話",
+   "summary_ja": "片付けに関する本を読んでモチベーションを高め、毎日10個の物を手放す習慣を続けている人の記録。読書が行動のきっかけになった様子が綴られている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "fb70671d5efa9f77",
+   "url": "https://note.com/mm_7419_m/n/nb3158fd0f5ce",
+   "title_original": "また買っちゃった…を減らしたい。ChatGPTに「本当に必要？」と聞く習慣",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/304598586/rectangle_large_type_2_5649dce6051d63540cc8666af71f9904.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-18T01:02:46+00:00",
+   "title_ja": "衝動買いを防ぐためにChatGPTへ相談する習慣",
+   "summary_ja": "セールや割引の通知を見てつい買い物をしそうになった際、ChatGPTに「本当に必要か」を問いかけることで無駄な買い物を減らそうとする工夫。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "faed4ebec2e7d3e4",
+   "url": "https://note.com/mm_7419_m/n/n29006e0a4429",
+   "title_original": "「これ、捨てる？残す？」迷ったら、ChatGPTに相談。断捨離を手伝ってもらった結果",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/304597463/rectangle_large_type_2_684ef4d44b69b55c1d9680981e97a3d5.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-18T01:00:20+00:00",
+   "title_ja": "捨て活の迷いをChatGPTに相談して判断した話",
+   "summary_ja": "物を手放すか残すかで迷った際に、AIであるChatGPTに相談して判断のサポートをしてもらいながら断捨離を進めた体験談。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "7e71d48bc39249ee",
+   "url": "https://note.com/tender_viper3997/n/n035273c2dca4",
+   "title_original": "盆休みは新NISAを放置して、断捨離して",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/304597196/rectangle_large_type_2_be532caa4deb1f5dc6ad6db6754de030.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-18T00:56:20+00:00",
+   "title_ja": "盆休みに挑んだ断捨離とメルカリ出品の試行錯誤",
+   "summary_ja": "盆休みに断捨離とメルカリ出品に挑戦したものの、体調不良もあり目標の10%未満で終了。雑貨を出品したものの売上は少なく、試行錯誤が続いている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "メルカリ",
+    "封筒"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "9748d332887544a3",
+   "url": "https://www.realsimple.com/things-pro-organizers-never-keep-in-their-homes-12024141",
+   "title_original": "7 Things Pro Organizers Never Keep in Their Own Homes",
+   "source": "Real Simple",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-17T20:44:57+00:00",
+   "title_ja": "プロの整理収納アドバイザーが自宅に置かない7つの物",
+   "summary_ja": "片付けのプロが自身の家には絶対に置かないと決めている7つの物について解説している。無駄を省いた自宅環境づくりのヒントが見つかる。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
   {
    "id": "79dbe5bfb00fe6f8",
    "url": "https://note.com/nyagosutin_/n/n9179ae6598ee",
@@ -263,6 +369,22 @@
     "写真",
     "菓子箱"
    ],
+   "importance": 3
+  },
+  {
+   "id": "66dfbfc23f5b18fe",
+   "url": "https://news.yahoo.co.jp/articles/d170a210c327629e43b240b19a7b6f6b38d731d4/images/000",
+   "title_original": "40代「旅行後の片付け」がラクになる工夫3つ。荷物の詰め方を変えたら、帰宅後がぐんと快適に (ESSE-online)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3h9uiCojScY7SLYgxmEygY1IHrizDtUCsS5bvetUAJMQW4wOquDhG_6Xr_dshm_VPCzsKGsVlFR54q58LEbBx_98orgQWegNY2ki9a1x9pagAuybdyuIeUxJyI2W60FxP",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-17T17:34:47+00:00",
+   "title_ja": "40代の旅行後にラクをする荷造りと片付けの工夫3つ",
+   "summary_ja": "旅行後の片付けを楽にするための荷物の詰め方を紹介している。帰宅後の負担を減らすための具体的なアプローチが参考になる。",
+   "category": "旅・持ち歩き",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -383,6 +505,38 @@
    "things": [
     "首のサポート用品"
    ],
+   "importance": 3
+  },
+  {
+   "id": "6476a1ebd70e15ca",
+   "url": "https://www.realsimple.com/decluttering-methods-you-have-never-heard-of-from-reddit-12035798",
+   "title_original": "7 Under-the-Radar Decluttering Methods That Make Tidying Up So Much Easier",
+   "source": "Real Simple",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-17T13:30:00+00:00",
+   "title_ja": "片付けがぐっと楽になるあまり知られていない7つの方法",
+   "summary_ja": "これまでにあまり知られていない、効果的な片付けと整理のメソッドを紹介している。散らかった空間をすっきりと整えるための新しいアプローチ。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "b2dafb582ab41c1d",
+   "url": "https://www.apartmenttherapy.com/fridge-organizing-hacks-from-pro-organizers-37686199",
+   "title_original": "Their 4 Brilliant Organizing Hacks Will Instantly Declutter Your Fridge for Good",
+   "source": "Apartment Therapy",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-17T13:15:00+00:00",
+   "title_ja": "冷蔵庫がすっきり片付く4つの優秀な収納と整理の裏技",
+   "summary_ja": "冷蔵庫の中を効率よく整理し、ごちゃつきを解消するための4つの収納アイデアを紹介している。毎日の家事効率を高める工夫が学べる。",
+   "category": "キッチン・食",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -561,6 +715,22 @@
     "現金"
    ],
    "importance": 3
+  },
+  {
+   "id": "21d456c1c6067ea4",
+   "url": "https://www.youtube.com/watch?v=SLE0MzEfyEc",
+   "title_original": "Stories We Tell Ourselves | The Minimalists Ep. 552",
+   "source": "The Minimalists",
+   "image": "https://i4.ytimg.com/vi/SLE0MzEfyEc/hqdefault.jpg",
+   "media": "youtube",
+   "region": "海外",
+   "published": "2026-08-17T11:00:34+00:00",
+   "title_ja": "親から譲り受けたくない不用品や家宝の手放し方を語る動画",
+   "summary_ja": "作家をゲストに迎え、親から受け継ぎたくない不用品や家宝の手放し方について議論している動画。消費する物語が人生に与える影響や、自分にとって不要な遺品をどのように対処すべきかという考え方を語っている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
   },
   {
    "id": "f59752bd3600da31",
@@ -854,6 +1024,22 @@
    "importance": 3
   },
   {
+   "id": "019bee0d6e2694a3",
+   "url": "https://www.toy-people.com/jp/?p=96760",
+   "title_original": "断捨離中の固定電話からまさかの『亡き母の声』が！ 奇跡の再会に涙腺崩壊、かけがえのない宝物に",
+   "source": "玩具人 TOY PEOPLE",
+   "image": "https://img.toy-people.com/imgur/173857751334.png",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-17T06:45:58+00:00",
+   "title_ja": "断捨離中に固定電話から亡き母の声を見つけた話",
+   "summary_ja": "物の整理を進める中で、固定電話から予想外に亡き母の声が発見されたというエピソード。思わぬ形での思い出の品との再会が語られています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "ad0cc4958d834af3",
    "url": "https://www.youtube.com/shorts/dPXTyL_z5OY",
    "title_original": "同僚に異常と言われた朝の過ごし方•米を炊く日",
@@ -1105,6 +1291,22 @@
    "published": "2026-08-16T18:05:24+00:00",
    "title_ja": "田中みな実のミニマルな生活に言及",
    "summary_ja": "ものを最小限にして暮らす田中みな実の生活スタイルについて、テリー伊藤が言及している話題です。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "4a15f4a996d5fcf1",
+   "url": "https://x.com/zen_habits/status/2089016638431514730",
+   "title_original": "#ZenHabits 🍃",
+   "source": "Zen Habits（X）",
+   "image": "https://pbs.twimg.com/media/HP2tjBDXAAAEt5g.jpg",
+   "media": "x",
+   "region": "海外",
+   "published": "2026-08-16T15:49:13+00:00",
+   "title_ja": "禅の習慣をテーマにしたシンプルなライフスタイル投稿",
+   "summary_ja": "日々の暮らしを整えるための禅の習慣について触れられている短い投稿です。心のあり方やシンプルな生き方についてのヒントが得られます。",
    "category": "心・習慣",
    "axis": "reduce",
    "things": [],
@@ -4562,6 +4764,22 @@
     "服"
    ],
    "importance": 3
+  },
+  {
+   "id": "76202fc631538cea",
+   "url": "https://x.com/joshua_becker/status/2087307690586320907",
+   "title_original": "More photos from the Heartland coming soon. But for now, just a preview and a heartfelt \"Thank you Omaha\" for the largest event of the tour so far. 360+",
+   "source": "Joshua Becker（X）",
+   "image": "https://pbs.twimg.com/media/HPebO9PXUAAqCdQ.jpg",
+   "media": "x",
+   "region": "海外",
+   "published": "2026-08-11T22:38:28+00:00",
+   "title_ja": "ツアー先での大規模なイベントを終えたミニマリストの様子",
+   "summary_ja": "ツアーの途中経過として、大勢が参加したイベントの様子と感謝の気持ちが伝えられています。現地での活動の一コマを切り取った内容です。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
   },
   {
    "id": "8234a81ba2795330",
