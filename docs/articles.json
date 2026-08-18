@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18T15:48:05.386996+09:00",
+ "updated_at": "2026-08-18T21:52:33.869572+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -33,11 +33,31 @@
   },
   {
    "name": "バックパック",
-   "count": 5
+   "count": 6
   },
   {
    "name": "バッグ",
    "count": 5
+  },
+  {
+   "name": "手帳",
+   "count": 4
+  },
+  {
+   "name": "書類",
+   "count": 4
+  },
+  {
+   "name": "本",
+   "count": 4
+  },
+  {
+   "name": "サンダル",
+   "count": 3
+  },
+  {
+   "name": "スニーカー",
+   "count": 3
   },
   {
    "name": "スマホ",
@@ -52,11 +72,7 @@
    "count": 3
   },
   {
-   "name": "書類",
-   "count": 3
-  },
-  {
-   "name": "本",
+   "name": "モバイルバッテリー",
    "count": 3
   },
   {
@@ -92,14 +108,6 @@
    "count": 2
   },
   {
-   "name": "サンダル",
-   "count": 2
-  },
-  {
-   "name": "スニーカー",
-   "count": 2
-  },
-  {
    "name": "スマートフォン",
    "count": 2
   },
@@ -108,15 +116,15 @@
    "count": 2
   },
   {
+   "name": "タオル",
+   "count": 2
+  },
+  {
    "name": "パソコン",
    "count": 2
   },
   {
    "name": "ベッド",
-   "count": 2
-  },
-  {
-   "name": "モバイルバッテリー",
    "count": 2
   },
   {
@@ -140,11 +148,15 @@
    "count": 2
   },
   {
-   "name": "手帳",
+   "name": "日傘",
    "count": 2
   },
   {
-   "name": "日傘",
+   "name": "段ボール",
+   "count": 2
+  },
+  {
+   "name": "炊飯器",
    "count": 2
   },
   {
@@ -190,6 +202,7 @@
   "Mshale",
   "NewsBreak: Local News & Alerts",
   "No Sidebar",
+  "Post and Courier",
   "Psychology Today",
   "RFD-TV",
   "ROOMIE",
@@ -216,6 +229,7 @@
   "au Webポータル",
   "autoevolution",
   "bs-asahi.co.jp",
+  "eltha",
   "facebook.com",
   "graziamagazine.com",
   "livingetc.com",
@@ -229,6 +243,8 @@
   "southernliving.com",
   "t.co",
   "thespruce.com",
+  "trilltrill.jp",
+  "wfxb.com",
   "うにのゆるシンプルな暮らし",
   "ぴーこ｜ゆるっとミニマルな日常",
   "むぎの頑張らない暮らし",
@@ -252,8 +268,341 @@
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 313,
+ "count": 337,
  "items": [
+  {
+   "id": "1d32ae405c9318b9",
+   "url": "https://note.com/hiroe_brujadomus/n/na7360dfcb054",
+   "title_original": "第1話 なぜ、家には物が増えていくのだろう。―私たちは、いつまで自分の物を自分で選べるのだろう",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/302894936/rectangle_large_type_2_a2b5eddab00b9917e86e0152e0fecd28.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-18T12:44:47+00:00",
+   "title_ja": "訪問看護の現場から考える、家の中に物が増えていく理由と整理の大切さ",
+   "summary_ja": "訪問看護の仕事で患者の自宅を訪れる中で、玄関や床、テーブルの上に書類や日用品が積み重なり、どこに何があるか分からない状態を目にした著者の考察。自分で持ち物を選び、管理できるうちに身の回りを整えることの重要性や、なぜ家の中に物が増えてしまうのかという疑問を投げかけている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "書類",
+    "日用品"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "8fb79a41f69a2a39",
+   "url": "https://note.com/omochi_omocho/n/n210d66fe08e4",
+   "title_original": "一人暮らしの非常食選び！ゴミと調理をゼロにする厳選8選",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/304777114/rectangle_large_type_2_e49445d3a883d24121319b5f84c27869.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-18T12:40:16+00:00",
+   "title_ja": "一人暮らしの防災に、調理や水が不要な「非加熱完結」の非常食を選ぶ理由",
+   "summary_ja": "災害時の備えとして、お湯や調理器具を必要としない非常食の選び方を紹介。断水や停電時を想定し、開封してそのまま食べられる「非加熱完結」を基準にすることで、カセットコンロや貴重な保存水を使わずにストレスなく栄養補給ができる、一人暮らしに適した備えを提案している。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "非常食",
+    "カセットコンロ",
+    "アルファ米",
+    "保存水"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "50d5ae77f79cedd3",
+   "url": "https://note.com/omochi_omocho/n/n1093ec4af840",
+   "title_original": "おすすめ充電ガジェット8選！大容量バッテリーをやめた理由",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/304776394/rectangle_large_type_2_7134c9e6e8ea99ce44c74759f1a2bf28.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-18T12:38:14+00:00",
+   "title_ja": "大容量モバイルバッテリーを手放し、充電ギアを最小限に軽量化した話",
+   "summary_ja": "重い大容量モバイルバッテリーや複数のケーブルを持ち歩くのをやめ、カバンを軽量化した著者の工夫。電源が確保しやすい現代において、ACプラグと巻取りケーブルが一体となったミニマルな充電器や、必要最小限の急速充電器を組み合わせることで、荷物の肥大化を防ぐ最適解を提案している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "モバイルバッテリー",
+    "ケーブル",
+    "急速充電器"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "40468fd4427dd04f",
+   "url": "https://note.com/omochi_omocho/n/n437d79a26ff5",
+   "title_original": "【一人暮らしの防災備蓄】狭小1Kの置き場と必須品8選",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/304776047/rectangle_large_type_2_bac16dfa811bce7ec8e6e9d98b906cb9.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-18T12:37:10+00:00",
+   "title_ja": "狭いワンルームでも生活空間を潰さずに防災備蓄を収納する工夫",
+   "summary_ja": "収納スペースが限られた1Kやワンルームの一人暮らしに向けて、防災備蓄の置き場問題を解決する考え方を紹介。ネットの情報を鵜呑みにして大量の食料や水を抱え込み、生活空間を圧迫してしまう失敗を防ぐために、狭い部屋でも無理なく必須の防災グッズを収納するコツを解説している。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "防災リュック",
+    "食料",
+    "水"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4a629abb65e39a9d",
+   "url": "https://note.com/omochi_omocho/n/n1b02c1431129",
+   "title_original": "iPhone秋の買い控え期に効く！今買うべきQi2ギア8選",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/304774537/rectangle_large_type_2_36c37f11faa7deaca78c7aef759ae65b.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-18T12:32:11+00:00",
+   "title_ja": "ケーブルを全廃し、ワイヤレス充電規格「Qi2」周辺機器に統一した話",
+   "summary_ja": "充電環境から有線ケーブルをなくし、マグネット式のワイヤレス充電規格「Qi2」や「MagSafe」対応機器に統一するメリットを紹介。スマホを買い替えても継続して使え、デスクや外出先でのケーブルの抜き差しにかかる手間を省いて作業効率を向上させる、おすすめの充電ギアを提案している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "Qi2対応充電器",
+    "有線ケーブル"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "74dc73182b35ccc8",
+   "url": "https://note.com/spica_ren/n/n56af3d81f413",
+   "title_original": "捨てられない段ボール",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/302912363/rectangle_large_type_2_b3bd2862a711ebe66b6c525a1cf07d1f.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-18T12:30:50+00:00",
+   "title_ja": "実家の押し入れに眠る四半世紀分の手帳と段ボールの話",
+   "summary_ja": "実家の押し入れに保管されたままになっている、1箱の段ボールについての話。中には四半世紀分にわたる過去の手帳が、毎年専用の保管用バインダーに綴じられた状態で収められている。引っ越しを機に実家へ送ったまま、手放せずに残っている思い出の品の扱いを考える。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "手帳",
+    "段ボール",
+    "バインダー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "bd494e8624a1d095",
+   "url": "https://www.lifehacker.jp/article/2608-how-to-get-back-on-track-after-an-expensive-vacation",
+   "title_original": "旅行での“散財ダメージ”を速やかにリセット！無理なく家計を立て直すマネーハック",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/17/c24837fe-4db0-4e95-a484-c4b6bbe9db60/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-18T12:00:00+00:00",
+   "title_ja": "旅行後の散財から無理なく日常の家計を取り戻す方法",
+   "summary_ja": "旅行による出費や散財の後悔をリセットし、日常のマネープランを取り戻すためのアプローチ。無理な節約を避けて支出の現状を把握し、現金管理や優先的な返済を行うことで、落ち着いて家計を立て直す手順を解説している。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "ca6dc7f15513dec5",
+   "url": "https://news.livedoor.com/topics/detail/32099207",
+   "title_original": "【実家の片付け】集めすぎたタオルが家中に！あつこが挑む「全部集め」で見直す断捨離の第一歩",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-18T12:00:00+00:00",
+   "title_ja": "実家にあふれるタオルをすべて集めて断捨離に挑む話",
+   "summary_ja": "実家の片付けにおいて、家中にあふれるほど集めすぎてしまったタオルを一度すべて集めることで、断捨離の第一歩を踏み出す様子を描く。持ち物の全体量を把握することから始める片付けのプロセスを紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "タオル"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "9751935967982336",
+   "url": "https://news.livedoor.com/topics/detail/32099139",
+   "title_original": "ライフさん、憧れのスッキリ暮らしへ！後悔しない断捨離の極意",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-18T11:48:00+00:00",
+   "title_ja": "後悔しない断捨離でスッキリとした暮らしを目指す話",
+   "summary_ja": "憧れのスッキリとした暮らしを実現するために、後悔しない断捨離の極意を紹介する記事。物を手放す際の見極め方や、住まいを整えるための効果的な片付けの考え方について解説している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "d324dc8db52056d6",
+   "url": "https://www.roomie.jp/2026/08/1859473",
+   "title_original": "インナーの吸汗や速乾、防臭機能っていつまで効果が続くの？インナーの専門家グンゼに「機能の寿命」について聞いてみた",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/IMG_8295.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-18T11:00:46+00:00",
+   "title_ja": "高機能インナーの寿命や手放すタイミングを専門家に聞いた話",
+   "summary_ja": "見た目では劣化が分かりにくい高機能インナーについて、専門家であるグンゼに機能の寿命を聞いた記事。吸汗や速乾、防臭などの目に見えない機能がいつまで続くのかをリサーチし、道具を最高の状態で使い切って手放すためのサイクルを紐解く。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "インナー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b44bac1fe05adc0d",
+   "url": "https://www.youtube.com/watch?v=a1o0vdBZmIE",
+   "title_original": "【断捨離】意外と出てくる！収納を見直して、ついに炊飯器ともさよならした日/捨て活/一人暮らし",
+   "source": "レイの小さな暮らし",
+   "image": "https://i2.ytimg.com/vi/a1o0vdBZmIE/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-18T11:00:29+00:00",
+   "title_ja": "一人暮らしの女性が収納を見直して炊飯器を手放した話",
+   "summary_ja": "25歳で一人暮らしをしている投稿者が、家の中の収納を見直すことで不要なものを断捨離していく動画。意外と出てくる不要なものを整理し、最終的に炊飯器を手放す様子を紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "炊飯器"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c38385a0b9c72c06",
+   "url": "https://www.youtube.com/shorts/1v3UtT6v64o",
+   "title_original": "使わないモノを留め置く理由 #断捨離 #やましたひでこ #片づけ",
+   "source": "やましたひでこ断捨離",
+   "image": "https://i2.ytimg.com/vi/1v3UtT6v64o/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-18T11:00:12+00:00",
+   "title_ja": "使わない物を家に残してしまう理由を解説する動画",
+   "summary_ja": "断捨離の提唱者であるやましたひでこ氏が、使わない物をなぜ部屋に留め置いてしまうのか、その心理や理由について解説する動画。片づけや断捨離を進めたい人に向けて、物を手放すための考え方を提示している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "ff6e9cb1ac6f33c4",
+   "url": "https://note.com/magic_broom8864/n/n20b8ac36bfd6",
+   "title_original": "【読書】「持たない暮らし」と文房具好きを両立したい私",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/304147773/rectangle_large_type_2_27cca2a6c2e3e40d46cae1e6d4aee316.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-18T10:59:27+00:00",
+   "title_ja": "持たない暮らしと文房具へのこだわりを両立させたい人の話",
+   "summary_ja": "手帳シーズンを前に、持たない暮らしへの憧れと文房具への愛着の間で揺れ動く筆者の読書記録。自身の原点に立ち返るために、本棚から持たない暮らしに関する本を取り出して読んでいる様子を綴っている。",
+   "category": "心・習慣",
+   "axis": "own",
+   "things": [
+    "手帳",
+    "本"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "84652bd58477cd2d",
+   "url": "https://www.roomie.jp/2026/08/1863504",
+   "title_original": "ソロキャンプ多めの私。BougeRVの「折りたたみソーラーパネル」を迎えて、大正解だったので語ります",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/0D5A1318-2.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-18T10:30:47+00:00",
+   "title_ja": "ソロキャンプで折りたたみソーラーパネルを導入した話",
+   "summary_ja": "災害時や充電用に、重さを考慮して100Wの折りたたみ式ソーラーパネルを選んで導入した体験談です。ポータブル電源の充電に活用しています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ソーラーパネル",
+    "ポータブル電源"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "6aaa3238a50c9300",
+   "url": "https://www.roomie.jp/2026/08/1862808",
+   "title_original": "はじめて使った「砥石」で包丁が異次元の切れ味に！「貝印の初心者向け砥石」と「ガイド」で簡単にできた",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/kaijirushitoisgi0818.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-18T09:00:59+00:00",
+   "title_ja": "包丁のシャープナーを卒業して砥石を使い始めた話",
+   "summary_ja": "包丁の寿命を考慮して簡易的なシャープナーを卒業し、初心者向けの砥石に挑戦した体験談です。道具を見直すことで包丁の切れ味が蘇りました。",
+   "category": "キッチン・食",
+   "axis": "reduce",
+   "things": [
+    "砥石",
+    "包丁",
+    "シャープナー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "70ae9dfab2b6c622",
+   "url": "https://monomax.jp/archives/356030",
+   "title_original": "【2990円でこの完成度は凄い】無印良品「撥水2WAYバッグ」がハイレベル！“収納力・サイズ・持ちやすさ”三拍子揃った傑作をマニア歴25年ライターが徹底レビュー",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2027/08/0DSC02694-1-scaled.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-18T09:00:54+00:00",
+   "title_ja": "無印良品の撥水2WAYバッグの使い心地",
+   "summary_ja": "収納力やサイズ感、持ちやすさに優れた無印良品の撥水バッグを、マニアがレビューしている記事です。日常使いしやすいアイテムとして紹介されています。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "撥水2WAYバッグ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "0a0cf5c4059df522",
+   "url": "https://trilltrill.jp/articles/4895149",
+   "title_original": "「非常におすすめ」1,000万円貯めた女性が明かす、実際に“やめて良かった家事”に「時短にもつながった」「手間を減らせる」",
+   "source": "trilltrill.jp",
+   "image": "https://media.trilltrill.jp/articles/4895149/cover-image.72ff7a67751338c6582b431cd0a40157?w=1200",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-18T08:35:00+00:00",
+   "title_ja": "1000万円貯めた女性が実践するやめて良かった家事",
+   "summary_ja": "1000万円を貯蓄した女性が、日々の家事の中でやめて良かったと感じる内容を紹介しています。家事を減らすことで手間や時間を省き、効率的な暮らしを送るための工夫が語られています。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "c17fb046330fa765",
+   "url": "https://note.com/yusuke_muji/n/n610f9764f5d6",
+   "title_original": "これを待っていた無印良品の新しいクロッグ",
+   "source": "note #持たない暮らし",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/26678a1a5122f80a085d2732996bcaf6f1888a3c.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-18T07:34:40+00:00",
+   "title_ja": "無印良品の秋物クロッグを気に入って2足買った話",
+   "summary_ja": "無印良品で見つけた秋向けの起毛素材クロッグを紹介しています。かかとを動かせるベルト付きで、サンダルのように履ける手軽さと歩きやすさが気に入り、あまりの良さに2足買い揃えたという使い心地を語っています。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "クロッグ",
+    "スニーカー",
+    "サンダル"
+   ],
+   "importance": 3
+  },
   {
    "id": "5887b25670d56fd9",
    "url": "https://note.com/haiagaru3_life/n/nab91f36e951e",
@@ -479,6 +828,70 @@
    "importance": 3
   },
   {
+   "id": "2dbacf4cc281312c",
+   "url": "https://minimalist-fudeko.com/low-stimulation-living",
+   "title_original": "家にいても疲れる人へ。音・光・匂いを減らす低刺激生活のすすめ",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/07/relaxing.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-18T00:10:11+00:00",
+   "title_ja": "家で疲れが取れない人向けの音・光・匂いを減らす生活",
+   "summary_ja": "家の中にいても疲れが抜けない原因を、物だけでなく音や光、匂いといった過剰な刺激の多さに求めます。生活環境の刺激を減らすことで、自宅でしっかりと心身を休めてほっとできる空間を作るためのヒントを伝えています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "128ea650b6b55ade",
+   "url": "https://www.wfxb.com/2026/08/17/what-is-the-doom-diamond-decluttering-method/organize",
+   "title_original": "organize",
+   "source": "wfxb.com",
+   "image": "https://www.wfxb.com/2026/08/17/what-is-the-doom-diamond-decluttering-method/organize",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-18T00:01:59+00:00",
+   "title_ja": "自宅の片づけや整理整頓に関する話題",
+   "summary_ja": "自宅のスペースをすっきりと整理整頓するための方法について取り上げています。日々の暮らしの中で散らかりがちな場所を見直し、快適な空間を作るためのヒントが語られています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "76038b5b05b2a889",
+   "url": "https://bemorewithless.com/cluttered-home/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
+   "title_original": "5 Relatable Things Keeping Your Home Cluttered",
+   "source": "Be More with Less",
+   "image": "https://bemorewithless.com/wp-content/uploads/2026/08/cluttered-image.png",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-08-17T23:47:43+00:00",
+   "title_ja": "家の中に物が溢れてしまう5つの理由と対策",
+   "summary_ja": "部屋が片づかない原因となっている身近な要因を取り上げ、すっきりとした空間をより簡単につくるための考え方を紹介しています。散らかりを生む原因を知ることで手放しやすくなります。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "dc8352bccdf5c981",
+   "url": "https://www.postandcourier.com/moultrie-news/opinion/declutter-the-brain/article_138a9f15-dc46-48f3-8d48-85a99d5d91ca.html",
+   "title_original": "Declutter the brain",
+   "source": "Post and Courier",
+   "image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/8/22/822c6a56-c38a-461e-9f9a-ab38b02062a3/6a821c16e34ce.image.jpg?crop=299%2C300%2C0%2C50&resize=200%2C201&order=crop%2Cresize",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-17T22:00:00+00:00",
+   "title_ja": "頭の中の思考を整理してすっきり暮らす方法",
+   "summary_ja": "物理的な空間だけでなく、思考や情報といった脳内を整理することの重要性について触れています。日々の暮らしの中で溜まった余計な情報を手放し、心を軽くするための考え方です。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "9748d332887544a3",
    "url": "https://www.realsimple.com/things-pro-organizers-never-keep-in-their-homes-12024141",
    "title_original": "7 Things Pro Organizers Never Keep in Their Own Homes",
@@ -682,6 +1095,22 @@
    "importance": 3
   },
   {
+   "id": "1da3bc90e3de0d88",
+   "url": "https://beauty.oricon.co.jp/column/39243",
+   "title_original": "「私がいじめてるみたいじゃん…」夫の溜め込み癖の言い訳に唖然…断捨離妻の反撃はどうなる!?",
+   "source": "eltha",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-17T13:02:39+00:00",
+   "title_ja": "夫の溜め込み癖に対する断捨離妻の奮闘",
+   "summary_ja": "物を捨てられない夫の言い訳に困惑しながらも、家の中の物を減らそうと向き合う妻の様子を描いています。家庭内でモノの適正量をめぐる価値観の違いと、その解決に向けた葛藤が語られています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "d4f912e44eb3342e",
    "url": "https://www.roomie.jp/2026/08/1864696",
    "title_original": "無印良品の「汗拭きシート」は、ちょうどいいスースー感。ベタつかず・さっぱり気持ちいいんだ～",
@@ -714,6 +1143,24 @@
    "axis": "own",
    "things": [
     "Androidスマホ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "2097005feceb8fe2",
+   "url": "https://mshale.com/ab974149/6e6fdf8ch--wPiHF3MY",
+   "title_original": "The Best Travel Backpacks For 2026 (Tested Head To Head) Alexander Zverev (FRhxLgDxTU)",
+   "source": "Mshale",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-17T12:57:24+00:00",
+   "title_ja": "旅の荷物を最小限にするバックパックの比較",
+   "summary_ja": "旅行の際に持ち運ぶ荷物をコンパクトにするための、トラベル用バックパックの比較検証を行っています。移動を身軽にするための道具選びのポイントを知ることができます。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "バックパック"
    ],
    "importance": 3
   },
