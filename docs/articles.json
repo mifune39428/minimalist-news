@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-19T03:42:08.355763+09:00",
+ "updated_at": "2026-08-19T10:23:32.754114+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -36,11 +36,11 @@
    "count": 6
   },
   {
-   "name": "バッグ",
-   "count": 5
+   "name": "本",
+   "count": 6
   },
   {
-   "name": "本",
+   "name": "バッグ",
    "count": 5
   },
   {
@@ -189,6 +189,7 @@
   "Bilyonaryo.com",
   "CBC",
   "Country Living Magazine",
+  "En Pareja",
   "FinanceBuzz",
   "Georgia Asian Times",
   "Hindustan Times",
@@ -234,6 +235,7 @@
   "graziamagazine.com",
   "livingetc.com",
   "mshale.com",
+  "newsable.asianetnews.com",
   "nine.com.au",
   "note #ミニマリスト",
   "note #少ない服で暮らす",
@@ -268,8 +270,250 @@
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 348,
+ "count": 364,
  "items": [
+  {
+   "id": "8a9c689af0c049a2",
+   "url": "https://note.com/hayamixyz/n/nd6f948f918d4",
+   "title_original": "捨てる予定の収納ケース。",
+   "source": "note #断捨離",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/a421937fdd7ff052b69789ecd7e48dcd526c6520.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T01:05:30+00:00",
+   "title_ja": "中身を処分して空になった収納ケースやスチールラックを手放す話",
+   "summary_ja": "コミックスや雑誌を処分したことで空のまま放置されていた蓋付きケースや押し入れのスチールラックを手放すことにした人の話。拭いて再利用する手間をかけずに処分を決めたことで、押し入れがすっきり空間になることを楽しみにしている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "蓋付きケース",
+    "スチールラック",
+    "コミックス",
+    "雑誌"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "8bff0704d8ae1d1a",
+   "url": "https://note.com/ucharin_kurashi/n/n6b3c76e68516",
+   "title_original": "バッグ好きの私が、“増やすため”じゃなく“長く使うため”に黒トートを選んだ話。",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/304838594/rectangle_large_type_2_86956221bb925a90db1c94ce18177ffc.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T01:02:07+00:00",
+   "title_ja": "バッグ好きが安易に増やさず長く愛用するために黒トートを選んだ話",
+   "summary_ja": "プチプラのバッグを見つけるとつい理由をつけて買ってしまうバッグ好きの筆者が、コレクションを増やすのではなく長く大切に使い続けるために「黒のトートバッグ」を選んだ経緯や買い物の意識の変化を綴っている。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "黒トート",
+    "ショルダーバッグ",
+    "ミニトート"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "bad7513bb4c85154",
+   "url": "https://note.com/lifecoach_hidemi/n/n32876cfa96f3",
+   "title_original": "断捨離。でもいつか、、、は、やってくる。",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/304901533/rectangle_large_type_2_73eef3629bfacbdf34404a612dd66a63.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T00:54:58+00:00",
+   "title_ja": "「いつか使うかも」と溜め込んだ手芸用品に向き合う断捨離の話",
+   "summary_ja": "「いつか使うかもしれない」と考えて長年家の中にしまっていた手芸用品と向き合い、断捨離を試みる人の体験談。昔から好きで捨てづらかった思い出の品を手放す際の中途半端な気持ちや葛藤について述べている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "手芸用品"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "441782820035de14",
+   "url": "https://note.com/unique_plover704/n/n1f623a82bc73",
+   "title_original": "1000個捨て：8／18",
+   "source": "note #断捨離",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/177c2c22c531bbd5a806bb04e40abdc3297a9c82.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T00:24:44+00:00",
+   "title_ja": "1000個の不用品処分を目指して使い終えたチケットを手放した人の話",
+   "summary_ja": "1000個のモノを手放すことを目標に片付けを進める中で、保管したままになっていた使い終わったチケットを処分した記録。何気なく取っておいてしまうような細かな不用品を、一つひとつ見直して手放していく過程が綴られている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "チケット"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "92c754663c2b2df6",
+   "url": "https://minimalist-fudeko.com/no-need-to-declutter-everything",
+   "title_original": "片づけが途中で止まるのは全部捨てようとするから",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/08/putting-clothes-in-the-box.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T00:10:30+00:00",
+   "title_ja": "完璧に全てを捨てようとすることが片づけを挫折させる原因だと語る記事",
+   "summary_ja": "部屋をきれいにしたいのに片づけが始められなかったり途中で止まったりするのは、一度にすべてを完璧に捨てようと考えすぎていることが原因だと指摘する。大切なものまで手放す必要はなく、無理のない範囲で進める重要性を伝えている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "3d43048123405255",
+   "url": "https://note.com/fujiya_xyz/n/ne8ef2ca06213",
+   "title_original": "選択肢を減らすと心が整う。「決断疲れ」をなくす暮らしのミニマリズム",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/304892189/rectangle_large_type_2_e489cd3f573780429150c85d335910da.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T00:03:44+00:00",
+   "title_ja": "日々の選択肢を減らすことで決断疲れを防ぎ心を整えるミニマリズムの考え方",
+   "summary_ja": "仕事終わりの食事選びなどに迷って時間を浪費したり、疲労から不健康な選択をして後悔したりするのを防ぐ方法を提案。暮らしの中の不要な選択肢を減らすミニマリズムを取り入れることで、日々の「決断疲れ」をなくし、心を整える効果を解説する。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "60499960ad565e68",
+   "url": "https://note.com/yusuke_muji/n/n1664aaff1e1d",
+   "title_original": "自分の写真をアイコンにしてみた",
+   "source": "note #持たない暮らし",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/8b4dc8a86bcdf9534746b9190f835c095eaad01f.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-18T23:44:58+00:00",
+   "title_ja": "他人の目を気にせずSNSのアイコンを自分の写真に変更した人の話",
+   "summary_ja": "SNSのユーザー名を本名に変更したことを機に、アイコンも店舗で撮影した自身の写真に変えた体験談。他人の目を気にしすぎて自分を見失うのを防ぎ、名前も顔も出した等身大の自分として日々を記録していく、シンプルで心地よい距離感の暮らしを綴る。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "bedc81cdc95ed988",
+   "url": "https://note.com/nifty_okapi7811/n/n95eb017f93db",
+   "title_original": "ちゃんと3日坊主",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/img/1787094343-v9VMQA6kczfNBhZ7P2u1FRtw.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-18T23:30:25+00:00",
+   "title_ja": "片付けや捨てるのが苦手な人の気持ちを楽にする発信",
+   "summary_ja": "少ない物で生きるライフスタイルを発信し、片付けや物を捨てるのが苦手な人に向けて、気持ちが少しでも楽になるような考え方を伝えている人の話。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "b78333bc445e239a",
+   "url": "https://note.com/atom_naotaka/n/n3daea1e33a9b",
+   "title_original": "比べなくても",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/304580516/rectangle_large_type_2_9cc2b7548faf1a405d22e35b80d76de4.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-18T23:07:08+00:00",
+   "title_ja": "他人と自分を比べないことで心を軽くする考え方",
+   "summary_ja": "他人の良いところと自分を比べず、自分には自分だけの良さがあるという視点を持つことで、心を穏やかに保ちながら暮らすための考え方を綴った文章。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "edd22e149f97062a",
+   "url": "https://www.roomie.jp/2026/08/1859911",
+   "title_original": "無印良品のポーチで「読書セット」をつくったら大正解！本の楽しみが広がって、持ち運びの悩みも解決した",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/IMG_8417-1.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-18T23:00:55+00:00",
+   "title_ja": "無印良品のポーチを活用した読書セットの持ち歩き",
+   "summary_ja": "無印良品のポリエステルダブルファスナーケースをブックポーチとして使い、本を持ち歩く際の汚れやスレの悩みを解決した工夫を紹介しています。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "無印良品のポーチ",
+    "本"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e9c36d794620180e",
+   "url": "https://note.com/yoyochifu/n/n9f6f8d579bd2",
+   "title_original": "シンプルライフを続けると何が起きる？他人軸を手放して「自分だけの十分」に出会う",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/295137693/rectangle_large_type_2_48ea0d52c6681a4d33d89a41acdc1909.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-18T22:53:10+00:00",
+   "title_ja": "シンプルライフを続けて他人軸を手放した人の話",
+   "summary_ja": "多くのモノや情報に囲まれた生活から、本当に大切なものだけを手元に残すシンプルライフへ移行し、内なる豊かさを手に入れた体験をつづっています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "e478c46b325767de",
+   "url": "https://www.roomie.jp/2026/08/1866141",
+   "title_original": "クシは持たない派だったけど、「リファのコーム」は別。ペタッとした前髪をふわっと復活させてくれた",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/a2fdcd9ae322f3e33d31ae4b5cc2013a.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-18T22:00:30+00:00",
+   "title_ja": "崩れた前髪をリセットする持ち歩き用のリファのコーム",
+   "summary_ja": "ジメジメした季節の髪型の崩れや前髪のペタッとした束感に悩んでいた筆者が、持ち歩き用に取り入れたリファのコーム。一瞬で髪の乱れをリセットできるようになり、愛用している道具の一つとなった。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "コーム"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "2d7dcfae0629c4f9",
+   "url": "https://www.youtube.com/shorts/PbcfUqAl3g0",
+   "title_original": "シングルマザー毎日の習慣•我が家のお風呂掃除",
+   "source": "小さな暮らしノート",
+   "image": "https://i1.ytimg.com/vi/PbcfUqAl3g0/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-18T21:36:38+00:00",
+   "title_ja": "シングルマザーが実践するお風呂掃除の毎日の習慣",
+   "summary_ja": "汚れてから一気に掃除をするのではなく、毎日サッとリセットする負担の少ないお風呂掃除のルーティンを紹介。細やかな日々の習慣によって、清潔な空間をラクに保つ工夫をしている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "9faad94449607ec2",
+   "url": "https://www.realsimple.com/is-your-storage-strategy-quietly-making-your-home-more-stressful-12035815",
+   "title_original": "5 Storage Mistakes That Can Make Your Home Feel More Stressful, According to Professional Organizers",
+   "source": "Real Simple",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-18T20:30:00+00:00",
+   "title_ja": "片付けのプロが指摘する家がストレスフルになる収納のミス",
+   "summary_ja": "プロの整理収納アドバイザーが解説する、自宅をかえってストレスフルにしてしまう5つの収納の間違いについて紹介している。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "77af640f22b79b9f",
    "url": "https://note.com/makototea/n/n928920bdf41c",
@@ -623,6 +867,22 @@
    "importance": 3
   },
   {
+   "id": "97961cd228105478",
+   "url": "https://www.enpareja.com/en/5-feng-shui-and-decluttering-tips-to-create-more-space-for-love-t202608170024.html",
+   "title_original": "5 Feng Shui and Decluttering Tips to Create More Space for Love",
+   "source": "En Pareja",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-18T11:27:00+00:00",
+   "title_ja": "恋愛を引き寄せる風水と片づけのコツ",
+   "summary_ja": "風水の考え方を取り入れながら、部屋のスペースを空けて心地よい環境を作るための片づけと整理のヒントを紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
    "id": "d324dc8db52056d6",
    "url": "https://www.roomie.jp/2026/08/1859473",
    "title_original": "インナーの吸汗や速乾、防臭機能っていつまで効果が続くの？インナーの専門家グンゼに「機能の寿命」について聞いてみた",
@@ -692,6 +952,22 @@
     "本"
    ],
    "importance": 2
+  },
+  {
+   "id": "91f094273d94f651",
+   "url": "https://newsable.asianetnews.com/gallery/entertainment/inside-photos-of-awarapan-2-actress-disha-patani-6-crore-mumbai-home-sea-views-minimalist-interiors-ggzonpq",
+   "title_original": "Inside PHOTOS of Awarapan 2 Actress Disha Patani's 6- Crore Mumbai Home: Sea Views, Minimalist Interiors",
+   "source": "newsable.asianetnews.com",
+   "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01m0a7b3x4ks2g5nyqkbkgqq2s,imgname-disha-patani--1--1787049643940.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-18T10:44:19+00:00",
+   "title_ja": "海が見えるミニマルなインテリアの自宅写真",
+   "summary_ja": "ミニマリストな内装でまとめられた俳優の自宅の様子や、海を望む開放的な室内のインテリアデザインを紹介している。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [],
+   "importance": 3
   },
   {
    "id": "84652bd58477cd2d",
