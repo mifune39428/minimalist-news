@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-19T10:23:32.754114+09:00",
+ "updated_at": "2026-08-19T15:49:31.439771+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,7 +29,7 @@
  "things": [
   {
    "name": "服",
-   "count": 12
+   "count": 13
   },
   {
    "name": "バックパック",
@@ -42,6 +42,10 @@
   {
    "name": "バッグ",
    "count": 5
+  },
+  {
+   "name": "スマホ",
+   "count": 4
   },
   {
    "name": "手帳",
@@ -60,10 +64,6 @@
    "count": 3
   },
   {
-   "name": "スマホ",
-   "count": 3
-  },
-  {
    "name": "ソファ",
    "count": 3
   },
@@ -76,7 +76,19 @@
    "count": 3
   },
   {
+   "name": "日傘",
+   "count": 3
+  },
+  {
    "name": "財布",
+   "count": 3
+  },
+  {
+   "name": "食器",
+   "count": 3
+  },
+  {
+   "name": "食器棚",
    "count": 3
   },
   {
@@ -120,6 +132,10 @@
    "count": 2
   },
   {
+   "name": "テレビ",
+   "count": 2
+  },
+  {
    "name": "パソコン",
    "count": 2
   },
@@ -148,10 +164,6 @@
    "count": 2
   },
   {
-   "name": "日傘",
-   "count": 2
-  },
-  {
    "name": "段ボール",
    "count": 2
   },
@@ -165,14 +177,6 @@
   },
   {
    "name": "鍵",
-   "count": 2
-  },
-  {
-   "name": "食器",
-   "count": 2
-  },
-  {
-   "name": "食器棚",
    "count": 2
   }
  ],
@@ -188,6 +192,7 @@
   "Better Homes & Gardens",
   "Bilyonaryo.com",
   "CBC",
+  "Carryology",
   "Country Living Magazine",
   "En Pareja",
   "FinanceBuzz",
@@ -270,8 +275,154 @@
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 364,
+ "count": 375,
  "items": [
+  {
+   "id": "e443cd15cc3a1f85",
+   "url": "https://note.com/carrie_lifenote/n/ndec290b78050",
+   "title_original": "［くらしハック］食器棚、リセットしました｜サヨナラした物と増えた物",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/304983123/rectangle_large_type_2_c9c50a899db370392637ac378afc0261.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T06:47:08+00:00",
+   "title_ja": "整理収納アドバイザーによる食器棚の見直し記録",
+   "summary_ja": "FP兼整理収納アドバイザーが、手順に沿って食器棚の整理を行った記録。手放した物と新しく増えた物を整理し、暮らしに合わせたキッチンの収納環境を整えた過程を紹介している。",
+   "category": "キッチン・食",
+   "axis": "reduce",
+   "things": [
+    "食器棚",
+    "食器"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "951200e15df02c29",
+   "url": "https://www.lifehacker.jp/article/amazon-timesale-2026-0819-1",
+   "title_original": "「寝ながらタブレット」をラクにする。エレコムのアームスタンドが重宝します",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/19/056082a7-99d6-4da0-bb6a-1acb62dc2b69/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T06:00:00+00:00",
+   "title_ja": "寝ながらタブレットを快適にするアームスタンド",
+   "summary_ja": "ベッドで動画視聴や読書をする際の疲れを軽減するため、エレコムのZアーム型タブレットスタンドを活用している事例。手で持つ負担を減らし、リラックスした環境を作っている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "タブレットスタンド"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "27bca44de44845d7",
+   "url": "https://note.com/mobius8/n/ne7b8070aa339",
+   "title_original": "断捨離に思う。モノだけじゃなくて言葉の大洪水",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/304974150/rectangle_large_type_2_53f8030bde93e32cf2f4699b7f2c08e5.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T05:54:01+00:00",
+   "title_ja": "断捨離で処分した家電や支柱と、行政とのやり取り",
+   "summary_ja": "テレビ、DVDプレイヤー、物干しの鉄の支柱を処分するため、役所に連絡した際の体験談。分別や説明に苦労したエピソードが綴られている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "テレビ",
+    "DVDプレイヤー",
+    "物干しの鉄の支柱"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "eb79a5032387d6d5",
+   "url": "https://note.com/brave_coyote359/n/nd7d2d7a48a3c",
+   "title_original": "テレビを捨てて8年。自由が増えた。",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/304956253/rectangle_large_type_2_b951d18a19c078ae2d0b3264460812c6.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T04:33:33+00:00",
+   "title_ja": "テレビを捨ててレイアウトの自由度が増した話",
+   "summary_ja": "場所を取りアンテナの位置に縛られていたテレビを8年前に手放したところ、部屋のレイアウトを自由に決められるようになり自由が増えたという体験談。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "テレビ"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "e78bd0a125d8dd57",
+   "url": "https://www.roomie.jp/2026/08/1862579",
+   "title_original": "日傘いらずの「シェードチェア」でアウトドアが身軽に！ サイドからの西日までカットしてくれるとは…",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/sub1-2.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T04:00:56+00:00",
+   "title_ja": "日差しを防ぐアウトドア用のシェードチェア",
+   "summary_ja": "アウトドアでの読書時に悩む日差し対策として、日傘いらずで西日もカットできるシェードチェアを導入して身軽に過ごしているという紹介。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "シェードチェア",
+    "日傘"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b7854774da4e19a0",
+   "url": "https://note.com/kanegon_soccer/n/n6414849992e9",
+   "title_original": "#183_「何者かになるか」より、「どんな時間を生きたいか」",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/304943900/rectangle_large_type_2_c7d73862e7a18ba01ce586ec47e8b9e6.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T03:58:12+00:00",
+   "title_ja": "周囲の期待を手放し自分の時間を生きる考え方",
+   "summary_ja": "40代を迎えて過去を振り返った際、これまでの選択が周囲の期待や持っているカードに縛られていたことに気づく。他人の評価ではなく自分がどんな時間を過ごしたいかで選ぶ大切さを綴っている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "54d3fbd11e6c5f9f",
+   "url": "https://note.com/ktomo_dev/n/n0d1439692f5d",
+   "title_original": "ミニマリストになった僕が服を800→13着まで減らした話",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/304943953/rectangle_large_type_2_c27be0e724ebdb3c7c589ba154826795.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T03:39:22+00:00",
+   "title_ja": "服を800着から13着まで減らした体験談",
+   "summary_ja": "もともと800着もの服を所有していた筆者が、自身のライフスタイルを見直して13着まで大幅に減らした過程を振り返る。大量の衣類を手放したミニマリストの実体験が語られている。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "74da28da243ac349",
+   "url": "https://note.com/sabasan_/n/neb053446169a",
+   "title_original": "『他人の人生』を見すぎるのをやめた話。",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/302795115/rectangle_large_type_2_3b4fd6fe662aa421d284cf53e5da00f0.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T03:33:19+00:00",
+   "title_ja": "SNSの情報を減らして心の平穏を取り戻した話",
+   "summary_ja": "他人の輝く日常を見て焦りを感じていた筆者が、SNSや情報を見る時間を断つ「情報の引き算」を実践。他人の人生と距離を置くことで、静かで自分らしい時間を取り戻した体験談。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "スマホ"
+   ],
+   "importance": 4
+  },
   {
    "id": "8a9c689af0c049a2",
    "url": "https://note.com/hayamixyz/n/nd6f948f918d4",
@@ -605,6 +756,22 @@
    "importance": 3
   },
   {
+   "id": "4881e26ec915b678",
+   "url": "https://note.com/morinotosyokan/n/nc1e9a4acf198",
+   "title_original": "物を持たずに、人のめぐみに頼る。そんな私はメグマレスト",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/304801562/rectangle_large_type_2_45d93c091346421f453a68ec5a88abd8.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-18T14:00:50+00:00",
+   "title_ja": "ミニマリストのタイプについて考えた話",
+   "summary_ja": "ミニマリストを2種類の人間に分けて独自の視点を語っているノートの記事。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
    "id": "da8294e7c1610db7",
    "url": "https://www.lifehacker.jp/article/2608-costorypo-heipiw28s-start-1591703559",
    "title_original": "奇跡のカーボンを採用した特許取得のトラベル三脚。これひとつで3役こなす多機能仕様です",
@@ -623,6 +790,22 @@
     "サブ三脚",
     "ボールヘッド"
    ],
+   "importance": 3
+  },
+  {
+   "id": "5cf92b9f6151341f",
+   "url": "https://x.com/zen_habits/status/2089711691172831399",
+   "title_original": "What would your day feel like if you gave your full attention to one thing at a time? In this video, I explore a simple way of working and living that begins by clearing away distractions and trusting the choices you make each day. ▶️ https://youtu.be/c8u19F0BJlE",
+   "source": "Zen Habits（X）",
+   "image": "https://pbs.twimg.com/card_img/2089711695442702336/nyP4S33B?format=jpg&name=800x320_1",
+   "media": "x",
+   "region": "海外",
+   "published": "2026-08-18T13:51:06+00:00",
+   "title_ja": "一つのことに集中して暮らす方法についての動画",
+   "summary_ja": "目の前のことに全注意を払い、雑音を片付けてシンプルに生きる方法を紹介している投稿。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -1832,6 +2015,24 @@
    "axis": "reduce",
    "things": [],
    "importance": 2
+  },
+  {
+   "id": "89158fb7108603ed",
+   "url": "https://www.carryology.com/insights/carry-101/history-of-the-helmet-bag",
+   "title_original": "The Untold Story of the Helmet Bag",
+   "source": "Carryology",
+   "image": "https://www.google-analytics.com/collect?v=1&tid=UA-11635208-3&cid=666&t=pageview&dh=carryology.com&dp=/insights/carry-101/history-of-the-helmet-bag/&dt=The%20Untold%20Story%20of%20the%20Helmet%20Bag",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-08-17T09:42:31+00:00",
+   "title_ja": "長年メンズウェアで愛されてきたヘルメットバッグの歴史",
+   "summary_ja": "ミリタリー由来でありながら長年メンズファッションの定番として愛されてきた、ヘルメットバッグの知られざる歴史と魅力を紐解く記事。愛用のバッグ選びの参考になる。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "ヘルメットバッグ"
+   ],
+   "importance": 3
   },
   {
    "id": "b0b81f5e81432288",
