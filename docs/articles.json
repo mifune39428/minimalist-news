@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-19T21:53:03.422868+09:00",
+ "updated_at": "2026-08-20T03:39:24.361027+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -108,6 +108,14 @@
    "count": 2
   },
   {
+   "name": "TSUBANE CASE",
+   "count": 2
+  },
+  {
+   "name": "USB-Cケーブル",
+   "count": 2
+  },
+  {
    "name": "おもちゃ",
    "count": 2
   },
@@ -121,6 +129,10 @@
   },
   {
    "name": "クローゼット",
+   "count": 2
+  },
+  {
+   "name": "スマートウォッチ",
    "count": 2
   },
   {
@@ -152,6 +164,10 @@
    "count": 2
   },
   {
+   "name": "充電器",
+   "count": 2
+  },
+  {
    "name": "写真",
    "count": 2
   },
@@ -160,27 +176,15 @@
    "count": 2
   },
   {
+   "name": "名刺入れ",
+   "count": 2
+  },
+  {
    "name": "器",
    "count": 2
   },
   {
    "name": "封筒",
-   "count": 2
-  },
-  {
-   "name": "段ボール",
-   "count": 2
-  },
-  {
-   "name": "炊飯器",
-   "count": 2
-  },
-  {
-   "name": "紙袋",
-   "count": 2
-  },
-  {
-   "name": "鍵",
    "count": 2
   }
  ],
@@ -244,7 +248,6 @@
   "exhibitionnews.uk",
   "facebook.com",
   "graziamagazine.com",
-  "livingetc.com",
   "mshale.com",
   "newsable.asianetnews.com",
   "nine.com.au",
@@ -269,7 +272,6 @@
   "ミニマリスト Nozomi",
   "ミニマリストK",
   "ミニマリストsin",
-  "ミニマリストじゅん",
   "ライフハッカー・ジャパン",
   "ライブドアニュース",
   "レイの小さな暮らし",
@@ -281,8 +283,251 @@
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 395,
+ "count": 400,
  "items": [
+  {
+   "id": "275fe29d2d6656ee",
+   "url": "https://note.com/apt_hornet4092/n/n1ce198a6b225",
+   "title_original": "断捨離のストーリー",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/303937780/rectangle_large_type_2_4d1bca41ae40a096f9bb43866ef4a252.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T18:38:02+00:00",
+   "title_ja": "断捨離のモチベーションを途切れさせず長続きさせる考え方",
+   "summary_ja": "断捨離を進めるうえで大切なモチベーションの保ち方について記した記事。一度疲れて作業が途切れてしまっても、数ヶ月後に再び再開できれば長いスパンで維持できていると捉え、気楽に取り組み続ける姿勢を提案している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "60c60e0d235c0d87",
+   "url": "https://note.com/sobayunet/n/n035e5675c2e2",
+   "title_original": "人は一生で何枚くらいCDを買うのだろう",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/305128695/rectangle_large_type_2_a4b462a3c5f795d6fe2d839317fdc923.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T15:38:17+00:00",
+   "title_ja": "音楽配信時代に振り返るCDやレコードの所有枚数についての考察",
+   "summary_ja": "音楽の視聴方法がデジタル配信中心となった現代において、80年代から90年代にかけて音楽を愛好していた筆者が、これまでの人生でどれだけの枚数のCDやレコードを購入し所有してきたかを振り返る記事。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "CD",
+    "レコード"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "8149f59ceb2b6f50",
+   "url": "https://note.com/takudo4610srt/n/n6fd040d57c70",
+   "title_original": "断捨離をして気づいた。私は、こんなにも恵まれていたんだ",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/304002772/rectangle_large_type_2_2da44cbed77f7f494c1ed7fc2e12a77d.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T15:34:18+00:00",
+   "title_ja": "断捨離を通じて部屋の物の多さと恵まれた環境に気づいた話",
+   "summary_ja": "片づけや断捨離を進める中で、自分の部屋に想像以上の物が存在していた事実に驚き、それと同時に自分がどれほど恵まれていたのかを改めて実感したという気づきを綴った体験記。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "fa37101feecb2a43",
+   "url": "https://note.com/humble_neo/n/n130b17d88103",
+   "title_original": "全捨離は8割捨てる方法 でも汚部屋の人には勧めません",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/305131495/rectangle_large_type_2_e948e121ac13160ddfe79b031ec00c7f.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T15:26:28+00:00",
+   "title_ja": "持ち物の8割を手放す全捨離を汚部屋の人にお勧めしない理由",
+   "summary_ja": "持ち物の8割を手放す片付け法「全捨離」について解説した記事。手放す効果が高い方法として知られているものの、汚部屋の状態にある人にはそのまま勧めない理由と、段階を踏んだ片付けの重要性を説明している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "085a2647725500b1",
+   "url": "https://note.com/hot_rue6697/n/n5a0c90672c69",
+   "title_original": "捨てるのが苦手な人向け「後悔しない断捨離ルール30」",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/305130927/rectangle_large_type_2_d13e45f1e27d97b6b85ec9695b6bc58d.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T15:23:05+00:00",
+   "title_ja": "物を捨てるのが苦手な人に向けて後悔しない断捨離ルールを解説",
+   "summary_ja": "物を手放す際に迷ってしまう人に向けて、後悔せずに片付けを進めるための具体的な判断ルールを解説した記事。捨てるかどうかを決める基準を設けることで、手放すのが苦手な人でも迷わず整理を進めるコツを紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "b8960ec3e63b8600",
+   "url": "https://note.com/natsume_2607/n/n56af1c19a01b",
+   "title_original": "ミニマリストってやっぱり難しい",
+   "source": "note #ミニマリスト",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/f2392821a8809566218a5bc9b0d4f94affd1a2f6.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T14:58:49+00:00",
+   "title_ja": "急な渡航に向けた荷造りでミニマリストの難しさを実感した話",
+   "summary_ja": "急きょ決まった渡航に向けて荷造りを試みた体験談。目的が明確でない休暇のために荷物をパッキングする中で、持ち物を絞り込んでミニマリストらしく荷造りすることの難しさを改めて実感した様子が綴られている。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "bf5c0d71e39c8ef7",
+   "url": "https://note.com/lumicode/n/n9e0335f99894",
+   "title_original": "家を手放したら、世界が家になった",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/305119159/rectangle_large_type_2_8e0b3ea6552e497a3aab4703d932977b.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T14:53:57+00:00",
+   "title_ja": "家の所有を手放して場所に縛られない暮らしを始めた人の体験談",
+   "summary_ja": "定住するための「家」を手放し、自由に場所を移動しながら暮らすライフスタイルについて綴った記事。固定された住まいや所有から解放されたことで得られた心境の変化や、軽やかな暮らしの実践について語られている。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "46abb1306c41796a",
+   "url": "https://www.roomie.jp/2026/08/1866216",
+   "title_original": "分厚い名刺入れはもう卒業。厚さ0.4mmの燕三条チタンケースで身軽になろう",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/tsubanecase5.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T14:45:53+00:00",
+   "title_ja": "燕三条の純チタンで作られた極薄名刺入れで身軽になる話",
+   "summary_ja": "燕三条の技術と純チタンを組み合わせた、厚さ0.4mmの極薄名刺入れ「TSUBANE CASE」を紹介。薄くて軽く、頑丈な作りが特徴で、ビジネスシーンでの持ち物をよりコンパクトかつ身軽にしたいミニマリストに適したアイテムとなっている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "TSUBANE CASE",
+    "名刺入れ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d0da3db831b290e6",
+   "url": "https://note.com/523062_rika/n/nce17fabcb489",
+   "title_original": "ミニマリスト、バレットジャーナルにつまづく",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/305116641/rectangle_large_type_2_13454a14023b57794c58060a8d642dec.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T14:43:32+00:00",
+   "title_ja": "怠け者のミニマリストがバレットジャーナルに挫折した話",
+   "summary_ja": "自称「怠け者」であるミニマリストの筆者が、手帳術であるバレットジャーナルに挑戦するも挫折してしまった体験を綴る。物だけでなく、日々のタスク管理や習慣をシンプルに保つことの難しさを自身の性格を踏まえて振り返っている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "078d4146b6dcbb24",
+   "url": "https://note.com/toimo/n/n7b84d9fb4dfb",
+   "title_original": "捨てる",
+   "source": "note #ミニマリスト",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/8e643ecb136181d54796b419a925f3f4220d9b66.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T14:30:14+00:00",
+   "title_ja": "ミニマリストしぶ氏の動画を見ながら片付けを進める方法",
+   "summary_ja": "片付けを捗らせる方法として、ミニマリストである「しぶ」氏のYouTubeお片付け動画を見ながら作業することをおすすめする記事。動画を視聴しながら片付けを進めることで、モチベーションを保ちながら物を手放す作業がスムーズに進む様子を綴る。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "089af28c34844f63",
+   "url": "https://www.roomie.jp/2026/08/1864973",
+   "title_original": "6,000円台で満足。Xiaomiスマートウォッチが「最適解な理由」",
+   "source": "ROOMIE",
+   "image": "https://www.roomie.jp/wp-content/uploads/2025/07/7-3.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T13:15:09+00:00",
+   "title_ja": "高価な機能は不要と考える人が選んだ低価格スマートウォッチ",
+   "summary_ja": "スマートウォッチの機能はスマートフォンで代用できるため高価格帯のものは不要と考え、6,000円台のXiaomi製スマートウォッチを選んだ人のレビュー。手頃な価格でありながら、必要十分な機能で満足できる暮らしの最適解を紹介している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "スマートウォッチ",
+    "Xiaomiスマートウォッチ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "458ac204e0df58fa",
+   "url": "https://www.lifehacker.jp/article/2608-lht-anker-nano-charger",
+   "title_original": "Ankerの「巻き取り式」充電器。移動や場所に制限されない充電環境を手に入れた",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/19/9deaaf92-26dd-48c1-a5ea-4a6761f9ffa8/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T13:15:00+00:00",
+   "title_ja": "ケーブルの持ち歩きを不要にする巻取り式急速充電器の使用レビュー",
+   "summary_ja": "ケーブルが一体となった巻き取り式の急速充電器「Anker Nano Charger」を導入した人のレビュー。充電ケーブルを別途持ち運ぶ手間や、カバンの中で絡まるストレスから解放され、移動先でもすっきりとした充電環境を整えられる。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "Anker Nano Charger",
+    "充電器",
+    "USB-Cケーブル"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5718b9f5290668f9",
+   "url": "https://www.roomie.jp/2026/08/1865884",
+   "title_original": "いろいろ使ったけど、結局ナーズの「リフ粉」がいい。あえて“ミニサイズ”を選ぶ理由があるんだ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/260818_nars_06.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T13:00:27+00:00",
+   "title_ja": "コスメを使い切るためにあえてミニサイズを選ぶ理由",
+   "summary_ja": "メイク崩れを防ぐフェイスパウダーとして、ナーズの「ライトリフレクティングセッティングパウダー プレスト N」のミニサイズを選ぶ人の話。使用期限内に使い切るためにあえて小さいサイズを選ぶことで、無駄にすることなく愛用し続けられる。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "ライトリフレクティングセッティングパウダー",
+    "フェイスパウダー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "449bb1ce2b9e4360",
+   "url": "https://www.lifehacker.jp/article/2608-amazon-smartsensorlight-fth",
+   "title_original": "自動点灯のセンサーライトで暗闇のプチストレス解消。マグネットで持ち歩きも可能",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2025/10/24/e150d013-979f-4402-abb1-83adaf1af098/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T13:00:00+00:00",
+   "title_ja": "懐中電灯にもなるコードレスのスマートセンサーライトを導入した話",
+   "summary_ja": "夜間の移動時のプチストレスを解消するため、壁に設置できる充電式のスマートセンサーライトを導入した人の話。マグネット式で台座から簡単に取り外せ、懐中電灯として持ち歩くこともできるため、1台2役で暮らしをシンプルに整えられる。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "スマートセンサーライト",
+    "懐中電灯"
+   ],
+   "importance": 3
+  },
   {
    "id": "83848bd776c2de61",
    "url": "https://note.com/ripe_duck4804/n/n698ef77bfe89",
@@ -497,7 +742,7 @@
    "url": "https://exhibitionnews.uk/home-life-you-live-returns-for-2026-with-marie-kondo-as-headline-speaker",
    "title_original": "Home, Life & You LIVE returns for 2026 with Marie Kondo as headline speaker",
    "source": "exhibitionnews.uk",
-   "image": "",
+   "image": "https://exhibitionnews.uk/wp-content/uploads/2026/08/image.webp",
    "media": "news",
    "region": "海外",
    "published": "2026-08-19T08:30:29+00:00",
@@ -540,6 +785,24 @@
    "things": [
     "食器棚",
     "食器"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b4c652d7ddd7e5f4",
+   "url": "https://news.livedoor.com/article/detail/32105096",
+   "title_original": "「見ているだけでワクワクする」ライフさんが愛用する家事アイテムとは？",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-19T06:20:00+00:00",
+   "title_ja": "ライフさんが愛用している家事アイテムの紹介",
+   "summary_ja": "日々の暮らしの中でライフさんが実際に使っており、見ているだけでもワクワクするお気に入りの家事道具。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "家事アイテム"
    ],
    "importance": 3
   },
@@ -6990,177 +7253,6 @@
     "服",
     "タイツ"
    ],
-   "importance": 3
-  },
-  {
-   "id": "fae8fa11c054ee39",
-   "url": "https://news.infoseek.co.jp/article/fudge_395366",
-   "title_original": "3ヶ月、サウナ付きコリビングで暮らして感じたこと。奈良は「住んでみて初めて良さがわかる場所」｜Infoseekニュース",
-   "source": "Infoseek",
-   "image": "https://media.image.infoseek.co.jp/isnews/photos/fudge/fudge_395366_0.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-09T06:30:27+00:00",
-   "title_ja": "サウナ付きコリビングで3ヶ月暮らした体験談",
-   "summary_ja": "奈良にあるサウナ付きのコリビングで3ヶ月間暮らした体験を紹介する。実際に現地で生活してみて初めて分かった、その土地の魅力やシンプルな暮らしの良さについて語られている。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "95885c896ee1f62f",
-   "url": "https://www.livingetc.com/shopping/castlery-ollie-storage-sofa",
-   "title_original": "The Best Thing About This 5-Star-Rated Storage Sofa Isn't What You Can See, but What It Cleverly Hides",
-   "source": "livingetc.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/StdVJkueoczmEyEyQ99yba-2560-80.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-09T04:36:50+00:00",
-   "title_ja": "高い評価を得ている収納付きソファの隠れた魅力",
-   "summary_ja": "高い評価を得ている収納付きソファの機能性を紹介。一見すると普通のソファでありながら、人目につかない場所に物を賢く隠して収納できるデザインの素晴らしさに焦点を当てている。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "収納付きソファ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "074b70f3b8fdef83",
-   "url": "https://thesimplicityhabit.com/the-one-less-rule-eliminates",
-   "title_original": "How the “One Less” Rule Eliminates Clutter Without Overwhelming You",
-   "source": "The Simplicity Habit",
-   "image": "https://thesimplicityhabit.com/wp-content/uploads/2025/10/horizontal-blog-post-2025-10-15T190049.601-1024x683.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-08-09T02:28:04+00:00",
-   "title_ja": "負担を感じずに物を減らせる「1つ減らす」片づけルールの進め方",
-   "summary_ja": "大量の持ち物を前にして片づけに圧倒されてしまう人に向けて、「1つだけ減らす」というシンプルなルールを提案する記事。忙しい日々の中でも、心理的な負担を感じることなく、少しずつ家の中の不要な物を手放していく方法を紹介している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "d1e41b2c66384098",
-   "url": "https://www.autoevolution.com/news/this-tiny-home-with-a-cute-office-is-every-modern-nomads-dream-come-true-273945.html",
-   "title_original": "This Tiny Home with a Cute Office Is Every Modern Nomad’s Dream Come True",
-   "source": "autoevolution",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-09T01:16:01+00:00",
-   "title_ja": "可愛いオフィスが付いたタイニーハウスの紹介",
-   "summary_ja": "現代のノマドワーカーにとって夢のような住まいである、可愛らしいオフィススペースを備えたタイニーハウスを紹介する記事。限られた空間を有効活用した暮らしを提案している。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "タイニーハウス"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "a69834f40f16094f",
-   "url": "https://minimalist-fudeko.com/what-to-let-go-and-what-to-keep",
-   "title_original": "捨てるものと、持ち続けるもの〜読者2人のお便り",
-   "source": "筆子ジャーナル",
-   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/06/clean-kitchen.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-09T00:10:31+00:00",
-   "title_ja": "水切りかごの断捨離と物を持つ幸せを考えた話",
-   "summary_ja": "読者から寄せられた断捨離にまつわる2通のお便りを紹介。水切りかごを手放したことで暮らしを振り返った体験や、自分にとって物を持つ幸せとは何かを考えたエピソードを掲載している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "水切りかご"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "b0c71e254cfca2b3",
-   "url": "https://www.youtube.com/watch?v=Aw53ppwFTiY",
-   "title_original": "賢い買い物なんてできない！「買って後悔したモノ」との付き合い方ゲスト：児玉雨子さん【後編】",
-   "source": "やましたひでこ断捨離",
-   "image": "https://i2.ytimg.com/vi/Aw53ppwFTiY/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-08-08T11:00:33+00:00",
-   "title_ja": "買って後悔したモノとの向き合い方を語る対談",
-   "summary_ja": "ゲストに児玉雨子さんを迎え、「買って後悔したモノ」との付き合い方について語る動画。賢い買い物ばかりはできないという現実を踏まえ、失敗した持ち物とどのように向き合うかを考える。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "04154eeaf5c71715",
-   "url": "https://www.youtube.com/watch?v=MttQK8N2OKA",
-   "title_original": "【Vlog】ミニマリストの休日2日間節約ルーティン,月10万で暮らすリアルな日常 | 26歳派遣社員ミニマリスト",
-   "source": "ミニマリストじゅん",
-   "image": "https://i2.ytimg.com/vi/MttQK8N2OKA/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-08-08T11:00:18+00:00",
-   "title_ja": "月10万円で暮らす26歳ミニマリストのお気に入り愛用品10選",
-   "summary_ja": "月10万円で暮らす26歳の派遣社員ミニマリストが、休日の節約ルーティンとともに愛用する家具や家電を紹介する動画。温度調節デバイスやドリップケトル、スタンディングテーブルなど、暮らしを快適にするお気に入りの道具が多数登場する。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "REON POCKET 6",
-    "ドリップケトル",
-    "スタンディングテーブル",
-    "ハブミニ"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "6e75b220ca92879f",
-   "url": "https://x.com/zen_habits/status/2085716876336730523",
-   "title_original": "The habits of our minds shape our experience every day. Curiosity, gratitude, savoring, and learning from difficult moments are practices that grow stronger each time we return to them. Read the full post on my blog. #mindfulness #happiness #gratitude",
-   "source": "Zen Habits（X）",
-   "image": "https://pbs.twimg.com/media/HPH0cW2WwAA-PFD.jpg",
-   "media": "x",
-   "region": "海外",
-   "published": "2026-08-07T13:17:08+00:00",
-   "title_ja": "心を整える日々の習慣について",
-   "summary_ja": "好奇心や感謝、困難から学ぶ姿勢といった心の習慣が、日々の経験を形作るという考え方についてのブログ記事。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "c5eaebb89980acfa",
-   "url": "https://x.com/TheMinimalists/status/2085389707131969887",
-   "title_original": "What insights do you have for Becky? Hear ours on episode 522 of The Minimalists Podcast.",
-   "source": "The Minimalists（X）",
-   "image": "https://pbs.twimg.com/media/HPDK4wEasAAUiIi.jpg",
-   "media": "x",
-   "region": "海外",
-   "published": "2026-08-06T15:37:05+00:00",
-   "title_ja": "ポッドキャストでベッキーの悩みについて語る回",
-   "summary_ja": "ミニマリスト関連のポッドキャストの案内。ベッキーの悩みに対する意見について番組内で語られているというエピソード。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "b4b0a53a27191493",
-   "url": "https://x.com/TheMinimalists/status/2085025884264858081",
-   "title_original": "Some truths take a lifetime to learn; others fit in a single sentence. http://minimalists.com/truths",
-   "source": "The Minimalists（X）",
-   "image": "https://pbs.twimg.com/card_img/2087566684160700416/j7HIpE9K?format=jpg&name=800x419",
-   "media": "x",
-   "region": "海外",
-   "published": "2026-08-05T15:31:23+00:00",
-   "title_ja": "人生の真理について考えたミニマリストの投稿",
-   "summary_ja": "人生の学びや真理についてのメッセージを簡潔にまとめたミニマリストによる投稿。日々の暮らしや生き方を見つめ直すための考え方を提示している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
    "importance": 3
   }
  ]
