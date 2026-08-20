@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-20T21:56:03.064991+09:00",
+ "updated_at": "2026-08-21T03:44:38.926409+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -33,7 +33,7 @@
   },
   {
    "name": "本",
-   "count": 5
+   "count": 6
   },
   {
    "name": "iPhone",
@@ -144,6 +144,10 @@
    "count": 2
   },
   {
+   "name": "保冷バッグ",
+   "count": 2
+  },
+  {
    "name": "充電器",
    "count": 2
   },
@@ -208,7 +212,6 @@
   "NewsBreak: Local News & Alerts",
   "No Sidebar",
   "Post and Courier",
-  "Psychology Today",
   "RFD-TV",
   "ROOMIE",
   "ROOMIE（ルーミー）",
@@ -236,13 +239,13 @@
   "eltha",
   "exhibitionnews.uk",
   "graziamagazine.com",
+  "mi-mollet（ミモレ）",
   "newsable.asianetnews.com",
   "nine.com.au",
   "note #ミニマリスト",
   "note #少ない服で暮らす",
   "note #持たない暮らし",
   "note #断捨離",
-  "note.com",
   "southernliving.com",
   "t.co",
   "thespruce.com",
@@ -270,6 +273,113 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "ee023db3c3f6f5ed",
+   "url": "https://note.com/holy_yarrow1743/n/n7b4c31d7743a",
+   "title_original": "進まない断捨離",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/305316726/rectangle_large_type_2_7e088f8f520520d1131561749abf9fa4.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-20T17:09:37+00:00",
+   "title_ja": "なかなか断捨離が進まない時の気持ちと本",
+   "summary_ja": "言葉にできない小さなイライラを抱えつつ、中途半端になっている断捨離の停滞感をつづった記事。状況を変えるためにぴったりの本を見つけて手に取っている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "ff6b79e53216d1e6",
+   "url": "https://note.com/pdt_svp/n/ne37b954702fe",
+   "title_original": "硬水に負けないミニマルスキンケア",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/305439104/rectangle_large_type_2_641367ef3b4e3dc309d131ef6106d441.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-20T16:25:29+00:00",
+   "title_ja": "海外の硬水環境で確立したミニマルスキンケア",
+   "summary_ja": "硬水の国で少ないアイテムを最大限に活かすため、ブランド代を避け成分を重視して選んだスキンケアの方法について紹介しています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "スキンケアアイテム"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b31104fd7256fc59",
+   "url": "https://nosidebar.com/5-things-to-stop-buying-and-save-money-every-month",
+   "title_original": "5 Things To Stop Buying And Save Money Every Month",
+   "source": "No Sidebar",
+   "image": "https://nosidebar.com/wp-content/uploads/alexei-maridashvili-gqk2hoqGAL0-unsplash-scaled.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-08-20T14:00:00+00:00",
+   "title_ja": "ミニマリズムと支出の見直しで買わなくなった5つの物",
+   "summary_ja": "ミニマリズムを取り入れ、余計な物を手放す中で見つけた、毎月の節約につながる「買わなくなった5つの物」について語る。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [
+    "本"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "da2954af9b9da54b",
+   "url": "https://www.lifehacker.jp/article/machi-ya-freebacool-start-966707",
+   "title_original": "重いクーラーボックスは面倒。畳んで積みっぱなしにできる36Lの強力保冷バッグ",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/20/281579a5-d83c-43e5-90fb-9f469b3019cb/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-20T13:45:00+00:00",
+   "title_ja": "畳んで車に積める軽量な36Lの強力保冷バッグ",
+   "summary_ja": "重いクーラーボックスの代わりに使える、約700gと軽量で折りたたみ可能な保冷バッグ。6層断熱構造で防水仕様になっており、氷を直接入れることもできる。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "保冷バッグ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "7de4affc3d2f1531",
+   "url": "https://www.roomie.jp/2026/08/1864822",
+   "title_original": "アイロンは面倒、スチーマーだけだと伸ばしきれない…。山崎実業の「ノートみたいな板」で解決した！",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/yamazakiairondai0820.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-20T13:00:58+00:00",
+   "title_ja": "山崎実業の板型アイロン台でシワ伸ばしを快適に",
+   "summary_ja": "衣類スチーマーだけでは伸ばしきれないシワの悩みを、山崎実業の平型ちょい掛けアイロン台を使って解決した人の話。手軽に服のケアができるアイテム。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "アイロン台",
+    "衣類スチーマー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c7319180c138581e",
+   "url": "https://www.lifehacker.jp/article/2608-amazon-yamazen-hitorijimegrill-tru",
+   "title_original": "自宅が「焼き鳥屋」に。煙を気にせず「ひとり飲み」が最高すぎる",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2025/11/19/ffd650db-7eab-4652-aaec-8c3db3364822/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-20T13:00:00+00:00",
+   "title_ja": "山善の減煙電気七輪で楽しむ自宅でのひとり飲み",
+   "summary_ja": "部屋のニオイや油汚れを気にせず焼き鳥などを楽しむために、山善の減煙電気七輪「HITORI-JIME GRILL」を導入した人の話。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "電気七輪"
+   ],
+   "importance": 3
+  },
   {
    "id": "c7ea128f229c2691",
    "url": "https://note.com/vivid_daphne3292/n/n644666e4e6bc",
@@ -723,6 +833,22 @@
    "importance": 4
   },
   {
+   "id": "b3769096bc45d5c6",
+   "url": "https://mi-mollet.com/articles/-/60722?page=2",
+   "title_original": "つい同じものを複数買ってしまう人の心理。その心のクセ、過去の経験がネックになっているかもしれない【エディター昼田祥子】",
+   "source": "mi-mollet（ミモレ）",
+   "image": "https://mi-mollet.ismcdn.jp/mwimgs/b/3/-/img_b33fda8d50c7aa34926718f61c1f9f81720822.jpg?rd=202608181246",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-20T03:00:00+00:00",
+   "title_ja": "同じものを何度も買ってしまう心理的背景",
+   "summary_ja": "つい同じものを複数買い込んでしまう人の心のクセについて解説。過去の経験が原因となっている可能性にふれ、その心理的な背景を紐解いている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "6d1695845ec43039",
    "url": "https://www.lifehacker.jp/article/2608_korekai_muji_led_light",
    "title_original": "やっぱり無印良品にあった！部屋に出しっぱなしてすぐ使えるLEDランタン【これ買ってよかった】",
@@ -914,6 +1040,22 @@
     "シェラカップ"
    ],
    "importance": 3
+  },
+  {
+   "id": "ae8d75bfcc7ec761",
+   "url": "https://www.youtube.com/watch?v=xiYuHx-iyJ8",
+   "title_original": "【ミニマリスト】3歳児と二人暮らし、家が散らからない毎日のリセット習慣10選",
+   "source": "小さな暮らしノート",
+   "image": "https://i1.ytimg.com/vi/xiYuHx-iyJ8/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-19T21:48:43+00:00",
+   "title_ja": "3歳児と暮らす家を散らさない毎日のリセット習慣",
+   "summary_ja": "ワンオペ育児の中でも無理なく部屋を綺麗に保つ工夫を紹介。使ったら戻す、汚れたらその場で掃除する、朝晩のリセットを大切にした暮らしのルーティン。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
   },
   {
    "id": "ce4c76ccaad91474",
@@ -7111,144 +7253,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 2
-  },
-  {
-   "id": "cd3977c49b2df728",
-   "url": "https://www.roomie.jp/2026/08/1860872",
-   "title_original": "洗濯ネットがサイズ違い4枚セットで10％オフ。衣類ごとに使い分けられて便利",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/81Of1V5U-oL._AC_SL1500_.jpeg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-12T06:55:52+00:00",
-   "title_ja": "サイズ違いの洗濯ネットを活用して洗濯をスムーズにする方法",
-   "summary_ja": "衣類の種類に合わせて使い分けができる、ヴェセロの「ランドリーネット 4枚セット」を紹介。異なるサイズのネットを揃えることで、洗濯時の仕分けや管理がスムーズになり、日々の家事の効率化に役立つアイテムとなっている。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "ランドリーネット"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "c56ccdda64132c76",
-   "url": "https://mshale.com/6a9a1ae1/0e2b595aPyY-VjYcYDQDASw",
-   "title_original": "「ミニマリストに憧れるけど…」捨てられない女性の自宅へ。モノ減らしたら汚部屋もキレイに片付いた Rolling Loud (EYyauCXCtQ)",
-   "source": "Mshale",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-12T06:48:18+00:00",
-   "title_ja": "物を減らして汚部屋をきれいに片づけた女性の実例",
-   "summary_ja": "ミニマリストに憧れつつも物を捨てられずにいた女性が、自宅のモノを減らすことで汚部屋をきれいに片づけることに成功した事例を紹介する。片づけられない悩みを持つ人が、実際に物を手放して部屋を整えていくプロセスが描かれている。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "bab3fddf9761688d",
-   "url": "https://www.lifehacker.jp/article/amazon-timesale-2026-0812-1",
-   "title_original": "HDMI端子が足りないなら増やせばいい。エレコムの3ポート切替器が過去最安",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/08/12/d9ba8f50-0183-45fd-8e97-9c8c55d7cec2/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-12T06:00:00+00:00",
-   "title_ja": "配線や繋ぎ替えの手間を減らすエレコムのHDMI切替器",
-   "summary_ja": "テレビやモニターのHDMI端子不足を解消するエレコムの3ポート切替器を紹介。PCやゲーム機など最大3台の機器を接続でき、ケーブルを繋ぎ替える手間を減らせる。デスク周りの環境をすっきりと整理したい人に適したアイテム。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "HDMI切替器"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "3a3ef260f435b0d3",
-   "url": "https://www.lifehacker.jp/article/machi-ya-coolkeepa-start-962104",
-   "title_original": "毎年買い替えてるのに結局暑い。接触冷感ループから抜け出すシーツ",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/07/30/ff69be4b-8e66-433f-87fe-662ea1410ef0/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-12T05:00:00+00:00",
-   "title_ja": "毎年の買い替えを防ぐキシリトール吸熱反応の涼感シーツ",
-   "summary_ja": "接触冷感シーツの蒸れやすさを解決する日本製シーツ『COOL KEEPA』を紹介。キシリトール吸熱反応と綿100%の3D織り構造により、涼しさとベタつきにくさが持続する。洗濯しても効果が落ちず、寝具を頻繁に買い替える手間を減らせる。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "シーツ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "db27cbc586939e84",
-   "url": "https://note.com/tekeshun/n/ncd635535a13d",
-   "title_original": "ミニマリストが猛暑のサマソニに持っていくもの、全部。｜てけしゅん",
-   "source": "note.com",
-   "image": "https://assets.st-note.com/production/uploads/images/302740751/rectangle_large_type_2_f2785f3bfc63a7af39d481456619d33c.png?fit=bounds&quality=85&width=1280",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-12T04:19:01+00:00",
-   "title_ja": "猛暑の夏フェス「サマソニ」に持っていくミニマリストの持ち物",
-   "summary_ja": "猛暑の中で開催される音楽フェスティバル「サマーソニック」に参加するミニマリストの持ち物一覧。過酷な環境下でも荷物を最小限に抑え、快適に楽しむための装備を紹介している。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "1a481b90898a0c03",
-   "url": "https://www.roomie.jp/2026/08/1859170",
-   "title_original": "「キッチンクリップどこいった？」を解消。マグネット付きだから収納場所に困らないんです",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/2608RO_cbjapan_clip_01.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-12T04:00:04+00:00",
-   "title_ja": "保管場所に迷わないマグネット付きキッチンクリップ",
-   "summary_ja": "食品の袋を留めるキッチンクリップが行方不明になる悩みを、磁石で貼り付けられる仕様にすることで解消し、小物の定位置管理をやりやすくしたアイテムの紹介です。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "キッチンクリップ"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "7f5a622823230b36",
-   "url": "https://www.psychologytoday.com/us/blog/play-your-way-sane/202512/the-psychology-of-minimalism",
-   "title_original": "The mental benefits of having only what you need.",
-   "source": "Psychology Today",
-   "image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-12/bench-accounting-nvzvOPQW0gc-unsplash.jpg?h=a35693f3&itok=ttUpRZxf",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-12T03:38:20+00:00",
-   "title_ja": "必要なものだけを持つことが精神にもたらす効果についての記事",
-   "summary_ja": "自分にとって真に必要なものだけを所有することが、どのような精神的メリットをもたらすかについて書かれた記事です。持ち物を絞り込むことで得られる心の平穏や、メンタル面への良い影響について取り上げています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "c28a15003544d892",
-   "url": "https://www.lifehacker.jp/article/2608-starlink-mini-vs-5g-was-not-the-simple-comparison-i-expected",
-   "title_original": "「最高速度429Mbps」の5GよりStarlink Miniを選んだ理由。スペック値に惑わされない通信回線の選び方",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/08/10/77efea9e-f1a2-49e9-a186-07b2ec05910b/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-12T03:00:00+00:00",
-   "title_ja": "数値に惑わされず通信環境を最適化する回線の選び方",
-   "summary_ja": "5G回線と衛星通信のStarlink Miniの実測比較を通し、環境に合わせた回線選びを解説。都市部での遅延や郊外・悪天候時の挙動など、スペック上の最大値にとらわれず、自身の利用環境に応じた最適な通信手段を選ぶためのヒントを紹介する。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "Starlink Mini"
-   ],
-   "importance": 3
   }
  ]
 }
