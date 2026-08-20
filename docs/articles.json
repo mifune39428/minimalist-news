@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-20T03:39:24.361027+09:00",
+ "updated_at": "2026-08-20T10:23:07.413670+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,22 +29,22 @@
  "things": [
   {
    "name": "服",
-   "count": 14
-  },
-  {
-   "name": "バックパック",
-   "count": 6
+   "count": 13
   },
   {
    "name": "本",
    "count": 6
   },
   {
-   "name": "バッグ",
+   "name": "バックパック",
    "count": 5
   },
   {
    "name": "スマホ",
+   "count": 4
+  },
+  {
+   "name": "バッグ",
    "count": 4
   },
   {
@@ -68,11 +68,11 @@
    "count": 3
   },
   {
-   "name": "ソファ",
+   "name": "スマートフォン",
    "count": 3
   },
   {
-   "name": "フライパン",
+   "name": "ソファ",
    "count": 3
   },
   {
@@ -136,14 +136,6 @@
    "count": 2
   },
   {
-   "name": "スマートフォン",
-   "count": 2
-  },
-  {
-   "name": "スーツケース",
-   "count": 2
-  },
-  {
    "name": "タオル",
    "count": 2
   },
@@ -153,6 +145,10 @@
   },
   {
    "name": "パソコン",
+   "count": 2
+  },
+  {
+   "name": "フライパン",
    "count": 2
   },
   {
@@ -185,6 +181,10 @@
   },
   {
    "name": "封筒",
+   "count": 2
+  },
+  {
+   "name": "段ボール",
    "count": 2
   }
  ],
@@ -246,7 +246,6 @@
   "bs-asahi.co.jp",
   "eltha",
   "exhibitionnews.uk",
-  "facebook.com",
   "graziamagazine.com",
   "mshale.com",
   "newsable.asianetnews.com",
@@ -261,7 +260,6 @@
   "thespruce.com",
   "trilltrill.jp",
   "wfxb.com",
-  "うにのゆるシンプルな暮らし",
   "ぴーこ｜ゆるっとミニマルな日常",
   "むぎの頑張らない暮らし",
   "やましたひでこ断捨離",
@@ -285,6 +283,97 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "7c56a93db91c9d34",
+   "url": "https://note.com/wagako_mirainote/n/n5bd88bd1ec79",
+   "title_original": "子育てのメンタルを安定させる「ルーティンのミニマリスト」",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/305205003/rectangle_large_type_2_7f3b98212a6fddef691f410664824742.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-20T01:04:46+00:00",
+   "title_ja": "子育てのメンタル安定のために環境をルーティン化する話",
+   "summary_ja": "子どもの行動はコントロールできないため、自分の環境やルーティンを固定する工夫を紹介。音楽を流す、香を焚く、自分の食事を決めるなど、変えられる部分を整えて心を安定させています。イライラしがちな日常を手放す考え方です。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "d1cf0ad436a04714",
+   "url": "https://note.com/brave_coyote359/n/n4fd9f4961138",
+   "title_original": "大きな照明器具にさようなら。電球とソーラーランタンで暮らした2年",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/305200178/rectangle_large_type_2_d8fca9c583f3e11d2bc10622b8fb0085.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-20T00:44:24+00:00",
+   "title_ja": "大きな照明器具を手放し、電球とソーラーランタンで暮らす",
+   "summary_ja": "引っ越しの際にリビングや寝室の大きな照明器具を思い切って手放した事例。現在は電球とソーラーランタンを活用して暮らしており、天井の固定照明に頼らないミニマルな明かりの取り方を取り入れています。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "電球",
+    "ソーラーランタン",
+    "照明器具"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "514ad7a05c854ea8",
+   "url": "https://note.com/yumikot_world/n/n46ac96dcf71d",
+   "title_original": "最近始めた拭き活がとにかく良いのでおすすめしたい。",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/305194865/rectangle_large_type_2_1f116a739dbbecc4fa7b3cb1055be440.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-20T00:27:13+00:00",
+   "title_ja": "100均のシートで毎日数分間続ける家の中の拭き活",
+   "summary_ja": "100円ショップの掃除シートを使い、毎日数分だけ気になる場所を拭き掃除する習慣を紹介。一見きれいでも埃やシミが落ちてツルツルになる爽快感を味わえます。家の中の汚れを手軽に落として気持ちよく暮らす工夫です。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "掃除シート"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d1ef4f215a481f7b",
+   "url": "https://note.com/yusuke_muji/n/n43d031088256",
+   "title_original": "電話番号って、いつまで残るんだろう",
+   "source": "note #持たない暮らし",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/f8997fe7cee7c24b21607e6b4cdb0a299fba829a.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T22:51:27+00:00",
+   "title_ja": "固定の電話番号や電話回線は本当に必要なのかと考えた話",
+   "summary_ja": "普段のやり取りをチャットやTeamsで済ませる中で、現代における電話回線や電話番号の必要性について見直したエッセイ。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "スマートフォン",
+    "Teams"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "39b14e7129bbf44a",
+   "url": "https://www.roomie.jp/2026/08/1857626",
+   "title_original": "シェラカップを約10個持つ私が、最近「630ml」ばかり使っている理由",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/20260815_la9-1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-19T22:00:56+00:00",
+   "title_ja": "複数のシェラカップから大容量の630mlを選ぶ理由",
+   "summary_ja": "約10個のシェラカップを持つ筆者が、食器と調理の両方に使いやすいチャムスの大容量モデルを愛用している理由を紹介。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "シェラカップ"
+   ],
+   "importance": 3
+  },
   {
    "id": "275fe29d2d6656ee",
    "url": "https://note.com/apt_hornet4092/n/n1ce198a6b225",
@@ -681,6 +770,22 @@
    "things": [
     "晴雨兼用傘"
    ],
+   "importance": 3
+  },
+  {
+   "id": "b455e1c55119e7de",
+   "url": "https://news.livedoor.com/article/detail/32108061",
+   "title_original": "2児の母・働きながらでも無理なく続く。家の中をキレイに保つ「暮らしの工夫」4つ",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-19T11:00:00+00:00",
+   "title_ja": "2児の母が実践する家をキレイに保つ4つの工夫",
+   "summary_ja": "2児を育てながら働きつつも、無理なく家の中を綺麗に保つための暮らしの工夫を紹介している記事です。具体的な手放し方や収納のヒントが含まれています。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -1941,6 +2046,24 @@
    "importance": 3
   },
   {
+   "id": "9322eac2edf9676e",
+   "url": "https://limo.media/articles/photo-all/116204",
+   "title_original": "「毎日使うモノだけ」40代アパレル会社員の“通勤バッグの中身”が話題",
+   "source": "LIMO | くらしとお金の経済メディア",
+   "image": "https://limo.ismcdn.jp/mwimgs/c/6/1200w/img_c6a9781bb14eb382274a3bf35d0a912e47202.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-18T05:07:25+00:00",
+   "title_ja": "40代アパレル会社員の通勤バッグの中身",
+   "summary_ja": "毎日使うモノだけを厳選している、40代アパレル会社員の通勤バッグの中身が話題になっていることを伝える記事。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "通勤バッグ"
+   ],
+   "importance": 3
+  },
+  {
    "id": "d87c56a387957198",
    "url": "https://www.roomie.jp/2026/08/1862938",
    "title_original": "100均収納では整わなかった冷蔵庫ドアポケット。ニトリの新作でスッキリしそう！",
@@ -3161,7 +3284,7 @@
    "url": "https://www.autoevolution.com/news/raven-outlook-is-a-gorgeous-park-model-tiny-with-a-huge-bay-window-and-full-size-comforts-274246.html",
    "title_original": "Raven Outlook Is a Gorgeous Park Model Tiny With a Huge Bay Window and Full-Size Comforts",
    "source": "autoevolution",
-   "image": "",
+   "image": "https://s1.cdn.autoevolution.com/images/news/raven-outlook-is-a-gorgeous-park-model-tiny-with-a-huge-bay-window-and-full-size-comforts-274246_1.jpg",
    "media": "news",
    "region": "海外",
    "published": "2026-08-16T20:04:55+00:00",
@@ -5988,7 +6111,7 @@
    "url": "https://www.autoevolution.com/news/dune-is-a-beautiful-park-model-tiny-home-with-a-spacious-layout-and-residential-amenities-274090.html",
    "title_original": "Dune Is a Beautiful Park Model Tiny Home With a Spacious Layout and Residential Amenities",
    "source": "autoevolution",
-   "image": "",
+   "image": "https://s1.cdn.autoevolution.com/images/news/dune-is-a-beautiful-park-model-tiny-home-with-a-spacious-layout-and-residential-amenities-274090_1.jpg",
    "media": "news",
    "region": "海外",
    "published": "2026-08-12T13:59:51+00:00",
@@ -7129,130 +7252,6 @@
    "category": "心・習慣",
    "axis": "reduce",
    "things": [],
-   "importance": 3
-  },
-  {
-   "id": "46bc991b7d0a82e5",
-   "url": "https://www.facebook.com/nytimes/posts/this-deceptively-spacious-bag-combines-the-roominess-and-structure-of-a-suitcase/1452971500018642",
-   "title_original": "This deceptively spacious bag combines the roominess and structure of a suitcase with the hands-free convenience of a backpack, says a Wirecutter tester. https://nyti.ms/4q7n2py",
-   "source": "facebook.com",
-   "image": "https://scontent-nrt6-1.xx.fbcdn.net/v/t39.99422-6/767161450_1733087401319022_6165076033509173736_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=110&ccb=1-7&_nc_sid=cae128&_nc_ohc=MPAQvwNmB54Q7kNvwFVE4yf&_nc_oc=AdrkqnaLB3pT3ncaZk3DR7y8wKeNVq02Nj5cQvHKRj266IjRWdy4ddKMPM0IeyvAze8&_nc_zt=14&_nc_ht=scontent-nrt6-1.xx&_nc_gid=tqr8zKswey8bCkDxziKiFg&_nc_ss=7b20f&oh=00_AQHXiBliUbploIVGqwOElHnWGiR2zVIyM2oBDPBXN4V56w&oe=6A822AEA",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-09T21:20:02+00:00",
-   "title_ja": "スーツケースの収納力とリュックの便利さを兼ね備えたバッグのレビュー",
-   "summary_ja": "Wirecutterのテスターが、スーツケースのような収納力と構造を持ちながら、両手を自由に使えるバックパックの便利さを兼ね備えたバッグを紹介しています。見た目以上に大容量で機能的なバッグの魅力が語られています。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "バッグ",
-    "スーツケース",
-    "バックパック"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "6202b9d9267e3b4b",
-   "url": "https://mshale.com/00037446/813fd3b98P_h5BeKaX8",
-   "title_original": "【合計1万6000円】ミニマリストじゃない私が夏服4着で過ごした結果 Athletic - Valencia C. F. (t5mQJApY7A)",
-   "source": "mshale.com",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-09T14:48:27+00:00",
-   "title_ja": "ミニマリストではない人が夏服4着だけで過ごしてみた結果",
-   "summary_ja": "ミニマリストではない筆者が、合計1万6000円分の夏服4着だけで一夏を過ごした体験談です。少ない服で暮らすことの実際の効果や、限られたワードローブでの過ごし方の結果について紹介しています。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "夏服"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "f3f16ca557ff122f",
-   "url": "https://thesimplicityhabit.com/15-things-minimalists-declutter-before-the-end-of-summer",
-   "title_original": "15 Things Minimalists Declutter Before the End of Summer",
-   "source": "The Simplicity Habit",
-   "image": "https://thesimplicityhabit.com/wp-content/uploads/2025/09/horizontal-blog-post-2025-09-04T145937.926-1024x683.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-08-09T14:38:46+00:00",
-   "title_ja": "夏の終わりにミニマリストが手放す15のアイテム",
-   "summary_ja": "夏の終わりから秋の始まりにかけて、ミニマリストが家と暮らしをシンプルにするために片づける15のものを紹介する記事。季節の変わり目という自然なタイミングを利用して、住まいをリセットし、暮らしを整える方法を提案している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "589ca8ed108c34ce",
-   "url": "https://www.facebook.com/nytimes/posts/according-to-reviews-this-set-of-ikea-pots-and-pans-is-seemingly-indestructible-/1452659643383161",
-   "title_original": "According to reviews, this set of IKEA pots and pans is seemingly indestructible and capable of lasting nearly two decades — for just $100. Wirecutter decided to see if this potential dupe could stack up against our buy-it-for-life recommendation. https://nyti.ms/4",
-   "source": "facebook.com",
-   "image": "https://scontent-nrt6-1.xx.fbcdn.net/v/t39.30808-6/768567840_1452659620049830_6159047282904131861_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=105&ccb=1-7&_nc_sid=cae128&_nc_ohc=VwaEz91-FNQQ7kNvwHTlXXK&_nc_oc=Adp_p40HML68RxmtIEq4y6srAW8slxZKGIa4fDn_dM2j8DW8WoZROGY0AEv8L67M2fw&_nc_zt=23&_nc_ht=scontent-nrt6-1.xx&_nc_gid=YhjgsX5kXwsvpRCD1uFGAQ&_nc_ss=7b20f&oh=00_AQFkLm9RsnzTJrkn8yvMHBB_jKR7sOZ53dTwoeVfH_fHdg&oe=6A821829",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-09T13:20:02+00:00",
-   "title_ja": "約20年使えると噂の100ドルのイケア製鍋・フライパンセットの検証",
-   "summary_ja": "100ドルという低価格でありながら、約20年も使えるほど頑丈だとレビューで評判のイケアの鍋とフライパンのセット。一生モノとして推奨できる品質なのか、検証機関のWirecutterが実際に性能を確かめた。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "鍋",
-    "フライパン"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "e2fa71ae264a4f0d",
-   "url": "https://news.livedoor.com/topics/detail/32028421",
-   "title_original": "唖然とするほど何もない！「汚屋敷」出身者がミニマリストに大変身 (2026年8月9日掲載)",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-09T12:30:05+00:00",
-   "title_ja": "汚部屋から驚くほど物がないミニマリストの部屋へ変身した人の話",
-   "summary_ja": "かつて汚屋敷と呼ばれるほど物にあふれた部屋に住んでいた人が、唖然とするほど何もない部屋に住むミニマリストへと劇的な変化を遂げた体験談です。物を徹底的に手放して暮らしを整えたプロセスが紹介されています。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "910055c25be8532b",
-   "url": "https://www.youtube.com/watch?v=aWCas84dsro",
-   "title_original": "【家賃9.3万→5.6万？】31歳ミニマリスト バケットリストを作ろう 熱中症になってしまったvlog",
-   "source": "ミニマリストK",
-   "image": "https://i2.ytimg.com/vi/aWCas84dsro/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-08-09T11:00:22+00:00",
-   "title_ja": "31歳ミニマリストが家賃を下げてバケットリストを作る日常Vlog",
-   "summary_ja": "31歳のミニマリストが、家賃を抑える暮らしの工夫や、人生でやりたいことのバケットリスト作成について語る日常動画。熱中症になってしまったエピソードを交えながら、シンプルで無理のない暮らしの様子を伝える。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "641b4f4a84d9ac48",
-   "url": "https://www.youtube.com/watch?v=NVopwZsQOoI",
-   "title_original": "【捨て活】必要なもの以外、全部捨てる。30代一人暮らしのクローゼットの見直し",
-   "source": "うにのゆるシンプルな暮らし",
-   "image": "https://i3.ytimg.com/vi/NVopwZsQOoI/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-08-09T10:00:23+00:00",
-   "title_ja": "30代一人暮らしがクローゼットの服を全部出しして手放した話",
-   "summary_ja": "クローゼットの整理に悩む30代一人暮らしの女性が、服を一度すべて取り出して見直した様子を記録した動画。同じようなタイツが複数見つかるなど、不要な衣類をリサイクルショップへ持ち込み、物の価値を考え直す過程を描いている。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "服",
-    "タイツ"
-   ],
    "importance": 3
   }
  ]
