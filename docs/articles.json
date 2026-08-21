@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-21T03:44:38.926409+09:00",
+ "updated_at": "2026-08-21T10:28:00.530082+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,18 +29,18 @@
  "things": [
   {
    "name": "服",
-   "count": 14
+   "count": 15
   },
   {
    "name": "本",
    "count": 6
   },
   {
-   "name": "iPhone",
-   "count": 4
+   "name": "バックパック",
+   "count": 5
   },
   {
-   "name": "バックパック",
+   "name": "iPhone",
    "count": 4
   },
   {
@@ -48,16 +48,8 @@
    "count": 4
   },
   {
-   "name": "日傘",
-   "count": 4
-  },
-  {
    "name": "書類",
    "count": 4
-  },
-  {
-   "name": "サンダル",
-   "count": 3
   },
   {
    "name": "スニーカー",
@@ -76,7 +68,11 @@
    "count": 3
   },
   {
-   "name": "モバイルバッテリー",
+   "name": "収納アイテム",
+   "count": 3
+  },
+  {
+   "name": "日傘",
    "count": 3
   },
   {
@@ -116,6 +112,10 @@
    "count": 2
   },
   {
+   "name": "サンダル",
+   "count": 2
+  },
+  {
    "name": "スマートウォッチ",
    "count": 2
   },
@@ -132,11 +132,11 @@
    "count": 2
   },
   {
-   "name": "パソコン",
+   "name": "フライパン",
    "count": 2
   },
   {
-   "name": "フライパン",
+   "name": "モバイルバッテリー",
    "count": 2
   },
   {
@@ -153,10 +153,6 @@
   },
   {
    "name": "写真",
-   "count": 2
-  },
-  {
-   "name": "収納アイテム",
    "count": 2
   },
   {
@@ -217,6 +213,7 @@
   "ROOMIE（ルーミー）",
   "Raptitude",
   "Real Simple",
+  "Realtor.com",
   "Sarah Therese",
   "Simple Lionheart Life",
   "Southern Living",
@@ -232,6 +229,7 @@
   "Yahoo Creators",
   "Yahoo Lifestyle Singapore",
   "Yahoo!ニュース",
+  "YouTube",
   "Zen Habits（X）",
   "aol.com",
   "au Webポータル",
@@ -274,6 +272,143 @@
  "count": 400,
  "items": [
   {
+   "id": "64b77d7fdc6a6dd5",
+   "url": "https://note.com/tekeshun/n/nfe2764c8aaaa",
+   "title_original": "サマソニ2026の持ち物・服装を「答え合わせ」します。",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/305503471/rectangle_large_type_2_9b1e267ee4a7ac12b4217458c95b941a.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-21T01:02:58+00:00",
+   "title_ja": "サマソニ3日間の持ち物と服装の振り返り",
+   "summary_ja": "音楽フェスに持っていく物のリストを事前に作成し、実際に参加したあとの正解と失敗を振り返るブログ記事です。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "6a824e3e2f6b38f4",
+   "url": "https://note.com/fuji1950/n/nc991deb178e4",
+   "title_original": "「今の自分」の最適化！",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/305494303/rectangle_large_type_2_b37eff56df75ca124d67ebb43515c81c.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-21T00:21:24+00:00",
+   "title_ja": "「今の自分」に合わせて不要なものを見直す生き方",
+   "summary_ja": "昔からの習慣にとらわれず、今の自分に本当に大切なものを問い直す。何かを増やすだけでなく、いらないものを減らすことで人生を豊かにする方法を提案している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "ebcdb69c016e1e74",
+   "url": "https://minimalist-fudeko.com/avoid-just-because-spending",
+   "title_original": "たまの外出でかさむ飲食費。「せっかく来たから」と考えてはいけない",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/08/cafe-latte.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-21T00:10:03+00:00",
+   "title_ja": "外出時の飲食費がかさむ理由と無駄遣いを防ぐコツ",
+   "summary_ja": "普段は外食をしない人が、たまの外出時に「せっかく来たから」と気が大きくなって飲食費を使いすぎてしまう現象に着目し、その出費を抑えるコツを紹介する。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "eb4a27aeb4cdd0e6",
+   "url": "https://www.lifehacker.jp/article/2608i-reclaimed-11gb-on-my-windows-pc-without-deleting-a-single-file",
+   "title_original": "すぐに11GBも復活。Windows11の容量を圧迫する隠れデータの消し方",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/20/311f5bf5-56b3-4973-819d-f9cadaec3cad/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-21T00:00:00+00:00",
+   "title_ja": "Windows11の容量を圧迫する隠れデータの消し方",
+   "summary_ja": "パソコンのCドライブの空き容量が足りない時に、個人データやアプリを消さずに隠れたデータを調整し、ストレージ領域を大きく回復させた体験談。",
+   "category": "道具・ガジェット",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "3823576fd9f548d7",
+   "url": "https://note.com/eridesign8/n/n1dfc1c16122a",
+   "title_original": "100個のマグカップと手放した道具たち。4年の時を経て、再びハンドドリップを楽しむ週末",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/304425086/rectangle_large_type_2_3c1d3415edf50491c18fa4451bf73f8e.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-20T22:35:06+00:00",
+   "title_ja": "100個あったマグカップや道具を手放した経験を振り返る話",
+   "summary_ja": "かつて100個以上のマグカップや電動ミル、サーバー、ドリッパーなど大量のコーヒー道具を所有していた筆者が、それらを手放した過去を振り返る。プロセスを楽しむこだわりから道具が溢れていた暮らしと、手放した後の変化について綴られている。",
+   "category": "キッチン・食",
+   "axis": "reduce",
+   "things": [
+    "マグカップ",
+    "電動ミル",
+    "サーバー",
+    "ドリッパー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b8c2ee3ff950f42d",
+   "url": "https://www.lifehacker.jp/article/2608-lht-yamazakijitsugyou-storage-rack-matome-1",
+   "title_original": "生活感は隠して、手間は減らす。山崎実業で叶う「1ステップ収納」",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/13/82552858-e351-4a72-86a6-979a466a7a1f/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-20T21:30:00+00:00",
+   "title_ja": "生活感を隠して手間を削る山崎実業の収納アイテムを紹介した記事",
+   "summary_ja": "インテリアに馴染みつつ生活感を隠せる山崎実業の収納アイテムを3つ紹介する記事。出し入れの手間を減らす「1ステップ収納」を叶え、部屋の雰囲気と実用性を両立させる工夫がまとめられている。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "収納アイテム"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "1ccc20ef64221749",
+   "url": "https://www.youtube.com/watch?v=id4h8imnSjw",
+   "title_original": "12 Japanese Home Organization Ideas That Instantly Save Space",
+   "source": "The Minimal Mom",
+   "image": "https://i2.ytimg.com/vi/id4h8imnSjw/hqdefault.jpg",
+   "media": "youtube",
+   "region": "海外",
+   "published": "2026-08-20T19:41:28+00:00",
+   "title_ja": "省スペースを叶える日本の整理収納アイデア12選を紹介した動画",
+   "summary_ja": "部屋のスペースを即座に節約して有効活用するための、日本の自宅整理・収納アイデアを12個紹介する動画。狭い空間でもすっきりと暮らすための片付けや配置の工夫について解説されている。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "89b4ad2451e10233",
+   "url": "https://www.youtube.com/shorts/MzAWAD1G7B0",
+   "title_original": "What‘a a piece of clothing you own that you wouldn't buy again if you saw it at a store? @aimeereif",
+   "source": "The Minimalists",
+   "image": "https://i2.ytimg.com/vi/MzAWAD1G7B0/hqdefault.jpg",
+   "media": "youtube",
+   "region": "海外",
+   "published": "2026-08-20T19:27:55+00:00",
+   "title_ja": "店で見かけても二度と買い直さない手持ちの服について考える動画",
+   "summary_ja": "現在所有している服の中で、もし店舗で見かけても二度と購入しないであろう服は何かについて問いかけ、買い直さない理由や失敗した服選びの基準について考える短編動画。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 2
+  },
+  {
    "id": "ee023db3c3f6f5ed",
    "url": "https://note.com/holy_yarrow1743/n/n7b4c31d7743a",
    "title_original": "進まない断捨離",
@@ -308,6 +443,56 @@
    "importance": 3
   },
   {
+   "id": "84d0b13194666632",
+   "url": "https://www.realtor.com/living/cleaning-organizing/organizing-rules-advice-experts-controversial",
+   "title_original": "7 Common Organizing Rules That Experts Say Are Meant To Be Broken",
+   "source": "Realtor.com",
+   "image": "https://na.rdcpix.com/924ab2f3d5c0e32221ac1d16bc57d646w-c3256703550srd_w1200_q80.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-20T16:18:42+00:00",
+   "title_ja": "専門家が教える、破ってもよい片付けのルール",
+   "summary_ja": "片付けや整理整頓の専門家が、一般的に良いとされるルールの中にはあえて破ったほうがうまくいくものもあると解説している。収納や片付けの固定観念を見直すヒントになる。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "170f66f10953f4a2",
+   "url": "https://youtu.be/lUCijssKD8g?is=NJONhyx5go7WM3_P",
+   "title_original": "Peak Design City Line 22L Backpack Review",
+   "source": "YouTube",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-20T15:00:31+00:00",
+   "title_ja": "ピークデザインの都市向け22Lバックパックのレビュー",
+   "summary_ja": "Peak Designのシティライン22Lバックパックの使用感を検証する海外の動画。日常使いのバッグや持ち運び用の道具として参考になる。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "バックパック"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "cd9f6a405d027a70",
+   "url": "https://note.com/hokuou_daisuki/n/ne2c457cec215",
+   "title_original": "物を捨てたい。とにかく捨てたい。",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/305423449/rectangle_large_type_2_8d93b434291d3dd1cecb63e93ae6c8ec.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-20T14:52:37+00:00",
+   "title_ja": "とにかく物を捨てたいという衝動に向き合う人の話",
+   "summary_ja": "最近、少しおかしいと感じるほどに「物を捨てること」ばかりを考えている筆者の心の動きを綴った記事。物を手放し、持たない暮らしを追い求める中で生じる、片づけや捨てることへの強い衝動について紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
    "id": "b31104fd7256fc59",
    "url": "https://nosidebar.com/5-things-to-stop-buying-and-save-money-every-month",
    "title_original": "5 Things To Stop Buying And Save Money Every Month",
@@ -340,6 +525,42 @@
    "axis": "own",
    "things": [
     "保冷バッグ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "57e9b780300ed046",
+   "url": "https://note.com/meg0815/n/n3f4adf30a2b3",
+   "title_original": "心と体が楽になる暮らしを育てる8月🍉｜夏はゴミを減らすと、暮らしが軽くなる。",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/img/1787136741-cv3sAmOxyIYGhgHFau1KnVb6.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-20T13:41:34+00:00",
+   "title_ja": "夏のゴミを減らして心と体が軽くなる暮らしを目指す話",
+   "summary_ja": "夏の季節にゴミを減らすことで、暮らしを軽くし、心と体を楽に整えていく工夫を紹介している。持たない暮らしやシンプルな生活を実践する中で、季節に合わせた工夫を取り入れ、暮らしを心地よく整える考え方を綴っている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "9af840833c9ccb97",
+   "url": "https://www.lifehacker.jp/article/2608-lht-kingjim-potara-review-48d",
+   "title_original": "防犯ブザーとライトが1つに！秋の散歩を手放しで楽しむための相棒",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2025/09/22/f95b8f88-692b-4f3f-b87f-9e03664d7080/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-20T13:15:00+00:00",
+   "title_ja": "防犯ブザーとライトが一体化した防犯グッズを使う人の話",
+   "summary_ja": "防犯ブザーとライトの機能が1つにまとまったアイテム「potara」を紹介する記事。夜道を安心して歩くための機能を1つに集約することで、秋の散歩を身軽に、かつ安全に楽しむための頼もしい相棒としての持ち物を提案している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "防犯ブザー",
+    "ライト",
+    "potara"
    ],
    "importance": 3
   },
@@ -7020,239 +7241,6 @@
     "カーテンレール上ハンガーフック タワー"
    ],
    "importance": 3
-  },
-  {
-   "id": "5c9769fd51c63362",
-   "url": "https://www.theminimalists.com/big3",
-   "title_original": "The Big Three",
-   "source": "The Minimalists",
-   "image": "https://www.theminimalists.com/wp-content/uploads/2026/08/beatriz-camaleao-Rtu1sgu1hrM-unsplash-500x357.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-08-12T12:00:07+00:00",
-   "title_ja": "ミニマリストの読者に響き続ける「3つの大切なこと」",
-   "summary_ja": "著名なミニマリスト・ブログ「The Minimalists」による記事。長年にわたり読者の心に響き続けている、暮らしや物との付き合い方に関する3つの重要な考え方やテーマについて紹介している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "e71f75105ad7411e",
-   "url": "https://www.lifehacker.jp/article/machi-ya-slimplatebank-additional-965649",
-   "title_original": "モバイルバッテリーが「重い」の正体は、重さじゃなくて厚みでした",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/08/10/243e2a44-4b44-4b84-af30-e9517844cfa6/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-12T11:45:00+00:00",
-   "title_ja": "モバイルバッテリーの持ちにくさは重さではなく厚みが原因",
-   "summary_ja": "モバイルバッテリーを携帯する際、重いと感じる原因は重量そのものではなく、本体の厚みにあると指摘する記事。持ち物の快適性を高め、スマートに持ち運ぶためのガジェット選びの新たな視点を提案している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "モバイルバッテリー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "34d4517e8774ab96",
-   "url": "https://www.roomie.jp/2026/08/1856844",
-   "title_original": "そうめんをレンチンで！「ゆでる以外でも便利」だから、汗をかかず手もぬれないんだ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/20240607_soumen_eye.jpeg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-12T11:30:18+00:00",
-   "title_ja": "鍋を使わずレンジでそうめんがゆでられる便利な専用調理器",
-   "summary_ja": "暑い季節に手間がかかるそうめん作りをラクにする、スケーターの「レンジでゆで麺」を紹介。鍋を使わず電子レンジだけで麺がゆでられるため、お湯を沸かす必要がなく、暑いキッチンで汗をかかずに調理ができる便利な道具。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "レンジでゆで麺"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "b02547a32a93e9d9",
-   "url": "https://www.roomie.jp/2026/08/1859743",
-   "title_original": "約3年愛用しているマグネット式PCフィルターが手放せない理由。カフェ作業の『視線ストレス』がゼロに",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/pcfilter20260804eye.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-12T11:00:27+00:00",
-   "title_ja": "カフェでのPC作業を快適にする覗き見防止フィルターを3年愛用する話",
-   "summary_ja": "外出先でのパソコン作業時に周囲の視線を遮断できる、マグネット着脱式の覗き見防止フィルター。持ち運びやすく着脱も簡単なため、カフェや新幹線など混雑した場所でも、プライバシーを守りながら安心して作業に集中できる道具として3年間愛用されている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "マグネット式 覗き見防止フィルター",
-    "パソコン"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "909728dee63cd873",
-   "url": "https://www.youtube.com/watch?v=vxsWcTL6Vpg",
-   "title_original": "【公開】やましたひでこのシューズクローク。お気に入りの靴たちをご紹介します",
-   "source": "やましたひでこ断捨離",
-   "image": "https://i3.ytimg.com/vi/vxsWcTL6Vpg/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-08-12T11:00:17+00:00",
-   "title_ja": "断捨離提唱者がお気に入りの靴を並べたシューズクロークを公開",
-   "summary_ja": "断捨離の提唱者であるやましたひでこが、自身のシューズクロークと愛用している靴を紹介する。厳選されたお気に入りの靴だけが並ぶ収納スペースの様子を通して、物を選び抜き、すっきりと暮らすためのヒントを学ぶことができる。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "靴"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "9e8242c9088b07b5",
-   "url": "https://news.livedoor.com/topics/detail/32051199",
-   "title_original": "実家の押し入れが「ゴミ置き場」になっているかも。“断捨離”3ステップですっきり：やましたひでこさん直伝 (2026年8月12日掲載)",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-12T11:00:00+00:00",
-   "title_ja": "実家の押し入れをすっきりさせる3ステップの断捨離術",
-   "summary_ja": "やましたひでこさんが直伝する、実家の押し入れをすっきり片づけるための断捨離術を紹介する記事。ゴミ置き場のようになってしまいがちな押し入れの荷物を、3つのステップに沿って整理し、手放していくための具体的な方法を解説している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "fccf6e424b9f5204",
-   "url": "https://monomax.jp/archives/355715",
-   "title_original": "【大人の夏服はナンガ一択】酷暑も豪雨も通気孔素材「ドットエア」で快適に！ダウンの王様が作った“夏用テックウエア”が無敵すぎた",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2027/08/260508-141128_11zon-scaled.jpeg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-12T10:00:49+00:00",
-   "title_ja": "通気孔素材を採用したナンガの夏用テックウエアを紹介する記事",
-   "summary_ja": "ナンガが展開する通気孔素材「ドットエア」を採用した夏用テックウエアを紹介。酷暑や豪雨でも快適に過ごせる高い通気性と機能性を備えており、夏の厳しい気候に対応できる大人の一着としてその魅力と快適さを解説している。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "夏用テックウエア"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "cb6ff888b11bb73d",
-   "url": "https://www.roomie.jp/2026/08/1855021",
-   "title_original": "大の虫嫌いが夏に常備する「コバエがいなくなるスプレー」。1プッシュで、約1ヶ月も発生予防効果が続くんです",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/kincho-kobae-spray-scaled.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-12T10:00:34+00:00",
-   "title_ja": "コバエ対策を置き型からスプレーに変えて快適にした人の話",
-   "summary_ja": "コバエ対策を置き型から、1プッシュで約1ヶ月効果が続くスプレーに変更した人の話です。部屋に余計な置き型グッズを置かずにすっきりさせつつ、視界に入る不快なコバエの発生を予防して、室内の快適さを保っています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "コバエがいなくなるスプレー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c56330967811bed2",
-   "url": "https://monomax.jp/archives/355910",
-   "title_original": "【ワークマンの980円“遮熱Tシャツ”が神】vsユニクロ・無印！ひんやり猛暑対策グッズを徹底比較。着るだけで−5℃、UVカット超軽量日傘、冷感スプレーも",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2027/08/041338_11zon-scaled.jpeg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-12T09:00:42+00:00",
-   "title_ja": "ワークマンや無印などの猛暑対策グッズを徹底比較した記事",
-   "summary_ja": "ワークマンの遮熱Tシャツや、ユニクロ、無印良品のアイテムを交えた猛暑対策グッズの比較。着るだけで遮熱効果があるTシャツのほか、UVカット機能を持つ超軽量の日傘や冷感スプレーなど、夏の暮らしを快適にする持ち物を紹介している。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "遮熱Tシャツ",
-    "日傘",
-    "冷感スプレー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "1a6fcc04f71552d3",
-   "url": "https://www.roomie.jp/2026/08/1861649",
-   "title_original": "ベランダ用サンダルの変形を防ぐために。山崎実業の薄型ラックで「生活感を出さずに室内置き」しています",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/260730_slipperrack_14.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-12T09:00:32+00:00",
-   "title_ja": "ベランダサンダルを生活感なく室内に収納した人の話",
-   "summary_ja": "ベランダ用ササダルの直射日光による劣化を防ぐため、室内に収納している人の話です。山崎実業の薄型ラックを使うことで、ダイニングから見える生活感を抑えつつ、空間にすっきりとなじませて収納することに成功しています。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "サンダル",
-    "薄型ラック"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "fa905c2c3e040789",
-   "url": "https://www.youtube.com/watch?v=jOzZWJJkWBQ",
-   "title_original": "【シングルマザーのミニマルな暮らし】家にないもの23選",
-   "source": "小さな暮らしノート",
-   "image": "https://i3.ytimg.com/vi/jOzZWJJkWBQ/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-08-12T08:41:47+00:00",
-   "title_ja": "子育て中でもモノを減らした「家にないもの23選」と暮らしの工夫",
-   "summary_ja": "3歳の子どもと暮らすシングルマザーが、ソファやベッドなど当たり前だと思っていた23個の家具を手放した実例。物を減らして家事をラクにすることで、子どもと過ごす時間を増やした暮らしの工夫を語っている。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [
-    "ソファ",
-    "ベッド"
-   ],
-   "importance": 5
-  },
-  {
-   "id": "350447c40789978e",
-   "url": "https://www.roomie.jp/2026/08/1860879",
-   "title_original": "歩くたびやさしい刺激。クロックスの新作クロッグでおしゃれにリカバリー",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/20260812crocs.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-12T08:15:38+00:00",
-   "title_ja": "足を労るクロックスの新作リカバリーサンダルを紹介する記事",
-   "summary_ja": "立ち仕事や長時間の外出後に足をリラックスさせられる、クロックスの新作サンダル「メロウ 2 クロッグ」を紹介。歩くたびに優しい刺激を感じられる履き心地で、日常使いや足のケアに適した一足としての魅力を伝えている。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "メロウ 2 クロッグ"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "db3171a61379f370",
-   "url": "https://www.youtube.com/shorts/QwJhZtE3FGY",
-   "title_original": "【ミニマリスト主婦】天気がいいと重い腰が上がる",
-   "source": "ぴーこ｜ゆるっとミニマルな日常",
-   "image": "https://i2.ytimg.com/vi/QwJhZtE3FGY/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-08-12T08:00:21+00:00",
-   "title_ja": "天気の良い日に暮らしを整えるミニマリスト主婦の日常",
-   "summary_ja": "晴れた日に重い腰を上げて掃除や片づけを進める、ミニマリスト主婦の日常を切り取ったショート動画。物を持ちすぎず心地よく過ごすために、暮らしを整える工夫や日々の動作を紹介している。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
   }
  ]
 }
