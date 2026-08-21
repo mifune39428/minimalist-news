@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-21T10:28:00.530082+09:00",
+ "updated_at": "2026-08-21T15:53:42.908190+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,7 +29,7 @@
  "things": [
   {
    "name": "服",
-   "count": 15
+   "count": 16
   },
   {
    "name": "本",
@@ -44,20 +44,16 @@
    "count": 4
   },
   {
+   "name": "スマホ",
+   "count": 4
+  },
+  {
    "name": "手帳",
    "count": 4
   },
   {
    "name": "書類",
    "count": 4
-  },
-  {
-   "name": "スニーカー",
-   "count": 3
-  },
-  {
-   "name": "スマホ",
-   "count": 3
   },
   {
    "name": "スマートフォン",
@@ -112,7 +108,15 @@
    "count": 2
   },
   {
+   "name": "クローゼット",
+   "count": 2
+  },
+  {
    "name": "サンダル",
+   "count": 2
+  },
+  {
+   "name": "スニーカー",
    "count": 2
   },
   {
@@ -271,6 +275,127 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "b90128fce48c8084",
+   "url": "https://note.com/happyhappy_panda/n/n79b5fd24ca62",
+   "title_original": "【実家の片付け】親を責めずに今できることをはじめてみよう！！",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/305588409/rectangle_large_type_2_2b0a4964ab885f6bfbc2a55227c02e9f.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-21T06:46:26+00:00",
+   "title_ja": "実家の片付けで直面した衝突と心構え",
+   "summary_ja": "実家の片付けに悩む筆者が、親との衝突や意見の食い違いによる心の疲れを乗り越えた経験をつづっています。ゴミに見える物の処分を巡る苦労や、断捨離を進める上で避けて通れない壁への向き合い方について触れています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "c8149cb54004a975",
+   "url": "https://note.com/morinotosyokan/n/n6740586def5a",
+   "title_original": "片づけ終わっていきたい世界を描く",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/305566308/rectangle_large_type_2_a6b9d50a971fc2382c567f138529bb45.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-21T05:45:27+00:00",
+   "title_ja": "片づけを進めても理想に届かないと感じた時の話",
+   "summary_ja": "捨て作業を続けているにもかかわらず、まだミニマリストになれていないと感じる悩みについて語った記事。理想の世界を描きながら片づけに向き合う様子が書かれている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "d281b418203d18b4",
+   "url": "https://note.com/to_aru_hi_/n/n783c812871e3",
+   "title_original": "【断捨離】せいろを手放す",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/305572580/rectangle_large_type_2_08f418ce51c5d9da6dc29454a0cd8f98.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-21T05:44:46+00:00",
+   "title_ja": "インコにかじられてせいろを手放した話",
+   "summary_ja": "ヘルシー調理器具として使っていたせいろを手放した体験談。ペットのオカメインコにかじられてボロボロになってしまったため、置く場所や管理を見直して処分することになった。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "せいろ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "970a8480e2185952",
+   "url": "https://note.com/merry_takin6717/n/n0cd738125e51",
+   "title_original": "『ミニマリストへの道』完全ロードマップ",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/305571728/rectangle_large_type_2_b841a9e162e201623de18531050b3305.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-21T05:40:01+00:00",
+   "title_ja": "不要なモノやコトをなくすミニマリストへの道",
+   "summary_ja": "不要なモノやコトにエネルギーを奪われている状態をなくし、ゼロのスタートラインに立つための考え方を紹介。知識ゼロからでも実践できる挫折しないためのコツについて解説している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "ba2b79160d7584fd",
+   "url": "https://note.com/calm_swan927/n/ne8d7a1fa8e74",
+   "title_original": "服のリバウンドについて",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/305569623/rectangle_large_type_2_486e4a85f603d50d917555da791b9868.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-21T05:31:55+00:00",
+   "title_ja": "服の断捨離とリバウンドについての考察",
+   "summary_ja": "最近になって服が増えてきたことをきっかけに、ミニマリストを題材にした小説を読んで再び断捨離への思いを巡らせた記事。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "f0959587be9c7349",
+   "url": "https://www.roomie.jp/2026/08/1862616",
+   "title_original": "屋外フェスの悩み「暑さ・スマホの持ちにくさ・充電切れ」。TORRASで、快適に過ごせる装備をそろえてみた",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/P1020168_16_9-scaled.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-21T02:00:06+00:00",
+   "title_ja": "屋外フェスを快適に過ごすための暑さ対策とスマホ装備",
+   "summary_ja": "屋外フェスで体力を保ち、スマホの充電切れを防ぐために導入した暑さ対策グッズやスマホ周辺の愛用品を紹介している。身軽にイベントを楽しむための装備。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "スマホ",
+    "暑さ対策グッズ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b3723bc0de8d7e04",
+   "url": "https://www.aol.com/articles/professional-organizer-helped-tidy-messy-010700000.html",
+   "title_original": "How a Professional Organizer Helped Me Tidy My Messy Closet in 4 Simple Steps",
+   "source": "AOL.com",
+   "image": "https://hermes.media.static.aol.com/media/2026/08/21/66eb936d-5295-3fd2-b45c-8b86606c64b1/5ccf0b03-aabe-4b7c-a9e8-fa9a1b7af035.png",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-21T01:19:08+00:00",
+   "title_ja": "プロの整理収納アドバイザーと散らかったクローゼットを片付けた話",
+   "summary_ja": "散らかったクローゼットを専門家の手を借りて4つのシンプルなステップで整理整頓した経験について語っている。片付けや収納見直しの参考になる事例。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "クローゼット"
+   ],
+   "importance": 3
+  },
   {
    "id": "64b77d7fdc6a6dd5",
    "url": "https://note.com/tekeshun/n/nfe2764c8aaaa",
@@ -7110,135 +7235,6 @@
    "things": [
     "スタンド",
     "Switch"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2f671d09f5d5e1f7",
-   "url": "https://www.lifehacker.jp/article/2608-lht-notta-memo",
-   "title_original": "録音したら、文字起こしまで終わっている。ポケットに収まる「Notta Memo」",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/08/12/8eaba113-6c0e-43e9-906e-8eff322f2d39/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-12T13:15:00+00:00",
-   "title_ja": "高精度な文字起こしができるポケットサイズのボイスレコーダー",
-   "summary_ja": "録音データの品質にこだわりたい人に向けて、高精度な文字起こし機能を備えたポケットサイズのボイスレコーダー「Notta Memo」を紹介。優秀なアプリを使うだけでなく、録音デバイス自体にこだわることで、文字起こしの精度をワンランク上へと引き上げる。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "Notta Memo",
-    "ボイスレコーダー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "a31ce551a5b052df",
-   "url": "https://news.yahoo.co.jp/articles/504b24a3d7d12eb4e1f7d511acdabcb3200f051f/images/001",
-   "title_original": "実家の押し入れが「ゴミ置き場」になっているかも。“断捨離”3ステップですっきり：やましたひでこさん直伝 (ESSE-online)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3h9uiCojScY7SLYgxmEygY1Zd6ylWM4bnnOlsLaHRdQuHM_HR8SNYUpM6yjYI9OJWpptQK1arrsENiP2-yen-UwqzJ4o6IFUkogu08lXT51Bd64fcgYaY4u9QAoiE0lZx",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-12T13:01:21+00:00",
-   "title_ja": "実家の押し入れをすっきりさせる、やましたひでこさん直伝の断捨離3ステップ",
-   "summary_ja": "実家の押し入れが不要なもので埋まってしまうのを防ぐため、やましたひでこさんが提唱する断捨離の3ステップを紹介。順を追って片づけることで、押し入れをすっきりと整理する方法を解説している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "f5deb9d674cfd012",
-   "url": "https://monomax.jp/archives/356556",
-   "title_original": "【サングラスで写真や音楽、通話まで!?】オークリー×Metaの話題作！カメラ・スピーカー・AI搭載の「Oakley Meta HSTN」が優秀すぎた",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2027/08/260603-144471_11zon-scaled.jpeg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-12T13:00:42+00:00",
-   "title_ja": "写真や通話も可能なカメラとスピーカー搭載の多機能サングラス",
-   "summary_ja": "オークリーとMetaがコラボレーションした「Oakley Meta HSTN」を紹介。サングラスでありながら、カメラ、スピーカー、AIを搭載しており、これ一台で写真撮影や音楽鑑賞、通話までこなせる優秀な多機能ガジェット。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "Oakley Meta HSTN",
-    "サングラス"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "0f83a4f7cbed5950",
-   "url": "https://www.roomie.jp/2026/08/1860792",
-   "title_original": "夏の散歩シューズにHOKAの「スリッポン」を購入。2万歩弱歩いて、疲れにくさを実感しました",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/260810_hoka_04.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-12T13:00:42+00:00",
-   "title_ja": "夏の散歩を快適にするHOKAのスリッポン「Restore TC」の使用感",
-   "summary_ja": "休日の買い物やちょっとした移動でよく歩く筆者が、夏の暑さや蒸れを解消するために購入したHOKAのスリッポン「Restore TC」のレビュー。2万歩近く歩いても疲れにくく、夏の移動を快適にしてくれる一足を実際に使った感想が綴られています。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "HOKA Restore TC",
-    "スリッポン",
-    "スニーカー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "9d912c8ffdda2043",
-   "url": "https://www.lifehacker.jp/article/2608-use-dark-note-app-android-exh",
-   "title_original": "Google Keepから乗り換えもアリ！Android無料メモアプリ「Dark Note」はかゆいところに手が届く",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/03/18/179b8392-2c43-4555-a7e0-d487dff016de/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-12T13:00:00+00:00",
-   "title_ja": "シンプルで使いやすい無料メモアプリ「Dark Note」の特徴と活用法",
-   "summary_ja": "Google Keepの代替として注目されるAndroidアプリ「Dark Note」の紹介。完全無料かつ広告なしで利用でき、ノートのロックや動画埋め込み機能を備えています。同期機能はないものの、シンプルさとプライバシーを重視する人に適したツールです。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "Dark Note",
-    "Google Keep"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "839b5ab2972ba90a",
-   "url": "https://www.lifehacker.jp/article/2608-4-apple-watch-settings-for-longer-battery-life",
-   "title_original": "Apple Watch Ultra 3のバッテリーを長持ちさせる、4つのシンプルな設定",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/08/12/1569fede-e90b-4b58-9eb3-736a24fefa83/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-12T12:45:00+00:00",
-   "title_ja": "Apple Watch Ultra 3のバッテリーを長持ちさせる4つの設定",
-   "summary_ja": "Apple Watch Ultra 3のバッテリー消費を抑える設定テクニック。画面の「常にオン」機能のオフや通知の整理など、使い勝手を維持しながら駆動時間を延ばす4つのポイントが紹介されており、睡眠記録までカバーできるようになります。",
-   "category": "道具・ガジェット",
-   "axis": "reduce",
-   "things": [
-    "Apple Watch Ultra 3"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "0796f9ebaa73ab0d",
-   "url": "https://www.roomie.jp/2026/08/1862199",
-   "title_original": "カーテンレールが最高の部屋干しスペースに。山崎実業の専用フックで「ほぼサンルーム」ができた",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/06/928878dc509c2088a6d2f00443ca7206.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-12T12:00:55+00:00",
-   "title_ja": "カーテンレールを部屋干しスペースにする山崎実業の専用フック",
-   "summary_ja": "天気が不安定な時期の部屋干しスペース不足を解決する、山崎実業の「カーテンレール上ハンガーフック タワー」を紹介。カーテンレール上のデッドスペースを有効活用し、手軽に部屋干しスペースを増やすことができる便利なアイテム。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "カーテンレール上ハンガーフック タワー"
    ],
    "importance": 3
   }
