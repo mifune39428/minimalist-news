@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-22T21:44:50.069752+09:00",
+ "updated_at": "2026-08-23T03:35:51.051867+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,11 +29,11 @@
  "things": [
   {
    "name": "服",
-   "count": 15
+   "count": 12
   },
   {
    "name": "本",
-   "count": 8
+   "count": 9
   },
   {
    "name": "iPhone",
@@ -172,10 +172,6 @@
    "count": 2
   },
   {
-   "name": "封筒",
-   "count": 2
-  },
-  {
    "name": "布団",
    "count": 2
   },
@@ -185,6 +181,10 @@
   },
   {
    "name": "現金",
+   "count": 2
+  },
+  {
+   "name": "腕時計",
    "count": 2
   }
  ],
@@ -271,6 +271,110 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "9e101ab4c8f02bf7",
+   "url": "https://thesimplicityhabit.com/what-slow-living-is-practice",
+   "title_original": "Slow Living: What It Is and How to Practice It",
+   "source": "The Simplicity Habit",
+   "image": "https://thesimplicityhabit.com/wp-content/uploads/2022/09/1-1024x683.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-08-22T18:00:31+00:00",
+   "title_ja": "現代社会で実践するスローリビングの考え方",
+   "summary_ja": "常に接続された現代社会において、立ち止まりペースを落として暮らすためのスローリビングの基本と実践方法を紹介する記事。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "da8fad741395320e",
+   "url": "https://note.com/yorozuyatetsu/n/n5dbce399b38c",
+   "title_original": "本棚、一度リセットしよう。読まない本の手放し方と宅配買取という出口",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/305944051/rectangle_large_type_2_f0fbc1648190ad5adf6b3b411cffb208.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-22T16:04:03+00:00",
+   "title_ja": "読まない本をリセットして手放す方法",
+   "summary_ja": "読まない本で埋もれていた本棚を見直し、宅配買取という出口を利用して大量の本を手放した経験と付き合い方の変化をつづった記事。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "本"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "56ed0a3d53b612e7",
+   "url": "https://note.com/yorozuyatetsu/n/n23bf9a26a65f",
+   "title_original": "機材車、持たなくてよくない？カーシェア時代のバンドマンの車との付き合い方",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/305937933/rectangle_large_type_2_49e0be5f4126b9986ae61e0c1ddb2478.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-22T15:55:19+00:00",
+   "title_ja": "カーシェア時代に機材車を持たない選択をした話",
+   "summary_ja": "維持費の重い機材車を手放し、カーシェアを活用してライブやスタジオに通うバンドマンの現実的な車の持たない選択について書かれた記事。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "車"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "f7ff56e39d01ef40",
+   "url": "https://note.com/kanako6095/n/n0dd1529e7a0b",
+   "title_original": "違和感に気づく事",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/306061201/rectangle_large_type_2_8f27d0e4685e872dccd67b3b3459c42c.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-22T15:54:28+00:00",
+   "title_ja": "断捨離で身の回りの違和感に気づいた話",
+   "summary_ja": "断捨離を進める中で、当たり前になっていた物の使いづらさや知らず知らずのうちに抱えていたストレスに気づいたという体験談。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "20acbc19605cc321",
+   "url": "https://note.com/2019t1204/n/n072dddc65e2a",
+   "title_original": "ミニマリストよ、「マキタ」を抱け。~掃除という煩わしさからの完全脱出劇~",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/306027438/rectangle_large_type_2_c39ec4002fbbb47c045163039cbe7054.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-22T13:42:28+00:00",
+   "title_ja": "掃除機を見直してマキタを選んだ理由",
+   "summary_ja": "多機能で未来的デザインの掃除機と比べ、本当に必要な掃除のしやすさを追求した結果、マキタの掃除機に行き着いたミニマリストの体験談。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "マキタの掃除機"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "344bb02a72049a3f",
+   "url": "https://www.roomie.jp/2026/08/1868146",
+   "title_original": "耳を塞がない開放感ってちょうどいい！nwmの「オープン型ヘッドホン」が音楽と自然の音を調和してくれたよ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/DSC00849.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-22T13:00:40+00:00",
+   "title_ja": "周囲の音も聞こえるNTTソノリティのヘッドホン",
+   "summary_ja": "耳を塞がない開放感がありながら高音質を楽しめる、NTTソノリティのオープン型ヘッドホンを家事や仕事中に活用しているレビュー。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "nwm ONEのヘッドホン"
+   ],
+   "importance": 3
+  },
   {
    "id": "1cca3b660768e081",
    "url": "https://note.com/socosocokuma/n/n30c5125544a8",
@@ -389,6 +493,42 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
+  },
+  {
+   "id": "8690aeb40161dd2f",
+   "url": "https://www.roomie.jp/2026/08/1861106",
+   "title_original": "マツキヨの「顔の汗そのものを減らしてくれるミスト」のおかげで通勤でメイクが崩れなくなった！",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/matsukiyoasemist022.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-22T12:00:12+00:00",
+   "title_ja": "マツキヨで見つけた汗対策ミストで通勤の崩れを防ぐ",
+   "summary_ja": "暑い夏の通勤時におけるメイク崩れに悩み、マンダムの薬用制汗ミストを導入したことで快適な通勤を実現した話。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "汗対策ミスト"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "579db6a4693af0c7",
+   "url": "https://www.lifehacker.jp/article/2608-machi-ya-timeorb-lh-editorialreview-rdk",
+   "title_original": "ふと手元を見るたび気分が上がる。手首に「小さな宇宙」を乗せる自動巻き腕時計",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/06/59c6f8c0-656a-4e25-96a2-e41e74efe986/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-22T12:00:00+00:00",
+   "title_ja": "手元を見るたび気分が上がる自動巻き腕時計の魅力",
+   "summary_ja": "時間を愛おしく感じさせてくれる自動巻き腕時計「TIMEORB」について紹介しているアイテム記事。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "腕時計"
+   ],
+   "importance": 2
   },
   {
    "id": "780f16f696892a35",
@@ -7116,148 +7256,6 @@
     "パソコン"
    ],
    "importance": 3
-  },
-  {
-   "id": "37abe1a89baee707",
-   "url": "https://www.lifehacker.jp/article/2608-reikanmatome",
-   "title_original": "家でも外でも、涼しく過ごせる！編集部員が実践する「シーン別・ひんやり愛用品」活用術",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/08/13/c2f61377-b212-4a27-adb0-3328693a9f33/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-14T12:30:00+00:00",
-   "title_ja": "猛暑を快適に乗り切るために編集部員が愛用しているひんやりグッズの話",
-   "summary_ja": "編集部員が夏の猛暑を快適に過ごすために実際に愛用している冷感アイテムを紹介する。家でも外出先でも涼しく過ごせるよう、それぞれのシーンに合わせたひんやりグッズの使い方や工夫、本気で重宝しているアイテムをまとめている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "冷感アイテム"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "ca93d5e1ffaed331",
-   "url": "https://www.roomie.jp/2026/08/1859431",
-   "title_original": "帰宅したら、玄関でそのまま開封。ミドリの「レターカッター」で郵便物を溜めない習慣ができた",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/20260809-lettercutter-01.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-14T12:00:48+00:00",
-   "title_ja": "玄関での開封を習慣化し郵便物を溜めない暮らしを実現した人の話",
-   "summary_ja": "帰宅後に郵便物を放置してしまう悩みを、玄関ドアに貼り付けられるマグネットレターカッターの導入で解決した体験談。1ヶ月の使用で、テーブルに未開封の封筒を溜める悪習慣がなくなり、その場ですぐに開封して整理できるようになった。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "マグネットレターカッター",
-    "封筒"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "abc9310599d75f4e",
-   "url": "https://www.lifehacker.jp/article/2608-questioning-skills-lifehack",
-   "title_original": "効率主義だった私が「自動運転モード」をやめて見つけた、一生モノの「問い力」を鍛える7つの思考実験",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/08/13/84e2b190-b70e-4609-8dfe-01152472a07d/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-14T12:00:00+00:00",
-   "title_ja": "効率主義を捨てて日常の違和感から自分らしさを見つける思考法",
-   "summary_ja": "効率ばかりを求める姿勢や情報の受け流しをやめ、日常の違和感に立ち止まることで思考力を鍛える方法を解説。視点を変える7つの思考実験を通じて、変化の激しい時代を自分らしく主体的に生き抜くための実践的なメソッドを紹介している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "4455f09983aec691",
-   "url": "https://news.livedoor.com/article/detail/32068579",
-   "title_original": "断捨離の悩みを解決！親の「もったいない」に直面した時のシンク下＆食料庫片付け術",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-14T12:00:00+00:00",
-   "title_ja": "親の「もったいない」に直面した時のシンク下と食料庫の片付け術",
-   "summary_ja": "親世代の「もったいない」という気持ちに寄り添いながら、実家のシンク下や食料庫を片付ける方法を紹介。断捨離を進める際によくある衝突や悩みを解決し、お互いに納得しながら整理整頓を進めるための具体的な実践術を解説する。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "b9dbd0d16aae9ef4",
-   "url": "https://www.roomie.jp/2026/08/1863628",
-   "title_original": "1万円台で買えるし冷房効率もアップ。除湿機って意味ある？の思い込みが覆った1台がコレです",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/nwtjoshitsutokkagatacompactmachine5.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-14T11:45:01+00:00",
-   "title_ja": "邪魔にならず冷房効率を高めるコンパクトな除湿機を紹介",
-   "summary_ja": "邪魔になりそうなイメージから導入をためらいがちな除湿機について、コンパクトで日常使いに十分な機能を備えた1万円台の「NWT 除湿特化型コンパクトマシン」を紹介。日本の蒸し暑い夏を快適に過ごし、冷房効率を高めるための選択肢として提案している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "NWT 除湿特化型コンパクトマシン",
-    "除湿機"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "ab20cb9b8e83b279",
-   "url": "https://www.youtube.com/watch?v=M-oetXArCzw",
-   "title_original": "【引っ越し前に全出し】買い物で失敗する服には、ある共通点がありました。【ミニマリスト】",
-   "source": "ミニマリストsin",
-   "image": "https://i2.ytimg.com/vi/M-oetXArCzw/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-08-14T11:00:26+00:00",
-   "title_ja": "引っ越し前に服を全出しして分かった買い物で失敗する服の共通点",
-   "summary_ja": "引っ越しを機にクローゼットの服をすべて取り出し整理するなかで、購入時に失敗しやすい服に共通する特徴を解説する。クローゼットを整理し、無駄な買い物を減らすための服選びの基準や手放し方のヒントを紹介している。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "服"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "e1e7fa298e4d5c68",
-   "url": "https://www.youtube.com/watch?v=dhfT605dakc",
-   "title_original": "【衝撃】ミニマル思考で、年間被服費に驚きの変化！/アイテム選びのコツ/20代独身女",
-   "source": "レイの小さな暮らし",
-   "image": "https://i1.ytimg.com/vi/dhfT605dakc/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-08-14T11:00:26+00:00",
-   "title_ja": "ミニマル思考で被服費を抑える20代女性のワードローブと服選び",
-   "summary_ja": "ミニマルな思考を取り入れることで年間の被服費を抑えている20代独身女性による、服選びのコツと持ち物の紹介。オールシーズンで合計21着という厳選されたワードローブを維持しながら、シンプルで心地よい暮らしを送る工夫を伝える。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "服"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "a63937a70cbed639",
-   "url": "https://www.youtube.com/watch?v=QHpfRL7vRSo",
-   "title_original": "【ミニマリスト】最低限の手間で綺麗を保つ掃除ルーティン、アイテム",
-   "source": "ミニマリスト Nozomi",
-   "image": "https://i2.ytimg.com/vi/QHpfRL7vRSo/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-08-14T11:00:11+00:00",
-   "title_ja": "4人暮らしで服3着のミニマリストが実践する掃除ルーティンと道具",
-   "summary_ja": "服3着、家族4人で持ち物40個という暮らしを送るミニマリストが、最低限の手間で部屋の綺麗さをキープするための掃除ルーティンと愛用アイテムを紹介。育児や仕事と両立しながらスマートに暮らすための家事の仕組みを提案する。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "服"
-   ],
-   "importance": 4
   }
  ]
 }
