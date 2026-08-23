@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-23T21:46:42.394285+09:00",
+ "updated_at": "2026-08-24T03:35:09.709457+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,7 +29,7 @@
  "things": [
   {
    "name": "服",
-   "count": 12
+   "count": 10
   },
   {
    "name": "本",
@@ -65,6 +65,10 @@
   },
   {
    "name": "スマートフォン",
+   "count": 3
+  },
+  {
+   "name": "バックパック",
    "count": 3
   },
   {
@@ -116,19 +120,11 @@
    "count": 2
   },
   {
-   "name": "タオル",
-   "count": 2
-  },
-  {
    "name": "テレビ",
    "count": 2
   },
   {
    "name": "ハンディファン",
-   "count": 2
-  },
-  {
-   "name": "バックパック",
    "count": 2
   },
   {
@@ -207,6 +203,7 @@
   "Mshale",
   "NewsBreak: Local News & Alerts",
   "No Sidebar",
+  "Pangolins with Packs",
   "Post and Courier",
   "RFD-TV",
   "ROOMIE",
@@ -221,6 +218,7 @@
   "The Spruce",
   "The i Paper",
   "TheCoolist",
+  "Woman & Home",
   "Yahoo Creators",
   "Yahoo!ニュース",
   "YouTube",
@@ -264,6 +262,128 @@
  "count": 400,
  "items": [
   {
+   "id": "c75bf7afd4608e8e",
+   "url": "https://note.com/kaiyoru/n/n8df3608d729f",
+   "title_original": "40代、肩が重いお前へ。やめてよかったこと7選",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/306407699/rectangle_large_type_2_eec1b1c4278a6caf78b7aec7707b5102.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-23T18:08:31+00:00",
+   "title_ja": "40代の著者が肩の荷を下ろすために「やめてよかった」7つのこと",
+   "summary_ja": "40代になり生きづらさや重圧を感じていた著者が、気持ちや生活の負担を減らすために「やめてよかった」と感じた7つの習慣や行動について綴ったエッセイ。自分自身を見直し、無理を重ねない暮らしへ切り替えるためのヒントを紹介している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "4d8f52ab59905546",
+   "url": "https://note.com/taro_minimalism/n/n32f0d49d7812",
+   "title_original": "ミニマリスト｜HSP｜ゲームは最高の節約ツール",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/306394287/rectangle_large_type_2_b22ffebe214e8830d60932e9e31bd55c.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-23T15:51:07+00:00",
+   "title_ja": "ミニマリストがテレビゲームやPCゲームを節約ツールとして活用する理由",
+   "summary_ja": "ミニマリストでありHSPの著者が、テレビゲームやPCゲームをお金をかけずに楽しめる最高の節約ツールとして捉えている理由を語る。ゲームセンターではなく自宅で遊べるゲームを活用することで、出費を抑えながら充実した時間を過ごす工夫を紹介。",
+   "category": "お金・買い方",
+   "axis": "own",
+   "things": [
+    "テレビゲーム",
+    "PCゲーム"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "f53a373d08485605",
+   "url": "https://note.com/le_ssrisa/n/ne27658b1b0be",
+   "title_original": "【日々捨て活】最近手放したもの3",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/306381620/rectangle_large_type_2_c208ba1fb4e6c4642a44f4b37430f120.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-23T15:48:12+00:00",
+   "title_ja": "モチベーションが上がらない中で著者が最近手放した3つのもの",
+   "summary_ja": "暑さやインテリアへの目移りで片づけのモチベーションが上がりにくい中でも、日常の中で少しずつ片づけを進め、最近手放した3つのアイテムについて記録している様子を伝える。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "1abe479df07b3d49",
+   "url": "https://note.com/monchanmissheru/n/n394d12e69776",
+   "title_original": "モヤモヤが止まらない時こそ、まず「物」を整えてみる。～回避型の恋愛に悩んでいるあなたへ～",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/306386810/rectangle_large_type_2_089b27c50b4a530f16070388de757f40.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-23T15:13:30+00:00",
+   "title_ja": "心がモヤモヤする時に物を整えてストレスを減らす方法",
+   "summary_ja": "心がモヤモヤしたり不安を感じたりする時に、断捨離や片付け、拭き掃除を行う人の話。ソファや床、引き出しに物が溢れ、スプーンや櫛などの探し物をする小さなストレスの積み重ねが心の負担になるため、まずは身の回りの物を整えることで気持ちを落ち着かせる。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "ソファ",
+    "スプーン",
+    "櫛",
+    "ヘアピン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ac33a1d7d9a78350",
+   "url": "https://note.com/happysummer_yuka/n/ne94b296f5baf",
+   "title_original": "変わりたいのに変われないあなたへ。『断捨離』で気づいた、モヤモヤと「たられば」を手放して自分を取り戻す方法",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/306382835/rectangle_large_type_2_bfd594bf49492e5e8185bb9b087cee8e.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-23T15:12:58+00:00",
+   "title_ja": "断捨離で心の中のモヤモヤと「たられば」を手放す方法",
+   "summary_ja": "暑さによるイライラや原因のわからない心のモヤモヤを抱える中で、断捨離を通じて執着や後悔の気持ちを手放し、自分自身を取り戻すプロセスについて綴ったブログ記事。具体的な物の片付けだけでなく、心の整理にもつながるアプローチを紹介している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "992441c2c0787592",
+   "url": "https://thesimplicityhabit.com/10-best-minimalist-rules-save-money-prevent-clutter",
+   "title_original": "The 10 Best Minimalist Rules (to Save Money and Prevent Clutter)",
+   "source": "The Simplicity Habit",
+   "image": "https://thesimplicityhabit.com/wp-content/uploads/2024/05/horizontal-blog-post-2024-05-08T124834.248-1024x683.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-08-23T14:42:54+00:00",
+   "title_ja": "お金を節約して部屋の散らかりを防ぐ10のミニマルルール",
+   "summary_ja": "家の中に溢れる物を減らし、散らかりによるストレスを解消するために役立つ10のミニマリストルールを紹介する記事。ルールを実践することで、無駄遣いを防いでお金を節約しながら、すっきりと整った快適な住まいを維持する方法を提案している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "583a660b2ba1c1a0",
+   "url": "https://www.roomie.jp/2026/08/1868209",
+   "title_original": "10月始まりの「ロルバーンダイアリー」にミニサイズが新登場。ポケットに入る日記手帳でメモを習慣化できそう",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/ogmax_20260821-7.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-23T13:00:22+00:00",
+   "title_ja": "ロルバーンダイアリーに新登場したミニサイズのポケット手帳",
+   "summary_ja": "片手に収まるミニサイズが追加されたロルバーンダイアリーを紹介。メモを習慣化しやすい手帳です。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ロルバーンダイアリー"
+   ],
+   "importance": 2
+  },
+  {
    "id": "148bf8158a797629",
    "url": "https://note.com/shion_satsuki/n/n252e80bf54e6",
    "title_original": "2026-08-17【読書習慣】",
@@ -278,6 +398,22 @@
    "axis": "reduce",
    "things": [],
    "importance": 2
+  },
+  {
+   "id": "e8bac2a3ca77abea",
+   "url": "https://www.thespruce.com/things-minimalists-throw-out-at-end-of-summer-12033106",
+   "title_original": "We Asked Cleaning Pros What Minimalists Throw Out at the End of Summer and They Named These 6 Things",
+   "source": "The Spruce",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-23T12:43:00+00:00",
+   "title_ja": "ミニマリストが夏の終わりに手放す6つの物",
+   "summary_ja": "片付けのプロが挙げる、ミニマリストが夏の終わりに手放している具体的な6つの物についての記事です。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
   },
   {
    "id": "58fe0a936e262290",
@@ -535,6 +671,40 @@
    "category": "心・習慣",
    "axis": "reduce",
    "things": [],
+   "importance": 3
+  },
+  {
+   "id": "b73bf04f622c7c49",
+   "url": "https://www.womanandhome.com/homes/cleaning--decluttering/household-items-experts-recycle-and-reuse",
+   "title_original": "Don't throw these 8 household items away – professional organisers say they're worth keeping",
+   "source": "Woman & Home",
+   "image": "https://cdn.mos.cms.futurecdn.net/PDRF84TFsVUUMotRWFU6k3-1920-80.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-23T07:00:00+00:00",
+   "title_ja": "プロが教える捨てるべきではない日用品8選",
+   "summary_ja": "プロの整理収納アドバイザーが解説する、安易に捨ててはいけない8つの日用品についての記事。手放す基準や物の価値を見直す参考になる。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "1e49c6ca7e8b0bc7",
+   "url": "https://pangolinswithpacks.com/alpaka-gear-traverse-38l-backpack-review-b10cc619a014",
+   "title_original": "Alpaka Gear Traverse 38L Backpack Review | by HL | Aug, 2026",
+   "source": "Pangolins with Packs",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-23T06:37:52+00:00",
+   "title_ja": "アルパカギアのバックパックの使用レビュー",
+   "summary_ja": "アルパカギアの38Lバックパック「Traverse」の特徴や使い心地を検証した海外の製品レビュー記事。旅や日常で使う道具選びの参考になる。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "バックパック"
+   ],
    "importance": 3
   },
   {
@@ -7050,187 +7220,6 @@
    "things": [
     "iPhone",
     "Android"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "af8be73befa6983e",
-   "url": "https://www.youtube.com/watch?v=Ft12-4jRiH4",
-   "title_original": "40代ミニマリスト、アクセサリーは13個。全部見せます",
-   "source": "私だけミニマリスト｜南さやか",
-   "image": "https://i3.ytimg.com/vi/Ft12-4jRiH4/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-08-15T10:00:21+00:00",
-   "title_ja": "服が少ない40代ミニマリストが厳選して所有する13個のアクセサリー",
-   "summary_ja": "服を少なく暮らす40代ミニマリストが、自分にとって本当に必要な13個のアクセサリーを紹介する話。数が少なければ良いという固定観念にとらわれず、自分に合った厳選アイテムを持ちながら身軽に暮らす考え方を伝えている。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "アクセサリー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "5115c4c039eb85fa",
-   "url": "https://www.roomie.jp/2026/08/1863992",
-   "title_original": "マーナの専用ケースで「お掃除シートの生活感」がゼロに。サッと拭く習慣がついて、キッチンもきれいになりました",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/2608_sheetcase_top.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-15T10:00:13+00:00",
-   "title_ja": "マーナのワンタッチケースでお掃除シートの生活感を減らした話",
-   "summary_ja": "パッケージの派手なお掃除シートを隠すため、マーナのワンタッチで開くシートケースを導入したレビュー。従来のケースにあったフタの開閉しにくさやシートの乾燥を防ぎ、サッと手軽に掃除できる環境を作った事例を紹介している。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "お掃除シート",
-    "シートケース"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "1e2960bac38187f5",
-   "url": "https://nosidebar.com/everyday-items-making-your-home-feel-cluttered",
-   "title_original": "10 Everyday Items That Are Making Your Home Feel Cluttered",
-   "source": "No Sidebar",
-   "image": "https://nosidebar.com/wp-content/uploads/everyday-item-clutter.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-08-15T09:00:00+00:00",
-   "title_ja": "役に立つと思って増やしがちな日用品が家を散らかす原因になる話",
-   "summary_ja": "タオルや衣服、調理器具や洗面用具といった有用な日用品ほど、数が多ければ良いと思い込み無意識に家を散らかしてしまう懸念を解説。便利だからと疑問を持たずに持ち過ぎてしまう罠と、生活用品の適切な所有量について投げかけている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "タオル",
-    "服",
-    "調理器具",
-    "洗面用具"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "bec8a07e15b5d1b4",
-   "url": "https://monomax.jp/archives/357340",
-   "title_original": "【これ本当に付録!?】1～2泊の旅行に激推し！SHIPS anyの「7大機能ボストン」が優秀すぎる",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2026/08/2610_icon.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-15T08:00:49+00:00",
-   "title_ja": "旅行や出張に活躍する多機能ボストンバッグ",
-   "summary_ja": "１〜２泊の旅行や出張に最適とされる、SHIPS anyの「7大機能ボストン」の使い勝手を紹介。多くの荷物をすっきりと収納できる優秀なバッグとして、身軽な移動をサポートする。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "ボストンバッグ"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "93a656964ad76f66",
-   "url": "https://note.com/natty_shark189/n/n83f630b0f8ed",
-   "title_original": "服を200着から20着に減らすまで。私が手放したのは「服」だけではありませんでした。",
-   "source": "note #少ない服で暮らす",
-   "image": "https://assets.st-note.com/production/uploads/images/303631734/rectangle_large_type_2_1faef11c0f395461a31007bea09cb128.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-15T02:24:45+00:00",
-   "title_ja": "200着から20着の服へ減らした40代の体験談",
-   "summary_ja": "かつて200着以上持っていた服を、オールシーズン20着まで減らした40代後半の体験談です。服だけでなく、物を通して自分の生き方を見つめ直した記録となっています。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "服"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "293b1a85e498d5e2",
-   "url": "https://www.roomie.jp/2026/08/1863825",
-   "title_original": "猛暑日も外で仕事する夫が「ユニクロの透け透けタンクトップ」を買い足したいと熱望。365日着たいと言ってます",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/b02cd3b88330b6b8d325abee0528b05b.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-15T02:01:14+00:00",
-   "title_ja": "猛暑日の外仕事で夫が買い足したいと熱望するユニクロのインナー",
-   "summary_ja": "猛暑の中で外仕事を続ける夫が、365日着たいほど気に入って買い足したいと熱望しているユニクロの透け感のあるタンクトップについて語られています。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "ユニクロのタンクトップ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "535a88272b0f3e89",
-   "url": "https://news.livedoor.com/article/detail/32071348",
-   "title_original": "【断捨離ルーティン】ライフさんの真似したい収納スペース！「シンプルな暮らし」を叶える整理術",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-15T01:38:00+00:00",
-   "title_ja": "シンプルな暮らしを叶えるライフさんの収納と整理術",
-   "summary_ja": "真似したい収納スペースを通じて、シンプルな暮らしを実現するための整理術を紹介している断捨離ルーティンの記事です。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "1910e918d1833079",
-   "url": "https://www.roomie.jp/2026/08/1863694",
-   "title_original": "この防災電球で日頃から備えを。停電しても0.2秒で自動点灯、音声操作も懐中電灯代わりにもなる",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/livaia1.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-15T00:45:04+00:00",
-   "title_ja": "日常使いと防災を兼ねる音声防災電球の紹介",
-   "summary_ja": "普段はLED電球として使いながら、停電時には0.2秒で自動点灯する防災電球を紹介しています。懐中電灯代わりにもなり、日常から備えができるアイテムです。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "防災電球",
-    "USB Type-C充電器"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "4fc8c1411983a9b3",
-   "url": "https://minimalist-fudeko.com/curbing-problematic-shopping",
-   "title_original": "買いすぎるのはいつものクセ。まず今の気持ちを書き出してみる",
-   "source": "筆子ジャーナル",
-   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/08/writing-notes.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-15T00:10:40+00:00",
-   "title_ja": "買い物をしすぎるクセと心の穴への向き合い方",
-   "summary_ja": "買い物で心の穴を埋めようとしてしまう悩みに対し、まずは今の気持ちを書き出すことを提案しています。買いすぎてしまうクセを見つめ直すためのアドバイスです。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "39bb86719d4698af",
-   "url": "https://www.roomie.jp/2026/08/1864024",
-   "title_original": "香水初心者だけど、不思議と毎日使いたくなる「バウムのオーデコロン」。パートナーと一緒に愛用しています",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2022/12/221210_baum_09.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-15T00:00:24+00:00",
-   "title_ja": "毎日使いたくなるパートナーと愛用のオーデコロン",
-   "summary_ja": "香水に詳しくなかった執筆者が、パートナーと一緒に毎日愛用しているバウムのオーデコロンについて紹介しています。",
-   "category": "その他",
-   "axis": "own",
-   "things": [
-    "オーデコロン"
    ],
    "importance": 3
   }
