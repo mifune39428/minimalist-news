@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-23T10:31:01.092223+09:00",
+ "updated_at": "2026-08-23T15:47:02.068922+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -40,15 +40,7 @@
    "count": 6
   },
   {
-   "name": "財布",
-   "count": 5
-  },
-  {
    "name": "スマホ",
-   "count": 4
-  },
-  {
-   "name": "バックパック",
    "count": 4
   },
   {
@@ -64,8 +56,8 @@
    "count": 4
   },
   {
-   "name": "カード",
-   "count": 3
+   "name": "財布",
+   "count": 4
   },
   {
    "name": "スニーカー",
@@ -96,19 +88,11 @@
    "count": 3
   },
   {
-   "name": "TSUBANE CASE",
-   "count": 2
-  },
-  {
    "name": "USB-Cケーブル",
    "count": 2
   },
   {
    "name": "おもちゃ",
-   "count": 2
-  },
-  {
-   "name": "キャリーケース",
    "count": 2
   },
   {
@@ -140,6 +124,10 @@
    "count": 2
   },
   {
+   "name": "バックパック",
+   "count": 2
+  },
+  {
    "name": "ワンクリップアルミハンガー",
    "count": 2
   },
@@ -157,10 +145,6 @@
   },
   {
    "name": "収納アイテム",
-   "count": 2
-  },
-  {
-   "name": "名刺入れ",
    "count": 2
   },
   {
@@ -185,6 +169,18 @@
   },
   {
    "name": "腕時計",
+   "count": 2
+  },
+  {
+   "name": "調味料",
+   "count": 2
+  },
+  {
+   "name": "車",
+   "count": 2
+  },
+  {
+   "name": "鍵",
    "count": 2
   }
  ],
@@ -226,6 +222,7 @@
   "The Simplicity Habit",
   "The Spruce",
   "The i Paper",
+  "TheCoolist",
   "Yahoo Creators",
   "Yahoo!ニュース",
   "YouTube",
@@ -258,6 +255,7 @@
   "ミニマリスト Nozomi",
   "ミニマリストsin",
   "ミニマリストじゅん",
+  "ヨムーノ",
   "ライフハッカー・ジャパン",
   "ライブドアニュース",
   "レイの小さな暮らし",
@@ -320,6 +318,41 @@
    "things": [
     "服"
    ],
+   "importance": 3
+  },
+  {
+   "id": "9a31b153db8a2188",
+   "url": "https://www.roomie.jp/2026/08/1605182",
+   "title_original": "築8年、戸建ての注文住宅。「頑張らなくても片づく」収納とDIYの工夫（愛知県）",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2025/09/DSCF6059-2.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-23T01:00:43+00:00",
+   "title_ja": "DIYのダイニングテーブルと心地よい収納の工夫",
+   "summary_ja": "吹き抜けのリビングやモルタル仕上げのキッチン、自作のダイニングテーブルなど、住まいを心地よく保つインテリアと収納の工夫を紹介している。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "ダイニングテーブル",
+    "キッチン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "3a8ce91bdaa6d76c",
+   "url": "https://news.livedoor.com/topics/detail/32135314",
+   "title_original": "「投資に回すお金がない」を解決！固定費の断捨離で資産形成のパフォーマンスを上げよう (2026年8月23日掲載)",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-23T00:24:35+00:00",
+   "title_ja": "固定費の断捨離で資産形成を進める方法",
+   "summary_ja": "投資の資金がないという悩みを解決するために、固定費を見直して断捨離し、資産形成のパフォーマンスを上げる方法について解説している。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -395,6 +428,72 @@
    "importance": 3
   },
   {
+   "id": "7bed3910f78e58c8",
+   "url": "https://www.thespruce.com/how-to-declutter-family-photos-12033080",
+   "title_original": "We Asked Pro Organizers How to Declutter Photos, and We Wish We Tried This Sooner",
+   "source": "The Spruce",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-22T23:43:00+00:00",
+   "title_ja": "プロが教える写真の片づけ方",
+   "summary_ja": "片づけのプロに聞いた、写真の効率的な減らし方や整理術について紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "7d0751d44d1e332c",
+   "url": "https://nlab.itmedia.co.jp/cont/articles/3977336",
+   "title_original": "専業主婦「夫にもさすがに怒られた……」新築たった1年後の光景に「収集センターに問い合わせるのが一番」（1/3） | ライフスタイル ねとらぼ",
+   "source": "ねとらぼ",
+   "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/08/1787212479_1786931671_20260817_ur8_001-575x1024-1.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-22T22:15:00+00:00",
+   "title_ja": "新築1年で不用品処分に悩む主婦が収集センターへの問い合わせを勧める理由",
+   "summary_ja": "新築からわずか1年で家の中に物が溢れてしまい、夫に怒られたという主婦のエピソード。増えすぎた不用品の処分方法に悩み、自治体の収集センターへ直接問い合わせて解決を図る様子や、片づけに対する気づきが語られている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "5afb15b2026e4621",
+   "url": "https://yomuno.jp/posts/141321",
+   "title_original": "【徹底比較】無印・ダイソー・スタプロの「布製収納ボックス」違いとおすすめの選び方",
+   "source": "ヨムーノ",
+   "image": "https://image.yomuno.jp/store/article/141321/header_image/large-a17b710c717172248900556e84ae1ab0.jpeg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-22T20:48:22+00:00",
+   "title_ja": "無印・ダイソー・スタプロの布製収納ボックスの特徴と選び方の比較",
+   "summary_ja": "無印良品、ダイソー、スタプロが販売する布製収納ボックスを徹底比較した記事。それぞれのブランドによる素材感やサイズ、使い勝手の違いを整理し、収納する場所や用途に合わせたおすすめの選び方を紹介している。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "布製収納ボックス"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d4834a795c966248",
+   "url": "https://www.thecoolist.com/its-not-minimalism-or-maximalism-that-makes-a-room-feel-calm-but-a-third-style-no-one-talks-about-h2r4",
+   "title_original": "It's not minimalism or maximalism that makes a room feel calm, but a third style no one talks about",
+   "source": "TheCoolist",
+   "image": "https://cdn.thecoolist.com/wp-content/uploads/2026/08/iStock-1990444472.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-22T18:05:12+00:00",
+   "title_ja": "部屋に落ち着きをもたらすミニマリズムでもない「第3のスタイル」の提案",
+   "summary_ja": "部屋を穏やかで心地よい空間にするためには、極端なミニマリズムやマキシマリズムではなく、あまり知られていない第3のインテリアスタイルが有効であると提案する記事。部屋の雰囲気を整えるための新たな視点を紹介している。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "9e101ab4c8f02bf7",
    "url": "https://thesimplicityhabit.com/what-slow-living-is-practice",
    "title_original": "Slow Living: What It Is and How to Practice It",
@@ -461,6 +560,22 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
+  },
+  {
+   "id": "2cc700f38335c777",
+   "url": "https://www.southernliving.com/house-hushing-12062038",
+   "title_original": "I Thought ‘House Hushing’ Meant Getting Rid Of Everything—Then I Read This",
+   "source": "Southern Living",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-22T14:55:00+00:00",
+   "title_ja": "すべてを捨てることではない家を静かに整えるハウスハッシングの誤解と真実",
+   "summary_ja": "視覚的なノイズを減らして家を穏やかな空間にする「ハウス・ハッシング」について、単にすべての物を処分することだという誤解を解く記事。物を手放すだけではなく、心地よい空間を作るための本当の整え方や考え方を解説している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
   },
   {
    "id": "20acbc19605cc321",
@@ -7117,135 +7232,6 @@
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
-   "importance": 3
-  },
-  {
-   "id": "acaaff342e3950b7",
-   "url": "https://mama.smt.docomo.ne.jp/ranune/pre/articles/555013",
-   "title_original": "夏は時短美容【5分で完了スキンケア】時間の断捨離でタイパ美容にトライ！ | ラナーヌ",
-   "source": "ママテナ",
-   "image": "https://assets.mama.aacdn.jp/contents/237/2026/8/1786719973807_4j9twzco9bk.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-14T15:00:55+00:00",
-   "title_ja": "5分で完了するスキンケアで時間の断捨離を目指す方法",
-   "summary_ja": "夏の時短美容として、わずか5分で完了するスキンケアを取り入れることで、無駄な時間を削減する「時間の断捨離」を提案。忙しい日々の中で、タイパ（タイムパフォーマンス）を意識したシンプルなスキンケア習慣を推奨している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "ecb080016a0b86f3",
-   "url": "https://mshale.com/a59cc6ab/d2a5a960HAOB4pZY_ns",
-   "title_original": "Will This Featherweight Backpack Replace Your Roller? | Pakt One Review Epl (jrct5DMotL)",
-   "source": "Mshale",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-14T14:24:51+00:00",
-   "title_ja": "軽量バックパックが旅行用キャリーケースの代わりになるか",
-   "summary_ja": "超軽量なバックパック「Pakt One」のレビュー。従来のキャスター付きキャリーケースの代わりとして十分機能するのか、ミニマルな旅行スタイルを求める人に向けてその実用性を検証している。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "バックパック",
-    "キャリーケース"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "d2fcf3ee7d3fb8df",
-   "url": "https://www.youtube.com/watch?v=t_pFJRn6V_Q",
-   "title_original": "Life On Our Property *trailer mom of 5*",
-   "source": "Sarah Therese",
-   "image": "https://i1.ytimg.com/vi/t_pFJRn6V_Q/hqdefault.jpg",
-   "media": "youtube",
-   "region": "海外",
-   "published": "2026-08-14T14:00:29+00:00",
-   "title_ja": "5人の子供を育てる母親がトレーラーでの暮らしを映した動画",
-   "summary_ja": "5人の子供を持つ母親が、自身の土地やトレーラーハウスでの暮らしの様子を収めた動画。限られたスペースの中で、大家族がどのように生活を営んでいるか、シンプルで工夫に満ちた日常の様子を垣間見ることができる。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "ae57225f6b284d11",
-   "url": "https://www.lifehacker.jp/article/machi-ya-tsubanecase-end-951454",
-   "title_original": "なぜ名刺が美しいまま渡せるのか。メイド・イン・ツバメ認定名刺入れのプロジェクトが終了間近！",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/07/13/13ffa632-2c7f-40ef-8100-86512762e392/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-14T14:00:00+00:00",
-   "title_ja": "燕三条で作られた極薄で軽量なチタン製名刺入れの紹介記事",
-   "summary_ja": "燕三条製の純チタンを使用した極薄・軽量な名刺入れ「TSUBANE CASE」を紹介する記事。厚さ0.4mm、重さ19gと非常にスリムで、名刺だけでなくマイナンバーカードや免許証の収納にも適しており、持ち物をコンパクトにまとめたい人に適している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "TSUBANE CASE",
-    "名刺入れ",
-    "カード"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "e1c549dad46ffe32",
-   "url": "https://www.lifehacker.jp/article/machi-ya-calm-review-959710",
-   "title_original": "諦めるつもりだった使い勝手も諦めずに済んだ。変化も楽しい、個性的な革の小さなお財布",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/07/22/cefbf040-5998-45a6-b5fe-c57e58576119/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-14T13:45:00+00:00",
-   "title_ja": "小さくても使い勝手を犠牲にしない個性的な革財布の紹介記事",
-   "summary_ja": "コンパクトでありながら使いやすさを追求したイタリアンレザー製の小さな財布を紹介する記事。お札の数えやすさや、財布を閉じたままでもカードが使える利便性を備えており、持ち物を最小限にしつつも日常の使い勝手を諦めたくない人に適している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "財布",
-    "カード"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "19f2bcf02c3ef4e3",
-   "url": "https://www.roomie.jp/2026/08/1863961",
-   "title_original": "「振って置くだけ」で底の汚れまでスッキリ。この洗剤に出会って、毎日使う水筒のニオイが気にならなくなった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/20260723-cleanhouse-07_02.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-14T13:30:48+00:00",
-   "title_ja": "水筒のニオイや汚れを振って置くだけで落とす洗浄剤",
-   "summary_ja": "毎日使うマイボトルはスポンジが届きにくく汚れやニオイが蓄積しがちですが、スプーン2杯の洗浄剤を入れて振って置くだけでスッキリ解消できました。長く愛用する水筒を清潔に保つための便利なアイテムです。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "水筒",
-    "洗浄剤",
-    "ボトルブラシ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "076b587330143781",
-   "url": "https://mshale.com/fb7b89c9/32f2785aRviaK_Gj5-o",
-   "title_original": "I Replaced My Carry-On With This Travel Backpack Diego Pavia Vanderbilt Quarterback (6NGy6rp24k)",
-   "source": "Mshale",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-14T13:16:32+00:00",
-   "title_ja": "旅行用バッグをトラベルバックパックに変更した話",
-   "summary_ja": "これまでの機内持ち込み用キャリーケースを手放し、新たに選んだトラベルバックパックに切り替えた体験談。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "バックパック",
-    "キャリーケース"
-   ],
    "importance": 3
   }
  ]
