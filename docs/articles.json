@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-23T03:35:51.051867+09:00",
+ "updated_at": "2026-08-23T10:31:01.092223+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,7 +29,7 @@
  "things": [
   {
    "name": "服",
-   "count": 12
+   "count": 13
   },
   {
    "name": "本",
@@ -94,10 +94,6 @@
   {
    "name": "食器棚",
    "count": 3
-  },
-  {
-   "name": "Android",
-   "count": 2
   },
   {
    "name": "TSUBANE CASE",
@@ -173,6 +169,10 @@
   },
   {
    "name": "布団",
+   "count": 2
+  },
+  {
+   "name": "水",
    "count": 2
   },
   {
@@ -253,7 +253,6 @@
   "ねとらぼ",
   "ぴーこ｜ゆるっとミニマルな日常",
   "やましたひでこ断捨離",
-  "ウォーカープラス",
   "サンスポ",
   "ママテナ",
   "ミニマリスト Nozomi",
@@ -271,6 +270,130 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "5f6495b85c2963a4",
+   "url": "https://note.com/tasty_laelia5937/n/na2e09875fdba",
+   "title_original": "日用品(消耗品)のストック",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/306140877/rectangle_large_type_2_1f59b1b5fe82806ae4da6b91cac4ea5e.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-23T01:20:10+00:00",
+   "title_ja": "物を減らしたいミニマリストが日用品の備蓄について考えたこと",
+   "summary_ja": "普段は物を減らして暮らすミニマリストだが、近年の地震や大雨などの災害をきっかけに、日用品のストックや防災用の備蓄を持つべきか悩んでいる人の記録。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "222a1c184bcf876e",
+   "url": "https://note.com/hearty_ivy7178/n/n2f5b5d8a0abc",
+   "title_original": "断捨離中（9）日曜も本！",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/306136224/rectangle_large_type_2_37adc59346d1c65e666b78b6e090e57b.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-23T01:18:35+00:00",
+   "title_ja": "本と壊れかけた本箱を片付けた日の記録",
+   "summary_ja": "断捨離を進める中で、崩壊しかけている本箱の処分を予定している人の話。残す本は箱にまとめられており、少女漫画を中心に収納している様子がつづられている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "本箱"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "3a9bdcc7b776ca6c",
+   "url": "https://note.com/sutekatsu_etsuko/n/nedbd8aba0336",
+   "title_original": "【捨てて】なかなか捨てられないクローゼットに眠る服の捨て方",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/305204355/rectangle_large_type_2_1df11ae744ebe6c2f60fc754f991559f.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-23T01:13:48+00:00",
+   "title_ja": "クローゼットに眠る服の捨て方についての考え方",
+   "summary_ja": "捨て活によって人生の好転を目指す執筆者が、なかなか手放すことができないクローゼットの眠る服の具体的な捨て方について語っている記事の導入。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "1964489169a140de",
+   "url": "https://note.com/lithe_tulip3845/n/n587a82f1e389",
+   "title_original": "40代から始める「持たない暮らし」。大喧嘩の末に見つけた、本当の豊かさとは？",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/301155018/rectangle_large_type_2_e529c6afd892480718481a26810148ca.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-23T00:16:35+00:00",
+   "title_ja": "40代からの持たない暮らしと物の手放しを巡る葛藤",
+   "summary_ja": "モノにあふれた生活に疑問を抱き、持たない暮らしを目指す中で家族との衝突を経験した人の話。本当に必要な豊かさや暮らしのあり方を見つめ直す。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "d5d88d11c83e37c4",
+   "url": "https://minimalist-fudeko.com/water-coffee-kimono",
+   "title_original": "備蓄の水は500ml、コーヒーはやめて3年、着物は自分サブスク〜読者3人のお便り",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/08/emergency-kit.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-23T00:10:10+00:00",
+   "title_ja": "備蓄水を小さくしコーヒーを断つ読者の暮らしの工夫",
+   "summary_ja": "備蓄の水を500mlに抑えたり、コーヒーを3年やめたりするなど、読者から寄せられたそれぞれのこだわりの暮らしや物を減らす実践を紹介する。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "水",
+    "コーヒー",
+    "着物"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e9f062b069a3c322",
+   "url": "https://www.lifehacker.jp/article/2608-how-to-set-up-custom-focus-modes-iphone",
+   "title_original": "スマホ2台持ちはもういらない。1台のiPhoneを「仕事用」と「私用」に使い分ける方法",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2025/12/20/927bfdd3-de0f-40ae-abca-8bb9e5c5c168/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-23T00:00:00+00:00",
+   "title_ja": "iPhoneの集中モードで仕事と私用を1台にまとめる方法",
+   "summary_ja": "複数のデバイスを持たずに暮らすため、iPhoneの集中モードを活用して1台を仕事と私用に使い分ける設定や工夫を紹介している。",
+   "category": "道具・ガジェット",
+   "axis": "reduce",
+   "things": [
+    "iPhone"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "0db59eda0ddeef66",
+   "url": "https://note.com/poem565/n/ne686165c0b31",
+   "title_original": "「捨てられない」を乗り越えた。子どもの成長と、我が家のメルカリ断捨離【F P１級ワーママのつぶやき／日々の気づき編】",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/306116119/rectangle_large_type_2_4b6c89a890ecbe605cad10b30d0d1b1e.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-22T23:49:38+00:00",
+   "title_ja": "思い出の絵本をメルカリで手放した子育て世代の断捨離",
+   "summary_ja": "子どもの成長で読まなくなった絵本を、思い出にとらわれずメルカリを使って手放した体験。AI機能なども活用してスムーズに整理を進めている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "絵本"
+   ],
+   "importance": 3
+  },
   {
    "id": "9e101ab4c8f02bf7",
    "url": "https://thesimplicityhabit.com/what-slow-living-is-practice",
@@ -7122,138 +7245,6 @@
    "things": [
     "バックパック",
     "キャリーケース"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "4ca8806ec67c4979",
-   "url": "https://www.lifehacker.jp/article/2608-andgo-packingkint",
-   "title_original": "カメラがもっと身近になる、日常使いで持ち運びやすい「パッキングニット」",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/01/23/71f5e61f-2a2c-4304-b7ff-95af31e457c2/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-14T13:15:00+00:00",
-   "title_ja": "日常使いしやすく持ち運びやすいパッキングニット",
-   "summary_ja": "日常の中でカメラを気軽に持ち運ぶために作られた、アンドゴーのパッキングニットカメラケースの使用レビューです。ちょっとしたお出かけの際にもカメラを安心して持ち歩けるアイテムとして紹介されています。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "カメラケース",
-    "カメラ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "9dc0b9bfd9d43d00",
-   "url": "https://www.roomie.jp/2026/08/1862131",
-   "title_original": "ブルーエアの空気清浄機、1年間24時間つけっぱなしだとこうなる。フィルター交換は驚くほど簡単だった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/20260812-mio-blueair-blueminimax-01.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-14T13:00:51+00:00",
-   "title_ja": "空気清浄機を1年間使い続けた人がフィルター交換をしてみた話",
-   "summary_ja": "愛用しているブルーエアの空気清浄機「Blue Mini Max」を、お手入れ目安の半年を超えて1年間使い続けた筆者の体験談。どれだけ汚れを集めたかを確認しつつ、驚くほど簡単だったというフィルター交換の手順や、日々の空気環境を整える使い心地を紹介している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "空気清浄機",
-    "Blue Mini Max",
-    "フィルター"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "8a294ff7bcd9a013",
-   "url": "https://www.lifehacker.jp/article/2608-matome-android-iphone-xks",
-   "title_original": "iPhoneへ乗り換えて良さに気づいた、Androidの恋しい機能3選",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/03/09/dacebc48-e834-483b-a95e-05f9018f9ebb/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-14T13:00:00+00:00",
-   "title_ja": "AndroidからiPhoneへ乗り換えて恋しくなった機能を解説",
-   "summary_ja": "AndroidからiPhoneへ乗り換えた筆者が、実際に使ってみて改めて気づいたAndroidの魅力を語る。一貫した「戻る」操作性や、高度なクリップボード機能など、iPhoneユーザーになったからこそ実感する、手放して惜しかった3つの便利な機能を紹介している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "iPhone",
-    "Android"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "4d68a5b7173668d0",
-   "url": "https://www.lifehacker.jp/article/2608-let-claude-organize-chaotic-obsidian-vault-found-connections-forgotten",
-   "title_original": "メモの点と点をAIが結ぶ。ObsidianとClaudeで手に入れる自由な「思考時間」",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/06/17/27067617-75b8-44c4-a816-3b2c8b395f9d/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-14T13:00:00+00:00",
-   "title_ja": "AIを使ってメモの整理やタグ付けの手間をなくした人の話",
-   "summary_ja": "メモアプリのObsidianでのフォルダ整理やタグ付けに疲れた人に向けて、AIアシスタントのClaudeを活用する方法を提案。インボックスにメモを放り込むだけで、AIが過去のアイデアとのつながりを見つけ出すため、整理の手間をゼロにして思考に集中できる。",
-   "category": "その他",
-   "axis": "reduce",
-   "things": [
-    "Obsidian",
-    "Claude"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "52faa07464b7338a",
-   "url": "https://www.roomie.jp/2026/08/1863657",
-   "title_original": "100回洗濯しても新品みたい。色褪せ色落ち知らずでずっと着られる究極の黒Tシャツ&ポロシャツ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/blackshirt1.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-14T12:45:53+00:00",
-   "title_ja": "100回洗濯しても色褪せない黒Tシャツを導入した人の話",
-   "summary_ja": "夏のビジネスカジュアルで気になる首元の退色やくたびれ感を解決する「原着半袖黒Tシャツ&ポロシャツ」を紹介。日差しや汗に強く、染めない黒を採用しているため、100回洗濯しても新品のような状態を保ち、ビジネスからカジュアルまで長く着回せる一着となっている。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "黒Tシャツ",
-    "ポロシャツ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "a63a78a12d2251c9",
-   "url": "https://www.walkerplus.com/article/1339527/image16602909.html",
-   "title_original": "画像10 / 192＞【漫画】「復活すんな、飲み会文化」「モヤる…ご祝儀へのお返し問題」「プレゼントの金額差」「プレゼントは何が欲しいか聞け」「コストが大きいほど大事？〜断捨離爆遅太郎〜」ほか収録／著：ゐ",
-   "source": "ウォーカープラス",
-   "image": "https://news.walkerplus.com/article/1339527/16602961_615.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-14T12:31:59+00:00",
-   "title_ja": "人間関係のモヤモヤや断捨離をテーマにした漫画作品の紹介",
-   "summary_ja": "人間関係の付き合い方やプレゼントをめぐるモヤモヤ、断捨離が進まない「断捨離爆遅太郎」などのエピソードを収録したWeb漫画の紹介記事。物や人間関係の整理・所有に対する悩みや考え方を描いている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "d3991817546e6d28",
-   "url": "https://www.roomie.jp/2026/08/1858285",
-   "title_original": "「PCの画面、となりの人に見えてるか心配」ならコレ！リピ買いした“使いやすさ”があるんです",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/0D5A1297.jpeg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-14T12:30:10+00:00",
-   "title_ja": "カフェでのPC作業に安心をプラスする画面保護フィルターを愛用する話",
-   "summary_ja": "カフェなどの出先でパソコン作業をする際、周囲からの視線を防ぐために愛用しているプライバシーフィルターを紹介する。パソコンを買い替えた後もリピート買いするほど使い勝手が良く、外出時の必須アイテムになっている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "プライバシースクリーン",
-    "MacBook Pro",
-    "パソコン"
    ],
    "importance": 3
   }
