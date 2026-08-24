@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-24T16:05:07.294911+09:00",
+ "updated_at": "2026-08-24T21:56:51.017962+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -36,11 +36,11 @@
    "count": 8
   },
   {
-   "name": "iPhone",
-   "count": 5
+   "name": "スマホ",
+   "count": 6
   },
   {
-   "name": "スマホ",
+   "name": "iPhone",
    "count": 5
   },
   {
@@ -65,10 +65,6 @@
   },
   {
    "name": "段ボール",
-   "count": 3
-  },
-  {
-   "name": "食器棚",
    "count": 3
   },
   {
@@ -120,7 +116,15 @@
    "count": 2
   },
   {
+   "name": "ノート",
+   "count": 2
+  },
+  {
    "name": "ヘアピン",
+   "count": 2
+  },
+  {
+   "name": "メモ帳",
    "count": 2
   },
   {
@@ -137,10 +141,6 @@
   },
   {
    "name": "収納アイテム",
-   "count": 2
-  },
-  {
-   "name": "器",
    "count": 2
   },
   {
@@ -191,11 +191,11 @@
  "sources": [
   "A Slob Comes Clean",
   "ABEMA",
+  "AOL.ca",
   "AOL.com",
   "Apartment Therapy",
   "Be More with Less",
   "Better Homes & Gardens",
-  "CBC",
   "CNA Luxury",
   "Carryology",
   "En Pareja",
@@ -206,7 +206,6 @@
   "Moneycontrol.com",
   "MonoMax",
   "Mshale",
-  "NewsBreak: Local News & Alerts",
   "No Sidebar",
   "Pangolins with Packs",
   "Post and Courier",
@@ -265,6 +264,109 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "ec11dae2b061c68e",
+   "url": "https://www.lifehacker.jp/article/2608-interstitial-journalin-better-than-to-do-list-nvw",
+   "title_original": "ちょこっとメモで生産性が上がる。「インタースティシャル・ジャーナリング」のはじめ方",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/24/1cfcaaac-dae1-441b-b2a8-1f384cce8651/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-24T12:45:00+00:00",
+   "title_ja": "ノート一冊でタスクと時間を管理する方法",
+   "summary_ja": "ノートやデジタルツールを活用し、ジャーナリングとタスク管理、時間管理を一つにまとめて実践する手法を紹介。毎日の記録を通じて生産性を高める工夫を取り入れます。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "ノート",
+    "メモ帳"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "6ef6f96c720f21f0",
+   "url": "https://note.com/akisakusakura/n/nf84487632758",
+   "title_original": "【清貧ミニマリストになろう①】生きづらさを軽くするために整えてゆく過程",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/306639284/rectangle_large_type_2_eddf38403779882c15dce090abf7a9f8.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-24T12:36:34+00:00",
+   "title_ja": "生きづらさを軽くするための暮らしの整え方",
+   "summary_ja": "日々の生活の中で抱える生きづらさを和らげるため、持ち物や暮らしを少しずつ見直して整えていく過程について綴られています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "67ae6362fdbd7831",
+   "url": "https://note.com/muu_7/n/nd2a351d5ae79",
+   "title_original": "賃貸退去で15年の店を返したわ 請求額を決めていたのは毎日の1分だったの",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/306656192/rectangle_large_type_2_7b4358e73b1c7b86e58798b4381fc3ba.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-24T12:28:03+00:00",
+   "title_ja": "15年続けた賃貸の店を退去した経験談",
+   "summary_ja": "15年営業した店舗の賃貸退去を経験した筆者が、日々の小さな積み重ねが結果にどう影響したかについて振り返る記録です。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "a0d09dee4900b03d",
+   "url": "https://note.com/umi_totonou/n/nb4df2e41eb8a",
+   "title_original": "【1日10捨て・55日目】新学期前、子どもの小さなサインに気づいたら",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/306644617/rectangle_large_type_2_b3da4e3714792f3f6a3aa2d7d7766071.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-24T12:26:32+00:00",
+   "title_ja": "夏休み終盤に家族で取り組んだ1日10捨て",
+   "summary_ja": "夏休みが終わりを迎える時期に、子どもの様子に気を配りつつ「1日10捨て」の断捨離を55日目まで継続している様子を紹介しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "08972641eef1fc84",
+   "url": "https://note.com/fond_hippo7618/n/n0103eec52dc9",
+   "title_original": "8月の連休の成果",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/306501027/rectangle_large_type_2_686e42af6a7edebcd2cf7365c44fac89.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-24T12:16:03+00:00",
+   "title_ja": "8月の連休に大型ゴミ袋8袋分の物品を手放した話",
+   "summary_ja": "8月の連休を利用して大規模な部屋の整理と掃除を行い、一番大きなゴミ袋8袋分の物品を削減した成果を報告。PCやスマホのデータ整理も完了しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "ゴミ袋",
+    "PC",
+    "スマホ"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "babf96c085c7532f",
+   "url": "https://www.youtube.com/shorts/7BmPoi5WoSM",
+   "title_original": "【ミニマリスト主婦】大量に週一食料品買ってくる",
+   "source": "ぴーこ｜ゆるっとミニマルな日常",
+   "image": "https://i4.ytimg.com/vi/7BmPoi5WoSM/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-24T08:00:02+00:00",
+   "title_ja": "ミニマリスト主婦の食料品のまとめ買い事情",
+   "summary_ja": "ミニマリストの主婦が週に一度、大量の食料品を購入する日常の様子を紹介している。日々の食事管理や買い出しの工夫がうかがえる内容。",
+   "category": "キッチン・食",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
   {
    "id": "56327fe608823bbb",
    "url": "https://www.roomie.jp/2026/08/1867017",
@@ -502,6 +604,22 @@
     "山崎実業の整理整頓アイテム",
     "調味料"
    ],
+   "importance": 3
+  },
+  {
+   "id": "4c21e0a9f2f62710",
+   "url": "https://www.aol.ca/articles/5-expert-tips-keep-kitchen-210000000.html",
+   "title_original": "5 Expert Tips to Keep Your Kitchen Organized and Clutter-Free",
+   "source": "AOL.ca",
+   "image": "https://hermes.media.static.aol.com/media/2026/08/24/b66b7bf6-7cb4-363b-87d6-2473568d9f70/7d1efcbb-e13c-4963-b3aa-d928ff5648db.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-24T04:00:36+00:00",
+   "title_ja": "キッチンの整理整頓を維持する5つのコツ",
+   "summary_ja": "専門家が教える、キッチンの散らかりを防いで綺麗に整理された状態を保つための5つの実践的なヒント。収納や片付けの考え方が学べる。",
+   "category": "キッチン・食",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -7100,121 +7218,6 @@
    "things": [
     "食品"
    ],
-   "importance": 3
-  },
-  {
-   "id": "1cb055d0aa2e0a7a",
-   "url": "https://news.livedoor.com/article/detail/32080142",
-   "title_original": "やましたひでこさんの「実家の断捨離」のコツ。食器棚はお気に入りの器を「5割以下」でしまう",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-16T11:00:00+00:00",
-   "title_ja": "実家の断捨離で食器棚をお気に入りだけ5割以下にして整理した話",
-   "summary_ja": "実家の断捨離におけるコツとして、食器棚にはお気に入りの器だけを全体の5割以下で収納する提案。詰め込みすぎずゆとりを持つことで実家の片付けを進めやすくする方法を解説している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "食器棚",
-    "器"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2bb6357525c77a20",
-   "url": "https://news.livedoor.com/topics/detail/32080144",
-   "title_original": "50代、断捨離で人生が激変。執着心を捨てて気づいた「ものが増えない」コツ3つ：お盆に読みたい記事 (2026年8月16日掲載)",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-16T11:00:00+00:00",
-   "title_ja": "50代で断捨離を行い執着を手放した人が気づいた物が増えない3つのコツ",
-   "summary_ja": "50代で断捨離を経験し人生に変化があった人が、物への執着を手放したことで発見した「物が増えないための3つのコツ」を紹介する記事。片づけを通じてモノを減らし、すっきりした暮らしを維持するための考え方を知ることができる。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "c2413e646ca30f87",
-   "url": "https://www.newsbreak.com/western-iowa-today-500235/4831951669751-decluttering-in-rural-america-is-often-overlooked",
-   "title_original": "Decluttering in Rural America is Often Overlooked",
-   "source": "NewsBreak: Local News & Alerts",
-   "image": "https://img.particlenews.com/img/id/0E4Zb7_1EHmvkGc00",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-16T10:04:16+00:00",
-   "title_ja": "アメリカの地方都市や農村部で見過ごされがちな片付けの問題",
-   "summary_ja": "アメリカの農村部や地方都市において、不要なモノを手放して整理・片付けを行う取り組みが十分に関心を集めず、見過ごされがちになっている課題について取り上げた記事。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "15bb588200e7de9f",
-   "url": "https://limo.media/articles/-/134695",
-   "title_original": "「ふぁいとです」の声も 100日間モノを手放す37歳ママ、押入れの断捨離に奮闘する姿が反響 DIYが家の「資産価値」を守る？ 人気DIYer取材協力のもと注目のDIYテクニックを紹介。統計から見る、世帯年収と土地保有状況の関係も解説 | LIMO | くらしとお金の経済メディア",
-   "source": "LIMO | くらしとお金の経済メディア",
-   "image": "https://limo.ismcdn.jp/mwimgs/c/2/1200w/img_c249234a06751512c246b937b1b10b0d79803.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-16T09:38:00+00:00",
-   "title_ja": "100日間で物を手放すチャレンジをする37歳母親の押入れ断捨離",
-   "summary_ja": "100日間かけてモノを手放す企画に挑んでいる37歳の母親が、自宅の押入れを断捨離する様子や取り組みについて取り上げた記事。片付けや住まいを整える工夫に関心が集まっている。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "1a96a898fde61075",
-   "url": "https://note.com/nice_chives9917/n/n1967004f8e8c",
-   "title_original": "【ミニマリズム】昔作った独自ルールが今も守られているのかの検証。",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/304061359/rectangle_large_type_2_2643366b09464589596b0cceda9c38cc.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-16T08:01:41+00:00",
-   "title_ja": "5年前に作ったミニマリストのルールを検証した話",
-   "summary_ja": "過去に作成したミニマリストになるための50のルールについて、現在の暮らしでも守られているかを10点満点で評価・検証している記事です。自分のルールを見直すきっかけになります。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "44a1ea78b47ddab5",
-   "url": "https://www.youtube.com/watch?v=ZeYLDeODHxY",
-   "title_original": "【ミニマリスト】3歳児がいる我が家が、あえて持たない14のもの",
-   "source": "小さな暮らしノート",
-   "image": "https://i3.ytimg.com/vi/ZeYLDeODHxY/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-08-16T08:00:25+00:00",
-   "title_ja": "3歳児がいる家庭であえて持たない14のものと暮らしの工夫",
-   "summary_ja": "3歳の子どもがいる家庭で、一般的に必要だと思われがちなものをあえて持たない生活を紹介する動画。14のアイテムを手放すことで掃除や片付けがラクになり、少ない物で無理なく暮らすための実践的な考え方を伝えている。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "38c2398b95d2cb55",
-   "url": "https://www.cbc.ca/radio/thecurrent/downsizing-decluttering-possessions-9.7307836",
-   "title_original": "Letting go of prized possessions can be tough. Let the professionals help, experts say",
-   "source": "CBC",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-16T08:00:00+00:00",
-   "title_ja": "大切な所有物を手放す難しさと専門家に頼る選択肢についての解説",
-   "summary_ja": "思い入れのある大切な持ち物を手放すことの難しさと、片付けや整理の専門家に助けを求める有用性について解説する海外記事。手放せずに悩む人に向けて、専門家のサポートを活用する方法を提案している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
    "importance": 3
   }
  ]
