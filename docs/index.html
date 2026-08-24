@@ -15,6 +15,7 @@
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
+<script src="ui.js" data-site="minimalist-news"></script>
 <style>
   :root {
     --bg: #f4f2ee;
@@ -255,6 +256,15 @@ function readingUrl(item) {
   return translateUrl(item.url);
 }
 
+// お気に入り一覧（ui.js）も同じ決め方を使うので、window.NEWS_LINK に置いておく。
+window.NEWS_LINK = item => {
+  const translated = readingUrl(item);
+  const cta = translated ? "日本語で読む →"
+    : item.media === "youtube" ? "動画を見る →"
+    : item.media === "x" ? "Xで見る →" : "元の記事を読む →";
+  return { href: translated || item.url, blank: true, label: (translated ? "🌐 " : "") + cta };
+};
+
 function relative(iso) {
   const then = new Date(iso), diff = (Date.now() - then) / 1000;
   if (diff < 3600) return `${Math.max(1, Math.floor(diff / 60))}分前`;
@@ -338,7 +348,7 @@ function render() {
       : item.media === "youtube" ? "動画を見る →"
       : item.media === "x" ? "Xで見る →" : "元の記事を読む →";
     return `
-    <article>
+    <article data-id="${escapeHtml(item.id)}">
       <a href="${escapeHtml(open)}" target="_blank" rel="noopener noreferrer">
         ${head}
         <p class="summary">${escapeHtml(item.summary_ja)}</p>
@@ -442,7 +452,7 @@ async function load() {
   try {
     const res = await fetch(`articles.json?t=${Date.now()}`, { cache: "no-store" });
     const data = await res.json();
-    all = data.items || [];
+    all = window.NEWS_ITEMS = data.items || [];
     meta = {
       categories: data.categories || [],
       media_kinds: data.media_kinds || [],
