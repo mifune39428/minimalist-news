@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25T15:55:28.097527+09:00",
+ "updated_at": "2026-08-25T21:53:45.065170+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -56,14 +56,6 @@
    "count": 3
   },
   {
-   "name": "手帳",
-   "count": 3
-  },
-  {
-   "name": "書類",
-   "count": 3
-  },
-  {
    "name": "本棚",
    "count": 3
   },
@@ -72,15 +64,15 @@
    "count": 3
   },
   {
+   "name": "財布",
+   "count": 3
+  },
+  {
    "name": "USB-Cケーブル",
    "count": 2
   },
   {
    "name": "おもちゃ",
-   "count": 2
-  },
-  {
-   "name": "アルバム",
    "count": 2
   },
   {
@@ -96,11 +88,19 @@
    "count": 2
   },
   {
+   "name": "ゴミ袋",
+   "count": 2
+  },
+  {
    "name": "ショルダーバッグ",
    "count": 2
   },
   {
    "name": "スニーカー",
+   "count": 2
+  },
+  {
+   "name": "スーツ",
    "count": 2
   },
   {
@@ -136,11 +136,27 @@
    "count": 2
   },
   {
+   "name": "写真",
+   "count": 2
+  },
+  {
+   "name": "卒業アルバム",
+   "count": 2
+  },
+  {
    "name": "夏服",
    "count": 2
   },
   {
+   "name": "手帳",
+   "count": 2
+  },
+  {
    "name": "日傘",
+   "count": 2
+  },
+  {
+   "name": "書類",
    "count": 2
   },
   {
@@ -153,10 +169,6 @@
   },
   {
    "name": "現金",
-   "count": 2
-  },
-  {
-   "name": "財布",
    "count": 2
   },
   {
@@ -173,10 +185,6 @@
   },
   {
    "name": "防災リュック",
-   "count": 2
-  },
-  {
-   "name": "食器",
    "count": 2
   }
  ],
@@ -195,10 +203,10 @@
   "En Pareja",
   "House Beautiful",
   "Ideal Home",
+  "Infoseek",
   "Jenny Mustard",
   "LIMO | くらしとお金の経済メディア",
   "Livingetc",
-  "Moneycontrol.com",
   "MonoMax",
   "Mshale",
   "No Sidebar",
@@ -256,6 +264,169 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "f0964f4c739985e8",
+   "url": "https://note.com/lightdefault2/n/n97150922a98e",
+   "title_original": "ミニマリストになりたい",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/306979927/rectangle_large_type_2_60e8c407aac5ca6ea2737e704ecaea6a.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-25T12:33:03+00:00",
+   "title_ja": "モノを捨てたい衝動と本当に必要なモノか葛藤する人の話",
+   "summary_ja": "ふとモノを捨てたくなる衝動に駆られ、常に最大サイズのごみ袋をストックしている著者のエピソード。いらないモノを捨てたいと思う一方で、捨てたそれらのモノが本当に自分にとって必要のないものだったのかと自問自答する葛藤が描かれている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "ごみ袋"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "b52f27fc5d98c11b",
+   "url": "https://note.com/neko_kanon/n/n7d9febd84ff8",
+   "title_original": "部屋の片付けは人生に向き合うこと",
+   "source": "note #断捨離",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/077ed9be63175309b88b7942f2bbba04a52994c9.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-25T12:32:36+00:00",
+   "title_ja": "退院後に必死で部屋の片付けや断捨離に励む人の話",
+   "summary_ja": "退院を機に、必死に部屋の掃除や断捨離に取り組んでいる著者の体験談。これまでは潔癖の病気が原因で逆に掃除が進まなかったという背景があり、片付けを通じて自らの生活や人生に向き合おうとする様子が綴られている。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "8d23c524010d44dd",
+   "url": "https://note.com/inui_notebook/n/n75a8f8a503c9",
+   "title_original": "あの迷いはなんやったんやってぐらい",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/306978710/rectangle_large_type_2_02df9283a38cc8fbcc532c3935503e80.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-25T12:27:32+00:00",
+   "title_ja": "迷うことなく一瞬で卒業アルバムを手放した人の話",
+   "summary_ja": "写真の整理を行った勢いで、長年保管していた卒業アルバムを迷うことなく一瞬でゴミ袋に入れて手放した体験談。事前の写真整理で不要なものを次々と処分し、清々しい気持ちになった流れのままアルバムの処分に至った様子が描かれている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "卒業アルバム",
+    "写真",
+    "ゴミ袋"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "1a44038393a89a30",
+   "url": "https://www.roomie.jp/2026/08/1870039",
+   "title_original": "電源タップは置ずに挟め！クリップ固定×雷ガードで、配線が一気にスマートに",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/RM-11.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-25T11:15:39+00:00",
+   "title_ja": "クリップでデスクに挟んで配線を整える電源タップ",
+   "summary_ja": "デスクの天板などにクリップで挟んで固定できる、エレコムの電源タップを紹介した記事です。床や卓上に置かないため、コード類が整理されて配線がスマートになり、テレワーク時のデスク環境を快適に整えられます。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "電源タップ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "38894958df0b2036",
+   "url": "https://www.roomie.jp/2026/08/1862597",
+   "title_original": "キャッシュレス決済メインの私にちょうどよかった「ザ・ノース・フェイス」の小型財布。びっくりな収納力を見てほしい",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/260813_THE-NORTH-FACE_Hazy-Wallet_1.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-25T11:00:49+00:00",
+   "title_ja": "キャッシュレス派が愛用するノースフェイスの小型財布",
+   "summary_ja": "キャッシュレス決済が中心になり、財布を小型化した著者が愛用するザ・ノース・フェイスの「ヘイジーワレット」の紹介です。小銭入れのようなコンパクトなサイズ感でありながら、十分な収納力を備えている点が魅力です。",
+   "category": "お金・買い方",
+   "axis": "own",
+   "things": [
+    "財布",
+    "ヘイジーワレット"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "692b0a821685c47f",
+   "url": "https://www.youtube.com/watch?v=OsrQV3RsCl8",
+   "title_original": "9割捨てて、仕事も辞めて、貧乏になった。その後どうなった？【ミニマリスト】",
+   "source": "ミニマリストsin",
+   "image": "https://i4.ytimg.com/vi/OsrQV3RsCl8/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-25T11:00:21+00:00",
+   "title_ja": "持ち物の9割を捨てて仕事を辞めたミニマリストのその後の変化",
+   "summary_ja": "持ち物の9割を捨てて仕事も辞める選択をし、一時的に貧乏になったミニマリストのその後の変化について語る。物を極限まで減らしたことで、生活や心境にどのような影響があったのか、実体験をもとにした暮らしの軌跡を紹介する。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "6aa049ad77649676",
+   "url": "https://www.roomie.jp/2026/08/1868074",
+   "title_original": "BougeRVの「スマホ充電もできるポータブル冷蔵庫」が凄い。気温30℃の炎天下で、約7時間使った結果…",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/0D5A0714-3.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-25T10:30:26+00:00",
+   "title_ja": "バッテリー持ちが優秀なスマホ充電対応ポータブル冷蔵庫の使用感",
+   "summary_ja": "電源のない屋外でも長時間冷やし続けられる、スマホ充電機能付きのポータブル冷蔵庫「BougeRV CRX3 22L」の使用感をレビュー。気温30度の環境下で約7時間使用できた実績や、優れたバッテリー性能など、アウトドアでの実用性の高さを紹介する。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ポータブル冷蔵庫"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "194800d3bec66219",
+   "url": "https://monomax.jp/archives/358542",
+   "title_original": "【見た目カッチリで超ラクな新・一生モノ】洋服の青山「＃すごスーツ」が最強！仕事から結婚式まで着回せる理由をプロが徹底解説",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2026/08/image_p3_2_1.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-25T09:30:48+00:00",
+   "title_ja": "仕事から結婚式まで1着で着回せる快適な高機能スーツの魅力",
+   "summary_ja": "洋服の青山が展開する、見た目のフォーマルさと快適な着心地を両立した「＃すごスーツ」を解説。ビジネスシーンから結婚式まで幅広く着回せるため、所有する服の数を絞りながらも、あらゆる場面にきちんとした格好で対応したい人に向いている。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "スーツ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c9aa5b99b9cada12",
+   "url": "https://www.roomie.jp/2026/08/1869299",
+   "title_original": "ニッパーでの甘皮処理、やめました。簡単・安全・失敗なしでケアできるクロスを見つけたから！",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/20260824-gomupon-01.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-25T09:00:19+00:00",
+   "title_ja": "専用器具を手放してクロスでの簡単な指先ケアに切り替えた話",
+   "summary_ja": "セルフでの甘皮処理に使っていたニッパーやプッシャーといった専用器具を手放し、古い角質を絡めとるクロス「ゴムポン指先つるつる」でのケアに切り替えた体験談。コツが必要な道具をやめたことで、より簡単かつ安全に指先のセルフケアができるようになった。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "プッシャー",
+    "ニッパー",
+    "ゴムポン指先つるつる"
+   ],
+   "importance": 3
+  },
   {
    "id": "2d93dd9b259be6dd",
    "url": "https://note.com/funiwara/n/nc4995686dec7",
@@ -1944,6 +2115,22 @@
    "things": [
     "バックパック"
    ],
+   "importance": 3
+  },
+  {
+   "id": "3ebc48c117d1bf91",
+   "url": "https://news.infoseek.co.jp/article/fudge_398053",
+   "title_original": "充実した一人時間を楽しむ。一人暮らし＆二人暮らしの暮らし方6選",
+   "source": "Infoseek",
+   "image": "https://media.image.infoseek.co.jp/isnews/photos/fudge/fudge_398053_0.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-23T06:30:32+00:00",
+   "title_ja": "一人暮らしと二人暮らしの充実した時間の過ごし方6選",
+   "summary_ja": "一人時間を充実させるための暮らし方や、一人暮らしおよび二人暮らしにおける心地よい生活の工夫を紹介している。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -7045,179 +7232,6 @@
     "ヘルメットバッグ"
    ],
    "importance": 3
-  },
-  {
-   "id": "b0b81f5e81432288",
-   "url": "https://note.com/vast_flax6740/n/n39a1843b030c",
-   "title_original": "断捨離を言い換えると",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/304173223/rectangle_large_type_2_5f02b5aa43c94cce34cc045295ad6c1c.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T09:05:29+00:00",
-   "title_ja": "ペースを抑えながら少しずつていねいに断捨離を進める人の話",
-   "summary_ja": "自宅で「断捨離まつり」と称して片づけを進めている著者のエピソード。一気にやり始めると没頭してしまうタイプであるため、あえてペースを抑えながら、少しずつ丁寧に進める工夫について綴られている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "5c31292cc7baeb6e",
-   "url": "https://monomax.jp/archives/357492",
-   "title_original": "【Tシャツおじさん脱却】ユニクロ「2,990円のニットポロ」が大人の大正解！上品で洗える秀逸な一着をスタイリストが徹底解説",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2026/08/039650-scaled.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T09:00:38+00:00",
-   "title_ja": "ユニクロのニットポロでつくる大人の上品な夏スタイル",
-   "summary_ja": "猛暑日に活躍する、スタイリストが選んだユニクロのニットポロを紹介。自宅で洗えて上品に着こなせる、大人のための秀逸な一着。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "ニットポロ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "25d600501690c2b0",
-   "url": "https://note.com/ai40th/n/nbf3209fb1fd2",
-   "title_original": "手帳を処分する｜③2024年～2025年のまとめ",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/304397014/rectangle_large_type_2_efa680976d13916ce6c6379f99cd8548.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T08:47:52+00:00",
-   "title_ja": "過去の振り返りを経て手帳を処分した人の話",
-   "summary_ja": "2024年から2025年にかけての濃い2年間をじっくりと振り返り、手帳を処分したエピソード。お盆の帰省などを挟みつつ、時間をかけて振り返りをまとめることで、納得して手放すことができた過程が綴られている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "手帳"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "13ff43ea165aeac2",
-   "url": "https://note.com/sane_daisy2099/n/nf3ec5a4993ab",
-   "title_original": "週間覚書 ｜ 人として",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/304379528/rectangle_large_type_2_230f415deef68240df62096d84a398fe.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T08:46:08+00:00",
-   "title_ja": "段ボールに眠っていた昔の書類やアルバムを断捨離した人の話",
-   "summary_ja": "自宅でゆっくりと過ごす時間に、何年も段ボールに入れたまま封印していた古い書類の断捨離を行ったエピソード。作業中に出てきた古いアルバムを眺め、感謝の気持ちを抱きながら片づけを進める様子が描かれている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "書類",
-    "アルバム"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "83be3a279fa54bba",
-   "url": "https://note.com/air001/n/n14ab1d248c10",
-   "title_original": "思い出の品を整理する失恋リセット術5つ｜アオイがプレゼントを箱にしまって前を向いた実話",
-   "source": "note #断捨離",
-   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/2eff05c64fe1283dfdd5545d7dd3dc7e40ca6adf.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T08:44:38+00:00",
-   "title_ja": "失恋を機に思い出のプレゼントを整理して前を向いた人の話",
-   "summary_ja": "失恋をきっかけに、思い出の品を整理する5つのリセット術を紹介する記事。過去のパートナーからのプレゼントを箱にしまって整理することで、気持ちを切り替えて前を向くことができた実体験が語られている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "プレゼント"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "5673842284b2a757",
-   "url": "https://note.com/3shiba_id/n/nff63a9379b31",
-   "title_original": "物を捨てる",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/304375825/rectangle_large_type_2_8d636ccb4a58e27fabba565c954b49c8.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T08:42:24+00:00",
-   "title_ja": "ため込んでいた紙袋を手放したエピソード",
-   "summary_ja": "化粧品や洋服の購入時に溜め込んでいた大量の紙袋。使う予定がないまま保管してしまっていたそれらを手放した時の振り返り。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "紙袋"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "8c60cb99cc55caad",
-   "url": "https://note.com/rich_viola3056/n/nd9764d2236b3",
-   "title_original": "【持たない暮らし】「収納を減らす」と、驚くほど勝手にモノが減っていく話",
-   "source": "note #持たない暮らし",
-   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/f009f0111301241b7ceee3a1b46f4ecf179ea763.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T08:32:41+00:00",
-   "title_ja": "収納を減らすと自然にモノが減っていく仕組み",
-   "summary_ja": "あえて収納家具やスペース自体を減らすことで、家の中にある不要なモノが驚くほど勝手に減っていく現象について語る。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "d27db1a788e39cd6",
-   "url": "https://note.com/antena_life/n/nc786d1cba408",
-   "title_original": "渡り（ワタリ）という生き方",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/303236240/rectangle_large_type_2_b693b3138fd16199bd64fa7ce6eeb793.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T08:23:18+00:00",
-   "title_ja": "場所に縛られない「渡り」という生き方に惹かれる理由",
-   "summary_ja": "ひとつの場所に留まらず、土地を移動しながら生きる「渡り」というライフスタイルや物語の登場人物から、自分の生き方を考える。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "7815e6fbe36b6df0",
-   "url": "https://www.roomie.jp/2026/08/1864290",
-   "title_original": "【ポイント5倍】山崎実業さん、ありがとう。シャワー位置って好きに変えられるんだ…",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/yamazaki-1.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T08:15:42+00:00",
-   "title_ja": "山崎実業のシャワーホルダーでお風呂の快適性を上げる",
-   "summary_ja": "山崎実業のシャワーホルダーを使い、シャワーヘッドの置き場所や角度を自分の好みの位置に変えてバスタイムを快適にする工夫。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "シャワーホルダー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "8301a1dc1174ab74",
-   "url": "https://www.moneycontrol.com/lifestyle/home-garden/awarapan-2-star-disha-patani-s-6-crore-bandra-residence-sea-views-minimalist-vibe-and-white-colour-theme-article-14007548.html",
-   "title_original": "'Awarapan 2' star Disha Patani’s ₹6 Crore Bandra residence: Sea views, minimalist vibe, and white...",
-   "source": "Moneycontrol.com",
-   "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260817080925_aqqq.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-17T08:10:46+00:00",
-   "title_ja": "著名人の海を望むミニマルな白亜の自宅",
-   "summary_ja": "俳優の自宅に関する記事で、美しい海の景色とともに、白を基調としたミニマルな空間づくりの雰囲気が紹介されています。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [],
-   "importance": 2
   }
  ]
 }
