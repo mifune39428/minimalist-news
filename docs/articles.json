@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25T21:53:45.065170+09:00",
+ "updated_at": "2026-08-26T03:44:37.272373+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -36,11 +36,11 @@
    "count": 9
   },
   {
-   "name": "スマホ",
-   "count": 6
+   "name": "iPhone",
+   "count": 5
   },
   {
-   "name": "iPhone",
+   "name": "スマホ",
    "count": 5
   },
   {
@@ -128,6 +128,10 @@
    "count": 2
   },
   {
+   "name": "メッシュケース",
+   "count": 2
+  },
+  {
    "name": "メモ帳",
    "count": 2
   },
@@ -168,10 +172,6 @@
    "count": 2
   },
   {
-   "name": "現金",
-   "count": 2
-  },
-  {
    "name": "車",
    "count": 2
   },
@@ -180,11 +180,11 @@
    "count": 2
   },
   {
-   "name": "鍵",
+   "name": "防災リュック",
    "count": 2
   },
   {
-   "name": "防災リュック",
+   "name": "食器",
    "count": 2
   }
  ],
@@ -218,7 +218,6 @@
   "Realtor.com",
   "Sarah Therese",
   "Southern Living",
-  "The Independent",
   "The Minimal Mom",
   "The Minimalists",
   "The Simplicity Habit",
@@ -256,7 +255,8 @@
   "ライフハッカー・ジャパン",
   "ライブドアニュース",
   "レイの小さな暮らし",
-  "レッツエンジョイ東京",
+  "レスポンス（Response.jp）",
+  "佐賀新聞",
   "千葉テレビ放送",
   "小さな暮らしノート",
   "私だけミニマリスト｜南さやか",
@@ -264,6 +264,62 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "d628febe21f69a49",
+   "url": "https://note.com/yorozuyatetsu/n/n62ad4a1391dd",
+   "title_original": "機材を減らしてから、音が決まるのが早くなった",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/306961707/rectangle_large_type_2_16f9c9287ee9d1489619a14af73e05e7.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-25T17:34:04+00:00",
+   "title_ja": "機材を減らしたら音が早く決まるようになった話",
+   "summary_ja": "使わないエフェクターを十個ほど積み上げていた時期を経て機材を減らしたところ、バンド活動において音が決まるまでの時間が早くなったという気づき。",
+   "category": "道具・ガジェット",
+   "axis": "reduce",
+   "things": [
+    "エフェクター"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "b6b0daab73b679ba",
+   "url": "https://note.com/spica_popobear/n/n57b51ba943b4",
+   "title_original": "お財布事情🫧ྀི",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/307017755/rectangle_large_type_2_20ad0737c489f43e9ebce92a07789151.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-25T14:43:52+00:00",
+   "title_ja": "ハイブランドから無印良品に変えた財布の話",
+   "summary_ja": "様々なブランドの財布を使ってきた筆者が、最終的に無印良品のメッシュケースに落ち着いた理由を紹介。かさばらずポケットに入れやすい点や、カスタムして楽しめる手軽さが気に入っている。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "メッシュケース"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "2648cf4eac2f9d9a",
+   "url": "https://www.lifehacker.jp/article/2608-amazon-flaundry",
+   "title_original": "スーツケースの凹みが収納スペースに。しかも、帰宅したら丸ごと洗濯機へポン！",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/23/af537819-981f-48f0-8e03-68b52762929c/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-25T13:45:00+00:00",
+   "title_ja": "スーツケースの凹みを活用する収納ポーチ",
+   "summary_ja": "スーツケースのキャリーバー部分の凹みにフィットし、荷物をフラットに仕分けできる洗濯ネット兼用の収納ポーチを活用する話。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "スーツケース",
+    "収納ポーチ",
+    "洗濯ネット"
+   ],
+   "importance": 3
+  },
   {
    "id": "f0964f4c739985e8",
    "url": "https://note.com/lightdefault2/n/n97150922a98e",
@@ -465,6 +521,22 @@
    "importance": 2
   },
   {
+   "id": "0346739041f8bdfe",
+   "url": "https://www.saga-s.co.jp/articles/gallery/1777602",
+   "title_original": "Matt、断捨離した自宅をルームツアーで公開 父・桑田真澄が立つ“バーカウンター”も「お金持ちってこういうことなんですね」",
+   "source": "佐賀新聞",
+   "image": "https://saga.ismcdn.jp/mwimgs/0/6/1200m/img_069382a44f98f7212cb847fda90295aa81677.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-25T06:37:12+00:00",
+   "title_ja": "自宅を断捨離したタレントのルームツアー",
+   "summary_ja": "自宅を断捨離したタレントがルームツアーで公開した室内の様子。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
    "id": "0b1b740fda8745fe",
    "url": "https://note.com/lucid_arnica5580/n/nf240674c19a6",
    "title_original": "本の断捨離が難しい",
@@ -498,6 +570,22 @@
    "axis": "reduce",
    "things": [],
    "importance": 4
+  },
+  {
+   "id": "abe98c6c7f1f2c17",
+   "url": "https://news.infoseek.co.jp/article/fudge_396817",
+   "title_original": "旅好きミニマリストのパッキングのコツ。国内も海外も、必要最低限で身軽に旅する 【 旅好きたちの暮らしかた 】",
+   "source": "Infoseek",
+   "image": "https://media.image.infoseek.co.jp/isnews/photos/fudge/fudge_396817_0.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-25T06:30:50+00:00",
+   "title_ja": "旅好きミニマリストのパッキングのコツ",
+   "summary_ja": "旅好きミニマリストが実践する、国内外問わず必要最低限の荷物で身軽に旅するためのパッキングのコツ。",
+   "category": "旅・持ち歩き",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
   },
   {
    "id": "8b3df745606c3dc2",
@@ -552,6 +640,22 @@
     "クレジットカード",
     "PayPay"
    ],
+   "importance": 3
+  },
+  {
+   "id": "7c48976dfb9687eb",
+   "url": "https://response.jp/release/kyodonews_kaigai/20260825/306173.html",
+   "title_original": "IKEAによる新たな世界規模の調査：10人中4人近くが、家の散らかりをめぐり「無言の抗議」",
+   "source": "レスポンス（Response.jp）",
+   "image": "https://response.jp/release/imgs/list/470155.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-25T00:48:00+00:00",
+   "title_ja": "イケアの調査：家の散らかりで起きる無言の抗議",
+   "summary_ja": "イケアが実施した世界規模の調査によると、10人中4人近くの人が家の散らかりをめぐって家族間などで無言の抗議をしているという。住まいの片付けや整理の重要性を考えさせられる話題である。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -7129,109 +7233,6 @@
     "服"
    ],
    "importance": 2
-  },
-  {
-   "id": "aed100cfaea84067",
-   "url": "https://note.com/zubora_mammy/n/n7cc4245fa8db",
-   "title_original": "「もったいない」を手放す考え方",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/291720149/rectangle_large_type_2_690277211f5783f5b79eca1321ff230f.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T11:37:31+00:00",
-   "title_ja": "断捨離で「もったいない」の気持ちに向き合う",
-   "summary_ja": "断捨離の際に苦戦した「もったいない」という感情との向き合い方を振り返っています。実家から受け継いだものなど、手放す作業における心理的なハードルをどう乗り越えたかという考え方です。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "798130421c2e5676",
-   "url": "https://www.lifehacker.jp/article/machi-ya-quickpack-review-961141",
-   "title_original": "片手3秒でスマホが出せる。マグネット式の「スマポッケ」がよくできてる",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/07/31/36fd337e-0de7-4fe9-9dc4-205bbeaca275/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T11:30:00+00:00",
-   "title_ja": "スマホや鍵を身軽に持ち運ぶマグネット式ポケット",
-   "summary_ja": "財布を持たない身軽な外出を実現する、重量300gのミニマルなポケットバッグです。スマホや鍵、現金を厳選して携帯できるマグネット式ポケットやスキミング防止機能を備えています。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "ポケットバッグ",
-    "スマホ",
-    "鍵",
-    "現金"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "21d456c1c6067ea4",
-   "url": "https://www.youtube.com/watch?v=SLE0MzEfyEc",
-   "title_original": "Stories We Tell Ourselves | The Minimalists Ep. 552",
-   "source": "The Minimalists",
-   "image": "https://i4.ytimg.com/vi/SLE0MzEfyEc/hqdefault.jpg",
-   "media": "youtube",
-   "region": "海外",
-   "published": "2026-08-17T11:00:34+00:00",
-   "title_ja": "親から譲り受けたくない不用品や家宝の手放し方を語る動画",
-   "summary_ja": "作家をゲストに迎え、親から受け継ぎたくない不用品や家宝の手放し方について議論している動画。消費する物語が人生に与える影響や、自分にとって不要な遺品をどのように対処すべきかという考え方を語っている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "f59752bd3600da31",
-   "url": "https://www.enjoytokyo.jp/event/2079480",
-   "title_original": "「いま、本当に大切なものに気づく断捨離」やましたひでこ講演会 in 仙台｜レッツエンジョイ東京",
-   "source": "レッツエンジョイ東京",
-   "image": "https://rstatic.enjoytokyo.jp/assets/images/event_draft/e9/2079480/img_1.jpg?1786935450&p=t&w=1200",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-17T10:01:16+00:00",
-   "title_ja": "やましたひでこ氏が語る断捨離の講演会イベント",
-   "summary_ja": "本当に大切なものに気づくための断捨離をテーマにした講演会が仙台で開催されるというお知らせ。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "6f7865af6cae6e39",
-   "url": "https://www.independent.co.uk/bulletin/lifestyle/fire-retirement-method-finances-saving-b3034156.html",
-   "title_original": "How the FIRE method could help you retire early",
-   "source": "The Independent",
-   "image": "https://static.independent.co.uk/2026/08/14/8/51/iStock-2252664062.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-17T09:49:00+00:00",
-   "title_ja": "早期リタイアを叶えるFIRE手法の活用法",
-   "summary_ja": "経済的自立と早期退職を目指す「FIRE」の手法が、どのように早期リタイアの実現に役立つかを解説しています。生活費を抑えて貯蓄率を高めるなど、暮らしを簡素に整えて自由な時間を手に入れるための考え方を紹介しています。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "89158fb7108603ed",
-   "url": "https://www.carryology.com/insights/carry-101/history-of-the-helmet-bag",
-   "title_original": "The Untold Story of the Helmet Bag",
-   "source": "Carryology",
-   "image": "https://www.google-analytics.com/collect?v=1&tid=UA-11635208-3&cid=666&t=pageview&dh=carryology.com&dp=/insights/carry-101/history-of-the-helmet-bag/&dt=The%20Untold%20Story%20of%20the%20Helmet%20Bag",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-08-17T09:42:31+00:00",
-   "title_ja": "長年メンズウェアで愛されてきたヘルメットバッグの歴史",
-   "summary_ja": "ミリタリー由来でありながら長年メンズファッションの定番として愛されてきた、ヘルメットバッグの知られざる歴史と魅力を紐解く記事。愛用のバッグ選びの参考になる。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "ヘルメットバッグ"
-   ],
-   "importance": 3
   }
  ]
 }
