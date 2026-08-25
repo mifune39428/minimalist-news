@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25T10:25:07.163754+09:00",
+ "updated_at": "2026-08-25T15:55:28.097527+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -33,7 +33,7 @@
   },
   {
    "name": "本",
-   "count": 8
+   "count": 9
   },
   {
    "name": "スマホ",
@@ -61,6 +61,10 @@
   },
   {
    "name": "書類",
+   "count": 3
+  },
+  {
+   "name": "本棚",
    "count": 3
   },
   {
@@ -132,19 +136,11 @@
    "count": 2
   },
   {
-   "name": "保冷バッグ",
-   "count": 2
-  },
-  {
    "name": "夏服",
    "count": 2
   },
   {
    "name": "日傘",
-   "count": 2
-  },
-  {
-   "name": "本棚",
    "count": 2
   },
   {
@@ -260,6 +256,133 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "2d93dd9b259be6dd",
+   "url": "https://note.com/funiwara/n/nc4995686dec7",
+   "title_original": "ミニマムな生活",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/306874970/rectangle_large_type_2_3566196c048b9f628ace2473c090f081.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-25T06:46:26+00:00",
+   "title_ja": "大量の洗濯物に悩む夏の日の暮らし",
+   "summary_ja": "夏場の子どもの水泳授業や着替えで膨れ上がる洗濯物に追われる日々の様子をつづっています。乾燥機や除湿機を駆使しても追いつかない、雨天時の部屋干しのストレスについて語られています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "洗濯機",
+    "ピンチハンガー",
+    "除湿機",
+    "扇風機"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "c67563840f3b0301",
+   "url": "https://note.com/branches/n/n38bec844f386",
+   "title_original": "からの巣からの～夏の断捨離日記",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/306872332/rectangle_large_type_2_ed69924535bc986b54cf13cc7ace2ee4.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-25T06:42:55+00:00",
+   "title_ja": "夏休みに進めた断捨離が一段落した話",
+   "summary_ja": "夏休み期間中に精力的に断捨離を進めた結果、大々的に捨てる物がほぼなくなった状態に到達したことを報告しています。夏の間に計画的な手放しがうまく進んだ様子が伺えます。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "0b1b740fda8745fe",
+   "url": "https://note.com/lucid_arnica5580/n/nf240674c19a6",
+   "title_original": "本の断捨離が難しい",
+   "source": "note #断捨離",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/9014b1fc0f8e5af442536b12dd31b4589eff28c5.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-25T06:35:27+00:00",
+   "title_ja": "吟味して買った本だからこそ手放しにくい",
+   "summary_ja": "本棚を眺めながら本の断捨離の難しさについて語っています。吟味して新品で購入し、内容を理解したいと願って選んだ本だからこそ、他の不用品とは違って簡単に手放せない思いがつづられています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "本",
+    "本棚"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "a80180dde9f99f86",
+   "url": "https://note.com/rin_shiraki/n/n0ff5cce8acba",
+   "title_original": "「一年使わなかったら捨てる」を試して、二か月でやめました",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/306872157/rectangle_large_type_2_381bf4741e59bb6d8b8356179d955624.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-25T06:35:03+00:00",
+   "title_ja": "「1年使わなかったら捨てる」を2ヶ月でやめた理由",
+   "summary_ja": "手放す基準として有名な「1年間使わなかったら捨てる」というルールを実際に試してみたものの、自分には最も向いていなかったため2ヶ月でやめてしまった経験について語っています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "8b3df745606c3dc2",
+   "url": "https://www.roomie.jp/2026/08/1867246",
+   "title_original": "山崎実業「フードカバー」でラップを節約。冷蔵庫のスペースにも余裕ができそうだ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/20260820-yamajitsu-foodcover-01.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-25T04:00:24+00:00",
+   "title_ja": "山崎実業のフードカバーでラップを節約した話",
+   "summary_ja": "ラップの消費を減らすために山崎実業のフードカバーを導入した。時間差で食事をとる際の保存や、冷蔵庫のスペース確保に役立つアイテムとして紹介されている。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "フードカバー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "8c9053c26e2ac058",
+   "url": "https://www.roomie.jp/2026/08/1869785",
+   "title_original": "手ぶらでお散歩したい日の最適解。ポケット感覚で使える小さなバッグを見つけました",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/quickpack1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-25T02:45:23+00:00",
+   "title_ja": "ポケット感覚で使えるQUICK PACKのミニバッグ",
+   "summary_ja": "近所への散歩やちょっとした外出を身軽にするために、ポケット感覚で使える小さなバッグを取り入れた人の話。財布やポケットを使わずに外出できるミニマルなスタイルで、日々の生活を快適にしている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ミニバッグ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "966269f30f5561ef",
+   "url": "https://note.com/yusuke_muji/n/n569d01ebc48f",
+   "title_original": "水道料金のためだけに、PayPayを使っている",
+   "source": "note #持たない暮らし",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/ab72bc2629a20a6840e27fd931f07ac78976bb41.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-25T01:39:09+00:00",
+   "title_ja": "支払い方法をクレカに一本化した人の話",
+   "summary_ja": "普段の買い物はクレジットカードのタッチ決済にまとめ、家計簿と管理を楽にしている人の話。水道料金の支払いだけに残しているPayPayの存在が気になりつつも、支出を一つにまとめる工夫をしている。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [
+    "クレジットカード",
+    "PayPay"
+   ],
+   "importance": 3
+  },
   {
    "id": "81aad255e05e6a06",
    "url": "https://note.com/nicchinicchi/n/n4682ad42a313",
@@ -7095,124 +7218,6 @@
    "axis": "own",
    "things": [],
    "importance": 2
-  },
-  {
-   "id": "9c77b2cc20d5ec7f",
-   "url": "https://note.com/just_jaguar336/n/n3c2308819ce3",
-   "title_original": "ミニマリストを5年目指しているのに、どうもすっきりしない私のはじめてのnote",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/304387776/rectangle_large_type_2_9e04d421bd990edda023806b13714efc.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T08:08:18+00:00",
-   "title_ja": "理想の暮らしをこじらせていた過去と手放しの試行錯誤",
-   "summary_ja": "4人の子育てをする主婦が、インテリアやおしゃれアイテム集めに執着していた過去を振り返り、すっきりしない部屋と向き合う様子をつづったエッセイ。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "0703549b031d5699",
-   "url": "https://www.youtube.com/shorts/_58So3A988A",
-   "title_original": "【ミニマリスト主婦】夕方からも頑張ろう",
-   "source": "ぴーこ｜ゆるっとミニマルな日常",
-   "image": "https://i4.ytimg.com/vi/_58So3A988A/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-08-17T08:00:37+00:00",
-   "title_ja": "ミニマリスト主婦の夕方の暮らしVlog",
-   "summary_ja": "少ないもので暮らすミニマリスト主婦の日常を映した動画。暮らしを整える工夫や日々のルーティンを垣間見ることができる。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "545c7c44985913f8",
-   "url": "https://www.lifehacker.jp/article/machi-ya-ceilingfanlight-review-967443",
-   "title_original": "エアコンの設定温度を上げても快適？ 天井の「これ」を回したら空気が変わった",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/07/31/edbcb9c1-905b-43a8-9a23-5b27b5d79923/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T07:30:00+00:00",
-   "title_ja": "照明とファンを1台にまとめたシーリングライト",
-   "summary_ja": "照明と送風機能を一体化させ、部屋の空気を循環させながら明るさを調整できるシーリングファンライトを紹介しています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "シーリングファンライト"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "5ff90ed1134f1986",
-   "url": "https://note.com/alert_orchid2505/n/n4cd2a1f30b34",
-   "title_original": "ミニマリストが旅行から帰ってきたらやることは？",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/304366967/rectangle_large_type_2_c4a0366b1a6c3d397893c8646070a355.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T07:10:41+00:00",
-   "title_ja": "転勤族のミニマリストが旅行の帰宅後に実践すること",
-   "summary_ja": "身軽でコンパクトな暮らしを心がける転勤族の筆者が、旅行から自宅に帰ってきたあとにどのような行動をとっているのか、日々の暮らしの気づきとともに紹介している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "fc24c1f3c5527f89",
-   "url": "https://www.roomie.jp/2026/08/1864136",
-   "title_original": "山崎実業の「中身に合わせて変形する保冷バッグ」が、通勤にも買い物帰りにも大活躍！",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/05/yamajitsu_horei_top.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T07:00:52+00:00",
-   "title_ja": "山崎実業の形を変えられる保冷バッグ",
-   "summary_ja": "かさばりがちな保冷バッグの悩みを解決する、中身に合わせて変形できる山崎実業のアイテムを紹介しています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "保冷バッグ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "0e9a715799af36f7",
-   "url": "https://www.roomie.jp/2026/08/1862546",
-   "title_original": "「洗いやすく持ち歩きやすい」が毎日使いの最適解。無印良品のボトルが過去最安",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/20260817mujitop.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T06:55:19+00:00",
-   "title_ja": "無印良品の洗いやすい保温保冷ボトル",
-   "summary_ja": "毎日使う水筒として、洗いやすく持ち運びもしやすい無印良品の真空断熱ボトルを紹介。日々の水分補給に便利なアイテムを取り入れている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "無印良品 真空断熱構造 保温保冷ボトル"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ffff302942088cbc",
-   "url": "https://note.com/jitankataduke/n/nc9afa052c76f",
-   "title_original": "服を捨てる基準に迷ったら？ 洋服はあなたの全身名刺です",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/304356549/rectangle_large_type_2_c547191b78d27312dd7c14982585ee1f.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T06:47:51+00:00",
-   "title_ja": "服を捨てる基準に迷ったときの考え方",
-   "summary_ja": "まだ着られるけれど1年以上着ていない服など、手放すべきか迷ったときの判断基準について綴った記事。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
   }
  ]
 }
