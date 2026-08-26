@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-26T10:28:25.865934+09:00",
+ "updated_at": "2026-08-26T15:55:46.718956+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -68,19 +68,11 @@
    "count": 2
   },
   {
-   "name": "おもちゃ",
-   "count": 2
-  },
-  {
    "name": "カード",
    "count": 2
   },
   {
    "name": "クイックルワイパー",
-   "count": 2
-  },
-  {
-   "name": "クローゼット",
    "count": 2
   },
   {
@@ -133,10 +125,6 @@
   },
   {
    "name": "モバイルバッテリー",
-   "count": 2
-  },
-  {
-   "name": "写真",
    "count": 2
   },
   {
@@ -193,7 +181,9 @@
   "ABEMA",
   "AOL.ca",
   "AOL.com",
-  "Apartment Therapy",
+  "AllEars.Net",
+  "BS朝日",
+  "Balance Through Simplicity",
   "Be More with Less",
   "Better Homes & Gardens",
   "CNA Luxury",
@@ -208,6 +198,7 @@
   "Jenny Mustard",
   "LIMO | くらしとお金の経済メディア",
   "Livingetc",
+  "MedPage Today",
   "MonoMax",
   "Mshale",
   "No Sidebar",
@@ -220,18 +211,19 @@
   "Sarah Therese",
   "Southern Living",
   "TOKAIネットワーククラブ（TNC）",
+  "TVer",
   "The Minimal Mom",
   "The Minimalists",
   "The Simplicity Habit",
   "The Spruce",
   "The i Paper",
   "TheCoolist",
+  "Treeline Review",
   "Woman & Home",
   "Yahoo Creators",
   "Yahoo!ニュース",
   "YouTube",
   "Zen Habits（X）",
-  "eltha",
   "exhibitionnews.uk",
   "fashionsnap.com",
   "lee.hpplus.jp",
@@ -267,6 +259,158 @@
  "count": 400,
  "items": [
   {
+   "id": "e32ad6643dc3158e",
+   "url": "https://note.com/kataduke_kokoro/n/n9cea04968b1a",
+   "title_original": "片づけが怖いのは、あなたが自分を愛しているから",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/307194091/rectangle_large_type_2_0875b168920bd399853f1c0f16d04950.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-26T06:45:07+00:00",
+   "title_ja": "片づけが怖くなってしまう理由と考え方",
+   "summary_ja": "片づけを長年先延ばしにしてしまう心理や、自分を愛しているからこそ片づけに踏み出せない心の葛藤についてつづっています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "4bbf5d3f164c9a5e",
+   "url": "https://www.lifehacker.jp/article/amazon-timesale-2026-0826-1",
+   "title_original": "ホットプレートと卓上コンロ、別々に買わなくていい。イワタニの1台で完結",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/26/c4affb92-6bb3-4603-9f01-b86d0294be12/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-26T06:00:00+00:00",
+   "title_ja": "1台で何役もこなすイワタニのカセットガスホットプレート",
+   "summary_ja": "ホットプレートとカセットコンロを別々に持たず、イワタニの1台に集約して調理器具を減らす方法。焼肉から鍋までこれ一つで対応できます。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "カセットガスホットプレート",
+    "卓上コンロ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ba91cb466be21960",
+   "url": "https://note.com/nerdens/n/n5d7fb2386fd3",
+   "title_original": "⑱家計簿のレシート、いつまで保管する？｜その場で撮って捨てる、いちばんラクな残し方",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/307182461/rectangle_large_type_2_a74c033dd260684c023cdf47fddc24b1.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-26T05:56:05+00:00",
+   "title_ja": "家計簿のレシートはその場で撮影してすぐ捨てる工夫",
+   "summary_ja": "レシートを後から入力するために保管するのをやめ、その場で撮影してすぐに手放す方法。溜め込んでしまう面倒くささを解消する仕組みです。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "レシート"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "1c861c79394c7809",
+   "url": "https://note.com/merry_takin6717/n/n8d281bc44b4e",
+   "title_original": "人生には多くの選択肢が存在していて自由というお話",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/307181326/rectangle_large_type_2_755ab6999094c9df732889627e7113b0.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-26T05:51:16+00:00",
+   "title_ja": "自ら選択肢を狭めて不自由に生きる理由について",
+   "summary_ja": "人生の選択肢を自ら狭めてしまう理由を解説し、もっと自由に生きるための考え方を紹介しています。モノや情報に縛られない生き方を考えるきっかけになります。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "364b16ba8676ef06",
+   "url": "https://note.com/alive_deer881/n/n3f32c0d2de9a",
+   "title_original": "『ものは勝手に動かない』から、暮らしを整える",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/307164550/rectangle_large_type_2_38d4c98b067def14620e202c1596274a.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-26T04:44:01+00:00",
+   "title_ja": "来客をきっかけに暮らしと掃除を見直した話",
+   "summary_ja": "来客や工事をきっかけに隠しきれない暮らしぶりを痛感し、拭くことや磨くことの大切さに気づいて住まいや習慣を整え直した話。狭い部屋だからこそ日頃から清掃や整理を意識する実例。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "94b8427de61c2a9b",
+   "url": "https://www.roomie.jp/2026/08/1868063",
+   "title_original": "山崎実業の新作「チリトリみたいなボウルとザル」で、料理と片付けが時短に！",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/260821_yamajitsu_bowl_01.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-26T04:00:07+00:00",
+   "title_ja": "料理と片付けを効率化する山崎実業のボウルとザル",
+   "summary_ja": "キッチン作業の時短を目指すライターが注目した、山崎実業のチリトリ型ボウルとザルの紹介。効率よく食材の下ごしらえができ、調理や後片付けの負担を減らせる便利な調理道具。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "ボウル",
+    "ザル"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "796458e1812ab1eb",
+   "url": "https://www.realsimple.com/professional-organizer-approved-decluttering-hacks-august-2026-12066286",
+   "title_original": "Professional Organizers Share 10 Tips That Actually Work for Decluttering Your Home",
+   "source": "Real Simple",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-26T04:00:00+00:00",
+   "title_ja": "プロの整理収納家が教える自宅の片付け10のコツ",
+   "summary_ja": "整理収納のプロが、自宅の不要品を減らして住まいをすっきり整えるために効果的な10のアドバイスをまとめた記事。片付けのハードルを下げて効率よく減らす考え方を解説している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "df15ea531d26aa8d",
+   "url": "https://news.yahoo.co.jp/articles/73b3aec22883c1cd271439b71660e211ef938833",
+   "title_original": "若槻千夏 “断捨離”中に驚いた夫の行動とは 実は夫妻ともに「物が家にあんまりないタイプ」（スポニチアネックス）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260826-00000140-spnannex-000-3-view.jpg?exp=10800",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-26T02:15:18+00:00",
+   "title_ja": "断捨離中に驚いた夫の行動と物が少ない夫婦の暮らし",
+   "summary_ja": "タレントの若槻千夏さんが断捨離をしている最中に驚いた夫の行動に関するニュース。夫妻ともに普段から家に物をあまり置かないタイプであることを明かしており、片づけの際のエピソードが語られている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "15867badd16bd04a",
+   "url": "https://news.livedoor.com/topics/detail/32161087",
+   "title_original": "若槻千夏 “断捨離”中に驚いた夫の行動とは 実は夫妻ともに「物が家にあんまりないタイプ」 (2026年8月26日掲載)",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-26T02:15:18+00:00",
+   "title_ja": "若槻千夏が語る断捨離体験と夫妻の物との付き合い方",
+   "summary_ja": "若槻千夏さんが自宅の断捨離中に体験した夫の行動について語るニュース。夫婦で家に物をあまり置かない生活を送っており、片づけの中で見せた夫の姿について伝えている。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
    "id": "72d5dbab082b3468",
    "url": "https://note.com/nagi_mikan/n/nb26b2bf22566",
    "title_original": "スーパーの袋ひとつ分の荷物で一人旅に出た日",
@@ -280,6 +424,24 @@
    "category": "旅・持ち歩き",
    "axis": "own",
    "things": [],
+   "importance": 3
+  },
+  {
+   "id": "7ceac5681826ac9b",
+   "url": "https://minimalist-fudeko.com/friends-after-60",
+   "title_original": "60歳から友達はできない？ 無理して作ろうとしなくても大丈夫",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/08/female-friends.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-26T00:10:46+00:00",
+   "title_ja": "60代からの友人関係に悩む読者へのアドバイス",
+   "summary_ja": "片づけに悩む読者からの相談を通じて、60歳からの友人作りについて考察するコラム。無理に友達を増やそうとせず、シンプルに過ごすための考え方や心の整え方を伝えている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "ダンボール"
+   ],
    "importance": 3
   },
   {
@@ -339,6 +501,24 @@
    "importance": 4
   },
   {
+   "id": "1f7080c300ed256e",
+   "url": "https://allears.net/2026/08/25/why-disney-adults-are-running-to-amazon-for-these-packing-cubes-right-now",
+   "title_original": "Why Disney Adults Are Running to Amazon for These Packing Cubes Right Now",
+   "source": "AllEars.Net",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-25T19:00:23+00:00",
+   "title_ja": "旅行荷物をすっきりまとめるパッキングキューブが話題の理由",
+   "summary_ja": "旅行時に荷物を効率よく整理できるパッキングキューブが注目を集めています。スーツケースの中身をすっきりとコンパクトにまとめ、限られたスペースを有効活用して持ち物をスマートに持ち運ぶための活用法が紹介されています。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "パッキングキューブ"
+   ],
+   "importance": 2
+  },
+  {
    "id": "d628febe21f69a49",
    "url": "https://note.com/yorozuyatetsu/n/n62ad4a1391dd",
    "title_original": "機材を減らしてから、音が決まるのが早くなった",
@@ -355,6 +535,38 @@
     "エフェクター"
    ],
    "importance": 4
+  },
+  {
+   "id": "87d6a2cedaba064a",
+   "url": "https://www.medpagetoday.com/opinion/patientcenteredmedicalhome/122745",
+   "title_original": "Opinion | Clearing Out the Clutter, in Our Drawers and in Healthcare",
+   "source": "MedPage Today",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-25T16:20:43+00:00",
+   "title_ja": "引き出しの不用品整理と医療の無駄削減に通じる考え方",
+   "summary_ja": "身の回りの引き出しにあるガラクタを片付けることと、医療の現場における不要なプロセスを減らすことの共通点を論じた意見記事です。不要なものを手放してシンプルに整える思考法や、無駄を省くプロセスの大切さを伝えています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "c62a9d029d633976",
+   "url": "https://tver.jp/episodes/epduk3ye1h",
+   "title_original": "【極限生活】ムダを省きまくったミニマリスト★10/10本ダレLIVE開催！",
+   "source": "TVer",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-25T16:20:22+00:00",
+   "title_ja": "無駄を極限まで削ぎ落としたミニマリストの密着生活",
+   "summary_ja": "生活の中の無駄を徹底的に省いて暮らすミニマリストの極限生活を紹介する番組です。必要最小限のものだけで生活する様子や、物を減らすための考え方、シンプルかつ無駄のない暮らしを実践するための工夫が明かされています。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
   },
   {
    "id": "ebbd20f77a202236",
@@ -408,6 +620,22 @@
     "収納ポーチ",
     "洗濯ネット"
    ],
+   "importance": 3
+  },
+  {
+   "id": "e41f356539bdb795",
+   "url": "https://www.bs-asahi.co.jp/danshari/lineup/prg_322",
+   "title_original": "特別企画 ７本指のピアニスト 西川悟平が断捨離“愛”に目覚める",
+   "source": "BS朝日",
+   "image": "https://www.bs-asahi.co.jp/wp-content/uploads/sites/92/2026/08/prg_322_01.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-25T13:08:07+00:00",
+   "title_ja": "7本指のピアニスト西川悟平が断捨離の魅力に目覚めた特別企画",
+   "summary_ja": "7本指のピアニストとして活動する西川悟平氏が、不要な物を手放す断捨離の魅力に開眼し、自身の生活や考え方を整えていく姿に密着した番組企画。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -673,6 +901,40 @@
    "title_ja": "旅好きミニマリストのパッキングのコツ",
    "summary_ja": "旅好きミニマリストが実践する、国内外問わず必要最低限の荷物で身軽に旅するためのパッキングのコツ。",
    "category": "旅・持ち歩き",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "ca280b63830378ff",
+   "url": "https://www.treelinereview.com/gearreviews/best-adventure-travel-backpacks",
+   "title_original": "11 Best Adventure Travel Backpacks of 2026 (Tested and Reviewed)",
+   "source": "Treeline Review",
+   "image": "http://static1.squarespace.com/static/5b4544e485ede17941bc95fc/5b74c14c6d2a730c2a3ebf04/6a82ce8f1a30951f2451c212/1787665590548/best-adventure-travel-backpacks.jpg?format=1500w",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-25T04:39:28+00:00",
+   "title_ja": "冒険旅行におすすめのバックパック11選を検証・レビューした記事",
+   "summary_ja": "旅行やアウトドアで活躍するアドベンチャートラベル向けバックパック11製品を実際にテストし、比較検証したレビュー記事です。自分に合った使い勝手の良いバックパックを選びたい人に向けて、おすすめモデルを紹介しています。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "バックパック"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "381f677f50d6fba2",
+   "url": "https://balancethroughsimplicity.com/how-to-simplify-going-back-to-school-and-school-routines",
+   "title_original": "How To Simplify Going Back To School",
+   "source": "Balance Through Simplicity",
+   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2022/08/1-1-683x1024.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-08-25T04:17:00+00:00",
+   "title_ja": "新学期の準備やルーティンをシンプルに整えるためのヒント",
+   "summary_ja": "新学期に向けた準備をシンプルにし、親子にとって快適な日課を作るためのコツを紹介している記事です。朝の準備や日々の習慣を見直し、ストレスなく過ごすための具体的なアイデアを提案しています。",
+   "category": "心・習慣",
    "axis": "reduce",
    "things": [],
    "importance": 3
@@ -1111,6 +1373,24 @@
    "things": [
     "充電ケース",
     "USB Type-C端子"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "03dda228e345d8ac",
+   "url": "https://www.treelinereview.com/gearreviews/best-travel-water-bottles",
+   "title_original": "9 Best Travel Water Bottles of 2026 (Tested and Reviewed)",
+   "source": "Treeline Review",
+   "image": "http://static1.squarespace.com/static/5b4544e485ede17941bc95fc/t/6a7af61239174e593ede1556/1786443282105/best-travel-water-bottles-fillup-in-stream1.jpg?format=1500w",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-24T13:33:44+00:00",
+   "title_ja": "旅行におすすめのウォーターボトル9選のテストレビュー",
+   "summary_ja": "旅行の際に活躍するウォーターボトルの中から、実際にテストして厳選したおすすめの9製品を紹介する記事。使い勝手や機能性などの観点からレビューが行われている。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "ウォーターボトル"
    ],
    "importance": 3
   },
@@ -6943,297 +7223,6 @@
    "category": "心・習慣",
    "axis": "reduce",
    "things": [],
-   "importance": 3
-  },
-  {
-   "id": "9748d332887544a3",
-   "url": "https://www.realsimple.com/things-pro-organizers-never-keep-in-their-homes-12024141",
-   "title_original": "7 Things Pro Organizers Never Keep in Their Own Homes",
-   "source": "Real Simple",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-17T20:44:57+00:00",
-   "title_ja": "プロの整理収納アドバイザーが自宅に置かない7つの物",
-   "summary_ja": "片付けのプロが自身の家には絶対に置かないと決めている7つの物について解説している。無駄を省いた自宅環境づくりのヒントが見つかる。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "79dbe5bfb00fe6f8",
-   "url": "https://note.com/nyagosutin_/n/n9179ae6598ee",
-   "title_original": "実家から大量の写真が出てきたら？｜捨てずに始める「最初の30分」整理術",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/304540753/rectangle_large_type_2_cebb5c9c5b4280333d85db7d258055a5.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T18:33:13+00:00",
-   "title_ja": "実家から出てきた大量の古い写真を整理する最初の一歩",
-   "summary_ja": "押し入れの奥から古い菓子箱に入った数百枚の未整理の写真が出てきた。捨てずに始めるための最初の30分間における写真の整理術についての話。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "写真",
-    "菓子箱"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "66dfbfc23f5b18fe",
-   "url": "https://news.yahoo.co.jp/articles/d170a210c327629e43b240b19a7b6f6b38d731d4/images/000",
-   "title_original": "40代「旅行後の片付け」がラクになる工夫3つ。荷物の詰め方を変えたら、帰宅後がぐんと快適に (ESSE-online)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3h9uiCojScY7SLYgxmEygY1IHrizDtUCsS5bvetUAJMQW4wOquDhG_6Xr_dshm_VPCzsKGsVlFR54q58LEbBx_98orgQWegNY2ki9a1x9pagAuybdyuIeUxJyI2W60FxP",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-17T17:34:47+00:00",
-   "title_ja": "40代の旅行後にラクをする荷造りと片付けの工夫3つ",
-   "summary_ja": "旅行後の片付けを楽にするための荷物の詰め方を紹介している。帰宅後の負担を減らすための具体的なアプローチが参考になる。",
-   "category": "旅・持ち歩き",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "cd466b59b92272a6",
-   "url": "https://note.com/aito_totono/n/n44b314d0a090",
-   "title_original": "ものを捨てれば捨てるほど、大切なものが見えてきた話",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/304530413/rectangle_large_type_2_cdf75ce916734281f17a8e0722a5887f.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T16:15:26+00:00",
-   "title_ja": "ものを捨てていく過程で大切なものが見えてきた体験談",
-   "summary_ja": "ものを整えることを大切にしながらも、以前は片づけに苦労していた。しかしものを捨てるという経験を重ねる中で、本当に大切なものが見えてきたという話。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "938bfdc412ae68a2",
-   "url": "https://note.com/kumanocomama/n/n411dacdcc949",
-   "title_original": "【残り24日】Day36｜おもちゃの片づけから見えるモノの優先順位の付け方",
-   "source": "note #断捨離",
-   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/27c0d6c2da05b95778f0f0bef6a10035815bd7e2.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T15:36:13+00:00",
-   "title_ja": "おもちゃの片づけから学ぶモノの優先順位の付け方",
-   "summary_ja": "整った部屋で暮らすことを目標に60日チャレンジを続ける中で、子ども部屋のおもちゃの片づけを通して、どのようにモノの優先順位を付けていくのかを考える。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "おもちゃ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "65892443898802ff",
-   "url": "https://note.com/humble_neo/n/nbb9c3adb93e4",
-   "title_original": "100均で開運グッズを手に取って 棚に戻した日のこと",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/304523362/rectangle_large_type_2_bfa967b8644882b35c758c06d5d43e4a.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T15:27:55+00:00",
-   "title_ja": "100均の開運グッズを手にして棚に戻した日の心境",
-   "summary_ja": "100均を歩いていて金色の招き猫の開運グッズの前で足が止まった。手に取ってみたものの、最終的に買わずに棚へ戻した時の心情をつづっている。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [
-    "招き猫"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "411d62e1c18c5e4c",
-   "url": "https://www.idealhome.co.uk/house-manual/storage-organisation-decluttering/trinny-woodall-wardrobe-organisation",
-   "title_original": "Trinny Woodall’s wardrobe is a masterclass in organisation",
-   "source": "Ideal Home",
-   "image": "https://cdn.mos.cms.futurecdn.net/vY9AtHisFHF4D8carirZih-2560-80.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-17T15:00:00+00:00",
-   "title_ja": "トリンニー・ウッドールのクローゼット収納術",
-   "summary_ja": "有名人のクローゼットを通じて学ぶ、整理整頓の極意について紹介している記事。服の管理や収納の工夫を知ることができる。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "クローゼット"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "b87b8639e425d3b7",
-   "url": "https://note.com/kagaku_0016/n/nff843c7ac37a",
-   "title_original": "稼げるようになって変わったお金の使い方——値段ではなく、価値で決める",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/304516389/rectangle_large_type_2_6c47b3eabfd9bd452e57428e6fe6a835.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T14:56:17+00:00",
-   "title_ja": "値段ではなく価値で決めるようになったお金の使い方",
-   "summary_ja": "収入の変化に伴い、買い物の基準を商品の値段から価値へとシフトさせた体験談。物との向き合い方や購入時の基準を見直すきっかけになる内容。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "f0a4297a53676eda",
-   "url": "https://nosidebar.com/beach-benefits",
-   "title_original": "Beach Benefits",
-   "source": "No Sidebar",
-   "image": "https://nosidebar.com/wp-content/uploads/jessica-pamp-sGRMspZmfPE-unsplash-scaled.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-08-17T14:00:00+00:00",
-   "title_ja": "生産性よりも休息を楽しむ夏のシンプルな過ごし方",
-   "summary_ja": "夏という季節を通じて、生産性を追求するよりも友人との時間や屋外でのレジャー、リラックスしたシンプルな暮らしを大切にする考え方について。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "d58fe1b94b6fd831",
-   "url": "https://www.lifehacker.jp/article/2608-costorypo-neckpillow-start-1308004831",
-   "title_original": "旅行やデスクでのリラックスタイムにも。疲れがちな現代の首を優しくサポート",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/08/17/229fe3e4-5bad-4205-81a1-e5eb72a9a06e/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T13:45:00+00:00",
-   "title_ja": "旅行やデスクワークで使える軽量な首のサポート用品",
-   "summary_ja": "重さ65gでコンパクトに収納でき、首への負担を軽減するサポート用品の紹介。カバンやデスクに常備して移動時や仕事中に活用できる便利な道具。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "首のサポート用品"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "6476a1ebd70e15ca",
-   "url": "https://www.realsimple.com/decluttering-methods-you-have-never-heard-of-from-reddit-12035798",
-   "title_original": "7 Under-the-Radar Decluttering Methods That Make Tidying Up So Much Easier",
-   "source": "Real Simple",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-17T13:30:00+00:00",
-   "title_ja": "片付けがぐっと楽になるあまり知られていない7つの方法",
-   "summary_ja": "これまでにあまり知られていない、効果的な片付けと整理のメソッドを紹介している。散らかった空間をすっきりと整えるための新しいアプローチ。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "b2dafb582ab41c1d",
-   "url": "https://www.apartmenttherapy.com/fridge-organizing-hacks-from-pro-organizers-37686199",
-   "title_original": "Their 4 Brilliant Organizing Hacks Will Instantly Declutter Your Fridge for Good",
-   "source": "Apartment Therapy",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-17T13:15:00+00:00",
-   "title_ja": "冷蔵庫がすっきり片付く4つの優秀な収納と整理の裏技",
-   "summary_ja": "冷蔵庫の中を効率よく整理し、ごちゃつきを解消するための4つの収納アイデアを紹介している。毎日の家事効率を高める工夫が学べる。",
-   "category": "キッチン・食",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "1da3bc90e3de0d88",
-   "url": "https://beauty.oricon.co.jp/column/39243",
-   "title_original": "「私がいじめてるみたいじゃん…」夫の溜め込み癖の言い訳に唖然…断捨離妻の反撃はどうなる!?",
-   "source": "eltha",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-17T13:02:39+00:00",
-   "title_ja": "夫の溜め込み癖に対する断捨離妻の奮闘",
-   "summary_ja": "物を捨てられない夫の言い訳に困惑しながらも、家の中の物を減らそうと向き合う妻の様子を描いています。家庭内でモノの適正量をめぐる価値観の違いと、その解決に向けた葛藤が語られています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "d4f912e44eb3342e",
-   "url": "https://www.roomie.jp/2026/08/1864696",
-   "title_original": "無印良品の「汗拭きシート」は、ちょうどいいスースー感。ベタつかず・さっぱり気持ちいいんだ～",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/IMG_8165-scaled.jpeg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T13:00:47+00:00",
-   "title_ja": "無印良品の汗拭きシートで夏を乗り切る愛用品",
-   "summary_ja": "蒸し暑い夏の必需品として紹介されている無印良品の汗拭き用ボディシート。メントール配合でベタつかず、さっぱりとした清涼感が得られるため愛用している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "汗拭きシート"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "660e0ce2ddad94cc",
-   "url": "https://www.lifehacker.jp/article/2608-5-things-old-android-phone-does-better-than-dedicated-gadget",
-   "title_original": "私が古いAndroidを愛用する5つの理由",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/04/16/9a7b3815-4b10-47e9-8624-18e4a6dbdbc6/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T13:00:00+00:00",
-   "title_ja": "古いAndroidスマホを専用機として活用する理由",
-   "summary_ja": "引き出しに眠る古いAndroidを、microSD拡張やUSB-C出力、カメラの再活用などで専用機として蘇らせるメリットを解説している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "Androidスマホ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2097005feceb8fe2",
-   "url": "https://mshale.com/ab974149/6e6fdf8ch--wPiHF3MY",
-   "title_original": "The Best Travel Backpacks For 2026 (Tested Head To Head) Alexander Zverev (FRhxLgDxTU)",
-   "source": "Mshale",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-17T12:57:24+00:00",
-   "title_ja": "旅の荷物を最小限にするバックパックの比較",
-   "summary_ja": "旅行の際に持ち運ぶ荷物をコンパクトにするための、トラベル用バックパックの比較検証を行っています。移動を身軽にするための道具選びのポイントを知ることができます。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "バックパック"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "46579b83237219e2",
-   "url": "https://www.lifehacker.jp/article/2608-yamazakijitsugyou-under-table-storage-rack",
-   "title_original": "この仕事道具、全部消えます。リビングのテーブルを「理想の仕事場」に変える整理術",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/08/14/b8d3b04b-5fa3-4b48-846f-3b9773860279/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T12:45:00+00:00",
-   "title_ja": "リビングのテーブル下を活用して仕事道具を片付ける方法",
-   "summary_ja": "リビングでのテレワークで散らかりがちなPCやガジェットを、山崎実業のテーブル下収納ラックを使ってすっきりと片付ける収納術。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "テーブル下収納ラック"
-   ],
    "importance": 3
   }
  ]
