@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-26T15:55:46.718956+09:00",
+ "updated_at": "2026-08-26T21:58:56.439819+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -33,14 +33,14 @@
   },
   {
    "name": "本",
-   "count": 8
-  },
-  {
-   "name": "iPhone",
-   "count": 5
+   "count": 9
   },
   {
    "name": "スマホ",
+   "count": 6
+  },
+  {
+   "name": "iPhone",
    "count": 5
   },
   {
@@ -112,7 +112,15 @@
    "count": 2
   },
   {
+   "name": "フェイスパウダー",
+   "count": 2
+  },
+  {
    "name": "ヘアピン",
+   "count": 2
+  },
+  {
+   "name": "ペン",
    "count": 2
   },
   {
@@ -133,6 +141,10 @@
   },
   {
    "name": "夏服",
+   "count": 2
+  },
+  {
+   "name": "思い出の品",
    "count": 2
   },
   {
@@ -203,7 +215,6 @@
   "Mshale",
   "No Sidebar",
   "Pangolins with Packs",
-  "Post and Courier",
   "RFD-TV",
   "ROOMIE",
   "Real Simple",
@@ -236,7 +247,6 @@
   "note #断捨離",
   "parade.com",
   "trilltrill.jp",
-  "wfxb.com",
   "with class",
   "ねとらぼ",
   "ぴーこ｜ゆるっとミニマルな日常",
@@ -258,6 +268,171 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "8c0ab28e51f77ffd",
+   "url": "https://note.com/rain_color9/n/n51805b09307a",
+   "title_original": "SEワーママはアプリを断捨離したい。ChatGPTの「プロジェクト」を自分専用アプリにしてみた",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/307166899/rectangle_large_type_2_cd37148f6aafd6f349175f67b50fbdd4.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-26T12:14:08+00:00",
+   "title_ja": "アプリが増えすぎて困っているワーママの断捨離",
+   "summary_ja": "スマホのホーム画面に溢れるアプリや、久しぶりに開いた際のログインやアップデートの手間に悩むワーママが、アプリの断捨離を試みる話。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "スマホ"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "66151fd8b240aa81",
+   "url": "https://www.thespruce.com/things-to-never-keep-in-kitchen-cabinets-12037339",
+   "title_original": "5 Things Professional Organizers Say You Should Never Store in Your Kitchen Cabinets",
+   "source": "The Spruce",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-26T11:36:00+00:00",
+   "title_ja": "プロの整理収納士がキッチンに置かない5つの物",
+   "summary_ja": "プロの整理収納士が、キッチンのキャビネットに絶対に収納すべきではないと指摘する5つの物について解説している記事。",
+   "category": "キッチン・食",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "3053765ad30c3c1b",
+   "url": "https://www.roomie.jp/2026/08/1866521",
+   "title_original": "変わったペンとメモパッドで「日めくりToDoリスト」が完成！楽しい＆いつでも目につくから継続しやすいな",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/ogmax_20250711-18.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-26T11:30:40+00:00",
+   "title_ja": "変わったペンとメモパッドで作る日めくりToDo",
+   "summary_ja": "目につく場所に置いておけてちょっとしたメモも書ける理想の形を探し求め、変わったペンとメモパッドの組み合わせで日めくりToDoリストを実践している話。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ペン",
+    "メモパッド"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "8259633773608082",
+   "url": "https://note.com/maltese_chuki/n/n7d1e1976371e",
+   "title_original": "どうせあの世には何も持っていけないからさ",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/307266998/rectangle_large_type_2_b80881563e7dd31f0de71a81f61c784b.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-26T11:10:12+00:00",
+   "title_ja": "本棚に入りきらない積読本を断捨離する話",
+   "summary_ja": "本が溢れかえって本棚に入りきらなくなり、机の上に平積み状態になってしまったことから断捨離を始めた人の記録。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "本"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "aa253ec1fe6f5421",
+   "url": "https://www.youtube.com/shorts/uSFX_D0fk7A",
+   "title_original": "【断捨離】自分という個に戻れる空間 #やましたひでこ#断捨離 #shorts",
+   "source": "やましたひでこ断捨離",
+   "image": "https://i2.ytimg.com/vi/uSFX_D0fk7A/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-26T11:00:09+00:00",
+   "title_ja": "60代からの断捨離で思い出の品を手放し「今の自分」を生きる方法",
+   "summary_ja": "断捨離提唱者のやましたひでこ氏が、ゲストの岩崎宏美さんとともに60歳からの断捨離について語る動画。過去の思い出の品を手放すことで、自分という個に戻り「今の自分」を生きるためのヒントを紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "思い出の品"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "31026dc47e0c32c3",
+   "url": "https://www.roomie.jp/2026/08/1870778",
+   "title_original": "料理が面倒くさい私が選んだのは…洗う・蒸す・盛るを一台でこなす「ステンレス平ざるトレーセット」でした",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/260826_flatcolandertray_eye.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-26T11:00:04+00:00",
+   "title_ja": "1台で洗う・蒸す・盛るをこなすステンレス平ざるトレーセットの活用法",
+   "summary_ja": "キッチンでの調理動作や手間を軽減するために、シービージャパンの「ステンレス平ざるトレーセット」を導入した事例。1台で洗う、蒸す、盛り付けるなどの役割をこなし、料理の手間を減らしてくれるアイテムとして紹介されている。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "ステンレス平ざるトレーセット",
+    "平ざる",
+    "トレー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "41c9a2b7962c32f0",
+   "url": "https://www.roomie.jp/2026/08/1866294",
+   "title_original": "マークスのメッシュポーチを使い始めたら、「リップ忘れた！」がなくなったよ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/marks-mesh-pouch-scaled.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-26T10:00:43+00:00",
+   "title_ja": "持ち物を最小限にしつつ忘れ物を防ぐメッシュポーチの活用例",
+   "summary_ja": "荷物が増えがちなためコスメポーチをミニマルにしていた筆者が、リップなどの入れ忘れを防ぐためにマークスの「メッシュポーチ」へ買い替えた体験談。中身が見えるメッシュ素材を活用し、持ち物の管理を簡単にした工夫が紹介されている。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "メッシュポーチ",
+    "リップ",
+    "フェイスパウダー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "2a8edc3790af4562",
+   "url": "https://www.youtube.com/shorts/bWidYm4f-kQ",
+   "title_original": "【ミニマリスト主婦】お家でお菓子作るの結構好き",
+   "source": "ぴーこ｜ゆるっとミニマルな日常",
+   "image": "https://i3.ytimg.com/vi/bWidYm4f-kQ/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-26T08:00:06+00:00",
+   "title_ja": "ミニマリスト主婦の自宅でのお菓子作りと暮らし",
+   "summary_ja": "ミニマリスト主婦がお家でお菓子作りを楽しむ日常の様子を届ける動画。（抜粋なし）",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "03061620f586c8f8",
+   "url": "https://note.com/moka_days_/n/n7984dafc038a",
+   "title_original": "モノを減らしたら、自然とお金を使わなくなった。私が始めた「1日1捨」",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/307195582/rectangle_large_type_2_276454927e9beb894c5f2016de689a1a.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-26T06:55:06+00:00",
+   "title_ja": "毎日1つ物を手放す「1日1捨」でお金を使わない暮らしに",
+   "summary_ja": "洗面台の引き出しにある使いかけの化粧水サンプルや古いヘアゴムなどを見直し、毎日1つずつ物を手放す「1日1捨」を始めたことで、自然とお金を使わなくなったという実践談。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "化粧水サンプル",
+    "ヘアゴム",
+    "つまようじ"
+   ],
+   "importance": 4
+  },
   {
    "id": "e32ad6643dc3158e",
    "url": "https://note.com/kataduke_kokoro/n/n9cea04968b1a",
@@ -7076,153 +7251,6 @@
     "カードケース",
     "メッシュケース"
    ],
-   "importance": 3
-  },
-  {
-   "id": "2af0645a1277af62",
-   "url": "https://note.com/001903/n/nd6f5f9388308",
-   "title_original": "減らして、増やすとうまくいく",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/304600232/rectangle_large_type_2_f78b7cb2c906f15f233701b7fde89ac3.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-18T01:10:15+00:00",
-   "title_ja": "減らして、増やす好循環のバランス",
-   "summary_ja": "物を減らしてからの過ごし方について綴った記事。具体的な内容は不明だが、ミニマルな暮らしにおける物の増やし方や循環のさせ方について考えさせられる内容。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "373848640d42651c",
-   "url": "https://note.com/calm_lynx7214/n/n99399f8efced",
-   "title_original": "片付けの本を読んで感化されたのですぐ実行。1日10捨て。",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/304352361/rectangle_large_type_2_f262e6be052ff215832ff7bf0e41b712.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-18T01:03:48+00:00",
-   "title_ja": "片付け本に感化されて1日10捨てを実行した話",
-   "summary_ja": "片付けに関する本を読んでモチベーションを高め、毎日10個の物を手放す習慣を続けている人の記録。読書が行動のきっかけになった様子が綴られている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "fb70671d5efa9f77",
-   "url": "https://note.com/mm_7419_m/n/nb3158fd0f5ce",
-   "title_original": "また買っちゃった…を減らしたい。ChatGPTに「本当に必要？」と聞く習慣",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/304598586/rectangle_large_type_2_5649dce6051d63540cc8666af71f9904.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-18T01:02:46+00:00",
-   "title_ja": "衝動買いを防ぐためにChatGPTへ相談する習慣",
-   "summary_ja": "セールや割引の通知を見てつい買い物をしそうになった際、ChatGPTに「本当に必要か」を問いかけることで無駄な買い物を減らそうとする工夫。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "faed4ebec2e7d3e4",
-   "url": "https://note.com/mm_7419_m/n/n29006e0a4429",
-   "title_original": "「これ、捨てる？残す？」迷ったら、ChatGPTに相談。断捨離を手伝ってもらった結果",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/304597463/rectangle_large_type_2_684ef4d44b69b55c1d9680981e97a3d5.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-18T01:00:20+00:00",
-   "title_ja": "捨て活の迷いをChatGPTに相談して判断した話",
-   "summary_ja": "物を手放すか残すかで迷った際に、AIであるChatGPTに相談して判断のサポートをしてもらいながら断捨離を進めた体験談。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "7e71d48bc39249ee",
-   "url": "https://note.com/tender_viper3997/n/n035273c2dca4",
-   "title_original": "盆休みは新NISAを放置して、断捨離して",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/304597196/rectangle_large_type_2_be532caa4deb1f5dc6ad6db6754de030.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-18T00:56:20+00:00",
-   "title_ja": "盆休みに挑んだ断捨離とメルカリ出品の試行錯誤",
-   "summary_ja": "盆休みに断捨離とメルカリ出品に挑戦したものの、体調不良もあり目標の10%未満で終了。雑貨を出品したものの売上は少なく、試行錯誤が続いている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "メルカリ",
-    "封筒"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2dbacf4cc281312c",
-   "url": "https://minimalist-fudeko.com/low-stimulation-living",
-   "title_original": "家にいても疲れる人へ。音・光・匂いを減らす低刺激生活のすすめ",
-   "source": "筆子ジャーナル",
-   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/07/relaxing.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-18T00:10:11+00:00",
-   "title_ja": "家で疲れが取れない人向けの音・光・匂いを減らす生活",
-   "summary_ja": "家の中にいても疲れが抜けない原因を、物だけでなく音や光、匂いといった過剰な刺激の多さに求めます。生活環境の刺激を減らすことで、自宅でしっかりと心身を休めてほっとできる空間を作るためのヒントを伝えています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "128ea650b6b55ade",
-   "url": "https://www.wfxb.com/2026/08/17/what-is-the-doom-diamond-decluttering-method/organize",
-   "title_original": "organize",
-   "source": "wfxb.com",
-   "image": "https://www.wfxb.com/2026/08/17/what-is-the-doom-diamond-decluttering-method/organize",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-18T00:01:59+00:00",
-   "title_ja": "自宅の片づけや整理整頓に関する話題",
-   "summary_ja": "自宅のスペースをすっきりと整理整頓するための方法について取り上げています。日々の暮らしの中で散らかりがちな場所を見直し、快適な空間を作るためのヒントが語られています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "76038b5b05b2a889",
-   "url": "https://bemorewithless.com/cluttered-home/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
-   "title_original": "5 Relatable Things Keeping Your Home Cluttered",
-   "source": "Be More with Less",
-   "image": "https://bemorewithless.com/wp-content/uploads/2026/08/cluttered-image.png",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-08-17T23:47:43+00:00",
-   "title_ja": "家の中に物が溢れてしまう5つの理由と対策",
-   "summary_ja": "部屋が片づかない原因となっている身近な要因を取り上げ、すっきりとした空間をより簡単につくるための考え方を紹介しています。散らかりを生む原因を知ることで手放しやすくなります。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "dc8352bccdf5c981",
-   "url": "https://www.postandcourier.com/moultrie-news/opinion/declutter-the-brain/article_138a9f15-dc46-48f3-8d48-85a99d5d91ca.html",
-   "title_original": "Declutter the brain",
-   "source": "Post and Courier",
-   "image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/8/22/822c6a56-c38a-461e-9f9a-ab38b02062a3/6a821c16e34ce.image.jpg?crop=299%2C300%2C0%2C50&resize=200%2C201&order=crop%2Cresize",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-17T22:00:00+00:00",
-   "title_ja": "頭の中の思考を整理してすっきり暮らす方法",
-   "summary_ja": "物理的な空間だけでなく、思考や情報といった脳内を整理することの重要性について触れています。日々の暮らしの中で溜まった余計な情報を手放し、心を軽くするための考え方です。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
    "importance": 3
   }
  ]
