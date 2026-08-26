@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-26T21:58:56.439819+09:00",
+ "updated_at": "2026-08-27T04:52:28.973683+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,7 +29,7 @@
  "things": [
   {
    "name": "服",
-   "count": 10
+   "count": 11
   },
   {
    "name": "本",
@@ -48,15 +48,15 @@
    "count": 4
   },
   {
-   "name": "調味料",
-   "count": 4
-  },
-  {
    "name": "充電器",
    "count": 3
   },
   {
    "name": "本棚",
+   "count": 3
+  },
+  {
+   "name": "調味料",
    "count": 3
   },
   {
@@ -124,10 +124,6 @@
    "count": 2
   },
   {
-   "name": "メッシュケース",
-   "count": 2
-  },
-  {
    "name": "メモ帳",
    "count": 2
   },
@@ -184,7 +180,11 @@
    "count": 2
   },
   {
-   "name": "食器",
+   "name": "電源タップ",
+   "count": 2
+  },
+  {
+   "name": "靴",
    "count": 2
   }
  ],
@@ -208,7 +208,6 @@
   "Ideal Home",
   "Infoseek",
   "Jenny Mustard",
-  "LIMO | くらしとお金の経済メディア",
   "Livingetc",
   "MedPage Today",
   "MonoMax",
@@ -231,7 +230,6 @@
   "TheCoolist",
   "Treeline Review",
   "Woman & Home",
-  "Yahoo Creators",
   "Yahoo!ニュース",
   "YouTube",
   "Zen Habits（X）",
@@ -268,6 +266,97 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "a2913e0a17a6d8a9",
+   "url": "https://note.com/white_world2026/n/nab4cfbc2ae7b",
+   "title_original": "推しは断捨離",
+   "source": "note #断捨離",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/6d572b9cce436c8781981669f7288ee2655bae18.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-26T19:24:38+00:00",
+   "title_ja": "古くなった靴や鞄を手放した話",
+   "summary_ja": "かかとがすり減った靴や、表面がはがれてきた鞄など、傷みや劣化が目立つようになったアイテムを手放した記録。日々の暮らしの中で古くなった物を整理する基準が語られています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "靴",
+    "鞄"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "8c0a6ba3bc79dac2",
+   "url": "https://note.com/ktomo_dev/n/n758c90fe038e",
+   "title_original": "服を15着まで減らした毒親育ちの僕が、ミニマリストになったきっかけ。",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/307358025/rectangle_large_type_2_3c72437e33e560855310aa6208f28eaa.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-26T18:43:08+00:00",
+   "title_ja": "服を800着から15着まで減らした人の話",
+   "summary_ja": "もともと800着あった服を15着まで減らし、ミニマリストになったきっかけを振り返る記事。毒親育ちという背景を持つ著者が、大量の衣類を手放して暮らしを大きく変えた経緯が語られています。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "4e1d2b24984815e9",
+   "url": "https://www.roomie.jp/2026/08/1869472",
+   "title_original": "「開く・畳む」が超ラク！ドラレコも避ける車用サンシェード",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/1-21.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-26T13:45:27+00:00",
+   "title_ja": "ワンタッチで開閉できる車用の傘型サンシェード",
+   "summary_ja": "夏の車内の熱気や熱いハンドル問題を簡単に解決する、セイワの「傘型サンシェード」を紹介しています。ワンタッチで素早く開き、フロントガラスに置くだけで設置できます。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "傘型サンシェード"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "6c2d9054c13ed420",
+   "url": "https://www.lifehacker.jp/article/2608-amazon-sanwa-dengentap",
+   "title_original": "電源タップに感じていたストレスを解消。差込口を効率よく使える",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2025/09/22/6b910cb9-5b3b-4e1c-a51e-bb6404848a96/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-26T13:45:00+00:00",
+   "title_ja": "プラグの向きに困らないスリムな電源タップ",
+   "summary_ja": "ACアダプターで差込口が埋まるストレスを解消する、サンワダイレクトの「電源タップ 700-TAP082」を紹介しています。縦横どちらでも差せて、8個の差込口とUSBポートを備えています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "電源タップ"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "ba86eb03b5dde36b",
+   "url": "https://www.roomie.jp/2026/08/1869732",
+   "title_original": "高い保温力で節電。余熱で煮込むサーモスのシャトルシェフ",
+   "source": "ROOMIE",
+   "image": "https://www.roomie.jp/wp-content/uploads/2025/12/6-2.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-26T13:15:23+00:00",
+   "title_ja": "余熱で煮込めるサーモスのシャトルシェフ",
+   "summary_ja": "調理鍋と魔法瓶の機能を組み合わせることで、高い保温力を活かして余熱で煮込み料理ができるサーモスの「シャトルシェフ」を紹介しています。手間をかけずに煮込み料理が作れます。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "シャトルシェフ"
+   ],
+   "importance": 2
+  },
   {
    "id": "8c0ab28e51f77ffd",
    "url": "https://note.com/rain_color9/n/n51805b09307a",
@@ -7161,95 +7250,6 @@
    "axis": "own",
    "things": [
     "浄水器"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "d21e0f9f9745daad",
-   "url": "https://note.com/cocoq_life/n/n095b21d9423f",
-   "title_original": "「36歳会社員の、ひとりと2匹の暮らし。」",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/304658374/rectangle_large_type_2_f0a1a0828fe3b95f357a9af511780edd.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-18T05:35:45+00:00",
-   "title_ja": "36歳会社員が愛犬2匹と送るシンプルで静かな暮らしの記録",
-   "summary_ja": "36歳の会社員が、2匹の愛犬とともに送る穏やかな日常を綴るブログの紹介。特別なイベントはなくとも、ときどき部屋を整えながら、無理なく気負わずに静かな毎日を大切にするシンプルな暮らしの姿勢を描いている。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "9322eac2edf9676e",
-   "url": "https://limo.media/articles/photo-all/116204",
-   "title_original": "「毎日使うモノだけ」40代アパレル会社員の“通勤バッグの中身”が話題",
-   "source": "LIMO | くらしとお金の経済メディア",
-   "image": "https://limo.ismcdn.jp/mwimgs/c/6/1200w/img_c6a9781bb14eb382274a3bf35d0a912e47202.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-18T05:07:25+00:00",
-   "title_ja": "40代アパレル会社員の通勤バッグの中身",
-   "summary_ja": "毎日使うモノだけを厳選している、40代アパレル会社員の通勤バッグの中身が話題になっていることを伝える記事。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "通勤バッグ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "d87c56a387957198",
-   "url": "https://www.roomie.jp/2026/08/1862938",
-   "title_original": "100均収納では整わなかった冷蔵庫ドアポケット。ニトリの新作でスッキリしそう！",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/260813_nitori_doorpocketcase_01.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-18T04:00:24+00:00",
-   "title_ja": "冷蔵庫のドアポケットをニトリの収納アイテムで整理した話",
-   "summary_ja": "ごちゃつきがちな冷蔵庫のドアポケットを整理するため、ニトリの収納アイテムを取り入れた工夫を紹介します。100均の仕切りではうまく整わなかった調味料やボトルの収納方法を見直し、すっきりとした状態を目指す試みです。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "冷蔵庫",
-    "調味料",
-    "100均の仕切り"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "b3ee02d4ede408e5",
-   "url": "https://creators.yahoo.com/lifestyle/story/14-signs-its-time-to-start-estate-decluttering-023100731.html",
-   "title_original": "14 Signs it’s time to start estate decluttering",
-   "source": "Yahoo Creators",
-   "image": "https://s.yimg.com/lo/mysterio/api/a059693f482ac0bf0d2a447b1be72f5c6c8431b57498d84e25ee1a6a0803ec48/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F74089b40-dc31-4e42-a1c6-91600a6f08b6",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-18T02:35:37+00:00",
-   "title_ja": "生前整理や家財の片づけを始めるべき14のサイン",
-   "summary_ja": "海外ニュースから、家財整理や生前整理に取りかかるタイミングを示す14のサインを紹介する記事です。片づけやモノの手放しが必要になった状態を見極めるための目安が解説されています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "14e81c9a9774cfa0",
-   "url": "https://note.com/yusuke_muji/n/nf9f47b9bd125",
-   "title_original": "財布はいらない、小銭入れは欲しい",
-   "source": "note #持たない暮らし",
-   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/9292131809185026ff64063429f68a6296a579f6.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-18T01:23:28+00:00",
-   "title_ja": "財布を持たずに無印良品のメッシュケースを使う工夫",
-   "summary_ja": "財布を持たずカードケースで代用し、小銭入れとして無印良品のメッシュの丸いケースを導入した人の話。硬貨が擦れる音がしない点や、素材の質感が気に入っている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "カードケース",
-    "メッシュケース"
    ],
    "importance": 3
   }
