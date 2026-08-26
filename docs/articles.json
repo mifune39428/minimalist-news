@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-26T03:44:37.272373+09:00",
+ "updated_at": "2026-08-26T10:28:25.865934+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,11 +29,11 @@
  "things": [
   {
    "name": "服",
-   "count": 11
+   "count": 10
   },
   {
    "name": "本",
-   "count": 9
+   "count": 8
   },
   {
    "name": "iPhone",
@@ -57,10 +57,6 @@
   },
   {
    "name": "本棚",
-   "count": 3
-  },
-  {
-   "name": "段ボール",
    "count": 3
   },
   {
@@ -164,6 +160,10 @@
    "count": 2
   },
   {
+   "name": "段ボール",
+   "count": 2
+  },
+  {
    "name": "水",
    "count": 2
   },
@@ -201,6 +201,7 @@
   "Country Living Magazine",
   "Daily Mirror",
   "En Pareja",
+  "HOLR Magazine",
   "House Beautiful",
   "Ideal Home",
   "Infoseek",
@@ -218,6 +219,7 @@
   "Realtor.com",
   "Sarah Therese",
   "Southern Living",
+  "TOKAIネットワーククラブ（TNC）",
   "The Minimal Mom",
   "The Minimalists",
   "The Simplicity Habit",
@@ -265,6 +267,78 @@
  "count": 400,
  "items": [
   {
+   "id": "72d5dbab082b3468",
+   "url": "https://note.com/nagi_mikan/n/nb26b2bf22566",
+   "title_original": "スーパーの袋ひとつ分の荷物で一人旅に出た日",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/307106158/rectangle_large_type_2_805237cbc5e4ba6743a96aa1759c31f0.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-26T00:45:56+00:00",
+   "title_ja": "スーパーの袋ひとつで温泉宿へ一泊した一人旅の荷物",
+   "summary_ja": "荷物をできるだけ削ぎ落としたい筆者が、スーパーの袋ひとつに収まる程度の荷物だけで一泊の温泉宿に出かけた際のエピソードをつづっています。極端な引き算の欲求から生まれた、究極に身軽な旅のスタイルです。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "eb2b6c16cb587c68",
+   "url": "https://www.roomie.jp/2026/08/1865250",
+   "title_original": "カスタムも楽しい！「丸善ジュンク堂のブックポーチ」で隙間時間を読書に活用できるようになった",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/original-3.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-25T23:00:54+00:00",
+   "title_ja": "丸善ジュンク堂のブックポーチで隙間時間を読書に活用する",
+   "summary_ja": "お気に入りの本を汚れや折れから守りつつ持ち歩くために、丸善ジュンク堂書店のオリジナルブックケースを取り入れた体験談です。文庫本や新書を気軽に外へ持ち出し、隙間時間の読書を楽しめるようになりました。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ブックポーチ",
+    "文庫本",
+    "新書"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "068bb0feafbcae83",
+   "url": "https://www.roomie.jp/2026/08/1867709",
+   "title_original": "洗濯乾燥が約1時間も短縮！手が届かない奥のホコリまでごっそり取れて気持ちいいんだ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/original-3-2.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-25T23:00:00+00:00",
+   "title_ja": "乾燥時間が長くなった洗濯機、原因と対策",
+   "summary_ja": "梅雨時にフル稼働させた洗濯乾燥機の乾燥時間が延び、タオルに湿り気が残るようになった。原因として乾燥経路にたまったホコリが考えられ、奥のホコリをごっそり取り除くことで時間短縮につながった。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "洗濯乾燥機"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5367faaf6f242864",
+   "url": "https://www.roomie.jp/2026/08/1869331",
+   "title_original": "電動マシンも使ったけど、自宅ではこれが一番でした。コーヒーショップ店主が愛用する「片手サイズ」のエスプレッソメーカー",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/2608_shrkm_picopresso22.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-25T22:00:23+00:00",
+   "title_ja": "コーヒー店主が愛用する片手サイズのエスプレッソメーカー",
+   "summary_ja": "コーヒーショップ店主が自宅用として愛用している、片手サイズのミニマルなエスプレッソメーカー。電動マシンも試したうえで、機能とデザインが結びついたこの器具にたどり着いた。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "エスプレッソメーカー"
+   ],
+   "importance": 4
+  },
+  {
    "id": "d628febe21f69a49",
    "url": "https://note.com/yorozuyatetsu/n/n62ad4a1391dd",
    "title_original": "機材を減らしてから、音が決まるのが早くなった",
@@ -281,6 +355,22 @@
     "エフェクター"
    ],
    "importance": 4
+  },
+  {
+   "id": "ebbd20f77a202236",
+   "url": "https://holrmagazine.com/7-clutter-hotspots-to-tackle-before-fall-for-a-calmer-home",
+   "title_original": "7 Clutter Hotspots to Declutter Before Fall",
+   "source": "HOLR Magazine",
+   "image": "https://holrmagazine.com/wp-content/uploads/2026/08/screenshot-152kb-7-e1787668897405.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-25T15:03:28+00:00",
+   "title_ja": "秋を迎える前に片付けておきたい7つの場所",
+   "summary_ja": "秋が来る前に家の中で散らかりやすいスポットを片付け、空間をすっきりと整える方法を紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
   },
   {
    "id": "b6b0daab73b679ba",
@@ -603,6 +693,22 @@
    "things": [
     "フードカバー"
    ],
+   "importance": 3
+  },
+  {
+   "id": "c9eb598b9570f331",
+   "url": "https://news.tnc.ne.jp/entame/928355_1.html",
+   "title_original": "Matt、断捨離した自宅をルームツアーで公開 父・桑田真澄が立つ“バーカウンター”も「お金…",
+   "source": "TOKAIネットワーククラブ（TNC）",
+   "image": "https://news.tnc.ne.jp/theme/DefaultTNC/common/img/news_300_300.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-25T03:50:00+00:00",
+   "title_ja": "Mattが断捨離した自宅をルームツアーで公開",
+   "summary_ja": "断捨離を行った自宅の様子をルームツアーで公開した話題。父・桑田真澄のバーカウンターがある部屋など、こだわりの空間や持ち物が紹介されている。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [],
    "importance": 3
   },
   {
@@ -7129,110 +7235,6 @@
     "テーブル下収納ラック"
    ],
    "importance": 3
-  },
-  {
-   "id": "98bf6dd7459e99f5",
-   "url": "https://www.lifehacker.jp/article/machi-ya-onecliphanger-additional-938814",
-   "title_original": "ハンガーは横長じゃなくていい。縦14cmでクローゼットの容量を増やす裏ワザ",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/08/15/7c6e0a01-df9c-43db-b6c7-bc2bf69f729d/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T12:30:00+00:00",
-   "title_ja": "縦14cmのクリップハンガーで収納を増やす工夫",
-   "summary_ja": "ワンクリップアルミハンガーを使い、スラックスやスカートを挟んで収納している。衣服に跡が付きにくい構造で、クローゼットの容量を増やすことができる。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "ワンクリップアルミハンガー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "33fee0eaec0ec39f",
-   "url": "https://note.com/nice_chives9917/n/n66422e886a8f",
-   "title_original": "ミニマリストになるための５つのルール【２０２６年ver】",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/304464146/rectangle_large_type_2_786ab5dee56ead06b1d7c95f17ea56ab.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T12:19:17+00:00",
-   "title_ja": "2026年版のミニマリストになるためのルール",
-   "summary_ja": "5年前に考えた50のルールを振り返り、現在の自分に向けた新しいミニマリストのルールについて考えている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "bc10891db4ed5d3e",
-   "url": "https://note.com/merry_colt6726/n/n82deb858d78a",
-   "title_original": "片付けが進まないので、とにかく段ボールに放り込むことにした",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/304368294/rectangle_large_type_2_66d046120b1d137dec5bc4bd74b4af32.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T12:12:57+00:00",
-   "title_ja": "要らなくなった物をまず段ボールに放り込む片付け法",
-   "summary_ja": "片付けが進まない原因は分別を同時に調べることだと気づき、不要なものを一旦段ボールへ放り込んでから分別を考える方法を試している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "段ボール"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "6a12dabdce3924ac",
-   "url": "https://note.com/agile_lotus1970/n/nb440f08b64d1",
-   "title_original": "2児ママの朝は、とにかく「頑張らない」。朝のバタバタを減らすためにやめたこと・始めたこと",
-   "source": "note #持たない暮らし",
-   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/ac7097e02dce813220c94a7f9ec4a3c05c94700c.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T12:10:13+00:00",
-   "title_ja": "2児を育てる母親が朝のバタバタを減らすためにやめたこと",
-   "summary_ja": "5歳と2歳の子どもを育てる家庭で、朝の家事や身支度など「ちゃんとやらなければ」と思い込んでいたことを見直し、やることを減らしたことでラクになった工夫を紹介している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "48b7597f98435edc",
-   "url": "https://www.theminimalists.com/p552",
-   "title_original": "Podcast Ep. 552 | Stories We Tell Ourselves",
-   "source": "The Minimalists",
-   "image": "https://www.theminimalists.com/wp-content/uploads/2024/03/The-Minimalists-Podcast-on-Apple-Podcasts.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-08-17T12:00:03+00:00",
-   "title_ja": "本棚の整理と自分語りの関係について語るポッドキャスト",
-   "summary_ja": "本棚が散らかっていると感じるのは、そこにある本がもはや読者としての役割を果たさなくなった時であるという考え方について、ポッドキャストのエピソードで言及している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "本"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "d6966e300b8f3011",
-   "url": "https://note.com/meg0815/n/nd2fe1d8e5215",
-   "title_original": "心と体が楽になる暮らしを育てる8月🍉｜夏の服選びは、涼しさから考える。",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/img/1786909419-LopmV6RtsiHP9g1ETAFheurG.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-17T11:59:41+00:00",
-   "title_ja": "涼しい夏の服選びで心と体を楽にする方法",
-   "summary_ja": "夏の服選びを通して、心と体が楽になる暮らしの整え方を紹介しています。暑い季節を快適に過ごすための工夫や、持ち物を厳選する考え方が語られています。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "服"
-   ],
-   "importance": 2
   }
  ]
 }
