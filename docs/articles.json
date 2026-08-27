@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-27T04:52:28.973683+09:00",
+ "updated_at": "2026-08-27T17:14:26.702080+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -33,7 +33,7 @@
   },
   {
    "name": "本",
-   "count": 9
+   "count": 8
   },
   {
    "name": "スマホ",
@@ -81,14 +81,6 @@
   },
   {
    "name": "ショルダーバッグ",
-   "count": 2
-  },
-  {
-   "name": "スニーカー",
-   "count": 2
-  },
-  {
-   "name": "スーツ",
    "count": 2
   },
   {
@@ -144,15 +136,11 @@
    "count": 2
   },
   {
-   "name": "手帳",
-   "count": 2
-  },
-  {
    "name": "日傘",
    "count": 2
   },
   {
-   "name": "書類",
+   "name": "木製腕時計",
    "count": 2
   },
   {
@@ -164,7 +152,7 @@
    "count": 2
   },
   {
-   "name": "炊飯器",
+   "name": "腕時計",
    "count": 2
   },
   {
@@ -185,6 +173,14 @@
   },
   {
    "name": "靴",
+   "count": 2
+  },
+  {
+   "name": "食器",
+   "count": 2
+  },
+  {
+   "name": "食器棚",
    "count": 2
   }
  ],
@@ -212,6 +208,7 @@
   "MedPage Today",
   "MonoMax",
   "Mshale",
+  "NEA Town Courier",
   "No Sidebar",
   "Pangolins with Packs",
   "RFD-TV",
@@ -229,22 +226,23 @@
   "The i Paper",
   "TheCoolist",
   "Treeline Review",
+  "WAFF",
   "Woman & Home",
   "Yahoo!ニュース",
   "YouTube",
+  "ZUU online",
   "Zen Habits（X）",
+  "au Webポータル",
   "exhibitionnews.uk",
   "fashionsnap.com",
   "lee.hpplus.jp",
   "marthastewart.com",
   "mi-mollet（ミモレ）",
-  "newsable.asianetnews.com",
   "note #ミニマリスト",
   "note #少ない服で暮らす",
   "note #持たない暮らし",
   "note #断捨離",
   "parade.com",
-  "trilltrill.jp",
   "with class",
   "ねとらぼ",
   "ぴーこ｜ゆるっとミニマルな日常",
@@ -256,7 +254,6 @@
   "ヨムーノ",
   "ライフハッカー・ジャパン",
   "ライブドアニュース",
-  "レイの小さな暮らし",
   "レスポンス（Response.jp）",
   "佐賀新聞",
   "千葉テレビ放送",
@@ -266,6 +263,204 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "bc2f85210e608866",
+   "url": "https://note.com/jazzy_moose282/n/ne234bac454ee",
+   "title_original": "​預金残高3000円の無職だった私が、自分のために金を使わないと決めた日",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/307520806/rectangle_large_type_2_8039ccbd3efbb55d75c8f9266eb7d75d.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-27T08:07:22+00:00",
+   "title_ja": "消費を煽るノイズから離れ自分のためにお金を使わないと決めた話",
+   "summary_ja": "世の中に溢れる消費を促すメッセージや不足感を与えるノイズに惑わされず、お金を使わない選択をした体験談。足し算ばかりの暮らしから抜け出し、自分に必要なものを見極めるための考え方が語られている。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "4a13777e79da3a45",
+   "url": "https://note.com/235_fmk/n/nd451b186e68c",
+   "title_original": "【我が家の暮らし】ワンオペ3人暮らしの私が、思い切って「手放したもの」5選",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/307514448/rectangle_large_type_2_62dcf00ca8cb41e4cb0d832bd4c72c7a.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-27T07:42:47+00:00",
+   "title_ja": "ワンオペ3人暮らしを始める際に思い切って手放した5つのもの",
+   "summary_ja": "子ども2人との新しい生活を始めるにあたり、意識的に手放した5つのものについて綴った記事。完璧な親になろうとする背伸びをやめ、自分と家族にとって無理のない暮らしへ整えた過程を紹介している。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "f794494eb2c2eb88",
+   "url": "https://article.auone.jp/article/be36cc6b-b2ca-486f-8528-fdedeea3c876",
+   "title_original": "「断捨離」のベースは仏教？捨てられなくて物がたまる人へ、仏門に入った精神科医が教える＜物との決別＞の考え方",
+   "source": "au Webポータル",
+   "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/08/27/https___fujinkoron_jp_articles_-_23569.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-27T05:29:35+00:00",
+   "title_ja": "物を手放せない人へ贈る精神科医の「断捨離」と思考法",
+   "summary_ja": "物がたまっていってしまう人に向けて、仏教の教えをベースにした断捨離の考え方や、物とスマートに決別するための思考法を仏門に入った精神科医が解説している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "60f57e0c2a05201d",
+   "url": "https://www.roomie.jp/2026/08/1871315",
+   "title_original": "実用性もデザインも。軽さとやさしさを兼ね備えた天然木×日本製ムーブメントの木製腕時計",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/woodsound3.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-27T02:45:33+00:00",
+   "title_ja": "天然木と日本製ムーブメントで作られた木製腕時計",
+   "summary_ja": "金属や樹脂ではなく天然木を使用した、woodsoundの木製腕時計「モスコヴィアン」を紹介する記事。時間に追われる毎日に寄り添う、軽さとやさしさを兼ね備えた実用的なデザインが特徴となっている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "木製腕時計",
+    "腕時計"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "8c17c818552535d6",
+   "url": "https://thesimplicityhabit.com/how-to-shift-your-perspective-see-life",
+   "title_original": "How to Shift Your Perspective: 5 Ways to See Life Differently",
+   "source": "The Simplicity Habit",
+   "image": "https://thesimplicityhabit.com/wp-content/uploads/2024/11/horizontal-blog-post-2024-11-09T091515.763-1024x683.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-08-27T02:35:13+00:00",
+   "title_ja": "毎日の忙しさから抜け出し人生の視点を変える5つの方法",
+   "summary_ja": "日々の忙しさや目標追求のルーティンに追われる生活の中で、人生の捉え方を新しく変えるための5つのアプローチを提案する記事。自分の視点をシフトさせることで、日々の暮らしに対する意識を見直す考え方を解説している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "afafcbb325ca0d86",
+   "url": "https://mshale.com/8190e1be/f8536221Imu2tEMWwos",
+   "title_original": "［節約ミニマリスト］貯金できない人必見 3年で500万貯めた元浪費家の神習慣15選 Lituania (jzZItfL1X1)",
+   "source": "Mshale",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-27T00:19:25+00:00",
+   "title_ja": "節約ミニマリストが3年で500万円貯めた15の習慣",
+   "summary_ja": "貯金が苦手な人に向けて、元浪費家である節約ミニマリストが3年間で500万円を貯めるために実践した15の習慣を紹介。無駄を減らして効率的にお金を残すための具体的な行動や考え方を伝えている。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "845822651e572a25",
+   "url": "https://www.youtube.com/shorts/3yr2u0ckCQ4",
+   "title_original": "How do you teach generosity? h/t: Scott Donnell￼",
+   "source": "The Minimalists",
+   "image": "https://i4.ytimg.com/vi/3yr2u0ckCQ4/hqdefault.jpg",
+   "media": "youtube",
+   "region": "海外",
+   "published": "2026-08-27T00:10:59+00:00",
+   "title_ja": "他者への「寛容さ」や与える心を教えるための考え方",
+   "summary_ja": "ミニマリストの視点から、子供や周囲の人に対して人に分け与える寛容さをどのように教えていくかというテーマを解説。他者へ与える姿勢や豊かなマインドを育むための考え方について語られている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "b7c6275ed3781df5",
+   "url": "https://minimalist-fudeko.com/needs-or-wants-check",
+   "title_original": "ニーズかウォンツか迷うなら、半年後に答え合わせをする",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/08/sale.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-27T00:10:26+00:00",
+   "title_ja": "必要か欲しいだけか迷う買い物は半年後に検証する方法",
+   "summary_ja": "買い物をする際に「必要なもの（ニーズ）」か「ただ欲しいだけのもの（ウォンツ）」かで迷った場合のアドバイス。すぐに決めきれないときは購入を見送り、半年後に改めて自分の気持ちを答え合わせする方法を提案する。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "5345072354417770",
+   "url": "https://news.yahoo.co.jp/articles/1be78506b4de9be9cf9d01c9b3c2b1cbebe1c5ba/images/003",
+   "title_original": "やましたひでこさんの「実家の断捨離」のコツ。食器棚はお気に入りの器を「5割以下」でしまう (ESSE-online)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3h9uiCojScY7SLYgxmEygYzwMWKZvAPmikcemQqpGMWZtKSQv-z4zVcZ12GV4Uc3vqTM-teH0v5dfsIGigflhF5p-6ElTqHsudq6J3YIfYJReoqRZC2kbeOmr1nD6Ynji",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-26T22:21:52+00:00",
+   "title_ja": "実家の断捨離で食器棚の器を5割以下に抑える片づけのコツ",
+   "summary_ja": "やましたひでこさんが教える実家の断捨離のコツ。食器棚に詰め込みすぎず、本当にお気に入りの器だけを厳選して全体の5割以下の量に抑えて収納することで、空間と心にゆとりを生み出す方法を提案している。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "食器棚",
+    "器"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "0489af25e0b8b50d",
+   "url": "https://www.neatowncourier.com/opinion/editors-cornerlets-face-it-no-one-wants-your-stuff-fcb5c14f",
+   "title_original": "Editor's Corner: Let’s Face It: No One Wants Your Stuff",
+   "source": "NEA Town Courier",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-26T21:02:08+00:00",
+   "title_ja": "自分の持ち物を誰も欲しがらない現実と手放し方の心得",
+   "summary_ja": "自分が大切にしてきた所有物であっても、家族や他人がそれを欲しがるとは限らないという現実を指摘。他人に譲る期待を捨てて、自分で責任を持って手放し整理を進める大切さを伝える。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "2af118abfa34f886",
+   "url": "https://zuuonline.com/archives/302943",
+   "title_original": "持つほど豊かになるとは限らない、減らすことで見える幸せ",
+   "source": "ZUU online",
+   "image": "https://prd-cdn-zuuonline.storage.googleapis.com/images/MQFnHNfZpianiPmSWmgCEUstLfalLxeD/fa4847e1-be19-42e2-8575-c7913cb853cd.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-26T21:00:00+00:00",
+   "title_ja": "物を持つほど豊かとは限らない。減らすことで見えてくる幸せの形",
+   "summary_ja": "たくさんの物を所有することが必ずしも幸福につながるわけではないとし、持ち物を減らすことで得られる心のゆとりや本当の豊かさ、シンプルな暮らしの整え方について考えを述べる記事。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "2ca82e071e6153a6",
+   "url": "https://www.waff.com/2026/08/26/life-simplified-talks-which-items-your-home-have-go",
+   "title_original": "Life Simplified talks which items in your home, have to go!",
+   "source": "WAFF",
+   "image": "https://gray-waff-prod.gtv-cdn.com/resizer/v2/ENXNCD6Y4FHEHIVKV5XWKVLQ2M.jpg?auth=ea8dd4a7cf98970fc3d3269c0c25b8a653ec961c55ea74ff6802a2f632c0db33&width=1200&height=600&smart=true",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-26T20:08:00+00:00",
+   "title_ja": "シンプルな暮らしのために家の中から今すぐ手放すべきアイテム",
+   "summary_ja": "暮らしを簡素化するためのアドバイスとして、家の中に無意識に溜まりがちな不要品や、生活スペースを広げるために優先して手放すべき持ち物の見極め方を紹介する記事。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "a2913e0a17a6d8a9",
    "url": "https://note.com/white_world2026/n/nab4cfbc2ae7b",
@@ -592,6 +787,22 @@
    "importance": 3
   },
   {
+   "id": "0debc68f49151110",
+   "url": "https://www.youtube.com/shorts/n-3KEeEMn7o",
+   "title_original": "【朝の習慣】家が散らからないシングルマザーのモーニングルーティン",
+   "source": "小さな暮らしノート",
+   "image": "https://i3.ytimg.com/vi/n-3KEeEMn7o/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-26T04:45:21+00:00",
+   "title_ja": "物を減らして片付けを楽にするシングルマザーの朝ルーティン",
+   "summary_ja": "物を少なく保持することで朝の掃除や片付けをスムーズにし、無理のない余白を作って1日を始めるシングルマザーのモーニングルーティン。平日の朝を頑張りすぎずに整える考え方と習慣を紹介している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "364b16ba8676ef06",
    "url": "https://note.com/alive_deer881/n/n3f32c0d2de9a",
    "title_original": "『ものは勝手に動かない』から、暮らしを整える",
@@ -673,6 +884,24 @@
    "axis": "reduce",
    "things": [],
    "importance": 2
+  },
+  {
+   "id": "511c6998cc8c844c",
+   "url": "https://www.aol.ca/articles/gen-z-bringing-back-dumb-124500000.html",
+   "title_original": "Is Gen Z Bringing Back Dumb Phones?",
+   "source": "AOL.ca",
+   "image": "https://hermes.media.static.aol.com/media/2026/08/07/3047117d-4084-331b-8292-dd856dc9ec05/89f160c8-7f37-497b-8d25-a017a440ddd1.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-26T01:38:23+00:00",
+   "title_ja": "Z世代の間でガラケー人気が再燃しているかを探る記事",
+   "summary_ja": "Z世代の間で、スマートフォンではなく機能を絞ったガラケーを再び使う動きが広がっているかを探るニュース記事。画面から離れてシンプルな暮らしを目指す人々の間で、ガラケーがどのような役割を果たしているのかを考察している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ガラケー"
+   ],
+   "importance": 3
   },
   {
    "id": "72d5dbab082b3468",
@@ -1025,6 +1254,22 @@
    "things": [
     "ポータブル冷蔵庫"
    ],
+   "importance": 3
+  },
+  {
+   "id": "f9151ae3f1b2ac66",
+   "url": "https://balancethroughsimplicity.com/14-tiny-decluttering-projects",
+   "title_original": "14 Tiny Decluttering Projects to Make Decluttering Feel Easier",
+   "source": "Balance Through Simplicity",
+   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2020/09/3-1-683x1024.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-08-25T10:15:00+00:00",
+   "title_ja": "無理なく片づけを進めるための14の小さな整理プロジェクト",
+   "summary_ja": "どこから片づけを始めればよいか分からず圧倒されがちな人に向けて、ストレスなく取り組める14の小さな整理プロジェクトを提案する記事。小さな単位で作業を進めることで、負担を感じずに生活スペースを整えて物を減らす方法を紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -6983,275 +7228,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 2
-  },
-  {
-   "id": "d324dc8db52056d6",
-   "url": "https://www.roomie.jp/2026/08/1859473",
-   "title_original": "インナーの吸汗や速乾、防臭機能っていつまで効果が続くの？インナーの専門家グンゼに「機能の寿命」について聞いてみた",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/IMG_8295.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-18T11:00:46+00:00",
-   "title_ja": "高機能インナーの寿命や手放すタイミングを専門家に聞いた話",
-   "summary_ja": "見た目では劣化が分かりにくい高機能インナーについて、専門家であるグンゼに機能の寿命を聞いた記事。吸汗や速乾、防臭などの目に見えない機能がいつまで続くのかをリサーチし、道具を最高の状態で使い切って手放すためのサイクルを紐解く。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "インナー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "b44bac1fe05adc0d",
-   "url": "https://www.youtube.com/watch?v=a1o0vdBZmIE",
-   "title_original": "【断捨離】意外と出てくる！収納を見直して、ついに炊飯器ともさよならした日/捨て活/一人暮らし",
-   "source": "レイの小さな暮らし",
-   "image": "https://i2.ytimg.com/vi/a1o0vdBZmIE/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-08-18T11:00:29+00:00",
-   "title_ja": "一人暮らしの女性が収納を見直して炊飯器を手放した話",
-   "summary_ja": "25歳で一人暮らしをしている投稿者が、家の中の収納を見直すことで不要なものを断捨離していく動画。意外と出てくる不要なものを整理し、最終的に炊飯器を手放す様子を紹介している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "炊飯器"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c38385a0b9c72c06",
-   "url": "https://www.youtube.com/shorts/1v3UtT6v64o",
-   "title_original": "使わないモノを留め置く理由 #断捨離 #やましたひでこ #片づけ",
-   "source": "やましたひでこ断捨離",
-   "image": "https://i2.ytimg.com/vi/1v3UtT6v64o/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-08-18T11:00:12+00:00",
-   "title_ja": "使わない物を家に残してしまう理由を解説する動画",
-   "summary_ja": "断捨離の提唱者であるやましたひでこ氏が、使わない物をなぜ部屋に留め置いてしまうのか、その心理や理由について解説する動画。片づけや断捨離を進めたい人に向けて、物を手放すための考え方を提示している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "ff6e9cb1ac6f33c4",
-   "url": "https://note.com/magic_broom8864/n/n20b8ac36bfd6",
-   "title_original": "【読書】「持たない暮らし」と文房具好きを両立したい私",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/304147773/rectangle_large_type_2_27cca2a6c2e3e40d46cae1e6d4aee316.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-18T10:59:27+00:00",
-   "title_ja": "持たない暮らしと文房具へのこだわりを両立させたい人の話",
-   "summary_ja": "手帳シーズンを前に、持たない暮らしへの憧れと文房具への愛着の間で揺れ動く筆者の読書記録。自身の原点に立ち返るために、本棚から持たない暮らしに関する本を取り出して読んでいる様子を綴っている。",
-   "category": "心・習慣",
-   "axis": "own",
-   "things": [
-    "手帳",
-    "本"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "91f094273d94f651",
-   "url": "https://newsable.asianetnews.com/gallery/entertainment/inside-photos-of-awarapan-2-actress-disha-patani-6-crore-mumbai-home-sea-views-minimalist-interiors-ggzonpq",
-   "title_original": "Inside PHOTOS of Awarapan 2 Actress Disha Patani's 6- Crore Mumbai Home: Sea Views, Minimalist Interiors",
-   "source": "newsable.asianetnews.com",
-   "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01m0a7b3x4ks2g5nyqkbkgqq2s,imgname-disha-patani--1--1787049643940.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-18T10:44:19+00:00",
-   "title_ja": "海が見えるミニマルなインテリアの自宅写真",
-   "summary_ja": "ミニマリストな内装でまとめられた俳優の自宅の様子や、海を望む開放的な室内のインテリアデザインを紹介している。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "84652bd58477cd2d",
-   "url": "https://www.roomie.jp/2026/08/1863504",
-   "title_original": "ソロキャンプ多めの私。BougeRVの「折りたたみソーラーパネル」を迎えて、大正解だったので語ります",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/0D5A1318-2.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-18T10:30:47+00:00",
-   "title_ja": "ソロキャンプで折りたたみソーラーパネルを導入した話",
-   "summary_ja": "災害時や充電用に、重さを考慮して100Wの折りたたみ式ソーラーパネルを選んで導入した体験談です。ポータブル電源の充電に活用しています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ソーラーパネル",
-    "ポータブル電源"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "6aaa3238a50c9300",
-   "url": "https://www.roomie.jp/2026/08/1862808",
-   "title_original": "はじめて使った「砥石」で包丁が異次元の切れ味に！「貝印の初心者向け砥石」と「ガイド」で簡単にできた",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/kaijirushitoisgi0818.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-18T09:00:59+00:00",
-   "title_ja": "包丁のシャープナーを卒業して砥石を使い始めた話",
-   "summary_ja": "包丁の寿命を考慮して簡易的なシャープナーを卒業し、初心者向けの砥石に挑戦した体験談です。道具を見直すことで包丁の切れ味が蘇りました。",
-   "category": "キッチン・食",
-   "axis": "reduce",
-   "things": [
-    "砥石",
-    "包丁",
-    "シャープナー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "70ae9dfab2b6c622",
-   "url": "https://monomax.jp/archives/356030",
-   "title_original": "【2990円でこの完成度は凄い】無印良品「撥水2WAYバッグ」がハイレベル！“収納力・サイズ・持ちやすさ”三拍子揃った傑作をマニア歴25年ライターが徹底レビュー",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2027/08/0DSC02694-1-scaled.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-18T09:00:54+00:00",
-   "title_ja": "無印良品の撥水2WAYバッグの使い心地",
-   "summary_ja": "収納力やサイズ感、持ちやすさに優れた無印良品の撥水バッグを、マニアがレビューしている記事です。日常使いしやすいアイテムとして紹介されています。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "撥水2WAYバッグ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "0a0cf5c4059df522",
-   "url": "https://trilltrill.jp/articles/4895149",
-   "title_original": "「非常におすすめ」1,000万円貯めた女性が明かす、実際に“やめて良かった家事”に「時短にもつながった」「手間を減らせる」",
-   "source": "trilltrill.jp",
-   "image": "https://media.trilltrill.jp/articles/4895149/cover-image.72ff7a67751338c6582b431cd0a40157?w=1200",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-18T08:35:00+00:00",
-   "title_ja": "1000万円貯めた女性が実践するやめて良かった家事",
-   "summary_ja": "1000万円を貯蓄した女性が、日々の家事の中でやめて良かったと感じる内容を紹介しています。家事を減らすことで手間や時間を省き、効率的な暮らしを送るための工夫が語られています。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "c17fb046330fa765",
-   "url": "https://note.com/yusuke_muji/n/n610f9764f5d6",
-   "title_original": "これを待っていた無印良品の新しいクロッグ",
-   "source": "note #持たない暮らし",
-   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/26678a1a5122f80a085d2732996bcaf6f1888a3c.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-18T07:34:40+00:00",
-   "title_ja": "無印良品の秋物クロッグを気に入って2足買った話",
-   "summary_ja": "無印良品で見つけた秋向けの起毛素材クロッグを紹介しています。かかとを動かせるベルト付きで、サンダルのように履ける手軽さと歩きやすさが気に入り、あまりの良さに2足買い揃えたという使い心地を語っています。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "クロッグ",
-    "スニーカー",
-    "サンダル"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "5887b25670d56fd9",
-   "url": "https://note.com/haiagaru3_life/n/nab91f36e951e",
-   "title_original": "衣食住を整えるって結構大変",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/304672753/rectangle_large_type_2_54fb32d6d644d72ad0a0c9307115eb2c.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-18T06:33:56+00:00",
-   "title_ja": "衣食住を整えることの大変さを痛感した人の手記",
-   "summary_ja": "衣食住を整えることの大変さを実感し、日々の暮らしや空間を整える作業についての素直な思いを書き留めたブログ記事。暮らしをシンプルにする過程での気づきを綴っている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 1
-  },
-  {
-   "id": "cdcf6bc697787791",
-   "url": "https://note.com/yosuke_ishizuka/n/nd1691a612eb7",
-   "title_original": "【3秒の決断】部屋を「最高の空間」に変え、豊かさを引き寄せる究極の断捨離術",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/304670853/rectangle_large_type_2_d615607360c4403ab475e24c4996be39.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-18T06:26:58+00:00",
-   "title_ja": "片付けが続かない理由と部屋を整える思考習慣についての解説",
-   "summary_ja": "片付けが続かないのは意志の強さではなく「空間の構造」と「思考の習慣」が整っていないからだと説明し、自分を責めずに部屋を心が休まる空間へと変えていくための断捨離の考え方を伝えている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "ce9975f6c6857bda",
-   "url": "https://note.com/legit_pika3411/n/nada7a2a9b1a9",
-   "title_original": "昨夜、我が家の寝室で事件は起きました(笑)",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/304669225/rectangle_large_type_2_9b9cc01ef032089008f51f47d756c72f.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-18T06:19:13+00:00",
-   "title_ja": "服の重みでハンガーラックが壊れ、20年前のコートを手放せた話",
-   "summary_ja": "服の重みでハンガーラックが壊れたことをきっかけに服の整理を開始。ずっと手放せずにいた思い出の詰まった20年前のコートと向き合い、感謝とともに処分できた体験談。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "ハンガーラック",
-    "コート",
-    "スーツ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "27e9f9266f0467f1",
-   "url": "https://note.com/kuma8895/n/nfd05fefe65ec",
-   "title_original": "【捨て】空いたスペース以上のスッキリ感",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/304663046/rectangle_large_type_2_f0ffe1b15e861cffab4a40341d138c23.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-18T05:57:31+00:00",
-   "title_ja": "病院の書類やねんきん定期便を捨ててスッキリした人の話",
-   "summary_ja": "以前通っていた病院の書類やねんきん定期便など、数枚の紙類を断捨離した記録。手放した紙の量はわずかで、空いたスペース自体は大きくないものの、書類を処分することで得られる精神的なスッキリ感の大きさを綴っている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "書類",
-    "ねんきん定期便"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "41ce1ccda36ac11f",
-   "url": "https://note.com/sone_ltd/n/n5d746c897d32",
-   "title_original": "浄水器はいらない？導入すべきか迷ったときの判断軸はここにある",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/304659393/rectangle_large_type_2_84c1ddaf2da68f17812f385e45813239.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-18T05:39:07+00:00",
-   "title_ja": "浄水器が必要か迷ったときの判断基準をまとめた話",
-   "summary_ja": "水道水がそのまま飲める日本において、浄水器が本当に必要なのかを迷う人に向けて、いらないとされる理由と導入の判断基準を整理している。生活に支障がない中で、自分にとっての要不要を客観的に判断するためのヒントを紹介する。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "浄水器"
-   ],
-   "importance": 3
   }
  ]
 }
