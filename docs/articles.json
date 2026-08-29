@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-29T06:54:24.338201+09:00",
+ "updated_at": "2026-08-29T15:16:32.136314+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -56,10 +56,6 @@
    "count": 3
   },
   {
-   "name": "充電器",
-   "count": 3
-  },
-  {
    "name": "本棚",
    "count": 3
   },
@@ -73,10 +69,6 @@
   },
   {
    "name": "PC",
-   "count": 2
-  },
-  {
-   "name": "USB-Cケーブル",
    "count": 2
   },
   {
@@ -129,6 +121,10 @@
   },
   {
    "name": "メモ帳",
+   "count": 2
+  },
+  {
+   "name": "充電器",
    "count": 2
   },
   {
@@ -218,6 +214,7 @@
   "TRILL",
   "TVer",
   "The Daily News | Texas' Oldest Newspaper",
+  "The Guardian",
   "The Minimal Mom",
   "The Minimalists",
   "The Simplicity Habit",
@@ -266,6 +263,89 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "c63eee6e6c687a7c",
+   "url": "https://note.com/shuikitagawa/n/nf7e113314192",
+   "title_original": "終わりを迎える前に、次を始める",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/308127399/rectangle_large_type_2_67397e2757f1dc71e8fcda8a65e6d7e9.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-29T05:57:33+00:00",
+   "title_ja": "家の中のモノを観察して断捨離を進める人の話",
+   "summary_ja": "家の中の様子をじっくりと観察しながら、次のステップを見据えて断捨離や片付けを続けていく日々の記録。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "1d62878ca21e8bc5",
+   "url": "https://note.com/sunameri2026/n/n87016d703e1d",
+   "title_original": "手放さなければならないのは、たぶん、モノじゃない ｜ 老後の暮らしを整える",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/308057239/rectangle_large_type_2_dbf590cd760eee0eac6877479e08c896.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-29T05:51:30+00:00",
+   "title_ja": "実家じまいを経験したのち自分の断捨離を続ける話",
+   "summary_ja": "実家じまいで苦労した経験をきっかけに、自身の暮らしを見直し、コツコツとモノを手放す断捨離を続けている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "5cb67b82eccee6b5",
+   "url": "https://www.roomie.jp/2026/08/1869896",
+   "title_original": "山崎実業のラックで、洗濯機横の「あのスキマ」を有効活用。洗面所がスッキリするな〜",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/B68EAECE-0951-499C-B709-010872005345_1_201_a.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-29T04:00:50+00:00",
+   "title_ja": "山崎実業のラックで洗濯機横の隙間を活用した話",
+   "summary_ja": "防水パンの上にある洗濯機横のデッドスペースを、山崎実業のラックを使って有効活用し洗面所をスッキリさせた事例。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "山崎実業のラック",
+    "洗濯機ラック"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5a9d60049e48faa1",
+   "url": "https://www.theguardian.com/australia-news/2026/aug/29/death-cleaning-downsizing-and-decluttering-how-do-we-learn-to-live-with-less-stuff",
+   "title_original": "Death cleaning, downsizing and decluttering. How do we learn to live with less stuff?",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/fb4730f0ad62454b91991650aa21472888e36b9c/670_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3c1959f6cd6b9ed43c533353448cb70b",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-29T00:51:12+00:00",
+   "title_ja": "死前整理やダウンサイジングで学ぶ手放し方",
+   "summary_ja": "死前整理や持ち物のサイズダウン、片付けを通じて、私たちがどのように少ない物で暮らす術を学んでいくのかを考える記事です。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "cc07a930e0844837",
+   "url": "https://minimalist-fudeko.com/how-to-review-fixed-costs",
+   "title_original": "固定費の見直しは難しくない～書き出して、やめて、様子を見るだけ",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/08/thinking-about-money.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-29T00:10:16+00:00",
+   "title_ja": "固定費を簡単に減らす見直しのステップ",
+   "summary_ja": "お金の管理が苦手な人でも実践できる固定費の削減方法を紹介。通信費やサブスクリプション、保険料など引き落としの仕組みを書き出して見直す手順を解説しています。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
   {
    "id": "befb77fe879b9d8e",
    "url": "https://note.com/hirabayashiart/n/n068c9077c8c9",
@@ -684,7 +764,7 @@
    "url": "https://www.ldsdaily.com/daily-dose/make-room-for-god-by-decluttering-your-life-30-august-2026",
    "title_original": "Make Room for God by Decluttering Your Life | 30 August 2026",
    "source": "LDS Daily",
-   "image": "",
+   "image": "https://www.ldsdaily.com/wp-content/uploads/2026/08/Make-Room-for-God-by-Decluttering-Your-Life-30-August-2026.png",
    "media": "news",
    "region": "海外",
    "published": "2026-08-28T07:37:43+00:00",
@@ -780,12 +860,28 @@
    "url": "https://www.galvnews.com/faith/free/can-clutter-be-a-spiritual-impediment/article_f6250848-460e-41d4-b356-57871a1692d1.html",
    "title_original": "Can clutter be a spiritual impediment?",
    "source": "The Daily News | Texas' Oldest Newspaper",
-   "image": "",
+   "image": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/assets/v3/editorial/3/44/344cc574-6ce6-4a78-93e8-0c7a27b62e4c/6a8f49bbb9901.image.jpg?crop=1264%2C664%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
    "media": "news",
    "region": "海外",
    "published": "2026-08-28T02:15:00+00:00",
    "title_ja": "部屋の散らかりが心や精神にどのような影響を与えるかを考察した記事",
    "summary_ja": "部屋や身の回りの散らかりが、個人の精神状態や心の平穏に悪影響を及ぼす害になり得るのかを問う内容です。物を減らし空間を整えることが、精神的な調和を取り戻すために重要であるかを考察しています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "c14f8624f0ea9f39",
+   "url": "https://minimalist-fudeko.com/relaxing-september",
+   "title_original": "9月の予定は、件数ではなく家を出る日で数える",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/08/schedule.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-28T00:10:23+00:00",
+   "title_ja": "予定の件数ではなく家を出る日数でスケジュールを管理する",
+   "summary_ja": "秋の行事や誘いで予定が埋まりがちな季節に向けて、あらかじめスケジュールの上限を決めて暮らしを整えるアイデアを紹介しています。",
    "category": "心・習慣",
    "axis": "reduce",
    "things": [],
@@ -7094,112 +7190,6 @@
    "axis": "own",
    "things": [],
    "importance": 2
-  },
-  {
-   "id": "bf5c0d71e39c8ef7",
-   "url": "https://note.com/lumicode/n/n9e0335f99894",
-   "title_original": "家を手放したら、世界が家になった",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/305119159/rectangle_large_type_2_8e0b3ea6552e497a3aab4703d932977b.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-19T14:53:57+00:00",
-   "title_ja": "家の所有を手放して場所に縛られない暮らしを始めた人の体験談",
-   "summary_ja": "定住するための「家」を手放し、自由に場所を移動しながら暮らすライフスタイルについて綴った記事。固定された住まいや所有から解放されたことで得られた心境の変化や、軽やかな暮らしの実践について語られている。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "46abb1306c41796a",
-   "url": "https://www.roomie.jp/2026/08/1866216",
-   "title_original": "分厚い名刺入れはもう卒業。厚さ0.4mmの燕三条チタンケースで身軽になろう",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/tsubanecase5.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-19T14:45:53+00:00",
-   "title_ja": "燕三条の純チタンで作られた極薄名刺入れで身軽になる話",
-   "summary_ja": "燕三条の技術と純チタンを組み合わせた、厚さ0.4mmの極薄名刺入れ「TSUBANE CASE」を紹介。薄くて軽く、頑丈な作りが特徴で、ビジネスシーンでの持ち物をよりコンパクトかつ身軽にしたいミニマリストに適したアイテムとなっている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "TSUBANE CASE",
-    "名刺入れ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "d0da3db831b290e6",
-   "url": "https://note.com/523062_rika/n/nce17fabcb489",
-   "title_original": "ミニマリスト、バレットジャーナルにつまづく",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/305116641/rectangle_large_type_2_13454a14023b57794c58060a8d642dec.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-19T14:43:32+00:00",
-   "title_ja": "怠け者のミニマリストがバレットジャーナルに挫折した話",
-   "summary_ja": "自称「怠け者」であるミニマリストの筆者が、手帳術であるバレットジャーナルに挑戦するも挫折してしまった体験を綴る。物だけでなく、日々のタスク管理や習慣をシンプルに保つことの難しさを自身の性格を踏まえて振り返っている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "078d4146b6dcbb24",
-   "url": "https://note.com/toimo/n/n7b84d9fb4dfb",
-   "title_original": "捨てる",
-   "source": "note #ミニマリスト",
-   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/8e643ecb136181d54796b419a925f3f4220d9b66.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-19T14:30:14+00:00",
-   "title_ja": "ミニマリストしぶ氏の動画を見ながら片付けを進める方法",
-   "summary_ja": "片付けを捗らせる方法として、ミニマリストである「しぶ」氏のYouTubeお片付け動画を見ながら作業することをおすすめする記事。動画を視聴しながら片付けを進めることで、モチベーションを保ちながら物を手放す作業がスムーズに進む様子を綴る。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "089af28c34844f63",
-   "url": "https://www.roomie.jp/2026/08/1864973",
-   "title_original": "6,000円台で満足。Xiaomiスマートウォッチが「最適解な理由」",
-   "source": "ROOMIE",
-   "image": "https://www.roomie.jp/wp-content/uploads/2025/07/7-3.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-19T13:15:09+00:00",
-   "title_ja": "高価な機能は不要と考える人が選んだ低価格スマートウォッチ",
-   "summary_ja": "スマートウォッチの機能はスマートフォンで代用できるため高価格帯のものは不要と考え、6,000円台のXiaomi製スマートウォッチを選んだ人のレビュー。手頃な価格でありながら、必要十分な機能で満足できる暮らしの最適解を紹介している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "スマートウォッチ",
-    "Xiaomiスマートウォッチ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "458ac204e0df58fa",
-   "url": "https://www.lifehacker.jp/article/2608-lht-anker-nano-charger",
-   "title_original": "Ankerの「巻き取り式」充電器。移動や場所に制限されない充電環境を手に入れた",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/08/19/9deaaf92-26dd-48c1-a5ea-4a6761f9ffa8/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-19T13:15:00+00:00",
-   "title_ja": "ケーブルの持ち歩きを不要にする巻取り式急速充電器の使用レビュー",
-   "summary_ja": "ケーブルが一体となった巻き取り式の急速充電器「Anker Nano Charger」を導入した人のレビュー。充電ケーブルを別途持ち運ぶ手間や、カバンの中で絡まるストレスから解放され、移動先でもすっきりとした充電環境を整えられる。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "Anker Nano Charger",
-    "充電器",
-    "USB-Cケーブル"
-   ],
-   "importance": 3
   }
  ]
 }
