@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-30T01:26:44.259448+09:00",
+ "updated_at": "2026-08-30T05:39:53.296500+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -37,10 +37,14 @@
   },
   {
    "name": "本",
-   "count": 6
+   "count": 7
   },
   {
    "name": "スマホ",
+   "count": 6
+  },
+  {
+   "name": "モバイルバッテリー",
    "count": 5
   },
   {
@@ -49,14 +53,6 @@
   },
   {
    "name": "ゴミ袋",
-   "count": 3
-  },
-  {
-   "name": "ハンディファン",
-   "count": 3
-  },
-  {
-   "name": "モバイルバッテリー",
    "count": 3
   },
   {
@@ -76,6 +72,10 @@
    "count": 2
   },
   {
+   "name": "USB-Cケーブル",
+   "count": 2
+  },
+  {
    "name": "イヤホン",
    "count": 2
   },
@@ -88,11 +88,11 @@
    "count": 2
   },
   {
-   "name": "スニーカー",
+   "name": "スタンディングテーブル",
    "count": 2
   },
   {
-   "name": "スマートフォン",
+   "name": "スニーカー",
    "count": 2
   },
   {
@@ -104,7 +104,15 @@
    "count": 2
   },
   {
+   "name": "ドリップケトル",
+   "count": 2
+  },
+  {
    "name": "ノート",
+   "count": 2
+  },
+  {
+   "name": "ハンディファン",
    "count": 2
   },
   {
@@ -117,6 +125,10 @@
   },
   {
    "name": "ペン",
+   "count": 2
+  },
+  {
+   "name": "マグカップ",
    "count": 2
   },
   {
@@ -136,11 +148,11 @@
    "count": 2
   },
   {
-   "name": "思い出の品",
+   "name": "小型冷蔵庫",
    "count": 2
   },
   {
-   "name": "日傘",
+   "name": "思い出の品",
    "count": 2
   },
   {
@@ -186,7 +198,6 @@
   "BS朝日",
   "Balance Through Simplicity",
   "Be More with Less",
-  "Better Homes & Gardens",
   "CNA Luxury",
   "China Daily Global Edition",
   "Country Living Magazine",
@@ -234,6 +245,7 @@
   "au Webポータル",
   "fashionsnap.com",
   "lee.hpplus.jp",
+  "mai minimalism",
   "marthastewart.com",
   "mi-mollet（ミモレ）",
   "note #ミニマリスト",
@@ -241,7 +253,6 @@
   "note #持たない暮らし",
   "note #断捨離",
   "parade.com",
-  "with class",
   "ねとらぼ",
   "ぴーこ｜ゆるっとミニマルな日常",
   "むぎの頑張らない暮らし",
@@ -281,6 +292,54 @@
    "importance": 3
   },
   {
+   "id": "5e0a8b0e8deceff7",
+   "url": "https://note.com/glad_hip1969/n/n4f00a7ca70ea",
+   "title_original": "美魔女にはなれなくても、小綺麗にはなれる",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/308295816/rectangle_large_type_2_a878c2f04f7aeb368f580c371296ef8a.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-29T15:29:57+00:00",
+   "title_ja": "年齢とともに変わる美容と自分への向き合い方",
+   "summary_ja": "若い頃のケアをそのままに過ごしてきた筆者が、年齢を重ねた肌の変化に向き合い、過度な若作りではなく自分を大切に整えることの大切さに気づいた心境を綴っています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "1314425052dae929",
+   "url": "https://balancethroughsimplicity.com/one-hour-cleaning-method",
+   "title_original": "How to Use the One Hour Cleaning Method to Clean Your Home More Efficiently",
+   "source": "Balance Through Simplicity",
+   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2026/08/The-One-Hour-Cleaning-Method-4-683x1024.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-08-29T15:29:12+00:00",
+   "title_ja": "1時間で効率よく部屋をきれいにする掃除法",
+   "summary_ja": "時間がなくても家をすっきりさせるため、全てをやろうとせず人がよく通る場所や効果が大きく表れる部分に絞って掃除を行う時間管理のコツを紹介しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "c3cc6da965719152",
+   "url": "https://balancethroughsimplicity.com/how-minimalism-can-help-students-save-money",
+   "title_original": "How Minimalism Can Help Students Save Money",
+   "source": "Balance Through Simplicity",
+   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2026/08/How-Minimalism-Can-Help-Students-Save-Money-1-683x1024.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-08-29T15:19:02+00:00",
+   "title_ja": "ミニマリズムで学生がお金を節約する方法",
+   "summary_ja": "持ち物を減らして今あるものを使い、衝動買いを避けることで、学生生活をシンプルに保ちながらお金を節約できるという考え方を紹介しています。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "e3992211a5565b37",
    "url": "https://www.washingtonpost.com/home/2026/08/29/how-what-declutter-when-your-kids-head-off-college",
    "title_original": "How, and what, to declutter when your kids head off to college",
@@ -297,6 +356,41 @@
    "importance": 3
   },
   {
+   "id": "49c084c00dc3fb15",
+   "url": "https://note.com/baripro001/n/nfc45ef7ff62d",
+   "title_original": "お金持ちほどモノを持たない本当の理由｜所有ではなく預かり",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/308273608/rectangle_large_type_2_c1c089cad2a1a0c4608ab7fa3844a870.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-29T14:47:03+00:00",
+   "title_ja": "お金持ちほどモノを持たない理由と所有の代償",
+   "summary_ja": "物を所有すると管理の手間や注意力といった見えないコストがかかるため、余分な物を持たないという考えに至った実体験を綴っています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "68d857202830a172",
+   "url": "https://www.lifehacker.jp/article/2608-amazon-ankerzolopowerbank-hgi",
+   "title_original": "ケーブル一体型&充電残量一目瞭然。3台同時可能なAnkerのモバイルバッテリー",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2025/05/11/140fb500-73de-481a-bb29-5930244d42b5/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-29T14:00:00+00:00",
+   "title_ja": "ケーブル一体型で荷物がすっきりするAnkerのモバイルバッテリー",
+   "summary_ja": "AnkerのZolo Power Bankを紹介。一体型USB-Cケーブルや充電残量がわかる液晶表示を備え、荷物を減らして3台同時に急速充電ができる利便性を解説している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "モバイルバッテリー",
+    "USB-Cケーブル"
+   ],
+   "importance": 3
+  },
+  {
    "id": "03ddef2b1112c9ee",
    "url": "https://www.apartmenttherapy.com/visual-decluttering-trick-37686298",
    "title_original": "My Sister’s Visual Decluttering Trick Is So Effective, I Used It in Every Room",
@@ -310,6 +404,24 @@
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
+   "importance": 3
+  },
+  {
+   "id": "76f7e75532b08e65",
+   "url": "https://www.lifehacker.jp/article/2608-amazon-insta360goultra-ghy",
+   "title_original": "マグネット装着で手ぶらで撮影。超軽量カメラなのに4K60fps",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2025/12/09/e1e0d53c-dce8-4d59-8657-677bc7501a86/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-29T13:45:00+00:00",
+   "title_ja": "マグネット装着で手ぶら撮影ができる超軽量カメラ",
+   "summary_ja": "わずか53gの超軽量ボディと4K60fps撮影機能を備えたInsta360 GO Ultraを紹介。マグネットで衣類に装着し、日常やスポーツの様子を手ぶらで記録できる。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "カメラ"
+   ],
    "importance": 3
   },
   {
@@ -347,6 +459,66 @@
    "axis": "reduce",
    "things": [],
    "importance": 4
+  },
+  {
+   "id": "f68a67bf988bc1a9",
+   "url": "https://www.youtube.com/watch?v=vD9Epsl_0Qg",
+   "title_original": "防災リュックのアップデート",
+   "source": "mai minimalism",
+   "image": "https://i3.ytimg.com/vi/vD9Epsl_0Qg/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-29T11:00:32+00:00",
+   "title_ja": "ミニマリスト看護師が厳選する防災リュックの中身と備蓄の工夫",
+   "summary_ja": "看護師のミニマリストが厳選した防災グッズを紹介しています。防水バックパック、LEDヘッドライト、モバイルバッテリーなどを備え、停電や通信障害を考慮して現金などの貴重品を多めに用意する実践的なアイデアを語っています。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "防水 バックパック",
+    "LEDヘッドライト",
+    "モバイルバッテリー",
+    "手回しラジオライト"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "596210cd897a190b",
+   "url": "https://www.youtube.com/watch?v=b5G0faix2mM",
+   "title_original": "【Vlog】節約したいけど、我慢はしたくない。26歳一人暮らしの休日2日間 | ミニマリスト",
+   "source": "ミニマリストじゅん",
+   "image": "https://i3.ytimg.com/vi/b5G0faix2mM/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-29T11:00:09+00:00",
+   "title_ja": "節約と心地よさを両立させる26歳一人暮らしミニマリストの休日",
+   "summary_ja": "一人暮らしのミニマリストが、節約を意識しながらも我慢しない休日の過ごし方を紹介しています。ドリップケトル、スタンディングテーブル、小型冷蔵庫などの厳選したお気に入りアイテムを暮らしに取り入れる様子が描かれています。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "ドリップケトル",
+    "スタンディングテーブル",
+    "小型冷蔵庫",
+    "マグカップ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ae58120cd0662af2",
+   "url": "https://www.youtube.com/watch?v=n-c0ZsKJn60",
+   "title_original": "新刊「金運が上がる断捨離」の発売が開始しました！🎉",
+   "source": "やましたひでこ断捨離",
+   "image": "https://i3.ytimg.com/vi/n-c0ZsKJn60/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-29T11:00:08+00:00",
+   "title_ja": "断捨離を通じて金運が上がる家づくりを提案する書籍の紹介",
+   "summary_ja": "お金が貯まらない悩みや将来の不安を解消するために、断捨離を活用した家づくりの方法を提案する書籍を紹介しています。お金が逃げる家と貯まる家の違いや、その秘密を解説しています。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [
+    "本"
+   ],
+   "importance": 2
   },
   {
    "id": "92bfdfc627bb0b88",
@@ -447,6 +619,22 @@
    "importance": 3
   },
   {
+   "id": "41ed7d71b8939046",
+   "url": "https://mshale.com/564cb53c/dbab195dlmxQIYZ-w_8",
+   "title_original": "【節約習慣15選】手取り19万でも毎月黒字家計が続く！｜ミニマルな一人暮らし｜少ないモノで、心豊かに暮らす。【アフレコ付】 Ryan Seacrest (8u6IRugr5x)",
+   "source": "Mshale",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-29T04:25:38+00:00",
+   "title_ja": "手取り19万円でも黒字家計を続けるミニマルな一人暮らし",
+   "summary_ja": "手取り19万円の一人暮らしで毎月黒字家計を続けるための節約習慣を紹介。少ないモノで心豊かに暮らすためのヒントや考え方が学べる内容です。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "52064608511fb643",
    "url": "https://www.youtube.com/shorts/eq3q9ouAHso",
    "title_original": "「足に埃がつかないって、異常だよ？」 #シングルマザー #掃除 #ミニマリスト",
@@ -527,6 +715,25 @@
    "category": "暮らしの実例",
    "axis": "reduce",
    "things": [],
+   "importance": 3
+  },
+  {
+   "id": "f37df7ab3c7be884",
+   "url": "https://bemorewithless.com/weekend-favorites-august-29-2026/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
+   "title_original": "5 binge-worthy shows + what’s in your junk drawer?",
+   "source": "Be More with Less",
+   "image": "https://bemorewithless.com/wp-content/uploads/2026/08/binge-worthy-shows-image.png",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-08-28T23:13:14+00:00",
+   "title_ja": "物を手放すタイミングを見極める週末の知恵",
+   "summary_ja": "何かを手放す時期が来たと自分に許可を出すことの大切さを紹介。今後はスマホよりもノートブックと過ごす時間を増やす予定であることも語られています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "ノートブック",
+    "スマホ"
+   ],
    "importance": 3
   },
   {
@@ -6995,197 +7202,6 @@
    "published": "2026-08-20T03:00:00+00:00",
    "title_ja": "同じものを何度も買ってしまう心理的背景",
    "summary_ja": "つい同じものを複数買い込んでしまう人の心のクセについて解説。過去の経験が原因となっている可能性にふれ、その心理的な背景を紐解いている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "6d1695845ec43039",
-   "url": "https://www.lifehacker.jp/article/2608_korekai_muji_led_light",
-   "title_original": "やっぱり無印良品にあった！部屋に出しっぱなしてすぐ使えるLEDランタン【これ買ってよかった】",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2024/09/02/8a38a6f4-0632-45c7-9034-42e31dd4733d/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-20T02:00:00+00:00",
-   "title_ja": "部屋に馴染むデザインで出しっぱなしにできる無印良品のLEDライト",
-   "summary_ja": "防災対策として備えておきたい、部屋に出しっぱなしにしてもインテリアに馴染むデザインの無印良品のLEDライトを紹介。いつ停電が起きてもすぐに手に取れる実用性と、シンプルな美しさを兼ね備えています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "LEDライト"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "1c5fdc9c3b42bb97",
-   "url": "https://withonline.jp/with-class/house/topics-interior/JhubQ?page=576",
-   "title_original": "ミニマリストのおしゃれなお部屋の実例６選！断捨離のポイントや暮らしのコツなども紹介",
-   "source": "with class",
-   "image": "https://cdn.clipkit.co/tenants/381/articles/images/000/145/759/medium/e780b961-481f-4112-999e-d29d71082818.jpg?1668326921",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-20T01:11:27+00:00",
-   "title_ja": "ミニマリストのおしゃれな部屋と断捨離のコツ6選",
-   "summary_ja": "ミニマリストたちの洗練された部屋の実例と、物を手放してすっきりと暮らすためのポイントを紹介する記事です。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "7c56a93db91c9d34",
-   "url": "https://note.com/wagako_mirainote/n/n5bd88bd1ec79",
-   "title_original": "子育てのメンタルを安定させる「ルーティンのミニマリスト」",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/305205003/rectangle_large_type_2_7f3b98212a6fddef691f410664824742.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-20T01:04:46+00:00",
-   "title_ja": "子育てのメンタル安定のために環境をルーティン化する話",
-   "summary_ja": "子どもの行動はコントロールできないため、自分の環境やルーティンを固定する工夫を紹介。音楽を流す、香を焚く、自分の食事を決めるなど、変えられる部分を整えて心を安定させています。イライラしがちな日常を手放す考え方です。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "d1cf0ad436a04714",
-   "url": "https://note.com/brave_coyote359/n/n4fd9f4961138",
-   "title_original": "大きな照明器具にさようなら。電球とソーラーランタンで暮らした2年",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/305200178/rectangle_large_type_2_d8fca9c583f3e11d2bc10622b8fb0085.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-20T00:44:24+00:00",
-   "title_ja": "大きな照明器具を手放し、電球とソーラーランタンで暮らす",
-   "summary_ja": "引っ越しの際にリビングや寝室の大きな照明器具を思い切って手放した事例。現在は電球とソーラーランタンを活用して暮らしており、天井の固定照明に頼らないミニマルな明かりの取り方を取り入れています。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "電球",
-    "ソーラーランタン",
-    "照明器具"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "514ad7a05c854ea8",
-   "url": "https://note.com/yumikot_world/n/n46ac96dcf71d",
-   "title_original": "最近始めた拭き活がとにかく良いのでおすすめしたい。",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/305194865/rectangle_large_type_2_1f116a739dbbecc4fa7b3cb1055be440.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-20T00:27:13+00:00",
-   "title_ja": "100均のシートで毎日数分間続ける家の中の拭き活",
-   "summary_ja": "100円ショップの掃除シートを使い、毎日数分だけ気になる場所を拭き掃除する習慣を紹介。一見きれいでも埃やシミが落ちてツルツルになる爽快感を味わえます。家の中の汚れを手軽に落として気持ちよく暮らす工夫です。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "掃除シート"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "878272bbde40e55e",
-   "url": "https://minimalist-fudeko.com/how-to-deal-with-complainers",
-   "title_original": "愚痴っぽい人と、消耗せずに付き合う方法",
-   "source": "筆子ジャーナル",
-   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/08/conversations.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-20T00:10:39+00:00",
-   "title_ja": "愚痴ばかりで疲れる友人とエネルギーを消耗せずに付き合う方法",
-   "summary_ja": "古い友人から会うたびに愚痴を聞かされ、疲弊してしまうという読者の悩みに答える。大切な人間関係を維持しつつも、自分の心や時間を消耗させないために、適度な距離を保ちながら上手に付き合っていくための具体的な考え方を紹介している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "3e0d0284ec9a4d69",
-   "url": "https://www.bhg.com/90-90-decluttering-rule-12026313",
-   "title_original": "I’m a Professional Organizer, and the 90/90 Rule Is My Favorite Way to Declutter",
-   "source": "Better Homes & Gardens",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-19T23:14:00+00:00",
-   "title_ja": "片付けのプロが実践する「90/90ルール」の活用法",
-   "summary_ja": "プロの整理収納アドバイザーがおすすめする、物を手放す基準である「90/90ルール」を使った片付けの方法です。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "371902bbb9d8490a",
-   "url": "https://bemorewithless.com/the-difference-between-simplicity-and-minimalism/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
-   "title_original": "The Difference Between Simplicity and Minimalism",
-   "source": "Be More with Less",
-   "image": "https://bemorewithless.com/wp-content/uploads/2012/10/SIMPLICITY-AND-MINIMALISM-image.png",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-08-19T23:03:06+00:00",
-   "title_ja": "シンプルライフとミニマリズムの決定的な違い",
-   "summary_ja": "シンプルライフとミニマリズムの違いについて解説し、生活スタイルを変える際に意識すべきポイントを伝えています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "7d798011143892b2",
-   "url": "https://www.roomie.jp/2026/08/1865217",
-   "title_original": "「貼れる瞬間保冷剤」が炎天下のテーマパークの救世主でした。電気いらずで防災にも役立つよ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/original-1-3.jpeg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-19T23:00:43+00:00",
-   "title_ja": "炎天下の外出や防災に役立つ、電源不要の瞬間保冷剤",
-   "summary_ja": "夏の厳しい暑さ対策として導入した、電気を使わずにすばやく冷たくなる保冷剤の紹介。荷物を増やしたくない外出時や、防災用としても役立つアイテムとして活用している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "保冷剤",
-    "ハンディファン",
-    "日傘"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "d1ef4f215a481f7b",
-   "url": "https://note.com/yusuke_muji/n/n43d031088256",
-   "title_original": "電話番号って、いつまで残るんだろう",
-   "source": "note #持たない暮らし",
-   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/f8997fe7cee7c24b21607e6b4cdb0a299fba829a.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-19T22:51:27+00:00",
-   "title_ja": "固定の電話番号や電話回線は本当に必要なのかと考えた話",
-   "summary_ja": "普段のやり取りをチャットやTeamsで済ませる中で、現代における電話回線や電話番号の必要性について見直したエッセイ。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "スマートフォン",
-    "Teams"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "27762f7ac568ab80",
-   "url": "https://note.com/eridesign8/n/n2710fc41ce3d",
-   "title_original": "今年の目標は「動く」こと。誕生日に気づいた仕事への自己犠牲と、1年後の未来",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/304749559/rectangle_large_type_2_3a635f62ec995eee74c0eac9a1d8d909.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-19T22:09:51+00:00",
-   "title_ja": "誕生日に気づいた仕事への自己犠牲と、これからの目標",
-   "summary_ja": "誕生日のタイミングで過去1年の過ごし方を振り返り、感謝から生じていた仕事への自己犠牲の気持ちに気づく。頭の中を整理して新しい目標に向かって動き出すエッセイ。",
    "category": "心・習慣",
    "axis": "reduce",
    "things": [],
