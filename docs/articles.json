@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-31T13:30:08.066145+09:00",
+ "updated_at": "2026-08-31T22:05:01.131179+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -40,16 +40,20 @@
    "count": 7
   },
   {
-   "name": "スマホ",
-   "count": 5
-  },
-  {
    "name": "モバイルバッテリー",
    "count": 5
   },
   {
+   "name": "スマホ",
+   "count": 4
+  },
+  {
    "name": "ノート",
    "count": 4
+  },
+  {
+   "name": "イヤホン",
+   "count": 3
   },
   {
    "name": "ゴミ袋",
@@ -61,6 +65,10 @@
   },
   {
    "name": "ハンディファン",
+   "count": 3
+  },
+  {
+   "name": "充電器",
    "count": 3
   },
   {
@@ -76,15 +84,7 @@
    "count": 2
   },
   {
-   "name": "イヤホン",
-   "count": 2
-  },
-  {
    "name": "カメラ",
-   "count": 2
-  },
-  {
-   "name": "カード",
    "count": 2
   },
   {
@@ -132,10 +132,6 @@
    "count": 2
   },
   {
-   "name": "充電器",
-   "count": 2
-  },
-  {
    "name": "卒業アルバム",
    "count": 2
   },
@@ -160,10 +156,6 @@
    "count": 2
   },
   {
-   "name": "木製腕時計",
-   "count": 2
-  },
-  {
    "name": "本棚",
    "count": 2
   },
@@ -184,7 +176,15 @@
    "count": 2
   },
   {
-   "name": "財布",
+   "name": "電源タップ",
+   "count": 2
+  },
+  {
+   "name": "靴",
+   "count": 2
+  },
+  {
+   "name": "鞄",
    "count": 2
   }
  ],
@@ -277,6 +277,144 @@
  "count": 400,
  "items": [
   {
+   "id": "70962aa7e9588166",
+   "url": "https://note.com/yktktbs283/n/n7175036b2aeb",
+   "title_original": "2026.8.31 月",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/308957506/rectangle_large_type_2_7c70cef976f7e564fdae6afdefaade9b.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-31T12:54:33+00:00",
+   "title_ja": "家族5人での暮らしで片付けと断捨離を進める話",
+   "summary_ja": "家族5人で暮らす中で、家の中を片付けて不要なものを整理した人の記録。片付けを通じて本当に必要なものを見つめ直し、さらに断捨離したくなった気持ちをつづっている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "3195b1e30be24e6a",
+   "url": "https://www.roomie.jp/2026/08/1875053",
+   "title_original": "濡らして振るだけ。山善のポンチョでクールダウン",
+   "source": "ROOMIE",
+   "image": "https://www.roomie.jp/wp-content/uploads/2025/08/1-18.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-31T12:15:52+00:00",
+   "title_ja": "濡らして振るだけで冷える山善のポンチョ",
+   "summary_ja": "強烈な夏の暑さ対策として導入した、山善のポンチョの使用感を紹介しています。水に濡らして振るだけで手軽にクールダウンできるアイテムです。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ポンチョ"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "fcbba81a6a77cd2a",
+   "url": "https://www.roomie.jp/2026/08/1876405",
+   "title_original": "荷物を減らしたい1泊の旅行や出張、CIOの小さな逸品で十分でした",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/37A6092-2.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-31T12:00:46+00:00",
+   "title_ja": "1泊の出張や旅行の荷物を減らすCIOの充電器",
+   "summary_ja": "1泊程度の出張や旅行で荷物を軽くするため、CIOの充電器「NovaWave 3Way+」を取り入れている事例です。最小限のアイテムで身軽に移動したい人向けの実用品です。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "充電器"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "560b583f1d7aa9ad",
+   "url": "https://www.youtube.com/watch?v=V5pt8z2mzjg",
+   "title_original": "Japanese Floor Sleeping | The Minimalists Ep. 554",
+   "source": "The Minimalists",
+   "image": "https://i3.ytimg.com/vi/V5pt8z2mzjg/hqdefault.jpg",
+   "media": "youtube",
+   "region": "海外",
+   "published": "2026-08-31T12:00:33+00:00",
+   "title_ja": "床に布団を敷く日本の睡眠スタイルと引き算の暮らし",
+   "summary_ja": "物を減らす引き算の暮らしがもたらす気づきや、日本の床に直接寝るスタイルのメリット・デメリットについて語られています。伝統的なマットレスから床寝へ移行する際のポイントが議論されています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "b688359de8348264",
+   "url": "https://www.lifehacker.jp/article/2608-shokz-openrun-air-2-review",
+   "title_original": "ズレない＆着用を忘れるつけ心地。Shokz「OpenRun Air 2」をランニングで試してみた",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/31/ef5afce2-5ca5-4f71-855e-652e4f12f5ef/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-31T11:45:00+00:00",
+   "title_ja": "ランニングで試したShokzの骨伝導イヤホン",
+   "summary_ja": "フルマラソンを目指すランナーが、Shokzの骨伝導イヤホンを2週間使ったレビューです。運動中でもズレにくい軽いつけ心地や実際の使用感について綴られています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "イヤホン"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "57513c11b38a4908",
+   "url": "https://www.roomie.jp/2026/08/1866406",
+   "title_original": "赤みが気になってチークレスだった私。550円の「シナモンブラウン」で一気に秋っぽおしゃれ顔になれそうです",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/cezanne-cheekblush-cinnamonbrown.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-31T11:30:38+00:00",
+   "title_ja": "頬の赤みに悩む人が選んだセザンヌのチーク",
+   "summary_ja": "頬の赤みが気になりチークレスだった人が、セザンヌのシナモンブラウンのチークを試した話です。落ち着いた色味で秋らしいメイクを楽しんでいる実例です。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "チーク"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "e7676464d15ffd58",
+   "url": "https://mshale.com/fc008f89/e35aaaafwaDEHLsX-8A",
+   "title_original": "【節約ミニマリスト】夏の電気代＋ガス代が8,640円下がった習慣15選｜光熱費削減 Doncaster Sheffield Airport (DFJulWXLjs)",
+   "source": "Mshale",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-31T09:25:46+00:00",
+   "title_ja": "夏の光熱費を8640円下げた習慣",
+   "summary_ja": "夏の電気代とガス代を合わせて8,640円削減することに成功した、具体的な15の習慣を紹介している記事。光熱費を抑えたいミニマリストの参考になる。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "f0b76de673061ead",
+   "url": "https://www.youtube.com/shorts/IU51htD1P8E",
+   "title_original": "【ミニマリスト主婦】日用品をまとめ買い",
+   "source": "ぴーこ｜ゆるっとミニマルな日常",
+   "image": "https://i2.ytimg.com/vi/IU51htD1P8E/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-08-31T08:00:04+00:00",
+   "title_ja": "ミニマリスト主婦の日常における日用品のまとめ買い",
+   "summary_ja": "ミニマリスト主婦が日用品をまとめ買いしている様子を紹介した動画。暮らしの中でどのような日用品をストックしているのかを知ることができる。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "日用品"
+   ],
+   "importance": 3
+  },
+  {
    "id": "df483e17f21e2eea",
    "url": "https://note.com/imacoco_2026/n/n9c271cd97024",
    "title_original": "足るを知る/ 選ぶ力を養う",
@@ -324,6 +462,22 @@
    "things": [
     "無印良品のシアーシャツ"
    ],
+   "importance": 3
+  },
+  {
+   "id": "0a6183b7a818bc40",
+   "url": "https://mshale.com/2f54c1c2/25ecab9c7llGs2b8Hpo",
+   "title_original": "やめるだけで節約になった12のコト【3人子育てミニマリスト】 Dave Filoni (yI4C6uBFuM)",
+   "source": "Mshale",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-31T03:42:30+00:00",
+   "title_ja": "3人子育てミニマリストが実践するやめたこと",
+   "summary_ja": "3人の子供を育てるミニマリストが、生活の中でやめることで節約につながった12のコトを紹介している。暮らしの固定観念を手放すヒントが得られる。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -7065,161 +7219,6 @@
    "things": [
     "スプリングマット"
    ],
-   "importance": 3
-  },
-  {
-   "id": "bfdc9181f9c17720",
-   "url": "https://nlab.itmedia.co.jp/cont/articles/3973049",
-   "title_original": "来客中、息子が押し入れのふすまを開けたら…… とんでもない光景に母悲鳴「我が家は見て見ぬふり」（1/3） | ライフスタイル ねとらぼ",
-   "source": "ねとらぼ",
-   "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/08/1787015741_cover1.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-22T01:30:00+00:00",
-   "title_ja": "来客時に子供が押し入れを開けて発覚した、我が家の収納の現実",
-   "summary_ja": "来客中に子供が押し入れのふすまを開けてしまい、隠されていた収納の現実が明らかになってしまったエピソード。普段は見て見ぬふりをしている押し入れの中身が突然公開され、母親が悲鳴を上げた日常の一コマを伝える。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "c3aaecc6422d4af1",
-   "url": "https://www.lifehacker.jp/article/2608-costorypo-woodsound-end-1313697992",
-   "title_original": "着けていることを忘れる軽さとやさしさ。天然木×日本製ムーブメントの木製腕時計",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/08/16/c48636f4-adde-4144-b719-3b2057a72c2e/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-22T01:30:00+00:00",
-   "title_ja": "わずか38gの軽さと天然木の温もりを持つ木製腕時計",
-   "summary_ja": "天然木を使用し、着けていることを忘れるほどの軽さと日本製ムーブメントを採用した木製腕時計の紹介。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "木製腕時計"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "649f19f78626edd5",
-   "url": "https://note.com/yutomini/n/n2f8eb06e9b50",
-   "title_original": "【ミニマリズム思考】現代において情報不足とはどういう状態か？",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/305816932/rectangle_large_type_2_b28529d9be6cfafa176069e0e14b3fd8.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-22T01:13:10+00:00",
-   "title_ja": "現代における情報不足についてミニマリズム思考で考えた話",
-   "summary_ja": "著者が読書体験を通して、現代における情報との付き合い方や思考の整理について考察した記事。書籍『集中力はいらない』に触れながら、ミニマリズム思考の観点で情報過多な現状や考え方について述べている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "書籍『集中力はいらない』"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "20143fc353e20622",
-   "url": "https://note.com/murakami_flower/n/nf3870e84cb08",
-   "title_original": "30代になって手放してよかったこと",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/300005269/rectangle_large_type_2_3aa5220c119305d447087afea26272b3.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-22T01:05:53+00:00",
-   "title_ja": "30代になり目に見えない「コト」を手放して暮らしを整えた話",
-   "summary_ja": "刺激の多かった20代を経て、30代でモノではなく目に見えない思考や習慣などの「コト」を手放した体験談。物事をうまく手放せるようになったことで、暮らしがシンプルになり人生が豊かになったと語られている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "d17e3e2f916b3bfd",
-   "url": "https://www.roomie.jp/2026/08/1605179",
-   "title_original": "31坪の土地に、理想の注文住宅を。吹き抜けと回遊キッチンで、家族が自然と集まるようになった（愛知県）",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/DSCF6248-2.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-22T01:00:55+00:00",
-   "title_ja": "吹き抜けリビングと回遊キッチンがある約31坪の注文住宅の実例",
-   "summary_ja": "愛知県に建つ約31坪の注文住宅を訪ねたルームツアー記事。吹き抜けのリビングや回遊できるキッチン、趣味のための個室など、家族それぞれが快適に過ごせるように取り入れた工夫や間取りを紹介している。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "840ac0a0604dde6a",
-   "url": "https://note.com/rubbed1969/n/n87e5c8b662e5",
-   "title_original": "生活を畳む",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/305426597/rectangle_large_type_2_207b870165e1a494df3b8b89e16da9c8.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-22T00:56:49+00:00",
-   "title_ja": "転勤からの地元帰還にあわせて生活を畳む人の話",
-   "summary_ja": "会社の転勤で暮らした地方都市から地元に戻ることになり、生活を畳む準備を進めているという心境を綴った記事。環境の変化に伴う手放しの過程が描かれている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "46e0f1c4688045b0",
-   "url": "https://www.roomie.jp/2026/08/1864968",
-   "title_original": "こんなに小さいのに鍵もカードも現金も入るよ。スマホとこれさえあれば手ぶらOKな極小財布",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/usule4.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-22T00:45:44+00:00",
-   "title_ja": "スマホと一緒に出かけられる極小財布の話",
-   "summary_ja": "鍵とカードと現金をひとつにまとめられる、薄さ0.5cm・重さ約23gの極小財布を紹介している記事。キャッシュレス派で少しの現金や鍵も一緒に持ち歩きたい人に適している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "財布",
-    "鍵",
-    "カード",
-    "現金"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "30c563ffcb737882",
-   "url": "https://note.com/nice_iguana4320/n/nedfdcfbdfd09",
-   "title_original": "『もう、このままでいい』が増えてきた。60歳のぼくがスマホを買い替える理由",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/305686469/rectangle_large_type_2_8a0bd2d5173d0fb76cba5ff7bff444ca.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-22T00:44:43+00:00",
-   "title_ja": "60歳でスマホを買い替える理由について",
-   "summary_ja": "60歳を迎えた筆者が、日々の暮らしの中で「このままでいい」と感じることが増える中でのスマートフォン買い替えについての思いを綴っている。",
-   "category": "道具・ガジェット",
-   "axis": "reduce",
-   "things": [
-    "スマホ"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "41ba57deee9ae87c",
-   "url": "https://minimalist-fudeko.com/stop-persuading-start-preparing",
-   "title_original": "82歳の義父がガレージの道具を手放さない～説得せずにできること",
-   "source": "筆子ジャーナル",
-   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/08/messy-garage.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-22T00:10:21+00:00",
-   "title_ja": "高齢の家族が物を手放さないときの対応",
-   "summary_ja": "ガレージに物が溢れて家族が困っている状況に対し、説得せずにできるアプローチについて考えた読者のお便りを紹介します。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
    "importance": 3
   }
  ]
