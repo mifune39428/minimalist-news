@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-31T05:47:28.754677+09:00",
+ "updated_at": "2026-08-31T13:30:08.066145+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -28,7 +28,7 @@
  ],
  "things": [
   {
-   "name": "本",
+   "name": "服",
    "count": 8
   },
   {
@@ -36,8 +36,8 @@
    "count": 7
   },
   {
-   "name": "服",
-   "count": 6
+   "name": "本",
+   "count": 7
   },
   {
    "name": "スマホ",
@@ -52,10 +52,6 @@
    "count": 4
   },
   {
-   "name": "iPhone",
-   "count": 3
-  },
-  {
    "name": "ゴミ袋",
    "count": 3
   },
@@ -68,8 +64,8 @@
    "count": 3
   },
   {
-   "name": "調味料",
-   "count": 3
+   "name": "Apple Watch",
+   "count": 2
   },
   {
    "name": "PC",
@@ -81,6 +77,10 @@
   },
   {
    "name": "イヤホン",
+   "count": 2
+  },
+  {
+   "name": "カメラ",
    "count": 2
   },
   {
@@ -100,11 +100,19 @@
    "count": 2
   },
   {
+   "name": "スマートフォン",
+   "count": 2
+  },
+  {
    "name": "タオル",
    "count": 2
   },
   {
    "name": "ドリップケトル",
+   "count": 2
+  },
+  {
+   "name": "バッグ",
    "count": 2
   },
   {
@@ -116,15 +124,7 @@
    "count": 2
   },
   {
-   "name": "ペン",
-   "count": 2
-  },
-  {
    "name": "マウス",
-   "count": 2
-  },
-  {
-   "name": "メモ帳",
    "count": 2
   },
   {
@@ -168,10 +168,6 @@
    "count": 2
   },
   {
-   "name": "洋服",
-   "count": 2
-  },
-  {
    "name": "洗濯ボール",
    "count": 2
   },
@@ -181,6 +177,10 @@
   },
   {
    "name": "腕時計",
+   "count": 2
+  },
+  {
+   "name": "調味料",
    "count": 2
   },
   {
@@ -197,7 +197,6 @@
   "BS朝日",
   "Balance Through Simplicity",
   "Be More with Less",
-  "CNA Luxury",
   "China Daily Global Edition",
   "Country Living Magazine",
   "Daily Mirror",
@@ -205,7 +204,6 @@
   "Good Housekeeping",
   "HOLR Magazine",
   "Hindustan Times",
-  "House Beautiful",
   "Ideal Home",
   "Infoseek",
   "Jenny Mustard",
@@ -221,6 +219,7 @@
   "Sarah Therese",
   "Simple Lionheart Life",
   "Simply + Fiercely",
+  "South China Morning Post",
   "Southern Living",
   "TOKAIネットワーククラブ（TNC）",
   "TRILL",
@@ -271,13 +270,348 @@
   "レイの小さな暮らし",
   "レスポンス（Response.jp）",
   "佐賀新聞",
-  "千葉テレビ放送",
   "小さな暮らしノート",
   "私だけミニマリスト｜南さやか",
   "筆子ジャーナル"
  ],
  "count": 400,
  "items": [
+  {
+   "id": "df483e17f21e2eea",
+   "url": "https://note.com/imacoco_2026/n/n9c271cd97024",
+   "title_original": "足るを知る/ 選ぶ力を養う",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/308782445/rectangle_large_type_2_ef440c204a5c08e1022472d5fefeb0ae.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-31T04:20:43+00:00",
+   "title_ja": "買い物好きな著者が語る「足るを知る」ことで自分に必要な物を選ぶ力を養う考え方",
+   "summary_ja": "お買い物が大好きな著者が、自分にとって本当に必要な物を見極めるために「足るを知る」ことや選ぶ力を養う大切さについて紹介する記事。無駄な買い物を減らし、暮らしを整えるための思考法を提案している。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "a541870eadde992f",
+   "url": "https://note.com/vast_dill6927/n/nbbc3c5b2cfa4",
+   "title_original": "【あかりとつきの星読み談義】手が止まるのは意志が弱いから？ 星が教える断捨離のヒント",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/308472625/rectangle_large_type_2_c2fc8096104a29d571b7ab59febd141f.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-31T04:13:08+00:00",
+   "title_ja": "片付けが進まない人に向けて占星術の視点から断捨離をスムーズに行うヒントを紹介",
+   "summary_ja": "部屋の片付けがうまくいかず落ち込んでしまう人に向けて、作業の手が止まる原因は意志の弱さだけではないとし、星読みの視点から断捨離を無理なく進めるための考え方やヒントを提案している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "920d253f003ed3c5",
+   "url": "https://www.roomie.jp/2026/08/1870436",
+   "title_original": "無印良品の「さらっとしたシアーシャツ」で、ひと足早く秋服を始められました",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/260825_Ro_hiromisato_9-scaled-1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-31T04:00:17+00:00",
+   "title_ja": "無印良品のシアー長袖シャツを活用し暑い時期から秋ファッションを楽しむ工夫",
+   "summary_ja": "まだまだ暑い時期から手軽に秋の雰囲気を楽しめる、無印良品の「婦人 強撚シアー 長袖シャツ」を紹介。税込み3,990円で購入できる秋カラーのシアーシャツの着心地や活用法についてレビューしている。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "無印良品のシアーシャツ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "cfafcc878be91895",
+   "url": "https://note.com/joyful_python526/n/n8cc0e405a1fb",
+   "title_original": "「休むこと」を、もっと上手に教えてもいい",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/308785712/rectangle_large_type_2_798b8fb7e0f77c0be95860a592158d88.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-31T03:37:57+00:00",
+   "title_ja": "休むことへの罪悪感を手放し自分自身の状態に合わせて上手に休日を決める方法",
+   "summary_ja": "休みたいと思うことに罪悪感を抱いてしまう大人に向けて、自分の体調や心の状態を見極めて自ら休む日を選ぶ大切さを説く記事。学校や職場の慣習に囚われず、心身を整える考え方を提案している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "ae81a62f658d90ee",
+   "url": "https://www.lifehacker.jp/article/2608-how-arm-works-with-orca-echo-cpc-cgf",
+   "title_original": "無意識にひねってる手首、分割キーボードならどう変わる？",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/25/a2cbc8bf-9c56-4a14-9624-ceb03ddcbe53/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-31T03:00:00+00:00",
+   "title_ja": "分割キーボード導入で手首の負担を抑える試み",
+   "summary_ja": "キーボード操作時の腕の角度や向きに着目し、分割キーボード「Orca echo」を使用することで手首のひねりを軽減し、作業環境を改善するメリットを紹介している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "分割キーボード",
+    "Orca echo"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "0f1a9615c7d080b8",
+   "url": "https://note.com/emulog/n/n72ef4f6ff73d",
+   "title_original": "FlexLine Pro 60W 巻き取り式ケーブル内蔵のモバイル充電器を今日から使っていきます。",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/308739133/rectangle_large_type_2_a95d42ff75f3aeca7dcd849e943614e6.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-31T03:00:00+00:00",
+   "title_ja": "巻き取り式ケーブル内蔵の充電器を使い始めた人のレビュー",
+   "summary_ja": "ケーブルの持ち歩きを不要にする巻き取り式ケーブル内蔵型のモバイル充電器「TORRAS FlexLine Pro 60W」を使い始めた著者が、その利便性や使用感についてまとめた記事。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "TORRAS FlexLine Pro 60W",
+    "モバイル充電器"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "fab20e232ce7e130",
+   "url": "https://note.com/ktomo_dev/n/n2f0b1326afd0",
+   "title_original": "ミニマリストが教える断捨離術〜もう片付けは不要！〜",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/308770952/rectangle_large_type_2_7e7d39f1b0789e5ec50cde8f4515b0cb.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-31T02:47:12+00:00",
+   "title_ja": "片付けの繰り返しから脱却するミニマリスト流の断捨離術",
+   "summary_ja": "日常的な片付け作業自体を不要にするために、ミニマリストの視点から効果的に物を手放して暮らしを簡素化する断捨離のやり方や意識の変え方についてまとめた記事。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "5ef6db0776a5ab47",
+   "url": "https://www.roomie.jp/2026/08/1874724",
+   "title_original": "何回洗濯しても色落ちしない。ずっと新品みたいな究極の黒Tシャツ&ポロシャツを試してみた",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/blackshirt2.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-31T02:45:58+00:00",
+   "title_ja": "100回洗濯しても色褪せにくい黒Tシャツとポロシャツを着用検証した話",
+   "summary_ja": "夏の定番である黒のTシャツとポロシャツについて、100回洗濯しても色落ちしにくいとされる「原着半袖黒Tシャツ&ポロシャツ」を実際に着用して試したレビュー。繰り返しの洗濯や日差しによる色褪せを防ぎ、長く愛用できる服選びのヒントを伝えている。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "黒Tシャツ",
+    "ポロシャツ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "536f0ee1ff59da87",
+   "url": "https://note.com/motokihikaru/n/n56b80c2b574a",
+   "title_original": "貯金できない・家計が苦しい…を変える7ステップ｜ミニマリスト式「節約×主婦の副業」でお金の不安を減らす方法",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/308768092/rectangle_large_type_2_f29220cdf6bb6ccb20fc6a7760dd7a72.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-31T02:31:17+00:00",
+   "title_ja": "ミニマリストの考え方を活かしてお金の不安を減らす家計見直し7ステップ",
+   "summary_ja": "節約しているのにお金が残らない悩みを解決するため、ミニマリストの思考を取り入れた「節約×副業」の7ステップを提案する記事。無駄な出費を減らし、お金の不安を根本から解消していく手順と実用的な考え方を解説している。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "5d7e365f9ee32aa3",
+   "url": "https://www.lifehacker.jp/article/2608-lht-amazfit-active2",
+   "title_original": "デザイン・性能・コスパ◎なAmazfit Active 2使って2ヵ月。走るモチベ爆上がり！",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2025/09/25/a3885b91-eacb-4786-bba4-427e9c0229b0/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-31T02:30:00+00:00",
+   "title_ja": "スマートウォッチAmazfit Activeを2カ月使った感想と魅力",
+   "summary_ja": "運動や健康トラッキング機能を備えた「Amazfit Active」を2カ月使用したレビュー。バッテリーやデザイン性を評価し、Apple WatchやFitbitと比較しながら、コストパフォーマンスに優れたスマートウォッチの使い心地を報告している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "Amazfit Active",
+    "Apple Watch",
+    "Fitbit",
+    "スマートウォッチ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "33b5ed97002af907",
+   "url": "https://note.com/novel_auklet8496/n/n64bff8321232",
+   "title_original": "「収納グッズ」を買う前に、やってほしいこと",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/308767711/rectangle_large_type_2_5b2cdbb87440bc7560ec93ebce45c86a.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-31T02:27:44+00:00",
+   "title_ja": "片付けを始めるときに収納グッズを買う前に行うべきアプローチ",
+   "summary_ja": "部屋を片付けようと考えた際に、まず収納ケースなどを購入するのではなく、事前に実践すべき手順や考え方を解説する記事。安易にモノを増やさず、整理整頓をスムーズに進めるための準備段階の重要性を伝えている。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "収納グッズ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5e689a938ddd133d",
+   "url": "https://www.lifehacker.jp/article/gizmodo-keychron-g6-he-for-work",
+   "title_original": "ゲーミングマウスなのに仕事したくなる。46gの軽さに夢中です",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/18/bf579893-ac11-4df8-8772-d8665f8730e9/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-31T01:30:00+00:00",
+   "title_ja": "超軽量なゲーミングマウスを仕事用のモバイルマウスとして使う話",
+   "summary_ja": "46gという圧倒的な軽さを誇るゲーミングマウス「Keychron G6 HE」のレビュー。クリック調整機能を備え、ビジネスやクリエイティブ作業でも「究極のモバイルマウス」として活躍する魅力や、多機能マウスとの使い分け方を提案している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "Keychron G6 HE"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b33225c7fc8b406b",
+   "url": "https://www.roomie.jp/2026/08/1874716",
+   "title_original": "小走りでもバッグが背中にしっかりフィット。軽さと強度を誇るX-Pac素材のスリングバッグ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/xpac2.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-31T00:45:04+00:00",
+   "title_ja": "オンオフ問わず同じバッグを愛用したい人のためのスリングバッグ",
+   "summary_ja": "平日の書類やタブレットから休日のカメラまで、荷物が変わっても同じバッグを使い続けたい人に向けて、TRIDEALの「TOUGH SLING MULTI BAG X-Pac」を紹介。軽さと強度を兼ね備え、小走りでも背中にフィットする機能性を備えている。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "タブレット",
+    "カメラ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "1bbe11052cd0c61f",
+   "url": "https://minimalist-fudeko.com/giving-in-not-giving-up",
+   "title_original": "抵抗するのをやめると、次の道が見えてくる。全身15か所を骨折した人の3段階（TED）",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/08/revive.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-31T00:10:51+00:00",
+   "title_ja": "現実への抵抗をやめて次の道を見つける方法を語るTEDトーク",
+   "summary_ja": "病気や失敗など、思い通りにならない現実にもがいて疲れている人に向けたTEDトークを紹介。現状に抗うのをやめて受け入れることで、諦めることなく次の新しい道を見出すための考え方を語っている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "a61da02bdd38e055",
+   "url": "https://note.com/moral_duck7783/n/n7a6749d01429",
+   "title_original": "毎朝服を選んでる人、まだそれやってるの？ 10年ほぼ同じ服で生きてわかったこと",
+   "source": "note #持たない暮らし",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/bffef5f622a5ead881df36781744c5fc1778cc53.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-31T00:04:19+00:00",
+   "title_ja": "朝の服選びをやめて10年間ほぼ同じ服で過ごした人の体験談",
+   "summary_ja": "服を選ぶ作業が苦手な著者が、10年間にわたりほぼ同じ服を着続けて得られた気づきを紹介する。毎朝の服選びという手間を手放すことで、暮らしにどのような変化が訪れたのか、持たない暮らしの視点からそのメリットを綴っている。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "0ceed7dccce4b80f",
+   "url": "https://note.com/yusuke_muji/n/n235974c80308",
+   "title_original": "重たいものを持たずに生きる",
+   "source": "note #持たない暮らし",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/dc73b5e57122a274d9feaeffc37814b2572daa41.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-30T22:32:34+00:00",
+   "title_ja": "8畳ワンルームで収納ケースを使わず軽やかに暮らす人の話",
+   "summary_ja": "唯一のクローゼットに収納ケースを置かず、服を2パターンのみで着回す暮らしを紹介する。ストックや季節物はバッグにまとめてフックで掛けるだけ。管理の面倒を減らし、災害などのリスクに備えて「重たいものを持たない」という著者の生き方を綴っている。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "服",
+    "Tシャツ",
+    "バッグ",
+    "フック"
+   ],
+   "importance": 5
+  },
+  {
+   "id": "55bb54791c764a33",
+   "url": "https://mshale.com/6d8d02c1/0d42a205SZUKlDjG5LA",
+   "title_original": "【Vlog】派遣社員ミニマリストの平日3日間節約ルーティン | 25歳ミニマリスト Matthew Schaefer Mom (Qj9W628aIl)",
+   "source": "Mshale",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-30T22:20:15+00:00",
+   "title_ja": "25歳の派遣社員ミニマリストによる平日の節約ルーティン",
+   "summary_ja": "派遣社員として働く25歳のミニマリストが、平日3日間の節約ルーティンを紹介する動画。物を少なく保ちながら、無駄な支出を抑えてシンプルに暮らすための工夫や日々の習慣を垣間見ることができる。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "6a96938ab4832a6a",
+   "url": "https://note.com/walunba/n/n72dd611db8b0",
+   "title_original": "軽いスマホが僕にとっての正解だった話",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/308709254/rectangle_large_type_2_9efe9df933e60265979f45ed00f58dce.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-30T22:18:02+00:00",
+   "title_ja": "軽いスマートフォンに買い替えて気づいた正解の選び方",
+   "summary_ja": "スマートフォンを新しく買い替えたことで、自分にとって本当に必要な選び方や軽さの価値に気づいた体験を振り返る。日常で使う道具の見直しについて綴っています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "スマートフォン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "29b8a169d800e53d",
+   "url": "https://note.com/eridesign8/n/n736391ea2639",
+   "title_original": "【月報：2026.8】早期退職までの距離Vol.3",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/308704541/rectangle_large_type_2_8559a038af41fbae22c55da0059f131e.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-08-30T21:59:46+00:00",
+   "title_ja": "早期退職に向けた8月の月報：内面と思考の変化",
+   "summary_ja": "誕生月を迎えた8月に、自分自身の内面や思考に大きな変化が訪れたことを振り返る月報。少し先の未来の解像度が上がってきた実感や、暮らしへの向き合い方について書いています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
   {
    "id": "62c34bbce1fba70b",
    "url": "https://note.com/white_world2026/n/n62bf5d660f8b",
@@ -413,6 +747,22 @@
     "赤ちゃん用品"
    ],
    "importance": 4
+  },
+  {
+   "id": "6906fbbc0760c677",
+   "url": "https://www.scmp.com/posties/kids/big-read/article/3364670/how-manage-mess-tidying-expert",
+   "title_original": "How to manage mess, from a tidying expert",
+   "source": "South China Morning Post",
+   "image": "https://static.youngpostclub.com/article_image/sites/default/files/d8/images/canvas/2026/08/20/ee2c1083-d1f8-4c12-86aa-fb8189a2ee07_80ca3a82.jpg?image_process=crop,x_0,y_109,w_4096,h_2303",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-08-30T17:00:00+00:00",
+   "title_ja": "片付けの専門家に学ぶ、散らかった部屋の管理方法",
+   "summary_ja": "片付けの専門家が語る、散らかった部屋やモノをうまく管理するためのコツについて解説しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
   },
   {
    "id": "afffae20954cc784",
@@ -890,6 +1240,22 @@
    "things": [
     "アルミ鋳物製解凍できるグリルプレート"
    ],
+   "importance": 3
+  },
+  {
+   "id": "4a280800ee510d13",
+   "url": "https://mshale.com/be7119dc/9630ffd58RIoOhJ94Kk",
+   "title_original": "【節約ミニマリスト】お金持ちの家がシンプルな理由。真似できる暮らしの習慣44選 Paul George (Z8P1k5VPsF)",
+   "source": "Mshale",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-08-30T10:12:29+00:00",
+   "title_ja": "お金持ちの家がシンプルである理由と暮らしの習慣",
+   "summary_ja": "お金持ちの家がシンプルである理由や、真似できる暮らしの習慣について解説している記事。生活を整えるための考え方やヒントがまとめられている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -6854,372 +7220,6 @@
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
-   "importance": 3
-  },
-  {
-   "id": "4c44c81c0855640e",
-   "url": "https://www.lifehacker.jp/article/amazon-elecom-eggmouse-2608",
-   "title_original": "ガジェット感にバイバイ。エレコムの新作「EGG MOUSE」はカバーをお着替え",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/07/27/f5f9fe01-7e1e-4a98-adf5-3b0b57c5f656/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-21T23:00:00+00:00",
-   "title_ja": "ガジェット感をなくすシリコンカバー付きマウス",
-   "summary_ja": "マウスの無機質なガジェット感をそぎ落としたい人向けに、シリコンカバーを着せ替えて使えるおしゃれなマウスを紹介している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "EGG MOUSE"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "0c32308c1f988a32",
-   "url": "https://www.chiba-tv.com/plus/detail/2026081926668",
-   "title_original": "収納＆断捨離もしてるのに→家が片づかない〈本当の原因〉は？【片づけマンガ#4】",
-   "source": "千葉テレビ放送",
-   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1463666600967144871/origin_1.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-21T22:48:48+00:00",
-   "title_ja": "収納や断捨離をしても家が片づかない本当の原因",
-   "summary_ja": "収納や断捨離をしているにもかかわらず、家がなかなか片づかないことに対する本当の原因に迫る片づけマンガ。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "f9346ffb9a455842",
-   "url": "https://cnaluxury.channelnewsasia.com/people/decluttering-letting-go-295116",
-   "title_original": "Why is it so hard to let go of the things we own?",
-   "source": "CNA Luxury",
-   "image": "https://dam.mediacorp.sg/image/upload/s--eW_wp4Tz--/c_crop,h_712,w_1265,x_1,y_5/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/20/decluttering-letting-go.jpg?itok=Z_-WPiYt",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-21T22:20:00+00:00",
-   "title_ja": "私たちが自分の持ち物を手放すのが難しい理由",
-   "summary_ja": "私たちが自分が所有している物に対して、なぜ手放すことがこれほどまでに難しいのかを考察する海外記事。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "d839552cefd050aa",
-   "url": "https://www.youtube.com/shorts/wiAKyf3Elrw",
-   "title_original": "異常と言われたミニマリストのキッチン•シングルマザー小さな暮らし",
-   "source": "小さな暮らしノート",
-   "image": "https://i4.ytimg.com/vi/wiAKyf3Elrw/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-08-21T22:02:45+00:00",
-   "title_ja": "ミニマリストのキッチンにある持ち物のまとめ",
-   "summary_ja": "シングルマザーのミニマリストが、調味料や洗剤のストック、食器類、キッチン用品までキッチンにある全てのものをまとめて紹介している。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "調味料",
-    "洗剤",
-    "食器",
-    "キッチン用品"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "ef9e0bff77fb9f0f",
-   "url": "https://bemorewithless.com/weekend-favorites-august-22-2026/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
-   "title_original": "new clutter research + how to enjoy a French Sunday",
-   "source": "Be More with Less",
-   "image": "https://bemorewithless.com/wp-content/uploads/2026/08/CLUTTER-RESEARCH-image.png",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-08-21T21:40:51+00:00",
-   "title_ja": "自分の時間と社会とのつながりを大切にする週末の過ごし方",
-   "summary_ja": "自分一人のための保護された時間を作ることで、社会やコミュニティとのつながりにより良く向き合えるという考え方を紹介しています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "f21945b47a855d10",
-   "url": "https://note.com/iehanote/n/ne77f8efd0229",
-   "title_original": "ハンガーの余白が、服の量の目安に",
-   "source": "note #少ない服で暮らす",
-   "image": "https://assets.st-note.com/img/1787340829-q4kyTrxa1ido9HgQjbhfnvJU.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-21T19:40:38+00:00",
-   "title_ja": "ハンガーの間隔をあけて服の量を管理するクローゼットのルール",
-   "summary_ja": "かつては服が多くぎゅうぎゅうだったクローゼットをすっきり保つため、ハンガーの間に余白を持たせて適正量を維持する工夫を紹介しています。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "ハンガー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "acd069bacd1f62da",
-   "url": "https://www.southernliving.com/how-to-organize-paper-clutter-12026544",
-   "title_original": "5 Simple Ways To Finally Get Paper Clutter Under Control",
-   "source": "Southern Living",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-21T19:25:00+00:00",
-   "title_ja": "紙の散らかりを整理するための5つの簡単な方法",
-   "summary_ja": "家に溜まりがちな紙類の clutter（散らかり）をコントロールし、スッキリと片付けるための5つのシンプルな方法について解説しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "41c8ab21173d7202",
-   "url": "https://www.chiba-tv.com/plus/detail/2026081926376",
-   "title_original": "夏服の整理は今がチャンス！衣替え前の「クローゼット断捨離」3選",
-   "source": "千葉テレビ放送",
-   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1463609693575071563/origin_1.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-21T19:02:29+00:00",
-   "title_ja": "夏服の整理は今がチャンス！衣替え前のクローゼット断捨離3選",
-   "summary_ja": "衣替えの時期に向けて、夏服をスムーズに整理整頓しクローゼットをすっきりさせるための3つの断捨離のコツを紹介しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "f11265dc4993c59b",
-   "url": "https://note.com/vast_dill6927/n/n15254163fedd",
-   "title_original": "やる気はあるのに片付かない！あなたの「つまずきポイント」を星から診断",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/305740390/rectangle_large_type_2_3ebe3f64434c3fb9cf430407324cd9ac.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-21T16:07:40+00:00",
-   "title_ja": "星占いから自分の散らかり癖と対策を見つける方法",
-   "summary_ja": "片付けても部屋が元に戻ってしまう原因を、星占いのタイプ別に診断して対策を考える記事です。自分を責めずに片付けられない理由を分析し、行動を変えるヒントを紹介しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "4ddee15bfc0ffc3e",
-   "url": "https://lee.hpplus.jp/100nintai/3694814",
-   "title_original": "帰省中止の夏！心機一転、クローゼットを大断捨離しました",
-   "source": "lee.hpplus.jp",
-   "image": "https://lee.hpplus.jp/wp-content/uploads/2026/08/08/IMG_2470-scaled-e1786225632743.jpeg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-21T15:46:38+00:00",
-   "title_ja": "帰省中止を機にクローゼットの服を大規模に断捨離した話",
-   "summary_ja": "帰省がなくなった夏に気持ちを切り替えて、クローゼットの中にある洋服を大きく整理して手放した体験について綴られています。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "洋服"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "adec6609758f7170",
-   "url": "https://note.com/00090/n/n8e9590d2b1cb",
-   "title_original": "メモアプリから紙とペンに戻った理由",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/305726611/rectangle_large_type_2_c7375316576efa3df09a710da4763800.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-21T14:55:26+00:00",
-   "title_ja": "スマホのメモアプリから紙とペンへ戻った理由",
-   "summary_ja": "効率化を求めてiPhoneのメモアプリにしたものの、マインドマップの作りづらさや殴り書きのリズムの合わなさを感じ、再び紙とペンを使うようになった理由を語っています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "iPhone",
-    "メモアプリ",
-    "紙",
-    "ペン"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "c1e7ad343e00db05",
-   "url": "https://www.housebeautiful.com/lifestyle/organizing-tips/a73494593/boomer-junk-decluttering-tips",
-   "title_original": "5 Expert-Approved Ways to Sort Through Your Family’s “Boomer Junk” Without Any Drama",
-   "source": "House Beautiful",
-   "image": "https://hips.hearstapps.com/hmg-prod/images/attic-loft-crawl-space-royalty-free-image-1731005310.jpg?crop=0.849xw:0.637xh;0.078xw,0.363xh&resize=1200:*",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-21T14:06:54+00:00",
-   "title_ja": "家族の古い荷物をトラブルなく整理するコツ",
-   "summary_ja": "家族の大量の古い荷物を、不要なドラマやトラブルを起こさずにスムーズに整理するための専門家の方法を紹介しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "b047e8b21468534a",
-   "url": "https://www.youtube.com/watch?v=DnA50U0w4YE",
-   "title_original": "Minimalism In 300 sq ft *family of 7*",
-   "source": "Sarah Therese",
-   "image": "https://i1.ytimg.com/vi/DnA50U0w4YE/hqdefault.jpg",
-   "media": "youtube",
-   "region": "海外",
-   "published": "2026-08-21T14:00:16+00:00",
-   "title_ja": "7人家族が約28平米の広さで実践するミニマリズム",
-   "summary_ja": "300平方フィート（約28平米）という限られたスペースにおいて、7人家族でミニマリズムを実践しながら暮らす様子を紹介する動画です。狭い空間で家族全員が快適に暮らすためのアイデアや工夫が語られています。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "7da926e4c6f63ffc",
-   "url": "https://mshale.com/ce0590fd/18f2c5b3z6eac88Gcao",
-   "title_original": "【断捨離】意を決してクローゼットの中身整理します！！ Rasmus Dahlin (QQYqRaVNOG)",
-   "source": "Mshale",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-21T13:00:30+00:00",
-   "title_ja": "クローゼットの中身を整理する断捨離",
-   "summary_ja": "クローゼットの中身を整理するために、意を決して断捨離に取り組む様子を伝えています。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "6c7920c8ef021a8a",
-   "url": "https://note.com/moral_worm1228/n/nde671bd5b792",
-   "title_original": "物にも、消費期限がある",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/305690570/rectangle_large_type_2_dda6ed6938b9e7c60811cea982179904.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-21T12:50:40+00:00",
-   "title_ja": "「物にも消費期限がある」と考えおもちゃやメモ帳を手放した話",
-   "summary_ja": "お盆休みに一度も使わなかった子供のおもちゃを断捨離した体験。かつて大切にしていたクリスマスプレゼントや、勿体なくて使えなかったメモ帳も、時間が経つと「旬」が過ぎてしまう。物には消費期限があると考え、使わなくなったら埃をかぶる前に手放す大切さを綴っている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "おもちゃ",
-    "メモ帳"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "5927c5c06068f711",
-   "url": "https://note.com/light_jacana444/n/nec4866945623",
-   "title_original": "猛暑を心地よく乗り切る。夏の暮らしと心を整える「5つの愛用品」",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/305680592/rectangle_large_type_2_3d1621105b6f4867ee8935a866eab9a3.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-21T12:46:57+00:00",
-   "title_ja": "猛暑を心地よく乗り切るために夏の愛用品を整えた人の話",
-   "summary_ja": "連日の厳しい猛暑を自宅や外出先で心地よく過ごすために、夏の暮らしと心を整えてくれる5つの愛用品を紹介する記事。暑さをただ耐えるのではなく、快適に過ごすための視点を持つことで、夏の思い出を心地よいものに変えていく工夫を提案している。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "66cc06b6b3885edb",
-   "url": "https://note.com/sinajyo_20240501/n/n51e6d92c7a79",
-   "title_original": "断捨離を決意した日",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/305686471/rectangle_large_type_2_82ec9ee3e482d2261ecb94b7b0a7308f.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-21T12:42:13+00:00",
-   "title_ja": "忙しい日々の中で断捨離を決意した人の話",
-   "summary_ja": "夜遅くに戻り、疲れ果てて寝落ちしてしまった同居人の姿をきっかけに、暮らしを見直して断捨離を決意した日の出来事を綴っている。多忙な日常の中で、生活や持ち物のあり方を整理し、暮らしを整えようと考えた瞬間を描く。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "ドライヤー"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "e644729541d50a69",
-   "url": "https://www.realsimple.com/spots-you-can-declutter-in-10-minutes-or-less-12061932",
-   "title_original": "6 Spots You Can Declutter in 10 Minutes or Less",
-   "source": "Real Simple",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-21T12:40:00+00:00",
-   "title_ja": "10分以内の短い時間で片付けられる6つの場所を紹介する記事",
-   "summary_ja": "10分以下の短い時間で片付けや断捨離を行うことができる6つの場所を紹介する記事。まとまった時間が取れなくても、日常のわずかな隙間時間を使って効率よく身の回りを整理整頓するための具体的なスポットを提案している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "09f280ff2a63c79b",
-   "url": "https://note.com/vivid_liger8183/n/n9469791797ee",
-   "title_original": "ラストエンペラーと則天武后の戦い Vol.1：布団集めの宣戦布告",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/305651005/rectangle_large_type_2_ad8ba59723873564ed1b27653595006b.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-21T12:01:30+00:00",
-   "title_ja": "雪国の大家族が押し入れや空き家の大量の布団を見直した話",
-   "summary_ja": "スキー客用などとして使われていた大量の布団を片付けるため、家中の布団を集めて現状を把握した。離れの部屋や隣の空き家にも眠っていることが発覚し、限界を感じて見直しに踏み切った。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "布団"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2ad5eb08564bf6f2",
-   "url": "https://www.roomie.jp/2026/08/1865153",
-   "title_original": "作業中、ついスマホを手に取ってしまう…。透明ボディの「360度回転リング」で集中が途切れにくくなった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/20260818-g09-15_02.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-21T12:00:32+00:00",
-   "title_ja": "スマホの定位置問題を透明な回転リングで解決した人の話",
-   "summary_ja": "ノートPC作業時のスマホの置き場所を改善するため、マグネット両面搭載の透明なスマホリングとスタンドを導入した。机上の窮屈さを解消し、作業中にスマホを手に取ってしまう頻度が減った。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "iPhone",
-    "スマホリング",
-    "ノートPC"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "e7559417524977d6",
-   "url": "https://note.com/m_yama_moto/n/n87db8f6e3c26",
-   "title_original": "断捨離は突然に",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/305667081/rectangle_large_type_2_aec1a75659755abd8e30a19b52b09327.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-21T11:36:36+00:00",
-   "title_ja": "前回の断捨離で残した物や大量の本を手放した人の話",
-   "summary_ja": "作品の荷解きと片付けを機に、以前は捨てないと選択した不用品や大学時代の写真関連の本、文庫本などをまとめて廃棄した。もう捨てるものがないと思っていた状態から、改めて見直すことで多くの不用品を手放した。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "本",
-    "段ボール"
-   ],
    "importance": 3
   }
  ]
