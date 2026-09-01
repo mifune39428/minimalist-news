@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-02T01:17:59.830844+09:00",
+ "updated_at": "2026-09-02T05:46:37.735790+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -144,10 +144,6 @@
    "count": 2
   },
   {
-   "name": "夏服",
-   "count": 2
-  },
-  {
    "name": "思い出の品",
    "count": 2
   },
@@ -186,10 +182,15 @@
   {
    "name": "鞄",
    "count": 2
+  },
+  {
+   "name": "高圧洗浄機",
+   "count": 2
   }
  ],
  "sources": [
   "1819 News",
+  "9News",
   "A Slob Comes Clean",
   "AOL.ca",
   "AllEars.Net",
@@ -240,11 +241,13 @@
   "Yahoo Creators",
   "Yahoo Life UK",
   "Yahoo Lifestyle Australia",
+  "Yahoo Lifestyle Canada",
   "Yahoo Lifestyle Singapore",
   "Yahoo!ニュース",
   "YouTube",
   "ZUU online",
   "au Webポータル",
+  "emogram",
   "fashionsnap.com",
   "freeyork",
   "lee.hpplus.jp",
@@ -281,6 +284,161 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "9bdc94bb0b0ea9d8",
+   "url": "https://note.com/metastyle/n/n5e6df67590eb",
+   "title_original": "タイガー魔法瓶 TIGER COOKPOT COK-N220KMは、調理家電を一台へまとめる",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/309040738/rectangle_large_type_2_9627f3a09aa84c0bcf0ed9b02b902c25.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-01T20:34:00+00:00",
+   "title_ja": "調理家電を一台にまとめられるタイガーの魔法瓶",
+   "summary_ja": "炊飯器や鍋、低温調理器など、用途ごとに増えがちなキッチンの調理家電。同時に使うことが少ないため、一台にまとめるアイテムとしてタイガー魔法瓶のCOOKPOTが紹介されています。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "タイガー魔法瓶 TIGER COOKPOT",
+    "炊飯器",
+    "鍋",
+    "低温調理器"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ae41fc04f6502269",
+   "url": "https://www.realsimple.com/things-to-toss-over-labor-day-weekend-12060288",
+   "title_original": "7 Things to Toss Over Labor Day Weekend for a Cleaner, Less Cluttered Home by Tuesday",
+   "source": "Real Simple",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-01T20:30:00+00:00",
+   "title_ja": "週末の連休ですっきりと片づけるための7つの手放し対象",
+   "summary_ja": "家の中をより清潔で散らからない状態にするために、連休の週末を使って見直し、手放すべき7つのアイテムについて解説している記事です。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "93260e071c6d0681",
+   "url": "https://note.com/shige_notes/n/n93fb5af16e0f",
+   "title_original": "📚 断捨離で見つけた、真っ白な一冊",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/309124561/rectangle_large_type_2_baadf7d781759e44e36cc3732fe57fc5.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-01T20:04:47+00:00",
+   "title_ja": "断捨離の途中で手が止まったときに出会った一冊",
+   "summary_ja": "片づけや断捨離を進めている最中に手が止まってしまった体験と、その中で見つけた思い出の品や一冊の本についての気づきが綴られています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "d4c453f4bbc394ef",
+   "url": "https://note.com/majestic_msw2097/n/n80928fc6c0b9",
+   "title_original": "人生を変えたいなら、まず不要なものを減らそう《Core Philosophy④》",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/308346095/rectangle_large_type_2_ba8968ca85058cb1e1e2412372faf770.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-01T20:00:05+00:00",
+   "title_ja": "人生を変えるためにまず不要なものを減らす考え方",
+   "summary_ja": "人生を変化させたいと考えたときに、最初に行うべき行動として不要なものを手放し、持ち物を減らすことの重要性と基本的な哲学について触れています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "f3381048c0bc68a3",
+   "url": "https://www.9news.com/video/entertainment/television/programs/colorado-and-company/declutter-your-life-with-help-from-clean-slate-junk-removal/73-7c2f4613-27c3-4a6a-b015-ed7bf491375d",
+   "title_original": "Declutter Your Life with Help from Clean Slate Junk Removal",
+   "source": "9News",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-01T17:46:00+00:00",
+   "title_ja": "不用品回収サービスを活用して家を片づける方法",
+   "summary_ja": "不用品回収サービスなどのプロのサポートを得ることで、家の中にある不要なものを一気に処分し、暮らしをシンプルに整える方法を提案する海外のニュース記事。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "7690e3e521f2787f",
+   "url": "https://emogram.sankei.com/107811/photo/107857",
+   "title_original": "古着好きの菅田将暉がセカスト新CM出演 後輩集めた断捨離バザー裏話明かすの写真（8）",
+   "source": "emogram",
+   "image": "https://emogram.sankei.com/wp-content/uploads/2026/08/1580fe8b9fd86c28ca93d5d6dbb9ff0f-1024x576.jpeg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-01T17:06:46+00:00",
+   "title_ja": "菅田将暉さんが後輩を集めて開催した断捨離バザーの話",
+   "summary_ja": "古着好きとして知られる俳優の菅田将暉さんが、セカンドストリートの新CM出演に伴い、自身の持ち物を整理するために後輩たちを集めて開催したという断捨離バザーの裏話を明かしたニュース。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "古着"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "9bdaf851cb044c73",
+   "url": "https://note.com/kaitoritaro/n/n0eea5910c0e8",
+   "title_original": "粗大ゴミ代をかなり安くする方法: 写真を撮ってAIに聞くだけ！処分費が半額以下になる現場の裏ワザ",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/309360265/rectangle_large_type_2_e83f9bf9d11ea13dfdc26a05f7cb400d.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-01T16:53:54+00:00",
+   "title_ja": "写真を撮ってAIに聞くだけで粗大ゴミ代を安くする裏ワザ",
+   "summary_ja": "処分したい粗大ゴミの写真を撮影し、AIに質問することで、処分費用を半額以下に抑えるための現場の裏ワザを紹介したブログ記事。お得に不要なものを手放したい人向けに、具体的な処分ノウハウを解説している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "a4a749c99fd4796c",
+   "url": "https://ca.style.yahoo.com/if-you-have-any-of-these-7-things-in-your-bathroom-a-cleaning-expert-says-you-should-ditch-them-immediately-160057171.html",
+   "title_original": "If you have any of these 7 things in your bathroom, a cleaning expert says you should ditch them immediately",
+   "source": "Yahoo Lifestyle Canada",
+   "image": "https://s.yimg.com/lo/mysterio/api/99d647e32204c33c91708d5caebe36e9321952e7aee3dd2d74dd3d2a47688958/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-02%2F77bd6ce0-1453-11f1-ab8f-18102e5fdd0a",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-01T16:46:12+00:00",
+   "title_ja": "洗面所にあるべきではない7つの物",
+   "summary_ja": "洗面所に置いてある特定の物をすぐに手放すべきだという、専門家の意見を紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "25ae7b231a5567ce",
+   "url": "https://note.com/tasty_echium506/n/n2c1b1254ed38",
+   "title_original": "収納グッズを「すぐ買わない」ルールにしたら、無駄買いがほぼゼロになった話",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/309358286/rectangle_large_type_2_3001274a181d1dee7d3d5c9fe26b07bb.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-01T16:36:56+00:00",
+   "title_ja": "収納グッズをすぐ買わないルールにした話",
+   "summary_ja": "収納用品の買いすぎでスペースが圧迫されていた失敗から、まずは今あるもので仮運用するルールへ変更。無駄な買い物をゼロにした体験談です。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "ファイルケース",
+    "バスケット",
+    "収納ボックス"
+   ],
+   "importance": 4
+  },
   {
    "id": "196cd1520c1f72d5",
    "url": "https://www.goodhousekeeping.com/uk/lifestyle/a73580902/time-audit-declutter",
@@ -400,6 +558,42 @@
     "Magic Trackpad",
     "充電池",
     "ワイヤレスキーボード"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "a3bd455e28ad10d3",
+   "url": "https://www.lifehacker.jp/article/2609-lht-camp-goods",
+   "title_original": "断水＆停電にも対応。軽量で持ち運びやすい「もしものとき」に頼れるキャンプギア5選",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/09/01/7fa3f4e0-ea39-46f0-a42d-3e61c7a116df/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-01T13:15:00+00:00",
+   "title_ja": "災害時にも役立つ、持ち運びやすいキャンプギア5選",
+   "summary_ja": "コンパクトで軽量な仕様に加え、災害時などの万が一の際にも頼りになるキャンプグッズを厳選して紹介している。普段使いから非常時まで幅広く活用できる道具の数々がまとめられている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "キャンプギア"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "df3e8943916a441b",
+   "url": "https://www.lifehacker.jp/article/2608-turned-off-4-google-photos-features-took-back-control-of-storage",
+   "title_original": "課金する前に試して！Googleフォトの「ストレージ不足」を解消した方法5選",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/09/01/76b94d50-d69b-4967-a333-78df1c8819e5/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-01T12:45:00+00:00",
+   "title_ja": "Googleフォトのストレージ不足を解消する方法5選",
+   "summary_ja": "有料プランに課金する前に試したい、Googleフォトの容量を節約する5つの裏ワザを紹介。自動同期の見直しや日々の整理術でクラウド上のデータをすっきりと軽くする方法を解説している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "Googleフォト"
    ],
    "importance": 3
   },
@@ -7039,198 +7233,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 2
-  },
-  {
-   "id": "e8bac2a3ca77abea",
-   "url": "https://www.thespruce.com/things-minimalists-throw-out-at-end-of-summer-12033106",
-   "title_original": "We Asked Cleaning Pros What Minimalists Throw Out at the End of Summer and They Named These 6 Things",
-   "source": "The Spruce",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-23T12:43:00+00:00",
-   "title_ja": "ミニマリストが夏の終わりに手放す6つの物",
-   "summary_ja": "片付けのプロが挙げる、ミニマリストが夏の終わりに手放している具体的な6つの物についての記事です。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "0703205f52e60763",
-   "url": "https://news.yahoo.co.jp/articles/5221a0b7f26987abb2dca1f42a5afd1db4a59278/images/000",
-   "title_original": "60代ミニマリストは夏服「9着」で暮らす。買うのは定番品のみ、衣替えはほとんどしない (ESSE-online)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3h9uiCojScY7SLYgxmEygY2p2Lp9y7e5YtBmjFWOL_y6zOP1ivNq9xT-iiAs4hvx60tR9DMHrWXkWcQmiFudh2PSMwTFTrltGssXPe2ZrPwVikgLx13VWSZLv8wWUx4_2",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-23T12:34:35+00:00",
-   "title_ja": "60代ミニマリストが夏服9着で過ごすワードローブ",
-   "summary_ja": "60代のミニマリストが夏服を9着に絞って暮らす実例です。買い替える際も定番品のみを選び、衣替えの手間を減らしてシンプルに衣類を管理する暮らし方が紹介されています。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "夏服"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "6b798eac05d5d503",
-   "url": "https://news.livedoor.com/topics/detail/32138974",
-   "title_original": "捨ては度胸！ミニマリストが実践する「捨てふんぎり」のつけ方 (2026年8月23日掲載)",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-23T12:30:10+00:00",
-   "title_ja": "ミニマリストが教える物を手放す決断のつけ方",
-   "summary_ja": "不要な物を捨てる際のためらいを打ち消し、思い切って手放すための心得についての記事です。ミニマリストが実際に取り入れている「捨てふんぎり」をつけるための具体的なアドバイスが紹介されています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "58fe0a936e262290",
-   "url": "https://note.com/human_ivy8555/n/n3136ce4ba427",
-   "title_original": "夫も捨て始めた！",
-   "source": "note #断捨離",
-   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/df6938a8272d274da78a6ee410cd352a4e0aebbc.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-23T12:23:38+00:00",
-   "title_ja": "夫も片づけを開始！1000個を目指す捨て・拭く活の実践記",
-   "summary_ja": "モノを減らして掃除するチャレンジの5日目を迎えた記録。トイレや玄関、炊飯器やオーブントースターの下などの拭き掃除を徹底的に行い、その姿に影響された夫も不用品を捨て始めた様子を報告している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "炊飯器",
-    "オーブントースター",
-    "ガスコンロ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "e4e56a6ac65dac8f",
-   "url": "https://note.com/noted_agapan1809/n/nedfc623cf21e",
-   "title_original": "ミニマリストを挫折する、よくある理由",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/293041392/rectangle_large_type_2_ad7aed7e56a2e5592a5f6ef3b4be1a80.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-23T12:09:02+00:00",
-   "title_ja": "ミニマリストを目指す人が途中で挫折してしまう理由",
-   "summary_ja": "シンプルで物を持たない暮らしに憧れてミニマリストを目指すものの、途中で諦めてしまう人が多い理由を分析。挫折しやすい原因を理解することで、無理のないミニマリズムを続けるヒントを探る。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "be24be2f0b4c972e",
-   "url": "https://note.com/v_mogumogu_v/n/n23ddbc186b82",
-   "title_original": "買った時がピーク",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/306245909/rectangle_large_type_2_0bc29f1524f5e5639e913971d029fa5f.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-23T12:08:15+00:00",
-   "title_ja": "自由に使えるお金があった20代の買い物と断捨離の気づき",
-   "summary_ja": "独身で正社員だった20代の頃、自由に使えるお金があり買い物を楽しんでいた筆者が、物の価値は買った時がピークであると気づき、断捨離を進めるようになった体験談。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "57b58354f031133a",
-   "url": "https://www.roomie.jp/2026/08/1868778",
-   "title_original": "無印良品の仕分けケース、「筒形」を増やしてみたらリュックとの相性がいいことに気づいた",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/a92c5c0351eb4abfae063dd21bfc2688.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-23T12:00:02+00:00",
-   "title_ja": "リュックと相性が良い無印良品の筒形仕分けケースを使った感想",
-   "summary_ja": "無印良品の「ポリエステルたためる仕分けケース・筒形」を愛用する筆者のレビュー。定番の長方形とは異なる筒形の形状がリュックに収納しやすく、旅行や出張時の荷物の整理に役立つ魅力を紹介している。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "ポリエステルたためる仕分けケース・筒形",
-    "リュック"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "835876a86069f514",
-   "url": "https://news.livedoor.com/article/detail/32138812/?from_page=internal",
-   "title_original": "【実家の片付け】鍋・フライパンが41個！？母の思い出の品を全出しして進める断捨離の記録",
-   "source": "ライブドアニュース",
-   "image": "https://image.news.livedoor.com/newsimage/stf/5/d/5d130_1845_9b85b4e6_d30d6968.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-23T12:00:00+00:00",
-   "title_ja": "実家の片付けで鍋やフライパン41個を整理した断捨離の記録",
-   "summary_ja": "実家の片付けにおいて、41個もの大量の鍋やフライパンといった母親の思い出の品をすべて外に引っ張り出し、仕分けをしながら整理と断捨離を進めていく親子の片付けの記録。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "鍋",
-    "フライパン"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "d87d54ccb2accfb3",
-   "url": "https://note.com/muondeame026/n/n28051d1be1cd",
-   "title_original": "掃除にジワジワとハマる",
-   "source": "note #ミニマリスト",
-   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/e7400ac6bfa7337a9630fed4d0098cb56ba2862a.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-23T11:54:49+00:00",
-   "title_ja": "気持ちの切り替えに掃除や整理整頓を始めてハマった人の話",
-   "summary_ja": "気分の切り替えや暇つぶしとして、突然掃除や整理整頓を始めるようになった筆者の日常。一気に掃除機をかけた際にとてつもない快感を得たことをきっかけに、掃除の魅力に引き込まれていく様子を綴っている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "掃除機"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "0d06ecffd5fdb73b",
-   "url": "https://note.com/itoka_journal/n/n6f006737cb82",
-   "title_original": "整理収納アドバイザーの「腕が鳴る」とき",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/306323526/rectangle_large_type_2_7840884928ed4a31cceca3d67e07587f.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-23T11:52:34+00:00",
-   "title_ja": "夢の中でも片付けをする整理収納アドバイザーの日常",
-   "summary_ja": "夢の中でも片付けをしてしまうほど整理整頓への思いが強い整理収納アドバイザーの筆者が、片付けに対するモチベーションや、本を読んだことをきっかけにさらに高まる整理への意欲を綴った日常の記録。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "62bec6b8f3640743",
-   "url": "https://www.roomie.jp/2026/08/1867030",
-   "title_original": "スマホカメラを卒業。写真メインの私が、あえてソニーの初代「VLOGCAM ZV-1」を中古で買った理由",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/260820_sonyzv1_1.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-23T11:00:53+00:00",
-   "title_ja": "スマホを卒業し中古のVLOGCAM ZV-1を選んだ人の話",
-   "summary_ja": "一眼レフの重さとスマホカメラの画質に悩んでいた筆者が、コンパクトさと写真性能を兼ね備えたソニーの初代カメラを中古で購入した体験談。バッグに入れても負担にならないサイズ感で、自分にちょうどいい1台として愛用している様子が綴られている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "VLOGCAM ZV-1"
-   ],
-   "importance": 3
   }
  ]
 }
