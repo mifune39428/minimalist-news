@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-02T12:35:55.863048+09:00",
+ "updated_at": "2026-09-02T19:55:06.500392+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -36,12 +36,12 @@
    "count": 6
   },
   {
-   "name": "本",
+   "name": "バッグ",
    "count": 6
   },
   {
-   "name": "バッグ",
-   "count": 5
+   "name": "本",
+   "count": 6
   },
   {
    "name": "スマホ",
@@ -68,10 +68,6 @@
    "count": 3
   },
   {
-   "name": "ソファ",
-   "count": 3
-  },
-  {
    "name": "ノート",
    "count": 3
   },
@@ -81,6 +77,10 @@
   },
   {
    "name": "充電器",
+   "count": 3
+  },
+  {
+   "name": "夏服",
    "count": 3
   },
   {
@@ -104,15 +104,15 @@
    "count": 2
   },
   {
+   "name": "ソファ",
+   "count": 2
+  },
+  {
    "name": "タオル",
    "count": 2
   },
   {
    "name": "トランク",
-   "count": 2
-  },
-  {
-   "name": "ヘアピン",
    "count": 2
   },
   {
@@ -284,6 +284,96 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "ddc4da12d61d6e59",
+   "url": "https://note.com/moumou_moeko/n/naf6fe37f4a7c",
+   "title_original": "【2026年】ゆるミニマリストの夏服振り返り",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/307946292/rectangle_large_type_2_9f7e434957d453b79c4521364a414030.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-02T10:45:51+00:00",
+   "title_ja": "ゆるミニマリストによる夏服の振り返り",
+   "summary_ja": "ゆるミニマリストの著者が夏シーズンを振り返り、実際に着用していた夏服のラインナップや着こなしについて紹介している記事。夏服の持ち方の感想がまとめられている。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "夏服"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "2ef36cf9811bbc7a",
+   "url": "https://www.lifehacker.jp/article/2608-amazon-spicerrsju1-qoj",
+   "title_original": "小型ブロワーが家の掃除、アウトドア、洗車までマルチに活躍",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2025/04/15/de622429-de56-425b-a5a2-46bcadcbd48e/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-02T10:45:00+00:00",
+   "title_ja": "多用途で使えるポケットサイズのパワフルな小型ブロワー",
+   "summary_ja": "洗車後の水滴飛ばしや部屋のホコリ取り、アウトドアなど多目的に使えるSPICERRの「ポケッタブルジェットファン SJU-1」を紹介。ポケットに収まるコンパクトさでありながらパワフルな風速を備えている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "小型ブロワー",
+    "ポケッタブルジェットファン SJU-1"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "78362b64b3e5021b",
+   "url": "https://note.com/real40overs/n/n127b721d2d21",
+   "title_original": "100kg男の「バッグ・帽子」問題 ⑥持たない勇気",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/309584880/rectangle_large_type_2_2131350c6199f8e07950e3492d995fc8.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-02T10:39:24+00:00",
+   "title_ja": "100kgの男性がバッグや帽子を持たないと決めた理由",
+   "summary_ja": "体重100kgの著者が、バッグや帽子といったファッション小物をあえて「持たない」と決めた理由と戦略について語っている記事。持ち物を減らしてすっきり過ごすための考え方が示されている。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "バッグ",
+    "帽子"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "90703fa270ca8ddf",
+   "url": "https://note.com/humble_hebe2937/n/n1741fefe31a5",
+   "title_original": "『捨てたものより、得たもののほうが多かった。』― 断捨離が私にくれた5つの自由",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/309573118/rectangle_large_type_2_21207d7df8d024d509c23b1724efefeb.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-02T10:27:40+00:00",
+   "title_ja": "断捨離を通して不安や執着を手放し、心に余裕を持てた人の話",
+   "summary_ja": "部屋をきれいにするために断捨離を始めた結果、物だけでなく「いつか使うかも」という不安や過去への執着を手放すことができた。物を減らしたことでお金の使い方や時間の余裕が変わり、自分らしく暮らせるようになったという実体験を語っている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "d47e1b9c4643a092",
+   "url": "https://note.com/dandy_rose3734/n/n2838d7a21727",
+   "title_original": "たまには白で。",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/309588415/rectangle_large_type_2_37c5cde0706f6b21808615014fe59d4d.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-02T10:25:26+00:00",
+   "title_ja": "シンプルな夏服選びとして、白いアイテムを取り入れている話",
+   "summary_ja": "夏服をとてもシンプルにまとめている投稿。持ち物を絞り込んだワードローブの中で、白のアイテムを取り入れたコーディネートや工夫について短い文章で綴られている。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "夏服"
+   ],
+   "importance": 2
+  },
   {
    "id": "61a4b97baf1e54ec",
    "url": "https://www.lifehacker.jp/article/2609-obsidian-quick-note-shortcut-mobile",
@@ -7146,96 +7236,6 @@
    "category": "心・習慣",
    "axis": "reduce",
    "things": [],
-   "importance": 3
-  },
-  {
-   "id": "63ff7b94ccb82de7",
-   "url": "https://note.com/19235623note/n/ned113b863399",
-   "title_original": "決定疲労とハンドドリップ。",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/306125143/rectangle_large_type_2_8f460badf6c1ccef2886847d849848a4.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-23T21:30:00+00:00",
-   "title_ja": "決定疲労を減らすための工夫と持ち物の話",
-   "summary_ja": "選択肢を減らして決定疲労を防ぐ工夫や、3枚の白シャツで暮らす日常についての記録です。日々の選択をシンプルに整理することで、心にゆとりを持つ暮らし方の考え方が書かれています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "白シャツ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c75bf7afd4608e8e",
-   "url": "https://note.com/kaiyoru/n/n8df3608d729f",
-   "title_original": "40代、肩が重いお前へ。やめてよかったこと7選",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/306407699/rectangle_large_type_2_eec1b1c4278a6caf78b7aec7707b5102.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-23T18:08:31+00:00",
-   "title_ja": "40代の著者が肩の荷を下ろすために「やめてよかった」7つのこと",
-   "summary_ja": "40代になり生きづらさや重圧を感じていた著者が、気持ちや生活の負担を減らすために「やめてよかった」と感じた7つの習慣や行動について綴ったエッセイ。自分自身を見直し、無理を重ねない暮らしへ切り替えるためのヒントを紹介している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "4d8f52ab59905546",
-   "url": "https://note.com/taro_minimalism/n/n32f0d49d7812",
-   "title_original": "ミニマリスト｜HSP｜ゲームは最高の節約ツール",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/306394287/rectangle_large_type_2_b22ffebe214e8830d60932e9e31bd55c.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-23T15:51:07+00:00",
-   "title_ja": "ミニマリストがテレビゲームやPCゲームを節約ツールとして活用する理由",
-   "summary_ja": "ミニマリストでありHSPの著者が、テレビゲームやPCゲームをお金をかけずに楽しめる最高の節約ツールとして捉えている理由を語る。ゲームセンターではなく自宅で遊べるゲームを活用することで、出費を抑えながら充実した時間を過ごす工夫を紹介。",
-   "category": "お金・買い方",
-   "axis": "own",
-   "things": [
-    "テレビゲーム",
-    "PCゲーム"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f53a373d08485605",
-   "url": "https://note.com/le_ssrisa/n/ne27658b1b0be",
-   "title_original": "【日々捨て活】最近手放したもの3",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/306381620/rectangle_large_type_2_c208ba1fb4e6c4642a44f4b37430f120.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-23T15:48:12+00:00",
-   "title_ja": "モチベーションが上がらない中で著者が最近手放した3つのもの",
-   "summary_ja": "暑さやインテリアへの目移りで片づけのモチベーションが上がりにくい中でも、日常の中で少しずつ片づけを進め、最近手放した3つのアイテムについて記録している様子を伝える。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "1abe479df07b3d49",
-   "url": "https://note.com/monchanmissheru/n/n394d12e69776",
-   "title_original": "モヤモヤが止まらない時こそ、まず「物」を整えてみる。～回避型の恋愛に悩んでいるあなたへ～",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/306386810/rectangle_large_type_2_089b27c50b4a530f16070388de757f40.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-23T15:13:30+00:00",
-   "title_ja": "心がモヤモヤする時に物を整えてストレスを減らす方法",
-   "summary_ja": "心がモヤモヤしたり不安を感じたりする時に、断捨離や片付け、拭き掃除を行う人の話。ソファや床、引き出しに物が溢れ、スプーンや櫛などの探し物をする小さなストレスの積み重ねが心の負担になるため、まずは身の回りの物を整えることで気持ちを落ち着かせる。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "ソファ",
-    "スプーン",
-    "櫛",
-    "ヘアピン"
-   ],
    "importance": 3
   }
  ]
