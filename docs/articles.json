@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-03T12:35:45.008762+09:00",
+ "updated_at": "2026-09-03T19:55:10.028412+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,7 +29,7 @@
  "things": [
   {
    "name": "服",
-   "count": 11
+   "count": 13
   },
   {
    "name": "本",
@@ -44,10 +44,6 @@
    "count": 5
   },
   {
-   "name": "ハンディファン",
-   "count": 4
-  },
-  {
    "name": "モバイルバッテリー",
    "count": 4
   },
@@ -57,6 +53,10 @@
   },
   {
    "name": "スマートフォン",
+   "count": 3
+  },
+  {
+   "name": "ハンディファン",
    "count": 3
   },
   {
@@ -96,10 +96,6 @@
    "count": 2
   },
   {
-   "name": "タオル",
-   "count": 2
-  },
-  {
    "name": "テレビ",
    "count": 2
   },
@@ -133,6 +129,10 @@
   },
   {
    "name": "充電器",
+   "count": 2
+  },
+  {
+   "name": "分割キーボード",
    "count": 2
   },
   {
@@ -170,10 +170,6 @@
   {
    "name": "鞄",
    "count": 2
-  },
-  {
-   "name": "高圧洗浄機",
-   "count": 2
   }
  ],
  "sources": [
@@ -188,7 +184,7 @@
   "Be More with Less",
   "Blayney Chronicle",
   "China Daily Global Edition",
-  "Daily Mirror",
+  "Exile Lifestyle",
   "GearJunkie",
   "Good Housekeeping",
   "HOLR Magazine",
@@ -196,7 +192,6 @@
   "Ideal Home",
   "InYourArea",
   "Infoseek",
-  "Jenny Mustard",
   "LDS Daily",
   "Matt D'Avella",
   "MedPage Today",
@@ -223,6 +218,7 @@
   "The Sun",
   "The Washington Post",
   "Treeline Review",
+  "Vancouver Sun",
   "WAFF",
   "WEBザテレビジョン",
   "Yahoo",
@@ -241,7 +237,6 @@
   "krepsiniozinios.lt",
   "lee.hpplus.jp",
   "mai minimalism",
-  "marthastewart.com",
   "moneymag.com.au",
   "note #ミニマリスト",
   "note #少ない服で暮らす",
@@ -273,6 +268,186 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "8f45930c1c054914",
+   "url": "https://www.lifehacker.jp/article/2608-amazon-ciomagjointcharger-rse",
+   "title_original": "ケーブルを差すのをやめる。磁石で「カチッ」充電開始",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2025/04/20/d0c28aab-39bf-4641-a1e8-aa97d2420f2f/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-03T10:45:00+00:00",
+   "title_ja": "マグネットで接続するUSB-C変換アダプタ",
+   "summary_ja": "CIOの「USB-C マグネット変換アダプタ I字」を紹介しています。手持ちのケーブルに装着するだけで、磁石で簡単に充電を開始できるようにする便利なアイテムです。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "USB-C マグネット変換アダプタ I字"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "bd44977009f7c63a",
+   "url": "https://note.com/karen_aoi/n/n36edff28e70a",
+   "title_original": "玄関の山",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/309828688/rectangle_large_type_2_402f48aeb96e0157d8b44dc552e6ae91.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-03T10:44:05+00:00",
+   "title_ja": "玄関の片付けとクローゼットのジャケット",
+   "summary_ja": "玄関にものが溢れている状況から、クローゼットの紺のジャケットを1枚取り出すなど、自宅の片付けや不要なものに向き合う様子を描いています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "ジャケット"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "f6397bece348537b",
+   "url": "https://note.com/50risei_life/n/n12660bc17406",
+   "title_original": "59歳。「まだ着る」って、いつ？母の片付けで、大喧嘩。",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/309914211/rectangle_large_type_2_465ae6dc2e5ff3a4d8c5c797212b3c72.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-03T10:44:01+00:00",
+   "title_ja": "「まだ着る」という母親の服の片付け",
+   "summary_ja": "母親の片付けを手伝った際、「まだ着る」と言い張る母親と大喧嘩になったエピソード。服を手放すタイミングや親世代との価値観の違いについて考えさせられます。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "99695eadb3fee72a",
+   "url": "https://note.com/kind_snipe2768/n/n301796d5fa46",
+   "title_original": "家にある不用品がお金に変わる｜フリマアプリで現金化するコツ",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/309911597/rectangle_large_type_2_6419b4be0e435c8c4c7caeaec056a87b.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-03T10:39:38+00:00",
+   "title_ja": "クローゼットの着ていない服や眠っている家電などの不用品を、フリマアプリを活用して現金化するためのコツについて解説しています。",
+   "summary_ja": "クローゼットの着ていない服や眠っている家電などの不用品を、フリマアプリを活用して現金化するためのコツについて解説しています。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [
+    "服",
+    "家電"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "7b92d3f6e915793b",
+   "url": "https://www.lifehacker.jp/article/2609-korekai-jetgun",
+   "title_original": "お風呂掃除の見て見ぬ振りを、「もっとやりたい」まで引き上げてくれた高水圧ガン #これ買ってよかった",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/09/03/359ee2a0-883a-4871-a5a8-88769f9e9227/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-03T10:00:00+00:00",
+   "title_ja": "お風呂掃除をラクにする高水圧ガン",
+   "summary_ja": "シャワーヘッドに付け替えて使用する高水圧ガンを導入し、面倒だった排水溝や隙間の汚れを水圧で吹き飛ばして掃除をラクにした人の話。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "高水圧ガン",
+    "シャワーヘッド"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b9b88882544d1380",
+   "url": "https://note.com/human_ivy8555/n/n44e8dd32790e",
+   "title_original": "9/1（火）Day 14 の記録",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/309892669/rectangle_large_type_2_a8ddc1cd62dec296759936e1fcf15501.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-03T09:33:16+00:00",
+   "title_ja": "Day14：寝室・キッチンなど6箇所を拭いた記録",
+   "summary_ja": "9月1日（火）のDay14では、寝室の棚・箪笥上、ファンヒーター、マッサージチェア、トイレ、ガスコンロの計6箇所を拭き、80回/1000回の目標に沿って徹底的に掃除し、不要なものを見直すきっかけにした。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "ファンヒーター",
+    "マッサージチェア",
+    "ガスコンロ",
+    "箪笥"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "53ef144805355435",
+   "url": "https://note.com/iamdaichi/n/n73ee9167d28f",
+   "title_original": "(2度目の)自己紹介。モノ持つ系ミニマリストです",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/309882529/rectangle_large_type_2_a84d2e037a5a1df12e974bc118f379d1.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-03T08:56:27+00:00",
+   "title_ja": "自己紹介：モノ持ち系ミニマリストの新名",
+   "summary_ja": "自らを『モノ持ち系ミニマリスト』と名乗り、改名したことと今後のミニマリスト活動への意気込みを綴っている。",
+   "category": "心・習慣",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "c59122031d3eb669",
+   "url": "https://www.roomie.jp/2026/09/1876796",
+   "title_original": "普通のキーボードやめました。4台の分割キーボードを使ってたどり着いた「Keychron Orca echo」",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/d94d972e487b53f1bc00311df042de86.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-03T08:00:19+00:00",
+   "title_ja": "分割キーボードを経てたどり着いた愛用品の話",
+   "summary_ja": "多くの選択肢から厳選し、手元に残る道具についてその価値観とともに紹介する特別企画の導入です。多様な分割キーボードを試した末に行き着いたアイテムに焦点を当てています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "分割キーボード",
+    "Keychron Orca echo"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "ae831c15fad0fc25",
+   "url": "https://news.infoseek.co.jp/article/fudge_399973",
+   "title_original": "旅暮らしミニマリストの「日々の楽しみ」。少ない荷物でもできる気分転換",
+   "source": "Infoseek",
+   "image": "https://media.image.infoseek.co.jp/isnews/photos/fudge/fudge_399973_0.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-03T06:30:35+00:00",
+   "title_ja": "旅暮らしをするミニマリストの気分転換の方法",
+   "summary_ja": "少ない荷物で暮らすミニマリストが、日々の生活の中でどのように楽しみや気分転換を見出しているのかを紹介しています。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "6cf167868ea59254",
+   "url": "https://thesimplicityhabit.com/8-self-care-habits-that-will-improve-your-well-being",
+   "title_original": "8 Self-Care Habits That Will Improve Your Overall Well-Being",
+   "source": "The Simplicity Habit",
+   "image": "https://thesimplicityhabit.com/wp-content/uploads/2024/03/horizontal-blog-post-2024-03-05T133924.639-1024x683.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-09-03T03:58:17+00:00",
+   "title_ja": "心身の健康を向上させるための８つのセルフケア習慣",
+   "summary_ja": "家族の世話や仕事、日々の義務に追われて自分のケアが後回しになりがちな人に向けて、心身の健康を向上させるためのセルフケア習慣を提案する。生活にシンプルな習慣を取り入れることで、忙しい毎日の中でも自分自身のウェルビーイングを優先し、暮らしを整える方法を紹介している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "a835b068115b6648",
    "url": "https://note.com/negamama/n/n9d75ef3e3fa8",
@@ -344,6 +519,22 @@
     "ポータブルファン"
    ],
    "importance": 3
+  },
+  {
+   "id": "259cc029066f4e71",
+   "url": "https://news.yahoo.co.jp/articles/ef1e36f16e4d28fb064d563854dc683666761e01/images/005",
+   "title_original": "熊本の有名ミニマリスト宅を拝見 築50年、家賃3万5000円をリノベ 「持たない暮らし」ってどう？ 最近買って良かった物は?",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgK1JGHFifSToznjJA235Zg4h3IRvw-2VF_EfeMKsRpEPDtzjyoO29YMywqAozVws02bvSqF6KM1gedajm4sRhcSQpsX10S-0y61eVyO6CQoYgHZLIaM6Xq7mhEVHMO_DGQ==",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-03T00:29:24+00:00",
+   "title_ja": "築50年の賃貸をリノベした熊本のミニマリストの暮らし",
+   "summary_ja": "熊本にある築50年、家賃3万5000円の物件をリノベーションして暮らす、有名ミニマリストの自宅を紹介する記事。物を「持たない暮らし」の魅力や実態に迫るとともに、そのミニマリストが最近購入して良かったと感じている具体的なアイテムについても取り上げている。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [],
+   "importance": 4
   },
   {
    "id": "b166a06fb0eab842",
@@ -448,6 +639,22 @@
    "axis": "reduce",
    "things": [],
    "importance": 4
+  },
+  {
+   "id": "41262ada0ad19b58",
+   "url": "https://vancouversun.com/homes/staging-your-home-to-sell",
+   "title_original": "Set the stage to showcase your house for sale",
+   "source": "Vancouver Sun",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-02T20:47:36+00:00",
+   "title_ja": "売り出し中の自宅を魅力的に見せるためのステージング方法",
+   "summary_ja": "販売中の家を買い手にとって魅力的に見せるために、室内を整えて演出する「ホームステージング」のコツを紹介する記事。不要なものを減らしてすっきりとさせ、物件の魅力を最大限に引き出すための具体的なアドバイスがまとめられている。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
   },
   {
    "id": "f7fd208b8ae21890",
@@ -5686,6 +5893,24 @@
    "importance": 4
   },
   {
+   "id": "34852d2a754010f6",
+   "url": "https://exilelifestyle.com/ignorant-and-naive",
+   "title_original": "Ignorant and Naïve",
+   "source": "Exile Lifestyle",
+   "image": "https://exilelifestyle.com/wp-content/themes/el/assets/og-default.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-08-26T22:19:48+00:00",
+   "title_ja": "若き日の記録がネットに残らなかった幸運を振り返る話",
+   "summary_ja": "ネットやSNSが普及しきる前の若い頃の個人的な情報がネット上に残らずに済んだ幸運について語られています。折りたたみ携帯電話を使っていた当時を振り返り、デジタルデータを持たない暮らしのあり方を考えさせられます。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "折りたたみ携帯電話"
+   ],
+   "importance": 3
+  },
+  {
    "id": "0489af25e0b8b50d",
    "url": "https://www.neatowncourier.com/opinion/editors-cornerlets-face-it-no-one-wants-your-stuff-fcb5c14f",
    "title_original": "Editor's Corner: Let’s Face It: No One Wants Your Stuff",
@@ -6991,232 +7216,6 @@
    "things": [
     "Windowsのメモ帳",
     "TinyRetroPad"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c67bfffe412d18ef",
-   "url": "https://bemorewithless.com/quotes-about-minimalism/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
-   "title_original": "10 Quotes About Minimalism (things I tell myself when I want to simplify life)",
-   "source": "Be More with Less",
-   "image": "https://bemorewithless.com/wp-content/uploads/2026/08/quotes-about-minimalism-image.png",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-08-24T23:55:41+00:00",
-   "title_ja": "暮らしをシンプルにしたい時に見返すミニマリズムの名言10選",
-   "summary_ja": "状況に追われて心が乱れた時や生活を簡素化したい時に、著者自身が言い聞かせているミニマリズムの10の言葉を紹介。シンプルな暮らしへと立ち返るためのヒントやインスピレーションを提供する。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "687f656acb5774b1",
-   "url": "https://www.roomie.jp/2026/08/1867646",
-   "title_original": "「タオルのイヤなニオイ」が一撃で解決した話。ゴワゴワにならなくて最高なんだ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/dc43c43350466c926b4cd3c1307d277a.jpeg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-24T23:00:14+00:00",
-   "title_ja": "タオルのイヤなニオイをオキシ漬けですっきり落とした話",
-   "summary_ja": "長く使って気になっていたタオルのイヤなニオイを、オキシクリーンEXを使ったオキシ漬けで解決した体験談。洗濯しても取れなかった頑固なニオイやゴワゴワ感を解消し、お気に入りのアイテムを気持ちよく使い続けるための工夫が分かる。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [
-    "オキシクリーン EX",
-    "タオル"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ba3d239e69f43901",
-   "url": "https://www.roomie.jp/2026/08/1869746",
-   "title_original": "高圧洗浄機なのに折りたたむと手のひらサイズで1キロ以下",
-   "source": "ROOMIE",
-   "image": "https://www.roomie.jp/wp-content/uploads/2025/10/6-4.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-24T22:15:56+00:00",
-   "title_ja": "手のひらサイズで軽い折りたたみ高圧洗浄機",
-   "summary_ja": "ケルヒャーのモバイル高圧洗浄機「OC Handy Comp」は、折りたたむと手のひらサイズで重量1キロ以下になるコンパクトな掃除道具。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "高圧洗浄機"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "cef45c94eddf1b3e",
-   "url": "https://www.roomie.jp/2026/08/1868078",
-   "title_original": "避難経験のある私が、どうしても防災リュックに入れたいもの。「圧縮タイプ」で省スペースに備えられた",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/260824_watts_01.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-24T22:00:16+00:00",
-   "title_ja": "避難経験者が語る、防災リュックを省スペース化するコツ",
-   "summary_ja": "実際の避難生活の経験をもとに、かさばりがちな衣類を圧縮タイプにして省スペースに備える防災グッズの収納法を紹介している。",
-   "category": "旅・持ち歩き",
-   "axis": "reduce",
-   "things": [
-    "防災リュック"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "14873f9efcb4a69f",
-   "url": "https://www.marthastewart.com/what-to-keep-and-toss-before-fall-12064655",
-   "title_original": "10 Summer Items to Toss Before Fall—and What’s Worth Saving",
-   "source": "marthastewart.com",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-24T21:42:52+00:00",
-   "title_ja": "秋を迎える前に夏物を手放す基準と残すべき物",
-   "summary_ja": "秋の訪れを前に、夏物のアイテムの中から処分するものと残す価値のあるものを見極めて整理するためのヒントを紹介している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "2ae367018d2baafb",
-   "url": "https://www.youtube.com/watch?v=nrhXlv80eus",
-   "title_original": "【ミニマリスト】2泊3日、荷物はこれだけ。シングルマザーのリアルなパッキング",
-   "source": "小さな暮らしノート",
-   "image": "https://i3.ytimg.com/vi/nrhXlv80eus/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-08-24T19:53:09+00:00",
-   "title_ja": "2泊3日の子連れ旅行で荷物を最小限にするシングルマザーのパッキング",
-   "summary_ja": "2泊3日の旅行に向け、子どもの分と合わせた荷物を最小限にまとめる様子を紹介。「念のため」で持っていく物を減らし、本当に使う道具だけに絞り込むことで、子連れでもコンパクトな移動を実現している。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "fc731d616385ce97",
-   "url": "https://www.youtube.com/shorts/X2R7hMAeUh8",
-   "title_original": "How do you make your kids happy? h/t: @wholeparent",
-   "source": "The Minimalists",
-   "image": "https://i1.ytimg.com/vi/X2R7hMAeUh8/hqdefault.jpg",
-   "media": "youtube",
-   "region": "海外",
-   "published": "2026-08-24T17:34:21+00:00",
-   "title_ja": "子どもを幸せにする方法について語るミニマリストの動画",
-   "summary_ja": "海外のミニマリストが、子どもを幸せにするための接し方や考え方について語る動画。持ち物の削減直接の解説ではなく、子育てにおける思考法や心構えに焦点を当てた内容となっている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "fcf26b84e66ce1d7",
-   "url": "https://note.com/tk39fish/n/nebcee40303fe",
-   "title_original": "分冊百科をデータ化しよう",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/306726405/rectangle_large_type_2_ad94bd8d61781236497ab3c132ded550.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-24T17:21:57+00:00",
-   "title_ja": "分冊百科をスキャンしてデータ化し手放す試み",
-   "summary_ja": "大量に集めた分冊百科のシリーズを自炊してデジタルデータ化し、物理的な冊子を断捨離するアイデアについて紹介している。かさばる紙の資料を効率的に減らす一つの有効な手段である。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "分冊百科",
-    "スキャナー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "729f53f4c866d40f",
-   "url": "https://note.com/spica_popobear/n/ndaec81a38fbe",
-   "title_original": "ゆるミニマリスト？🫧ྀི",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/306717127/rectangle_large_type_2_f008ad940edf6511d95b7c0447f209fa.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-24T16:19:40+00:00",
-   "title_ja": "ゆるミニマリストが所有する部屋着とパジャマ",
-   "summary_ja": "自身をゆるミニマリストと称する投稿者が、日々の暮らしの中で持っているパジャマの枚数を紹介している。半袖パジャマ2着、長袖パジャマ2着を実際に所有して生活している。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "半袖パジャマ",
-    "長袖パジャマ"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "1f290a0aa9f10790",
-   "url": "https://www.youtube.com/watch?v=qgnv3pKnFrc",
-   "title_original": "The Big Autumn Reset. Let's Change Everything.",
-   "source": "Jenny Mustard",
-   "image": "https://i2.ytimg.com/vi/qgnv3pKnFrc/hqdefault.jpg",
-   "media": "youtube",
-   "region": "海外",
-   "published": "2026-08-24T16:01:12+00:00",
-   "title_ja": "季節の変わり目に生活を見直す秋のリセット習慣",
-   "summary_ja": "夏の休暇から得た視点や距離感を活かして、秋の訪れとともに暮らしのすべてを再調整するライフスタイルの実践について語っている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "37ecf414ab7d355f",
-   "url": "https://www.roomie.jp/2026/08/1869766",
-   "title_original": "「強すぎ・弱すぎ」のモヤモヤが解消。自分好みの風が見つかる100段階調整が便利だった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/brightstar2.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-24T14:45:14+00:00",
-   "title_ja": "ハンディファンのモヤモヤを解消する100段階調整",
-   "summary_ja": "従来のハンディファンに対する不信感を抱えていた筆者が、自分好みの風量を見つけられる100段階調整機能付きのモデルを試した時の様子を綴った記事。細かい調整が可能なアイテムを通じて、夏の暑さ対策の道具を見直す内容。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ハンディファン"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "1e65547682df8383",
-   "url": "https://www.mirror.co.uk/lifestyle/sort-your-life-out-star-37586904.amp",
-   "title_original": "Sort Your Life Out star names one simple daily habit to help keep your home looking tidy",
-   "source": "Daily Mirror",
-   "image": "https://i2-prod.mirror.co.uk/incoming/article37587319.ece/ALTERNATES/s1200/0_414399-c0a5.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-24T14:19:00+00:00",
-   "title_ja": "テレビ番組出演者が語る部屋を綺麗に保つ習慣",
-   "summary_ja": "テレビ番組の出演者が、自宅をすっきりと綺麗に保つために毎日実践しているシンプルな習慣について語っています。日々のちょっとした行動で散らかりを防ぐためのヒントです。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "8e4ae3d9bf735619",
-   "url": "https://www.roomie.jp/2026/08/1869355",
-   "title_original": "お弁当に麺を持っていける！ 麺とつゆを分けられるサーモスの「ヌードルコンテナー」が便利",
-   "source": "ROOMIE",
-   "image": "https://www.roomie.jp/wp-content/uploads/2023/10/d6774201fe804f9556906116755c1d90.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-24T14:15:27+00:00",
-   "title_ja": "サーモスの麺用コンテナーでお弁当生活",
-   "summary_ja": "職場などへ麺類を持っていけるサーモスの容器を紹介しています。麺とつゆを分けて持ち運べ、汁漏れしにくい構造になっているため、お弁当の選択肢を広げてくれる便利な愛用品です。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "ヌードルコンテナー",
-    "スープジャー"
    ],
    "importance": 3
   }
