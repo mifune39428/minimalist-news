@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-05T01:00:28.838152+09:00",
+ "updated_at": "2026-09-05T05:30:16.635672+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,15 +29,15 @@
  "things": [
   {
    "name": "服",
-   "count": 13
+   "count": 14
+  },
+  {
+   "name": "バッグ",
+   "count": 8
   },
   {
    "name": "本",
    "count": 8
-  },
-  {
-   "name": "バッグ",
-   "count": 7
   },
   {
    "name": "スマートフォン",
@@ -48,19 +48,11 @@
    "count": 5
   },
   {
-   "name": "USB-Cケーブル",
-   "count": 3
-  },
-  {
    "name": "iPhone",
    "count": 3
   },
   {
    "name": "ハンディファン",
-   "count": 3
-  },
-  {
-   "name": "バックパック",
    "count": 3
   },
   {
@@ -74,6 +66,10 @@
   {
    "name": "食器",
    "count": 3
+  },
+  {
+   "name": "USB-Cケーブル",
+   "count": 2
   },
   {
    "name": "iPad",
@@ -96,10 +92,6 @@
    "count": 2
   },
   {
-   "name": "スマホスタンド",
-   "count": 2
-  },
-  {
    "name": "テレビ",
    "count": 2
   },
@@ -109,6 +101,10 @@
   },
   {
    "name": "ノート",
+   "count": 2
+  },
+  {
+   "name": "バックパック",
    "count": 2
   },
   {
@@ -185,7 +181,6 @@
   "Be More with Less",
   "Blayney Chronicle",
   "China Daily Global Edition",
-  "GearJunkie",
   "Gizmodo",
   "Good Housekeeping",
   "Hindustan Times",
@@ -235,6 +230,7 @@
   "lee.hpplus.jp",
   "mai minimalism",
   "moneymag.com.au",
+  "news.livedoor.com",
   "news.nicovideo.jp",
   "note #ミニマリスト",
   "note #少ない服で暮らす",
@@ -249,7 +245,6 @@
   "ぴーこ｜ゆるっとミニマルな日常",
   "まぐまぐ",
   "やましたひでこ断捨離",
-  "ウォーカープラス",
   "ピンズバNEWS",
   "ミニマリスト Nozomi",
   "ミニマリストK",
@@ -266,6 +261,106 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "b3a678a064ef11ff",
+   "url": "https://note.com/jolly_parrot8753/n/n95d0008559b7",
+   "title_original": "頑張ります・人生やり直してみます",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/310356126/rectangle_large_type_2_2ca72de3a16d536a4354bf18abd3ae17.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-04T19:45:32+00:00",
+   "title_ja": "人生をリセットするために1200点以上を手放した人の話",
+   "summary_ja": "他人のために使ってきた時間やお金を見直し、自分のために生きるため、メルカリや委託を活用して1200点以上の品物を手放した体験談。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "52ce7133df6ee6cf",
+   "url": "https://note.com/merry_takin6717/n/nf26523d40cfc",
+   "title_original": "モノは捨てる時も容赦なくエネルギーを奪ってくるというお話",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/310350656/rectangle_large_type_2_7b77aaf6b71c53255e937f430bc2fa59.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-04T17:36:45+00:00",
+   "title_ja": "買う時よりも捨てる時の方がエネルギーを奪われるという話",
+   "summary_ja": "モノは買う時より処分する時のほうが分別や手間にエネルギーを使うため、余計なモノを増やさないことで人生の難易度を下げられるという考え方。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "a18abde2b8abbef2",
+   "url": "https://note.com/merry_takin6717/n/n08c9593d7f37",
+   "title_original": "モノが捨てられない人は、ゴミ屋敷理論に陥っている",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/310350363/rectangle_large_type_2_66be8fa6eee63df51966f42bbc401fff.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-04T17:34:01+00:00",
+   "title_ja": "モノが捨てられない心理についての考察",
+   "summary_ja": "モノがなかなか手放せない状態について、ゴミ屋敷の理論を交えてその心理的な背景を解説している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "71ce549eccda8cd5",
+   "url": "https://note.com/greedybird/n/nffe00f65e1a8",
+   "title_original": "使っていないサブスクを見つけるチェックリスト｜月額課金を整理する30分",
+   "source": "note #ミニマリスト",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/75db88559a414334209204165455c85d3cbfd4ca.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-04T17:11:42+00:00",
+   "title_ja": "使っていないサブスクを見つけるチェックリスト",
+   "summary_ja": "動画や音楽、アプリなど、月額が小さく放置しがちなサブスクリプションの出費を30分で見直して整理する方法を紹介するチェックリスト。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "b34afd3c9501378f",
+   "url": "https://www.thespruce.com/decluttering-tips-minimalists-wish-you-knew-12065138",
+   "title_original": "Minimalists Say Decluttering Doesn’t Have to Feel Overwhelming—Here’s Their Best Advice for Clearing Your Home",
+   "source": "The Spruce",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-04T17:11:00+00:00",
+   "title_ja": "圧倒されない家の中の片づけ方とアドバイス",
+   "summary_ja": "家の中の片づけや持ち物を減らす作業に圧倒されないための、ミニマリストたちによる実践的なアドバイスと心得をまとめた記事。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "8d3d62e197a7fa00",
+   "url": "https://note.com/kuboken1007/n/n8f3114799011",
+   "title_original": "人は忘れるようにできている",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/310346579/rectangle_large_type_2_b2e01f5e0bd5a1dcc056f1da0bbb5296.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-04T17:06:26+00:00",
+   "title_ja": "使っていなかった機材の整理と出品の記録",
+   "summary_ja": "部屋の整理を始めた筆者が、長期間使っていなかった機材を引っ張り出して埃を払い、型番を調べて箱に詰めていく片づけの様子。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "機材"
+   ],
+   "importance": 3
+  },
   {
    "id": "6dbffb1c66c21cf5",
    "url": "https://note.com/nonbirigurashi_/n/n6812970e746f",
@@ -409,6 +504,22 @@
    "importance": 2
   },
   {
+   "id": "95745a3b7b52bf70",
+   "url": "https://mshale.com/e596a78c/a615ffedQq83bcY8-MM",
+   "title_original": "【節約ミニマリスト】貯金ゼロから500万貯めた主婦が断言！この連休で家が変わる今すぐ捨てるべきモノ35選︱音声あり︱ラジオ Fallout 3 (WPO9gnLCe7)",
+   "source": "Mshale",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-04T14:35:34+00:00",
+   "title_ja": "貯金ゼロから500万円貯めた主婦が教える、今すぐ手放すべきモノ35選",
+   "summary_ja": "貯金ゼロから500万円を貯めた主婦が、連休中に家を変えるために今すぐ捨てるべき具体的なアイテム35選について紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "56b0b30fc90625b8",
    "url": "https://note.com/j_k0712/n/n603d04b3f3a6",
    "title_original": "ミニマリストのつもりはないんですけど、私の家、「モデルルーム？」って言われます",
@@ -533,6 +644,56 @@
     "Dual Magic Ring Pro",
     "スマホスタンド"
    ],
+   "importance": 3
+  },
+  {
+   "id": "1a6861a4791683b5",
+   "url": "https://news.livedoor.com/topics/detail/32244928",
+   "title_original": "ただシンプルなだけじゃなくてちゃんと使える。真のミニマリストに教えたい、ピークデザインの新作バッグ (2026年9月4日掲載)",
+   "source": "news.livedoor.com",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-04T12:00:37+00:00",
+   "title_ja": "ミニマリスト向けピークデザインの新作バッグ",
+   "summary_ja": "シンプルでありながら実用性も兼ね備えた、真のミニマリストに向けたピークデザインの新作バッグについて紹介している記事です。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "バッグ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "79a0640bcc65c312",
+   "url": "https://news.livedoor.com/article/detail/32244504",
+   "title_original": "親の「在庫が多い方が安心」とどう向き合う？実家の洗面所収納を見直す片付けのコツ",
+   "source": "news.livedoor.com",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-04T12:00:00+00:00",
+   "title_ja": "実家の洗面所収納を見直す片付けのコツ",
+   "summary_ja": "「在庫が多い方が安心」という親の考え方とどう向き合いながら、実家の洗面所収納を見直して片付けていくかのコツを解説しています。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "bf882bad20932077",
+   "url": "https://www.apartmenttherapy.com/people-actually-want-more-clutter-in-their-homes-heres-why-37689196",
+   "title_original": "People Actually Want More Clutter in Their Homes — Here’s Why",
+   "source": "Apartment Therapy",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-04T12:00:00+00:00",
+   "title_ja": "自宅にあえて物が多い状態を好む心理と理由",
+   "summary_ja": "人々があえて自宅に多くの物やごちゃつきを求めたがる理由について掘り下げた海外の記事です。ミニマリズムの対極にある価値観やその背景を伝えています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -1039,6 +1200,22 @@
    "things": [
     "靴"
    ],
+   "importance": 3
+  },
+  {
+   "id": "afafcbb325ca0d86",
+   "url": "https://mshale.com/8190e1be/f8536221Imu2tEMWwos",
+   "title_original": "［節約ミニマリスト］貯金できない人必見 3年で500万貯めた元浪費家の神習慣15選 Lituania (LjzZItfL1X)",
+   "source": "Mshale",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-03T23:44:54+00:00",
+   "title_ja": "3年で500万円貯金した元浪費家の習慣",
+   "summary_ja": "浪費家から脱却して3年間で500万円を貯蓄した実践者の生活習慣を紹介。お金の使い方や日々の暮らしを見直すことで、着実な資産形成につながった方法を振り返ります。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -7033,193 +7210,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 4
-  },
-  {
-   "id": "a63a78a12d2251c9",
-   "url": "https://www.walkerplus.com/article/1339527/image16602909.html",
-   "title_original": "画像10 / 192＞【漫画】「復活すんな、飲み会文化」「モヤる…ご祝儀へのお返し問題」「プレゼントの金額差」「プレゼントは何が欲しいか聞け」「コストが大きいほど大事？〜断捨離爆遅太郎〜」ほか収録／著：ゐ",
-   "source": "ウォーカープラス",
-   "image": "https://news.walkerplus.com/article/1339527/16602961_615.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-27T15:37:42+00:00",
-   "title_ja": "日常のモヤモヤや断捨離の葛藤を描いたコミックエッセイ",
-   "summary_ja": "飲み会文化への不満やご祝儀のお返しを巡る疑問、プレゼントの金額差へのモヤモヤ、そして片付けが進まない「断捨離爆遅太郎」など、日常の人間関係や物の整理における葛藤をユーモラスに描いた漫画を紹介。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "ef35f8a9180a5cde",
-   "url": "https://www.roomie.jp/2026/08/1872064",
-   "title_original": "洗濯革命はこのボールから。洗濯が終わったら、そのままお風呂にも使える洗濯ボール",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/gzerocoil4.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-27T14:45:51+00:00",
-   "title_ja": "洗濯水を手軽に変える微弱電流の洗濯ボール",
-   "summary_ja": "毎日の洗濯での汚れや部屋干しのニオイの悩みにアプローチし、入れるだけで洗濯水の力を高めるという微弱電流テクノロジーを活用した洗濯ボールを紹介している記事。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "洗濯ボール"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "b77469875aa81519",
-   "url": "https://www.roomie.jp/2026/08/1871492",
-   "title_original": "Ankerのこれ1本で2台同時充電。出張・旅行用に最適",
-   "source": "ROOMIE",
-   "image": "https://www.roomie.jp/wp-content/uploads/2025/04/4-3.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-27T14:15:59+00:00",
-   "title_ja": "出張や旅行の荷物を減らすAnkerの充電ケーブル",
-   "summary_ja": "複数のUSB-Cケーブルが絡まるわずらわしさを解消するため、2台同時充電に対応したAnkerのケーブルを活用している。旅行や出張時の荷物をすっきりとまとめたい人に向くアイテム。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "USB-Cケーブル"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "690d98f57e1e9a0f",
-   "url": "https://nosidebar.com/negative-capability-is-positive",
-   "title_original": "Negative Capability is Positive",
-   "source": "No Sidebar",
-   "image": "https://nosidebar.com/wp-content/uploads/antonio-batistas-TY-0e_VGJ_4-unsplash1-scaled.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-08-27T14:00:00+00:00",
-   "title_ja": "「長すぎて読まない」風潮に対し思考の余白を持つ大切さを説く話",
-   "summary_ja": "情報過多な現代において「長すぎて読まない」と切り捨てるのではなく、不確実性に向き合う精神的余裕を持つ大切さを解説した記事です。安易な効率化を求めず、時間をかけて文章や出来事を受け止めることで心の余白を作る重要性を提案しています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "d92df744d55bcb43",
-   "url": "https://www.roomie.jp/2026/08/1870452",
-   "title_original": "強い日差しも99.9％シャットアウト。「体感温度を15度下げる」驚きのシェードチェア見つけた",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/1-23.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-27T13:45:18+00:00",
-   "title_ja": "室内や屋外で使えるコンパクトなシェードチェア",
-   "summary_ja": "コンパクトに収納できて場所を選ばず使えるアウトドア用のシェードチェアを紹介している。室内での作業や屋上でのリフレッシュ、公園など様々なシーンで活用できる持ち物。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "シェードチェア"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "a1d109a865daab26",
-   "url": "https://www.lifehacker.jp/article/2608-lht-smartphone-stand-hack",
-   "title_original": "「カメラ機材」由来のZ型雲台をスマホスタンドに！角度・高さ調整がバチッと決まる",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/02/09/362d2723-842a-492d-a477-75b02942fb9c/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-27T13:15:00+00:00",
-   "title_ja": "カメラ用のZ型雲台をスマホスタンドとして活用する",
-   "summary_ja": "本来はカメラ機材であるZ型雲台を、角度や高さを細かく調整できるスマホスタンドとして転用している。手持ちの機材を別の用途で工夫して使う実例。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "Z型雲台",
-    "スマホスタンド"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "7f7e3f1b3f0c5f94",
-   "url": "https://gearjunkie.com/travel/best-travel-backpack",
-   "title_original": "The Best Travel Backpacks of 2026",
-   "source": "GearJunkie",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-27T13:04:37+00:00",
-   "title_ja": "2026年の優れたトラベルバックパック",
-   "summary_ja": "旅行用のバックパックに関する海外の記事。移動を伴う暮らしや旅で使える鞄の選び方を知ることができる。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "バックパック"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ac1d1f2246fb1c76",
-   "url": "https://mshale.com/d833c5dd/5b8ca564rMsADvmtT4I",
-   "title_original": "【手取19万、ボーナス無し】毎月２万円を節約する！ミニマルな暮らし｜夏の光熱費高、物価高に備えるために出来ること15選【音声付】 Sudan (OEs5QvOFhs)",
-   "source": "Mshale",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-27T11:47:44+00:00",
-   "title_ja": "手取り19万円で毎月2万円を節約するミニマルな暮らしの工夫",
-   "summary_ja": "手取り19万円・ボーナスなしの状況において、毎月2万円を節約するためのミニマルな生活術を紹介した記事です。物価高や夏の光熱費上昇に備えて個人で実践できる15個の具体的な節約アイデアや考え方を取り上げています。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "6f4a46b5f4683470",
-   "url": "https://news.yahoo.co.jp/articles/493e65a045c4449429792e49e52e10ff8922eb64/images/000",
-   "title_original": "義実家の我慢も別居も自分次第！断捨離提唱者・やましたひでこ流「親離れ」と断捨離の誕生 (HALMEK up)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3h9uiCojScY7SLYgxmEygY65mX9mFmzTplPQ7BksxKR2Ep_m2tA_qpazFGPbzUqWLIYJz3jpfQpWs-EWe46cHBAxYohbzErrWptWFDKPQFQOOFq_3M8KQOLqyot60f8v2vVh0a69zFxvjWR8EjjQELw==",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-27T11:15:02+00:00",
-   "title_ja": "やましたひでこ氏が語る義実家との関係と「断捨離」誕生の経緯",
-   "summary_ja": "断捨離提唱者のやましたひでこ氏が、義実家との我慢や別居といった実体験を通して「親離れ」の精神に思い至り、断捨離の思想を生み出した経緯を明かした記事です。物だけでなく人間関係の執着を自ら手放し解決していく考え方を説いています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "d2ddc575ca0d2cea",
-   "url": "https://www.aslobcomesclean.com/2026/08/22921",
-   "title_original": "525: Extra Space Isn’t Extra",
-   "source": "A Slob Comes Clean",
-   "image": "https://www.aslobcomesclean.com/wp-content/uploads/2026/08/New-Podcast-Art-2026-sm-size-1024x1024.png",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-08-27T11:00:45+00:00",
-   "title_ja": "余白を収納ではなく空間として捉える考え方",
-   "summary_ja": "余分なスペースを見るとつい物を詰め込みたくなっていたが、現在は物を置くためではなく行動するために必要な空間として捉えるようになったという、片付けの考え方の変化についての話。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "bccde3a3e6bb6def",
-   "url": "https://www.youtube.com/watch?v=Yf73pAcKz5A",
-   "title_original": "【お詫び】やましたひでこさんの新刊にミスがありました…",
-   "source": "やましたひでこ断捨離",
-   "image": "https://i2.ytimg.com/vi/Yf73pAcKz5A/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-08-27T11:00:31+00:00",
-   "title_ja": "新刊のミスについてのお詫びとお知らせ",
-   "summary_ja": "断捨離に関する書籍の訂正とお知らせ。お金が貯まらない家や、金運を上げるための家づくりの考え方に触れている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
   }
  ]
 }
