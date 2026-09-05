@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-05T23:51:02.625378+09:00",
+ "updated_at": "2026-09-06T05:06:43.477874+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -37,14 +37,10 @@
   },
   {
    "name": "本",
-   "count": 7
+   "count": 6
   },
   {
    "name": "スマートフォン",
-   "count": 5
-  },
-  {
-   "name": "モバイルバッテリー",
    "count": 5
   },
   {
@@ -64,23 +60,15 @@
    "count": 3
   },
   {
+   "name": "モバイルバッテリー",
+   "count": 3
+  },
+  {
    "name": "夏服",
    "count": 3
   },
   {
-   "name": "USB-Cケーブル",
-   "count": 2
-  },
-  {
-   "name": "カメラ",
-   "count": 2
-  },
-  {
    "name": "キーボード",
-   "count": 2
-  },
-  {
-   "name": "ゴミ袋",
    "count": 2
   },
   {
@@ -116,6 +104,10 @@
    "count": 2
   },
   {
+   "name": "便利家電",
+   "count": 2
+  },
+  {
    "name": "傘",
    "count": 2
   },
@@ -141,6 +133,10 @@
   },
   {
    "name": "手帳",
+   "count": 2
+  },
+  {
+   "name": "財布",
    "count": 2
   },
   {
@@ -201,8 +197,6 @@
   "emogram",
   "english.dainikjagranmpcg.com",
   "krepsiniozinios.lt",
-  "lee.hpplus.jp",
-  "mai minimalism",
   "marthastewart.com",
   "moneymag.com.au",
   "news.livedoor.com",
@@ -237,6 +231,143 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "74e3b60307aa2413",
+   "url": "https://note.com/erika06000/n/nf557e10e7d90",
+   "title_original": "銀行口座を減らす",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/310699382/rectangle_large_type_2_b4d7bb4721b4e55328bba45e2848955c.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-05T19:21:04+00:00",
+   "title_ja": "銀行口座を減らす実践とN26活用法",
+   "summary_ja": "3つの銀行口座を固定費・変動費・貯蓄用に分けていたが、支出管理が混乱。N26のネット銀行口座とデビットカードで固定費と変動費を完全に分離し、無駄遣いを防いでいる。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [
+    "N26",
+    "デビットカード"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "0ede1fd1fb1c39ba",
+   "url": "https://note.com/mainichi_3ko/n/n0cbec42704e6",
+   "title_original": "素直さとは、何でも受け入れることなのか⁉︎",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/img/1788572277-JHNQFRDAyew4Yolpa1uCmirM.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-05T18:05:20+00:00",
+   "title_ja": "毎日3つ捨てる挑戦　49日目の振り返り",
+   "summary_ja": "実践49日目に、保存メール50件、使えない古いリモコン、使用済みコピー用紙10枚を処分。紙類はスーパーのエコスポットへ持ち込み、無駄を減らす習慣化を報告しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "リモコン",
+    "コピー用紙",
+    "エコスポット"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "941b8b79a77781f0",
+   "url": "https://www.goodhousekeeping.com/home/organizing/g73622098/things-to-throw-out-in-september",
+   "title_original": "15 Things to Throw Out ASAP in September, According to Professional Organizers",
+   "source": "Good Housekeeping",
+   "image": "https://hips.hearstapps.com/hmg-prod/images/9a6b98c8-770a-4e32-bc56-ee30c128b9bf.jpg?crop=0.753xw:0.564xh;0.247xw,0.436xh&resize=1200:*",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-05T17:36:28+00:00",
+   "title_ja": "9月に捨てるべき15アイテム（整理術）",
+   "summary_ja": "米Good Housekeepingがプロの整理アドバイザーに聞き、9月に捨てるべき15品目をリスト化。季節の大掃除の参考になる具体的なアイテム例が紹介されています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "7ea9f62db137121f",
+   "url": "https://note.com/meine_zeit/n/ned397749673b",
+   "title_original": "全てがいらなかった ドイツ暮らしで得たもの",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/310223618/rectangle_large_type_2_0f19f32f6ebc7607faa5b6b5ef1fe91b.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-05T15:40:14+00:00",
+   "title_ja": "ドイツでの暮らしを通じて手放した習慣の数々",
+   "summary_ja": "ドイツへ移住したことで、化粧をすること、服を買い足すこと、車に乗ることなど、それまでの日常にあった多くのものを自然と手放すようになった人の体験談。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "c11c852422753b5d",
+   "url": "https://note.com/kureshin_/n/nc762fe6a07f3",
+   "title_original": "アブラサス「いっぱい入る小さい財布」買う前にここだけ確認して",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/310670917/rectangle_large_type_2_77c93e7a53022f5f3ffd9e2db9415f25.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-05T15:16:39+00:00",
+   "title_ja": "アブラサスの小さい財布を買う前に知りたい注意点",
+   "summary_ja": "コンパクトさと収納力を両立するアブラサスの財布について、購入前に確認しておきたい注意点や実際の使い勝手に関するレビューをまとめた記事。",
+   "category": "お金・買い方",
+   "axis": "own",
+   "things": [
+    "財布"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "bd4fb0388824aea3",
+   "url": "https://note.com/morinotosyokan/n/n2c48b0962f6a",
+   "title_original": "箱や包装材を捨てる | 片づけ祭り",
+   "source": "note #断捨離",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/f31d28ae805fd8a2ce57a3571de45b04de022add.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-05T14:59:50+00:00",
+   "title_ja": "夜の時間を使った「箱や包装材を捨てる」片づけ",
+   "summary_ja": "夜の時間を活用して、家に溜まっていた箱や包装材などの不要な梱包資材をまとめて手放し、部屋の片づけを進めたときの様子をつづった記録。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "2cf2b0837e634d02",
+   "url": "https://note.com/nao_note_tw/n/nfc2b7e01f6d6",
+   "title_original": "あのときは、好きだった",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/310668326/rectangle_large_type_2_cf11d02a6b193eabdb8dc50f9d976527.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-05T14:57:20+00:00",
+   "title_ja": "引っ越し後の未整理品をひとつずつ見直す",
+   "summary_ja": "引っ越し後に残っていた段ボールを開け、昔好きだったものを含めて一つずつ中身を確認しながら整理する様子をレポートしています。手放す基準や感情の整理にも触れています。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "d5f1e38de2079cbc",
+   "url": "https://balancethroughsimplicity.com/30-day-no-spend-challenge",
+   "title_original": "30-Day No-Spend Challenge: How to Stop Spending and Save Money for a Month",
+   "source": "Balance Through Simplicity",
+   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2026/09/30-Day-No-Spend-Challenge-1-683x1024.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-09-05T14:56:06+00:00",
+   "title_ja": "30日間のノースペンド挑戦で支出を止める方法",
+   "summary_ja": "30日間無駄な買い物をしない『ノースペンドチャレンジ』を提案し、既に持っているものを活用しながら支出を止め、本当に価値あるものを見極める方法を解説しています。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
   {
    "id": "51e295d519203faa",
    "url": "https://note.com/shiny_azalea3507/n/n9e09bf3e2a0f",
@@ -444,6 +575,24 @@
    "importance": 3
   },
   {
+   "id": "ebcb8c4350fd4b44",
+   "url": "https://www.lifehacker.jp/article/2609-machi-ya-crowviewnote-lh-editorialreview",
+   "title_original": "スマホとつないで、どこでも大画面作業。15.6インチの「ノートPC型ポータブルモニター」",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/09/04/d66b42a0-c171-49fc-a89f-f135350d6703/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-05T12:00:00+00:00",
+   "title_ja": "スマホと接続できる15.6インチポータブルモニター",
+   "summary_ja": "CrowView Noteはスマホや小型PCを1本のケーブルで15.6インチのディスプレイに変え、キーボードと6000mAhバッテリーを内蔵。カフェや出張先でコンパクトに作業でき、持ち運びが楽になる。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "CrowView Note"
+   ],
+   "importance": 3
+  },
+  {
    "id": "7b4a7e2d577ddcba",
    "url": "https://note.com/komachi_biyori/n/naf55c7ec0252",
    "title_original": "家を整えて、私の時間を取り戻す。",
@@ -474,6 +623,24 @@
    "axis": "own",
    "things": [
     "温泉タオル"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "84ab02a199a0fd15",
+   "url": "https://www.roomie.jp/2026/09/1879291",
+   "title_original": "みじん切りも包丁要らず。パール金属の「竜巻チョッパー」が10％オフ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/71Ne7Afv3ZL.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-05T11:15:17+00:00",
+   "title_ja": "包丁不要のパール金属 竜巻チョッパーでみじん切り",
+   "summary_ja": "パール金属のBLKP. 竜巻チョッパーは引っ張るだけで食材をみじん切りにでき、包丁を使わずに調理時間を短縮。現在Amazonで10％オフ販売中で、キッチンの手間を減らす便利アイテムだ。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "竜巻チョッパー"
    ],
    "importance": 2
   },
@@ -513,6 +680,42 @@
     "SunRuck 小型冷蔵庫"
    ],
    "importance": 4
+  },
+  {
+   "id": "b45742e50f2dd0f3",
+   "url": "https://monomax.jp/archives/359194",
+   "title_original": "【オールスター顔のスケーター】つま先を見れば一目瞭然！11,000円で買えるコンバースの最強デイリー靴「CS スリップオン II SK」をエディターが試し履き",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2026/08/IMG_0553-1.jpeg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-05T11:00:05+00:00",
+   "title_ja": "11,000円で買えるコンバース CSスリップオン II SKを試し履き",
+   "summary_ja": "エディターが11,000円のコンバース『CS スリップオン II SK』を試し履きし、シンプルなデザインと軽い履き心地がデイリーに最適と評価。足元のミニマルな選択肢としておすすめ。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "コンバース CS スリップオン II SK"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "f282a148236794f7",
+   "url": "https://www.roomie.jp/2026/09/1877231",
+   "title_original": "毎日のお買い物もキャンプにも。氷を直接入れられる保冷バッグが頼もしい",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/freebabagTOP16-9.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-05T10:45:37+00:00",
+   "title_ja": "氷を直接入れられる防水保冷バッグ『Freeba Cool』の使い方",
+   "summary_ja": "防水加工された内側に氷を直接入れられる大型クーラーバッグFreeba Coolは、夏はもちろん暖房の効いた冬でも買い物やキャンプで冷たいまま持ち帰れる実用的な保冷バッグだ。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "Freeba Cool"
+   ],
+   "importance": 2
   },
   {
    "id": "769be5bfb57ff699",
@@ -3722,6 +3925,24 @@
    "axis": "own",
    "things": [
     "急須"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ec75043105eab4e9",
+   "url": "https://mshale.com/d0112716/3e8d4bd5MrWb3ehmxtE",
+   "title_original": "【Vlog】ミニマリストの休日節約ルーティン,便利家電購入,0円生活 | 25歳ミニマリスト Alek Manoah (SjOSkasqfj)",
+   "source": "Mshale",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-02T12:25:17+00:00",
+   "title_ja": "25歳ミニマリストの休日ルーティンと便利家電",
+   "summary_ja": "25歳のミニマリストが休日の節約生活や便利家電の購入を通して、シンプルで無駄のない暮らしを実践している様子を紹介する。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "便利家電"
    ],
    "importance": 3
   },
@@ -6983,237 +7204,6 @@
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
-   "importance": 3
-  },
-  {
-   "id": "49c084c00dc3fb15",
-   "url": "https://note.com/baripro001/n/nfc45ef7ff62d",
-   "title_original": "お金持ちほどモノを持たない本当の理由｜所有ではなく預かり",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/308273608/rectangle_large_type_2_c1c089cad2a1a0c4608ab7fa3844a870.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-29T14:47:03+00:00",
-   "title_ja": "お金持ちほどモノを持たない理由と所有の代償",
-   "summary_ja": "物を所有すると管理の手間や注意力といった見えないコストがかかるため、余分な物を持たないという考えに至った実体験を綴っています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "1edfee0633fac911",
-   "url": "https://uk.style.yahoo.com/housing-trend-embraces-midimalism-143400278.html",
-   "title_original": "A New Housing Trend Embraces ‘Midimalism’",
-   "source": "Yahoo Life UK",
-   "image": "https://s.yimg.com/lo/mysterio/api/4862138116be14b2a911b26c0ae901be79420f109cd47505bd1c4c5f220010ae/lightyear_networkapi/resizefill_w992_h661%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmyhomebook_uk_808%2F1f03fe8ea8ca594ba2990f4186856636.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-29T14:34:00+00:00",
-   "title_ja": "適度な物量で暮らす新たな住宅トレンド『ミディマリズム』",
-   "summary_ja": "極端なミニマリズムではなく、適度な物量と快適さを両立させる新しい住宅トレンド「ミディマリズム（Midimalism）」に関する記事です。すっきりとした空間でありながら、自分らしさも残す住まい方が注目を集めています。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "68d857202830a172",
-   "url": "https://www.lifehacker.jp/article/2608-amazon-ankerzolopowerbank-hgi",
-   "title_original": "ケーブル一体型&充電残量一目瞭然。3台同時可能なAnkerのモバイルバッテリー",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2025/05/11/140fb500-73de-481a-bb29-5930244d42b5/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-29T14:00:00+00:00",
-   "title_ja": "ケーブル一体型で荷物がすっきりするAnkerのモバイルバッテリー",
-   "summary_ja": "AnkerのZolo Power Bankを紹介。一体型USB-Cケーブルや充電残量がわかる液晶表示を備え、荷物を減らして3台同時に急速充電ができる利便性を解説している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "モバイルバッテリー",
-    "USB-Cケーブル"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "03ddef2b1112c9ee",
-   "url": "https://www.apartmenttherapy.com/visual-decluttering-trick-37686298",
-   "title_original": "My Sister’s Visual Decluttering Trick Is So Effective, I Used It in Every Room",
-   "source": "Apartment Therapy",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-29T13:53:20+00:00",
-   "title_ja": "部屋をすっきり見せる姉の視覚的な断捨離のコツ",
-   "summary_ja": "視覚的なノイズを減らして部屋をすっきり見せるための断捨離テクニックを紹介しています。すべての部屋に応用できる実践的な片づけの工夫です。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "76f7e75532b08e65",
-   "url": "https://www.lifehacker.jp/article/2608-amazon-insta360goultra-ghy",
-   "title_original": "マグネット装着で手ぶらで撮影。超軽量カメラなのに4K60fps",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2025/12/09/e1e0d53c-dce8-4d59-8657-677bc7501a86/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-29T13:45:00+00:00",
-   "title_ja": "マグネット装着で手ぶら撮影ができる超軽量カメラ",
-   "summary_ja": "わずか53gの超軽量ボディと4K60fps撮影機能を備えたInsta360 GO Ultraを紹介。マグネットで衣類に装着し、日常やスポーツの様子を手ぶらで記録できる。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "カメラ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "a07b23aa1d6195c3",
-   "url": "https://www.roomie.jp/2026/08/1832942",
-   "title_original": "狭い空間にどう置くか。ティッシュもフェイスタオルもキッチンペーパーも、全部このケースで良かったんだ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/yamajitsu-tissue-case-magnet-0829-top2.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-29T13:20:06+00:00",
-   "title_ja": "山崎実業のケースですっきり整える狭い空間の収納",
-   "summary_ja": "狭い洗面所やキッチンで生活感を出さずにティッシュやタオルを置くため、山崎実業のフタ付きティッシュケースボトル型を導入したレビューです。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "ティッシュケース",
-    "フェイスタオル",
-    "キッチンペーパー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "172731c29cc64bb5",
-   "url": "https://news.livedoor.com/topics/detail/32192434/?_clicked=echoes_list",
-   "title_original": "「スッキリとした空間」へ！21年間放置した“物の墓場”をリセットする究極の断捨離",
-   "source": "ライブドアニュース",
-   "image": "https://image.news.livedoor.com/newsimage/stf/4/d/4d3e0_1845_969b800e_a5d9f1cf.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-29T12:00:00+00:00",
-   "title_ja": "21年間放置した物の墓場をリセットする究極の断捨離",
-   "summary_ja": "長年放置されて物の墓場と化していた空間を徹底的にリセットし、スッキリとした空間へ生まれ変わらせた断捨離の様子を伝えています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "f68a67bf988bc1a9",
-   "url": "https://www.youtube.com/watch?v=vD9Epsl_0Qg",
-   "title_original": "防災リュックのアップデート",
-   "source": "mai minimalism",
-   "image": "https://i3.ytimg.com/vi/vD9Epsl_0Qg/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-08-29T11:00:32+00:00",
-   "title_ja": "ミニマリスト看護師が厳選する防災リュックの中身と備蓄の工夫",
-   "summary_ja": "看護師のミニマリストが厳選した防災グッズを紹介しています。防水バックパック、LEDヘッドライト、モバイルバッテリーなどを備え、停電や通信障害を考慮して現金などの貴重品を多めに用意する実践的なアイデアを語っています。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "防水 バックパック",
-    "LEDヘッドライト",
-    "モバイルバッテリー",
-    "手回しラジオライト"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "596210cd897a190b",
-   "url": "https://www.youtube.com/watch?v=b5G0faix2mM",
-   "title_original": "【Vlog】節約したいけど、我慢はしたくない。26歳一人暮らしの休日2日間 | ミニマリスト",
-   "source": "ミニマリストじゅん",
-   "image": "https://i3.ytimg.com/vi/b5G0faix2mM/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-08-29T11:00:09+00:00",
-   "title_ja": "節約と心地よさを両立させる26歳一人暮らしミニマリストの休日",
-   "summary_ja": "一人暮らしのミニマリストが、節約を意識しながらも我慢しない休日の過ごし方を紹介しています。ドリップケトル、スタンディングテーブル、小型冷蔵庫などの厳選したお気に入りアイテムを暮らしに取り入れる様子が描かれています。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "ドリップケトル",
-    "スタンディングテーブル",
-    "小型冷蔵庫",
-    "マグカップ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ae58120cd0662af2",
-   "url": "https://www.youtube.com/watch?v=n-c0ZsKJn60",
-   "title_original": "新刊「金運が上がる断捨離」の発売が開始しました！🎉",
-   "source": "やましたひでこ断捨離",
-   "image": "https://i3.ytimg.com/vi/n-c0ZsKJn60/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-08-29T11:00:08+00:00",
-   "title_ja": "断捨離を通じて金運が上がる家づくりを提案する書籍の紹介",
-   "summary_ja": "お金が貯まらない悩みや将来の不安を解消するために、断捨離を活用した家づくりの方法を提案する書籍を紹介しています。お金が逃げる家と貯まる家の違いや、その秘密を解説しています。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [
-    "本"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "b0782fb8cd8a9951",
-   "url": "https://news.livedoor.com/topics/detail/32192004",
-   "title_original": "物は持ちたくないのに物欲はある！ミニマリストが向き合う、物との上手な付き合い方 (2026年8月29日掲載)",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-29T10:30:01+00:00",
-   "title_ja": "物欲と闘うミニマリストが実践する物との上手な付き合い方",
-   "summary_ja": "物は持ちたくないけれど物欲はあるというミニマリストが、物と上手に付き合うための考え方について紹介している記事。物欲を抑えるための工夫や、本当に必要な物を見極める基準について語る。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "92bfdfc627bb0b88",
-   "url": "https://www.youtube.com/watch?v=drNClX4kinI",
-   "title_original": "年間40万円浮いた！ミニマリストが「やめただけ」の節約10選",
-   "source": "私だけミニマリスト｜南さやか",
-   "image": "https://i1.ytimg.com/vi/drNClX4kinI/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-08-29T10:00:31+00:00",
-   "title_ja": "我慢せずに実践できる！節約につながる「やめたこと」10選",
-   "summary_ja": "節約のために我慢するのではなく、日常の習慣を見直して「やめる」だけで年間約40万円の節約につながった方法を紹介しています。自分にとって本当に必要なものを見極める考え方が分かります。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "ac7da87759ac3058",
-   "url": "https://lee.hpplus.jp/column/3714584",
-   "title_original": "クローゼットの大断捨離で45Lゴミ袋がパンパンに！「服選びルール」も決めました…注目の3記事をチェック♪【LEE100人隊・2026】",
-   "source": "lee.hpplus.jp",
-   "image": "https://lee.hpplus.jp/wp-content/uploads/2026/08/29/311fa56348ec3cc4da88db800d8199ca.jpeg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-29T09:27:30+00:00",
-   "title_ja": "クローゼットの大断捨離と服選びのルールを決めた体験談",
-   "summary_ja": "クローゼットの大量の服を手放して45Lゴミ袋がパンパンになるまで断捨離した体験談です。これからの服選びのルールを決めることで、すっきりとしたクローゼットを保つ工夫が紹介されています。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "ゴミ袋"
-   ],
    "importance": 3
   }
  ]
