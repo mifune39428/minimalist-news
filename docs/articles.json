@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-07T00:10:34.724635+09:00",
+ "updated_at": "2026-09-07T05:11:36.960883+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,7 +29,7 @@
  "things": [
   {
    "name": "服",
-   "count": 14
+   "count": 15
   },
   {
    "name": "バッグ",
@@ -64,6 +64,10 @@
    "count": 3
   },
   {
+   "name": "CD",
+   "count": 2
+  },
+  {
    "name": "iPad",
    "count": 2
   },
@@ -89,6 +93,10 @@
   },
   {
    "name": "トランク",
+   "count": 2
+  },
+  {
+   "name": "バックパック",
    "count": 2
   },
   {
@@ -163,7 +171,6 @@
   "SHEmazing!",
   "Sarah Therese",
   "Simple Lionheart Life",
-  "South China Morning Post",
   "Southern Living",
   "TRILL",
   "TVer",
@@ -177,7 +184,7 @@
   "Treeline Review",
   "Vancouver Sun",
   "WEBザテレビジョン",
-  "Yahoo",
+  "WIRED",
   "Yahoo Life UK",
   "Yahoo Lifestyle Canada",
   "Yahoo!ニュース",
@@ -219,6 +226,64 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "692447b4920e3704",
+   "url": "https://note.com/erika06000/n/n24b2e9c99582",
+   "title_original": "家計を立て直すシリーズその壱",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/311064109/rectangle_large_type_2_79f5faae078f5385668bebaac39a6c76.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-06T19:13:21+00:00",
+   "title_ja": "家計見える化で支出削減に挑んだ話",
+   "summary_ja": "家計の見える化を始め、固定費削減と小額支出の把握に注力した結果、1日で132ユーロの無意識支出を発見し、支出感覚を改善した取り組みを紹介。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [
+    "クレジットカード"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4fd9cd63dcd34bdd",
+   "url": "https://note.com/quiet_tucan5658/n/nc704fc097646",
+   "title_original": "「買って、捨てる」をやめた。ペットボトルのない暮らし。",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/311058115/rectangle_large_type_2_a9550ff17fcaca2652e589a1ff3aacea.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-06T17:44:15+00:00",
+   "title_ja": "ペットボトル買わずマイボトル生活へ",
+   "summary_ja": "外出時のペットボトル購入をやめ、洗って潰すマイボトルを常備することでプラスチックゴミを大幅削減し、手間も減らした実践例を紹介。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "マイボトル",
+    "ペットボトル"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "3e30a655a9f22658",
+   "url": "https://note.com/sadistic24/n/n3d9f3c0f988e",
+   "title_original": "段階的な断捨離をしている。",
+   "source": "note #断捨離",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/ee25e0c09a9a70f6dc6ab04c859c7b6d8d9c6ff5.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-06T15:38:01+00:00",
+   "title_ja": "段階的な断捨離で思い出の品を見つめ直す",
+   "summary_ja": "着なくなった服や思い出の本など、当時は必要だったものの現在はなくても大丈夫な品々と向き合い、段階的に手放す過程をつづった体験談。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "服",
+    "本",
+    "コスメ",
+    "CD"
+   ],
+   "importance": 3
+  },
   {
    "id": "ed32a7aa77205ee2",
    "url": "https://note.com/kuromaru_journey/n/nafa55cd88bde",
@@ -355,6 +420,22 @@
    "importance": 3
   },
   {
+   "id": "72887e80d957b6f8",
+   "url": "https://www.apartmenttherapy.com/home-stager-recs-office-angular-37689407",
+   "title_original": "See How an Oddly Shaped Room Is Transformed into a Functional Living Space",
+   "source": "Apartment Therapy",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-06T13:15:00+00:00",
+   "title_ja": "いびつな形の部屋を機能的なリビングへ変身させた実例",
+   "summary_ja": "変わった形状の部屋を使い勝手の良い機能的なリビング空間へと整えた模様替えの実例。限られたスペースや変わった間取りを有効活用し、快適に暮らすための工夫が紹介されています。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "737a69f3c1617b36",
    "url": "https://monomax.jp/archives/360368",
    "title_original": "【キャンプギアじゃない方の傑作】キャプテンスタッグの“レトロなガラス容器”は洒落感がすごい！食卓が一瞬でカフェ化する涼感アイテム3選",
@@ -410,6 +491,22 @@
    "importance": 4
   },
   {
+   "id": "c1224e80f6b45b6a",
+   "url": "https://www.apartmenttherapy.com/alaterre-melody-twin-king-bed-storage-review-37689214",
+   "title_original": "I Put This Storage Gem in Our Guest Bedroom, and It’s the Smartest Small-Space Solution",
+   "source": "Apartment Therapy",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-06T12:30:00+00:00",
+   "title_ja": "ゲストルームに導入した狭い部屋向けの収納アイテム",
+   "summary_ja": "ゲスト用の寝室に、狭いスペースを有効活用できる優秀な収納アイテムを導入した体験談。限られた空間をすっきりと整理し、スマートに活用するための解決策を紹介している。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "7306a60b5c18228b",
    "url": "https://www.roomie.jp/2026/09/1878286",
    "title_original": "3冊リピート中！ 「550円の透明バインダー」を、現金管理や整理収納に活用してます",
@@ -424,6 +521,63 @@
    "axis": "own",
    "things": [
     "透明バインダー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b3c655a7c73ec8aa",
+   "url": "https://www.youtube.com/shorts/4bNDMuQhWMY",
+   "title_original": "【断捨離】水と同じくらい大事な備蓄品 #断捨離 #やましたひでこ #danshari",
+   "source": "やましたひでこ断捨離",
+   "image": "https://i1.ytimg.com/vi/4bNDMuQhWMY/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-09-06T11:30:11+00:00",
+   "title_ja": "断捨離の提唱者が語る水と同じくらい大切な備蓄品",
+   "summary_ja": "断捨離の提唱者であるやましたひでこ氏が、災害などの備えとして水と同じくらい重要だと考える備蓄品について語る動画。不要なものを手放す一方で、本当に必要な備えをどのように確保すべきかという視点を示している。",
+   "category": "心・習慣",
+   "axis": "own",
+   "things": [
+    "水"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "9c5167ccbaa0315e",
+   "url": "https://www.lifehacker.jp/article/2608-costorypo-multitool-review1-1899654845",
+   "title_original": "DIYやアウトドアで活躍。20機能がひとつになったカードサイズのマルチツール",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/07/24/156c7b30-7497-4286-9ffa-b7a9c3695f97/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-06T11:30:00+00:00",
+   "title_ja": "重い工具セットを不要にするカード型マルチツール",
+   "summary_ja": "重くてかさばる工具セットの代わりに、財布やポケットに入るカードサイズのマルチツールを紹介。ナイフやノコギリ、ドライバーなど20種類以上の機能を備え、日常のDIYやキャンプ、災害時の備えとしても役立つアイテム。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "NEEDN’t マルチツール",
+    "ナイフ",
+    "ノコギリ",
+    "ドライバー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "423dfa39d98982de",
+   "url": "https://www.wired.com/story/best-laptop-backpacks",
+   "title_original": "I’ve Tested Many, Many Laptop Backpacks. These Are the Ones I’d Buy",
+   "source": "WIRED",
+   "image": "https://media.wired.com/photos/6a9b6e21074e05014033d571/191:100/w_1280,c_limit/The-Best-Laptop-Backpacks-I%E2%80%99ve-Tested-for-Work,-Travel,-and-Everyday-Life.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-06T11:30:00+00:00",
+   "title_ja": "多数のPC用バックパックを試した筆者が選ぶ愛用品",
+   "summary_ja": "数多くのノートPC用バックパックをテストしてきた筆者が、実際に自分で購入したいと思えるおすすめのバックパックを紹介する記事。デザインや機能性を比較したうえで、厳選された製品を提案している。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "バックパック"
    ],
    "importance": 3
   },
@@ -720,6 +874,24 @@
    "importance": 3
   },
   {
+   "id": "9611e398f62fd06f",
+   "url": "https://parade.com/shopping/walmart-homfa-tall-pantry-cabinet-sale-september-2026",
+   "title_original": "Walmart's Freestanding Storage Cabinet Is an 'Elegant' Way to Declutter Kitchens and Entryways",
+   "source": "parade.com",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-06T08:15:00+00:00",
+   "title_ja": "ウォルマートの収納キャビネットを使った片付け",
+   "summary_ja": "ウォルマートの自立式収納キャビネットを使用して、キッチンや玄関周りをすっきりと片付ける方法について紹介している。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "収納キャビネット"
+   ],
+   "importance": 2
+  },
+  {
    "id": "fd1dc98f5ebee5ec",
    "url": "https://www.lifehacker.jp/article/2609-costorypo-mynumbercardcase-review1-1086083703",
    "title_original": "スキミング防止機能も。名前や住所などの個人情報だけ隠せる本革マイナカードケース",
@@ -736,6 +908,22 @@
     "マイナンバーカードケース"
    ],
    "importance": 3
+  },
+  {
+   "id": "ea6c23c6d78bdd3f",
+   "url": "https://mshale.com/70698423/41da0090r-uO5hqQb7w",
+   "title_original": "築44年賃貸⌇ちょっと不便な団地だけどそれもまた良し🌈💚コツコツ断捨離中📦️🌟 Blue Jays Score (2BTQka7rNI)",
+   "source": "Mshale",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-06T07:10:45+00:00",
+   "title_ja": "築44年の不便な団地でコツコツと断捨離を進める暮らし",
+   "summary_ja": "築44年の少し不便な団地暮らしの中、日々の生活を見直しながらコツコツと荷物を減らして断捨離に励んでいる人の記録。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
   },
   {
    "id": "27709c8a445b9914",
@@ -7011,174 +7199,6 @@
    "title_ja": "子どもの大学進学後に丁寧な片付けを進めるコツ",
    "summary_ja": "子どもが大学進学で家を出た後、残された部屋や所有物を思慮深く整理する方法を専門家が解説する記事。家族の環境の変化に合わせて持ち物を見直し、無理なく家の中を片付ける視点がまとめられている。",
    "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "48f6f0d50e641a26",
-   "url": "https://www.yahoo.com/lifestyle/articles/1-decluttering-rule-makes-letting-191000566.html",
-   "title_original": "The 1 Decluttering Rule That Makes Letting Go Of Books Easier",
-   "source": "Yahoo",
-   "image": "https://s.yimg.com/lo/mysterio/api/eb3a8170bef3ce485be8d1c94894bbf76cb60b19f30fd41043bf20b1a919996c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsouthern_living_806%2Fb9465a53f46c0d02ae55bbafd291011f.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-30T19:10:00+00:00",
-   "title_ja": "本を手放すのが簡単になる片づけのルール",
-   "summary_ja": "本を手放すハードルを下げ、整理整頓をスムーズにするためのシンプルなルールについて紹介している海外のニュース記事。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "本"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "69934c3cfb28f9a4",
-   "url": "https://www.thespruce.com/clutter-worth-donating-12065055",
-   "title_original": "You Might Think It’s Just Clutter, But Organizing Pros Say You Should Donate These 7 Common Items",
-   "source": "The Spruce",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-30T19:07:00+00:00",
-   "title_ja": "プロが寄付を勧める身の回りの7つのアイテム",
-   "summary_ja": "片づけのプロが、ただの不用品だと思われがちだが実は寄付するべきだと推奨する一般的な7つのアイテムについて解説している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "58834eb65b0c886c",
-   "url": "https://note.com/hikari2024/n/n354093bfa00f",
-   "title_original": "高かった化粧水。 でも、捨てるのにもお金がかかる。",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/308190644/rectangle_large_type_2_0a0fde9923d328f0dd527cf48907f0fe.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-30T18:01:39+00:00",
-   "title_ja": "使っていない高価な化粧水の処分についての思い",
-   "summary_ja": "高かった化粧水を手放そうとした際、処分するのにも費用がかかるという現実について感じたことを綴っている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "化粧水"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "f2068d4d81dc3ccc",
-   "url": "https://note.com/fuji_20260213/n/nfa0e587feb2c",
-   "title_original": "200投稿",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/308320289/rectangle_large_type_2_cab9345986c40b91925b9795eeaad5a2.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-30T17:22:01+00:00",
-   "title_ja": "出産を機に「中古で買って売る」レンタル感覚のモノ選びへ変化した話",
-   "summary_ja": "妊娠前は物を増やさないシンプルな暮らしを目指していたが、出産後に考え方が変化。使用期間の短い赤ちゃん用品などは、無理に我慢せず「中古で買って、不要になったら売る」というレンタル感覚で利用し、減価償却できるかを意識して購入するようになった様子を綴る。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [
-    "赤ちゃん用品"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "6906fbbc0760c677",
-   "url": "https://www.scmp.com/posties/kids/big-read/article/3364670/how-manage-mess-tidying-expert",
-   "title_original": "How to manage mess, from a tidying expert",
-   "source": "South China Morning Post",
-   "image": "https://static.youngpostclub.com/article_image/sites/default/files/d8/images/canvas/2026/08/20/ee2c1083-d1f8-4c12-86aa-fb8189a2ee07_80ca3a82.jpg?image_process=crop,x_0,y_109,w_4096,h_2303",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-30T17:00:00+00:00",
-   "title_ja": "片付けの専門家に学ぶ、散らかった部屋の管理方法",
-   "summary_ja": "片付けの専門家が語る、散らかった部屋やモノをうまく管理するためのコツについて解説しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "afffae20954cc784",
-   "url": "https://note.com/miyabi_no_note34/n/nd5a165557040",
-   "title_original": "私の理想は、この世界にはなかった。",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/308663476/rectangle_large_type_2_b57fc002ba37119203ee5e6866eec451.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-30T15:27:52+00:00",
-   "title_ja": "自分の理想の暮らしを見つめ直した気づきについて",
-   "summary_ja": "何度も聞いてきた言葉の本当の意味が、ようやく腑に落ちたという断捨離に関する気づきをつづった記事です。自分の理想の暮らしや手放し方を見つめ直すきっかけについて語られています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "724f539909a1e78f",
-   "url": "https://www.goodhousekeeping.com/home/organizing/a73443847/keep-clutter-from-coming-back-hack",
-   "title_original": "The Simple Habit Professional Organizers Swear By to Keep Clutter From Coming Back",
-   "source": "Good Housekeeping",
-   "image": "https://hips.hearstapps.com/hmg-prod/images/2b0278e7-5572-447f-8e62-54551d5e1f78.jpeg?crop=0.889308176101xw:1xh;center,top&resize=1200:*",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-30T15:11:20+00:00",
-   "title_ja": "プロが勧める部屋の散らかりを防ぐためのシンプルな習慣",
-   "summary_ja": "整理整頓のプロフェッショナルが、一度片付けた部屋に再びモノが溢れて散らかるのを防ぐために実践している、シンプルで効果的な日常の習慣について紹介している記事。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "97f2e65820a1a111",
-   "url": "https://note.com/gay_abelia8769/n/n3a0815c52862",
-   "title_original": "535.クレカ解約は５分。でも本当に気を付けるべきはポイント",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/img/1783018170-4GKQWXCTHewZkxOsmuAUL89I.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-30T15:02:12+00:00",
-   "title_ja": "クレジットカードを解約した時の体験と注意点",
-   "summary_ja": "クレジットカードの解約自体は短時間で終わるものの、保有しているポイントの扱いなどで本当に気をつけるべき点について触れられています。持ち物や不要な契約を見直すお金の管理に関する話題です。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [
-    "クレジットカード"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "addddea663939098",
-   "url": "https://note.com/kion123/n/n9de772a2924d",
-   "title_original": "50代、手放す時に「絶対泣く」と確信しているモノ",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/img/1788100891-GcAsTuL0Sz6DQOEogKFR2qCy.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-30T14:55:06+00:00",
-   "title_ja": "50代からの手放し時に思い入れがあるモノについて",
-   "summary_ja": "50代で会社員に復帰した著者が、今後ものを手放す際にどうしても強い思い入れから泣いてしまうと確信している特別な品について語っています。手放す基準や心の整理に向き合うエピソードです。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "5c433a8c9b66bae1",
-   "url": "https://note.com/ryuen_japan/n/n794193fb5ca8",
-   "title_original": "ミニマリスト : Minimalist",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/308645546/rectangle_large_type_2_ad98d07883f945cd54d2762e4a049cbb.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-30T14:52:36+00:00",
-   "title_ja": "シンプルな生き方に憧れながら散らかる現実に向き合う",
-   "summary_ja": "シンプルな人生やミニマリストの生き方に憧れつつも、散らかった部屋の現実に直面している様子を描いています。自分が本当に残したいものや必要なものを見極めるための葛藤をつづっています。",
-   "category": "心・習慣",
    "axis": "reduce",
    "things": [],
    "importance": 3
