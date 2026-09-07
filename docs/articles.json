@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-07T20:56:55.950799+09:00",
+ "updated_at": "2026-09-08T02:32:53.103612+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,27 +29,31 @@
  "things": [
   {
    "name": "服",
-   "count": 15
-  },
-  {
-   "name": "バッグ",
-   "count": 8
+   "count": 16
   },
   {
    "name": "iPhone",
-   "count": 6
+   "count": 7
   },
   {
-   "name": "スマートフォン",
-   "count": 6
+   "name": "バッグ",
+   "count": 7
   },
   {
    "name": "本",
    "count": 6
   },
   {
+   "name": "スマートフォン",
+   "count": 5
+  },
+  {
    "name": "食器",
-   "count": 6
+   "count": 5
+  },
+  {
+   "name": "クレジットカード",
+   "count": 4
   },
   {
    "name": "スマホ",
@@ -76,14 +80,6 @@
    "count": 3
   },
   {
-   "name": "夏服",
-   "count": 3
-  },
-  {
-   "name": "鍵",
-   "count": 3
-  },
-  {
    "name": "CD",
    "count": 2
   },
@@ -100,11 +96,11 @@
    "count": 2
   },
   {
-   "name": "クレジットカード",
+   "name": "ゴミ袋",
    "count": 2
   },
   {
-   "name": "ゴミ袋",
+   "name": "サブスク",
    "count": 2
   },
   {
@@ -116,10 +112,6 @@
    "count": 2
   },
   {
-   "name": "トランク",
-   "count": 2
-  },
-  {
    "name": "リング",
    "count": 2
   },
@@ -128,11 +120,11 @@
    "count": 2
   },
   {
-   "name": "充電器",
+   "name": "冷蔵庫",
    "count": 2
   },
   {
-   "name": "冷蔵庫",
+   "name": "夏服",
    "count": 2
   },
   {
@@ -144,6 +136,10 @@
    "count": 2
   },
   {
+   "name": "掃除機",
+   "count": 2
+  },
+  {
    "name": "本棚",
    "count": 2
   },
@@ -152,7 +148,7 @@
    "count": 2
   },
   {
-   "name": "財布",
+   "name": "鍵",
    "count": 2
   }
  ],
@@ -213,7 +209,6 @@
   "parade.com",
   "t.co",
   "thetv.jp",
-  "women.com",
   "ねとらぼ",
   "ぴーこ｜ゆるっとミニマルな日常",
   "まぐまぐ",
@@ -230,10 +225,265 @@
   "双葉社 THE CHANGE",
   "小さな暮らしノート",
   "私だけミニマリスト｜南さやか",
-  "筆子ジャーナル"
+  "筆子ジャーナル",
+  "ｄメニューニュース"
  ],
  "count": 400,
  "items": [
+  {
+   "id": "0e90f2f3acb44a95",
+   "url": "https://note.com/yorozuyatetsu/n/n39b0b17d04bf",
+   "title_original": "掃除機を買い替えても部屋が片付かなかった俺が、床に置かないと決めた話",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/311278977/rectangle_large_type_2_8b5c32e4de36e6b72118f137573905ca.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-07T17:19:34+00:00",
+   "title_ja": "床に物を置かないと決めた掃除機買い替え失敗談",
+   "summary_ja": "新しい掃除機を買っても部屋は片付かず、床に物が散らばっていることが原因と気付いた筆者は、床に何も置かないルールを作り、持ち物を減らすことで整理した。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "掃除機"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d39412dbeb5aa569",
+   "url": "https://note.com/kasetsu_senko/n/nbfb17a7787d0",
+   "title_original": "「使ってないから解約」の前に、必ずやることがある",
+   "source": "note #断捨離",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/4d683fd3aa42cd42c8d51a306677fb6506ed16e9.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-07T15:56:47+00:00",
+   "title_ja": "未使用サービス解約前にやるべき整理",
+   "summary_ja": "使っていないメールアドレスや口座、固定電話、クラウドストレージなどを解約する前に、まず全ての未使用サービスをリスト化し整理する重要性を解説する。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [
+    "メールアドレス",
+    "口座",
+    "固定電話",
+    "クラウドストレージ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "f5c7cbdd2a2f8d98",
+   "url": "https://note.com/mtttb/n/n5b90ddedce2b",
+   "title_original": "住居遍歴（かなり長文）",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/311381313/rectangle_large_type_2_bff3c65ada24a2b03a53bead79837f18.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-07T15:26:13+00:00",
+   "title_ja": "荷物を減らしバックヤードで暮らす住居遍歴",
+   "summary_ja": "荷物を極力減らし、店のバックヤードで生活している筆者が、過去の住居遍歴や部屋への妄想を振り返り、少ない持ち物での暮らし方を語る。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "バックヤード",
+    "荷物"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "cfa88ac5374161cb",
+   "url": "https://note.com/hibi_b_note/n/n24b6f85f8df2",
+   "title_original": "なんでもメッシュ",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/311354126/rectangle_large_type_2_8796cc105ed51de3142ffce9cabb212c.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-07T15:09:41+00:00",
+   "title_ja": "持ち歩く荷物を減らすための微調整を続ける話",
+   "summary_ja": "荷物を少しでも減らすため、持ち歩くアイテムの見直しと微調整を日々続けていることについての記録。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "メッシュ素材の小物"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "64ebdabaa6dd41be",
+   "url": "https://note.com/rosy_wolf2732/n/nd4c3c368b0a0",
+   "title_original": "ミニマリストは学ばない。",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/311371631/rectangle_large_type_2_c8d5ff53b3b6275dcafb799a5ec88cb7.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-07T14:58:05+00:00",
+   "title_ja": "セールで服を買わないと決めた人の話",
+   "summary_ja": "季節の変わり目のセールで服を買うと使いこなせず後悔するため、買わないと決めている人の体験談。姉に服を選別してもらったエピソードもある。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "7c8b6386f81aa2d2",
+   "url": "https://note.com/greatest_life/n/n1c8b33e1cc5f",
+   "title_original": "ミニマリスト的節約術",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/311362390/rectangle_large_type_2_7504c6c7b09b7c91e552c8d1c5314b32.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-07T14:21:11+00:00",
+   "title_ja": "モノを減らして自然にお金を貯める節約術",
+   "summary_ja": "持ち物を厳選し、我慢を伴わない選択をすることで、自然にお金が貯まる仕組みを実践しているミニマリストの考え方。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "5c63074345d33c6f",
+   "url": "https://note.com/runa0328/n/n60f85feb3f1f",
+   "title_original": "私を自由にする『365日ワンピース』",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/311352825/rectangle_large_type_2_ae5e7e81f17527eb122213de960ff4e0.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-07T13:54:38+00:00",
+   "title_ja": "荷物を減らすために365日ワンピース生活を選んだ話",
+   "summary_ja": "海外との往復や引越しのたびに多すぎる衣類に後悔し、荷物を少なくするために10年以上「365日ワンピース生活」を続けている人の体験談。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "ワンピース"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "67db6497b73b4c20",
+   "url": "https://www.lifehacker.jp/article/2609-lht-sanwa-deskrack",
+   "title_original": "その手があった！ デスクが狭い→モニターの上に空間増設して広くできた",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2025/07/02/a7b187f5-aa0d-4e21-a36c-ddc252e90aba/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-07T13:15:00+00:00",
+   "title_ja": "狭いデスクを広く使う！モニター上の空間を活用するラック",
+   "summary_ja": "デスクの狭さに悩む筆者が、24インチのモニター上に空間を増設できるサンワダイレクトの机上ラックを2年間使った感想を紹介しています。限られたスペースを最大限に活かして、作業環境をすっきりと整える工夫が分かります。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "机上ラック",
+    "モニター"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "0e4590c6d840d7c5",
+   "url": "https://www.bhg.com/household-papers-to-toss-11986266",
+   "title_original": "7 Household Papers You’re Probably Keeping (But Definitely Should Toss)",
+   "source": "Better Homes & Gardens",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-07T13:05:00+00:00",
+   "title_ja": "自宅に残しがちな不要な紙類を手放す方法",
+   "summary_ja": "家に溜まりがちな紙類の中で、多くの人が保管し続けているものの、実際には手放すべき7つのアイテムについて解説しています。不要な書類を見極めて処分し、身の回りをすっきりと整えるためのヒントが得られます。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "197efd5d0149435b",
+   "url": "https://www.lifehacker.jp/article/2609-costorypo-w28s-lh-editorialreview-1591703559",
+   "title_original": "出会った「最高の一瞬」を、逃さず残す。サブ三脚が隠れた3-in-1カーボン三脚",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/09/01/d646076c-3bf5-4f73-b05c-f372bcb30e9c/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-07T12:30:00+00:00",
+   "title_ja": "1台で3役 3-in-1カーボン三脚の紹介",
+   "summary_ja": "1本のカーボン製三脚W28Sは、センターポールを抜くだけでフルサイズ、ミニ三脚、ボールヘッドの3役をこなし、旅行撮影で複数台やローアングル撮影も可能です。これにより複数の三脚を持ち歩く必要が減り、ミニマリストの撮影環境をシンプルにします。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "W28S三脚",
+    "カーボン三脚"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e29e49e554753e71",
+   "url": "https://topics.smt.docomo.ne.jp/article/otonanswer/life/otonanswer-390725",
+   "title_original": "カード明細の「カタカナ表記」に注意 年末までに固定費を月5000円減らす“サブスク断捨離術”とは【FP解説】",
+   "source": "ｄメニューニュース",
+   "image": "https://img.topics.smt.news.goo.ne.jp/picture/otonanswer/m_otonanswer-390725.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-07T12:15:00+00:00",
+   "title_ja": "サブスクを見直し月5千円削減する方法",
+   "summary_ja": "カード明細にカタカナで記載されたサブスク名をチェックし、使っていないサービスを解約することで、月5千円の固定費削減を目指す具体的な手順を解説しています。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [
+    "クレジットカード",
+    "サブスク"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "60298cfb79ebf6f3",
+   "url": "https://news.livedoor.com/topics/detail/32265795",
+   "title_original": "カード明細のカタカナ表記を確認、サブスク断捨離で月5000円を節約する方法 (2026年9月7日掲載)",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-07T12:15:00+00:00",
+   "title_ja": "サブスク断捨離で月5千円節約するポイント",
+   "summary_ja": "クレジットカードの明細表記を確認し、カタカナ表記のサブスクを洗い出すと、無駄な契約を断ち切り、月5千円の支出削減が可能になる方法を紹介しています。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [
+    "クレジットカード",
+    "サブスク"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "148f37452a723e7b",
+   "url": "https://www.theminimalists.com/p555",
+   "title_original": "Podcast Ep. 555 | Born to Walk",
+   "source": "The Minimalists",
+   "image": "",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-09-07T12:00:55+00:00",
+   "title_ja": "歩くことを実践に変えるミニマリストの考え方",
+   "summary_ja": "The Minimalists の第555回ポッドキャストでは、歩くことを単なる予定ではなく日々の実践と捉える姿勢が語られ、ミニマリスト的な生活習慣のヒントが提供されます。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "46f5eb30123af22a",
+   "url": "https://www.lifehacker.jp/article/2609matome-iphone",
+   "title_original": "新型iPhone発表前におさらい。手元のスマホを長持ちさせる3つの見直し術",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/09/06/257fef53-a341-45e4-a78b-1f9356ea2183/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-07T12:00:00+00:00",
+   "title_ja": "古いiPhoneを長持ちさせる3つの見直し術",
+   "summary_ja": "最新機種に乗り換えるより、設定の見直しやバッテリー管理、不要アプリの削除など3つのポイントを実践すれば、数年前のiPhoneでも快適に使い続けられ、買い替え費用を抑えられます。",
+   "category": "道具・ガジェット",
+   "axis": "reduce",
+   "things": [
+    "iPhone"
+   ],
+   "importance": 3
+  },
   {
    "id": "0fc260c715d163f8",
    "url": "https://note.com/light_jacana444/n/n14dc25a458e2",
@@ -6974,250 +7224,6 @@
     "服"
    ],
    "importance": 4
-  },
-  {
-   "id": "110502d01dc6006b",
-   "url": "https://www.youtube.com/watch?v=G60dSDCqfDI",
-   "title_original": "【間違いだらけの終活】70歳からの人生を最高に楽しむ方法",
-   "source": "やましたひでこ断捨離",
-   "image": "https://i4.ytimg.com/vi/G60dSDCqfDI/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-08-31T22:00:15+00:00",
-   "title_ja": "70歳からの人生を最高にするための断捨離の考え方",
-   "summary_ja": "年齢を重ねたこれからの人生をどのように捉え、軽やかに過ごしていくかについて語る動画。終活やこれからの暮らしに向けたマインドの整え方を知ることができる。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "ee9de0a36472b05e",
-   "url": "https://www.lifehacker.jp/article/2609-korekai-sunstar-bookcliplight",
-   "title_original": "ブックライトをクリップ型にしたら、寝る前の読書がここまではかどりました！",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2025/12/04/a394d184-0051-4084-abf8-0656b6bec8a7/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-31T22:00:00+00:00",
-   "title_ja": "クリップ型ブックライトで寝る前の読書を快適にした話",
-   "summary_ja": "本を挟むだけで使えるクリップ型のブックライトを導入し、寝る前の読書環境を快適にした体験談。読書時間を充実させるための具体的な道具選びの参考になる。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ブックライト"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "58bf82010cbff7d3",
-   "url": "https://www.youtube.com/shorts/BOu5ZmierXE",
-   "title_original": "百均だらけだったキッチン変えました #シングルマザー #片付けられない #ミニマリスト",
-   "source": "小さな暮らしノート",
-   "image": "https://i3.ytimg.com/vi/BOu5ZmierXE/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-08-31T21:54:55+00:00",
-   "title_ja": "百均のキッチン用品を手放し管理しやすく整えた話",
-   "summary_ja": "安さで増えた百均の食器やキッチン用品を手放し、ニトリや無印良品のアイテムに買い替えた事例。片付けが苦手でも管理しやすいキッチンへ整えた工夫がわかる。",
-   "category": "キッチン・食",
-   "axis": "reduce",
-   "things": [
-    "食器",
-    "キッチン用品"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "dfa1180719ba749f",
-   "url": "https://note.com/uminosan111/n/nb7f81e6301c8",
-   "title_original": "捨てれば捨てるほど資産が増える？富裕層が密かに実践する「禅のミニマリズム」と空間の法則",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/img/1788211816-7COtgjW0mU8LrF25qpMlbvVf.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-31T21:30:24+00:00",
-   "title_ja": "富裕層が実践する禅のミニマリズムと空間の法則",
-   "summary_ja": "物を捨てることで資産や空間が増えるという、富裕層が密かに実践している禅のミニマリズムと空間の法則についての記事。手放すことによる暮らしやお金の変化について語られています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "fc9cdfe026ecc4ce",
-   "url": "https://note.com/uminosan111/n/n08abd88961df",
-   "title_original": "部屋のガラクタを捨てると銀行口座にお金が流れ込む？人生の滞りを一瞬で解消する魔法の断捨離ロジック",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/img/1788211696-r5awdUbE8YRPMOBti3xypNZK.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-31T21:28:25+00:00",
-   "title_ja": "部屋のガラクタを捨てて人生の滞りを解消する断捨離術",
-   "summary_ja": "部屋の不要なガラクタを捨てることで、人生の滞りを一瞬で解消し、お金の流れも良くなるという断捨離のロジックについて解説されている記事です。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "e1b7b6bd18a98541",
-   "url": "https://www.women.com/2241446/best-tips-storing-summer-clothes-for-fall",
-   "title_original": "The Best Tips For Storing Your Summer Clothing As We Head Into Fall",
-   "source": "women.com",
-   "image": "https://www.women.com/img/gallery/the-best-tips-for-storing-your-summer-clothing-as-we-head-into-fall/l-intro-1787316295.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-08-31T21:00:00+00:00",
-   "title_ja": "秋に向けて夏服を適切に保管するためのベストな方法",
-   "summary_ja": "秋の訪れにあわせて、夏の衣類をきれいに片付けて保管するための役立つヒントやコツを紹介している海外のライフスタイル記事です。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "夏服"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "e57b88c5df93072e",
-   "url": "https://note.com/metastyle/n/n6a330531678a",
-   "title_original": "Shoebill UL Trail X-Pocketは、財布とバッグを一つにまとめる",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/308695401/rectangle_large_type_2_ce7322687912f3641b84db88148a4013.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-31T20:32:01+00:00",
-   "title_ja": "財布とバッグを一つにまとめるShoebillのトレイルポケット",
-   "summary_ja": "ちょっとした外出時の持ち物を減らすため、財布とバッグの機能を一つにまとめてポケットや手荷物をスッキリさせるアイテム。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "財布",
-    "バッグ",
-    "スマートフォン",
-    "鍵"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "32060d5acbca3c1a",
-   "url": "https://www.youtube.com/shorts/AgYv8N_XIe8",
-   "title_original": "What are you making space for?",
-   "source": "The Minimalists",
-   "image": "https://i2.ytimg.com/vi/AgYv8N_XIe8/hqdefault.jpg",
-   "media": "youtube",
-   "region": "海外",
-   "published": "2026-08-31T17:38:39+00:00",
-   "title_ja": "スペースを作る意味を問い直すミニマリストの動画",
-   "summary_ja": "日々の暮らしの中で、何のためにスペースを空けているのかを見つめ直す内容の動画。物を手放した先にあるゆとりや、空間の価値について考えるきっかけを提供している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "a20d5b5d3c4a3c57",
-   "url": "https://news.livedoor.com/article/image_detail/32206438/?img_id=56059402",
-   "title_original": "【画像】トランクひとつで家出するなら何を持ち出す？ミニマリストの断捨離術 1/6",
-   "source": "ライブドアニュース",
-   "image": "https://image.news.livedoor.com/newsimage/stf/6/3/63271_1557_a6ea76a90500dce3597b6282753ec14e.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-08-31T17:37:10+00:00",
-   "title_ja": "トランクひとつで家出するなら？ミニマリストの断捨離術",
-   "summary_ja": "トランクひとつという極限の状態で移動することを想定し、本当に必要なものを見極めるミニマリストの断捨離術を解説。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "トランク"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "58cff321e36cd273",
-   "url": "https://nosidebar.com/7-euro-habits-to-simplify-your-life",
-   "title_original": "7 Euro Habits to Simplify Your Life",
-   "source": "No Sidebar",
-   "image": "https://nosidebar.com/wp-content/uploads/tamara-bellis-zK8NxpoJZ9o-unsplash1-scaled.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-08-31T14:00:00+00:00",
-   "title_ja": "ヨーロッパ旅行から得た暮らしをシンプルにする習慣",
-   "summary_ja": "ヨーロッパへの旅行を通じて自身の生活や持ち物を見直し、日々の暮らしをよりシンプルで快適なものにするための7つの習慣について紹介している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "10f34d231b29ea46",
-   "url": "https://www.roomie.jp/2026/08/1875682",
-   "title_original": "あえて今「初代Apple Watch Ultra」を中古で購入。買っては手放していたけど、ようやく継続できています",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/20260831-applewatchultra-01.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-31T13:30:18+00:00",
-   "title_ja": "何度も買っては手放した末に行き着いた初代Apple Watch Ultra",
-   "summary_ja": "スマートウォッチを何度も買っては手放すことを繰り返していた執筆者が、あえて今中古で購入し、ようやく継続して使いこなせるようになった初代Apple Watch Ultraについて語っている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "Apple Watch Ultra"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "70962aa7e9588166",
-   "url": "https://note.com/yktktbs283/n/n7175036b2aeb",
-   "title_original": "2026.8.31 月",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/308957506/rectangle_large_type_2_7c70cef976f7e564fdae6afdefaade9b.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-31T12:54:33+00:00",
-   "title_ja": "家族5人での暮らしで片付けと断捨離を進める話",
-   "summary_ja": "家族5人で暮らす中で、家の中を片付けて不要なものを整理した人の記録。片付けを通じて本当に必要なものを見つめ直し、さらに断捨離したくなった気持ちをつづっている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "3195b1e30be24e6a",
-   "url": "https://www.roomie.jp/2026/08/1875053",
-   "title_original": "濡らして振るだけ。山善のポンチョでクールダウン",
-   "source": "ROOMIE",
-   "image": "https://www.roomie.jp/wp-content/uploads/2025/08/1-18.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-31T12:15:52+00:00",
-   "title_ja": "濡らして振るだけで冷える山善のポンチョ",
-   "summary_ja": "強烈な夏の暑さ対策として導入した、山善のポンチョの使用感を紹介しています。水に濡らして振るだけで手軽にクールダウンできるアイテムです。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ポンチョ"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "fcbba81a6a77cd2a",
-   "url": "https://www.roomie.jp/2026/08/1876405",
-   "title_original": "荷物を減らしたい1泊の旅行や出張、CIOの小さな逸品で十分でした",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/37A6092-2.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-08-31T12:00:46+00:00",
-   "title_ja": "1泊の出張や旅行の荷物を減らすCIOの充電器",
-   "summary_ja": "1泊程度の出張や旅行で荷物を軽くするため、CIOの充電器「NovaWave 3Way+」を取り入れている事例です。最小限のアイテムで身軽に移動したい人向けの実用品です。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "充電器"
-   ],
-   "importance": 3
   }
  ]
 }
