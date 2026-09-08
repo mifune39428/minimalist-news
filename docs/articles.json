@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-08T12:41:59.476542+09:00",
+ "updated_at": "2026-09-08T19:53:40.097900+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,7 +29,7 @@
  "things": [
   {
    "name": "服",
-   "count": 14
+   "count": 16
   },
   {
    "name": "iPhone",
@@ -64,6 +64,10 @@
    "count": 4
   },
   {
+   "name": "アクセサリー",
+   "count": 3
+  },
+  {
    "name": "テレビ",
    "count": 3
   },
@@ -92,14 +96,6 @@
    "count": 2
   },
   {
-   "name": "アクセサリー",
-   "count": 2
-  },
-  {
-   "name": "ガラス容器",
-   "count": 2
-  },
-  {
    "name": "ゴミ袋",
    "count": 2
   },
@@ -113,6 +109,10 @@
   },
   {
    "name": "テレホンカード",
+   "count": 2
+  },
+  {
+   "name": "ハンモック",
    "count": 2
   },
   {
@@ -144,10 +144,6 @@
    "count": 2
   },
   {
-   "name": "美容液",
-   "count": 2
-  },
-  {
    "name": "鍵",
    "count": 2
   },
@@ -157,7 +153,6 @@
   }
  ],
  "sources": [
-  "9News",
   "A Slob Comes Clean",
   "Apartment Therapy",
   "Balance Through Simplicity",
@@ -187,19 +182,17 @@
   "The Minimalists",
   "The Simplicity Habit",
   "The Spruce",
-  "The Sun",
   "The Telegraph",
   "The i Paper",
   "Treeline Review",
   "Vancouver Sun",
   "WIRED",
   "Yahoo Life UK",
-  "Yahoo Lifestyle Canada",
   "Yahoo!ニュース",
   "YouTube",
-  "emogram",
   "english.dainikjagranmpcg.com",
   "krepsiniozinios.lt",
+  "livingetc.com",
   "marthastewart.com",
   "news.livedoor.com",
   "news.nicovideo.jp",
@@ -230,6 +223,214 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "08bdb4720bd7b253",
+   "url": "https://www.lifehacker.jp/article/machi-ya-magdgetheadphone-start-970996",
+   "title_original": "懐かしくも、新しい。無線でも有線でも使えるレトロ風超軽量ヘッドホン",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/09/08/4e6b65ec-0c4f-4985-9e98-7ed486173de3/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-08T10:45:00+00:00",
+   "title_ja": "有線でも無線でも使える軽量なレトロ風ヘッドホン",
+   "summary_ja": "ステンレスとアルミを採用し約60gという軽さを実現した、レトロな雰囲気の超軽量ヘッドホン。無線と有線の両方に対応し、充電が切れてもそのまま使い続けられる。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ヘッドホン"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "e29aa1022e1a3e0d",
+   "url": "https://note.com/kumakofood/n/ncabdc71b7073",
+   "title_original": "私ってファッション好きなんだ",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/311619350/rectangle_large_type_2_6e01f8054fb98d6881f7f576499a7251.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-08T10:34:16+00:00",
+   "title_ja": "たくさん服を持っていてもいい。ファッションが好きと気づいた話",
+   "summary_ja": "服を減らさなければという強迫観念に悩んでいた元モデルが、自分の本心に気づいた体験談。多くの服を持っていても、本当に好きなベーシックで素材の良い服が揃っているクローゼットに満足している。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "8fd72ef20b4c3ab8",
+   "url": "https://note.com/magic_kumo/n/n78e491a1f90a",
+   "title_original": "「お金の使い方。何を選ぶか、何に使わないか。」",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/img/1788777347-ELKpY7z5WCXro4JRnBbU1vhe.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-08T10:29:05+00:00",
+   "title_ja": "お金の使い方を見直すヒント",
+   "summary_ja": "著者は節約だけでなく、何にお金を使うべきかを考える重要性を語る。自分にとって本当に必要なものだけに支出し、無駄な消費を減らす考え方を紹介。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "e89af5353b7a168a",
+   "url": "https://note.com/htanji/n/na338e66e406f",
+   "title_original": "生活は習慣の集まり。人生を変えたいなら、毎日の小さな行動を変える。",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/311616439/rectangle_large_type_2_c0a8a6e86cc1ca4e913e13e3253a13b8.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-08T10:26:08+00:00",
+   "title_ja": "小さな習慣が人生を変える",
+   "summary_ja": "日常の行動は自動化された小さな習慣の積み重ねだと指摘し、意識的に繰り返し行う行動を変えることで生活全体をシンプルにできると提案している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "0ae38a7743eb0277",
+   "url": "https://note.com/meine_zeit/n/n9b8951f2d33f",
+   "title_original": "ドイツでやめた1番大きなこと",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/311610914/rectangle_large_type_2_29ab6b52a4d8b3a0635cf832a98ce535.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-08T10:09:55+00:00",
+   "title_ja": "ドイツ生活でやめた化粧とお洒落",
+   "summary_ja": "ドイツに移住してから、化粧品とファッションへの執着をやめた体験を語り、所有物を減らすことで得た心の余裕とシンプルな暮らしの実感を共有している。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "化粧品",
+    "服",
+    "アクセサリー"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "7b6acce64550da57",
+   "url": "https://note.com/monaka_yohaku/n/n9d870b0ff7cb",
+   "title_original": "「安いから買う」をやめて、「長く使うもの」を選ぶようになった話",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/306386713/rectangle_large_type_2_363b3a9c18cff29b65d2cb671a7449d6.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-08T10:07:38+00:00",
+   "title_ja": "「安いから買う」をやめて長く使うものを選ぶ基準",
+   "summary_ja": "価格の安さをお得だと捉えて選んで買っていたこれまでの買い物の仕方を見直し、本当に長く使えるものを選ぶように変えた人の考え方をつづっています。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "a819200b9452bd4e",
+   "url": "https://www.roomie.jp/2026/09/1871835",
+   "title_original": "バッグの中身を丸ごと「吊るす収納化」したら忘れ物がなくなった！デスクもスッキリ片付いたよ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/260827_kingjim_hung-organizer_7.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-08T10:00:16+00:00",
+   "title_ja": "バッグの中身を吊るす収納にして忘れ物をなくす方法",
+   "summary_ja": "細々とした仕事道具を持ち歩く中で、アイテムの散らばりや忘れ物に悩んでいた人がキングジムのバッグインバッグを導入してデスク周りまでスッキリさせた体験です。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "ハングオーガナイザー バッグインバッグ タテ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "1c5988a854b77683",
+   "url": "https://www.lifehacker.jp/article/2609-lht-rain-wear",
+   "title_original": "ゲリラ豪雨から全身を守りたい。私がカバンに忍ばせる緊急「雨対策」3点セット",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/09/08/22d9b314-4804-4ef0-953f-3cc1a281ca9e/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-08T10:00:00+00:00",
+   "title_ja": "ゲリラ豪雨対策としてカバンに忍ばせる雨対策の3点",
+   "summary_ja": "急な雨から全身を守るために、日頃からカバンに常備しているレイングッズの組み合わせや実際の持ち物について紹介しています。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "7d7658c9097b5666",
+   "url": "https://www.roomie.jp/2026/09/1881432",
+   "title_original": "キャンプのハンモック、諦めない。木に巻くだけで昼寝の特等席ができちゃうよ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/theairhammock1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-08T08:45:59+00:00",
+   "title_ja": "超軽量ハンモックで荷物を減らす工夫",
+   "summary_ja": "かさばるキャンプのハンモックを、超軽量でコンパクトな製品に置き換えて荷物を減らした話。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "ハンモック"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c7550af6d8d835ae",
+   "url": "https://www.roomie.jp/2026/09/1878713",
+   "title_original": "洗面台横1〜2cmの隙間。山崎実業の「差し込むトレー」を1年使って、2つ目も追加した理由",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/20260903-mio-yamajitsu-bathroomsink-tray-01.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-08T08:30:41+00:00",
+   "title_ja": "山崎実業の隙間トレーを1年使った感想",
+   "summary_ja": "洗面台のわずかな隙間の汚れを防ぐため、山崎実業の隙間トレーを導入してちょい置きスペースを作った実例。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "隙間トレー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "7a20b3452431662d",
+   "url": "https://news.livedoor.com/pr_topics/detail/32271430",
+   "title_original": "見た目は究極のミニマル、機能は超タフ。現代のミニマリストに贈る相棒ボディバッグ (2026年9月8日掲載)",
+   "source": "news.livedoor.com",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-08T04:00:00+00:00",
+   "title_ja": "タフな機能を持つミニマルなボディバッグの紹介",
+   "summary_ja": "見た目は究極にシンプルでありながら、非常に頑丈な機能を備えた現代のミニマリスト向けボディバッグについて紹介している記事。日々の外出に使える相棒としてのアイテムが取り上げられている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ボディバッグ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5d196cc50f49982a",
+   "url": "https://www.livingetc.com/advice/japanese-minimalism",
+   "title_original": "What Is Japanese Minimalism? 5 Tips to Bring It Home",
+   "source": "livingetc.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/KPVaXRwgsvKSyzhywSGveJ-2560-80.png",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-08T04:00:00+00:00",
+   "title_ja": "日本のミニマリズムを自宅に取り入れる5つのコツ",
+   "summary_ja": "日本の伝統的なミニマリズムの考え方を、実際の自宅の暮らしに応用するための5つのヒントを解説している海外の記事。住まいを整え、シンプルに暮らすためのアイデアが紹介されている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "f05ccccc2f1970e4",
    "url": "https://note.com/love_continuous/n/n0d1071ada759",
@@ -442,6 +643,22 @@
    "published": "2026-09-08T00:10:40+00:00",
    "title_ja": "写真から始めるデジタル断捨離の6ステップ",
    "summary_ja": "デジタルデータを整理する手順を6つに分けて解説。まずは自動的に削除できるものを処理し、次に判断が必要な項目を見極め、最後に保存先やアルバム自体を減らす方法を紹介している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "a9f21e6646297c1d",
+   "url": "https://www.youtube.com/watch?v=yVHJ1Wktt6A",
+   "title_original": "【ミニマリスト】物を減らして「やめたこと」7選｜暮らしがラクになった",
+   "source": "小さな暮らしノート",
+   "image": "https://i2.ytimg.com/vi/yVHJ1Wktt6A/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-09-07T23:35:11+00:00",
+   "title_ja": "物を減らしたミニマリストが暮らしの中でやめた7つのこと",
+   "summary_ja": "物を減らす過程で、片付けに追われる時間や「ちゃんとしなきゃ」という思い込みなど、暮らしの中で実際にやめることができた7つの習慣を紹介している。子育てや忙しさの中でもラクに暮らすためのヒントがつづられている。",
    "category": "心・習慣",
    "axis": "reduce",
    "things": [],
@@ -783,6 +1000,22 @@
    "summary_ja": "海外メディアの著者が、自身のキッチンで1990年代に流行したレトロな技術や家電のトレンドを再現している様子を紹介する記事。懐かしい要素を現代の空間に落とし込む工夫について触れている。",
    "category": "キッチン・食",
    "axis": "own",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "3fd7e64b7294498d",
+   "url": "https://note.com/komachi_biyori/n/n6f4136c1bb2c",
+   "title_original": "私の世界が少しずつ広がっている。",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/311348152/rectangle_large_type_2_710e22a04dd1b901a7f3344c3eda1fc9.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-07T13:58:38+00:00",
+   "title_ja": "初めての博多旅で世界が広がった人の話",
+   "summary_ja": "代理店のコンベンションで初めて博多を訪れ、自分の世界が少しずつ広がっていく感覚を綴った旅のエッセイ。",
+   "category": "旅・持ち歩き",
+   "axis": "reduce",
    "things": [],
    "importance": 2
   },
@@ -6981,246 +7214,6 @@
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
-   "importance": 3
-  },
-  {
-   "id": "93260e071c6d0681",
-   "url": "https://note.com/shige_notes/n/n93fb5af16e0f",
-   "title_original": "📚 断捨離で見つけた、真っ白な一冊",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/309124561/rectangle_large_type_2_baadf7d781759e44e36cc3732fe57fc5.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-01T20:04:47+00:00",
-   "title_ja": "断捨離の途中で手が止まったときに出会った一冊",
-   "summary_ja": "片づけや断捨離を進めている最中に手が止まってしまった体験と、その中で見つけた思い出の品や一冊の本についての気づきが綴られています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "d4c453f4bbc394ef",
-   "url": "https://note.com/majestic_msw2097/n/n80928fc6c0b9",
-   "title_original": "人生を変えたいなら、まず不要なものを減らそう《Core Philosophy④》",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/308346095/rectangle_large_type_2_ba8968ca85058cb1e1e2412372faf770.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-01T20:00:05+00:00",
-   "title_ja": "人生を変えるためにまず不要なものを減らす考え方",
-   "summary_ja": "人生を変化させたいと考えたときに、最初に行うべき行動として不要なものを手放し、持ち物を減らすことの重要性と基本的な哲学について触れています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "f3381048c0bc68a3",
-   "url": "https://www.9news.com/video/entertainment/television/programs/colorado-and-company/declutter-your-life-with-help-from-clean-slate-junk-removal/73-7c2f4613-27c3-4a6a-b015-ed7bf491375d",
-   "title_original": "Declutter Your Life with Help from Clean Slate Junk Removal",
-   "source": "9News",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-01T17:46:00+00:00",
-   "title_ja": "不用品回収サービスを活用して家を片づける方法",
-   "summary_ja": "不用品回収サービスなどのプロのサポートを得ることで、家の中にある不要なものを一気に処分し、暮らしをシンプルに整える方法を提案する海外のニュース記事。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "7690e3e521f2787f",
-   "url": "https://emogram.sankei.com/107811/photo/107857",
-   "title_original": "古着好きの菅田将暉がセカスト新CM出演 後輩集めた断捨離バザー裏話明かすの写真（8）",
-   "source": "emogram",
-   "image": "https://emogram.sankei.com/wp-content/uploads/2026/08/1580fe8b9fd86c28ca93d5d6dbb9ff0f-1024x576.jpeg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-01T17:06:46+00:00",
-   "title_ja": "菅田将暉さんが後輩を集めて開催した断捨離バザーの話",
-   "summary_ja": "古着好きとして知られる俳優の菅田将暉さんが、セカンドストリートの新CM出演に伴い、自身の持ち物を整理するために後輩たちを集めて開催したという断捨離バザーの裏話を明かしたニュース。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "古着"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "9bdaf851cb044c73",
-   "url": "https://note.com/kaitoritaro/n/n0eea5910c0e8",
-   "title_original": "粗大ゴミ代をかなり安くする方法: 写真を撮ってAIに聞くだけ！処分費が半額以下になる現場の裏ワザ",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/309360265/rectangle_large_type_2_e83f9bf9d11ea13dfdc26a05f7cb400d.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-01T16:53:54+00:00",
-   "title_ja": "写真を撮ってAIに聞くだけで粗大ゴミ代を安くする裏ワザ",
-   "summary_ja": "処分したい粗大ゴミの写真を撮影し、AIに質問することで、処分費用を半額以下に抑えるための現場の裏ワザを紹介したブログ記事。お得に不要なものを手放したい人向けに、具体的な処分ノウハウを解説している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "a4a749c99fd4796c",
-   "url": "https://ca.style.yahoo.com/if-you-have-any-of-these-7-things-in-your-bathroom-a-cleaning-expert-says-you-should-ditch-them-immediately-160057171.html",
-   "title_original": "If you have any of these 7 things in your bathroom, a cleaning expert says you should ditch them immediately",
-   "source": "Yahoo Lifestyle Canada",
-   "image": "https://s.yimg.com/lo/mysterio/api/99d647e32204c33c91708d5caebe36e9321952e7aee3dd2d74dd3d2a47688958/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-02%2F77bd6ce0-1453-11f1-ab8f-18102e5fdd0a",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-01T16:46:12+00:00",
-   "title_ja": "洗面所にあるべきではない7つの物",
-   "summary_ja": "洗面所に置いてある特定の物をすぐに手放すべきだという、専門家の意見を紹介している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "25ae7b231a5567ce",
-   "url": "https://note.com/tasty_echium506/n/n2c1b1254ed38",
-   "title_original": "収納グッズを「すぐ買わない」ルールにしたら、無駄買いがほぼゼロになった話",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/309358286/rectangle_large_type_2_3001274a181d1dee7d3d5c9fe26b07bb.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-01T16:36:56+00:00",
-   "title_ja": "収納グッズをすぐ買わないルールにした話",
-   "summary_ja": "収納用品の買いすぎでスペースが圧迫されていた失敗から、まずは今あるもので仮運用するルールへ変更。無駄な買い物をゼロにした体験談です。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "ファイルケース",
-    "バスケット",
-    "収納ボックス"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "196cd1520c1f72d5",
-   "url": "https://www.goodhousekeeping.com/uk/lifestyle/a73580902/time-audit-declutter",
-   "title_original": "The ‘time declutter’ technique changed my life – why you need to start it before the end of the week",
-   "source": "Good Housekeeping",
-   "image": "https://hips.hearstapps.com/hmg-prod/images/dc653546-c2fc-4694-9819-1f1cafe18992.jpg?crop=1xw:0.7946598855689765xh;center,top&resize=1200:*",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-01T16:05:21+00:00",
-   "title_ja": "生活が変わる「タイム・デクラター」という片づけ法",
-   "summary_ja": "時間に焦点を当てて物の整理を行う「タイム・デクラター」という手法を取り入れたことで、生活が大きく変わった体験について語られています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "fa4bfde67cb4c07c",
-   "url": "https://www.goodhousekeeping.com/uk/house-and-home/household-advice/a73579547/september-reset-declutter-methods",
-   "title_original": "5 declutter methods that will boost your September reset and help you get your home in order",
-   "source": "Good Housekeeping",
-   "image": "https://hips.hearstapps.com/hmg-prod/images/7ea35db7-0e11-4005-a408-88fd6e11285e.jpg?crop=1.00xw:0.751xh;0,0.105xh&resize=1200:*",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-01T16:05:20+00:00",
-   "title_ja": "自宅を整えて気分をリセットする5つの片づけ手法",
-   "summary_ja": "9月の生活リセットに向けて、家の中をすっきりと整理するための5つの片づけ方法が紹介されています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "396a9b12197c999c",
-   "url": "https://www.thesun.co.uk/fabulous/40240508/decluttering-expert-shares-five-simple-tips-september-reset",
-   "title_original": "I'm a decluttering expert, my five simple tips for a September wardrobe reset",
-   "source": "The Sun",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-01T16:03:00+00:00",
-   "title_ja": "片づけの専門家が教える秋のワードローブ見直し術",
-   "summary_ja": "片づけの専門家が、季節の変わり目に合わせてクローゼットの中身をすっきりとリセットするための5つのシンプルなコツを提案しています。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "9a660d84b9aa5d05",
-   "url": "https://note.com/0range_and_air/n/n0add8bcd92b6",
-   "title_original": "散らかってるせいでピンチすぎた日／文フリまで68日／66日目の捨",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/309346968/rectangle_large_type_2_5d43a9508b375f2bc93ca7f9c276270a.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-01T15:45:25+00:00",
-   "title_ja": "散らかった部屋のせいで美容液を目に差してしまった話",
-   "summary_ja": "部屋が散らかっていたせいで、寝ぼけて美容液を目に差してしまうという実害を受けたトラブルの様子が綴られています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "美容液",
-    "目薬"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "b10cbbd0e67db5b4",
-   "url": "https://www.roomie.jp/2026/09/1876751",
-   "title_original": "コーヒーがずっと飲み頃。温冷長持ちするマーナのカラフェ",
-   "source": "ROOMIE",
-   "image": "https://www.roomie.jp/wp-content/uploads/2023/10/K793_M_2.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-01T14:15:21+00:00",
-   "title_ja": "マーナの耐熱ガラス製ダブルウォールカラフェ",
-   "summary_ja": "マーナのダブルウォールカラフェは二重構造の耐熱ガラスを採用しており、コーヒーの温かさや冷たさを長くキープできる。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "マーナのダブルウォールカラフェ",
-    "ガラス容器"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "5584ce79fb6f7587",
-   "url": "https://note.com/morinotosyokan/n/n4e33b25a09fa",
-   "title_original": "ゴミ箱を捨てた | 片づけ祭り",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/309322665/rectangle_large_type_2_edf929aac2f1dc98da44adce16db5496.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-01T14:08:31+00:00",
-   "title_ja": "部屋のゴミ箱を手放した人の話",
-   "summary_ja": "自室にあるゴミ箱を思い切って処分したという体験談。不要な収納や家具をなくすことで、部屋の空間をすっきりとさせるミニマルな工夫を実践しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "d9b23f4140856e28",
-   "url": "https://www.roomie.jp/2026/09/1873039",
-   "title_original": "初代Magic Trackpadがまだ現役。電池交換のストレスを消してくれた単三充電池の話",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/1.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-01T13:45:07+00:00",
-   "title_ja": "古いApple製デバイスを使い続ける愛用品",
-   "summary_ja": "初代Magic Trackpadを充電池を活用しながら今も大切に使い続けている話。古い道具を工夫して手入れしながら長く愛用する持ち物のスタイルを紹介しています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "Magic Trackpad",
-    "充電池",
-    "ワイヤレスキーボード"
-   ],
    "importance": 3
   }
  ]
