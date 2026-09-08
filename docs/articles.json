@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-09T01:17:40.182121+09:00",
+ "updated_at": "2026-09-09T05:54:28.011806+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -33,7 +33,7 @@
   },
   {
    "name": "バッグ",
-   "count": 8
+   "count": 7
   },
   {
    "name": "iPhone",
@@ -84,11 +84,19 @@
    "count": 3
   },
   {
+   "name": "冷蔵庫",
+   "count": 3
+  },
+  {
    "name": "靴下",
    "count": 3
   },
   {
    "name": "CD",
+   "count": 2
+  },
+  {
+   "name": "Tシャツ",
    "count": 2
   },
   {
@@ -136,15 +144,7 @@
    "count": 2
   },
   {
-   "name": "冷蔵庫",
-   "count": 2
-  },
-  {
    "name": "家電",
-   "count": 2
-  },
-  {
-   "name": "帽子",
    "count": 2
   },
   {
@@ -157,6 +157,10 @@
   },
   {
    "name": "洋服",
+   "count": 2
+  },
+  {
+   "name": "衣類",
    "count": 2
   },
   {
@@ -241,6 +245,96 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "2c7f59d2a690f833",
+   "url": "https://note.com/ideal_squid1080/n/n9cb65726a1ca",
+   "title_original": "40代・50代のクローゼット｜手放していい服の7つの基準と、週末1時間の片づけ手順",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/311186900/rectangle_large_type_2_8fb6818ee9d69ed582dc7961be2b7997.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-08T19:51:01+00:00",
+   "title_ja": "40代・50代のクローゼット：手放す服の基準と片づけ手順",
+   "summary_ja": "着ない服が残るクローゼットを見直し、ロゴ入りの服やヨレたTシャツ、3年着ていない服を手放す基準を解説。週末1時間でできる片づけの手順を紹介している。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服",
+    "Tシャツ"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "6b3678862c15a58f",
+   "url": "https://note.com/mainichi_3ko/n/n90f5e7f54bac",
+   "title_original": "必要になったときに、改めて購入すればいい",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/img/1788724014-ga9nHMez0kxmKR8jhZNq4OEc.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-08T18:31:50+00:00",
+   "title_ja": "「いつか使うかも」を手放し、必要な時に買う習慣",
+   "summary_ja": "使っていない画用紙などの紙類をリサイクルに出して手放した体験談。「いつか使うかも」の考えを改め、必要になったら改めて購入するという所有の習慣について振り返っている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "画用紙",
+    "問題集"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "4ed8b2077f88e750",
+   "url": "https://note.com/raghousetv/n/n2add2265f588",
+   "title_original": "『モラルの低下とゴミとしての排出🚮市民の中には「資源」ではなく「不要なゴミ」として衣類を出す認識がまだ根強く残っている♻️選別作業動画2️⃣1️⃣5️⃣Rag House TV / 古着のリサイクル』の最新動画をご覧ください❗",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/311735309/rectangle_large_type_2_21d662f8c77140f76b7588e42b7d3215.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-08T18:11:29+00:00",
+   "title_ja": "古着のリサイクル工場における衣類の選別作業",
+   "summary_ja": "古着のリサイクル工場であるラグハウスで、市民が出した衣類がどのように選別されているのかを紹介する動画。資源ではなくゴミとして出されてしまう現状に触れています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "衣類"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "98eab4752c793eee",
+   "url": "https://note.com/zero_challenge/n/n8f552d63b31b",
+   "title_original": "冷蔵庫を持たない無職の食生活",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/311529092/rectangle_large_type_2_442518e35da6dc36bb403cdc6ab1ef60.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-08T17:39:47+00:00",
+   "title_ja": "冷蔵庫を持たない無職の食生活",
+   "summary_ja": "冷蔵庫をあえて持たない生活を送る無職の人物による、独自の食生活について綴られた記事。家電に頼らない暮らしの実態がうかがえます。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "冷蔵庫"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "f66d79345f259ac1",
+   "url": "https://note.com/jpnmintoronto/n/n640c0532e481",
+   "title_original": "みんなに好かれることはできない",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/311725940/rectangle_large_type_2_0be40178b4f02ab55193c4bfd87213af.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-08T16:31:40+00:00",
+   "title_ja": "人間関係を見直すミニマリズム的な考え方",
+   "summary_ja": "カナダの新学期を背景に、すべての人に好かれることはできないという人間関係の割り切りや、人間関係の整理について考えた文章。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
   {
    "id": "adb5d1d310c5caf1",
    "url": "https://www.thescottishsun.co.uk/fabulous/16793885/fashion-three-word-rule-september-wardrobe-reset-declutter",
@@ -7148,96 +7242,6 @@
    "axis": "reduce",
    "things": [
     "アクセサリー",
-    "バッグ",
-    "帽子"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "6d1750c696c6b8c8",
-   "url": "https://news.yahoo.co.jp/articles/1a13aa16134ab42d2112125328b9f9f34672aeab/images/000",
-   "title_original": "ムダと失敗が激減した、40代の「服選びルール」3つ。テーマカラーを決めて、悩まないクローゼットに (ESSE-online)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgMGAv735dAVuSJ--mCoaD51HjIC9Duqu0h73Kk4FF6XxOrUVPHK2PzU-KY1hRWy3WrTXFXoaPwNCIypW-ySzjlfYHvtmAxw7cJI1Q9BcUPHT",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-02T11:00:37+00:00",
-   "title_ja": "40代のムダと失敗を減らす服選びのルール",
-   "summary_ja": "テーマカラーを決め、服選びのムダや失敗を激減させることで、悩まないクローゼットを作る方法について紹介しています。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "服"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "4d88b4ec2537b8f0",
-   "url": "https://news.livedoor.com/article/image_detail/32226300/?img_id=56113930",
-   "title_original": "【画像】40代ふたり暮らし、暮らし方の違う夫と心地よく過ごすコツ。「1か所だけミニマリスト」がちょうどよい 1/4",
-   "source": "ライブドアニュース",
-   "image": "https://image.news.livedoor.com/newsimage/stf/7/d/7d536_1580_e2b18a67c24fbc6b3e042addf362d152.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-02T11:00:00+00:00",
-   "title_ja": "画像で見る夫婦の「1か所だけミニマリスト」実例",
-   "summary_ja": "40代夫婦が生活リズムの違いを調整するため、家の一部だけをミニマリスト化した様子を画像で紹介。共通エリアをシンプルに保つコツが示されており、互いの好みを尊重しつつ無駄な摩擦が減ると説明されている。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "ddc4da12d61d6e59",
-   "url": "https://note.com/moumou_moeko/n/naf6fe37f4a7c",
-   "title_original": "【2026年】ゆるミニマリストの夏服振り返り",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/307946292/rectangle_large_type_2_9f7e434957d453b79c4521364a414030.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-02T10:45:51+00:00",
-   "title_ja": "ゆるミニマリストによる夏服の振り返り",
-   "summary_ja": "ゆるミニマリストの著者が夏シーズンを振り返り、実際に着用していた夏服のラインナップや着こなしについて紹介している記事。夏服の持ち方の感想がまとめられている。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "夏服"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "2ef36cf9811bbc7a",
-   "url": "https://www.lifehacker.jp/article/2608-amazon-spicerrsju1-qoj",
-   "title_original": "小型ブロワーが家の掃除、アウトドア、洗車までマルチに活躍",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2025/04/15/de622429-de56-425b-a5a2-46bcadcbd48e/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-02T10:45:00+00:00",
-   "title_ja": "多用途で使えるポケットサイズのパワフルな小型ブロワー",
-   "summary_ja": "洗車後の水滴飛ばしや部屋のホコリ取り、アウトドアなど多目的に使えるSPICERRの「ポケッタブルジェットファン SJU-1」を紹介。ポケットに収まるコンパクトさでありながらパワフルな風速を備えている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "小型ブロワー",
-    "ポケッタブルジェットファン SJU-1"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "78362b64b3e5021b",
-   "url": "https://note.com/real40overs/n/n127b721d2d21",
-   "title_original": "100kg男の「バッグ・帽子」問題 ⑥持たない勇気",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/309584880/rectangle_large_type_2_2131350c6199f8e07950e3492d995fc8.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-02T10:39:24+00:00",
-   "title_ja": "100kgの男性がバッグや帽子を持たないと決めた理由",
-   "summary_ja": "体重100kgの著者が、バッグや帽子といったファッション小物をあえて「持たない」と決めた理由と戦略について語っている記事。持ち物を減らしてすっきり過ごすための考え方が示されている。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
     "バッグ",
     "帽子"
    ],
