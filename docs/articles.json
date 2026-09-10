@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-10T05:41:45.432820+09:00",
+ "updated_at": "2026-09-10T12:45:32.690253+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,7 +29,7 @@
  "things": [
   {
    "name": "服",
-   "count": 15
+   "count": 16
   },
   {
    "name": "iPhone",
@@ -72,10 +72,6 @@
    "count": 3
   },
   {
-   "name": "メルカリ",
-   "count": 3
-  },
-  {
    "name": "モバイルバッテリー",
    "count": 3
   },
@@ -105,6 +101,10 @@
   },
   {
    "name": "iPad",
+   "count": 2
+  },
+  {
+   "name": "お弁当",
    "count": 2
   },
   {
@@ -152,6 +152,10 @@
    "count": 2
   },
   {
+   "name": "メルカリ",
+   "count": 2
+  },
+  {
    "name": "リュック",
    "count": 2
   },
@@ -182,10 +186,6 @@
   {
    "name": "祖父の肖像画",
    "count": 2
-  },
-  {
-   "name": "観葉植物",
-   "count": 2
   }
  ],
  "sources": [
@@ -208,6 +208,7 @@
   "Mshale",
   "No Sidebar",
   "ROOMIE",
+  "Raptitude",
   "Real Simple",
   "SHEmazing!",
   "Sarah Therese",
@@ -260,6 +261,161 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "847574afa7574598",
+   "url": "https://note.com/komo_analysis/n/n70523cd4436d",
+   "title_original": "断捨離で行動範囲が広がる本当の理由",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/312172357/rectangle_large_type_2_3cd6be43c0f963e06bb74db8c0dca5ab.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-10T03:36:20+00:00",
+   "title_ja": "断捨離をすることで行動範囲が広がる理由を解説した記事",
+   "summary_ja": "部屋に物があふれていると気持ちが重くなり、片付けへの焦りと安心感の狭間で振り回されてしまう心理を分析。物を減らすことで心の重荷を下ろし、行動力を高めるための考え方を紹介している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "ca340d857b2d84c1",
+   "url": "https://note.com/yukainayononaka/n/n00098eeff46c",
+   "title_original": "【断捨離】断捨離塾に入るまでの３本目の道",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/294771026/rectangle_large_type_2_f21ee4f3fb81f8cc9312afe60e8db086.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-10T03:36:16+00:00",
+   "title_ja": "呪物コレクターの動画をきっかけに断捨離に興味を持った人の話",
+   "summary_ja": "SNSで偶然見かけた呪物コレクターのルームツアー動画に興味を持ち、そこから断捨離塾に入るまでの経緯を綴った体験談。物で溢れた部屋の動画をきっかけに、自身の片付けへの道が始まっていく様子を描いている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "4cbc75268c7fba27",
+   "url": "https://note.com/bukky_days/n/ndfa0eb33488e",
+   "title_original": "変わり目の今、手放す。アラフォーミニマリスト男子が手放した服と、その理由【2026年9月】",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/312163479/rectangle_large_type_2_e2fdf276b33110eebacb07f10e614305.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-10T03:28:42+00:00",
+   "title_ja": "アラフォーのミニマリスト男性が手放した衣服とその理由",
+   "summary_ja": "アラフォーのミニマリスト男性が、自身の変化に合わせて行った服の断捨離について綴った記事。実際に手放したファッションアイテムと、それらを手放すに至った具体的な理由や選択の基準を振り返る。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "2c9fade4addaf181",
+   "url": "https://note.com/lucid_mole9774/n/n3d3aa7d47efa",
+   "title_original": "あたし、周りの人に還元するミニマリストになる！",
+   "source": "note #ミニマリスト",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/90644af2f61f9438b5a4a4abcd5db692eff2b836.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-10T03:28:12+00:00",
+   "title_ja": "自分の持ち物は最小限にして他人のためにお金を使いたい人の話",
+   "summary_ja": "自分自身には必要最小限の物だけを用意し、その分周りの人々のためにお金を使っていこうと決意した人の話。自分をミニマリストに位置づけ、他者へ還元する暮らしを目指す新たな考え方と、その日の手作りお弁当について綴っている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "お弁当"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "976b89f45bea4f85",
+   "url": "https://note.com/genial_toucan808/n/nb3483ac9d356",
+   "title_original": "服を減らしても片付かない人のための、たたみ方と収納配置の見直し方",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/311651135/rectangle_large_type_2_1faabfe3f4cac588e0781f78b6da78f4.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-10T03:26:41+00:00",
+   "title_ja": "服を減らしてもクローゼットが片付かない原因と対策",
+   "summary_ja": "服の数を減らしたにもかかわらずクローゼットが散らかってしまう人に向けて、たたみ方や収納場所の配置を見直してすっきりと暮らすためのコツを紹介しています。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "0b0671cc31e4e819",
+   "url": "https://note.com/sugarsalty/n/n5e9f3cebfe0a",
+   "title_original": "推しcpのグッズ全部捨てた",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/312164473/rectangle_large_type_2_06601898259ce3165de10c9fb0ed92f9.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-10T03:14:14+00:00",
+   "title_ja": "大好きだった推しのアクリルスタンドを手放した話",
+   "summary_ja": "過去に愛おしいと思っていた推しカップルのアクリルスタンドなどのグッズを、思い切ってすべて手放したときの心境や決断について綴られています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "アクリルスタンド"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "7fcde7ba73d4e587",
+   "url": "https://note.com/typenote/n/nad1a1e93eb7c",
+   "title_original": "私より物少ない人っています？",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/312158808/rectangle_large_type_2_9151caf24f83ec2465c57f0b945bf0f9.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-10T02:43:51+00:00",
+   "title_ja": "靴は3足のみ、実家も家族もないミニマリストの暮らし",
+   "summary_ja": "実家や家族がなく、靴を歩き用・きれいめ・サンダルの3足に厳選して暮らしている人の話。サンダルも用途を分けて大切に扱っている。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "靴",
+    "サンダル"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "5bbb63438f7d725e",
+   "url": "https://www.lifehacker.jp/article/2609-costorypo-tidypotvolta-review2-1536543298",
+   "title_original": "「これ本当に長財布？」スマホ並みのサイズ感に驚いた本革仕様の薄型財布",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/09/09/92f51541-dc95-4c49-9aa6-6355ba4baf88/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-10T01:00:00+00:00",
+   "title_ja": "本革薄型長財布TIDY pot Voltaのレビュー",
+   "summary_ja": "厚さ約1.2cm、重さ約70gの本革薄型長財布「TIDY pot Volta」は、折らずに紙幣を収納でき、取り外し可能なカードケースと背面ポケットを備え、軽量で使い勝手が良いと評価された。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "TIDY pot Volta"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "059b144c141e9aeb",
+   "url": "https://note.com/eridesign8/n/n6c22473401ac",
+   "title_original": "誰も見ていない東京と、見られている地元。帰省は「ちゃんとした服装」で",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/311638285/rectangle_large_type_2_9de5fadb19efc7ba62b49ecfd82fb277.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-09T21:50:59+00:00",
+   "title_ja": "東京と地元での服装の違いから見えた、人目を気にしない暮らし",
+   "summary_ja": "夫の転勤で東京に暮らす筆者は、知り合いに遭遇する確率がほぼゼロであることから、人目を気にせずリラックスした格好で過ごしている。環境による緊張感の変化や、日常の気楽な過ごし方を綴ったエッセイ。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
   {
    "id": "557bebaa7af3423c",
    "url": "https://note.com/nakayama12035100/n/n98bfaf091a7b",
@@ -2581,6 +2737,22 @@
    "things": [
     "服"
    ],
+   "importance": 3
+  },
+  {
+   "id": "8a202d242f104bd2",
+   "url": "https://www.raptitude.com/2026/09/how-to-outlive-your-bucket-list",
+   "title_original": "How to Outlive Your Bucket List",
+   "source": "Raptitude",
+   "image": "https://www.raptitude.com/wp-content/uploads/2026/09/tallshadow.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-09-07T14:48:39+00:00",
+   "title_ja": "「死ぬまでにやりたいこと」の過剰な欲求を見直す考え方",
+   "summary_ja": "若い頃に「やりたいことリスト」を作るのは欲しい物を選ぶ感覚に似ており、語学習得や高級車の運転など欲求を詰め込みがちになる。膨らみすぎた目標ややりたいこととどのように向き合い、人生の選択肢を整理していくかについての考察。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -7099,171 +7271,6 @@
    "axis": "reduce",
    "things": [
     "傘"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2317969e2ae7253f",
-   "url": "https://note.com/gifted_godwit341/n/n72c57220ad84",
-   "title_original": "はじめまして☺︎",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/310014667/rectangle_large_type_2_fdfeddc7629ba9b30ca6c65f983da436.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-03T17:05:21+00:00",
-   "title_ja": "物欲がありながらも身軽な暮らしを目指すブログの挨拶",
-   "summary_ja": "物を減らしたい気持ちと物欲の間で揺れながら、本当に好きなものを大切にして身軽な暮らしを目指す決意を綴った初期の投稿です。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "b5e1e5a93bc22cd8",
-   "url": "https://mshale.com/bbc0f566/d6933d1bfHao7dSK4N4",
-   "title_original": "【Vlog】ミニマリストの2日間節約ルーティン | 25歳派遣社員ミニマリスト Road House (TA39Y0zJfP)",
-   "source": "Mshale",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-03T16:23:21+00:00",
-   "title_ja": "25歳派遣社員ミニマリストの節約ルーティン",
-   "summary_ja": "25歳の派遣社員ミニマリストによる、2日間の節約生活を追ったVlog。等身大の暮らしやお金の使い方を参考にできます。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "f1efe3f058b6f962",
-   "url": "https://note.com/yohaku_life_yuka/n/n6daacf264b58",
-   "title_original": "【ミニマリスト】資産が増得た 再現方法３つ",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/309997711/rectangle_large_type_2_5b2273b0c8700d3ee2383b5eac72d071.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-03T15:17:59+00:00",
-   "title_ja": "ミニマリストになって資産が増えた理由",
-   "summary_ja": "ミニマリストになったことで家事が楽になり、資産が増えていく再現性の高い方法について語っています。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "f04f40bad521c36c",
-   "url": "https://note.com/eager_sable692/n/n5a2bdba91117",
-   "title_original": "【ゴミは自分の脳内を埋めていく】",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/309995976/rectangle_large_type_2_b8042002b523cd36921d8e099150b70c.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-03T15:08:54+00:00",
-   "title_ja": "物を溜め込むことが脳に与える影響について",
-   "summary_ja": "不要な物が視界に入ると脳内で未完了タスクとなり、本来やりたいことへの集中力を奪うため断捨離が必要だと説いています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "31d81c46cbf0402f",
-   "url": "https://note.com/mini_non/n/n808907604219",
-   "title_original": "不用品を売る",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/309992457/rectangle_large_type_2_d1d30c466f2b349082dc209d633df347.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-03T14:52:54+00:00",
-   "title_ja": "アニメグッズをオンライン買取で手放した話",
-   "summary_ja": "長年手放したいと考えていたアニメグッズを、オンラインの簡単買取を利用して自分で現金化した体験談です。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "44db0f469cd3d431",
-   "url": "https://note.com/umi_totonou/n/n77fba9c2d5c7",
-   "title_original": "【1日10捨て・65日目】あと50個の壁！断捨離のフェーズが変わる瞬間",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/309986787/rectangle_large_type_2_95d3d9523fd82d9c916f0ec2bf6ec6e0.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-03T14:34:17+00:00",
-   "title_ja": "1日10捨てを続け、1000個の手放しまであと50個になった話",
-   "summary_ja": "毎日10個のアイテムを手放すルールを65日間継続し、累計1,000個の目標達成が目前に迫った段階での心境や変化をつづっています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "bfa880ad2eb12098",
-   "url": "https://note.com/osato29/n/n65cf66c7a16c",
-   "title_original": "inしてout？outしてin？？",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/309980814/rectangle_large_type_2_ea088a5dc6fb569052bed08da25b5617.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-03T14:09:09+00:00",
-   "title_ja": "欲しいものを買うと不要品が自然に減る実体験",
-   "summary_ja": "著者は欲しいものをメルカリで購入すると、同じ日に不要な品を出品して売却し、手放しが自然に起きたと実感した。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "メルカリ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "61d7317ebdfc35ac",
-   "url": "https://note.com/kenichi_aichi/n/n743764c1c83a",
-   "title_original": "捨てられないのはモノではなく、記憶：思い出の檻から出る",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/309980295/rectangle_large_type_2_15ead6f04504dad6c13ecb43b10fd36c.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-03T14:07:47+00:00",
-   "title_ja": "手放せない理由は記憶　思い出の檻と向き合う",
-   "summary_ja": "手放せないのは物そのものではなく、思い出や記憶に結びついた感情が原因だと指摘し、心の檻から抜け出す方法を考える。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "9aa1bf6763d7329f",
-   "url": "https://nosidebar.com/why-its-valuable-to-do-things-the-slow-way",
-   "title_original": "Why It’s Valuable to Do Things the Slow Way",
-   "source": "No Sidebar",
-   "image": "https://nosidebar.com/wp-content/uploads/nadya-spetnitskaya-tOYiQxF9-Ys-unsplash1-scaled.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-09-03T14:00:00+00:00",
-   "title_ja": "効率重視の社会であえて物事にゆっくり向き合う価値",
-   "summary_ja": "何でも素早く便利に済ませようとする現代において、あえて時間をかけて丁寧に行うことの価値について綴られたミニマリズム的な考え方の記事です。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "324509073645d319",
-   "url": "https://www.lifehacker.jp/article/2608-amazon-elecom-screwdriver-uam",
-   "title_original": "先端のライトで手元を照らす。24のネジ規格に対応したエレコムの電動ドライバー",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/07/22/df469c00-02c7-4b90-b6dc-a391726d1a6d/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-03T13:45:00+00:00",
-   "title_ja": "エレコムの24ビット対応電動ドライバーの特徴",
-   "summary_ja": "エレコムの電動精密ドライバーは24種のビットとライト付きで、PCやスマホの分解など細かい作業に最適。ケースが収納に便利。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "エレコム 電動ドライバー",
-    "ビット"
    ],
    "importance": 3
   }
