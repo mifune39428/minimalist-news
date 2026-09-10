@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-11T01:04:26.894554+09:00",
+ "updated_at": "2026-09-11T05:36:46.232584+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,7 +29,7 @@
  "things": [
   {
    "name": "服",
-   "count": 17
+   "count": 19
   },
   {
    "name": "iPhone",
@@ -52,7 +52,15 @@
    "count": 4
   },
   {
+   "name": "テレビ",
+   "count": 4
+  },
+  {
    "name": "バックパック",
+   "count": 4
+  },
+  {
+   "name": "パソコン",
    "count": 4
   },
   {
@@ -60,19 +68,15 @@
    "count": 4
   },
   {
+   "name": "キーボード",
+   "count": 3
+  },
+  {
    "name": "ゴミ袋",
    "count": 3
   },
   {
    "name": "サブスク",
-   "count": 3
-  },
-  {
-   "name": "テレビ",
-   "count": 3
-  },
-  {
-   "name": "パソコン",
    "count": 3
   },
   {
@@ -96,7 +100,7 @@
    "count": 3
   },
   {
-   "name": "雑貨",
+   "name": "財布",
    "count": 3
   },
   {
@@ -129,10 +133,6 @@
   },
   {
    "name": "エコバッグ",
-   "count": 2
-  },
-  {
-   "name": "キーボード",
    "count": 2
   },
   {
@@ -176,15 +176,15 @@
    "count": 2
   },
   {
+   "name": "ロボット掃除機",
+   "count": 2
+  },
+  {
    "name": "ワンピース",
    "count": 2
   },
   {
    "name": "下着",
-   "count": 2
-  },
-  {
-   "name": "扇風機",
    "count": 2
   }
  ],
@@ -258,6 +258,120 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "6ed6ae491f673a12",
+   "url": "https://note.com/quick_seal9022/n/nb20b0793fa01",
+   "title_original": "机の上には何もありません。３年間、毎朝４つ出して、毎晩しまっています",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/312314496/rectangle_large_type_2_314d15861d1a7f6f6c008c289dffcbd6.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-10T19:36:02+00:00",
+   "title_ja": "毎朝机の上の道具をすべて出して仕事をする習慣",
+   "summary_ja": "机の上には何も置かず、仕事の開始時にパソコン、モバイルモニター、キーボード、マウスの4つを出して作業し、終わればすべて引き出しにしまう生活を3年間続けています。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "パソコン",
+    "モバイルモニター",
+    "キーボード",
+    "マウス"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "e253b46ecbb15fd0",
+   "url": "https://note.com/mii_simplelife_/n/n4f8c364aec24",
+   "title_original": "子どもがいても無理しない、ゆるミニマリストへのロードマップ",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/312401335/rectangle_large_type_2_1c6db5e5d7932512396946ff257e69ac.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-10T19:03:47+00:00",
+   "title_ja": "子どもがいても無理をしないミニマリストの歩み",
+   "summary_ja": "家をスッキリさせたいけれどすぐに散らかったり、子どもがいるからと物を減らすのを諦めたりしているママへ向けた、頑張りすぎない暮らし方のロードマップです。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "4e21dad445737de2",
+   "url": "https://note.com/lush_okapi4231/n/nf5ca1eac4406",
+   "title_original": "断捨離",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/312400952/rectangle_large_type_2_1eb057799b0c812f6ffedc539c69ba35.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-10T18:58:12+00:00",
+   "title_ja": "いつでも捨てられる服を着るのをやめた話",
+   "summary_ja": "汚れてもいい安い服で済ませていたが、お気に入りの服を着る時の気分の良さに気づいた体験談です。財布は長く大切に使うなど、気に入ったものは使い潰す価値観が語られています。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "財布",
+    "服"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "a5abc8d5ef63e08a",
+   "url": "https://note.com/akolog2026/n/n47f5b43535f8",
+   "title_original": "9/9 通知オフのススメ",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/312372367/rectangle_large_type_2_b8ec9f1b76f01c8e368dc62942fa144b.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-10T17:12:13+00:00",
+   "title_ja": "使っていないアプリの通知を切る工夫",
+   "summary_ja": "使っていないアプリや不要なアプリの通知をオフに設定し、気の散る要因を避けることで暮らしをすっきりさせる工夫について書かれた記事。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "アプリ",
+    "Android"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "a64e6afa0c956146",
+   "url": "https://note.com/tateching/n/ndba7d874be5d",
+   "title_original": "【ミニマリズム】ミニマリスト諸兄 その後、いかがお過ごしでしょうか？",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/311744914/rectangle_large_type_2_fa092a831e3ed757d0e6ea028a4dec79.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-10T16:31:18+00:00",
+   "title_ja": "物を減らしたミニマリストのその後の暮らし",
+   "summary_ja": "服やテレビを手放し、ロボット掃除機や乾燥機付き洗濯機を取り入れて家事を減らすなど、ものを減らしたその後の暮らしについての振り返り。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [
+    "テレビ",
+    "服",
+    "ロボット掃除機",
+    "乾燥機付き洗濯機"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "fe541eae556571ee",
+   "url": "https://note.com/humble_azalea946/n/n75e30598a533",
+   "title_original": "一人暮らしミニマリスト、ウォーターサーバーだけは即決でした",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/312386130/rectangle_large_type_2_d47176d5fce9123d536eced60d50e7b9.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-10T16:06:19+00:00",
+   "title_ja": "モノを減らしたミニマリストがウォーターサーバーを導入した理由",
+   "summary_ja": "モノを増やさない生活を心がけているミニマリストが、迷わず導入した浄水型ウォーターサーバーの使い心地を紹介しています。水道水を注ぐだけで冷水から温水まで使える床置きタイプのモデルを活用しています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ウォーターサーバー"
+   ],
+   "importance": 3
+  },
   {
    "id": "6e95eb963dc7cb31",
    "url": "https://note.com/holy_yarrow1743/n/n429515e6d08d",
@@ -450,6 +564,40 @@
    "things": [
     "長財布",
     "財布"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "1026541536c39b0a",
+   "url": "https://www.lifehacker.jp/article/2609-five-ways-to-take-breaks-at-work-wsl",
+   "title_original": "1日を変えずに、脳をスッキリさせる5つのコツ",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/09/10/a7096f99-1f17-490d-a268-1b5500fb96ef/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-10T12:45:00+00:00",
+   "title_ja": "忙しい日常で脳をスッキリさせる5つのコツ",
+   "summary_ja": "スケジュールを変えずに日常の余白を活かし、脳の疲れを回復させる具体的な方法を解説した記事。会議前の数分を活用するなど、心を整える習慣が学べます。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "321fe436cdcb9fc7",
+   "url": "https://www.lifehacker.jp/article/2609-pixel-11-pro-fold-qi2-25w-wireless-charging",
+   "title_original": "「Pixel 11 Pro Fold」をほかの折りたたみスマホより推したくなる2つの確かな強み",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/09/08/a9e94b24-813c-48ba-a036-4549680fa002/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-10T12:30:00+00:00",
+   "title_ja": "「Pixel 11 Pro Fold」の使い勝手を検証",
+   "summary_ja": "折りたたみスマホの日常における実力をレビューした記事。内蔵されたマグネットや防塵・防水性能など、実際に使う道具としての強みに着目しています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "Pixel 11 Pro Fold"
    ],
    "importance": 3
   },
@@ -7143,144 +7291,6 @@
    "category": "部屋・収納",
    "axis": "reduce",
    "things": [],
-   "importance": 3
-  },
-  {
-   "id": "1af966d890ba0ccf",
-   "url": "https://note.com/hanaka_7348/n/n712175ceb751",
-   "title_original": "フォロー外すのこわい？断捨離は流行るのに！？",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/310244102/rectangle_large_type_2_671d02657a20da4eb4bc142c25b106b4.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-04T10:47:39+00:00",
-   "title_ja": "SNSのフォローを外す断捨離への抵抗感についての考察",
-   "summary_ja": "物の断捨離は流行しているものの、SNS上でフォローを外すことには恐怖や抵抗感を感じてしまう心理について問いかけている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 1
-  },
-  {
-   "id": "d49eff2ef650ea42",
-   "url": "https://note.com/lucky_acacia553/n/nd6aaaeba99fd",
-   "title_original": "片付け、のち掃除のち整頓",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/310237123/rectangle_large_type_2_ff28489314d343ac2622bc17c4366d4f.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-04T10:33:28+00:00",
-   "title_ja": "物を売買・処分して生活空間を小さく整えた体験談",
-   "summary_ja": "思い入れが薄いまま保管していた持ち物などを売ったり捨てたりして物の量を大きく減らし、片付けや掃除を通して部屋を整えた様子を綴っている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "b682b8e1dff3a644",
-   "url": "https://note.com/toko_tabi/n/n277103347b28",
-   "title_original": "手放したいのは、物よりも「こうあるべき」なのかもしれない",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/310236766/rectangle_large_type_2_c32bdbc67bca107a8dfeacd5493253a2.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-04T10:30:22+00:00",
-   "title_ja": "「こうあるべき」を手放し自分らしく暮らす考え方",
-   "summary_ja": "人生の後半に向けて物を減らし掃除しやすい部屋を目指しながらも、お気に入りの雑貨を厳選して飾るなど、固定観念にとらわれないシンプルな暮らし方の模索を綴っている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "雑貨"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "8a77a7df9b73bb59",
-   "url": "https://note.com/open_viola6092/n/nda2bf0dd9171",
-   "title_original": "新型iPhone、今回は見送ります。13 miniでまだ困っていない理由",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/310234765/rectangle_large_type_2_5d5853fccbe1dd1a2e27b8361567cd49.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-04T10:21:06+00:00",
-   "title_ja": "新しいiPhoneを見送って「13 mini」を使い続ける理由",
-   "summary_ja": "新型の登場を前に、現在使っている「iPhone 13 mini」で機能的に十分困っていないため、今回は買い替えを見送ることにしたというエッセイです。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "iPhone 13 mini"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "125f2163fdd8ac65",
-   "url": "https://monomax.jp/archives/360023",
-   "title_original": "【登山家が認めた本格派】ワイルドシングス「高機能サブバッグ」が休日の大正解！“軽くてタフな7,000円以下”の最新3モデルを徹底解説",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2027/09/3183062a871a3f06fab7108bb09eac1c.jpeg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-04T10:00:28+00:00",
-   "title_ja": "軽量タフなサブバッグ3モデルを徹底比較",
-   "summary_ja": "登山家が評価したワイルドシングスのサブバッグ3機種を、7,000円以下の価格帯で軽さと耐久性を基準に比較し、ミニマルなアウトドア装備の選び方を紹介しています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ワイルドシングス サブバッグ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "5c97877dbd3c8300",
-   "url": "https://note.com/fair_salvia9598/n/n964947c02a50",
-   "title_original": "小さなおうちでシンプルライフ｜ずる、ずる、ずる。を卒業｜TOWER",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/310218545/rectangle_large_type_2_89a6bd398018db6ae30ef8b685c31a95.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-04T09:52:19+00:00",
-   "title_ja": "洗面器のマグネット収納で感じていた小さなストレス",
-   "summary_ja": "壁にマグネットで取り付けていた洗面器が自重で少しずつ下がってくるという、小さな暮らしのストレスについて綴られています。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "洗面器"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "2086018cfe3f98ba",
-   "url": "https://uk.style.yahoo.com/single-mum-23k-debt-paid-091014623.html",
-   "title_original": "Single mum in £23k of debt paid back £19k in five months by decluttering 410 items",
-   "source": "Yahoo Life UK",
-   "image": "https://s.yimg.com/lo/mysterio/api/53739b527b54f0d33301624f5a99ceb3782351239707e368ef64ab2eee635aae/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvideo.swns%2Fc8a413a0abfa6ba470c0e9df1538dd96.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-04T09:10:14+00:00",
-   "title_ja": "シングルマザー、410品目整理で5か月で19千ポンド返済",
-   "summary_ja": "年収23千ポンドの借金を抱えていたシングルマザーが、410点を断捨離し5か月で19千ポンド返済に成功した事例を紹介。物を減らす具体的な手順と効果が分かります。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "087d0c9e510af54a",
-   "url": "https://monomax.jp/archives/360414",
-   "title_original": "【セブンでヘインズが買える!?】傑作ビーフィーTが3850円でコンビニに降臨！「激熱すぎる」初コラボを徹底解説",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2027/09/111045540.jpeg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-04T09:00:43+00:00",
-   "title_ja": "セブンイレブンで買えるヘインズのコラボTシャツを紹介した記事",
-   "summary_ja": "セブン-イレブンで発売されたヘインズの定番「ビーフィーT」のコラボレーション商品を紹介する記事。身近なコンビニで手軽に購入できるようになった傑作Tシャツの特徴や魅力について、画像とともに詳しく解説している。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "ビーフィーT"
-   ],
    "importance": 3
   }
  ]
