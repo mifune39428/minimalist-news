@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-11T19:52:52.961174+09:00",
+ "updated_at": "2026-09-12T01:08:02.393938+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,11 +29,11 @@
  "things": [
   {
    "name": "服",
-   "count": 19
+   "count": 18
   },
   {
    "name": "iPhone",
-   "count": 6
+   "count": 5
   },
   {
    "name": "スマートフォン",
@@ -41,14 +41,6 @@
   },
   {
    "name": "クレジットカード",
-   "count": 4
-  },
-  {
-   "name": "スマホ",
-   "count": 4
-  },
-  {
-   "name": "テレビ",
    "count": 4
   },
   {
@@ -76,11 +68,15 @@
    "count": 3
   },
   {
-   "name": "ゴミ袋",
+   "name": "サブスク",
    "count": 3
   },
   {
-   "name": "サブスク",
+   "name": "スマホ",
+   "count": 3
+  },
+  {
+   "name": "テレビ",
    "count": 3
   },
   {
@@ -116,15 +112,15 @@
    "count": 2
   },
   {
-   "name": "iPad",
-   "count": 2
-  },
-  {
    "name": "アクセサリー",
    "count": 2
   },
   {
    "name": "イヤホン",
+   "count": 2
+  },
+  {
+   "name": "ゴミ袋",
    "count": 2
   },
   {
@@ -186,12 +182,17 @@
   {
    "name": "ワンピース",
    "count": 2
+  },
+  {
+   "name": "下着",
+   "count": 2
   }
  ],
  "sources": [
   "A Slob Comes Clean",
   "Apartment Therapy",
   "Architectural Digest",
+  "BS朝日",
   "Balance Through Simplicity",
   "Be More with Less",
   "Better Homes & Gardens",
@@ -218,6 +219,7 @@
   "The Guardian",
   "The Minimal Mom",
   "The Minimalists",
+  "The Mirror",
   "The Scottish Sun",
   "The Simplicity Habit",
   "The Spruce",
@@ -225,6 +227,7 @@
   "The i Paper",
   "Upworthy",
   "WIRED",
+  "Wales Online",
   "Worn & Wound",
   "Yahoo Life UK",
   "Yahoo Lifestyle Canada",
@@ -233,19 +236,22 @@
   "irishcountrymagazine.ie",
   "liniere.jp",
   "livingetc.com",
-  "marthastewart.com",
   "news.livedoor.com",
   "note #ミニマリスト",
   "note #少ない服で暮らす",
   "note #持たない暮らし",
   "note #断捨離",
+  "nss magazine",
   "parade.com",
   "thespruce.com",
   "thetv.jp",
+  "wfla.com",
+  "womanandhome.com",
   "ねとらぼ",
   "ぴーこ｜ゆるっとミニマルな日常",
   "やましたひでこ断捨離",
   "スポニチ Sponichi Annex",
+  "ミニマリスト Nozomi",
   "ミニマリストK",
   "ミニマリストsin",
   "ミニマリストしぶ",
@@ -261,6 +267,259 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "3a307e4c1847777a",
+   "url": "https://www.womanandhome.com/homes/cleaning--decluttering/summer-items-to-declutter-before-autumn",
+   "title_original": "5 summer items to declutter in your home now to free up space this autumn",
+   "source": "womanandhome.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/opsjEmLLpZ984nKBhba7RG-1920-80.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-11T15:00:00+00:00",
+   "title_ja": "秋に向けて今のうちに手放したい夏のアイテム5選",
+   "summary_ja": "秋のスペース確保のために、夏の時期に自宅から手放すべき5つのアイテムについて解説している海外の記事です。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "cab8f5528471a72b",
+   "url": "https://www.roomie.jp/2026/09/1883767",
+   "title_original": "「バッグがズレる」が気になる人へ。背中にフィットするスリングバッグを実際に試したよ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/xpac3.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-11T14:45:05+00:00",
+   "title_ja": "背中にフィットするスリングバッグを試してみた",
+   "summary_ja": "平日は書類とタブレット、休日はカメラを入れ、TRIDEALのTOUGH SLING MULTI BAG X‑Pacを実際に使用。デューロンとX‑Pac VX21素材で耐久性が高く、マチ幅は4〜13cmに調整可能です。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "TRIDEAL スリングバッグ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "79551ae13c17e580",
+   "url": "https://www.wfla.com/daytime/fall-is-the-perfect-time-to-declutter",
+   "title_original": "Fall is the perfect time to declutter!",
+   "source": "wfla.com",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-11T14:03:32+00:00",
+   "title_ja": "秋は断捨離に最適な時期",
+   "summary_ja": "秋は気温が下がり、衣替えや収納の見直しがしやすくなるため、不要品の整理を始めるのに最適な時期だと促すニュースです。季節の変わり目に物を減らすと、心もスッキリすると説明しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "aee753f65c9a5031",
+   "url": "https://www.lifehacker.jp/article/2609-matome-iphone-reuse",
+   "title_original": "旧型iPhoneを再利用する3つのアイデア。それ手放すのはちょっと待って！",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/06/08/6524713d-2945-4ce7-a235-165db035f578/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-11T13:30:00+00:00",
+   "title_ja": "旧型iPhoneを楽器・カメラ・コントローラーに再利用",
+   "summary_ja": "使わなくなったiPhoneを本格楽器、見守りカメラ、スマートホーム専用コントローラーとして活用する3つのアイデアを紹介。Wi‑Fi接続さえできれば、ガジェットとして再び価値を持たせる方法です。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "旧型iPhone"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "86bf2b32f784ff56",
+   "url": "https://www.apartmenttherapy.com/decluttering-after-75-37689935",
+   "title_original": "7 Things My Dad Got Rid Of After 75",
+   "source": "Apartment Therapy",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-11T12:44:21+00:00",
+   "title_ja": "75歳の父親が手放した7つのもの",
+   "summary_ja": "長年暮らしてきた父親が、どのような基準で何を手放していったのかを紹介する海外の記事。年齢を重ねてから生活を身軽にするためのヒントや、不要品を見極める考え方が伺えます。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "7cb684ac83c60471",
+   "url": "https://www.walesonline.co.uk/lifestyle/bbc-sort-your-life-out-34603771",
+   "title_original": "BBC Sort Your Life Out star warns 'wrong' choice could make your home more cluttered",
+   "source": "Wales Online",
+   "image": "https://i2-prod.walesonline.co.uk/article34603769.ece/ALTERNATES/s1200d/0_414399-c0a5.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-11T12:35:00+00:00",
+   "title_ja": "片づけで間違った選び方をすると散らかる理由",
+   "summary_ja": "テレビ番組の人気出演者が、家の中をすっきりと整えるうえで注意すべきポイントについて警鐘を鳴らしています。間違った選択をしてしまうと、かえって物が散らかる原因になるため注意が必要です。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "d973eb31f4a45be7",
+   "url": "https://www.youtube.com/watch?v=1A5yAbNX7T0",
+   "title_original": "We're Simplifying...",
+   "source": "The Minimalists",
+   "image": "https://i2.ytimg.com/vi/1A5yAbNX7T0/hqdefault.jpg",
+   "media": "youtube",
+   "region": "海外",
+   "published": "2026-09-11T12:00:14+00:00",
+   "title_ja": "ミニマリストたちが語る暮らしの簡素化",
+   "summary_ja": "ミニマリストとして知られる人物たちが、日々の生活をよりシンプルにするための考え方や取り組みについて発信しています。持ち物を減らして心穏やかに暮らすためのヒントが詰まった内容です。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "579d56e009e31932",
+   "url": "https://www.roomie.jp/2026/09/1875396",
+   "title_original": "次の予定次第で「テイクアウトドリンク」を諦めがち。飲みたい気持ちを我慢せずに買えるようになった",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/2608_yamadrinkholder_top.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-11T12:00:09+00:00",
+   "title_ja": "予定を気にしてテイクアウトを諦めない工夫",
+   "summary_ja": "外出先の予定を気にしてテイクアウトのドリンクを我慢してしまいがちな状況を解消するための工夫。その後の買い物や移動の心配を減らし、飲みたい気持ちを我慢せずに買えるようになった体験談です。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "db2ba05b8b1c7915",
+   "url": "https://www.mirror.co.uk/lifestyle/sort-your-life-out-star-37652129.amp",
+   "title_original": "Sort Your Life Out star warns against common decluttering mistake and one way to avoid it",
+   "source": "The Mirror",
+   "image": "https://i2-prod.mirror.co.uk/incoming/article37587321.ece/ALTERNATES/s1200/1_Dilly-2.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-11T11:46:00+00:00",
+   "title_ja": "片づけのプロが警告するありがちな失敗と対策",
+   "summary_ja": "片づけ番組の出演者が、多くの人が陥りがちなよくある失敗について警告し、その失敗を避けるための具体的な方法を解説しています。効率よく部屋を整えるための考え方が学べます。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "f58af7b927f984f8",
+   "url": "https://www.roomie.jp/2026/09/1883146",
+   "title_original": "「本を持ち出しづらい理由」がひとつ消えた！カードサイズになるブックポーチが読書体験を変えてくれた",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/IMG_0411.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-11T11:30:31+00:00",
+   "title_ja": "カードサイズになる便利なブックポーチ",
+   "summary_ja": "本を持ち歩きやすくするために開発された、カードサイズに変形するブックポーチの紹介。日常の読書体験をより軽快に変えてくれるアイテムとして活用されています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ブックポーチ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e9d7072007e1da16",
+   "url": "https://www.nssgclub.com/en/beauty/46727/september-beauty-decluttering-guide-makeup-cleanout",
+   "title_original": "Beauty Decluttering: what to keep and toss this September",
+   "source": "nss magazine",
+   "image": "https://data2.nssmag.com/images/galleries/49438/decluttering__orizz-2.webp",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-11T11:29:09+00:00",
+   "title_ja": "美容アイテムの断捨離：残すものと手放すものの基準",
+   "summary_ja": "増えがちな美容アイテムを整理するための考え方。何を残し、何を処分すべきかの基準を見直すことで、メイクまわりの空間をすっきりと整える方法について解説しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "3045d613b1da5f34",
+   "url": "https://www.youtube.com/watch?v=v6MpAXaDsDs",
+   "title_original": "宮崎美子さんも納得。家が若返ると、人生まで軽くなる理由",
+   "source": "やましたひでこ断捨離",
+   "image": "https://i3.ytimg.com/vi/v6MpAXaDsDs/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-09-11T11:00:32+00:00",
+   "title_ja": "家が若返ると人生が軽くなる理由について",
+   "summary_ja": "宮崎美子さんをゲストに迎え、家を片づけて若返らせることで、心や人生まで軽くなっていく理由について語られています。住環境を整えることの本質に迫る内容です。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "01b09f241db481b9",
+   "url": "https://www.youtube.com/watch?v=y0nMsplPXv8",
+   "title_original": "【ミニマリスト】ミニマルに暮らすなら注意してほしいこと4選",
+   "source": "ミニマリスト Nozomi",
+   "image": "https://i2.ytimg.com/vi/y0nMsplPXv8/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-09-11T11:00:27+00:00",
+   "title_ja": "子どもとミニマルに暮らす実践者が語る注意点",
+   "summary_ja": "ミニマリスト歴12年で子どもと暮らす投稿者が、持ち物の減らし方や部屋の片付け、思考の整理について語る。乳幼児がいてもスマートに暮らすためのポイントを紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "9e0633a9235f98c0",
+   "url": "https://www.youtube.com/watch?v=es4wVp6MyPw",
+   "title_original": "【新居のリアル】理想通りに全然いかない30代ミニマリストの新生活｜購入品・ぼやき",
+   "source": "ミニマリストsin",
+   "image": "https://i2.ytimg.com/vi/es4wVp6MyPw/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-09-11T11:00:06+00:00",
+   "title_ja": "30代ミニマリストの新居でのリアルな購入品",
+   "summary_ja": "新生活を始めたミニマリストが、理想通りにいかないリアルな日常とともに使っているアイテムを紹介。タンブラーやポーチなどの生活雑貨やカメラが挙げられている。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "マイクロファイバークロス",
+    "キルティングスクエアポーチ",
+    "ステンレスタンブラー用フタ",
+    "ワンタッチポータブルタンブラー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "a7ec29e42b2a0780",
+   "url": "https://www.roomie.jp/2026/09/1879981",
+   "title_original": "気づいたら休みがなかった私。無印良品の「3つ折りスケジュールシート」で余裕を持った予定が組めるようになった",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/shiro_260908_schedule-sheet_top-1.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-11T11:00:01+00:00",
+   "title_ja": "無印良品のスケジュールシートで予定に余裕を持つ",
+   "summary_ja": "スケジュール調整がうまくいかず休めなかった筆者が、無印良品の3つ折りスケジュールシートを導入。1年間を一目で把握できるようにして、余裕のある予定管理を実践している。",
+   "category": "心・習慣",
+   "axis": "own",
+   "things": [
+    "無印良品 スケジュールシート"
+   ],
+   "importance": 3
+  },
   {
    "id": "9b4b7206786b9315",
    "url": "https://note.com/magic_kumo/n/nbf0a1f1820a9",
@@ -1385,6 +1644,22 @@
     "リュックカバー",
     "ゴミ袋"
    ],
+   "importance": 3
+  },
+  {
+   "id": "c5f8e2a077dc1eea",
+   "url": "https://www.bs-asahi.co.jp/danshari/lineup/page/37",
+   "title_original": "放送内容 | ウチ、“断捨離”しました！",
+   "source": "BS朝日",
+   "image": "https://www.bs-asahi.co.jp/wp-content/uploads/sites/92/2023/04/3587dfa09c73266eb1d360aa81c060b8.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-10T07:00:00+00:00",
+   "title_ja": "テレビ番組「ウチ、断捨離しました！」の放送内容",
+   "summary_ja": "物を捨てられずに悩む家庭が断捨離を通じて暮らしや家族関係を見直していく、テレビ番組の放送内容を紹介しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -7014,289 +7289,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 2
-  },
-  {
-   "id": "bac056b86930c9b7",
-   "url": "https://www.roomie.jp/2026/09/1879349",
-   "title_original": "キッチンにも机にも。小さなMagsafe三脚でスマホやiPadの活躍シーンが広がったよ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/image_008_5fed67dd.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-05T01:45:57+00:00",
-   "title_ja": "自宅や外出先でマルチに活躍する手のひらサイズのスマホ三脚",
-   "summary_ja": "手のひらサイズで置き場所を選ばないMagSafe対応のスマホ三脚「AirTripod MG01」を紹介。ノートPCの隣にiPadを立てたり、キッチンでレシピ動画を見るために吊るしたりと、マルチに活用できるアイテムの魅力を伝えている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "AirTripod MG01",
-    "iPad",
-    "スマホ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "da02c841fb56b899",
-   "url": "https://www.roomie.jp/2026/09/1877044",
-   "title_original": "折りたたみなのに、長傘みたいにサッと閉じられる。体感マイナス15℃の日傘が地味に賢かった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/1-4.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-05T01:15:27+00:00",
-   "title_ja": "折りたたみサンブロック傘が便利な理由",
-   "summary_ja": "コジットのサンブロックラボ遮夏クール晴雨兼用傘は、折りたたみで長傘のようにサッと閉じ、日差しと熱から守ってくれるコンパクトな日傘です。旅行や通勤にも便利で、持ち運びが楽です。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "コジット サンブロックラボ 遮夏クール晴雨兼用傘"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "c575395d61f95e7b",
-   "url": "https://news.livedoor.com/topics/detail/32247873/?_clicked=echoes_list",
-   "title_original": "【シニアの終活】ライフさんの年賀状じまいの潔い文面に共感！心が軽くなる人間関係の断捨離術",
-   "source": "ライブドアニュース",
-   "image": "https://image.news.livedoor.com/newsimage/stf/b/1/b1d5f_1845_29352322_76155458.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-05T01:05:00+00:00",
-   "title_ja": "シニアの年賀状じまいで学ぶ人間関係の断捨離",
-   "summary_ja": "シニアが年賀状をやめ、簡潔な文面で送ることで人間関係の負担を減らした事例を紹介し、断捨離が心を軽くする方法として示しています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "e658052657264a4f",
-   "url": "https://www.lifehacker.jp/article/2609-costorypo-goldpfeil-review2-1187009503",
-   "title_original": "充電も電池交換も不要。裏も表もスケルトンの自動巻き時計を2万円台で",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/03/86ec6df4-4839-4fe9-887e-6e3d083cb710/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-05T01:00:00+00:00",
-   "title_ja": "2万円台の両面スケルトン自動巻き時計が登場",
-   "summary_ja": "ドイツのレザーブランドGOLD PFEILが、表裏から機構が見える自動巻きスケルトン時計G51007SBを2万円台で発売。充電や電池交換が不要で、機械式時計の魅力を手軽に楽しめます。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "GOLD PFEIL G51007SB"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "85e7e15119fdf18c",
-   "url": "https://www.roomie.jp/2026/09/1878956",
-   "title_original": "どこから見ても正面。球体ガラスで育てるマリモが思っていた以上に愛おしい",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/marisphere2.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-05T00:45:46+00:00",
-   "title_ja": "球体ガラスのマリモテラリウム『MariSPHERE』が可愛い",
-   "summary_ja": "BIOILLUMIの『MariSPHERE』は球体ガラスにマリモを入れた小型テラリウムで、部屋のインテリアとして手軽に育てられ、世話の手間が少ない点が好評です。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "MariSPHERE"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "8ca9946f14270986",
-   "url": "https://www.bhg.com/80-20-organizing-12066834",
-   "title_original": "Organizing Pros Swear the 80/20 Decluttering Method Will Totally Transform Your Home",
-   "source": "Better Homes & Gardens",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-05T00:40:00+00:00",
-   "title_ja": "家の片付けが変わる80/20ルールの活用法",
-   "summary_ja": "収納のプロが実践する「80/20ルール」を使って家の中の散らかりを根本から見直す方法。多くの人が持っている物のうち本当に使っている部分に焦点を当て、空間をすっきりと整えるアプローチを紹介しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "748fa0bfab71b105",
-   "url": "https://bemorewithless.com/weekend-favorites-september-5-2026/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
-   "title_original": "house hushing + a list of 30 things to declutter",
-   "source": "Be More with Less",
-   "image": "https://bemorewithless.com/wp-content/uploads/2026/09/house-hushing-image.png",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-09-05T00:33:04+00:00",
-   "title_ja": "予定の余白を楽しむ暮らしと30個の整理リスト",
-   "summary_ja": "予定がキャンセルされた時にその空間を無理に埋めず自分時間として味わう「ハウスハッシング」という考え方。さらに、生活を軽やかにするために手放したい30のアイテムリストを組み合わせて紹介しています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "4c36383982ec8502",
-   "url": "https://www.roomie.jp/2026/09/1876379",
-   "title_original": "「360度変形リング」と「ほぼ裸のケース」で、スマホ快適度が爆上がっちゃった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/aulumu_169-1.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-05T00:15:06+00:00",
-   "title_ja": "変形リングと薄型ケースで快適になったスマホ環境",
-   "summary_ja": "毎日持ち歩くスマートフォンをより快適でスタイリッシュに使うため、360度変形するリングとほぼ裸のような薄型ケースを導入した事例。機能性とデザイン性を兼ね備えたAulumuのアクセサリーを活用しています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "スマホケース",
-    "リング",
-    "スマホアクセサリー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "677917a5835acd86",
-   "url": "https://minimalist-fudeko.com/review-spending-without-guilt",
-   "title_original": "カードの明細を見るのが気が重い人へ。自分を責めない振り返り方",
-   "source": "筆子ジャーナル",
-   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/08/looking-at-smartphone.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-05T00:10:22+00:00",
-   "title_ja": "クレジットカードの明細を見るのが気が重い人への向き合い方",
-   "summary_ja": "旅行などで使ったカードの明細を見るのが億劫な人に向けて、自分を責めずに数字として冷静に振り返る方法を紹介している。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "f422973d99de8113",
-   "url": "https://www.lifehacker.jp/article/2609_gizmodo_newbalance_higt-grade-rebounting-insole-dfe-rqg",
-   "title_original": "ユニクロの靴が「ほぼニューバランスの履き心地」になりました",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/08/30/b390822b-85bd-4390-8485-7db42416937f/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-04T23:30:00+00:00",
-   "title_ja": "UniqloブーツにNBインソールで履き心地向上",
-   "summary_ja": "Uniqloのブーツにニューバランスのハイリバウンディングインソールを入れ替えるだけで、履き心地が大幅に改善し、出番が減っていた靴が一軍の履き物として再評価された。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "ユニクロブーツ",
-    "ニューバランスハイリバウンディングインソール"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "9eb42b12342daa10",
-   "url": "https://www.lifehacker.jp/article/2609-3coins-suitcase-iphone",
-   "title_original": "スーツケースにiPhoneを貼り付けたら、旅の移動が快適になった",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/08/23/a645cdef-c1b7-40e7-a4ed-d920ac10d72b/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-04T23:30:00+00:00",
-   "title_ja": "3COINSの磁石式スマホホルダーでスーツケースが便利に",
-   "summary_ja": "3COINSのマグネット式スマホホルダーは取り付けが簡単で、振っても落ちないMagSafe対応。iPhoneをスーツケースに貼り付けるだけで、旅先での移動が快適になる。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "マグネット式スマホホルダー",
-    "iPhone",
-    "スーツケース"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "18ae32e515171bc7",
-   "url": "https://news.livedoor.com/topics/detail/32247140",
-   "title_original": "断捨離中の禁断行為！ゴミ袋を漁って…「これ捨てちゃうの？」 (2026年9月5日掲載)",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-04T22:00:05+00:00",
-   "title_ja": "断捨離中にゴミ袋を漁る禁断の行為とは",
-   "summary_ja": "断捨離を進める中で、捨てるべきか迷いゴミ袋を漁るという禁断の行為について、心理と実例が語られ、読者は自分の判断基準を見直すヒントを得られる。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "ゴミ袋"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2e470f324ec089e8",
-   "url": "https://note.com/metastyle/n/nca50f0c64dee",
-   "title_original": "パナソニック ファーストマルチシェーバー ER-GZ50-K。身支度の道具を一本に",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/310110431/rectangle_large_type_2_35e948ffff46d84b20612f5e3e1715d0.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-04T21:57:27+00:00",
-   "title_ja": "パナソニックのマルチシェーバー1本で身支度を簡素化",
-   "summary_ja": "朝の身支度で使う複数の小道具を、パナソニックのファーストマルチシェーバー ER‑GZ50‑K一本に集約し、持ち物を減らしつつ機能性を確保した実例が紹介されている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "9380b0286cd11895",
-   "url": "https://note.com/kotaka_simple/n/nfd18fe550085",
-   "title_original": "17年テレビなし。惜しいのは、金曜21時を待つ時間だけ",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/310369338/rectangle_large_type_2_0967a4630d4a4d4295be185d092e9e4b.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-04T21:29:58+00:00",
-   "title_ja": "テレビを買わずに7年暮らした話",
-   "summary_ja": "一人暮らしを始めたとき、テレビを買わない選択をした。だらだら見る時間が減り、実家と変わらない生活感がなくなり、シンプルな暮らしを実感している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "テレビ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f43a67baac8c299a",
-   "url": "https://www.marthastewart.com/90-90-decluttering-rule-explained-12076773",
-   "title_original": "The 90/90 Decluttering Rule Makes It So Easy to Decide What to Keep or Toss",
-   "source": "marthastewart.com",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-04T21:00:00+00:00",
-   "title_ja": "90/90 片付けルールで簡単に取捨選択",
-   "summary_ja": "90/90 片付けルールは、使用頻度が90％未満のものを90日以内に手放すか判断する方法で、持ち物整理をシンプルにする手法です。このルールを使うと、何を残すべきかが明確になり、無駄なものが減ります。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "5a96b70774e24dab",
-   "url": "https://note.com/mifune39428/n/n4fbc057d379d",
-   "title_original": "旅行専用の服はいらない。普段着を「一軍」だけにしたら旅の荷物も減りました",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/310248007/rectangle_large_type_2_47f12aab8e834dd8a310eb715825a807.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-04T20:43:55+00:00",
-   "title_ja": "旅行服を減らし、普段着だけで荷物を軽くした体験",
-   "summary_ja": "旅行専用の服を買わず、普段着の『一軍』だけで旅行に出ることで、持ち物が大幅に減り、荷物の重さや手間が軽減されたと語る。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "服"
-   ],
-   "importance": 3
   }
  ]
 }
