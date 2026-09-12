@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-13T00:15:28.990054+09:00",
+ "updated_at": "2026-09-13T05:21:37.007635+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -40,10 +40,6 @@
    "count": 5
   },
   {
-   "name": "クレジットカード",
-   "count": 4
-  },
-  {
    "name": "スマートフォン",
    "count": 4
   },
@@ -72,6 +68,14 @@
    "count": 4
   },
   {
+   "name": "CD",
+   "count": 3
+  },
+  {
+   "name": "Tシャツ",
+   "count": 3
+  },
+  {
    "name": "iPad",
    "count": 3
   },
@@ -81,6 +85,10 @@
   },
   {
    "name": "キーボード",
+   "count": 3
+  },
+  {
+   "name": "クレジットカード",
    "count": 3
   },
   {
@@ -100,7 +108,7 @@
    "count": 3
   },
   {
-   "name": "CD",
+   "name": "DVD・Blu-ray",
    "count": 2
   },
   {
@@ -120,7 +128,7 @@
    "count": 2
   },
   {
-   "name": "Tシャツ",
+   "name": "ふきん",
    "count": 2
   },
   {
@@ -128,15 +136,11 @@
    "count": 2
   },
   {
-   "name": "ゴミ袋",
+   "name": "ゲーム",
    "count": 2
   },
   {
    "name": "ジャケット",
-   "count": 2
-  },
-  {
-   "name": "スマホ",
    "count": 2
   },
   {
@@ -164,6 +168,10 @@
    "count": 2
   },
   {
+   "name": "フィギュア",
+   "count": 2
+  },
+  {
    "name": "マウス",
    "count": 2
   },
@@ -178,19 +186,12 @@
   {
    "name": "モニター",
    "count": 2
-  },
-  {
-   "name": "ロボット掃除機",
-   "count": 2
-  },
-  {
-   "name": "ワイヤレスイヤホン",
-   "count": 2
   }
  ],
  "sources": [
   "A Slob Comes Clean",
   "Apartment Therapy",
+  "AppBank",
   "Architectural Digest",
   "BS朝日",
   "Balance Through Simplicity",
@@ -199,6 +200,7 @@
   "Business Insider",
   "Carryology",
   "Excite エキサイト",
+  "Family Handyman",
   "Good Housekeeping",
   "Good News Network",
   "Herzindagi",
@@ -225,6 +227,7 @@
   "The Scottish Sun",
   "The Simplicity Habit",
   "The Spruce",
+  "The Sun",
   "The Telegraph",
   "The i Paper",
   "Tommy / Tokyo Simple Life",
@@ -236,6 +239,7 @@
   "Yahoo Life UK",
   "Yahoo Lifestyle Canada",
   "Yahoo!ニュース",
+  "YouTube",
   "graziamagazine.com",
   "irishcountrymagazine.ie",
   "liniere.jp",
@@ -249,6 +253,7 @@
   "parade.com",
   "thespruce.com",
   "thetv.jp",
+  "walkerplus.com",
   "wfla.com",
   "womanandhome.com",
   "うにのゆるシンプルな暮らし",
@@ -262,7 +267,6 @@
   "ライフハッカー・ジャパン",
   "ライブドアニュース",
   "レイの小さな暮らし",
-  "双葉社 THE CHANGE",
   "小さな暮らしノート",
   "私だけミニマリスト｜南さやか",
   "筆子ジャーナル",
@@ -270,6 +274,121 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "0ad21b7e71f30098",
+   "url": "https://note.com/oochan_minimal/n/n118a26ba320a",
+   "title_original": "【掃除】たったこれだけ！キッチン掃除の簡単ルーティン！",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/312935614/rectangle_large_type_2_4f7963a6a35ba7bdc11287361ff3598d.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-12T19:26:25+00:00",
+   "title_ja": "キッチンをきれいに保つ簡単な掃除ルーティン",
+   "summary_ja": "専業主夫として毎日自炊する家庭で、ウタマロクリーナーや100円ショップのスポンジなどを使ってキッチンをきれいにする方法を紹介しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "ウタマロクリーナー",
+    "ふきん",
+    "食器洗い用スポンジ",
+    "排水溝ネット"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "3b09f6f818fe6adf",
+   "url": "https://note.com/mainichi_3ko/n/n33fe2adc2e20",
+   "title_original": "姉の手放し方",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/312770871/rectangle_large_type_2_2f7bfce320eb9502d8045085f5af1f60.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-12T18:23:34+00:00",
+   "title_ja": "毎日3つ捨てる断捨離の実践と家族の物",
+   "summary_ja": "毎日3つ手放す実践の56日目で、使用済みインクや衣類を処分しました。帰省した家族が持ち込む物と、整理についての気づきを振り返っています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "ファックスインク",
+    "肌着",
+    "Tシャツ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "fc8105a1ed3190e8",
+   "url": "https://note.com/easy_viper8477/n/n987710ca53f2",
+   "title_original": "アニメグッズはどこで売る？店舗買取と宅配買取を比較してみた",
+   "source": "note #断捨離",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/bc2d3c9f67739a34510dca6291f9091b94af625f.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-12T17:30:07+00:00",
+   "title_ja": "アニメグッズの売却方法：店舗買取と宅配買取を比較",
+   "summary_ja": "アニメグッズやフィギュアを手放す際、店舗買取はその場で査定できるが大量は持ち運びが大変。宅配買取は自宅から送れるので大量整理に便利と解説している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "フィギュア",
+    "ゲーム",
+    "DVD・Blu-ray",
+    "CD"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "6616e10353a2601d",
+   "url": "https://note.com/easy_viper8477/n/n2a21941c13ac",
+   "title_original": "アニメグッズを売る前に確認したい5つのポイント｜宅配買取で失敗しないために",
+   "source": "note #断捨離",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/9d4c6275038b486028426aad365402f061c34f12.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-12T17:22:48+00:00",
+   "title_ja": "アニメグッズ宅配買取で失敗しない5つのチェックポイント",
+   "summary_ja": "売る前にまとめ、状態確認、持ち運び回避、売れない可能性の確認、送料や手続き確認の5点を解説し、宅配買取での失敗を防ぐ方法を提示している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "フィギュア",
+    "アニメグッズ",
+    "ゲーム",
+    "DVD・Blu-ray"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c446c151047438ff",
+   "url": "https://youtu.be/SuBlClT0I2M?is=o70yski2eLStgI62",
+   "title_original": "Life in Austria LATELY| Opera Visit, Eating Out, Decluttering, Those days of the month| Just stuff!",
+   "source": "YouTube",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-12T17:00:47+00:00",
+   "title_ja": "オーストリア生活Vlog：オペラ・外食・断捨離など",
+   "summary_ja": "オーストリア在住者がオペラ鑑賞や外食の様子と共に、最近実践した断捨離の過程を紹介する日常Vlogで、身の回りの整理のヒントが得られる。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "2124698ac547af35",
+   "url": "https://www.thesun.co.uk/money/40360017/declutter-home-chaos-make-money",
+   "title_original": "How to declutter your home after weeks of summer chaos - & even make some money",
+   "source": "The Sun",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-12T16:59:00+00:00",
+   "title_ja": "夏の散らかりを片付けて不要品を売る方法",
+   "summary_ja": "夏の数週間で溜まった不要品を整理し、フリマやリサイクルで売却して収入を得る具体的な手順を紹介しています。また、片付けのコツや心構えも解説し、シンプルな暮らしへの第一歩をサポートします。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
   {
    "id": "61b0cf00e5017df0",
    "url": "https://note.com/alice_mw/n/nc52e5fcbe8e6",
@@ -449,6 +568,24 @@
    "importance": 3
   },
   {
+   "id": "2bd390ddf2f21a17",
+   "url": "https://www.lifehacker.jp/article/2609-machi-ya-launbot-lh-editorialreview",
+   "title_original": "吊るすだけでシワも匂いもすっきり！服が整う新感覚「衣類ケア」デバイスでゆとりの朝が生まれた",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/09/11/558c4c0e-e497-4e08-94f7-30dc83094ad4/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-12T12:00:00+00:00",
+   "title_ja": "ハンガーに掛けるだけでシワ伸ばし・除菌 Launbot",
+   "summary_ja": "AI搭載のポータブルデバイスLaunbotは、ハンガーに掛けるだけで温風で服を膨らませ、シワ伸ばし・乾燥・除菌を自動で行い、アイロンの手間を減らすと紹介されています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "Launbot"
+   ],
+   "importance": 3
+  },
+  {
    "id": "6149836ad318cc52",
    "url": "https://www.roomie.jp/2026/09/1881907",
    "title_original": "「目薬サイズのレジャーシート」をポーチに常備。予想外のシーンで真価を発揮するんだ",
@@ -463,6 +600,42 @@
    "axis": "own",
    "things": [
     "レジャーシート"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "caedf2ab42be4628",
+   "url": "https://www.appbank.net/2026/09/12/goods-books/3102328.php",
+   "title_original": "超軽量16gのバンパーケース登場！ Casefiniteが iPhone Duo / 18 Proシリーズ対応の新作全8種を発売",
+   "source": "AppBank",
+   "image": "https://www.appbank.net/wp-content/uploads/2026/09/20260912_072307_554_01.webp",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-12T11:23:03+00:00",
+   "title_ja": "超軽量16gのiPhoneバンパーケースが登場",
+   "summary_ja": "CasefiniteがiPhone DuoおよびiPhone 18 Pro向けに、全8種の重量16gのバンパーケースを新発売し、軽さと保護を両立させた製品として紹介しています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "iPhoneケース"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "75eaac06aab06784",
+   "url": "https://www.roomie.jp/2026/09/1884448",
+   "title_original": "SwitchBotのスマートカーテンで、朝は布団から出ずに日差しで起きる生活に",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/Curtain3-scaled.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-12T11:15:46+00:00",
+   "title_ja": "SwitchBotスマートカーテンで朝の手間を自動化",
+   "summary_ja": "工具や配線不要のSwitchBot第3世代スマートカーテンを設置すれば、布団から出ずに日差しで自然に起床でき、朝のルーティンがシンプルになると紹介されています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "SwitchBot スマートカーテン"
    ],
    "importance": 3
   },
@@ -649,6 +822,26 @@
     "KATE 超極細ペンシル"
    ],
    "importance": 2
+  },
+  {
+   "id": "452f0edc5306fd41",
+   "url": "https://monomax.jp/archives/360954",
+   "title_original": "【水深1mでも浸水しないIP67防水】カバン大賞ノミネートの傑作バックパック3選！プロがエーグル、ナンガ、スポルディングの実力を徹底審査『MonoMaxカバン大賞』",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2027/09/260716-152048_11zon-scaled.jpeg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-12T09:00:29+00:00",
+   "title_ja": "IP67防水のおすすめバックパック3選",
+   "summary_ja": "防水性能IP67を備え、水深1mでも浸水しないと評価された、エーグル、ナンガ、スポルディングの3つのバックパックを紹介。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "エーグル",
+    "ナンガ",
+    "スポルディング"
+   ],
+   "importance": 3
   },
   {
    "id": "71eb3e8796cda229",
@@ -1069,6 +1262,22 @@
    "things": [
     "折りたたみコンテナ"
    ],
+   "importance": 3
+  },
+  {
+   "id": "db06cfe065b7d8ba",
+   "url": "https://www.walkerplus.com/article/1395325/image17242333.html",
+   "title_original": "画像1 / 192＞【漫画】「傘の横持ち」「プレゼントの金額差」「プレゼントは何が欲しいか聞け」「コストが大きいほど大事？〜断捨離爆遅太郎〜」ほか収録／著：ゐ",
+   "source": "walkerplus.com",
+   "image": "https://news.walkerplus.com/article/1395325/17242333_615.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-11T23:20:44+00:00",
+   "title_ja": "漫画で学ぶ断捨離と贈り物のコツ",
+   "summary_ja": "漫画に傘の横持ちやプレゼントの金額差、欲しいものの聞き方、コストと価値の関係、そして断捨離の遅れ対策など実生活に役立つ整理術が掲載されている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -1711,6 +1920,22 @@
     "秋服"
    ],
    "importance": 4
+  },
+  {
+   "id": "00166ab0d2df2024",
+   "url": "https://www.familyhandyman.com/article/houzz-home-design-trends-fall-2026",
+   "title_original": "Houzz Says Homeowners Are Done With Minimalism — 5 Trends Taking Over",
+   "source": "Family Handyman",
+   "image": "https://www.familyhandyman.com/wp-content/uploads/2026/09/5-Home-Design-Trends_AdobeStock_1207296416_FT.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-11T08:49:38+00:00",
+   "title_ja": "ミニマリズムの次にトレンドとなっている住宅の傾向",
+   "summary_ja": "近年の住宅トレンドにおいて、ミニマリズムから移行しつつある5つの新しい傾向について報じています。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
   },
   {
    "id": "2a6e48c7a9e7d5b4",
@@ -7085,223 +7310,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 2
-  },
-  {
-   "id": "ce1bee0b89d0aba5",
-   "url": "https://www.roomie.jp/2026/09/1879657",
-   "title_original": "片手でサッと取り出せる。スマホの定位置ができるってこんなに楽なんだ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/quickpack3.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-06T02:45:43+00:00",
-   "title_ja": "極小サイズのバッグを活用してスマホの定位置を作った人の話",
-   "summary_ja": "外出時のスマホの持ち運びに困っていた筆者が、容量0.6Lの極小バッグ「ポケパ」を導入。ポケットに入れる必要も大きなバッグを持ち出す必要もなくなり、片手で取り出せる快適さを紹介している。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "スマホ",
-    "ポケパ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "0a4fb5ae1e395426",
-   "url": "https://note.com/nozomi17jp/n/ne7fa9185feb9",
-   "title_original": "統合失調症の私はモノを捨てるようになった",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/307069026/rectangle_large_type_2_00b187a7367cf04e922a91b0f7244026.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-06T02:22:52+00:00",
-   "title_ja": "統合失調症を発症したことでモノを捨て価値観が変化した人の話",
-   "summary_ja": "統合失調症を発症して入院や療養を経験した筆者が、病気をきっかけにモノを捨てるようになった経緯と、病気によって自身の価値観がどのように変化していったかについて綴っている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "f9d35f4340965275",
-   "url": "https://www.lifehacker.jp/article/2609-costorypo-3waytsumeyasuri-end-1166165502",
-   "title_original": "人間にもペットにもずっと愛用したい。燕三条の職人が仕上げた黒爪ヤスリを一生モノに",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/04/8507e76e-ad19-4cd0-bdbe-4685fefa1814/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-06T01:00:00+00:00",
-   "title_ja": "燕三条の黒爪ヤスリ、長く使える一生モノ",
-   "summary_ja": "吉田ヤスリ製作所の3WAY黒爪ヤスリは、削る・整える・掻き出すの三機能を手作業で実現し、漆黒の耐久仕上げとレザーケースが付属。一生モノの爪ケアツールとして評価されている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "黒爪ヤスリ",
-    "レザーケース"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "5bc0c3376b2d8914",
-   "url": "https://news.livedoor.com/article/detail/32253553",
-   "title_original": "後悔しない片付けの工夫！ライフさんの「仕舞い込まずに日常使い」する断捨離マイルール",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-06T01:00:00+00:00",
-   "title_ja": "仕舞い込まずに使う断捨離マイルール",
-   "summary_ja": "ライフさんが提案する『仕舞い込まずに日常使い』する断捨離のマイルールは、片付けた後も物をすぐに活用できるようにすることで、後悔しない整理術を実現する方法を紹介している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "7ba4e31eacb9e2af",
-   "url": "https://www.roomie.jp/2026/09/1879649",
-   "title_original": "何から揃えればいいか分からない人へ。災害時の「初期対応」に必要な18点がひとつにまとまった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/kyukyuyellow1.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-06T00:45:03+00:00",
-   "title_ja": "災害時に必要な18点をひとまとめにした防災キット",
-   "summary_ja": "防災キットは、非常持出袋を含む18点の必需品をひとつにまとめ、移動時や滞在先での防災の死角をカバーするよう設計されている。災害時の初期対応に必要なアイテムが網羅されている。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "非常持出袋",
-    "防災キット"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "fd14828bd1c07027",
-   "url": "https://note.com/daisan_logbook/n/nf2b7a074314a",
-   "title_original": "捨て活航海日誌｜クレカは少ない方が豊かになる？三井住友ゴールドNL「100万円修行」を終えて気づいた、カード集約のメリット・デメリット",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/278673079/rectangle_large_type_2_0a5a0b28e1457c7b480a742bdf2b5e0a.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-06T00:40:02+00:00",
-   "title_ja": "クレジットカードの利用を集約して年間100万円利用を達成した人の気づき",
-   "summary_ja": "クレジットカードの枚数を減らしてメインカードに支払いを集約し、年間100万円利用を達成した体験談。カードを絞り込むことのメリットやデメリット、集約によって得られた暮らしの変化や気づきについて綴られています。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [
-    "クレジットカード",
-    "三井住友カード ゴールド（NL）"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "6e80e7a404b9febf",
-   "url": "https://minimalist-fudeko.com/morning-pages-and-goals",
-   "title_original": "1か月続いたモーニングページ、紙に書き出した今年後半の目標〜読者4人のお便り",
-   "source": "筆子ジャーナル",
-   "image": "https://minimalist-fudeko.com/wp-content/uploads/2018/12/writing.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-06T00:10:16+00:00",
-   "title_ja": "モーニングページの効果や写真整理について読者が語る暮らしの工夫",
-   "summary_ja": "1か月続いたモーニングページの効果や今年後半の目標、写真整理についての考えなど、読者4人から寄せられたお便りをまとめた記事。頭の中や持ち物を整理し、暮らしを整えるための具体的な実践例や気づきが紹介されています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "紙",
-    "写真"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "55d1851fe592f0b4",
-   "url": "https://www.roomie.jp/2026/09/1871166",
-   "title_original": "ルーターの床置きをやめたくて、山崎実業の「つっぱり棒用棚板」を使ってみた",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/20260830_sinsyuku_12-1.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-05T23:30:55+00:00",
-   "title_ja": "床置きルーターを浮かすため山崎実業のつっぱり棒用棚板を使った設置例",
-   "summary_ja": "デスク下に床置きしていたWi-Fiルーターの配置を見直すため、山崎実業のつっぱり棒用棚板を活用した実践例。配線や置き場所を整理し、床をすっきりと保ちながら暮らしの空間を整える収納の工夫を紹介しています。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "Wi-Fiルーター",
-    "つっぱり棒用棚板",
-    "LANケーブル"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "e78a06d608b4e905",
-   "url": "https://futabasha-change.com/articles/-/3096",
-   "title_original": "美村里江が実践する“情報の断捨離”…「親指がつるほど」熱中したゲームを手放した理由と現代エンタメの意義",
-   "source": "双葉社 THE CHANGE",
-   "image": "https://fc.ismcdn.jp/mwimgs/7/7/1360w/img_77613125e0d48bed087832663c759d111132640.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-05T22:30:00+00:00",
-   "title_ja": "美村里江さんが熱中したゲームを手放し情報の断捨離を実践した話",
-   "summary_ja": "女優の美村里江さんが、かつて親指がつるほど熱中していたゲームを手放したエピソードを紹介。情報の断捨離を実践する彼女の、現代エンタメの意義や、物や情報を手放すことに対する考え方が語られている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "ゲーム"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "3da9d9cd1140e8d6",
-   "url": "https://note.com/metastyle/n/n306842956b56",
-   "title_original": "KIZAWA 超軽量カーボン晴雨兼用傘は持ち物を減らす",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/310374501/rectangle_large_type_2_be2820986d707328d35b8e4e97bc04e7.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-05T21:49:54+00:00",
-   "title_ja": "天気を気にせず持ち物を減らせる超軽量の晴雨兼用傘を紹介する記事",
-   "summary_ja": "朝の天気を気にせずに出かけられる、超軽量カーボン素材の晴雨兼用傘を紹介。これ一本を持つことで、雨傘と日傘を分ける必要がなくなり、外出時の持ち物を減らすことができる実用的なアイテムについて綴られている。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "晴雨兼用傘"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "41418ba7995340a0",
-   "url": "https://www.homesandgardens.com/celebrity-homes/nicola-peltz-brooklyn-beckham-minimalist-home",
-   "title_original": "Nicola Peltz and Brooklyn Beckham’s Home Is Pure Minimalism",
-   "source": "Homes and Gardens",
-   "image": "https://cdn.mos.cms.futurecdn.net/tL9M4GnvSdFDm7aPLcGuRR-2560-80.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-05T21:00:00+00:00",
-   "title_ja": "ニコラ・ペルツとブルックリン・ベッカムのミニマルな自宅を紹介",
-   "summary_ja": "ニコラ・ペルツとブルックリン・ベッカム夫妻の、純粋なミニマリズムを体現した自宅インテリアを紹介する記事。無駄を省き、洗練された空間づくりを行う彼らの住まいから、シンプルで美しい暮らしのヒントを探る。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "9b9032cbedcb82cf",
-   "url": "https://trilltrill.jp/articles/5003210",
-   "title_original": "断捨離中の禁断行為！ゴミ袋を漁って…「これ捨てちゃうの？」",
-   "source": "TRILL",
-   "image": "https://media.trilltrill.jp/articles/5003210/featured-image.d157f627fe367804c4a050cc18642f87?w=1200",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-05T20:50:00+00:00",
-   "title_ja": "断捨離中にゴミ袋を再確認して後悔した人の体験談",
-   "summary_ja": "断捨離の途中で、一度ゴミ袋に入れたものを「本当に捨てていいのか」と見直してしまう禁断の行為について紹介する記事です。一度手放すと決めたものを再び漁ることで、片付けの決断が鈍り、作業が進まなくなる問題点について解説しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "ゴミ袋"
-   ],
-   "importance": 3
   }
  ]
 }
