@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-14T00:51:26.555169+09:00",
+ "updated_at": "2026-09-14T05:31:46.125778+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -56,7 +56,11 @@
    "count": 4
   },
   {
-   "name": "靴下",
+   "name": "イヤホン",
+   "count": 4
+  },
+  {
+   "name": "スマホ",
    "count": 4
   },
   {
@@ -68,15 +72,7 @@
    "count": 3
   },
   {
-   "name": "イヤホン",
-   "count": 3
-  },
-  {
    "name": "サブスク",
-   "count": 3
-  },
-  {
-   "name": "スマホ",
    "count": 3
   },
   {
@@ -97,6 +93,10 @@
   },
   {
    "name": "本棚",
+   "count": 3
+  },
+  {
+   "name": "靴下",
    "count": 3
   },
   {
@@ -184,7 +184,7 @@
    "count": 2
   },
   {
-   "name": "下着",
+   "name": "写真",
    "count": 2
   }
  ],
@@ -255,7 +255,6 @@
   "nss magazine",
   "parade.com",
   "thespruce.com",
-  "thetv.jp",
   "walkerplus.com",
   "wfla.com",
   "womanandhome.com",
@@ -278,6 +277,108 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "deb71e7c5e893e43",
+   "url": "https://note.com/clear_mimosa1854/n/n308ad6084c17",
+   "title_original": "「持たない」ほうが、身軽で楽",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/313091404/rectangle_large_type_2_6e5253b18e934ddbf6b7e3b43abbf0ee.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-13T20:18:38+00:00",
+   "title_ja": "持ち物を減らして気持ちと頭をすっきりさせた話",
+   "summary_ja": "物が多いと気持ちまで重くなってしまうのに対し、持ち物を減らすと頭の中まで軽やかですっきりすると実感した話。所有する物を最小限に抑えることで心理的な負担を軽減し、身軽に心地よく暮らすための捉え方を伝えている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "6954126cced46be7",
+   "url": "https://note.com/yorozuyatetsu/n/n9eae9d537b24",
+   "title_original": "片づけられないのは性格だと思っていたが、違った",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/307364295/rectangle_large_type_2_2157dce25fd86f9a387638ebb5a95b49.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-13T19:23:23+00:00",
+   "title_ja": "棚の位置を見直し部屋を整えられるようになった話",
+   "summary_ja": "自分が片づけられないのは性格のせいだと諦めていたが、原因は動線と物の置き場所にあったと気づいた体験談。棚の位置を変更したことで置き場所が最適化され、無理に自分を変えなくてもきれいな部屋を保てるようになった経過を明かしている。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "棚"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c1a63615d8eacef5",
+   "url": "https://note.com/zero_challenge/n/nca1af4313354",
+   "title_original": "物を減らしたら色々な生き方が見えてきた",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/313308914/rectangle_large_type_2_3a26f1ae1eddc87865cba68be94d02cf.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-13T17:55:23+00:00",
+   "title_ja": "物を減らすことで多様な生き方の選択肢が見えてきた体験談",
+   "summary_ja": "物を減らしたことによって、従来の枠にとらわれない様々な生き方の選択肢が見えてきた体験をつづった記事。所有物を減らすプロセスが、暮らし方や今後の生き方そのものを見つめ直すきっかけになったことが語られています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "cebcab1fc6fbf934",
+   "url": "https://note.com/tais4san/n/ne77e181bf8f4",
+   "title_original": "瞑想苦手な人はサカナクションをマインドフルに聴くだけでもいい",
+   "source": "note #ミニマリスト",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/83fa157bd0b13c6598893dc1d02a5e1488536612.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-13T17:11:06+00:00",
+   "title_ja": "瞑想が苦手な人へ音楽を集中して聴くマインドフルネスの提案",
+   "summary_ja": "音のない空間で行う瞑想が苦手な人に向けて、サカナクションの楽曲をイヤホンで集中して聴くマインドフルネス的な聴き方を提案する記事。耳を澄ませて音楽に集中することで、手軽に心を整える方法を伝えています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "イヤホン"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "240d343316731d24",
+   "url": "https://note.com/le_ssrisa/n/nb18c314ad967",
+   "title_original": "【日々捨て活】最近手放したもの5",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/313433239/rectangle_large_type_2_b259049911a80a89ee773dc853e91ab7.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-13T17:07:19+00:00",
+   "title_ja": "日常の捨て活でフリマアプリを活用して不用品を手放した記録",
+   "summary_ja": "日常的に行っている捨て活の一環として、最近フリマアプリを利用して不用品を2点手放した体験を報告する記事。手持ちの物を整理し、すっきりとした暮らしを目指す取り組みについて紹介しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "0547b6cea3913371",
+   "url": "https://shopping.yahoo.com/home-garden/home-decor/articles/declutter-rich-looking-22-faux-154500176.html",
+   "title_original": "Declutter With This 'Rich'-Looking $22 Faux Leather Ottoman That Doubles as a Luxe Chair and Footrest",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/701120056718d9ac9bbd35be568580487102b02a9765b8f005e5df8f14cf04c2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparade_ecomm_894%2F36a92a7ee2b9f7b6f7e89ff88efc96ce.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-13T15:45:00+00:00",
+   "title_ja": "椅子や足置きになる多機能オットマンで部屋を片付ける提案",
+   "summary_ja": "椅子やフットレストとしても活用できる、22ドルのフェイクレザー製オットマンを紹介した記事。1台で複数の役割を果たす省スペースな家具を活用することで、部屋の品々をすっきりと整理整頓する提案がなされています。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "オットマン"
+   ],
+   "importance": 2
+  },
   {
    "id": "1fe3beef604d879d",
    "url": "https://www.goodhousekeeping.com/home/organizing/a73652282/kitchen-decluttering-for-fall",
@@ -462,6 +563,24 @@
    "importance": 4
   },
   {
+   "id": "8f3aef052cceb162",
+   "url": "https://www.realsimple.com/questions-to-ask-when-decluttering-wardrobe-12070270",
+   "title_original": "7 Questions to Ask Yourself Before You Start Decluttering Your Closet",
+   "source": "Real Simple",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-13T13:30:00+00:00",
+   "title_ja": "クローゼットの片づけ前に自分に問いかけるべき7つの質問",
+   "summary_ja": "クローゼットの整理を始める前に、自分自身に問いかけるべき7つの質問を紹介する。不要な服を手放す基準や、本当に必要なものを見極めるための考え方を事前に整理することで、クローゼットの片づけをスムーズに進めるコツを解説。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "クローゼット"
+   ],
+   "importance": 3
+  },
+  {
    "id": "ca4b2403232c66d4",
    "url": "https://www.lifehacker.jp/article/2609-lht-smartphone-accessory",
    "title_original": "荷物のミニマル化が加速する、マルチタスク派なスマホアクセサリー3選",
@@ -512,6 +631,24 @@
    "axis": "reduce",
    "things": [],
    "importance": 4
+  },
+  {
+   "id": "d1ec96a1f3f91e97",
+   "url": "https://www.lifehacker.jp/article/2609-5-android-camera-features-you-can-only-use-on-a-foldable-phone-bxq",
+   "title_original": "私が「折りたたみ」を使い続ける理由。カメラだけで5つも語るポイントがある",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/01/30/715ce6b8-915b-45af-8968-efedbe3689e6/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-13T12:00:00+00:00",
+   "title_ja": "折りたたみスマホのカメラ機能を使いこなす理由",
+   "summary_ja": "折りたたみスマホならではのカメラ機能について解説。ビデオカメラモードやフレックスモードを活用して、撮影を楽しむポイントを紹介している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "スマホ"
+   ],
+   "importance": 3
   },
   {
    "id": "2073373d53031a62",
@@ -4651,7 +4788,7 @@
    "url": "https://www.thespruce.com/tips-for-decluttering-souvenirs-12109659",
    "title_original": "We Asked Pro Organizers How to Declutter Souvenirs, and We Wish We Tried This Sooner",
    "source": "thespruce.com",
-   "image": "",
+   "image": "https://www.thespruce.com/thmb/b7tYVK2coDfRGFP-dTxgKxDlUPo=/5138x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-475150391-47139d093d354d118c845a63f28825f9.jpg",
    "media": "news",
    "region": "海外",
    "published": "2026-09-09T12:16:00+00:00",
@@ -7187,146 +7324,6 @@
     "パック"
    ],
    "importance": 4
-  },
-  {
-   "id": "de39382e83751dc8",
-   "url": "https://note.com/uyou/n/nf5ca69389144",
-   "title_original": "ぼけーと過ごす休日があってもいい",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/311277246/rectangle_large_type_2_ec1a179a277aeeb6e6092223083566e5.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-07T10:10:50+00:00",
-   "title_ja": "断捨離に囚われていたミニマリストが何もしない休日を得るまで",
-   "summary_ja": "飾るものを厳選して部屋をスッキリさせた結果、手放すものがなくなり「断捨離依存」になっていた筆者の体験談。無理に捨てるものを探すのをやめ、休日にあえて何もせずぼーっと過ごすことで、断捨離に囚われていた心から解放され、心地よい時間を過ごせるようになった様子を綴る。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "ポスター"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "6c35e0d093dddd0a",
-   "url": "https://www.roomie.jp/2026/09/1880515",
-   "title_original": "家族みんなでペットも使える。燕三条の職人が仕上げた黒爪ヤスリを一生モノに",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/3waytsumeyasuri5.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-07T09:45:41+00:00",
-   "title_ja": "吉田ヤスリ製作所の3WAY爪ヤスリを使ってみた話",
-   "summary_ja": "燕三条の老舗職人が手がける、削りや整えがこれひとつで完結する「3WAY爪ヤスリ」を一生モノの道具として愛用している紹介記事。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "爪ヤスリ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f050ce3ecd511497",
-   "url": "https://monomax.jp/archives/360592",
-   "title_original": "【ザ・ノース・フェイス＆デサント】中の人が本気で推す傑作リュックはこれだ！2026年下半期に狙うべき“最新技術が凝縮”された注目作を徹底解説",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2027/09/260711-150689_11zon-scaled.jpeg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-07T09:00:46+00:00",
-   "title_ja": "ノースフェイス＆デサント最新リュックの実力解説",
-   "summary_ja": "2026年下半期に注目のノースフェイス＆デサント新リュックは、軽量・多機能な最新技術が凝縮された逸品です。ミニマリストに必要な持ち物としておすすめポイントを徹底解説します。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "リュック"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "b4676d63c44544a9",
-   "url": "https://www.roomie.jp/2026/09/1872788",
-   "title_original": "夏のお疲れ肌をケアしたくて、「タカミスキンピール」を1本使い切り。敏感肌でも角質ケアできたんだ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/takami-skinpeel-scaled.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-07T09:00:06+00:00",
-   "title_ja": "タカミスキンピールを1本使い切った感想",
-   "summary_ja": "夏の肌のごわつきやくすみをケアするために取り入れ、最後まで使い切った角質美容液の使用感を綴っている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "タカミスキンピール"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "3c999c7b79317185",
-   "url": "https://www.youtube.com/shorts/mKwNt7ECaDw",
-   "title_original": "【ミニマリスト主婦】朝の家事はこんな感じ",
-   "source": "ぴーこ｜ゆるっとミニマルな日常",
-   "image": "https://i2.ytimg.com/vi/mKwNt7ECaDw/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-09-07T08:00:33+00:00",
-   "title_ja": "ミニマリスト主婦の朝の家事ルーティン紹介",
-   "summary_ja": "ミニマリスト主婦が実践する朝の家事ルーティンを紹介。少ない道具とシンプルな手順で、効率的に片付けや洗濯をこなす方法が分かります。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "f2b254a56f8b0d50",
-   "url": "https://thetv.jp/program/0000955615/328",
-   "title_original": "ウチ、“断捨離”しました！「琵琶湖発 妻はダンシャリアン 釣り好き夫の笑顔を取り戻せ!」",
-   "source": "thetv.jp",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-07T05:13:01+00:00",
-   "title_ja": "「ウチ、“断捨離”しました！」釣り好きの夫と断捨離に励む妻の物語",
-   "summary_ja": "テレビ番組「ウチ、“断捨離”しました！」の放送内容を紹介。琵琶湖を舞台に、断捨離に励む妻と、趣味の釣りを愛する夫のやり取りが描かれる。片付けを通じて夫婦の関係性や暮らしのあり方を見つめ直す様子が放映される。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "7894b4f007fb1c01",
-   "url": "https://note.com/ryota2425/n/nc80219b5e99b",
-   "title_original": "同じ服ばかり着るのが、やっぱり楽だ。",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/311161736/rectangle_large_type_2_d82c2909a89bfb8e16e470804b9659fc.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-07T03:31:12+00:00",
-   "title_ja": "日々同じ服を着回すことで気持ちや管理を楽にする暮らし方の記録",
-   "summary_ja": "日常の中で同じような服ばかりを着ていることに気づき、やっぱりその方が楽だと感じている人の話。大量にある黒いTシャツや、同じもので揃えた下着や靴下など、定番のアイテムを繰り返し着る生活の快適さについて綴っている。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "黒いTシャツ",
-    "下着",
-    "靴下"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "e4ca95af0b78100d",
-   "url": "https://note.com/hitohira_aka_2/n/nb80f68bd6e65",
-   "title_original": "肌のかゆみすら景色になる、ミニマリストの「買い物信仰」が収まった日常",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/311070565/rectangle_large_type_2_59822fa96886f35f6126fe282c7334aa.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-07T03:30:00+00:00",
-   "title_ja": "ミニマリストになり過度な買い物欲が落ち着いた日常の心境変化",
-   "summary_ja": "買い物への執着や物欲が収まり、日常の小さな不快感すら気にならなくなったミニマリストの記録。以前のような買い物信仰から抜け出し、物が少ない状態や変化した心境とともに穏やかな日々を送っている様子が描かれている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
   }
  ]
 }
