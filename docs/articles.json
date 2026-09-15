@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-16T01:34:25.654291+09:00",
+ "updated_at": "2026-09-16T06:01:35.161338+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -32,16 +32,16 @@
    "count": 14
   },
   {
+   "name": "iPhone",
+   "count": 8
+  },
+  {
    "name": "スマホ",
    "count": 8
   },
   {
-   "name": "iPhone",
-   "count": 7
-  },
-  {
    "name": "本",
-   "count": 6
+   "count": 7
   },
   {
    "name": "財布",
@@ -64,7 +64,15 @@
    "count": 5
   },
   {
+   "name": "Apple Watch",
+   "count": 3
+  },
+  {
    "name": "Orca echo",
+   "count": 3
+  },
+  {
+   "name": "PC",
    "count": 3
   },
   {
@@ -84,16 +92,8 @@
    "count": 3
   },
   {
-   "name": "本棚",
-   "count": 3
-  },
-  {
    "name": "靴",
    "count": 3
-  },
-  {
-   "name": "Apple Watch",
-   "count": 2
   },
   {
    "name": "CD",
@@ -101,10 +101,6 @@
   },
   {
    "name": "DVD・Blu-ray",
-   "count": 2
-  },
-  {
-   "name": "PC",
    "count": 2
   },
   {
@@ -160,10 +156,6 @@
    "count": 2
   },
   {
-   "name": "メルカリ",
-   "count": 2
-  },
-  {
    "name": "写真",
    "count": 2
   },
@@ -181,6 +173,14 @@
   },
   {
    "name": "書籍",
+   "count": 2
+  },
+  {
+   "name": "書類",
+   "count": 2
+  },
+  {
+   "name": "本棚",
    "count": 2
   },
   {
@@ -210,6 +210,7 @@
   "Ilkley Gazette",
   "IndulgExpress",
   "Infoseek",
+  "Lake Okeechobee News",
   "MonoMax",
   "NRcolumbus.com",
   "No Sidebar",
@@ -243,6 +244,7 @@
   "hindustantimes.com",
   "irishcountrymagazine.ie",
   "liniere.jp",
+  "marthastewart.com",
   "news.infoseek.co.jp",
   "note #ミニマリスト",
   "note #少ない服で暮らす",
@@ -259,7 +261,6 @@
   "ぴーこ｜ゆるっとミニマルな日常",
   "むぎの頑張らない暮らし",
   "やましたひでこ断捨離",
-  "スポニチ Sponichi Annex",
   "ミニマリスト Nozomi",
   "ミニマリストK",
   "ミニマリストsin",
@@ -273,6 +274,141 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "3d0cadd7734f9ff9",
+   "url": "https://note.com/saterun/n/n9bc4789c68f6",
+   "title_original": "#4「捨てる」より、「自分で選ぶ」",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/313782335/rectangle_large_type_2_795b1fb5949031b683df3fe2c9fa193c.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-15T20:48:27+00:00",
+   "title_ja": "「なんとなく捨てる」をやめた片付けの基準",
+   "summary_ja": "なんとなく捨てるのではなく、自分がどんな空間で暮らしたいかを明確にしてからモノの仕分けを行った人の体験談。使いやすさや五感を大切にする感覚、コスパなどを基準に、自分に問いかけながら手放すモノを選んでいます。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "76f01105df95ad02",
+   "url": "https://note.com/life2go/n/na4e96906b134",
+   "title_original": "終活-397 冬支度の始まり・・掃除は、玄関・廊下出来ました。・.・//🍀",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/314121031/rectangle_large_type_2_fee814682811885ef35da7962c84863b.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-15T19:47:27+00:00",
+   "title_ja": "冬支度に向けて玄関と廊下の掃除を始めた話",
+   "summary_ja": "きれいな環境を目指して、朝活の時間を利用して玄関や廊下の掃除を進めた日の記録。中断していた断捨離を再び再開し、家事をこなしながら日々の生活環境を整えていく様子がつづられています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "a7a5c0f914c4bc41",
+   "url": "https://note.com/_o623m/n/nc5efbd4cadb1",
+   "title_original": "人としての履歴書｜自己紹介",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/314123325/rectangle_large_type_2_6b4223461a68ae9958b83d503645ce5c.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-15T19:46:26+00:00",
+   "title_ja": "心身の限界から多くのモノを手放した体験",
+   "summary_ja": "外からの刺激に疲れ果て、心身の限界を迎えたことをきっかけに多くのモノを手放し始めた人の自己紹介。対人恐怖や強迫観念に向き合いながら、暮らしや人間関係の負担を減らすための生き方の変化が語られています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "860963c5bea21d1e",
+   "url": "https://www.lakeonews.com/labelle/labelle/stories/how-decluttering-can-help-you-stay-safer-and-more-independent-at-home,88263",
+   "title_original": "How decluttering can help you stay safer and more independent at home",
+   "source": "Lake Okeechobee News",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-15T19:22:33+00:00",
+   "title_ja": "自宅の片づけが安全で自立した暮らしにつながる話",
+   "summary_ja": "自宅を片づけて物を減らすことが、安全で自立した生活を維持するためにどのように役立つのかについて解説している記事です。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "64b4633636618ad5",
+   "url": "https://note.com/mainichi_3ko/n/n234ef975adc7",
+   "title_original": "読み返す本と、読み返さない本",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/img/1789303220-ZbnsSYkvgeJ1QuR9cEDfLaHj.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-15T18:11:05+00:00",
+   "title_ja": "1980年代の子どもの本を手放した実践記録",
+   "summary_ja": "毎日3つ物を捨てる実践の59日目として、約40年前に発行された子ども向けの本を3冊手放し、図書館へ寄付したことを振り返っています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "本"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "3290c0d74717581b",
+   "url": "https://note.com/light_loris4925/n/na7dafb918ff5",
+   "title_original": "【2026年最新】Anker MagGo 折りたたみ3-in-1充電器レビュー！出張もデスクもこれ1台で完結する理由と微妙な欠点",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/314115882/rectangle_large_type_2_557135c11591f2150575cd734d1b11dd.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-15T17:48:25+00:00",
+   "title_ja": "Ankerの折りたたみ3in1充電器のレビュー",
+   "summary_ja": "iPhoneやApple Watchなどを同時に充電できる折りたたみ式充電器を使い、出張やデスク周りの荷物を減らすメリットを紹介しています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "iPhone",
+    "Apple Watch",
+    "AirPods",
+    "充電器"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "ca605b0bfb1833dd",
+   "url": "https://www.marthastewart.com/what-to-declutter-in-50s-12120637",
+   "title_original": "What to Declutter Before Your 50s, According to an Organizing Pro",
+   "source": "marthastewart.com",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-15T17:00:00+00:00",
+   "title_ja": "50代を迎える前に整理しておきたい物と片づけのコツ",
+   "summary_ja": "整理収納のプロが語る、人生の節目である50代を迎える前に片づけておきたい物や、スムーズに物を減らすための考え方について解説しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "048572071f9aca7f",
+   "url": "https://note.com/te_gi/n/n1c8e09ff980c",
+   "title_original": "大切なものほど、捨てる。",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/314107391/rectangle_large_type_2_7dea2936b8b989b1703e1a362545f6bb.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-15T16:35:31+00:00",
+   "title_ja": "ミニマリストが考える「大切なものほど捨てる」という選択",
+   "summary_ja": "単なる「物を捨てる人」にとどまらない、ミニマリストたちが実践する本当に大切なものを見極めて手放していく独特の価値観や考え方を伝えています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "eb067d91ee4fe85b",
    "url": "https://note.com/ripe_sable301/n/nf511896c5ce6",
@@ -377,6 +513,24 @@
     "服"
    ],
    "importance": 3
+  },
+  {
+   "id": "9bf787192fb87fcc",
+   "url": "https://www.goodhousekeeping.com/home/organizing/a73655274/box-rule-for-decluttering",
+   "title_original": "Why Pro Organizers Recommend the Box Rule for Stress-Free Decluttering",
+   "source": "Good Housekeeping",
+   "image": "https://hips.hearstapps.com/hmg-prod/images/db26455c-c016-4981-a52c-84e44d70940a.jpg?crop=1xw:0.75xh;0xw,0.202xh&resize=1200:*",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-15T14:44:42+00:00",
+   "title_ja": "プロが勧める「箱ルール」でストレスなく片付け",
+   "summary_ja": "プロの整理術家が提案する「箱ルール」では、不要品を箱に入れて分類し、一定期間使わなければ手放す基準で、ストレスなく断捨離を進める手順が紹介されている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "箱"
+   ],
+   "importance": 4
   },
   {
    "id": "2dc88dda2aa043d0",
@@ -519,6 +673,45 @@
    "axis": "own",
    "things": [
     "バッグ"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "2f60ca2cb37b88e2",
+   "url": "https://monomax.jp/archives/361433",
+   "title_original": "【ケルティ新作はオールブラック】定番イメージを覆す新バッグラインが誕生！機能性とファッション性を高次元で両立した全4型",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2026/09/fj_0919-scaled.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-15T13:00:41+00:00",
+   "title_ja": "ケルティ新作オールブラックバッグ、機能とファッションを両立",
+   "summary_ja": "ケルティから全4タイプのオールブラックバッグが登場。アウトドアでも使える機能性とシンプルなデザインを兼ね備え、ミニマリストに適した持ち物として注目されている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ケルティバッグ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "bf71a35b880f8512",
+   "url": "https://www.lifehacker.jp/article/2609-costorypo-toteluxe-start-1820373027",
+   "title_original": "自転車ではリュック、お得意先では上品トート。ラクとスタイリッシュを3秒変身で実現",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/09/15/5e3daea8-be2b-448a-9f05-7f1d414d1b63/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-15T13:00:00+00:00",
+   "title_ja": "ビジネス用バッグの持ち物と活用術",
+   "summary_ja": "16インチのPCや書類、小物をすっきりと収納し自立するビジネスバッグの紹介。理学療法士の視点を取り入れた肩から落ちにくいショルダー構造を採用しており、荷物を入れてもラクに持ち運べる実用的なアイテムです。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "ビジネスバッグ",
+    "PC",
+    "書類",
+    "ボトル"
    ],
    "importance": 2
   },
@@ -7143,202 +7336,6 @@
     "イヤホン"
    ],
    "importance": 4
-  },
-  {
-   "id": "abe90933ac1cc659",
-   "url": "https://www.thespruce.com/what-to-declutter-before-packing-for-a-move-12075627",
-   "title_original": "Declutter These 8 Things Before Packing for a Big Move—Pro Organizers Say You’ll Thank Yourself Later",
-   "source": "The Spruce",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-09T09:51:00+00:00",
-   "title_ja": "プロが教える引越し前に手放すべき8つの不用品",
-   "summary_ja": "大きな引越しを控えている人に向けて、荷造りする前にあらかじめ手放しておくべき8つのアイテムをプロの整理収納アドバイザーが解説している記事。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "a735c386f2ee4ec1",
-   "url": "https://note.com/good_swan933/n/nebfb698b739b",
-   "title_original": "読書記録137 人生が変わる 1日1つ 断捨離",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/311944921/rectangle_large_type_2_62dbc5382af1448dfb7ba0bb48895bd7.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-09T09:50:20+00:00",
-   "title_ja": "『人生が変わる 1日1つ 断捨離』の読書記録",
-   "summary_ja": "やましたひでこ著『人生が変わる 1日1つ 断捨離』を読んだ際の記録。1日1つずつ物を手放していくことで、暮らしや人生をどのように整えていくのかを振り返っている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "cc9cbf50defd40c9",
-   "url": "https://www.roomie.jp/2026/09/1872132",
-   "title_original": "曲がった刃には、ちゃんとワケがある。玄関でもキャンプでも活躍する12gのミニナイフ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/image_001_50a22170_thumbnail.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-09T09:45:50+00:00",
-   "title_ja": "玄関やキャンプで使える重量12gのミニナイフ",
-   "summary_ja": "ダンボールの開封やアウトドアで活躍する、刃が曲がった重さ12gのミニナイフ「SpearEdge」の紹介。玄関などに置いてサッと使える便利な持ち物として取り上げられている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ミニナイフ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "15fc59b9127d2249",
-   "url": "https://note.com/blue_1993/n/n918b01ffb89d",
-   "title_original": "【育休日記】メルカリやさん",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/311944313/rectangle_large_type_2_cd92dbd8964277f6d01d0124f4407372.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-09T09:45:07+00:00",
-   "title_ja": "育休中に本棚をメルカリで処分した体験",
-   "summary_ja": "育休中に家の断捨離を目標に、本棚の古い雑誌や勉強本をメルカリで出品。綾野剛表紙の雑誌が即売れし、物を減らす実感を得た。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "本棚",
-    "雑誌",
-    "勉強本",
-    "メルカリ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "0c5f5d09f48cdc7e",
-   "url": "https://note.com/hikari2024/n/n8cb355beb1ea",
-   "title_original": "「まだ使える」 と言う人と、 実際に使う人は同じですか？",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/311938215/rectangle_large_type_2_99e88f86b0d47bc3723fdd3e90dd26f3.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-09T09:43:09+00:00",
-   "title_ja": "「まだ使える」かどうかの判断基準",
-   "summary_ja": "実家の片付けをしながら、”まだ使える”と判断できる基準と実際に使う人の違いについて考える記事。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "6731e4bf56ad3621",
-   "url": "https://monomax.jp/archives/361298",
-   "title_original": "【3点揃えても約1万円】無印良品の上品テックウェアが3シーズン大活躍で優秀！「UVカット吸汗速乾」シリーズの実力と着回し術をスタイリストが徹底解説",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2026/09/046744-scaled.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-09T09:00:22+00:00",
-   "title_ja": "無印テックウェア3点で約1万円の着回しと実力",
-   "summary_ja": "無印良品のUVカット・吸汗速乾テックウェアを3点揃えて約1万円。スタイリストが3シーズン活躍できる着回しと評価を解説。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "テックウェア上着",
-    "テックウェアパンツ",
-    "テックウェアシャツ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "befac6d910a19699",
-   "url": "https://nosidebar.com/fall-fresh-start",
-   "title_original": "Fall Is an Invitation to Begin Again",
-   "source": "No Sidebar",
-   "image": "https://nosidebar.com/wp-content/uploads/fall-fresh-start.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-09-09T09:00:00+00:00",
-   "title_ja": "秋の始まりを暮らしを新しく見直す機会にする",
-   "summary_ja": "夏が過ぎて新しいスケジュールや生活リズムが始まる秋を、心と暮らしをリセットして見直す機会として捉える考え方。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "4c26007cc6955d2c",
-   "url": "https://www.roomie.jp/2026/09/1878312",
-   "title_original": "無印良品の3,990円スピーカー、どこでも連れて歩けるのがいい。スマホで流していた音がもっと豊かになりました",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/20260903-muji-01-2.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-09T08:30:55+00:00",
-   "title_ja": "無印良品のワイヤレススピーカーを試す",
-   "summary_ja": "無印良品のワイヤレスモバイルスピーカー（ループ付）を実際に使用し、スマートフォンから手軽に音楽を楽しめる点や持ち運びの便利さを評価している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "無印良品 ワイヤレスモバイルスピーカー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "63b591ade5407563",
-   "url": "https://www.roomie.jp/2026/09/1881381",
-   "title_original": "自宅で「ひとり焼き鳥屋」オープンできるよ。 煙が気にならない電気七輪でね",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/20260909yamzen.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-09T08:15:07+00:00",
-   "title_ja": "煙が出ない電気七輪でひとり焼き鳥",
-   "summary_ja": "山善の減煙電気七輪『HITORI-JIME GRILL』は煙や油はねが少なく、卓上でひとり焼き鳥を手軽に楽しめる調理器具として紹介されている。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "山善 減煙電気七輪"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f02852706b730e06",
-   "url": "https://news.yahoo.co.jp/articles/8fcfb467d3fb8f95d0e300aabd293498ed8dd32a",
-   "title_original": "宮沢りえ 断捨離で発見？伝説の写真集発売当時の“思い出ショット”披露 超貴重「祖父の肖像画」も（スポニチアネックス）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260909-00000302-spnannex-000-3-view.jpg?exp=10800",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-09T08:06:11+00:00",
-   "title_ja": "宮沢りえが断捨離で見つけた思い出の品",
-   "summary_ja": "女優・宮沢りえが断捨離を行い、昔の写真集や祖父の肖像画など貴重な思い出の品を再発見した様子が報じられ、整理の価値を示している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "祖父の肖像画",
-    "写真集"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "e42a6a7463ec68e8",
-   "url": "https://www.sponichi.co.jp/entertainment/news/2026/09/09/articles/20260909s00041000313000c.html",
-   "title_original": "【記事全文】宮沢りえ 断捨離で発見？伝説の写真集発売当時の“思い出ショット”披露 超貴重「祖父の肖像画」も",
-   "source": "スポニチ Sponichi Annex",
-   "image": "https://www.sponichi.co.jp/entertainment/news/2026/09/09/jpeg/20260909s10041000299000p_view.webp",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-09T08:05:00+00:00",
-   "title_ja": "宮沢りえ、断捨離で見つけた貴重な写真",
-   "summary_ja": "断捨離中に、過去の写真集から貴重な思い出ショットと祖父の肖像画が見つかった。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "祖父の肖像画"
-   ],
-   "importance": 3
   }
  ]
 }
