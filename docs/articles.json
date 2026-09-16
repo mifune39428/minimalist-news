@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-17T01:26:58.988078+09:00",
+ "updated_at": "2026-09-17T06:04:10.147349+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -40,7 +40,7 @@
    "count": 9
   },
   {
-   "name": "財布",
+   "name": "バッグ",
    "count": 7
   },
   {
@@ -48,7 +48,7 @@
    "count": 6
   },
   {
-   "name": "バッグ",
+   "name": "財布",
    "count": 6
   },
   {
@@ -227,6 +227,7 @@
   "The Minimal Mom",
   "The Minimalists",
   "The Mirror",
+  "The Simplicity Habit",
   "The Spruce",
   "The Sun",
   "Tommy / Tokyo Simple Life",
@@ -253,7 +254,6 @@
   "nss magazine",
   "parade.com",
   "thepioneerwoman.com",
-  "thespruce.com",
   "walkerplus.com",
   "wfla.com",
   "womanandhome.com",
@@ -275,6 +275,136 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "c0c3200f75afb7db",
+   "url": "https://note.com/hana_kurashi25/n/n63d5b1323d15",
+   "title_original": "断捨離でやめた【たった1つのこと】で、朝が変わった話",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/272233121/rectangle_large_type_2_e0e64adba47d01b61acff18196efac25.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-16T20:35:37+00:00",
+   "title_ja": "朝の気分が変わる、洗濯物に関する習慣を見直した話",
+   "summary_ja": "朝起きるとソファに山積みになっていた洗濯物を見てげんなりしていた生活を見直し、やめたことについて綴っている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "329e294c9539b809",
+   "url": "https://note.com/life2go/n/n89f7793a9b9a",
+   "title_original": "終活-398 トイレ掃除・・超撥水は、効きます。効果は30日。・.・//🍀",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/314459010/rectangle_large_type_2_72980bb0c21a039c4051d2198cc42dd6.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-16T20:15:58+00:00",
+   "title_ja": "自由な時間を使って掃除と断捨離を再開した朝の記録",
+   "summary_ja": "きれいな環境を目指して朝活として掃除や断捨離に励む様子や、超撥水のトイレ掃除を取り入れた日々の記録を綴っている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "5f2462550f38b72a",
+   "url": "https://note.com/te_gi/n/n75470f219518",
+   "title_original": "節約を縛りプレイとして、楽しむ",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/313950030/rectangle_large_type_2_21553774fc346726b8875f5c02f11292.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-16T19:18:20+00:00",
+   "title_ja": "節約を縛りプレイとして楽しむ考え方",
+   "summary_ja": "節約に対して苦しいイメージを持つのではなく、制限をゲームの縛りプレイのように捉えて前向きに楽しむための心構えを紹介しています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "831c60aeafd262fe",
+   "url": "https://thesimplicityhabit.com/smart-procrastination-can-help-you-spend-less",
+   "title_original": "8 Ways Smart Procrastination Can Help You Spend Way Less Money",
+   "source": "The Simplicity Habit",
+   "image": "https://thesimplicityhabit.com/wp-content/uploads/2026/09/horizontal-blog-post-2026-09-16T104015.840-1024x683.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-09-16T18:37:10+00:00",
+   "title_ja": "買い物を賢く抑える先延ばしテクニック",
+   "summary_ja": "買い物の衝動をあえて先延ばしにすることで、無駄な出費を減らして賢い消費者になるための8つの方法を海外ブログが紹介しています。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "421f4fd44bde87f8",
+   "url": "https://www.thespruce.com/clutter-that-you-should-not-donate-12113156",
+   "title_original": "7 Things You’re Donating to Thrift Stores That Are Actually Just Clutter, Organizing Pros Say",
+   "source": "The Spruce",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-16T18:21:00+00:00",
+   "title_ja": "寄付のついでに見直したい不要な物の手放し方",
+   "summary_ja": "整理収納のプロが、リサイクルショップや寄付へ持ち込む物の中に実は単なる不用品が混ざっていないか見直すポイントを解説しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "eca626294894027b",
+   "url": "https://note.com/mainichi_3ko/n/n6b9585ad33da",
+   "title_original": "本の帰る場所",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/314452372/rectangle_large_type_2_fe02ce7e17ee32739f310413b7109dd5.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-16T18:01:49+00:00",
+   "title_ja": "毎日3つの手放し実践から得た本の行き先の考え方",
+   "summary_ja": "毎日3つ捨てる習慣を続ける中で、図書館のスタンプが見つかった絵本をきっかけに、不要品を捨てるだけでなく適切な行き先を考えるようになった体験談です。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "3cbcbc5b53c95745",
+   "url": "https://note.com/raghousetv/n/n0cd1c2fe8a31",
+   "title_original": "踊る大捜査線✨M-51フィッシュテールパーカーをレスキューした🎉MADE IN USA🗽モッズコート🛵1953年製て事は73年前の骨董品！",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/311408621/rectangle_large_type_2_619ea9168292b0d25045f8bd31f9bdff.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-16T17:51:59+00:00",
+   "title_ja": "古いモッズコートを救出して愛用する古着の物語",
+   "summary_ja": "古着のリサイクル現場から、何十年も前の古いモッズコートを救出して大切に受け継ぎ、所有していることについて綴っています。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "モッズコート"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "dcefbd994001b224",
+   "url": "https://www.thespruce.com/how-i-set-boundaries-with-family-hand-me-downs-12114212",
+   "title_original": "My Family Keeps Dropping Their Unwanted Stuff at My House—Here’s How I’m Putting a Stop to the Clutter",
+   "source": "The Spruce",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-16T17:11:00+00:00",
+   "title_ja": "家族が持ち込む不要な物を断る方法",
+   "summary_ja": "家族が自宅に置いていく不要な物の山に悩まされた経験から、増え続ける不用品をしっかりと断るための対策や考え方を綴った体験談。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "af74bfe11df665de",
    "url": "https://note.com/ripe_alpaca217/n/n88f3b3fb4609",
@@ -324,6 +454,22 @@
    "summary_ja": "Peak Designの45リットル容量トラベルバックパックの機能やデザインを紹介するレビュー記事です。旅行時の荷物整理に役立つ情報が掲載されています。",
    "category": "道具・ガジェット",
    "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "71170dd567850037",
+   "url": "https://note.com/quiet_emu2080/n/n78a9b95ed444",
+   "title_original": "自分のためにお金を使うと後ろめたい人へ｜「いくらか」ではなく「どれだけ残るか」で考えるお金の構造論",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/294115308/rectangle_large_type_2_4a11f7aa7003bcefed8edad5c8dbd1e5.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-16T15:38:38+00:00",
+   "title_ja": "お金を使う後ろめたさを手放す考え方",
+   "summary_ja": "自分のためにお金を使うことに罪悪感を感じる人に向けて、額面の多さではなく手元にどれだけ残るかという視点からお金の構造を解説する。",
+   "category": "お金・買い方",
+   "axis": "reduce",
    "things": [],
    "importance": 3
   },
@@ -1637,6 +1783,24 @@
     "MX Master 3S"
    ],
    "importance": 3
+  },
+  {
+   "id": "fe12d99f50f03eaa",
+   "url": "https://news.infoseek.co.jp/amp/article/sponichin_20260915_0370",
+   "title_original": "杏 愛用バッグにフランスならではの機能「メトロとか街中を歩く時にカチッと」",
+   "source": "Infoseek",
+   "image": "https://media.image.infoseek.co.jp/isnews/photos/sponichin/sponichin_20260915_0370_0-enlarge.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-15T13:09:37+00:00",
+   "title_ja": "俳優・杏が愛用するバッグの特徴と使い方",
+   "summary_ja": "俳優の杏が愛用しているバッグについて紹介しています。フランスならではの防犯や街歩きに便利な機能が備わっている点が特徴です。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "バッグ"
+   ],
+   "importance": 2
   },
   {
    "id": "5dd1505d9ee64dbd",
@@ -7177,180 +7341,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
-  },
-  {
-   "id": "3344b5d84fc05b93",
-   "url": "https://www.roomie.jp/2026/09/1882774",
-   "title_original": "長財布ってかさばるよね、が変わりそう。スマホと同じくらいの大きさで薄いんだって",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/safianowalletTOP16-9.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-10T12:45:50+00:00",
-   "title_ja": "かさばる長財布の悩みを解消する薄型レザー財布",
-   "summary_ja": "バッグの中で場所を取る長財布のボリューム感を減らしつつ、収納力も妥協しないサフィアーノレザー製のスリムな長財布。薄型でスマホと同程度のサイズ感が特徴。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "長財布",
-    "財布"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "1026541536c39b0a",
-   "url": "https://www.lifehacker.jp/article/2609-five-ways-to-take-breaks-at-work-wsl",
-   "title_original": "1日を変えずに、脳をスッキリさせる5つのコツ",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/10/a7096f99-1f17-490d-a268-1b5500fb96ef/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-10T12:45:00+00:00",
-   "title_ja": "忙しい日常で脳をスッキリさせる5つのコツ",
-   "summary_ja": "スケジュールを変えずに日常の余白を活かし、脳の疲れを回復させる具体的な方法を解説した記事。会議前の数分を活用するなど、心を整える習慣が学べます。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "321fe436cdcb9fc7",
-   "url": "https://www.lifehacker.jp/article/2609-pixel-11-pro-fold-qi2-25w-wireless-charging",
-   "title_original": "「Pixel 11 Pro Fold」をほかの折りたたみスマホより推したくなる2つの確かな強み",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/08/a9e94b24-813c-48ba-a036-4549680fa002/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-10T12:30:00+00:00",
-   "title_ja": "「Pixel 11 Pro Fold」の使い勝手を検証",
-   "summary_ja": "折りたたみスマホの日常における実力をレビューした記事。内蔵されたマグネットや防塵・防水性能など、実際に使う道具としての強みに着目しています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "Pixel 11 Pro Fold"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "08f987f78beabd73",
-   "url": "https://www.thespruce.com/free-changes-to-make-your-home-feel-fresh-again-12107523",
-   "title_original": "Don’t Spend Money to Refresh Your Home—Designers Say These 5 Simple Changes Are Completely Free",
-   "source": "thespruce.com",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-10T11:37:00+00:00",
-   "title_ja": "お金をかけずに部屋の雰囲気を変える5つの方法",
-   "summary_ja": "デザイン専門家が提案する、お金をかけずに部屋を模様替えするためのシンプルで無料の5つの工夫について解説しています。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "22c0120dd76285c4",
-   "url": "https://www.roomie.jp/2026/09/1881596",
-   "title_original": "防災セットを見直した私が、無印良品で「買い足して良かったもの」5つ。全部実際に使ってみました",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/DSC_4510-scaled.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-10T11:30:13+00:00",
-   "title_ja": "防災セットを見直して無印良品で買い足した5つの物",
-   "summary_ja": "防災セットを見直した筆者が、無印良品で実際に購入して良かったと感じた備蓄用の食品や衛生用品など5つのアイテムを紹介しています。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "防災セット",
-    "無印良品のグッズ"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "127632c13d48b87d",
-   "url": "https://www.roomie.jp/2026/09/1881379",
-   "title_original": "キャンプの椅子、妥協しない。3秒設置で“極上リクライニング”を持ち運ぶ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/RM-6.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-10T11:15:12+00:00",
-   "title_ja": "3秒で設置できるコールマンのインフィニティチェア",
-   "summary_ja": "キャンプや自宅で快適に使える、3秒で設置可能でリクライニングができるコールマンの椅子を紹介しています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "コールマンのインフィニティチェア"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "4b7173401fc6328b",
-   "url": "https://news.yahoo.co.jp/articles/a21a53ca1e7ab7d2d604cfc5422a989360726829",
-   "title_original": "60代シンプリスト主婦が“なくても困っていないもの”は？ 他のもので代用する「シンプルな暮らし」がなるほどとなる（ねとらぼ）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260910-10167634-it_nlab-000-3-view.jpg?exp=10800",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-10T11:15:00+00:00",
-   "title_ja": "60代シンプリスト主婦が持たない選択をした物",
-   "summary_ja": "60代のシンプリスト主婦が、なくても困らないとして持たない選択をし、他のもので代用しているシンプルな暮らしについて紹介しています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "5fcbb173a49ad6ec",
-   "url": "https://www.roomie.jp/2026/09/1878795",
-   "title_original": "在宅ワークで夜型の私。「Afternoon Teaのシャワースチーマー」が湯船に浸からない日の特別感をくれた",
-   "source": "ROOMIE",
-   "image": "https://www.roomie.jp/wp-content/uploads/2026/09/260903_afternoontea_showersteamer_01.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-10T11:00:33+00:00",
-   "title_ja": "シャワータイムを充実させるアフタヌーンティーの品",
-   "summary_ja": "お湯をためる時間がない夜でも、手軽にリラックスタイムを楽しめるアイテムを取り入れています。シャワーだけでもお風呂の時間に特別感を与えてくれる便利な道具です。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "シャワースチーマー"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "e7c0a96c44feace8",
-   "url": "https://www.aslobcomesclean.com/2026/09/527-effectiveness-vs-efficiency",
-   "title_original": "527: Effectiveness Vs. Efficiency",
-   "source": "A Slob Comes Clean",
-   "image": "https://www.aslobcomesclean.com/wp-content/uploads/2026/08/New-Podcast-Art-2026-sm-size-1024x1024.png",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-09-10T11:00:26+00:00",
-   "title_ja": "効率を追い求めて後回しにしていませんか",
-   "summary_ja": "片付けや作業において、時間を短縮することばかりにこだわると、かえって先延ばしをする原因になります。本当に効果が出る方法を選ぶことが大切という話。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "070c7437c5461ae6",
-   "url": "https://www.roomie.jp/2026/09/1882760",
-   "title_original": "何度でも貼り直せる。“貼るだけ” で室温を快適に保ってくれる断熱シート",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/damagasheet4.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-10T10:45:55+00:00",
-   "title_ja": "貼るだけで室温を快適にする断熱シートの活用",
-   "summary_ja": "エアコンの効きを良くし電気代を抑えるために、窓に貼るタイプの断熱シートを取り入れています。大掛かりな二重窓の工事をしなくても室温を快適に保てるアイテムです。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "断熱シート"
-   ],
-   "importance": 2
   }
  ]
 }
