@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-17T06:04:10.147349+09:00",
+ "updated_at": "2026-09-17T13:04:13.501705+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,7 +29,7 @@
  "things": [
   {
    "name": "服",
-   "count": 15
+   "count": 13
   },
   {
    "name": "スマホ",
@@ -37,11 +37,11 @@
   },
   {
    "name": "本",
-   "count": 9
+   "count": 10
   },
   {
    "name": "バッグ",
-   "count": 7
+   "count": 8
   },
   {
    "name": "iPhone",
@@ -60,11 +60,15 @@
    "count": 5
   },
   {
-   "name": "テレビ",
-   "count": 5
+   "name": "iPad",
+   "count": 4
   },
   {
-   "name": "バックパック",
+   "name": "テレビ",
+   "count": 4
+  },
+  {
+   "name": "家具",
    "count": 4
   },
   {
@@ -73,10 +77,6 @@
   },
   {
    "name": "Orca echo",
-   "count": 3
-  },
-  {
-   "name": "iPad",
    "count": 3
   },
   {
@@ -92,11 +92,7 @@
    "count": 3
   },
   {
-   "name": "マウス",
-   "count": 3
-  },
-  {
-   "name": "家具",
+   "name": "バックパック",
    "count": 3
   },
   {
@@ -136,6 +132,10 @@
    "count": 2
   },
   {
+   "name": "シャツ",
+   "count": 2
+  },
+  {
    "name": "ストラップ",
    "count": 2
   },
@@ -148,10 +148,6 @@
    "count": 2
   },
   {
-   "name": "パソコン",
-   "count": 2
-  },
-  {
    "name": "フィギュア",
    "count": 2
   },
@@ -160,7 +156,7 @@
    "count": 2
   },
   {
-   "name": "ロボット掃除機",
+   "name": "マウス",
    "count": 2
   },
   {
@@ -180,16 +176,19 @@
    "count": 2
   },
   {
-   "name": "家電",
+   "name": "書類",
    "count": 2
   },
   {
-   "name": "書籍",
+   "name": "梱包材",
+   "count": 2
+  },
+  {
+   "name": "段ボール",
    "count": 2
   }
  ],
  "sources": [
-  "A Slob Comes Clean",
   "AD Middle East",
   "AOL.com",
   "Apartment Therapy",
@@ -224,7 +223,6 @@
   "TRILL",
   "TVer",
   "The Independent",
-  "The Minimal Mom",
   "The Minimalists",
   "The Mirror",
   "The Simplicity Habit",
@@ -234,16 +232,13 @@
   "Wales Online",
   "Warrington Guardian",
   "Woman & Home",
-  "Worn & Wound",
   "Yahoo",
   "Yahoo Lifestyle Australia",
   "Yahoo!ニュース",
   "YouTube",
   "cbsaustin.com",
   "dime.jp",
-  "graziamagazine.com",
   "hindustantimes.com",
-  "irishcountrymagazine.ie",
   "liniere.jp",
   "marthastewart.com",
   "news.infoseek.co.jp",
@@ -252,7 +247,6 @@
   "note #持たない暮らし",
   "note #断捨離",
   "nss magazine",
-  "parade.com",
   "thepioneerwoman.com",
   "walkerplus.com",
   "wfla.com",
@@ -268,6 +262,7 @@
   "ミニマリストじゅん",
   "ライフハッカー・ジャパン",
   "ライブドアニュース",
+  "千葉テレビ放送株式会社",
   "小さな暮らしノート",
   "私だけミニマリスト｜南さやか",
   "筆子ジャーナル",
@@ -275,6 +270,322 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "8cd1cbf74947284c",
+   "url": "https://note.com/ashiri_ikor/n/n610eb766eba2",
+   "title_original": "人が来る日だけ、ちょっと片付ける",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/314560653/rectangle_large_type_2_b861719fe8fe8c36bef5323352ada461.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T03:58:53+00:00",
+   "title_ja": "人が来る日だけ部屋を片付ける無理のない暮らし",
+   "summary_ja": "北海道で四季や秋の深まりを感じながら暮らす筆者が、人が訪れる日だけ少し部屋を片付けるという、日常の無理のない片付けスタイルやスタンスについて綴っている。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "b82036ce4516a7ef",
+   "url": "https://note.com/chrnchrn/n/n8702bd20fdef",
+   "title_original": "人生を変えたくて手放し活動始めます",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/314557602/rectangle_large_type_2_dd0838aa8bccc9e1976f50c6e3906ba2.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T03:46:37+00:00",
+   "title_ja": "現状を変えるために荷物を極限まで減らす決意をした話",
+   "summary_ja": "自分自身で大きな変化を起こさなければ現状が変わらないと感じた筆者が、人生を変えるための第一歩として、自分の持っている荷物を極限まで少なくしてみようと決意した思いを明かしている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "1942e49b3a475c63",
+   "url": "https://note.com/itotoiro/n/na885bcabd7ad",
+   "title_original": "『あなたの部屋が汚いのは、才能がありすぎるから』を読んで",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/314550805/rectangle_large_type_2_5082a3f3623cd0a71222392ba13d5372.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T03:46:03+00:00",
+   "title_ja": "片付け本を読んで散らかった部屋と向き合う人の話",
+   "summary_ja": "片付けに関する本の知識は持っているものの、最近また部屋が散らかり気味になってきた筆者が、片付け本を読んだことをきっかけに自身の部屋や整え方について振り返っている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "本"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "6440286cf6344856",
+   "url": "https://note.com/yuruka_kurashi/n/n789f38e3ee3c",
+   "title_original": "今日捨てたもの。捨て活のついでに、拭き活も",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/314084803/rectangle_large_type_2_755d77bf252047d4f49aeada51e7d1b9.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T03:08:15+00:00",
+   "title_ja": "物品の手放しと合わせて拭き掃除も行う捨て活の記録",
+   "summary_ja": "不要な物を処分する捨て活を行うと同時に、ついでに拭き掃除をする拭き活にも取り組んだ記録。物を減らす手放し活動と空間の掃除をあわせて実践した日々の様子が描かれている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "422733a1fc01698f",
+   "url": "https://note.com/meg0815/n/n5e7fc4948873",
+   "title_original": "50歳までの身軽化計画｜第1回:物を減らしたい。でも、どこから？",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/img/1789613754-41GfquiR9LOEAwIgDJH2serQ.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T03:05:38+00:00",
+   "title_ja": "50歳に向けて身軽になるため片づけの第一歩に悩む人の話",
+   "summary_ja": "50歳に向けて家の中を身軽にしたいと考え、収納やクローゼット、キッチンなどを見直して物の多さを実感した著者のエピソード。いざ減らそうとしたものの、具体的にどこの場所から手をつければよいのかという最初のステップに悩む様子が綴られている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "4bdc8745e192028d",
+   "url": "https://note.com/ooohsakana/n/ne70ac1bda325",
+   "title_original": "アラフォー女のリアルクローゼット【秋冬を整える】",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/img/1789444503-RaVFr3sW8zfKJZXtQvjg9hkA.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T02:51:00+00:00",
+   "title_ja": "アラフォー女性が公開する引越し先の秋冬クローゼット",
+   "summary_ja": "引越し先での新しいクローゼットを公開し、秋冬に向けて収納を整える様子を綴ったブログ記事。夫のスペースとの境界線や、お気に入りのシャツなどが垣間見える、リアルな持ち物と収納の実例を紹介している。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "シャツ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "32c04a844d92484b",
+   "url": "https://note.com/tama_774/n/nbca2d5f4c95d",
+   "title_original": "部屋が狭いからミニマリズムと「持たない暮らし」に憧れた",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/312184607/rectangle_large_type_2_c0dc8e86c76c68cf597a138648e30bd0.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T02:42:28+00:00",
+   "title_ja": "部屋の狭さをきっかけに「持たない暮らし」に憧れた人の話",
+   "summary_ja": "部屋が狭いことを理由に、2010年代に流行した「持たない暮らし」やミニマリズムに憧れを抱いた著者のエピソード。最小限の物で消費社会に振り回されず、心豊かに暮らすというトレンドに対する思いや、その実態について振り返っている。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "372841a495e660a3",
+   "url": "https://note.com/sefeliz/n/n01cead4144fb",
+   "title_original": "はじめまして",
+   "source": "note #ミニマリスト",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/f14888a5113acafcff0f783d943f870617ffef66.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T02:40:01+00:00",
+   "title_ja": "「ちゃんとしなきゃ」という思い込みを手放して生きやすくなった人の話",
+   "summary_ja": "「ちゃんとしなければならない」という心の縛りや思い込みを手放したことで、心が軽くなり生きやすくなった著者のエピソード。物だけでなく、自身の内面や思考の整理、暮らしをシンプルにするための考え方が語られている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "996604d0242d5213",
+   "url": "https://www.roomie.jp/2026/09/1878515",
+   "title_original": "夕暮れ時のキャンプ場から、夜のベッドルームまで。JBLの最新ポータブルスピーカー「Pulse 6」と過ごす、音と光に包まれた大人の休日",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/260822_roomie_JBL_021-2.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T02:00:25+00:00",
+   "title_ja": "身軽なデイキャンプを楽しむ人の愛用品",
+   "summary_ja": "テントや寝具を持たず、タープや焚き火台、チェアなどの最小限の道具だけを持って身軽に出かけるデイキャンプのスタイルを紹介している。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "タープ",
+    "焚き火台",
+    "チェア",
+    "ポータブルスピーカー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "203d253ccd171f73",
+   "url": "https://www.lifehacker.jp/article/2609-costorypo-mynumbercardcase-end-1086083703",
+   "title_original": "マイナンバーカードは財布に入れっぱなし？個人情報を守りながら持ち歩く方法",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/09/14/afcee2d0-5429-4b8c-9018-07f936a194d1/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T01:30:00+00:00",
+   "title_ja": "マイナンバーカードを安全に持ち歩くためのケース",
+   "summary_ja": "個人情報を守るスキミング防止や覗き見防止機能を備えた本革のカードケース。薄さ5mmで財布にすっきりと収まる仕様になっている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "マイナンバーカードケース",
+    "財布"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "1d5c1ff630f2eb2d",
+   "url": "https://www.thespruce.com/things-thrift-stores-hate-receiving-12113161",
+   "title_original": "Thrift Stores Hate Receiving These 6 Useless Donations—What to Do With Them Instead",
+   "source": "The Spruce",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-17T01:21:00+00:00",
+   "title_ja": "リサイクルショップが困る不要な寄付品と手放し方の代替案",
+   "summary_ja": "不用品の寄付において、リサイクルショップ側が受け取りに困ってしまう役に立たない6つの持ち物と、それらを適切に手放すための代替方法を解説した記事。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "17297a3931e9a8f1",
+   "url": "https://thesimplicityhabit.com/use-snowball-decluttering-method",
+   "title_original": "How to Use the ‘Snowball’ Decluttering Method to Effectively Simplify Your Space",
+   "source": "The Simplicity Habit",
+   "image": "https://thesimplicityhabit.com/wp-content/uploads/2024/06/horizontal-blog-post-2024-06-12T160514.180-1024x683.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-09-17T00:40:52+00:00",
+   "title_ja": "部屋の片づけに失敗しない「スノーボール方式」の取り入れ方",
+   "summary_ja": "片づけを始めようとしても物量に圧倒されて挫折してしまう人に向けて、小さく始めて徐々に弾みを付ける「スノーボール方式」による片づけの手順と部屋の減らし方を解説する。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "339025c197433ae6",
+   "url": "https://bemorewithless.com/get-back-on-track/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
+   "title_original": "How To Get My Life Back On Track",
+   "source": "Be More with Less",
+   "image": "https://bemorewithless.com/wp-content/uploads/2023/02/how-to-get-my-life-back-on-track-image.png",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-09-17T00:38:25+00:00",
+   "title_ja": "乱れた暮らしを立て直しシンプルに整えるための小さな習慣",
+   "summary_ja": "慌ただしい時期を過ぎた後や新しい季節を迎えるタイミングで、暮らしをシンプルにシフトさせて生活のペースを取り戻すための考え方や小さな工夫を紹介する。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "211663c7d343659d",
+   "url": "https://minimalist-fudeko.com/plan-dinner-ahead",
+   "title_original": "料理をしたくない日の乗り切り方～夕方の自分に献立を決めさせない",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/08/cooking.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T00:10:23+00:00",
+   "title_ja": "料理をしたくない日の夕方を乗り切る工夫",
+   "summary_ja": "夕方に料理をしたくないと感じる日を乗り切るため、あらかじめ献立を決めない方法や疲れがたまった日の台所との向き合い方を綴った体験談。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "045ab91c0b1cc8e4",
+   "url": "https://www.roomie.jp/2026/09/1883516",
+   "title_original": "湿気で髪がモサモサに…。雨の日のスタイリングも「ukaのバーム」があれば一発でキマるんです",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/260911_mosamosa_19.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-16T23:00:13+00:00",
+   "title_ja": "雨の日のモサモサ髪を整えるウカのバーム",
+   "summary_ja": "湿気で広がる雨の日のヘアスタイリングに悩んだ末に行き着いた、ウカのバームを使ってウェットに髪をまとめる愛用品の紹介。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "バーム",
+    "オイル"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "93e2abe87f33db8c",
+   "url": "https://note.com/yusuke_muji/n/nfedc79f133e4",
+   "title_original": "裸のiPadが、いちばん使いやすかった",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/314477161/rectangle_large_type_2_91da6b8d6712a21bb42fc88ade04c66f.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-16T22:23:14+00:00",
+   "title_ja": "iPadのキーボードを手放し裸で軽やかに使う",
+   "summary_ja": "ノート作成に必要だと思い込んで買ったiPadのキーボードを手放し、本体だけの軽さを活かしてシンプルに運用しているという体験談。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "iPad",
+    "キーボード"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "909124dbc841da4a",
+   "url": "https://simplelionheartlife.com/shop-like-a-minimalist",
+   "title_original": "How to Shop Like a Minimalist: 18 Strategies to Shop with Intention",
+   "source": "Simple Lionheart Life",
+   "image": "https://simplelionheartlife.com/wp-content/uploads/2022/06/How-to-Shop-Like-a-Minimalist-18-Strategies-to-Shop-with-Intention-3-683x1024.png",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-09-16T22:18:12+00:00",
+   "title_ja": "ミニマリスト流の買い物術 18の工夫",
+   "summary_ja": "シンプルな生活を目指す人向けに、不要なものを増やさないための買い物のコツを18項目紹介。購入前に本当に必要かを見極め、衝動買いを防ぐ具体的な方法が示されている。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [
+    "衣類",
+    "家具",
+    "生活雑貨",
+    "食料品"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "cf9075c9c15dff62",
+   "url": "https://www.realsimple.com/amazon-clever-home-storage-solutions-september-2026-12122322",
+   "title_original": "You’re Organizing Your Home All Wrong—Here Are 10 Clever Amazon Storage Finds You Should Be Using, From $9",
+   "source": "Real Simple",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-16T21:00:00+00:00",
+   "title_ja": "Amazonで買える収納アイテム10選（9ドルから）",
+   "summary_ja": "住宅の整理に役立つとされるAmazonの収納グッズ10点をピックアップし、価格が9ドルからと手頃であることを紹介。小物整理から大型収納まで幅広く提案している。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "収納ボックス",
+    "シェルフ",
+    "引き出しオーガナイザー",
+    "吊り下げ収納"
+   ],
+   "importance": 3
+  },
   {
    "id": "c0c3200f75afb7db",
    "url": "https://note.com/hana_kurashi25/n/n63d5b1323d15",
@@ -694,6 +1005,25 @@
    "importance": 3
   },
   {
+   "id": "d274718c7c7ddc86",
+   "url": "https://monomax.jp/archives/360422",
+   "title_original": "【秋の急な雨も弾く撥水仕様】インケースの最新バッグは持ち方が変幻自在！AirTagポケット標準装備の新コレクションを徹底解説",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2027/09/11zon_044204-scaled.jpeg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-16T11:00:21+00:00",
+   "title_ja": "撥水仕様で変幻自在に持てるインケースの新型バッグ",
+   "summary_ja": "インケースから、秋の急な雨にも対応できる撥水仕様の最新バッグコレクションが登場しました。AirTag専用ポケットを標準装備しており、通勤や出張などシーンに合わせて持ち方を自由に変えられるのが特徴です。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "バッグ",
+    "AirTag"
+   ],
+   "importance": 3
+  },
+  {
    "id": "13a7f71d1b325b40",
    "url": "https://www.youtube.com/shorts/cwzetghxngk",
    "title_original": "【断捨離】痩せていた頃のステキな衣装が手放せない #断捨離 #https #danshari #shorts",
@@ -1014,6 +1344,40 @@
     "NEEDN’t マルチツール",
     "ナイフ"
    ],
+   "importance": 3
+  },
+  {
+   "id": "ba905a58055bd767",
+   "url": "https://www.carryology.com/liking/industry/could-a-single-shade-of-black-help-the-outdoor-industry-unite",
+   "title_original": "Could a Single Shade of Black Help the Outdoor Industry Unite?",
+   "source": "Carryology",
+   "image": "https://www.carryology.com/wp-content/uploads/2026/09/Standard-Issue-Black-Project-Tee.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-09-16T05:52:26+00:00",
+   "title_ja": "アウトドアギアにおける黒色の統一がもたらす可能性",
+   "summary_ja": "世界中のアウトドアショップに潜むギアの色味のばらつきという課題に焦点を当てた記事です。単一の「黒」という色彩が、アウトドア業界の製品デザインやユーザーのギア選びにどのような影響を与えるかについて考察しています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "アウトドアギア"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "2a013624aec535c6",
+   "url": "https://www.chiba-tv.com/plus/detail/2026092014512",
+   "title_original": "「部屋もごちゃごちゃ」 杏さん、“ミニマリストの逆”を告白 フランスで持ち歩く意外なものとは",
+   "source": "千葉テレビ放送株式会社",
+   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1472820104707392773/origin_1.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-16T05:01:18+00:00",
+   "title_ja": "杏さんが語る「ミニマリストの逆」の暮らしとフランスでの持ち物",
+   "summary_ja": "女優の杏さんが、自身の部屋がごちゃごちゃしている「ミニマリストの逆」な現状を告白。あわせて、移住先のフランスで普段から持ち歩いているという意外な愛用品について明かしています。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [],
    "importance": 3
   },
   {
@@ -6966,380 +7330,6 @@
     "ステッドラー アバンギャルド クールシルバー",
     "ノート"
    ],
-   "importance": 3
-  },
-  {
-   "id": "89c1d50bdacd615e",
-   "url": "https://www.youtube.com/watch?v=kj_ADni2wbw",
-   "title_original": "Like everyone knew something I didn't",
-   "source": "The Minimal Mom",
-   "image": "https://i4.ytimg.com/vi/kj_ADni2wbw/hqdefault.jpg",
-   "media": "youtube",
-   "region": "海外",
-   "published": "2026-09-10T20:05:52+00:00",
-   "title_ja": "片付けが進まなかった過去と、早く手放すための工夫",
-   "summary_ja": "周囲の人が知っている片付けのコツに気づけなかった過去を振り返り、家の中をすっきりと整えるためのヒントについて語っている。物置や部屋の管理に悩む人に向けて、片付けのモチベーションを保つための考え方が示されている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "6ed6ae491f673a12",
-   "url": "https://note.com/quick_seal9022/n/nb20b0793fa01",
-   "title_original": "机の上には何もありません。３年間、毎朝４つ出して、毎晩しまっています",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/312314496/rectangle_large_type_2_314d15861d1a7f6f6c008c289dffcbd6.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-10T19:36:02+00:00",
-   "title_ja": "毎朝机の上の道具をすべて出して仕事をする習慣",
-   "summary_ja": "机の上には何も置かず、仕事の開始時にパソコン、モバイルモニター、キーボード、マウスの4つを出して作業し、終わればすべて引き出しにしまう生活を3年間続けています。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "パソコン",
-    "モバイルモニター",
-    "キーボード",
-    "マウス"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "e253b46ecbb15fd0",
-   "url": "https://note.com/mii_simplelife_/n/n4f8c364aec24",
-   "title_original": "子どもがいても無理しない、ゆるミニマリストへのロードマップ",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/312401335/rectangle_large_type_2_1c6db5e5d7932512396946ff257e69ac.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-10T19:03:47+00:00",
-   "title_ja": "子どもがいても無理をしないミニマリストの歩み",
-   "summary_ja": "家をスッキリさせたいけれどすぐに散らかったり、子どもがいるからと物を減らすのを諦めたりしているママへ向けた、頑張りすぎない暮らし方のロードマップです。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "4e21dad445737de2",
-   "url": "https://note.com/lush_okapi4231/n/nf5ca1eac4406",
-   "title_original": "断捨離",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/312400952/rectangle_large_type_2_1eb057799b0c812f6ffedc539c69ba35.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-10T18:58:12+00:00",
-   "title_ja": "いつでも捨てられる服を着るのをやめた話",
-   "summary_ja": "汚れてもいい安い服で済ませていたが、お気に入りの服を着る時の気分の良さに気づいた体験談です。財布は長く大切に使うなど、気に入ったものは使い潰す価値観が語られています。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "財布",
-    "服"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "570e66252bc24e2b",
-   "url": "https://www.aslobcomesclean.com/2026/09/procrastinators-get-stuff-done-is-not-a-productivity-book",
-   "title_original": "Procrastinators Get Stuff Done is NOT a Productivity Book",
-   "source": "A Slob Comes Clean",
-   "image": "https://www.aslobcomesclean.com/wp-content/uploads/2026/09/Procrastinators-Get-Stuff-Done-Square-Image.png",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-09-10T18:38:54+00:00",
-   "title_ja": "先延ばし癖を克服して行動するための書籍の紹介",
-   "summary_ja": "先延ばしにしてしまう人が物事をやり遂げるための書籍を紹介。この本は単純な生産性向上の本ではなく、先延ばし癖に対する恐怖を和らげ、片付けやタスクに実際に行動を起こすためのアプローチを提案している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "書籍"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "a5abc8d5ef63e08a",
-   "url": "https://note.com/akolog2026/n/n47f5b43535f8",
-   "title_original": "9/9 通知オフのススメ",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/312372367/rectangle_large_type_2_b8ec9f1b76f01c8e368dc62942fa144b.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-10T17:12:13+00:00",
-   "title_ja": "使っていないアプリの通知を切る工夫",
-   "summary_ja": "使っていないアプリや不要なアプリの通知をオフに設定し、気の散る要因を避けることで暮らしをすっきりさせる工夫について書かれた記事。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "アプリ",
-    "Android"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "a64e6afa0c956146",
-   "url": "https://note.com/tateching/n/ndba7d874be5d",
-   "title_original": "【ミニマリズム】ミニマリスト諸兄 その後、いかがお過ごしでしょうか？",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/311744914/rectangle_large_type_2_fa092a831e3ed757d0e6ea028a4dec79.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-10T16:31:18+00:00",
-   "title_ja": "物を減らしたミニマリストのその後の暮らし",
-   "summary_ja": "服やテレビを手放し、ロボット掃除機や乾燥機付き洗濯機を取り入れて家事を減らすなど、ものを減らしたその後の暮らしについての振り返り。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [
-    "テレビ",
-    "服",
-    "ロボット掃除機",
-    "乾燥機付き洗濯機"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "fe541eae556571ee",
-   "url": "https://note.com/humble_azalea946/n/n75e30598a533",
-   "title_original": "一人暮らしミニマリスト、ウォーターサーバーだけは即決でした",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/312386130/rectangle_large_type_2_d47176d5fce9123d536eced60d50e7b9.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-10T16:06:19+00:00",
-   "title_ja": "モノを減らしたミニマリストがウォーターサーバーを導入した理由",
-   "summary_ja": "モノを増やさない生活を心がけているミニマリストが、迷わず導入した浄水型ウォーターサーバーの使い心地を紹介しています。水道水を注ぐだけで冷水から温水まで使える床置きタイプのモデルを活用しています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ウォーターサーバー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "6e95eb963dc7cb31",
-   "url": "https://note.com/holy_yarrow1743/n/n429515e6d08d",
-   "title_original": "断捨離も少しずつだけどいい感じ",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/312060584/rectangle_large_type_2_57eeb6f58bd9e96b3dac421a4c0718ec.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-10T15:59:44+00:00",
-   "title_ja": "リサイクルショップでワンピースを売って得た経験",
-   "summary_ja": "リサイクルショップにワンピースを持ち込み500円で売却し、他の衣類は100円から5円で合計1265円しか得られなかった。欲しかった刺繍帯揚げは足りず、やる気が湧いたと語る。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "ワンピース",
-    "帯揚げ"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "8c0d3878e7539d30",
-   "url": "https://note.com/m4cape/n/ne09df824b9b1",
-   "title_original": "第10話：ほどよい質と量で暮らすために",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/312381934/rectangle_large_type_2_2549270300cad04d3e613fb99a05f2c6.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-10T15:39:39+00:00",
-   "title_ja": "引っ越しで見つけた不要品とライトミニマリストへの決意",
-   "summary_ja": "引っ越しで多数の不要な家電や衝動買いの雑貨を見つけ、処分に時間と費用がかかったことから、ものの質と量を見直し、ライト・ミニマリストとして身軽に暮らす決意を語っている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "家電",
-    "雑貨"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "835a0de94ec766da",
-   "url": "https://irishcountrymagazine.ie/meet-the-irish-marie-kondo-bringing-order-to-messy-homes-around-the-country",
-   "title_original": "Meet the Irish Marie Kondo bringing order to messy homes around the country",
-   "source": "irishcountrymagazine.ie",
-   "image": "https://irishcountrymagazine.ie/wp-content/uploads/2026/09/IMG_3033.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-10T15:24:16+00:00",
-   "title_ja": "散らかった家を片付けるアイルランドの整理整頓のプロ",
-   "summary_ja": "「アイルランドのこんまり」と呼ばれる人物が、国内の散らかった家に秩序と整理整頓をもたらす活動を紹介する記事。片付けを通じて暮らしを整えるアプローチについて伝える。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "e0908abd588fa7e2",
-   "url": "https://note.com/kururi_feeling/n/n9a14ddeb9a0f",
-   "title_original": "30までの100日:断捨離減速",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/312376605/rectangle_large_type_2_7ccf08c5ad44a02afabcdd1fbfa5091e.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-10T15:14:14+00:00",
-   "title_ja": "断捨離のスピードが落ちたと感じた日々",
-   "summary_ja": "断捨離を続けているが、ペースが鈍くなり、まだ手元に残っているものが多いことを実感している。継続の壁を感じる様子が綴られる。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 1
-  },
-  {
-   "id": "74833f6d38c1ff54",
-   "url": "https://parade.com/shopping/walmart-costway-industrial-bookshelf-sale",
-   "title_original": "Walmart's 'Very Cute' $38 7-Tier Bookshelf Is Perfect for Decluttering Even the Smallest Rooms",
-   "source": "parade.com",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-10T15:00:00+00:00",
-   "title_ja": "狭い部屋の片付けに適したウォルマートの7段本棚",
-   "summary_ja": "ウォルマートで販売されている、38ドルの7段本棚を紹介。コンパクトで可愛らしいデザインであり、限られたスペースの狭い部屋でも効率よく本や小物を片付けるのに役立つ。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "本棚"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "9483cbb92f4b47b3",
-   "url": "https://note.com/vast_moraea6192/n/ndc846e886beb",
-   "title_original": "収納グッズを17個買い足したら、逆に散らかった話",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/312368789/rectangle_large_type_2_94c2372d5d59fdad5d9e48898914a6ca.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-10T14:46:18+00:00",
-   "title_ja": "収納グッズを17個購入したら逆に散らかった体験",
-   "summary_ja": "2年間で収納ボックス・仕切りケース・ラックなど17個の収納グッズを購入した結果、収納場所が増えて逆に物が増え散らかりやすくなったと反省。整理のコツと失敗談を共有する。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "収納ボックス",
-    "仕切りケース",
-    "ラック"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "8300feef624e3c85",
-   "url": "https://www.lifehacker.jp/article/machi-ya-cornmi-review-974046",
-   "title_original": "視力0.1でもメガネなしでくっきり。ウェアラブルディスプレイのリアルな使用感",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/06/2bcb071d-6794-477e-9afd-5acff1ee8612/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-10T14:30:00+00:00",
-   "title_ja": "軽量ウェアラブルディスプレイの使用感",
-   "summary_ja": "約228gと軽量で、USBケーブル1本でPCやスマホに接続できるヘッドマウントディスプレイの使用感を紹介。20m先に約800インチ相当の仮想画面を映し出し、どこでも映像を楽しめる。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ウェアラブルディスプレイ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "a475c5c22eb88894",
-   "url": "https://wornandwound.com/review/review-the-matador-35l-global-travel-pack",
-   "title_original": "Review: the Matador 35L Global Travel Pack",
-   "source": "Worn & Wound",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-10T14:02:09+00:00",
-   "title_ja": "マトダールの35Lトラベルパックのレビュー",
-   "summary_ja": "旅行や移動で活躍する大容量のバックパック、Matador 35L Global Travel Packの特徴や使い勝手を検証したレビュー記事。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "バックパック"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "4ababea4c8c42bcf",
-   "url": "https://nosidebar.com/stop-feeling-guilty-for-not-being-productive",
-   "title_original": "Stop Feeling Guilty for Not Being Productive",
-   "source": "No Sidebar",
-   "image": "https://nosidebar.com/wp-content/uploads/richard-king-5IB0Bl3aMQ-unsplash1-scaled.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-09-10T14:00:00+00:00",
-   "title_ja": "生産性へのプレッシャーから解放される考え方",
-   "summary_ja": "生産性向上という言葉に縛られ、何もしていない時間に罪悪感を抱いてしまう状態から抜け出すための心の持ちようについてつづったエッセイ。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "764b4a48f8fa3db6",
-   "url": "https://note.com/tanaka_7787/n/nd09ce0f8fc5b",
-   "title_original": "「買うこと」から距離を置く 9/10",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/312347822/rectangle_large_type_2_4ecd319cae8e71ac05a9b78c7c8581a1.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-10T13:30:39+00:00",
-   "title_ja": "「買うこと」から距離を置いて暮らす日々",
-   "summary_ja": "仕事終わりに立ち寄った本屋で『買わない生活』という本を手に取り、日々の消費行動や「買うこと」について改めて考え直した記録。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "71639fb4b8d2343b",
-   "url": "https://www.realsimple.com/things-you-should-remove-from-your-living-room-before-bed-12066687",
-   "title_original": "5 Things You Should Remove From Your Living Room Every Night for a Calmer Home",
-   "source": "Real Simple",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-10T13:20:00+00:00",
-   "title_ja": "リビングを毎晩片づけて穏やかに過ごす方法",
-   "summary_ja": "より落ち着いた自宅の空間を作るために、毎日の終わりにリビングから片づけるべき5つのアイテムについて解説している。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "cbd980ef0c44562b",
-   "url": "https://www.lifehacker.jp/article/2609-lht-elago-magnet-folio",
-   "title_original": "純正iPadケースにそっくり、でもより手頃。シーンによって自在に使える「MAGNET FOLIO」",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/10/0d6c4920-63b1-49ad-a70d-7b6e16c4061e/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-10T13:15:00+00:00",
-   "title_ja": "純正そっくりで使いやすいelagoのiPadケース",
-   "summary_ja": "純正ケースの代わりに導入したelagoの「MAGNET FOLIO」。見た目は純正品に似つつ、背面と前面が分かれていてシーンに合わせて自在に使い分けられる愛用品。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "iPadケース"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2310722dbf808f09",
-   "url": "https://graziamagazine.com/us/articles/according-to-psychologists-when-people-over-70-start-giving-away-their-belongings-it-reveals-a-profound-emotional-shift-most-families-misunderstand-25497",
-   "title_original": "According to Psychologists, When People Over 70 Start Giving Away Their Belongings, It Reveals a Profound Emotional Shift Most Families Misunderstand",
-   "source": "graziamagazine.com",
-   "image": "https://graziamagazine.com/us/wp-content/uploads/sites/15/2026/09/Milan-Markovic.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-10T13:13:15+00:00",
-   "title_ja": "70代以上が私物を配り始める心理的変化と家族の誤解",
-   "summary_ja": "70代以上の高齢者が自分の持ち物を譲り渡していく行動の背景にある心理的変化と、家族がそれをどう受け止めるべきかについての解説。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
    "importance": 3
   }
  ]
