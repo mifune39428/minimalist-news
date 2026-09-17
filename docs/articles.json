@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-17T20:16:23.276060+09:00",
+ "updated_at": "2026-09-18T01:33:27.814192+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,7 +29,7 @@
  "things": [
   {
    "name": "服",
-   "count": 12
+   "count": 11
   },
   {
    "name": "スマホ",
@@ -41,7 +41,7 @@
   },
   {
    "name": "バッグ",
-   "count": 8
+   "count": 7
   },
   {
    "name": "iPhone",
@@ -65,10 +65,6 @@
   },
   {
    "name": "テレビ",
-   "count": 4
-  },
-  {
-   "name": "家具",
    "count": 4
   },
   {
@@ -100,6 +96,10 @@
    "count": 3
   },
   {
+   "name": "家具",
+   "count": 3
+  },
+  {
    "name": "扇風機",
    "count": 3
   },
@@ -128,11 +128,19 @@
    "count": 2
   },
   {
+   "name": "iPhone Duo",
+   "count": 2
+  },
+  {
    "name": "アルバム",
    "count": 2
   },
   {
    "name": "ウタマロクリーナー",
+   "count": 2
+  },
+  {
+   "name": "クローゼット",
    "count": 2
   },
   {
@@ -164,7 +172,7 @@
    "count": 2
   },
   {
-   "name": "収納グッズ",
+   "name": "マイナンバーカードケース",
    "count": 2
   },
   {
@@ -177,14 +185,6 @@
   },
   {
    "name": "梱包材",
-   "count": 2
-  },
-  {
-   "name": "段ボール",
-   "count": 2
-  },
-  {
-   "name": "鍵",
    "count": 2
   }
  ],
@@ -222,7 +222,6 @@
   "TVer",
   "The Independent",
   "The Minimalists",
-  "The Mirror",
   "The Simplicity Habit",
   "The Spruce",
   "The Sun",
@@ -245,7 +244,6 @@
   "note #少ない服で暮らす",
   "note #持たない暮らし",
   "note #断捨離",
-  "nss magazine",
   "thepioneerwoman.com",
   "walkerplus.com",
   "wfla.com",
@@ -257,7 +255,7 @@
   "ニコニコニュース",
   "ミニマリスト Nozomi",
   "ミニマリストK",
-  "ミニマリストsin",
+  "ミニマリストしぶ",
   "ミニマリストじゅん",
   "ライフハッカー・ジャパン",
   "ライブドアニュース",
@@ -270,6 +268,233 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "e8be204efd2231b1",
+   "url": "https://note.com/yuki_yume39/n/nd018d183dbbe",
+   "title_original": "牡羊座が捨てるべき10のもの",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/314683097/rectangle_large_type_2_62c40805ccf76bacbd63a288e9746dd4.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T15:56:21+00:00",
+   "title_ja": "牡羊座の特性に合わせた断捨離と手放し方の考え方",
+   "summary_ja": "過去の思い出や価値観など、動きの妨げになる重荷を手放してフットワーク軽く生きるための心構えを説いた記事です。今の自分に不要になったものは感謝して手放し、次へ向かうための考え方が綴られています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "fcb1674a110b5b11",
+   "url": "https://note.com/guruguru_shikou/n/n6ac5b9c62027",
+   "title_original": "リップクリームを切らして3ヶ月。なぜか唇の調子がいい",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/312992811/rectangle_large_type_2_7b2478f8ffef0aacd29a2eb86fe741cd.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T14:43:26+00:00",
+   "title_ja": "リップクリームを切らして3ヶ月過ごした話",
+   "summary_ja": "リップクリームを切らしたまま3ヶ月間買い忘れたことをきっかけに、夜だけのケアにしたところ唇の調子が良いと感じている人の体験談。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "リップクリーム"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c99dd7c3a3730114",
+   "url": "https://note.com/good_akari/n/ncc0678223766",
+   "title_original": "177話ー瞑想記録14ー過去を箱に入れた日",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/312763058/rectangle_large_type_2_9d337b3f226dee8c055746d0d0b8a9ca.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T14:05:53+00:00",
+   "title_ja": "過去を箱に入れた日―瞑想で感じた断捨離体験",
+   "summary_ja": "瞑想中に自分の人生を段ボール箱に入れ、長年続いた偽りの生活を手放すイメージを行い、感情的に整理した話。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "9f87b94a067850b8",
+   "url": "https://nosidebar.com/how-clutter-causes-overspending",
+   "title_original": "How Clutter Causes Overspending And What To Do About It",
+   "source": "No Sidebar",
+   "image": "https://nosidebar.com/wp-content/uploads/curated-lifestyle-vBEejT_7YGA-unsplash1-scaled.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-09-17T14:00:00+00:00",
+   "title_ja": "散らかりが過剰支出を招く理由と対策",
+   "summary_ja": "散らかった部屋は同じものを重複購入させ、予算オーバーの原因になる。整理整頓で無駄な出費を防ぐ方法を解説。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "617a6e8d9a119341",
+   "url": "https://www.lifehacker.jp/article/2609-3coins-iphone-suitcase",
+   "title_original": "地図チェックも一瞬で。スーツケースにiPhoneを貼り付けたら「旅の移動」がよりスムーズに",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/23/a645cdef-c1b7-40e7-a4ed-d920ac10d72b/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T14:00:00+00:00",
+   "title_ja": "スーツケースに貼れる磁石式iPhoneホルダーの紹介",
+   "summary_ja": "3COINSのマグネット式スマホホルダーは取り付けが簡単で落ちにくく、MagSafe対応。旅行中のスマホ持ち運びがスムーズになる。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "マグネット式スマホホルダー"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "b5b15b229ca66de9",
+   "url": "https://www.roomie.jp/2026/09/1888222",
+   "title_original": "大切なカードほど裸で持たない。スキミング対策と本革の質感を両立したマイナカードケース",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/mynumbercardcase3.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T13:45:31+00:00",
+   "title_ja": "個人情報保護と質感を両立する本革マイナンバーカードケース",
+   "summary_ja": "国内の革職人が作った本革ケースで、マイナンバーカードを裸で持たずスキミング防止と高級感を実現。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "マイナンバーカードケース"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "cb98f961cbc4ec3f",
+   "url": "https://www.lifehacker.jp/article/2609-lht-montbell-travel-sunblock-umbrella",
+   "title_original": "モンベルのあの折り畳み日傘がさらに軽量化！これ1本で雨傘まで卒業できた",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/09/17/500608e3-f6e1-42d6-bc09-80e9a5768391/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T13:15:00+00:00",
+   "title_ja": "モンベルの軽量折りたたみ傘で雨傘卒業",
+   "summary_ja": "モンベルの新モデル「トラベルサンブロックアンブレラ」は従来より軽く、折りたたみで持ち運びやすく、雨の日でもこれ1本で雨傘を卒業できると評価されている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "トラベルサンブロックアンブレラ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "acac3e5489341e93",
+   "url": "https://note.com/science_summary/n/n84d83a3e54b9",
+   "title_original": "買うか迷った商品は「買わない理由」から決める。衝動と必要を分ける方法｜ONE NOTE",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/314710021/rectangle_large_type_2_f047ae964df67cbf690ab5b186214e33.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T13:01:41+00:00",
+   "title_ja": "買うか迷ったら『買わない理由』で判断する方法",
+   "summary_ja": "ONE NOTEシリーズは、購入を迷ったときに『買わない理由』を書き出すことで衝動と必要を区別し、無駄な買い物を防ぐ思考法を提案している。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "e3a0d52415178500",
+   "url": "https://www.roomie.jp/2026/09/1888209",
+   "title_original": "鉄鍋のシーズニング、もうやめよ。陶器製のほうがずっとラク",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/seto1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T12:45:53+00:00",
+   "title_ja": "陶器製マルチダッチオーブンで鉄鍋の手入れを省く",
+   "summary_ja": "愛知・瀬戸の窯元と共同開発した22cmの陶器製マルチダッチオーブンを紹介。鉄鍋のシーズニングが不要で、焼き野菜や魚焼きが手軽にでき、調理器具の手間を大幅に削減できる。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "マルチダッチオーブンSETO 22cm"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "8062c3bc9ef62232",
+   "url": "https://www.youtube.com/watch?v=h2FhcUlkePY",
+   "title_original": "【先行レビュー】ミニマリストしぶは折りたたみiPhone Duoを買うのか？",
+   "source": "ミニマリストしぶ",
+   "image": "https://i1.ytimg.com/vi/h2FhcUlkePY/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-09-17T12:13:57+00:00",
+   "title_ja": "ミニマリストしぶが折りたたみiPhoneを検証",
+   "summary_ja": "しぶがApple本社を訪れ、折りたたみiPhone Duoの購入を検討する様子を紹介。動画では機構やサイズ感、持ち歩きの利便性を実際に評価し、ミニマリストが新たなガジェットを受け入れる基準を探る。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "iPhone Duo"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ed4f898ffab73906",
+   "url": "https://www.thespruce.com/30-minutes-to-declutter-12120854",
+   "title_original": "Want a Less Cluttered Home in 30 Minutes? Organizing Pros Say to Focus on These 5 Areas",
+   "source": "The Spruce",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-17T11:34:00+00:00",
+   "title_ja": "30分で片付く！整理のプロが勧める5つの重点エリア",
+   "summary_ja": "整理の専門家は、30分で部屋をすっきりさせるために、キッチン、クローゼット、バスルーム、リビング、書類の5箇所に集中して片付けることを提案している。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "キッチン",
+    "クローゼット",
+    "バスルーム",
+    "リビング"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "2269347a31018051",
+   "url": "https://www.roomie.jp/2026/09/1886647",
+   "title_original": "賃貸でも戸建てでも使い続けたい「山崎実業の個人的ベスト3」。細部のこだわりがすごいんです",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/3d4b7a4efc673708473b1c0c43ca82f4.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T11:30:12+00:00",
+   "title_ja": "山崎実業ベスト3：賃貸でも戸建ても使えるおすすめアイテム",
+   "summary_ja": "フリーカメラマンの大平千沙さんが、使いやすさと耐久性、インテリアに馴染むデザインが魅力の山崎実業製品3点を紹介し、賃貸や戸建てでも快適に活用できる理由を語る。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "bc5d076958376123",
+   "url": "https://www.indulgexpress.com/entertainment/celebs/2026/Sep/17/elon-musk-the-worlds-richest-man-is-living-in-an-airstream-trailer-heres-why",
+   "title_original": "Elon Musk, the world’s richest man, is living in an Airstream trailer: Here’s why",
+   "source": "IndulgExpress",
+   "image": "https://cf-images.assettype.com/indulgexpress%2F2025-08-05%2Fip4xnmrw%2F9x16-42.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-17T11:30:02+00:00",
+   "title_ja": "イーロン・マスク、Airstreamトレーラーで暮らす理由",
+   "summary_ja": "世界一の富豪イーロン・マスクが、シンプルな生活と移動性を求めてAirstreamトレーラーに住む選択をした背景と、そこでの生活スタイルやメリットを紹介している。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [
+    "Airstreamトレーラー"
+   ],
+   "importance": 4
+  },
   {
    "id": "c2a9662e2f968184",
    "url": "https://note.com/gifted_colt4162/n/nb1c147d8f8b1",
@@ -7099,238 +7324,6 @@
    "category": "心・習慣",
    "axis": "reduce",
    "things": [],
-   "importance": 3
-  },
-  {
-   "id": "db2ba05b8b1c7915",
-   "url": "https://www.mirror.co.uk/lifestyle/sort-your-life-out-star-37652129.amp",
-   "title_original": "Sort Your Life Out star warns against common decluttering mistake and one way to avoid it",
-   "source": "The Mirror",
-   "image": "https://i2-prod.mirror.co.uk/incoming/article37587321.ece/ALTERNATES/s1200/1_Dilly-2.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-11T11:46:00+00:00",
-   "title_ja": "片づけのプロが警告するありがちな失敗と対策",
-   "summary_ja": "片づけ番組の出演者が、多くの人が陥りがちなよくある失敗について警告し、その失敗を避けるための具体的な方法を解説しています。効率よく部屋を整えるための考え方が学べます。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "f58af7b927f984f8",
-   "url": "https://www.roomie.jp/2026/09/1883146",
-   "title_original": "「本を持ち出しづらい理由」がひとつ消えた！カードサイズになるブックポーチが読書体験を変えてくれた",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/IMG_0411.jpeg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-11T11:30:31+00:00",
-   "title_ja": "カードサイズになる便利なブックポーチ",
-   "summary_ja": "本を持ち歩きやすくするために開発された、カードサイズに変形するブックポーチの紹介。日常の読書体験をより軽快に変えてくれるアイテムとして活用されています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ブックポーチ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "e9d7072007e1da16",
-   "url": "https://www.nssgclub.com/en/beauty/46727/september-beauty-decluttering-guide-makeup-cleanout",
-   "title_original": "Beauty Decluttering: what to keep and toss this September",
-   "source": "nss magazine",
-   "image": "https://data2.nssmag.com/images/galleries/49438/decluttering__orizz-2.webp",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-11T11:29:09+00:00",
-   "title_ja": "美容アイテムの断捨離：残すものと手放すものの基準",
-   "summary_ja": "増えがちな美容アイテムを整理するための考え方。何を残し、何を処分すべきかの基準を見直すことで、メイクまわりの空間をすっきりと整える方法について解説しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "fc25ab82ab7b4156",
-   "url": "https://www.roomie.jp/2026/09/1883697",
-   "title_original": "ピラルクのレインポンチョは前開き。突然の雨でもスルッと着られる",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/713HvhfsbeL.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-11T11:15:26+00:00",
-   "title_ja": "前開きで素早く着脱できる自転車用レインポンチョ",
-   "summary_ja": "ピラルクの前開きレインポンチョは大きく開く前面で、雨が降っても自転車に乗りながらすぐに着用でき、持ち運びにも便利。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "ピラルク レインポンチョ"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "3045d613b1da5f34",
-   "url": "https://www.youtube.com/watch?v=v6MpAXaDsDs",
-   "title_original": "宮崎美子さんも納得。家が若返ると、人生まで軽くなる理由",
-   "source": "やましたひでこ断捨離",
-   "image": "https://i3.ytimg.com/vi/v6MpAXaDsDs/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-09-11T11:00:32+00:00",
-   "title_ja": "家が若返ると人生が軽くなる理由について",
-   "summary_ja": "宮崎美子さんをゲストに迎え、家を片づけて若返らせることで、心や人生まで軽くなっていく理由について語られています。住環境を整えることの本質に迫る内容です。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "e8cd75a2a8c2554f",
-   "url": "https://monomax.jp/archives/360388",
-   "title_original": "【1980円の遮光率99.99%】キャプテンスタッグの猛暑対策ギア7選「残暑を凌ぐ冷感アイテム」を編集部が厳選！直射日光を完全ブロックする傘、着る＆座るだけで涼しい冷感ギアほか",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2027/09/UD-85_4-e1789109593399.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-11T11:00:31+00:00",
-   "title_ja": "1980円以下で揃えるキャプテンスタッグの冷感ギア7選",
-   "summary_ja": "直射日光を99.99%遮断する傘や、着るだけで涼しくなる冷感アイテムなど、暑さ対策に役立つ7点を1980円以内で紹介。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "キャプテンスタッグの傘",
-    "冷感ギア"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "01b09f241db481b9",
-   "url": "https://www.youtube.com/watch?v=y0nMsplPXv8",
-   "title_original": "【ミニマリスト】ミニマルに暮らすなら注意してほしいこと4選",
-   "source": "ミニマリスト Nozomi",
-   "image": "https://i2.ytimg.com/vi/y0nMsplPXv8/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-09-11T11:00:27+00:00",
-   "title_ja": "子どもとミニマルに暮らす実践者が語る注意点",
-   "summary_ja": "ミニマリスト歴12年で子どもと暮らす投稿者が、持ち物の減らし方や部屋の片付け、思考の整理について語る。乳幼児がいてもスマートに暮らすためのポイントを紹介している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "9e0633a9235f98c0",
-   "url": "https://www.youtube.com/watch?v=es4wVp6MyPw",
-   "title_original": "【新居のリアル】理想通りに全然いかない30代ミニマリストの新生活｜購入品・ぼやき",
-   "source": "ミニマリストsin",
-   "image": "https://i2.ytimg.com/vi/es4wVp6MyPw/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-09-11T11:00:06+00:00",
-   "title_ja": "30代ミニマリストの新居でのリアルな購入品",
-   "summary_ja": "新生活を始めたミニマリストが、理想通りにいかないリアルな日常とともに使っているアイテムを紹介。タンブラーやポーチなどの生活雑貨やカメラが挙げられている。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "マイクロファイバークロス",
-    "キルティングスクエアポーチ",
-    "ステンレスタンブラー用フタ",
-    "ワンタッチポータブルタンブラー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "a7ec29e42b2a0780",
-   "url": "https://www.roomie.jp/2026/09/1879981",
-   "title_original": "気づいたら休みがなかった私。無印良品の「3つ折りスケジュールシート」で余裕を持った予定が組めるようになった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/shiro_260908_schedule-sheet_top-1.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-11T11:00:01+00:00",
-   "title_ja": "無印良品のスケジュールシートで予定に余裕を持つ",
-   "summary_ja": "スケジュール調整がうまくいかず休めなかった筆者が、無印良品の3つ折りスケジュールシートを導入。1年間を一目で把握できるようにして、余裕のある予定管理を実践している。",
-   "category": "心・習慣",
-   "axis": "own",
-   "things": [
-    "無印良品 スケジュールシート"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2944a083cad3192d",
-   "url": "https://news.livedoor.com/topics/detail/32302702",
-   "title_original": "元・汚部屋暮らしの「買い物前にチェックしたい」4つのルール。収納グッズ＆家具を選ぶときのポイント (2026年9月11日掲載)",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-11T11:00:00+00:00",
-   "title_ja": "元・汚部屋暮らしが実践する買い物前の4ルール",
-   "summary_ja": "元・汚部屋暮らしの経験者が実践している、買い物前にチェックしたい4つのルールを解説。収納グッズや家具を選ぶ際の重要なポイントを紹介している。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "収納グッズ",
-    "家具"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "9b4b7206786b9315",
-   "url": "https://note.com/magic_kumo/n/nbf0a1f1820a9",
-   "title_original": "手放すと決めたこと。ものを減らして、考え方も少し変わった",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/img/1789077618-9SGpdY3clXQMwivua5y40KhA.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-11T10:48:04+00:00",
-   "title_ja": "ものを手放して気づいた「いつか使うかも」の基準",
-   "summary_ja": "着ていない服や使っていないバッグを減らすうちに、部屋が軽くなり考え方も変化した。いつか使うかもという理由で残していたものは、今の暮らしにはほとんど登場しないと気づいた人の話。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "服",
-    "バッグ"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "76fdc550036edd88",
-   "url": "https://www.roomie.jp/2026/09/1872596",
-   "title_original": "無印良品のパスポートケースで「旅行中のカバン、ぐちゃぐちゃになる問題」が解決できた！",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/20260903_la4.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-11T10:30:12+00:00",
-   "title_ja": "無印良品のパスポートケースで旅行中のカバンを整理",
-   "summary_ja": "出張や旅行で世界を飛び回るライターが、無印良品のパスポートケースを使って旅行中のカバンのごちゃつき問題を解決した体験談。具体的な収納アイテムとして活用している。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "パスポートケース"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "aa5f1529a32fa340",
-   "url": "https://note.com/523062_rika/n/ne439930a471f",
-   "title_original": "ミニマリスト、まゆ毛を手放す",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/312367190/rectangle_large_type_2_82427a94fdb66fb63ac0e034a1485139.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-11T10:27:06+00:00",
-   "title_ja": "「まゆ毛を手放す」ことで美容の手間を減らそうと考えたミニマリストの話",
-   "summary_ja": "美容に努力はしたくないものの、少しでも若く見せたいと考えたものぐさなミニマリストが、まゆ毛を手放すことを思いついた体験談。シミやしわを受け入れつつ、遠目から少しでも若く見えるようにごまかすための考え方が綴られている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "まゆ毛"
-   ],
    "importance": 3
   }
  ]
