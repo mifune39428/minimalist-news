@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-17T13:04:13.501705+09:00",
+ "updated_at": "2026-09-17T20:16:23.276060+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -29,7 +29,7 @@
  "things": [
   {
    "name": "服",
-   "count": 13
+   "count": 12
   },
   {
    "name": "スマホ",
@@ -37,7 +37,7 @@
   },
   {
    "name": "本",
-   "count": 10
+   "count": 9
   },
   {
    "name": "バッグ",
@@ -52,12 +52,12 @@
    "count": 6
   },
   {
-   "name": "PC",
+   "name": "スマートフォン",
    "count": 5
   },
   {
-   "name": "スマートフォン",
-   "count": 5
+   "name": "PC",
+   "count": 4
   },
   {
    "name": "iPad",
@@ -76,10 +76,6 @@
    "count": 3
   },
   {
-   "name": "Orca echo",
-   "count": 3
-  },
-  {
    "name": "イヤホン",
    "count": 3
   },
@@ -93,6 +89,14 @@
   },
   {
    "name": "バックパック",
+   "count": 3
+  },
+  {
+   "name": "プロジェクター",
+   "count": 3
+  },
+  {
+   "name": "写真",
    "count": 3
   },
   {
@@ -113,6 +117,10 @@
   },
   {
    "name": "DVD・Blu-ray",
+   "count": 2
+  },
+  {
+   "name": "Orca echo",
    "count": 2
   },
   {
@@ -140,31 +148,19 @@
    "count": 2
   },
   {
+   "name": "チタン箸",
+   "count": 2
+  },
+  {
    "name": "ナイフ",
    "count": 2
   },
   {
-   "name": "ノート",
+   "name": "ハンガーラック",
    "count": 2
   },
   {
    "name": "フィギュア",
-   "count": 2
-  },
-  {
-   "name": "プロジェクター",
-   "count": 2
-  },
-  {
-   "name": "マウス",
-   "count": 2
-  },
-  {
-   "name": "写真",
-   "count": 2
-  },
-  {
-   "name": "冷蔵庫",
    "count": 2
   },
   {
@@ -186,6 +182,10 @@
   {
    "name": "段ボール",
    "count": 2
+  },
+  {
+   "name": "鍵",
+   "count": 2
   }
  ],
  "sources": [
@@ -194,16 +194,15 @@
   "Apartment Therapy",
   "AppBank",
   "Architectural Digest India",
+  "Balance Through Simplicity",
   "Be More with Less",
   "Better Homes & Gardens",
   "Butler Eagle",
   "Carryology",
   "Currently.com",
-  "Family Handyman",
   "FinanceBuzz",
   "GearJunkie",
   "Good Housekeeping",
-  "Homes and Gardens",
   "House Beautiful",
   "House Digest",
   "Ilkley Chat",
@@ -220,7 +219,6 @@
   "Real Simple",
   "Sarah Therese",
   "Simple Lionheart Life",
-  "TRILL",
   "TVer",
   "The Independent",
   "The Minimalists",
@@ -239,9 +237,10 @@
   "cbsaustin.com",
   "dime.jp",
   "hindustantimes.com",
-  "liniere.jp",
   "marthastewart.com",
+  "moneywise.com",
   "news.infoseek.co.jp",
+  "news.livedoor.com",
   "note #ミニマリスト",
   "note #少ない服で暮らす",
   "note #持たない暮らし",
@@ -266,10 +265,368 @@
   "小さな暮らしノート",
   "私だけミニマリスト｜南さやか",
   "筆子ジャーナル",
+  "西日本新聞me",
   "読売新聞"
  ],
  "count": 400,
  "items": [
+  {
+   "id": "c2a9662e2f968184",
+   "url": "https://note.com/gifted_colt4162/n/nb1c147d8f8b1",
+   "title_original": "サブスク解約を検討したが、いつ再契約すべきか",
+   "source": "note #ミニマリスト",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/90e44581d9d61fb4114e9f212deee70c0a5cbeeb.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T11:10:35+00:00",
+   "title_ja": "不安で解約できないサブスクを手放すための判断軸",
+   "summary_ja": "動画配信や音楽アプリ、クラウドストレージなどのサブスクを「また必要になるかも」と放置してしまう人へ向けた記事。解約への不安を解消し、不要な契約を手放すための考え方を伝える。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [
+    "動画配信アプリ",
+    "音楽アプリ",
+    "クラウドストレージ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "1b1d49fae86c0a3e",
+   "url": "https://note.com/colon_remon/n/n3fa7e7ac3557",
+   "title_original": "お金の習慣",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/313325166/rectangle_large_type_2_3c2c345a4cd71016266a1c2273cccfd9.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T11:06:20+00:00",
+   "title_ja": "お金を貯めるために筆者が実践する5つの日々の習慣",
+   "summary_ja": "蓄財を進めるうえで大切な日々の生活習慣について解説する記事。小さな積み重ねでお金を貯める体質を作るため、著者が実際に取り入れている「5つの習慣」を紹介する。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "aa61ba0342ad69f4",
+   "url": "https://www.roomie.jp/2026/09/1882899",
+   "title_original": "ラベルを剥がしても解決しなかった「マウスウォッシュ」の生活感。Francfrancの透明ガラスボトルで洗面所が整った",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/260910_fraancfranc_mouthwashbottle_01.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T11:00:24+00:00",
+   "title_ja": "洗面所の生活感を減らすFrancfrancの透明ガラスボトル",
+   "summary_ja": "パッケージのラベルを剥がしても解消しなかったマウスウォッシュの生活感を、Francfrancの透明ガラスボトルへ詰め替えることで解決し、洗面所をすっきり整えた実例を紹介。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "マウスウォッシュ",
+    "ガラスボトル"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "a630e45070f41aa0",
+   "url": "https://note.com/easy_tucan174/n/n44b5680be574",
+   "title_original": "クローゼットを整理したら、恋が動き出した話",
+   "source": "note #断捨離",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/b260821bb6d45652518ef0484e459ba9d7d47ff2.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T11:00:17+00:00",
+   "title_ja": "失恋を機にクローゼットの不要な物を手放した体験談",
+   "summary_ja": "失恋後にやるべきことがなく、クローゼットの整理を始めた筆者の体験談。無心で不要な物を手放していく中で起きた、部屋の片付けと心の変化について綴っている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "14b1b07691cee97a",
+   "url": "https://monomax.jp/archives/361583",
+   "title_original": "【次の電動工具を買う前に】たった780円で手持ちのドリルが万能サンダー化！優秀すぎる「変換アーバー」の便利な使い方を徹底解説",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2026/09/web260909DIY_0.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T11:00:01+00:00",
+   "title_ja": "手持ちのドリルを万能サンダー化する780円の変換アーバー",
+   "summary_ja": "新しい電動工具を買い足す前に試したい、手持ちのドリルをサンダーとして使えるようにする「変換アーバー」の便利な活用方法と具体的な使い方を徹底解説する。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ドリル",
+    "サンダー",
+    "変換アーバー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "98a975a3fa2d88ca",
+   "url": "https://note.com/chihaya_sugita/n/n7d7bd8c1a138",
+   "title_original": "だから私は卒業アルバムが嫌いだ",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/314671373/rectangle_large_type_2_d6a8f711e5105ff718a340d2dd01b7f2.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T10:57:59+00:00",
+   "title_ja": "Googleフォトの保存写真を整理し不要な画像を削除した話",
+   "summary_ja": "学生特典プランの終了を機に、Googleフォトに溜まっていた数千枚の不要な写真を整理して削除した記録。別アカウントへ写真を移動させて残すのではなく、不要なデータをしっかり消去して整理を行っている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "写真",
+    "Googleフォト"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "e132d45d3d4a843d",
+   "url": "https://note.com/ideal_chives9987/n/nfa17489c0a64",
+   "title_original": "断捨離で気分転換とデトックス",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/314566906/rectangle_large_type_2_798914d7ce81ebc1fe5b45b27b5a1360.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T10:43:08+00:00",
+   "title_ja": "涼しくなってきた季節の変わり目に断捨離で気分転換をした話",
+   "summary_ja": "涼しい風が入るようになった季節の変わり目に、断捨離を行って気分転換やデトックスを図った記録。部屋の窓を開けて心地よい空気を感じながら過ごす様子が綴られている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 1
+  },
+  {
+   "id": "eb8a308897656564",
+   "url": "https://note.com/kominka_to_neko/n/nf19a20a63027",
+   "title_original": "ミニマリストを目指す女、72歳から軍用品を支給される。",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/314653841/rectangle_large_type_2_80aab6022ffed0b21409fb7614d4e15e.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T10:35:04+00:00",
+   "title_ja": "ミニマリストを目指す中で職場の同僚から物を譲られ困惑した話",
+   "summary_ja": "夏を2着のワンピースで過ごすなど物を減らしてミニマリストを目指す中、職場の同僚から小さなデスクライトを譲られ、さらにハンガーラックまで提案されて困惑したエピソード。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [
+    "デスクライト",
+    "ハンガーラック",
+    "ワンピース"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "35fc7942507d186a",
+   "url": "https://note.com/iwamaki3/n/n04c51ab271b9",
+   "title_original": "モノを減らした先の新たな修行の扉を開いてしまった！",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/314658477/rectangle_large_type_2_c7571147e9cd8093bbb34860a432354b.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T10:33:47+00:00",
+   "title_ja": "物を手放して部屋を整えた後にさらなる変化を求めた話",
+   "summary_ja": "ある程度の物を取り除いて部屋を綺麗に整えたものの、手放しを始めた当初に感じた空気感や自身の変化体験が忘れられず、さらなる減らし方や新しい道を探求しようとしている体験談。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "edc1a69d0cccec17",
+   "url": "https://www.roomie.jp/2026/09/1887316",
+   "title_original": "現金しか使えない場所だけどキャッシュレス派…。「小さなカプセル」ならまさかの事態でも安心なんです",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/R0003225.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T10:30:35+00:00",
+   "title_ja": "キャッシュレス派がもしもの現金支払いに備える小さなカプセルの活用法",
+   "summary_ja": "キャッシュレス決済をメインにする人が、旅先や出張先での急な現金支払いに備えるアイデア。小さなカプセルに紙幣などを入れて持ち歩くことで、財布を大きくすることなく、いざという時の安心感をスマートに携帯できる方法を紹介している。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "カプセル"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b17e3aa4fada907f",
+   "url": "https://moneywise.com/retirement/retirement-decluttering-rules-less-stuff",
+   "title_original": "5 dead-simple rules to owning less ‘stuff’ in retirement. How to finally cull your clutter in 2026 and beyond",
+   "source": "moneywise.com",
+   "image": "https://media1.moneywise.com/production/articles/213079/social-media-thumbnail_hero-2026-08-28-original_20260828_115328.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-17T10:01:06+00:00",
+   "title_ja": "老後に向けて持ち物を減らすためのシンプルな5つのルール",
+   "summary_ja": "退職後の暮らしをシンプルにするために、家の中の不要なモノを整理して減らすための5つの簡単なルールを提案。将来に向けて、身の回りのガラクタを効率的に処分し、すっきりとした生活を手に入れるための考え方を紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "803d20c6ca8591e9",
+   "url": "https://www.lifehacker.jp/article/2609-lht-elecom-eclear-earplug",
+   "title_original": "「外れにくい」耳栓をワンプラスするだけで、集中しやすい環境づくりにつながった！",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/09/17/cd6906c5-ff97-439c-996b-3a2384b544ca/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T10:00:00+00:00",
+   "title_ja": "移動中や仕事中の集中力を高める外れにくい耳栓の使用レビュー",
+   "summary_ja": "エレコムの耳栓「ECLEAR Earplug」を日常生活に取り入れた体験談。新幹線や飛行機での移動時、または仕事中に耳から外れにくい設計となっており、静かな環境を作って集中力を高めるのに役立つアイテムとして紹介している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "耳栓"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "f3f6bcb89e45d5f1",
+   "url": "https://balancethroughsimplicity.com/signs-your-home-may-be-working-against-you",
+   "title_original": "7 Signs Your Home Is Working Against You (And What to Do About It)",
+   "source": "Balance Through Simplicity",
+   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2026/09/7-Signs-Your-Home-is-Working-Against-You-1-683x1024.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-09-17T09:57:19+00:00",
+   "title_ja": "家が生活を妨げる7つのサインと改善策",
+   "summary_ja": "自宅の配置や収納が無意識に作業負荷を増やすサインを7つ紹介し、頻繁に使うものは手の届く位置に置く、不要な家具は減らすなど、実生活に合わせたシンプルな改善策を提示しています。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "b87a60106ea3c1b1",
+   "url": "https://www.roomie.jp/2026/09/1882859",
+   "title_original": "ニトリの冷蔵庫収納で、調味料をゴソゴソ探す時間が激減。動かせる仕切りでドアポケットがすっきりしたよ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/260910_nitori_doorpocketcase_13-1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T09:00:30+00:00",
+   "title_ja": "ニトリの冷蔵庫ドア収納で調味料探しが激減",
+   "summary_ja": "冷蔵庫のドアポケットに散らばりがちだった調味料を、ニトリの299〜499円のドア収納ケースで整理。100円ショップの代用品での失敗を乗り越え、探す時間が大幅に短縮されました。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "ニトリ 冷蔵庫ドアポケット収納"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "685cb972c73d2a1e",
+   "url": "https://www.nishinippon.co.jp/kyushu_event/61386",
+   "title_original": "やましたひでこ講演会in福岡「なぜ、今、断捨離®なのか？」 2026年10月8日(木) | 福岡おでかけ・イベント情報",
+   "source": "西日本新聞me",
+   "image": "https://www.nishinippon.co.jp/uploads/event_image/80074/d46f9eb3c2.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-17T08:53:40+00:00",
+   "title_ja": "やましたひでこ氏が語る『今、断捨離が必要な理由』講演レポート",
+   "summary_ja": "福岡で開催されたやましたひでこ氏の講演『なぜ、今、断捨離®なのか？』では、過剰な所有がもたらす心理的負担や、シンプルな暮らしがもたらす心身のメリットが具体例とともに語られました。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "9a047e7deeed347b",
+   "url": "https://www.roomie.jp/2026/09/1888024",
+   "title_original": "スマホポーチなのに財布としても使えるよ。手ぶらで荷物を一括管理するならこれ！",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/smartphonepouch1.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T08:45:33+00:00",
+   "title_ja": "本革スマホポーチが財布に！手ぶら生活を実現するアイテム",
+   "summary_ja": "本革素材のスマホポーチは、スマホ収納だけでなく財布やポイントカードも入れられる多機能アイテム。両手が自由になり、外出時の必需品を一括管理できる点が評価されています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "本革スマホポーチ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "651fc9a7d7cbf77d",
+   "url": "https://www.roomie.jp/2026/09/1886561",
+   "title_original": "コンロ前のかき混ぜはもういらない。鍋ごと回転するアイリスの自動調理器",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/sub3.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T08:15:38+00:00",
+   "title_ja": "調理の手間を減らすアイリスオーヤマの回転式自動調理器",
+   "summary_ja": "献立作成や火加減の調整、かき混ぜる作業といった調理の手間を減らすことができる、アイリスオーヤマの自動調理鍋「シェフドラム」。鍋ごと回転する仕組みになっており、日々の料理にかける時間と労力を省いて暮らしを簡素にしたい人に適した調理器具。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "自動調理鍋",
+    "シェフドラム"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "99e5befbad1e02c6",
+   "url": "https://note.com/taihong/n/n0df1c74e57cb",
+   "title_original": "「忙しくて家が散らかる…」という人へ。脳の疲労をゼロにして貯金が増える「ととのえ術」",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/314613766/rectangle_large_type_2_46fe3bf58775ebf69d4824b459ee1cc0.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T07:32:53+00:00",
+   "title_ja": "散らかった物を布で隠し脳の疲労を減らす片づけと習慣の整え方",
+   "summary_ja": "忙しくて片づける時間がない人に向けて、散らかった物を布1枚で隠して視覚的ノイズを遮断する方法を提案。朝の習慣や食事の選択肢を固定して決定疲労を減らすことで、脳の疲労が解消され、仕事の生産性向上や無駄遣いの防止につながるという考え方を紹介している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "布"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "56bb863263796fa0",
+   "url": "https://www.lifehacker.jp/article/2609-xgimi-elfinflippro-amazon-sale",
+   "title_original": "調整いらずで「持ち運べる映画館」。プロジェクターの最適解が2.3万円オフ",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/09/17/48fb5c77-801b-443d-8485-d7db3650cf0b/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T07:30:00+00:00",
+   "title_ja": "天井投影もできて持ち運べるコンパクトなプロジェクター",
+   "summary_ja": "バッテリーを内蔵し、最大で約2時間の再生が可能なXGIMIのプロジェクター「Elfin Flip Pro」。スタンド一体型で本体を回転させることで天井への投影も簡単に行えるため、限られたスペースでも手軽に映像を楽しめる持ち運び可能なアイテム。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "プロジェクター",
+    "Elfin Flip Pro"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "34c5ae8d7ae08797",
+   "url": "https://www.lifehacker.jp/article/machi-ya-titaniumchopsticks-end-963140",
+   "title_original": "焼き魚の身ほぐしもスムーズに。福井の精密加工技術が詰まったチタン箸の使い心地",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/09/13/8539da57-f7b7-4fff-a6b6-6571657e98c1/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-17T07:00:00+00:00",
+   "title_ja": "食材を掴みやすく風味を損なわない一生物のチタン箸",
+   "summary_ja": "福井県の精密な切削技術で作られたチタン箸「蒼律」。先端に微細な溝加工が施されており、滑りやすい食材もしっかりと捉えることができる。金属特有のにおいを抑えたチタン素材を使用し、塗膜剥がれの心配がないため、長く愛用できる一生モノのカトラリー。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "チタン箸",
+    "蒼律"
+   ],
+   "importance": 3
+  },
   {
    "id": "8cd1cbf74947284c",
    "url": "https://note.com/ashiri_ikor/n/n610eb766eba2",
@@ -459,6 +816,22 @@
    "importance": 3
   },
   {
+   "id": "0e64bfe1b4c69b93",
+   "url": "https://news.yahoo.co.jp/articles/918ef7a0118e3091794a121d9e7c08170e38f6f3/images/000",
+   "title_original": "会社を辞めた47歳女性、意を決して“1トン”断捨離したら…… 「一気にスッキリ」「1人でこんなにできるの？」「尊敬します」",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgGF0RNEblupaORSHddim_ZelTelj6pSXPd_RsNXtQIzpq_-MZF_Oj68Vd3HKEbU55Z1qPT6GaMnzURYUbQHG2PMtkzc2adqU_chrhMN9JzqtuPYIMao9ykiKbEGLQ99QKQ==",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-17T01:15:00+00:00",
+   "title_ja": "47歳で1トンの断捨離を実行した女性の様子",
+   "summary_ja": "会社を辞めた47歳女性が、思い切って1トンもの大量の不用品を断捨離したところ、部屋がすっきりと片付いたという話題。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "17297a3931e9a8f1",
    "url": "https://thesimplicityhabit.com/use-snowball-decluttering-method",
    "title_original": "How to Use the ‘Snowball’ Decluttering Method to Effectively Simplify Your Space",
@@ -545,6 +918,22 @@
    "importance": 4
   },
   {
+   "id": "cf5b5f89c2fc5e6a",
+   "url": "https://news.livedoor.com/article/detail/32345513",
+   "title_original": "ライフさん、探し物ゼロで外出がスムーズに！無駄な出費も抑える断捨離のコツ",
+   "source": "news.livedoor.com",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-16T22:20:00+00:00",
+   "title_ja": "探し物をゼロにして無駄な出費も抑える断捨離のコツ",
+   "summary_ja": "探し物をなくしてスムーズに外出できるようになり、無駄な出費も抑えられる断捨離のコツを紹介した記事。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "909124dbc841da4a",
    "url": "https://simplelionheartlife.com/shop-like-a-minimalist",
    "title_original": "How to Shop Like a Minimalist: 18 Strategies to Shop with Intention",
@@ -564,6 +953,24 @@
     "食料品"
    ],
    "importance": 4
+  },
+  {
+   "id": "5141794951b476eb",
+   "url": "https://note.com/zakka_love/n/n0c032bc3c934",
+   "title_original": "ミニマリストグッズおすすめ28選｜兼ねる・たためる・浮かせるで、持ち物と収納を同時に減らす",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/314469693/rectangle_large_type_2_02bd77d31199449f6a89799a98260519.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-16T21:30:32+00:00",
+   "title_ja": "兼ねる・たためる・浮かせる視点で選ぶミニマリストの道具28選",
+   "summary_ja": "収納用品を増やして物が増えるのを防ぐため、多機能・折りたたみ・浮かせる収納の道具を選ぶ考え方を解説。1つで何役もこなす物や床を占領しない物など、持ち物と収納を同時に減らすための厳選アイテム28点を紹介している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "収納用品"
+   ],
+   "importance": 3
   },
   {
    "id": "cf9075c9c15dff62",
@@ -6923,412 +7330,6 @@
    "axis": "reduce",
    "things": [
     "まゆ毛"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c72bfe631e229f6a",
-   "url": "https://liniere.jp/column/fashion/110141",
-   "title_original": "【無印良品 MUJI LABOで今秋に買いたいアイテム3選】ファッションライターがセレクトした、大人のおしゃれに似合うもの",
-   "source": "liniere.jp",
-   "image": "https://liniere.jp/wp/wp-content/uploads/2026/09/MUJILABO_-1.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-11T10:03:58+00:00",
-   "title_ja": "無印良品「MUJI LABO」で秋に買いたいおすすめアイテム3選",
-   "summary_ja": "ファッションライターがセレクトした、大人のおしゃれに似合う無印良品「MUJI LABO」の今秋おすすめアイテム3選を紹介する記事。シンプルで洗練された衣服を好む人向けのセレクトが確認できる。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "5d2c3a8450433560",
-   "url": "https://www.roomie.jp/2026/09/1877959",
-   "title_original": "モンベルで見つけた「ナイグロー」が夜の外出のお守り。電池ナシで最長10時間光るよ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/260901_NiGlo_07.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-11T10:00:07+00:00",
-   "title_ja": "電池なしで光るモンベルの「ナイグロー」を携帯するライターの話",
-   "summary_ja": "携帯性と多機能性を重視するアウトドアライターが、モンベルの「ナイグロー」を紹介。電池不要で最長10時間光り続けるため、夜間の外出時にバッグの底にある鍵を探す際などにお守りとして役立つコンパクトな道具。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ナイグロー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2e1834ed990109f6",
-   "url": "https://www.roomie.jp/2026/09/1860592",
-   "title_original": "仕事用から、ダイニング用に。画家が6年使い続ける飛騨産業のセミアームチェアの魅力",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/4c85c234076325c638e2c305400f29d6.jpeg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-11T09:00:55+00:00",
-   "title_ja": "画家が仕事やダイニングで6年間愛用し続けるセミアームチェアの魅力",
-   "summary_ja": "モノがあふれる中で「手放せない道具」として、画家の塩谷歩波さんが6年間愛用している飛騨産業のセミアームチェアを紹介。仕事用からダイニング用へと使い方を変えながら、長年手元に残り続けているお気に入りの家具の魅力を紐解く。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "セミアームチェア"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "95f58e290a7201f6",
-   "url": "https://note.com/kaiteki_life15/n/n7633401e3d86",
-   "title_original": "秒で過ぎる秋を賢く着回す、少数精鋭！秋のお買い物ルール。",
-   "source": "note #少ない服で暮らす",
-   "image": "https://assets.st-note.com/production/uploads/images/307512949/rectangle_large_type_2_dd5e4996202739e08ae01fe703801926.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-11T09:00:09+00:00",
-   "title_ja": "整理収納アドバイザーが実践する、短い秋を賢く着回す少数精鋭の買い物ルール",
-   "summary_ja": "着用期間が短い秋服だからこそ、買い物の「自分基準」が重要となる。5人家族で暮らす整理収納アドバイザーが、あっという間に過ぎ去る秋を少ない服で賢く着回すために実践している、服を厳選するための買い物ルールを紹介する。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "秋服"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "00166ab0d2df2024",
-   "url": "https://www.familyhandyman.com/article/houzz-home-design-trends-fall-2026",
-   "title_original": "Houzz Says Homeowners Are Done With Minimalism — 5 Trends Taking Over",
-   "source": "Family Handyman",
-   "image": "https://www.familyhandyman.com/wp-content/uploads/2026/09/5-Home-Design-Trends_AdobeStock_1207296416_FT.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-11T08:49:38+00:00",
-   "title_ja": "ミニマリズムの次にトレンドとなっている住宅の傾向",
-   "summary_ja": "近年の住宅トレンドにおいて、ミニマリズムから移行しつつある5つの新しい傾向について報じています。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "2a6e48c7a9e7d5b4",
-   "url": "https://trilltrill.jp/articles/4956462",
-   "title_original": "「なくても困らない」資産2,000万円を達成した主婦が明かす、貯金を増やすために手放した“意外なモノ”とは？",
-   "source": "TRILL",
-   "image": "https://media.trilltrill.jp/articles/4956462/cover-image.dbce688577880f349846c5d2920584a1?w=1200",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-11T08:35:00+00:00",
-   "title_ja": "資産を増やした主婦が手放した意外なモノとは",
-   "summary_ja": "資産2000万円を達成した主婦が、貯金を増やすために手放した意外な持ち物を明かしています。具体的な内容は抜粋に含まれていません。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "59dbc6eb643cb459",
-   "url": "https://www.youtube.com/watch?v=t-MxCvKQG_A",
-   "title_original": "【ミニマリスト】モノを増やさないためにやめたこと5つ",
-   "source": "ぴーこ｜ゆるっとミニマルな日常",
-   "image": "https://i1.ytimg.com/vi/t-MxCvKQG_A/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-09-11T08:00:13+00:00",
-   "title_ja": "ミニマリストがモノを増やさないためにやめたこと5選",
-   "summary_ja": "物を増やさないために日々の生活の中で実践している5つの習慣を紹介しています。具体的な持ち物を持たないための考え方や工夫が学べる内容です。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "75426eba0551c324",
-   "url": "https://news.livedoor.com/article/detail/32300469",
-   "title_original": "ゆるミニマリストが持たないモノ30選！暮らしがラクになった理由",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-11T07:04:38+00:00",
-   "title_ja": "ゆるミニマリストが持たないモノ30選",
-   "summary_ja": "ゆるミニマリストが自宅に持たないと決めた30個のアイテムを紹介する。これらを手放したことで、日々の暮らしがよりラクになった理由と変化を振り返っている。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "96b21b57ac99d3c0",
-   "url": "https://news.yahoo.co.jp/expert/articles/03cf04b1dd72d62f1422dd14731cfd5de129e652",
-   "title_original": "ビューラーのゴム、いつ替えてる？美容ライターが「交換の目安」を見直してみた（しょうこ） - エキスパート",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/shoko/02714534/title-1789106925849.jpeg?exp=10800",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-11T06:33:39+00:00",
-   "title_ja": "美容ライターがビューラーのゴム交換を見直した話",
-   "summary_ja": "美容ライターがビューラーのゴムをいつ交換すべきか、その目安を見直したことを紹介しています。持ち物のメンテナンスに関する記事です。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "ビューラーのゴム"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "3d0a2e76a7ec0906",
-   "url": "https://note.com/open_fairy44/n/n7b280bcf1cb3",
-   "title_original": "北欧ミニマリストとフランス革命~ときどきトミコ~",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/312349703/rectangle_large_type_2_3fdd433ce644b3cebe206008e1b9ff21.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-11T03:39:14+00:00",
-   "title_ja": "物を捨てすぎて家具まで手放した人の話",
-   "summary_ja": "服や本、電化製品に留まらず、テーブルや冷蔵庫などの家具・家電まで手放した著者の体験談。家の中に何もなくなっていく中で、断捨離の本質とは何か、自分にとって本当に必要なものは何なのかを自問自答する様子が綴られている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "服",
-    "本",
-    "テーブル",
-    "冷蔵庫"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "6098b548beb95cd1",
-   "url": "https://note.com/toranu_t/n/n2bfbf5ecb303",
-   "title_original": "クローゼット整理。36歳独身女性東京暮らし",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/312467195/rectangle_large_type_2_e44654588c84827fbe8648cc36002ab8.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-11T03:10:50+00:00",
-   "title_ja": "東京で暮らす独身女性がクローゼットを整理する話",
-   "summary_ja": "季節の変わり目を迎え、涼しい風を感じるようになった東京在住の３６歳独身女性が、クローゼットの整理を行う様子を綴った記事。秋の訪れとともに、手持ちの衣類の整理を始める様子が描かれている。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "7ceca7f617dfc73a",
-   "url": "https://www.roomie.jp/2026/09/1882241",
-   "title_original": "【あと3日】「全部盛り」のOrca echoで、「分割キーボード」はじめませんか？今なら10%オフで買えちゃいます",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/original-.jpeg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-11T03:00:41+00:00",
-   "title_ja": "外付けキーボードとマウスの持ち歩きを快適にする分割キーボードの紹介",
-   "summary_ja": "打鍵感や入力を求めて外付けキーボードを持ち歩く際、マウスも一緒に持ち運ぶことでフットワークやセットアップが悪くなる課題を解決する、全部盛りの分割キーボード「Orca echo」を紹介。荷物を増やさずに快適な入力環境を整えたい人に向いている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "外付けキーボード",
-    "マウス",
-    "Orca echo"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "e75f3e0eabd76847",
-   "url": "https://note.com/hamu0811/n/n8ad505d6b03a",
-   "title_original": "買取店へ持ち込む前の15分チェック｜査定で損を減らす準備リスト",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/312489295/rectangle_large_type_2_b9f77638a7d9a15e30f68622f2ad2f4f.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-11T02:53:05+00:00",
-   "title_ja": "買取店への持ち込み前に査定での損を減らす準備をする話",
-   "summary_ja": "不用品を買い取り店へ持ち込む前に、査定額の低下を防ぐための準備リストを紹介。箱の有無や汚れの落とし方、複数店舗を回るべきかといった疑問に対し、持ち込む前のわずか15分で確認できるポイントを解説する。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "箱"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "82d76e4b1279ea33",
-   "url": "https://note.com/human_ivy8555/n/nccdb44c5ad68",
-   "title_original": "肌断食、湯シャン、ヘナ",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/312489824/rectangle_large_type_2_a16c07d97cee4b8c944f13cc4ab39fb3.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-11T02:49:13+00:00",
-   "title_ja": "ミニマリスト動画に影響されて肌断食へ再挑戦しようとする人の話",
-   "summary_ja": "ミニマリストや捨て活の動画に影響され、過去に挫折した「肌断食」に再び挑戦しようと調べている人の体験談。湯シャンやヘナなど、美容やヘアケアの習慣をシンプルに引き算していく生き方に関心を持つ様子が綴られている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "93dc93a0ab22bfb9",
-   "url": "https://note.com/oochan_minimal/n/n5bba8a167087",
-   "title_original": "【ひとりごと】ポリエステルが好き",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/312473388/rectangle_large_type_2_7909244d7817d97416d2efdb3a8f68fc.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-11T01:51:26+00:00",
-   "title_ja": "ノームコアで選ぶシンプルファッション例",
-   "summary_ja": "著者は2015年からノームコアを取り入れ、ユニクロ・無印などの定番ブランドで白Tや無地スウェット、ストレートデニムなど、目立たないシンプルなアイテムでコーディネートしていることを紹介している。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "白Tシャツ",
-    "無地スウェット",
-    "ストレートデニム",
-    "グレーのパーカー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c92742fc35465064",
-   "url": "https://www.homesandgardens.com/celebrity-homes/kim-kardashian-invisible-shower",
-   "title_original": "Kim Kardashian's 'Invisible' Shower is the New Benchmark for Modern Minimalist Bathrooms in 2026",
-   "source": "Homes and Gardens",
-   "image": "https://cdn.mos.cms.futurecdn.net/tq26Lyj3ARsGTGs3JEQMek-1600-80.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-11T01:02:23+00:00",
-   "title_ja": "キム・カーダシャンの『インビジブル』シャワーがミニマルバスの新基準",
-   "summary_ja": "2026年に公開されたキム・カーダシャンの透明な『インビジブル』シャワーは、壁や配管が見えない設計で、極限のシンプルさを追求したモダンミニマルバスルームの新基準として注目されている。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "インビジブルシャワー"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "202f60b0aa6f2cec",
-   "url": "https://minimalist-fudeko.com/asking-help",
-   "title_original": "困ったら、そばにいる人にひとこと言う。頼める相手は1人で足りる",
-   "source": "筆子ジャーナル",
-   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/08/asking-help.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-11T00:10:33+00:00",
-   "title_ja": "困りごとは大きくする前に身近な人に相談する話",
-   "summary_ja": "トラブルや困ったことを抱え込んだまま放置すると、問題が大きくなってしまいます。小さなうちに身近な人を一人つかまえて、早めに相談することの大切さについて語っています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "c156dbde59446200",
-   "url": "https://www.lifehacker.jp/article/2609these-apps-were-wasting-pc-storage-so-i-moved-them-browser",
-   "title_original": "Acrobatだけで10.2GB。PCの容量を圧迫していた「毎日使うアプリ」5選",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/10/18a8c4cd-1f06-463e-9c3b-b723a71072b2/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-11T00:00:00+00:00",
-   "title_ja": "PCのストレージを圧迫するアプリの見直し術",
-   "summary_ja": "パソコンの容量を大きく圧迫しているアプリの原因を探り、ブラウザ版へ移行するなどして空き容量を取り戻すための効果的なワークハック術を紹介しています。",
-   "category": "道具・ガジェット",
-   "axis": "reduce",
-   "things": [
-    "PC",
-    "ブラウザ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "25b1526d6cf353f4",
-   "url": "https://note.com/dabe_life/n/n208e0a30ed38",
-   "title_original": "減らす暮らしから、増やさない暮らしへ。",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/312442200/rectangle_large_type_2_383d4c6f13a20b01aafd751e929470fc.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-10T23:43:10+00:00",
-   "title_ja": "物を減らす暮らしから増やさない暮らしへの変化",
-   "summary_ja": "以前は使っていない物を探して手放すことを繰り返していた投稿者が、これまでの手放す暮らしから、今後は物を増やさない暮らしへと意識が変化していく様子を綴っています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "e045204ef1be54bd",
-   "url": "https://www.lifehacker.jp/article/2609-costorypo-coreforceone-review2-1984560311",
-   "title_original": "ダンベルも大型マシンもいらない。1台5役の省スペース筋トレ器具がかなり便利だった",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/10/18c4abb4-2c6a-4424-95c0-cf9f40a8de97/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-10T23:30:00+00:00",
-   "title_ja": "自宅で全身を鍛えられる省スペースな筋トレ器具",
-   "summary_ja": "ジムに通わず自宅で上半身を鍛えられる、1台5役の油圧式トレーニングギアを紹介。ダイヤルで負荷を調整でき、使わないときは折りたたんでコンパクトに収納できるアイテムです。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "コアフォースワン",
-    "ダンベル"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "50db39a9600c4012",
-   "url": "https://note.com/rich_viola3056/n/n7b9a7067a502",
-   "title_original": "【実体験】「1日1か所」の継続で訪れる奇跡。気づけば大変な場所もやりたくなる「片付けハイ」の心地よさ",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/312423503/rectangle_large_type_2_e3ec0841529f4875fa9fcee4c0732095.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-10T22:12:31+00:00",
-   "title_ja": "1日1か所の片づけを続けて訪れる変化の実体験",
-   "summary_ja": "部屋をきれいにしたいけれどどこから手をつければいいか悩む人に向けて、「1日1か所」の片づけを継続することで、片づけが楽しくなる心地よさを実感した実体験を語っています。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "f4179e8f2ce4f679",
-   "url": "https://monomax.jp/archives/360955",
-   "title_original": "【手を使わず履ける本格ランシュー】12万人の足データが生んだ傑作！スケッチャーズ新作“走れるスリップインズ”の実力を紐解く",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2027/09/260603-144691_11zon-scaled.jpeg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-10T22:00:22+00:00",
-   "title_ja": "手を使わずに履けるスケッチャーズの新作ランニングシューズ",
-   "summary_ja": "手を使わずにスムーズに履くことができる、スケッチャーズの新作ランニングシューズ「スリップインズ」の実力を紹介。健康維持や思考のリセットのために走る人に向けて、高い機能性を紐解く。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "ランニングシューズ",
-    "スリップインズ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "014d47596a374e6d",
-   "url": "https://note.com/metastyle/n/n7be408604f65",
-   "title_original": "ステッドラー アバンギャルド クールシルバーと、書き直してもいい夜",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/312414766/rectangle_large_type_2_37f6dc36fc2ccc233eec5e0944cc77aa.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-10T21:22:15+00:00",
-   "title_ja": "ステッドラーのアバンギャルド クールシルバーと過ごす夜",
-   "summary_ja": "夜の静かな時間にノートを開き、日々の出来事を綴る筆記用具としてステッドラーのアバンギャルド クールシルバーを使っている人の話。見せるための記録ではなく、自分に向き合うための道具として愛用している様子が語られている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ステッドラー アバンギャルド クールシルバー",
-    "ノート"
    ],
    "importance": 3
   }
