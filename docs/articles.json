@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-19T01:04:46.008649+09:00",
+ "updated_at": "2026-09-19T05:38:35.317078+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -28,16 +28,20 @@
  ],
  "things": [
   {
+   "name": "服",
+   "count": 12
+  },
+  {
    "name": "スマホ",
    "count": 11
   },
   {
-   "name": "服",
-   "count": 11
+   "name": "本",
+   "count": 9
   },
   {
-   "name": "本",
-   "count": 8
+   "name": "バッグ",
+   "count": 7
   },
   {
    "name": "iPhone",
@@ -45,10 +49,6 @@
   },
   {
    "name": "スマートフォン",
-   "count": 6
-  },
-  {
-   "name": "バッグ",
    "count": 6
   },
   {
@@ -61,10 +61,6 @@
   },
   {
    "name": "Apple Watch",
-   "count": 3
-  },
-  {
-   "name": "iPad",
    "count": 3
   },
   {
@@ -120,11 +116,11 @@
    "count": 2
   },
   {
-   "name": "Orca echo",
+   "name": "Tシャツ",
    "count": 2
   },
   {
-   "name": "Tシャツ",
+   "name": "iPad",
    "count": 2
   },
   {
@@ -186,13 +182,16 @@
   {
    "name": "ヘッドマウントディスプレイ",
    "count": 2
+  },
+  {
+   "name": "ペン",
+   "count": 2
   }
  ],
  "sources": [
   "A Slob Comes Clean",
   "AD Middle East",
   "AOL.com",
-  "AppBank",
   "Balance Through Simplicity",
   "Be More with Less",
   "Better Homes & Gardens",
@@ -214,6 +213,7 @@
   "ROOMIE",
   "Real Simple",
   "Simple Lionheart Life",
+  "Stylist",
   "TRILL",
   "TVer",
   "The Independent",
@@ -245,6 +245,7 @@
   "ぴーこ｜ゆるっとミニマルな日常",
   "むぎの頑張らない暮らし",
   "やましたひでこ断捨離",
+  "ウォーカープラス",
   "ニコニコニュース",
   "ミニマリスト Nozomi",
   "ミニマリストK",
@@ -261,6 +262,113 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "e3c19e1f1f10f3dd",
+   "url": "https://note.com/fukuyumeko0022/n/n3b4ba76fa50d",
+   "title_original": "この家との別れ｜30年ローン、2026年売却までの道のり②",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/315095256/rectangle_large_type_2_40e2460a617b78bd4fbca9ba66e62968.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-18T20:14:34+00:00",
+   "title_ja": "30年ローンで購入したマイホームの売却を進める話",
+   "summary_ja": "30年ローンを組んだ家を2026年の売却に向けて、複数社に内覧を依頼し計画的に不動産会社と契約を進めていく過程。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "50b5b468f1616c9f",
+   "url": "https://note.com/8eriyaki/n/ne095df6b9e90",
+   "title_original": "セカストに売りに行った話",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/313456190/rectangle_large_type_2_2f9facd66c060c326e1fce90a1624b34.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-18T19:20:11+00:00",
+   "title_ja": "着なくなった服やバッグをリユース店に売った話",
+   "summary_ja": "サイズが合わなかった服やタグ付きのバッグなど状態の良い不用品をまとめ、セカンドストリートへ買取査定に出した体験談。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服",
+    "バッグ"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "78c3e2ad39a333fb",
+   "url": "https://www.goodhousekeeping.com/home/organizing/a73790542/30-bags-30-days-decluttering-challenge",
+   "title_original": "This “30 Bags in 30 Days” Challenge Could Help You Get Rid of All Your Clutter",
+   "source": "Good Housekeeping",
+   "image": "https://hips.hearstapps.com/hmg-prod/images/ef53d330-22c8-430c-aae7-825dbbfbde25.jpeg?crop=1xw:0.750074030204xh;center,top&resize=1200:*",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-18T18:20:17+00:00",
+   "title_ja": "30日間で30袋の片付けを試すチャレンジ企画",
+   "summary_ja": "30日間で毎日1袋ずつ不要な物を手放していくことで、家中の散らかりをスッキリ解消するための挑戦を紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "5a3e3dbf30861d4b",
+   "url": "https://note.com/tasty_laelia5937/n/n2b1f5230c9d7",
+   "title_original": "物を持ちたくないが…",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/315090871/rectangle_large_type_2_2e4de57c3a05a9c9f8ecbcdcf77db25a.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-18T18:07:45+00:00",
+   "title_ja": "物を持ちたくない気持ちと防災用ストックの葛藤",
+   "summary_ja": "極力物を持ちたくないと考えつつも、悪天候時の買い出しに備えて食材の備蓄が必要かと悩み、日用品は使い切るまで買わない方針をとる人の葛藤。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "食材",
+    "日用品"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5d3f07eb3f2b02b8",
+   "url": "https://note.com/mainichi_3ko/n/n72efe971d665",
+   "title_original": "余白が生まれた瞬間",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/img/1789754755-8QkOcVXPRETfZtYj25MrINsw.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-18T18:07:36+00:00",
+   "title_ja": "ネットで調べられる辞書を手放した日の振り返り",
+   "summary_ja": "毎日3つ捨てる実践の62日目として、広辞苑や学習事典などを処分。ネットで調べられるようになったため辞書を手放し、暮らしに余白が生まれたと振り返る。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "広辞苑",
+    "学習事典"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "0d3639c725717cda",
+   "url": "https://note.com/kuyukyu/n/n525ecf984f26",
+   "title_original": "今使うもの以外は捨てる--幸せは量ではなく把握だ 【今月の読書】",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/315085123/rectangle_large_type_2_578aa4a9e30b953392c6ae9591543d5f.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-18T17:18:39+00:00",
+   "title_ja": "今使うものだけを残すミニマリストの読書記録",
+   "summary_ja": "今使うもの以外は手放し、幸せは量の多さではなく把握することにあると説く。ミニマリズム関連の5冊の本から学びをまとめた。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "本"
+   ],
+   "importance": 3
+  },
   {
    "id": "0a356c45b5bb5740",
    "url": "https://note.com/dreamcorporation/n/n7463d7681525",
@@ -332,6 +440,22 @@
    "things": [
     "高圧洗浄機"
    ],
+   "importance": 3
+  },
+  {
+   "id": "6eb96cf7b740d92e",
+   "url": "https://note.com/_o623m/n/nc465e6bc5dc1",
+   "title_original": "ミニマムに暮らす",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/315046272/rectangle_large_type_2_52a8aee2d909c617d9f9b37a8c911550.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-18T13:57:53+00:00",
+   "title_ja": "持ち物や環境が心に与える影響と整え方について",
+   "summary_ja": "部屋や服など日々の持ち物は人格形成や心の状態に影響を与えます。使っていない物を手放して環境を整え、自分の感覚や基準を見直すことの重要性について綴ったブログ記事です。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -427,6 +551,22 @@
     "上着"
    ],
    "importance": 2
+  },
+  {
+   "id": "0a4323f5d4be0c38",
+   "url": "https://www.stylist.co.uk/home/september-reset-decluttering-guide/1113313",
+   "title_original": "4 decluttering methods for your September reset, according to an interior designer",
+   "source": "Stylist",
+   "image": "https://media.stylist.co.uk/app/uploads/2023/10/06150340/decluttering-wardrobe-1920x1080.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-18T11:59:37+00:00",
+   "title_ja": "インテリアデザイナーが教える4つの片づけ法",
+   "summary_ja": "インテリアデザイナーが提案する、秋の暮らしの立て直しに向けた4つの手放し方や整理の方法についての記事。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
   },
   {
    "id": "598257d202321d3c",
@@ -892,6 +1032,22 @@
    "importance": 3
   },
   {
+   "id": "49fc10ac478f0bff",
+   "url": "https://news.yahoo.co.jp/articles/7b79abc963ba767fb218f1d686469ad235782d1b",
+   "title_original": "山田美保子氏 中古品買取業者とのトラブル告白「2度、詐欺まがいの経験を」自宅の断捨離で“受難”（スポニチアネックス）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000275-spnannex-000-4-view.jpg?exp=10800",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-18T07:58:01+00:00",
+   "title_ja": "山田美保子氏が語る自宅の断捨離でのトラブル",
+   "summary_ja": "自宅の断捨離を進める中で、中古品買取業者との間で詐欺まがいのトラブルを2度経験したことを告白している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "d9bfab2a2218b80a",
    "url": "https://www.roomie.jp/2026/09/1888381",
    "title_original": "大画面テレビ、もういらないかも。PS5の映像を1000インチに広げるアイテム",
@@ -1018,6 +1174,22 @@
     "普通の歯ブラシ"
    ],
    "importance": 4
+  },
+  {
+   "id": "770555b98e03f704",
+   "url": "https://www.walkerplus.com/article/1407768/image17657852.html",
+   "title_original": "画像5 / 192＞【漫画】「水でいいです」「プレゼントの金額差」「プレゼントは何が欲しいか聞け」「コストが大きいほど大事？〜断捨離爆遅太郎〜」ほか収録／著：ゐ",
+   "source": "ウォーカープラス",
+   "image": "https://news.walkerplus.com/article/1407768/17657864_615.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-18T03:13:57+00:00",
+   "title_ja": "断捨離に苦戦する様子を描いたコミックエッセイ",
+   "summary_ja": "プレゼントの価値観や人間関係を交えながら、物がなかなか捨てられない「断捨離爆遅太郎」の様子を描いた漫画作品の紹介。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
   },
   {
    "id": "d1e66505e5da7814",
@@ -7164,185 +7336,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 2
-  },
-  {
-   "id": "356d65d07dcf0e17",
-   "url": "https://note.com/kataduke_kokoro/n/neec51fe5c31d",
-   "title_original": "『人に譲ろう』の落とし穴",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/313033739/rectangle_large_type_2_6a8367f0a31566e5a2f166eab0a14a7f.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-12T14:05:58+00:00",
-   "title_ja": "人に譲る前提でモノを手放さない方がいい理由",
-   "summary_ja": "人に譲るや売れるからという理由で手放すと、モノとの関係にきちんと片がつけられないという、手放しの心構えについて語った文章。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "874a061623dcdaf2",
-   "url": "https://www.lifehacker.jp/article/2609-stop-using-your-ipad-or-android-tablet-for-taking-notes-lwt",
-   "title_original": "通知も誘惑もゼロ。自分の思考と100%で向き合える電子ペーパーの魅力",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/04/10/97e8fc57-5bce-458c-970b-570b91a32a8c/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-12T13:30:00+00:00",
-   "title_ja": "思考と向き合うために電子ペーパーを選ぶ理由",
-   "summary_ja": "通知や誘惑がなく数週間バッテリーが持つ電子ペーパー端末の魅力を紹介。単機能デバイスを使って思考を整理するミニマルな環境づくりについて解説している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "電子ペーパー",
-    "iPad",
-    "Androidタブレット"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "c972a24219422a59",
-   "url": "https://note.com/kenjyou/n/n0b33e5a9fa7c",
-   "title_original": "クイックルワイパーで掃除は5分で終わるのになぜルンバにミニマリストはこだわるのか",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/313023813/rectangle_large_type_2_1c8cbba225a184fa8e5c1471f83526ea.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-12T13:29:40+00:00",
-   "title_ja": "クイックルワイパーではなくルンバを選ぶ理由",
-   "summary_ja": "クイックルワイパーで短時間で掃除が終わるにもかかわらず、ミニマリストがなぜルンバという家電にこだわるのかについて語っている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "クイックルワイパー",
-    "ルンバ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "37782c1bd463b9a7",
-   "url": "https://note.com/yuno_place/n/ne910965545bc",
-   "title_original": "恋の前髪をつかむため、両手を空けておく。｜ぽちゃまるさん『翻弄される自由』書評",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/313010264/rectangle_large_type_2_a56137c9fd2636c894178bccd314ae20.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-12T13:25:17+00:00",
-   "title_ja": "『翻弄される自由』でミニマリストの時間感覚を考える",
-   "summary_ja": "ポチャマルさんは『翻弄される自由』の書評で、ギリシャ神話のカイロスに例え、ミニマリストが瞬間を逃さず手を伸ばす姿勢を語る。物を減らすだけでなく、時間の使い方への示唆が得られる。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "82c299649d74f0b4",
-   "url": "https://www.lifehacker.jp/article/2609-yamazakijitsugyou-laundry-tower",
-   "title_original": "狭い脱衣所に物干しスペースが生まれた。「小さく」取り付けられる室内干しハンガー",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/07/c172f081-928d-4927-a434-9cf64be500c9/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-12T13:15:00+00:00",
-   "title_ja": "狭い脱衣所に作る室内干しハンガーで空間確保",
-   "summary_ja": "山崎実業の『ランドリー室内干しハンガー タワー』は、ドア枠や鴨居に簡単に掛けられ、工具不要で脱衣所に物干しスペースを確保できる。コンパクト設置で部屋をすっきりさせる実用的な収納アイテムだ。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "ランドリー室内干しハンガー タワー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f21ae6654a422bb4",
-   "url": "https://www.lifehacker.jp/article/2609-orca-echo-3days-left-ehb",
-   "title_original": "「分割キーボード」始めませんか？【プロジェクト終了まであと3日】",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/07/9329a9fc-4914-4304-9e95-2e96c9c8214e/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-12T12:45:00+00:00",
-   "title_ja": "外出先でも快適な入力を実現する分割キーボードOrca echo",
-   "summary_ja": "左右分割でマウス機能まで備えるOrca echoは、トラックボールやスクロールパッドを内蔵し、1台で入力とカーソル操作が完結。持ち運びしやすく、身軽な作業環境を求めるミニマリストに最適なキーボードだ。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "Orca echo"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2bd390ddf2f21a17",
-   "url": "https://www.lifehacker.jp/article/2609-machi-ya-launbot-lh-editorialreview",
-   "title_original": "吊るすだけでシワも匂いもすっきり！服が整う新感覚「衣類ケア」デバイスでゆとりの朝が生まれた",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/11/558c4c0e-e497-4e08-94f7-30dc83094ad4/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-12T12:00:00+00:00",
-   "title_ja": "ハンガーに掛けるだけでシワ伸ばし・除菌 Launbot",
-   "summary_ja": "AI搭載のポータブルデバイスLaunbotは、ハンガーに掛けるだけで温風で服を膨らませ、シワ伸ばし・乾燥・除菌を自動で行い、アイロンの手間を減らすと紹介されています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "Launbot"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "6149836ad318cc52",
-   "url": "https://www.roomie.jp/2026/09/1881907",
-   "title_original": "「目薬サイズのレジャーシート」をポーチに常備。予想外のシーンで真価を発揮するんだ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/P1020788-scaled-1.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-12T11:30:30+00:00",
-   "title_ja": "登山やアウトドア用にポーチに常備しているコンパクトなレジャーシート",
-   "summary_ja": "登山を始める際に軽くてコンパクトな装備を探して見つけた、目薬のサイズほどに小さく折り畳めるレジャーシートをポーチに常備しているという話。予想外のシーンで便利に活用できるアイテムとして紹介されている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "レジャーシート"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "caedf2ab42be4628",
-   "url": "https://www.appbank.net/2026/09/12/goods-books/3102328.php",
-   "title_original": "超軽量16gのバンパーケース登場！ Casefiniteが iPhone Duo / 18 Proシリーズ対応の新作全8種を発売",
-   "source": "AppBank",
-   "image": "https://www.appbank.net/wp-content/uploads/2026/09/20260912_072307_554_01.webp",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-12T11:23:03+00:00",
-   "title_ja": "超軽量16gのiPhoneバンパーケースが登場",
-   "summary_ja": "CasefiniteがiPhone DuoおよびiPhone 18 Pro向けに、全8種の重量16gのバンパーケースを新発売し、軽さと保護を両立させた製品として紹介しています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "iPhoneケース"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "75eaac06aab06784",
-   "url": "https://www.roomie.jp/2026/09/1884448",
-   "title_original": "SwitchBotのスマートカーテンで、朝は布団から出ずに日差しで起きる生活に",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/Curtain3-scaled.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-12T11:15:46+00:00",
-   "title_ja": "SwitchBotスマートカーテンで朝の手間を自動化",
-   "summary_ja": "工具や配線不要のSwitchBot第3世代スマートカーテンを設置すれば、布団から出ずに日差しで自然に起床でき、朝のルーティンがシンプルになると紹介されています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "SwitchBot スマートカーテン"
-   ],
-   "importance": 3
   }
  ]
 }
