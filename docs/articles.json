@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-20T00:37:43.157171+09:00",
+ "updated_at": "2026-09-20T05:16:22.516073+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -33,14 +33,14 @@
   },
   {
    "name": "スマホ",
-   "count": 10
-  },
-  {
-   "name": "本",
    "count": 8
   },
   {
    "name": "バッグ",
+   "count": 7
+  },
+  {
+   "name": "本",
    "count": 7
   },
   {
@@ -49,7 +49,7 @@
   },
   {
    "name": "スマートフォン",
-   "count": 6
+   "count": 5
   },
   {
    "name": "PC",
@@ -132,11 +132,7 @@
    "count": 2
   },
   {
-   "name": "アルバム",
-   "count": 2
-  },
-  {
-   "name": "クローゼット",
+   "name": "お玉",
    "count": 2
   },
   {
@@ -164,6 +160,10 @@
    "count": 2
   },
   {
+   "name": "トング",
+   "count": 2
+  },
+  {
    "name": "ナイフ",
    "count": 2
   },
@@ -180,11 +180,11 @@
    "count": 2
   },
   {
-   "name": "ペン",
+   "name": "マイナンバーカードケース",
    "count": 2
   },
   {
-   "name": "マイナンバーカードケース",
+   "name": "リュック",
    "count": 2
   }
  ],
@@ -220,6 +220,7 @@
   "The Independent",
   "The Minimal Mom",
   "The Minimalists",
+  "The Peterborough Examiner",
   "The Simplicity Habit",
   "The Spruce",
   "Warrington Guardian",
@@ -237,6 +238,7 @@
   "note #少ない服で暮らす",
   "note #持たない暮らし",
   "note #断捨離",
+  "people.com",
   "thepioneerwoman.com",
   "thespruce.com",
   "うにのゆるシンプルな暮らし",
@@ -260,6 +262,154 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "6b09d7bc8844ea3f",
+   "url": "https://trilltrill.jp/articles/5040772",
+   "title_original": "フレンチミニマリズムを体現する。ティポロジー パリのヴィーガンビューティ",
+   "source": "TRILL",
+   "image": "https://media.trilltrill.jp/articles/5040772/featured-image.67e6aa76fcd283ee4add2dd194c52272?w=1200",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-19T19:35:00+00:00",
+   "title_ja": "フレンチミニマリズムを体現するヴィーガンビューティブランドの紹介",
+   "summary_ja": "フランスのヴィーガンビューティブランド「ティポロジー パリ」を紹介する記事。フレンチミニマリズムを体現した、シンプルで無駄のないスキンケアやビューティのあり方を提案している。",
+   "category": "その他",
+   "axis": "own",
+   "things": [
+    "化粧品"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c246d2b82c7502bf",
+   "url": "https://note.com/soundtec/n/n3f27e0297325",
+   "title_original": "靴箱に消臭剤を3つ並べるのをやめた——棚板を拭く、それだけにした",
+   "source": "note #ミニマリスト",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/37805f3cceacffe93ca1a8b0e4ce8fc6f04879d7.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-19T19:07:52+00:00",
+   "title_ja": "靴箱の消臭剤をすべて手放し、棚板を拭く掃除方法に変えた話",
+   "summary_ja": "靴箱に3つ置いていた消臭剤をすべて手放した体験談。においが混ざって消えなかったことをきっかけに、消臭剤を置くのをやめ、棚板を拭くことだけで靴箱をすっきりと保つシンプルな管理方法へと切り替えた様子を綴っている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "消臭剤"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "2eeed196853fabf2",
+   "url": "https://www.goodhousekeeping.com/home/organizing/g73790576/organizing-essentials-to-buy-dollar-tree",
+   "title_original": "12 Things Pro Organizers Always Buy at Dollar Tree",
+   "source": "Good Housekeeping",
+   "image": "https://hips.hearstapps.com/hmg-prod/images/375e5811-91a4-46a1-851f-f85fac10d53f.jpeg?crop=1xw:0.749625187406xh;center,top&resize=1200:*",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-19T19:03:58+00:00",
+   "title_ja": "整理整頓のプロが100円ショップでいつも購入する12のアイテム",
+   "summary_ja": "整理整頓のプロフェッショナルが、アメリカの100円ショップに相当する「ダラー・ツリー」でいつも購入している12の収納・整理用アイテムを紹介する記事。低コストで効率的に部屋を整えるための便利な道具が分かる。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "08f99595497c2307",
+   "url": "https://people.com/professional-organizer-shares-items-people-need-to-throw-away-immediately-12122275",
+   "title_original": "Professional Organizer Shares the Everyday Items People Need to ‘Throw Away Today’",
+   "source": "people.com",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-19T18:59:00+00:00",
+   "title_ja": "整理整頓のプロが教える、今すぐ手放すべき日常のアイテム",
+   "summary_ja": "プロの整理整頓アドバイザーが、家の中をすっきりさせるために「今日すぐに捨てるべき」日常のアイテムを提案する記事。ため込みがちな不要品を見直し、シンプルな暮らしを手に入れるための手放し方の基準を解説している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "d4d03cb9be016978",
+   "url": "https://note.com/hiromi_mizugaki/n/n78b35a93a634",
+   "title_original": "片付けを習慣化し、意志の力に頼らずに部屋を美しく保って運気を高めるための具体的なアドバイス5選",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/295217615/rectangle_large_type_2_ca5a0d916b7f4dc675793eb41b7dc26e.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-19T18:06:02+00:00",
+   "title_ja": "意志の力に頼らず部屋の美しさを保つ片付け習慣5選",
+   "summary_ja": "部屋が散らかる心理的な原因を分析し、意志の力に頼らずに行動して部屋を綺麗に保つための具体的なアドバイスを解説しています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "18e4fd2396927041",
+   "url": "https://www.goodhousekeeping.com/home/organizing/g73790572/september-home-organization-tips",
+   "title_original": "The Home Organizing Tasks to Do Before September Ends, According to Pros",
+   "source": "Good Housekeeping",
+   "image": "https://hips.hearstapps.com/hmg-prod/images/4508cb51-f493-413e-a8a3-d231ab509abd.jpeg?crop=0.889043317118xw:1xh;center,top&resize=1200:*",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-19T18:04:47+00:00",
+   "title_ja": "9月が終わる前に済ませておきたい自宅の整理整頓作業",
+   "summary_ja": "専門家が推奨する、9月末までに取り組むべき家の片付けや整理整頓のタスクについて紹介しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "b3d7ccdd65b6d071",
+   "url": "https://www.yahoo.com/lifestyle/articles/6-common-decluttering-mistakes-organizers-170000335.html",
+   "title_original": "6 Common Decluttering Mistakes That Make Organizers Cringe",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/99628dc2561041626506e43caa7d74613bd34b6ff526349dfa7c3096c80ced70/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgood_housekeeping_561%2F53094bfd1462eceb536cc2d8752a9336.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-19T17:00:00+00:00",
+   "title_ja": "プロが思わず顔をしかめる、よくある片付けの失敗6選",
+   "summary_ja": "整理収納のプロが指摘する、家を片付ける際によくやってしまいがちな失敗や避けるべきポイントについてまとめています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "39053d4f5c465aa9",
+   "url": "https://note.com/te_gi/n/n794ec2c65443",
+   "title_original": "ミニマリスト、ペットを飼うか、飼わないか",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/315410299/rectangle_large_type_2_4ebe99da49058af0232f35d1326da25f.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-19T16:50:54+00:00",
+   "title_ja": "ミニマリストがペットを飼うかどうかについて考えること",
+   "summary_ja": "犬や猫などの可愛いペットを飼うべきか、ミニマリストとしてのライフスタイルに照らし合わせて検討する様子を綴っています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "6ec9416fd75ce747",
+   "url": "https://thesimplicityhabit.com/clean-house-all-the-time-with-these-8-habits",
+   "title_original": "Want a Clean House All the Time? Do These 8 Habits Every Day",
+   "source": "The Simplicity Habit",
+   "image": "https://thesimplicityhabit.com/wp-content/uploads/2024/11/horizontal-blog-post-2024-11-12T122831.196-1024x683.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-09-19T16:00:20+00:00",
+   "title_ja": "毎日できる家をキレイに保つ8つの習慣",
+   "summary_ja": "The Simplicity Habitが提案する、毎日数分でできる8つの習慣を実践すれば、家の中が常にすっきり保て、片付けの手間が減り、暮らしが快適になると紹介しています。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "41620935784a9114",
    "url": "https://note.com/gifted_finch4201/n/nb7bdd8ce033f",
@@ -366,6 +516,24 @@
    "importance": 4
   },
   {
+   "id": "5ef3765b6c3626de",
+   "url": "https://note.com/kaedenokurashi/n/n5fb6dd61e772",
+   "title_original": "初めての二郎系ラーメンに挑戦、iPhone 17eを購入",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/315381955/rectangle_large_type_2_5834c68749601d4d8c0ef2d1eb08202e.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-19T14:20:18+00:00",
+   "title_ja": "iPhone 17e購入と二郎ラーメン体験のVlog",
+   "summary_ja": "大阪で働くOLが金曜に二郎系ラーメンに挑戦し、翌日新型iPhone 17eを購入した様子をVlogで公開。新たな持ち物と日常の楽しみを共有しています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "iPhone 17e"
+   ],
+   "importance": 3
+  },
+  {
    "id": "604e24d58e002a66",
    "url": "https://note.com/nifty_okapi7811/n/nac3d59f15fd0",
    "title_original": "バッグの中身 1ヶ月後",
@@ -470,6 +638,26 @@
     "final ZE300"
    ],
    "importance": 2
+  },
+  {
+   "id": "d455c9724762af0e",
+   "url": "https://www.roomie.jp/2026/09/1889641",
+   "title_original": "オクソーの「黒い板」が、調理器具の置き場所問題を解決！これだけで日々の料理がぐんとスムーズになった",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/DSCF6191-1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-19T12:30:10+00:00",
+   "title_ja": "オクソーの黒い板で調理器具の置き場所を解決した話",
+   "summary_ja": "小さな戸建てで暮らす家庭料理ライターが、機能と佇まいを兼ね備えたオクソーの黒い板を使って、日々の調理や調理器具の置き場所問題をスムーズにした体験について語っています。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "お玉",
+    "トング",
+    "菜箸"
+   ],
+   "importance": 3
   },
   {
    "id": "28bd6541ca24ba5e",
@@ -656,6 +844,22 @@
     "レシート",
     "靴下"
    ],
+   "importance": 3
+  },
+  {
+   "id": "657e17a9298d10d4",
+   "url": "https://www.thepeterboroughexaminer.com/life/some-good-advice-on-ways-to-declutter/article_bd50492d-69d2-57de-b986-23812c2db014.html",
+   "title_original": "The gentle art of Swedish death cleaning offers a thoughtful way to declutter and spare family heartache",
+   "source": "The Peterborough Examiner",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-19T10:03:40+00:00",
+   "title_ja": "スウェーデンの死前整理を通じた片づけ術",
+   "summary_ja": "家族に負担を残さないための思慮深い片づけ方法として、スウェーデンの死前整理という穏やかな手法を紹介している海外の記事です。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -7099,229 +7303,6 @@
     "服"
    ],
    "importance": 3
-  },
-  {
-   "id": "85210f4def5586ea",
-   "url": "https://note.com/rosy_wolf2732/n/nfbeec4c75f22",
-   "title_original": "ミニマリストとお気遣い。",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/313406456/rectangle_large_type_2_5e192842415cc8d06ff7aa918a0dbae6.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-13T14:37:58+00:00",
-   "title_ja": "ミニマリストを目指して検索したこと",
-   "summary_ja": "丁寧な暮らしに憧れてミニマリストを目指す中で、ネット検索をすると「人間関係もシンプルに」という教えに出会った戸惑いと、理想の生活へ向けた道のりをコミカルに描いている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "6589fd5764ee07a6",
-   "url": "https://note.com/loyal_daisy6450/n/n482b31207b47",
-   "title_original": "断捨離 写真の整理",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/313409158/rectangle_large_type_2_f51bbace97c9246b16eb8be377481f44.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-13T14:35:20+00:00",
-   "title_ja": "実家の帰省で行った写真の断捨離",
-   "summary_ja": "実家の帰省を機に、家族のアルバムや大量の写真の断捨離を手伝った。自分や兄弟だけでなく、親戚の叔父や叔母の写真まで保管されていた実家ならではの整理の様子を語る。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "アルバム",
-    "写真"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f4afe301cbba012c",
-   "url": "https://note.com/daichi_sozoroism/n/n6eb1916df999",
-   "title_original": "【エッセイ】ミニマリストなのに、多趣味です。",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/313396269/rectangle_large_type_2_c321fe460d7d7215b2b53cb9349cb1c9.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-13T14:18:19+00:00",
-   "title_ja": "多趣味でもデスクの上をシンプルに保つ持ち物",
-   "summary_ja": "多趣味でありながら、机の上にはMacBookとスマートフォン、多機能電源アダプターのみを置いている。本棚には厳選したアート関係の本を数冊だけ並べるミニマルな空間。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "MacBook",
-    "スマホ",
-    "電源アダプター",
-    "本"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "29eb4e1c704e1d56",
-   "url": "https://note.com/shizuku_shiizuka/n/n6dedf4619dc6",
-   "title_original": "【楽して断捨離】駿河屋で約3ヶ月かけてグッズ処分したら約5万円になった話",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/313231892/rectangle_large_type_2_970db783e9674c4d1e5a2f01e812ac10.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-13T14:16:45+00:00",
-   "title_ja": "メルカリの手間を避け、駿河屋でグッズを処分した話",
-   "summary_ja": "推し活の終了に伴い、部屋を埋め尽くしていたグッズを約3ヶ月かけて駿河屋で処分した体験談。フリマアプリでの出品や梱包、発送の手間をかけたくない人に向けて、グッズを手放す方法の一つとして参考になる内容です。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "梱包材",
-    "段ボール"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c111bee93f276f84",
-   "url": "https://note.com/vast_moraea6192/n/na11e990e10cf",
-   "title_original": "収納グッズを3割減らしたら、なぜか片付く部屋になった",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/313398849/rectangle_large_type_2_39ef1f43d8db0f7a479b94a843de869c.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-13T14:03:18+00:00",
-   "title_ja": "収納グッズを3割減らしたら片付く部屋になった話",
-   "summary_ja": "収納を増やしても物が増えるだけで部屋が片付かなかった経験から、収納グッズを3割減らしたことで部屋が整うようになった仕組みを紹介。書棚の買い足しによる失敗や、物を増やさないための考え方の変化が語られています。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "書棚",
-    "紙袋",
-    "空き箱"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "8f3aef052cceb162",
-   "url": "https://www.realsimple.com/questions-to-ask-when-decluttering-wardrobe-12070270",
-   "title_original": "7 Questions to Ask Yourself Before You Start Decluttering Your Closet",
-   "source": "Real Simple",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-13T13:30:00+00:00",
-   "title_ja": "クローゼットの片づけ前に自分に問いかけるべき7つの質問",
-   "summary_ja": "クローゼットの整理を始める前に、自分自身に問いかけるべき7つの質問を紹介する。不要な服を手放す基準や、本当に必要なものを見極めるための考え方を事前に整理することで、クローゼットの片づけをスムーズに進めるコツを解説。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "クローゼット"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ca4b2403232c66d4",
-   "url": "https://www.lifehacker.jp/article/2609-lht-smartphone-accessory",
-   "title_original": "荷物のミニマル化が加速する、マルチタスク派なスマホアクセサリー3選",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/11/7fd04be1-489a-403f-bbd0-b4535adbf173/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-13T13:15:00+00:00",
-   "title_ja": "荷物のミニマル化を叶えるスマホアクセサリー3選",
-   "summary_ja": "荷物をすっきりとさせたいマルチタスク派に向けて、持ち物を減らすのに役立つおすすめのスマートフォンアクセサリーを3つ厳選して紹介しています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "スマホアクセサリー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f861cd98327d83cb",
-   "url": "https://www.lifehacker.jp/article/2609-orca-echo-2days-left-hiu",
-   "title_original": "スマホとも相性バツグンな左右分割キーボード「Orca echo」、先行販売は残り2日",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/07/ba497cf3-e4e6-49d7-b467-4783c6ad67f5/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-13T12:45:00+00:00",
-   "title_ja": "左右分割キーボード Orca echo がモバイル入力を快適に",
-   "summary_ja": "スマホやタブレットで文字入力を自然な姿勢で行える左右分割キーボード「Orca echo」を紹介。デバイスの置き方を工夫し、視認性と姿勢改善を実現する新しいモバイルワークスペースの提案だ。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "Orca echo"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "42d461ec5cfec1ce",
-   "url": "https://note.com/sutekatsu_etsuko/n/n3f8ca506cbaa",
-   "title_original": "【人生大好転】物を捨てたらやるべき１つの超重要な事をお伝えします",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/312235982/rectangle_large_type_2_3a83d07ff7f8a835bee8cc1ec59c35d9.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-13T12:18:03+00:00",
-   "title_ja": "物を捨てた後にやるべき重要なことを紹介",
-   "summary_ja": "捨て活で生活を変えた筆者が、不要なものを手放した後にすぐ実践すべき最重要アクションを具体例と共に紹介。新たな習慣を取り入れることで、さらに人生が好転する方法を提示している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "d1ec96a1f3f91e97",
-   "url": "https://www.lifehacker.jp/article/2609-5-android-camera-features-you-can-only-use-on-a-foldable-phone-bxq",
-   "title_original": "私が「折りたたみ」を使い続ける理由。カメラだけで5つも語るポイントがある",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/01/30/715ce6b8-915b-45af-8968-efedbe3689e6/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-13T12:00:00+00:00",
-   "title_ja": "折りたたみスマホのカメラ機能を使いこなす理由",
-   "summary_ja": "折りたたみスマホならではのカメラ機能について解説。ビデオカメラモードやフレックスモードを活用して、撮影を楽しむポイントを紹介している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "スマホ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2073373d53031a62",
-   "url": "https://www.roomie.jp/2026/09/1882456",
-   "title_original": "「手帳時間」をすぐ始められるように。無印良品の新作ペンケースで、文具ポーチをアップデートしてみた",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/IMG_8933-scaled.jpeg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-13T11:30:37+00:00",
-   "title_ja": "無印ペンケースで文具整理、見直しのポイント",
-   "summary_ja": "無印良品のコレクションケースを文具ポーチとして活用したが、付箋やのりだけでもケース全体を取り出す不便さや厚み増加に気づき、収納内容を見直すきっかけとなった。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "無印良品 コレクションケース",
-    "付箋",
-    "のり",
-    "ペン"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "cf5bdc10338ef7bd",
-   "url": "https://note.com/cozy_cobra8010/n/n9679eb39f0e0",
-   "title_original": "捨てる前に確認したい。家に眠っている「意外と売れるもの」5選",
-   "source": "note #断捨離",
-   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/ea273329df1dc121d449ae483467073c23f214aa.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-13T11:16:16+00:00",
-   "title_ja": "捨てる前に確認したい、家に眠る不用品や古いスマホを売る選択肢",
-   "summary_ja": "家の片付けで不要になったものを単に捨てるのではなく、価値がないか調べる視点を提案。引き出しに眠りがちな古いスマートフォンや処分に困るパソコンなど、宅配買取などを活用して賢く手放す方法を紹介している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "スマートフォン",
-    "パソコン"
-   ],
-   "importance": 2
   }
  ]
 }
