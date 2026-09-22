@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-23T01:35:12.884905+09:00",
+ "updated_at": "2026-09-23T06:03:17.495871+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -33,11 +33,11 @@
   },
   {
    "name": "本",
-   "count": 7
+   "count": 8
   },
   {
    "name": "スマホ",
-   "count": 5
+   "count": 6
   },
   {
    "name": "バッグ",
@@ -239,6 +239,97 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "a704fdc64a8b83eb",
+   "url": "https://note.com/eristyle/n/n0923631223c7",
+   "title_original": "携帯電話のリサイクル リネットジャパンさんの宅配回収",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/316475919/rectangle_large_type_2_6ec67d125d963fa6c3a03315a82510a7.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-22T20:55:02+00:00",
+   "title_ja": "宅配回収を利用して携帯電話を処分した人の話",
+   "summary_ja": "データ消去証明書付きの宅配回収サービスを利用し、使わなくなった携帯電話などの小型家電をまとめて処分しました。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "携帯電話",
+    "パソコン",
+    "スピーカー",
+    "電子レンジ"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "27cdc177dec9f51b",
+   "url": "https://note.com/mami_okatazuke/n/n17f33a79a771",
+   "title_original": "第５回「収納が足りない」と思ったときに読んでほしい― 収納用品を買う前に、見直すべきこと",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/310038456/rectangle_large_type_2_544528e8bc8b00a5e00789bfdc8cf632.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-22T20:30:35+00:00",
+   "title_ja": "収納が足りないと感じたときに見直すこと",
+   "summary_ja": "収納が少ないから片付かないと感じている人に向けて、収納用品を買う前に本当に見直すべきことについて考えています。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "f6b8b3f40ebbadf9",
+   "url": "https://note.com/quick_llama6036/n/n3533f96e4921",
+   "title_original": "キーマカレー",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/316215766/rectangle_large_type_2_b309820927384cc493912d4e14d10bd5.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-22T20:28:08+00:00",
+   "title_ja": "秋物の衣類を整理してクローゼットを整えた話",
+   "summary_ja": "秋物の衣類を整理したところ多くの不要なものが見つかり、必要なものだけに囲まれる暮らしを目指して断捨離を行いました。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "秋物の衣類"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "f57f36eeecec1b7c",
+   "url": "https://note.com/mainichi_3ko/n/n37eb5a5d38c7",
+   "title_original": "抑揚（よくよう）",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/316488566/rectangle_large_type_2_a1fb3d45275ec06cd5fc49c66f639637.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-22T19:05:26+00:00",
+   "title_ja": "毎日3つ捨てるを続ける中で気づいた古本の基準",
+   "summary_ja": "毎日3つ捨てる実践の中で、古い本を手放しながら物の古さや新しいという感覚の相対性に気づいた人の記録です。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "本"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "30b2cd781e1148c1",
+   "url": "https://note.com/tateching/n/n62920b174fec",
+   "title_original": "【雑記】スマホは悪くない。わたしの脳に余白がないだけだ。",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/316484757/rectangle_large_type_2_bb238d586bf848db103a10b16a3314e6.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-22T18:12:13+00:00",
+   "title_ja": "スマホは悪くない、脳に余白を作るデジタルデトックス",
+   "summary_ja": "情報過多な状態から抜け出すために、デジタル機器やメディアから意識的に離れるデジタルデトックスの必要性について綴っています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "スマホ"
+   ],
+   "importance": 3
+  },
   {
    "id": "b27b40e7330315bc",
    "url": "https://www.yahoo.com/lifestyle/articles/14-things-declutter-bedroom-now-160000900.html",
@@ -7155,86 +7246,6 @@
    "title_ja": "ノアの方舟から考える究極のミニマリズムについての考察",
    "summary_ja": "旧約聖書の「ノアの方舟」の物語を引き合いに出し、大洪水に備えて真に必要なものだけを選ぶ姿勢がミニマリズムに通ずるのかを考察している記事。極限状態における物の選択や人間の思考法について問いかけている。",
    "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "51551d0006c27d91",
-   "url": "https://note.com/ciroha/n/nc1eaf66fa5d5",
-   "title_original": "使わなくなったもの",
-   "source": "note #断捨離",
-   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/27cae76679f21d09464fd1500a05d7b93b0850af.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-16T15:17:08+00:00",
-   "title_ja": "使わなくなった物と定期的に向き合い残す基準を決める片づけのコツ",
-   "summary_ja": "失ったら心が痛むほど大切なものは手元に残し、判断を後回しにしてきた使わない物と向き合う大切さを説く記事。数ヶ月ごとに自分へ問い直しを重ねることで、自分にとって本当に必要なものを見極める方法を提案している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "279d899aeb466ac2",
-   "url": "https://note.com/yuiyui0707/n/ne6bbf87a6758",
-   "title_original": "旅行の荷物を半分にしたら快適だった｜結局使わなかったもの10選",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/314423273/rectangle_large_type_2_e0393d6ea31d1c5e1c449f1c23c71b33.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-16T15:07:53+00:00",
-   "title_ja": "旅行の荷物を半分に減らして快適になった体験と使わなかったもの",
-   "summary_ja": "旅行時の荷物を半分に減らしたことで快適に過ごせた体験談。事前準備でつい詰め込みすぎてしまい、実際の旅行中には一度も使わなかった10個のアイテムや、次回から荷物を減らすための工夫について綴っている。",
-   "category": "旅・持ち歩き",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "2dea48be3354cff3",
-   "url": "https://financebuzz.com/news/dollar-tree-organizing-decluttering-finds",
-   "title_original": "10 Dollar Tree Organizing Finds Experts Use to Declutter Their Space",
-   "source": "FinanceBuzz",
-   "image": "https://cdn.financebuzz.com/images/2026/09/15/16776-dollar-tree-organizing-finds-featured-image.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-16T15:00:00+00:00",
-   "title_ja": "専門家が部屋の整理整頓に活用するダラー・ツリーの収納グッズ10選",
-   "summary_ja": "部屋の散らかりを解消して空間をすっきり整えるために、整理収納の専門家が実際に利用しているダラー・ツリーの収納アイテム10選を紹介する記事。手ごろな価格の道具を活用した片づけのアイデアをまとめている。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "6c3fb917b2428d2e",
-   "url": "https://note.com/lucky_kaiunlife/n/nd6d7b6c2d5d6",
-   "title_original": "【1Step】断捨離で家も心も整えよう",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/313065118/rectangle_large_type_2_6135dd155e3ff4d6f983c173a90ab3ad.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-16T14:51:47+00:00",
-   "title_ja": "断捨離の第一歩から家と心を整える方法",
-   "summary_ja": "開運の第一歩として断捨離を取り上げ、家と心をすっきりと整えていくための実践の始まりについて綴ったブログ記事。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "cbeb8444d74453d1",
-   "url": "https://note.com/merry_pothos6841/n/n4f1b398527b6",
-   "title_original": "片付けを続けたら家計は変わるのか｜振り返り☆7か月目",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/311557608/rectangle_large_type_2_3fdd5459fb277810bfb65edf15ad9c12.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-16T14:38:34+00:00",
-   "title_ja": "片付けを始めて7ヶ月、日々の変化を振り返る",
-   "summary_ja": "片付けを始めてから7ヶ月、200日を超えても続く試行錯誤の様子を記録。ベランダの掃除などを通して足踏みしながらも向き合う暮らしの記録。",
-   "category": "暮らしの実例",
    "axis": "reduce",
    "things": [],
    "importance": 2
