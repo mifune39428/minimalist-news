@@ -105,6 +105,33 @@
   .lead {
     font-size: 12.5px; color: var(--muted); margin: 0 0 12px;
   }
+
+  /* ここ数日の傾向。一覧を読み始める前に、いま何が語られているかを渡す。 */
+  .digest {
+    background: var(--card); border: 1px solid var(--line);
+    border-radius: 16px; padding: 14px 17px; margin-bottom: 14px;
+  }
+  .dHead { display: flex; align-items: baseline; gap: 10px; }
+  .dHead h2 { font-size: 14px; font-weight: 700; margin: 0; letter-spacing: 0; }
+  .dToggle {
+    margin-left: auto; border: 0; background: transparent; cursor: pointer;
+    font: inherit; font-size: 11.5px; color: var(--muted); padding: 2px 0;
+  }
+  .dLead { font-size: 13.5px; margin: 8px 0 0; line-height: 1.6; }
+  .dPoints { list-style: none; margin: 10px 0 0; padding: 0; }
+  .dPoints li {
+    font-size: 12px; line-height: 1.55; color: var(--text); opacity: .88;
+    padding: 6px 0 0; border-top: 1px solid var(--line); margin-top: 6px;
+  }
+  .dPoints li:first-child { border-top: 0; margin-top: 0; padding-top: 0; }
+  .dPoints b { display: block; font-size: 12.5px; opacity: 1; }
+  .dKeys { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 11px; }
+  .dKey {
+    border: 1px solid var(--line); border-radius: 999px;
+    padding: 2px 10px; font-size: 11.5px; color: var(--accent);
+    background: transparent; font-family: inherit; font-size: 11.5px; cursor: pointer;
+  }
+  .dMeta { font-size: 11px; color: var(--muted); margin: 10px 0 0; }
   .search {
     width: 100%; margin-bottom: 14px;
     background: var(--card); color: var(--text);
@@ -201,6 +228,13 @@
 </header>
 
 <main>
+  <section class="digest" id="digest" hidden>
+    <div class="dHead">
+      <h2>ここ数日の傾向</h2>
+      <button class="dToggle" id="digestToggle" aria-expanded="true">たたむ</button>
+    </div>
+    <div id="digestBody"></div>
+  </section>
   <p class="lead" id="lead"></p>
   <input class="search" id="search" type="search" placeholder="キーワードで絞り込む（例: 服、キッチン、リュック）" autocomplete="off">
   <div id="list"><p class="loading">読み込み中…</p></div>
@@ -209,6 +243,7 @@
 
 <footer>
   <p>海外・国内の個人ブログ、ニュース、YouTube、X を自動で集め、見出しと要約を機械生成しています。要約は原文の全訳ではありません。詳しい内容は必ず出典元をご確認ください。</p>
+  <p>「ここ数日の傾向」は、直近に集まった記事の要約だけを材料に機械がまとめたものです。集めた範囲の中での傾向であって、世の中全体の統計ではありません。</p>
   <p>「🍃 減らし方」は物を手放す方法や考え方、「🎒 持ち物」は減らしたうえで実際に使っている物の話です。振り分けも自動なので、時々ずれることがあります。</p>
   <p>海外の記事は「🌐 日本語で読む」から Google 翻訳を通したページが開きます。翻訳は Google によるもので、当サイトが訳したものではありません。翻訳を受け付けない媒体もあるので、その場合は隣の「原文」からお読みください。</p>
   <p>記事に出てくる持ち物の名前は、要約の際に本文から拾ったものです。商品名や仕様は出典元でご確認ください。</p>
@@ -393,6 +428,60 @@ function buildAll(categories, mediaKinds, regions) {
 
 let meta = { categories: [], media_kinds: [], regions: [] };
 
+// ---- ここ数日の傾向 --------------------------------------------------------
+// 収集のたびに collect.py が作り直して articles.json に入れてくる。
+let digest = null;
+// たたんだかどうかは端末ごとの好みなので localStorage に置く。
+// 同じドメインに6サイトあるので、キーにサイト名を入れて混ざらないようにする。
+const DIGEST_KEY = "minimalist-news:digest-open";
+
+function digestOpen() {
+  try { return localStorage.getItem(DIGEST_KEY) !== "0"; } catch (err) { return true; }
+}
+
+function renderDigest() {
+  const box = document.getElementById("digest");
+  if (!digest || !digest.overview) { box.hidden = true; return; }
+  box.hidden = false;
+
+  const open = digestOpen();
+  const toggle = document.getElementById("digestToggle");
+  toggle.textContent = open ? "たたむ" : "ひらく";
+  toggle.setAttribute("aria-expanded", String(open));
+  const body = document.getElementById("digestBody");
+  if (!open) { body.innerHTML = ""; return; }
+
+  // 開いているタブに合わせて一文目を差し替える。軸ごとの一言が無ければ全体の話を出す。
+  const lead = (axis === "reduce" && digest.reduce) || (axis === "own" && digest.own) || digest.overview;
+  const points = (digest.points || []).map(p =>
+    `<li><b>${escapeHtml(p.title)}</b>${escapeHtml(p.body)}</li>`).join("");
+  const keys = (digest.keywords || []).map(k =>
+    `<button class="dKey" data-key="${escapeHtml(k)}">${escapeHtml(k)}</button>`).join("");
+  const counts = digest.reduce_count != null
+    ? `（🍃 減らし方 ${digest.reduce_count} ・ 🎒 持ち物 ${digest.own_count}）` : "";
+
+  body.innerHTML = `
+    <p class="dLead">${escapeHtml(lead)}</p>
+    ${points ? `<ul class="dPoints">${points}</ul>` : ""}
+    ${keys ? `<div class="dKeys">${keys}</div>` : ""}
+    <p class="dMeta">${escapeHtml(digest.period || "")}に集まった${digest.count}件から${counts}</p>`;
+}
+
+document.getElementById("digestToggle").addEventListener("click", () => {
+  try { localStorage.setItem(DIGEST_KEY, digestOpen() ? "0" : "1"); } catch (err) { /* 使えなくても動く */ }
+  renderDigest();
+});
+
+// キーワードを押したら、その言葉で一覧を絞り込む。
+document.getElementById("digest").addEventListener("click", e => {
+  const btn = e.target.closest("[data-key]");
+  if (!btn) return;
+  const box = document.getElementById("search");
+  box.value = btn.dataset.key;
+  query = box.value;
+  apply();
+});
+
 // チップは読み込みのたびに作り直すので、クリックは親側で1度だけ受ける。
 function chipHandler(attr, setValue) {
   return e => {
@@ -411,6 +500,7 @@ document.getElementById("axisTabs").addEventListener("click", e => {
   e.currentTarget.querySelectorAll("button").forEach(c => c.setAttribute("aria-pressed", String(c === btn)));
   // 軸が変わると使える絞り込みも変わるので、チップを作り直す。
   buildAll(meta.categories, meta.media_kinds, meta.regions);
+  renderDigest();
   apply();
 });
 document.getElementById("mediaFilters").addEventListener("click", chipHandler("media", v => { media = v; }));
@@ -460,6 +550,8 @@ async function load() {
     };
     document.getElementById("updated").textContent = data.updated_at ? `更新 ${relative(data.updated_at)}` : "";
     document.getElementById("sources").textContent = "収集元: " + (data.sources || []).join("、");
+    digest = data.digest || null;
+    renderDigest();
     buildAll(meta.categories, meta.media_kinds, meta.regions);
     apply();
   } catch (err) {

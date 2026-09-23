@@ -57,6 +57,12 @@ MAX_NEW_PER_RUN = 40
 OWN_QUOTA = 12
 # 1回の実行で、過去の記事のサムネイルを取りに行く件数の上限。
 BACKFILL_PER_RUN = 30
+# トップに出す「ここ数日の傾向」が見る期間と、まとめに渡す記事数の上限。
+DIGEST_DAYS = 3
+DIGEST_MAX_ITEMS = 45
+# これを下回る件数しか無いときは傾向をまとめ直さず、前回のものを残す
+# （2〜3件から「傾向」を語らせると、記事1本の紹介文にしかならない）。
+DIGEST_MIN_ITEMS = 5
 # nitter は連続で叩くと弾かれる。slow 指定のフィードはこの間隔をあけて順番に取る。
 SLOW_FEED_INTERVAL = 12
 SLOW_FEED_RETRIES = 2
@@ -851,6 +857,140 @@ def to_public(item: dict) -> dict:
 
 
 # --------------------------------------------------------------------------
+# ここ数日の傾向（トップに出すまとめ）
+# --------------------------------------------------------------------------
+
+DIGEST_PROMPT_TEMPLATE = """あなたは「ミニマリスト」をテーマにした日本語のニュースサイトの編集者です。
+{period}に集まった{count}件の記事の見出しと要約を渡します。
+読者が一覧を読み始める前に「いま何が語られているか」をつかめる短いまとめを書いてください。
+
+厳守すること:
+- 渡した記事に書かれていることだけを使う。外の知識で補わない。
+- 件数を書くときは、渡した記事を数えた実際の数だけを書く。それらしい数字を作らない。
+- 「〜が話題です」で終わらせない。何がどう語られているかまで具体的に書く。
+  例えば「収納の話が多い」ではなく「収納を増やす前に持ち物を見直す、という順番の話が多い」。
+- overview: 全体の傾向を日本語で80〜140文字。1〜2文。
+- reduce: 「減らし方」に分類された記事だけを見た傾向を40〜70文字で1文。
+  該当する記事が無ければ空文字。
+- own: 「持ち物」に分類された記事だけを見た傾向を40〜70文字で1文。
+  該当する記事が無ければ空文字。
+- points: 3〜4個。渡した記事の中で複数の書き手が触れている話題や、
+  目を引いた具体例を拾う。それぞれ次の形。
+    title = 14文字以内の短い見出し（体言止め）
+    body  = 50〜90文字。誰がどう言っているかを具体的に書く。
+  同じことを言い換えただけの項目を並べない。
+- keywords: 一覧を絞り込むための言葉を4〜6個。
+  **渡した見出しか要約の中に実際に出てくる語**を選ぶ（押すとその語で検索するため、
+  出てこない語を挙げると0件になる）。
+- 出力はJSONオブジェクトのみ。前置き・説明・コードフェンスを付けない。
+
+出力形式:
+{{"overview":"...","reduce":"...","own":"...","points":[{{"title":"...","body":"..."}}],"keywords":["..."]}}
+
+記事一覧:
+{articles}
+"""
+
+
+def build_digest_prompt(items: list[dict], period: str) -> str:
+    lines = []
+    for index, item in enumerate(items, start=1):
+        axis = "減らし方" if item.get("axis") == "reduce" else "持ち物"
+        lines.append(
+            f"[{index}] {axis} / {item.get('category', '')} / {item.get('source', '')}\n"
+            f"  {item.get('title_ja', '')}\n"
+            f"  {item.get('summary_ja', '')[:90]}"
+        )
+    return DIGEST_PROMPT_TEMPLATE.format(
+        period=period,
+        count=len(items),
+        articles="\n".join(lines),
+    )
+
+
+def parse_digest_json(text: str) -> dict:
+    cleaned = re.sub(r"^```(?:json)?\s*|\s*```$", "", text.strip(), flags=re.MULTILINE).strip()
+    start, end = cleaned.find("{"), cleaned.rfind("}")
+    if start == -1 or end == -1:
+        raise llm_providers.ResponseInvalid("JSONオブジェクトが見つかりません")
+    try:
+        data = json.loads(cleaned[start : end + 1])
+    except json.JSONDecodeError as exc:
+        raise llm_providers.ResponseInvalid(f"JSONとして読めません: {exc}") from exc
+    if not isinstance(data, dict) or not str(data.get("overview", "")).strip():
+        raise llm_providers.ResponseInvalid("overview がありません")
+    points = data.get("points")
+    if not isinstance(points, list) or len(points) < 2:
+        raise llm_providers.ResponseInvalid("points が2個未満です")
+    for point in points:
+        if not isinstance(point, dict) or not point.get("title") or not point.get("body"):
+            raise llm_providers.ResponseInvalid("points に title / body が欠けています")
+    return data
+
+
+def make_digest(items: list[dict], previous: dict | None, has_new: bool) -> dict:
+    """直近の記事から「ここ数日の傾向」を作る。
+
+    毎回作り直すと無料枠を余計に使ううえ、新着が無い回は前回と同じ文章になる。
+    新しく載った記事があるときだけ作り直し、それ以外は前回のものをそのまま残す。
+    """
+    now = dt.datetime.now(dt.timezone.utc)
+    recent = [
+        item for item in items
+        if (parse_date(item.get("published", "")) or now) >= now - dt.timedelta(days=DIGEST_DAYS)
+    ]
+    recent = recent[:DIGEST_MAX_ITEMS]
+
+    if len(recent) < DIGEST_MIN_ITEMS:
+        print(f"  直近{DIGEST_DAYS}日の記事が{len(recent)}件しかないため、前回のまとめを残します")
+        return previous or {}
+    if previous and not has_new:
+        print("  新着が無いので、前回のまとめをそのまま使います")
+        return previous
+
+    newest = parse_date(recent[0]["published"]) or now
+    oldest = parse_date(recent[-1]["published"]) or now
+    period = (f"{oldest.astimezone(JST):%-m月%-d日}〜{newest.astimezone(JST):%-m月%-d日}")
+
+    print(f"  直近{DIGEST_DAYS}日の{len(recent)}件から傾向をまとめています …")
+    try:
+        text = llm_providers.generate_text(build_digest_prompt(recent, period),
+                                           validate=parse_digest_json)
+        data = parse_digest_json(text)
+    except llm_providers.LLMError as exc:
+        # まとめは記事一覧の付け足しなので、失敗しても前回のものを出しておく。
+        print(f"  × 傾向のまとめに失敗（前回のものを残します）: {exc}")
+        return previous or {}
+
+    keywords = []
+    # 押しても0件になる言葉を出さないよう、一覧に実際に含まれる語だけ残す。
+    haystack = " ".join(f"{i.get('title_ja', '')} {i.get('summary_ja', '')}" for i in recent)
+    for word in data.get("keywords", []) if isinstance(data.get("keywords"), list) else []:
+        word = re.sub(r"\s+", "", str(word)).strip("「」#・")
+        if word and len(word) <= 12 and word in haystack and word not in keywords:
+            keywords.append(word)
+
+    digest = {
+        "generated_at": now.astimezone(JST).isoformat(),
+        "days": DIGEST_DAYS,
+        "period": period,
+        "count": len(recent),
+        "reduce_count": sum(1 for i in recent if i.get("axis") == "reduce"),
+        "own_count": sum(1 for i in recent if i.get("axis") == "own"),
+        "overview": str(data["overview"]).strip(),
+        "reduce": str(data.get("reduce", "") or "").strip(),
+        "own": str(data.get("own", "") or "").strip(),
+        "points": [
+            {"title": str(p["title"]).strip()[:20], "body": str(p["body"]).strip()}
+            for p in data["points"][:4]
+        ],
+        "keywords": keywords[:6],
+    }
+    print(f"  傾向 {len(digest['points'])}項目 / キーワード {len(keywords)}語")
+    return digest
+
+
+# --------------------------------------------------------------------------
 # 保存
 # --------------------------------------------------------------------------
 
@@ -973,12 +1113,16 @@ def main() -> int:
         if count >= 2
     ][:40]
 
+    print("■ ここ数日の傾向")
+    digest = make_digest(merged, existing.get("digest"), has_new=bool(enriched))
+
     payload = {
         "updated_at": now.astimezone(JST).isoformat(),
         "categories": CATEGORIES,
         "axes": AXES,
         "media_kinds": MEDIA_KINDS,
         "regions": REGIONS,
+        "digest": digest,
         "things": things_ranking,
         "sources": sorted({item["source"] for item in merged}),
         "count": len(merged),
