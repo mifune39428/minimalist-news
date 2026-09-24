@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-24T06:18:10.953253+09:00",
+ "updated_at": "2026-09-24T12:49:10.279279+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,55 +27,56 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-09-24T06:18:36.190132+09:00",
+  "generated_at": "2026-09-24T12:50:15.198782+09:00",
   "days": 3,
   "period": "9月23日〜9月24日",
   "count": 45,
-  "reduce_count": 33,
-  "own_count": 12,
-  "overview": "全体で45件の記事があり、自宅の片付けや不要な物の手放し方、日々の習慣や生活コストの見直しに加え、作業効率を上げるガジェットや自炊などの持ち物に関する工夫が広く語られています。",
-  "reduce": "物を手放す基準や片付けの具体的な実践記録が多く、日記やカメラ、家具などの大きなアイテムから紙ものまで整理を進める様子が語られています。",
-  "own": "作業効率を高めるガジェットや洗濯機周りの便利グッズ、車を持たずに自転車を活用する暮らしやコスメのミニマルな実例が紹介されています。",
+  "reduce_count": 34,
+  "own_count": 11,
+  "overview": "9月23日〜24日の45件の記事では、不要な物や思い出の品を手放す断捨離の実践や、日常の暮らしを整える習慣、効率を高めるガジェットの活用法が幅広く語られています。",
+  "reduce": "壊れた物だけでなく「いつか使うかも」という心理で増えたポーチや服、日記などの手放し方や、生活コスト最適化の工夫が語られています。",
+  "own": "安全性を重視したモバイルバッテリーや作業効率を上げる左手デバイスなど、日々の暮らしや仕事を快適にする便利なアイテムが紹介されています。",
   "points": [
    {
-    "title": "大型家具や思い出の品を手放す",
-    "body": "テレビ台やソファといった大きな家具や、ライカのカメラ、長年続けた日記など、思い入れのある物を手放すことで生活を快適にしたり心と向き合ったりした体験談が語られています。"
+    "title": "手放す判断と基準",
+    "body": "服やバッグだけでなく、過去の日記や結婚指輪まで、様々な思い出の品や「いつか使うかも」と迷う物を手放した具体的な基準や体験が綴られています。"
    },
    {
-    "title": "生活コストの最適化と価値観",
-    "body": "生活費を上げずにミニマムに暮らすメリットや、単なる節約ではなく自分自身の価値観に従って選び取るための手段としてミニマリズムをとらえる考え方が示されています。"
+    "title": "暮らしを整える習慣",
+    "body": "ミニマリストが就寝前の30分以内に行う習慣や、リビングをすっきり保つためのルールを通じて、心と時間を軽くする方法が紹介されています。"
    },
    {
-    "title": "効率化や掃除を楽にする道具",
-    "body": "作業時間の短縮につながる左手デバイスやスマートグラス、洗濯機周りの掃除を簡単にするカバー、低価格で高機能なヘッドホンなど、暮らしを快適にするアイテムが紹介されています。"
+    "title": "効率化するガジェット",
+    "body": "発火事故を防ぐ安全性の高いモバイルバッテリーの選び方や、作業効率を上げる左手デバイスなど、暮らしや仕事を便利にする道具が取り上げられています。"
    }
   ],
   "keywords": [
    "断捨離",
    "ミニマリスト",
    "手放す",
+   "モバイルバッテリー",
    "片付け"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 17
+   "count": 18
   },
   {
    "name": "本",
    "count": 10
   },
   {
-   "name": "スマートフォン",
-   "count": 5
-  },
-  {
    "name": "バッグ",
-   "count": 5
+   "count": 6
   },
   {
    "name": "モバイルバッテリー",
+   "count": 6
+  },
+  {
+   "name": "スマートフォン",
    "count": 5
   },
   {
@@ -91,15 +92,15 @@
    "count": 4
   },
   {
-   "name": "財布",
-   "count": 4
-  },
-  {
    "name": "ノート",
    "count": 3
   },
   {
    "name": "バックパック",
+   "count": 3
+  },
+  {
+   "name": "ポーチ",
    "count": 3
   },
   {
@@ -111,8 +112,20 @@
    "count": 3
   },
   {
+   "name": "財布",
+   "count": 3
+  },
+  {
    "name": "資料",
    "count": 3
+  },
+  {
+   "name": "AirPods",
+   "count": 2
+  },
+  {
+   "name": "Androidスマホ",
+   "count": 2
   },
   {
    "name": "Tシャツ",
@@ -151,15 +164,7 @@
    "count": 2
   },
   {
-   "name": "ポーチ",
-   "count": 2
-  },
-  {
    "name": "リュック",
-   "count": 2
-  },
-  {
-   "name": "レインコート",
    "count": 2
   },
   {
@@ -255,6 +260,7 @@
   "Yahoo",
   "Yahoo Lifestyle Singapore",
   "Yahoo!ニュース",
+  "YouTube",
   "apartmenttherapy.com",
   "canberradaily.com.au",
   "mai minimalism",
@@ -269,7 +275,6 @@
   "people.com",
   "southernliving.com",
   "t3.com",
-  "うにのゆるシンプルな暮らし",
   "ねとらぼ",
   "ぴーこ｜ゆるっとミニマルな日常",
   "やましたひでこ断捨離",
@@ -289,6 +294,243 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "01714fac30da7c84",
+   "url": "https://www.roomie.jp/2026/09/1891741",
+   "title_original": "毎日使うモバイルバッテリーだからこそ。発火リスクの低減と使いやすさを両立した一台",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/mottosmsmb10k3.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-24T03:45:42+00:00",
+   "title_ja": "安全性と使いやすさを重視したモバイルバッテリーの選び方",
+   "summary_ja": "モバイルバッテリーの発火事故が近年増加している。日常的な扱いによる発火を防ぐため、安全性の高い製品を選ぶことの重要性を解説している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "モバイルバッテリー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b227319bd346a865",
+   "url": "https://note.com/meg0815/n/n41c89795429c",
+   "title_original": "50歳までの身軽化計画｜第2回:「いつか使うかも」が、物を増やしていた。",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/316965483/rectangle_large_type_2_d92434c351a7f74fd432762a6bf3e875.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-24T03:32:15+00:00",
+   "title_ja": "「いつか使うかも」という心理が物を増やしていた話",
+   "summary_ja": "家の中の物を減らす際、壊れた物や使い切った物はすぐ手放せるものの、「いつか使うかも」と思う物の判断に迷い、物が増えてしまう悩みを語っている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "f5c0e11fedd15d2d",
+   "url": "https://note.com/natuko_reform/n/n849ead60bb43",
+   "title_original": "それでも、捨てられない物",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/316776823/rectangle_large_type_2_689bd89bcadcf5f6371dece27c42379e.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-24T03:22:42+00:00",
+   "title_ja": "リフォームで手放した服・バッグ・本・指輪",
+   "summary_ja": "リフォームを機に服やバッグ、料理本を処分し、結婚指輪まで売却した。手放す基準や実際の捨て方が具体的に紹介されている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "服",
+    "バッグ",
+    "料理本",
+    "結婚指輪"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "2fbedca1a9499f60",
+   "url": "https://note.com/kurage_simple/n/n4e49a45fdb27",
+   "title_original": "サインが現れたら、手放し時です",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/316962262/rectangle_large_type_2_9379706f25f8b7a6773b22f8042f815c.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-24T03:05:47+00:00",
+   "title_ja": "サインが現れたら手放すタイミング",
+   "summary_ja": "日常で問題が続くときは、抱えているものが多すぎるサインと捉え、手放すタイミングを見極めるという考え方を提案している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "c8d9159c613bdc25",
+   "url": "https://www.lifehacker.jp/article/2609-hacks-every-airpods-user-should-know",
+   "title_original": "AirPodsは「再設定」で化ける。毎日の通勤や仕事がラクになる10個のハック",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/02/05/d8959e73-e4b5-40d7-830f-57ed03767405/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-24T03:00:00+00:00",
+   "title_ja": "AirPodsの再設定で便利にする10のハック",
+   "summary_ja": "AirPodsの隠れた設定や機能10選を解説し、再設定で通勤や仕事中の操作を簡略化するハックを提供している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "AirPods"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "9f96bb49fcc18374",
+   "url": "https://note.com/toto_minimal/n/n9d0d1111b8c9",
+   "title_original": "手取り30万円台・ボーナスなしで4年1,000万円貯めたわたしが「やらない」と決めた節約術8つ",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/315438486/rectangle_large_type_2_4bf9b2969cb9cd191a4c9e67d5299440.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-24T02:58:27+00:00",
+   "title_ja": "手取り30万円で4年1,000万円貯めた人が選んだ8つの節約術",
+   "summary_ja": "手取り30万円でボーナスなしでも4年で1,000万円貯めた筆者が、実践した「やらない」節約術を8つ具体的に紹介し、無駄な支出を減らす方法を示す。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "e070ed15f936352a",
+   "url": "https://www.lifehacker.jp/article/2609-reuse-old-android-smartphone-apps",
+   "title_original": "使わなくなった古いAndroidを「使えるスマホ」に変える4つのアプリ",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/04/25/bfe883f8-d74d-4711-9fcf-3475e0a0834e/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-24T02:00:00+00:00",
+   "title_ja": "古いAndroidスマホを別の用途で活用する方法",
+   "summary_ja": "引き出しに眠っている古いAndroid端末をスマートホームの操作や防犯対策などの専用デバイスとして再利用するための4つのアプリと活用法を紹介しています。",
+   "category": "道具・ガジェット",
+   "axis": "reduce",
+   "things": [
+    "Androidスマホ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "6e4d373ff3d984e8",
+   "url": "https://note.com/yuruka_kurashi/n/n0ec9f17d2ff4",
+   "title_original": "ポーチが、なぜか増えてしまう理由",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/316457379/rectangle_large_type_2_0d269f8a1c0271e35dae60868b4e9023.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-24T01:07:16+00:00",
+   "title_ja": "なぜかポーチが増えてしまう理由",
+   "summary_ja": "自分でも気づかないうちに多くのポーチを所有してしまっていたことに気づいた人の話。気づけばモノが増えている原因や、持ち物の見直しを考えるきっかけになる内容。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "ポーチ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "2ad3ee6eb7751646",
+   "url": "https://www.thespruce.com/things-minimalists-do-before-bed-12126275",
+   "title_original": "6 Things Minimalists Always Do Before Bed to Keep Their Homes Tidy—and They Take Less Than 30 Minutes",
+   "source": "The Spruce",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-24T00:20:00+00:00",
+   "title_ja": "ミニマリストが寝る前に家を整える習慣",
+   "summary_ja": "ミニマリストが家をすっきりと保つために、就寝前の30分以内に必ず行っている6つの習慣について解説している。日々の暮らしを整えるための具体的な行動を知ることができる。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "741ab46ea5c11711",
+   "url": "https://minimalist-fudeko.com/hidden-clutter-6-types",
+   "title_original": "もう捨てるものがない、と思っても家に必ず残っているガラクタ6種類",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/08/sorting-clothes.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-24T00:10:56+00:00",
+   "title_ja": "もう捨てるものがないと思っても残るガラクタ6種",
+   "summary_ja": "一通り捨てた後でも家の中に残りがちな、壊れておらず使えそうな6種類のガラクタについて解説。まだ使えるという理由で残しがちな物を手放すためのヒントが書かれている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "71dc8008827b2cf5",
+   "url": "https://www.lifehacker.jp/article/2609how-to-prevent-dust-in-home-usg",
+   "title_original": "部屋のホコリ対策に。我が家が実践している掃除の工夫4つ",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/09/14/04e2f3d2-a280-42f5-a3f1-2c8055b86f80/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-24T00:00:00+00:00",
+   "title_ja": "部屋のホコリを減らす4つの掃除工夫",
+   "summary_ja": "著者が実践する、ホコリがたまりにくくなる掃除方法を4つ紹介。定期的な拭き取りや換気など、手間を減らすコツが具体的に示されている。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "478c4b9dca002710",
+   "url": "https://bemorewithless.com/simplify-life/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
+   "title_original": "7 Lovely Little Hacks to Simplify Life",
+   "source": "Be More with Less",
+   "image": "https://bemorewithless.com/wp-content/uploads/2026/09/simplify-life-image-1.png",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-09-23T23:46:54+00:00",
+   "title_ja": "シンプル生活のための7つの小技",
+   "summary_ja": "日常の中で実践できる7つのシンプル化ハックを紹介。余計なものにとらわれず、心と時間を軽くする具体的な方法が示されている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "1bf6714b18640059",
+   "url": "https://news.livedoor.com/topics/detail/32395151",
+   "title_original": "物がないリビング。キープするための家族の片付けルールは【ミニマリストの暮らし】 (2026年9月24日掲載)",
+   "source": "news.livedoor.com",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-23T22:00:01+00:00",
+   "title_ja": "家族で実践するリビング片付けルールとは",
+   "summary_ja": "リビングを常にすっきり保つために、家族全員が守るべき片付けルールを紹介。不要なものを置かない基準や整理の手順が示されている。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "3e8c76c9d49ce7e7",
+   "url": "https://note.com/tomi_sense/n/n7d38ea50e470",
+   "title_original": "「わたしはミニマリストになる」と決意して、3ヶ月でガチャガチャに魂を救われた話",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/314286351/rectangle_large_type_2_9485a84899fefaedac27aa848511e1da.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-23T21:53:10+00:00",
+   "title_ja": "ミニマリスト宣言から3ヶ月で得た気づき",
+   "summary_ja": "地方営業の独身男性がミニマリストになる決意をし、3か月で生活を見直す過程と、ガチャガチャへの執着から解放された体験を語る。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "0be1a9bff37f7b77",
    "url": "https://note.com/kagura_nichibu/n/n8731a9090762",
@@ -390,6 +632,22 @@
     "エリナ健康パワーの奇跡",
     "事務がわかる事典"
    ],
+   "importance": 3
+  },
+  {
+   "id": "aa6e45baa9d9524a",
+   "url": "https://youtu.be/ftUWrLfsbzc?is=c0i7Gbj4aCZfJFGw",
+   "title_original": "My Favorite Packable Bags",
+   "source": "YouTube",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-23T20:13:49+00:00",
+   "title_ja": "持ち運び便利な折りたたみバッグベスト5",
+   "summary_ja": "旅行や日常で活躍する、軽量でコンパクトに収納できる折りたたみバッグを5点紹介。各バッグのサイズ感や収納方法を解説。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [],
    "importance": 3
   },
   {
@@ -2237,7 +2495,7 @@
    "url": "https://www.openpr.com/news/4638350/voyge-travel-backpack-review-is-voyge-worth-buying-or-just-hype",
    "title_original": "Voyge Travel Backpack Review: Is Voyge Worth Buying Or Just Hype?",
    "source": "openPR.com",
-   "image": "",
+   "image": "https://cdn.open-pr.com/L/9/L921457241_g.jpg",
    "media": "news",
    "region": "海外",
    "published": "2026-09-22T12:47:31+00:00",
@@ -7032,271 +7290,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 1
-  },
-  {
-   "id": "e985d9a55945e923",
-   "url": "https://www.thespruce.com/unused-corners-in-your-home-for-storage-12063113",
-   "title_original": "10 Unused Corners in Your Home That Could Be Storage Goldmines—and How to Make the Most of Every Inch",
-   "source": "The Spruce",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-18T10:41:00+00:00",
-   "title_ja": "家の中で見落としがちな10のデッドスペース活用術",
-   "summary_ja": "自宅の中で普段使われていない10のコーナーを見直し、収納スペースとして最大限に活用する方法について解説している。家の中のデッドスペースを有効活用することで、暮らしのスペースをすっきりと整えるアイデアが分かる。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "7e3596cbb41cb082",
-   "url": "https://www.roomie.jp/2026/09/1877579",
-   "title_original": "体が硬い私のシャワータイムが快適に！ 無印良品の「のびのびボディーネット」をリピ買いしてます",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/2026_0910_la2-2.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-18T10:30:28+00:00",
-   "title_ja": "体が硬い人の入浴を快適にする無印良品のネット",
-   "summary_ja": "体が硬い人でもシャワータイムを快適に過ごせる、無印良品の「のびのびボディーネット」を紹介。泡立ちが良く、長年愛用してリピート買いするほどお気に入りのバスグッズとして、その使い心地や魅力を伝えている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "のびのびボディーネット"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "3f5bd107297bed85",
-   "url": "https://www.lifehacker.jp/article/2609-yamazen-slacks-hanger-sale",
-   "title_original": "山善のスライド式ハンガーで、「あの1本どこだっけ？」が消える",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/18/5f84a31c-eefa-4004-b541-09e2f2cf6489/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-18T10:30:00+00:00",
-   "title_ja": "山善のハンガーでスラックスを見やすく整理する方法",
-   "summary_ja": "ボトムスを重ねて収納する際の見つけにくさを解消する、山善の「スラックスハンガー」を紹介。スラックスなどの衣類をまとめて見渡しやすく整理でき、クローゼットをすっきりと効率的に活用するのに役立つ。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "スラックスハンガー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "74b4b81049d563ca",
-   "url": "https://note.com/easy_sorrel824/n/ndeff908c6044",
-   "title_original": "断捨離",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/314850209/rectangle_large_type_2_0ebf830d7f331ce0428539ebd2dc4e92.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-18T10:17:13+00:00",
-   "title_ja": "休職中に断捨離をして身軽な再出発を目指す人の話",
-   "summary_ja": "休職中の時間を活用し、寒くなる前の動きやすい季節に断捨離をしたいと考える人の話。今年前半の立ち止まる日々を経て、これからの先を決めていくために、身軽になって荷物を減らし、再び前を向いて歩き出せるように部屋を見渡している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "9400a82b2819beac",
-   "url": "https://note.com/ohedo_matagi/n/n8525a2ec94a0",
-   "title_original": "我が家に ゴミ箱が点在しない理由",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/314965455/rectangle_large_type_2_54a21e6434d405b820b805042ff1bf42.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-18T10:00:35+00:00",
-   "title_ja": "家の中にゴミ箱を置かない選択をした人の話",
-   "summary_ja": "自宅にゴミ箱を点在させず、基本的には置いていないという人の話。家の中にゴミ箱がない状態を作ることで、ゴミの管理や部屋の美観をどのように保っているのか、ミニマルな暮らしにおけるゴミ箱の手放し方や考え方を綴っている。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "ゴミ箱"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "1276da7b973035d0",
-   "url": "https://www.youtube.com/watch?v=3vy5RIkyftU",
-   "title_original": "【捨て活】片付けは亀の歩み…本棚と暮らしを見直す休日",
-   "source": "うにのゆるシンプルな暮らし",
-   "image": "https://i4.ytimg.com/vi/3vy5RIkyftU/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-09-18T10:00:28+00:00",
-   "title_ja": "本棚や書類を見直し不要な収納グッズを手放した人の話",
-   "summary_ja": "すっきりしてきた本棚を再点検し、苦手な書類整理とデスク下を片付けた体験談。便利だと思って使っていた収納グッズが不要だったと気づいたことや、AIに相談してカーテンをベージュに変更したことなど、少しずつ暮らしを整える様子を紹介している。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "収納グッズ",
-    "カーテン"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ab5f1346e63e83d4",
-   "url": "https://www.lifehacker.jp/article/2609-lht-vibrating-ball-mini",
-   "title_original": "肩・腰・足裏まで、これ1つ！手のひらサイズのぶるぶる振動ボールで「クセになる」ほぐし習慣",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2025/12/01/6e51d9df-99d5-4359-b972-09205c1844c0/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-18T10:00:00+00:00",
-   "title_ja": "手のひらサイズで全身をほぐせる振動ボールを使う人の話",
-   "summary_ja": "直径約8センチメートルとコンパクトでありながら、肩や腰、足裏までこれ1つでマッサージできる振動ボールを紹介。場所を取らずに持ち運びも簡単で、電源を入れるとパワフルに振動し、日々のほぐし習慣に活用できる道具である。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "Vibrating Ball Mini"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "563529f50db92ba5",
-   "url": "https://note.com/fair_salvia9598/n/ndf569a3a0f7f",
-   "title_original": "リネンとリネン調｜小さなおうちでシンプルライフ",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/314337356/rectangle_large_type_2_a5508a07059718acf6dfa5181996ad92.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-18T09:36:24+00:00",
-   "title_ja": "扉ものれんもない状態で1年間暮らしてみた人の話",
-   "summary_ja": "新居の設計時に扉をつけず、のれんを掛ける予定だったものの、気に入るのれんが見つからないまま過ごした人の話。実際になくても支障がないまま1年が経過し、物を持たないシンプルな暮らしの快適さに気づいていく様子が語られている。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [
-    "のれん"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "9290669a153f2e46",
-   "url": "https://www.roomie.jp/2026/09/1888882",
-   "title_original": "このミニマルウォレット、こんなにコンパクトなのに小銭もカードもたくさん入る。収納拡張もできちゃうよ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/4691A962-2591-40B4-87B4-6725E4123AB9_1_201_a.jpeg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-18T09:30:51+00:00",
-   "title_ja": "荷物を軽くするコンパクトなミニマルウォレット",
-   "summary_ja": "キャッシュレス化に伴い、現金を持ち歩かない日が増えたことから、荷物を軽くするためにコンパクトなお財布を導入。小銭やカードがしっかりと入り、収納の拡張もできる便利な仕様となっています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "財布"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ee33ef73e5137ec7",
-   "url": "https://note.com/niji16egao/n/nfceaa4cf89c5",
-   "title_original": "#203 【暮らしの整え】玄関ドアの磁石を全部撤去！プチストレスと快適さ",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/314960664/rectangle_large_type_2_5246dc493153ed3f9233412f17a347af.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-18T09:16:26+00:00",
-   "title_ja": "玄関ドアの磁石アイテムをすべて手放した話",
-   "summary_ja": "玄関ドアに貼っていた傘立てやフック、印鑑ケースなどをすべて撤去。見た目のごちゃつきや小物が落ちるストレスが解消され、視界に入る情報量が減ることですっきりとした心地よい空間になりました。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "傘立て",
-    "フック",
-    "印鑑ケース"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "54a56bc4ef2a524c",
-   "url": "https://note.com/moral_skink6813/n/n34ea84206e5e",
-   "title_original": "断捨離の話#5②",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/310270401/rectangle_large_type_2_8a703373e0b10a8cc8faf297435a4c65.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-18T09:01:27+00:00",
-   "title_ja": "卒業アルバムを業者に送って断捨離した話",
-   "summary_ja": "保管場所に悩みやすい卒業アルバムを、業者に依頼して手放すことにした体験談。思い出の品をどのように整理して減らしていくかという、断捨離の一コマが綴られています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "卒業アルバム"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "eb02944d3b891bba",
-   "url": "https://www.roomie.jp/2026/09/1887311",
-   "title_original": "旅行先でなくなる＆絡まるアクセサリー。無印良品の「着脱式ケース」に収納するのが正解でした",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/240909_hiromisato_15.jpeg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-18T09:00:49+00:00",
-   "title_ja": "無印良品のケースでアクセサリーをコンパクトに収納",
-   "summary_ja": "旅行中のアクセサリーや小物の紛失や絡まりを防ぐため、無印良品のポリプロピレン製ケースを活用。7連結で着脱可能な仕様により、こまごまとした荷物を最小限にしてすっきりと持ち運べます。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "ポリプロピレンつなげて使えるピルケース"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ba6d8168e95902af",
-   "url": "https://www.roomie.jp/2026/09/1888846",
-   "title_original": "もうレインコートを忘れない。山崎実業の新作バッグで自転車に置きっぱなし",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/20260918yamazaki.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-18T08:15:27+00:00",
-   "title_ja": "自転車に雨具を常備できる山崎実業の収納バッグ",
-   "summary_ja": "山崎実業が発売した自転車に取り付けられるレインコート用の収納バッグを紹介。雨具の定位置を自転車に作ることで、出かける前の持ち忘れを防ぎ、出先での突然の雨にも焦らず対応できるようになる便利なアイテム。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "レインコート"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "a9735120e908d860",
-   "url": "https://www.youtube.com/watch?v=MSymol946oY",
-   "title_original": "【ミニマリスト】ひとり時間が好きな理由を考えてみた",
-   "source": "ぴーこ｜ゆるっとミニマルな日常",
-   "image": "https://i2.ytimg.com/vi/MSymol946oY/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-09-18T08:00:16+00:00",
-   "title_ja": "ミニマリストがひとり時間を好む理由と考え方",
-   "summary_ja": "モノを減らしてゆるく暮らすミニマリストが、一人の時間を好む理由について語る。料理や粘土細工の時間をきっかけに、無心になって自分自身のことだけを考えられる時間の大切さや、頑張りすぎずにラクに過ごす暮らしの魅力を綴る。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "49fc10ac478f0bff",
-   "url": "https://news.yahoo.co.jp/articles/7b79abc963ba767fb218f1d686469ad235782d1b",
-   "title_original": "山田美保子氏 中古品買取業者とのトラブル告白「2度、詐欺まがいの経験を」自宅の断捨離で“受難”（スポニチアネックス）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000275-spnannex-000-4-view.jpg?exp=10800",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-18T07:58:01+00:00",
-   "title_ja": "山田美保子氏が語る自宅の断捨離でのトラブル",
-   "summary_ja": "自宅の断捨離を進める中で、中古品買取業者との間で詐欺まがいのトラブルを2度経験したことを告白している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
   }
  ]
 }
