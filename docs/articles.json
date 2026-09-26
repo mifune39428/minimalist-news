@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-26T13:09:38.148110+09:00",
+ "updated_at": "2026-09-26T20:03:00.550969+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,35 +27,34 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-09-26T13:11:55.363131+09:00",
+  "generated_at": "2026-09-26T20:03:56.314200+09:00",
   "days": 3,
   "period": "9月25日〜9月26日",
   "count": 45,
-  "reduce_count": 29,
-  "own_count": 16,
-  "overview": "断捨離や持ち物の見直しを通じて心や生活習慣を整える実践談や、ガジェットを活用して日々の負担を減らす工夫が多方面から語られています。",
-  "reduce": "自分のペースや無理のない範囲で断捨離を進め、物だけでなく心や判断の負担も一緒に減らしていく取り組みが多くの記事で綴られています。",
-  "own": "身軽な外出を叶えるポーチやストラップ、長く使えるガジェットや収納アイテムを取り入れ、日々の暮らしを快適にする工夫が紹介されています。",
+  "reduce_count": 28,
+  "own_count": 17,
+  "overview": "9月25日から26日にかけて、服や本、デジタルデータの整理など具体的な物の手放し方や、心や生活習慣を見直すエピソードが多数語られています。",
+  "reduce": "一度にすべてを片付けず、本を毎日3冊や冷蔵庫を1段だけにするなど、無理なく継続するための具体的なアプローチが目立ちます。",
+  "own": "スマホポーチや薄型サコッシュ、多機能ツールなど、日常の外出や作業を最小限の荷物で快適にするアイテムが紹介されています。",
   "points": [
    {
-    "title": "デジタルと日常の整理",
-    "body": "スマホのストレージ整理で巨大ファイルや未使用アプリを削除した実践や、冷蔵庫の一段だけを空にして取り組む無理のない片付け法など、身の回りを整える具体的な試みが語られています。"
+    "title": "デジタルとアプリの整理",
+    "body": "スマホの容量不足を解消するため、Filesアプリで15GBの隠れデータや5GBの未使用アプリを発見し、削除した実践レポートが語られています。"
    },
    {
-    "title": "手放すことの心理と向き合う",
-    "body": "失恋や引っ越し、家族の捨て活などをきっかけに、物への執着や捨てられない心理、手放す難しさと向き合いながら自分の生き方を見つめ直す記録が多数寄せられています。"
+    "title": "メルカリを活用した手放し",
+    "body": "パウスカートや不要になった映画の入場特典チャームをメルカリに出品し、自分には不要でも誰かに届く体験を通じて手放したエピソードがあります。"
    },
    {
-    "title": "身軽さを高める持ち物選び",
-    "body": "スマホと財布が融合した本革ポーチやマグネット式のスマホストラップなど、手ぶらで気軽に出かけるための身軽なスタイルを提案するアイテムの紹介が見られます。"
+    "title": "収納やルールで見直す動線",
+    "body": "3階建ての家で各階に特定のアイテムを配置するルールを導入したり、山崎実業のドアハンガーを活用して一時置きを解消した体験談が紹介されています。"
    }
   ],
   "keywords": [
    "断捨離",
    "ミニマリスト",
-   "収納",
-   "片付け",
-   "スマホ"
+   "メルカリ",
+   "収納"
   ]
  },
  "things": [
@@ -65,18 +64,14 @@
   },
   {
    "name": "本",
-   "count": 10
+   "count": 11
   },
   {
    "name": "スマホ",
-   "count": 7
+   "count": 8
   },
   {
    "name": "iPhone",
-   "count": 5
-  },
-  {
-   "name": "バッグ",
    "count": 5
   },
   {
@@ -84,11 +79,11 @@
    "count": 5
   },
   {
-   "name": "ポーチ",
+   "name": "バッグ",
    "count": 4
   },
   {
-   "name": "モバイルバッテリー",
+   "name": "ポーチ",
    "count": 4
   },
   {
@@ -101,6 +96,14 @@
   },
   {
    "name": "カード",
+   "count": 3
+  },
+  {
+   "name": "モバイルバッテリー",
+   "count": 3
+  },
+  {
+   "name": "リュック",
    "count": 3
   },
   {
@@ -132,10 +135,6 @@
    "count": 2
   },
   {
-   "name": "スマホリング",
-   "count": 2
-  },
-  {
    "name": "スマートフォン",
    "count": 2
   },
@@ -156,11 +155,19 @@
    "count": 2
   },
   {
+   "name": "トートバッグ",
+   "count": 2
+  },
+  {
    "name": "バックパック",
    "count": 2
   },
   {
    "name": "ボトル",
+   "count": 2
+  },
+  {
+   "name": "ボールペン",
    "count": 2
   },
   {
@@ -172,15 +179,11 @@
    "count": 2
   },
   {
-   "name": "リュック",
-   "count": 2
-  },
-  {
    "name": "傘",
    "count": 2
   },
   {
-   "name": "充電ケーブル",
+   "name": "家具",
    "count": 2
   },
   {
@@ -189,6 +192,10 @@
   },
   {
    "name": "掃除機",
+   "count": 2
+  },
+  {
+   "name": "掃除道具",
    "count": 2
   },
   {
@@ -208,15 +215,7 @@
    "count": 2
   },
   {
-   "name": "鍵",
-   "count": 2
-  },
-  {
-   "name": "電源タップ",
-   "count": 2
-  },
-  {
-   "name": "食器",
+   "name": "財布",
    "count": 2
   }
  ],
@@ -228,7 +227,6 @@
   "Be More with Less",
   "Better Homes & Gardens",
   "Good Housekeeping",
-  "Hindustan Times",
   "Homes and Gardens",
   "House Beautiful",
   "HuffPost",
@@ -253,6 +251,7 @@
   "The Economic Times",
   "The Minimal Mom",
   "The Minimalists",
+  "The Seattle Times",
   "The Simplicity Habit",
   "The Spruce",
   "Yahoo",
@@ -278,16 +277,256 @@
   "やましたひでこ断捨離",
   "ウォーカープラス",
   "ミニマリスト Nozomi",
-  "ミニマリストK",
   "ミニマリストsin",
   "ライフハッカー・ジャパン",
   "ライブドアニュース",
   "小さな暮らしノート",
+  "私だけミニマリスト｜南さやか",
   "筆子ジャーナル",
   "西日本新聞me"
  ],
  "count": 400,
  "items": [
+  {
+   "id": "19c5dd5cd94ab888",
+   "url": "https://note.com/dreamy_lynx5602/n/n00eefd792ad1",
+   "title_original": "クローゼットに残っていた、昔の私",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/317617793/rectangle_large_type_2_2b9d1b449f78dca2f51d187aec6de388.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-26T10:51:01+00:00",
+   "title_ja": "クローゼットに眠っていたパウスカートを手放す",
+   "summary_ja": "ハワイでフラをしていた頃の思い出があり何年も着ていなかったパウスカートを、メルカリに出品して手放した時の気持ちをつづったエピソード。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "パウスカート"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5dedbc9982d923cf",
+   "url": "https://note.com/toimo/n/n5a347e32da6f",
+   "title_original": "デジタルを増やしてはダメかもしれない",
+   "source": "note #断捨離",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/43bf257c6224baf39d351c335631a0f44a74e7b0.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-26T10:41:27+00:00",
+   "title_ja": "デジタル増加は逆効果？物を減らす実践記",
+   "summary_ja": "筆者は服や本など身の回りを整理し、所有物を目に見えて減らした過程を紹介。具体的に手放したのは服200点と本150冊で、デジタル機器は増やさずクラウド活用に切り替えた。デジタルの増加が生活を圧迫しないかも考察。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "服",
+    "本"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "853744de05471c59",
+   "url": "https://www.lifehacker.jp/article/2609-amazon-karrimor-tc-sacoche",
+   "title_original": "外出に大きなバッグはもういらない。カリマーのコンパクトなサコッシュが18％オフ",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/09/26/5b1f632f-ef8d-4b53-aea8-13ebf8c3f63f/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-26T10:30:00+00:00",
+   "title_ja": "Karrimorの薄型サコッシュで持ち物を最小限に",
+   "summary_ja": "Amazonタイムセールで販売中のKarrimor『TC sacoche M』は、厚さ3.5cmの薄型ボディにスマホや財布、キーフック付きポケットを備え、近所の買い物や旅行で必要最低限の持ち物を収められるコンパクトサコッシュです。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "Karrimor TC sacoche M",
+    "スマホ",
+    "財布"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "8264c005d411bead",
+   "url": "https://www.youtube.com/watch?v=7RsfVXBHUco",
+   "title_original": "ミニマリスト秋服は6着だけ。ほぼUNIQLOで過ごす1週間コーディネート",
+   "source": "私だけミニマリスト｜南さやか",
+   "image": "https://i4.ytimg.com/vi/7RsfVXBHUco/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-09-26T10:00:33+00:00",
+   "title_ja": "ミニマリストの秋コーデはUNIQLO6点だけ",
+   "summary_ja": "アメリカ在住のママが、秋の1週間を6着のUNIQLOアイテムだけで過ごすコーデを紹介。必要最低限の服で身軽に暮らすミニマリストの実例が分かり、買い物リストや組み合わせのコツも解説している。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "UNIQLO"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "a0887d88c99dc77c",
+   "url": "https://www.roomie.jp/2026/09/1883359",
+   "title_original": "リュック・服を床や椅子に置くの、やめられた！山崎実業の「風通し良く掛けておけるバー」のおかげ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/260911_yamazakizitsugyou_tsukawanaitokihasyuunoudekiru-door-hanger_1.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-26T10:00:15+00:00",
+   "title_ja": "一時置きを解消する山崎実業のドアハンガーを導入した話",
+   "summary_ja": "帰宅後の汗ばんだリュックの置き場所に悩んでいた筆者が、山崎実業の「使わない時は収納できるドアハンガー タワー」を導入。ドアに一時掛けできる場所を作ったことで、床や椅子への放置を防ぎ、風通し良く保管できるようになる。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "ドアハンガー",
+    "リュック"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "07f61313d6e5ff00",
+   "url": "https://www.thespruce.com/the-one-on-every-floor-rule-12132891",
+   "title_original": "I Started Using the “One on Every Floor” Rule in My 3-Story House—and Now I Wish I’d Done It Years Ago",
+   "source": "The Spruce",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-26T09:47:00+00:00",
+   "title_ja": "3階建ての家で「各階に1つ」ルールを導入して暮らしが快適になった話",
+   "summary_ja": "3階建ての自宅で、各階に特定のアイテムを配置する「各階に1つ」ルールを取り入れた体験談。もっと早く始めればよかったと感じるほど、日々の暮らしや片づけの動線がスムーズになり、家事のストレスを減らすことに成功している。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "52f7c63743696f12",
+   "url": "https://monomax.jp/archives/363644",
+   "title_original": "【ワークマンの1,900円トート】いざという時に収納力が約2倍!? 単体でも使えるインナーバッグ付きの「ベーシックアンカー」が普段使いにも小旅行にも優秀すぎた",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2026/09/5DSC04539-1-scaled.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-26T09:00:46+00:00",
+   "title_ja": "ワークマンのインナーバッグ付き多機能トートバッグを愛用する話",
+   "summary_ja": "ワークマンのトートバッグ「ベーシックアンカー」を紹介。単体でも使えるインナーバッグが付属し、必要に応じて収納力を約2倍に増やせる仕様が特徴。普段使いから小旅行まで幅広く活躍する、優秀な多機能バッグとなっている。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "トートバッグ",
+    "インナーバッグ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "1a16673fe8657bfd",
+   "url": "https://www.roomie.jp/2026/09/1890348",
+   "title_original": "髪を伸ばし途中の私が、リファの「イオンケアブラシ」を約2年使ってわかったこと。フィット感が唯一無二なんだ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/260924_Refa_7.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-26T09:00:45+00:00",
+   "title_ja": "リファのヘアブラシを約2年間使い続けて実感した魅力を語る話",
+   "summary_ja": "綺麗な髪を目指す筆者が、リファの「イオンケアブラシ」を約2年間愛用した感想を紹介。頭皮への唯一無二 of フィット感を備えており、日々のヘアケアに欠かせない、本当に使って良かったと感じるお気に入りのアイテムとなっている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "イオンケアブラシ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "46135ac1a0f816a2",
+   "url": "https://www.youtube.com/shorts/HegNbKLk4TA",
+   "title_original": "物を減らしたら、買わなくなったもの5つ｜ミニマリストの暮らし #ミニマリスト #シングルマザー",
+   "source": "小さな暮らしノート",
+   "image": "https://i1.ytimg.com/vi/HegNbKLk4TA/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-09-26T08:06:09+00:00",
+   "title_ja": "物を減らして買わなくなった5つのもの",
+   "summary_ja": "収納用品や掃除道具、家具やストック品などを買わなくなった人の話。物を減らすことで管理する時間も減り、無理なく暮らせるようになった実体験が語られています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "収納用品",
+    "掃除道具",
+    "家具",
+    "ストック品"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "9a1abbd8c8d36cce",
+   "url": "https://www.lifehacker.jp/article/2609-amazon-victorinox-smart-card-wallet",
+   "title_original": "機能美を持ち歩く。ビクトリノックスのマルチツール付きカードホルダー",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/09/26/478107b3-c9c2-477c-a247-0a5224d6e14e/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-26T07:30:00+00:00",
+   "title_ja": "ビクトリノックスのマルチツール付きカードホルダー",
+   "summary_ja": "カード情報保護機能に加え、ボールペンやピンセットなど10の機能をコンパクトなボディに一体化したスマートカードウォレット。荷物を減らしたい人向けのアイテムです。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "スマートカードウォレット",
+    "ボールペン",
+    "ピンセット"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c82cfd96aa2621f2",
+   "url": "https://www.roomie.jp/2026/09/1886249",
+   "title_original": "名もなき家事が激減！山崎実業の「ミニマルなゴミ箱」で毎日の手入れもラクになったんだ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/250526A0-07B2-4784-B30B-B037BBE2D75F-scaled-1.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-26T07:00:26+00:00",
+   "title_ja": "山崎実業の目隠し分別ダストワゴンを使った感想",
+   "summary_ja": "山崎実業のミニマルな2分別ゴミ箱を導入し、ゴミ袋の付け替えや本体掃除といった名名もなき家事を減らした人の話。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "ゴミ箱"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "458277c3ff41a0f9",
+   "url": "https://www.roomie.jp/2026/09/1892361",
+   "title_original": "小さいのに1本4役。工具感のないミニマルさだから、デスクや玄関に置きやすい",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/slushpenTOPRV16-9.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-26T06:45:34+00:00",
+   "title_ja": "工具感のないミニマルな多機能ツールを使ってみた",
+   "summary_ja": "デスクや玄関に置きやすい工具感のないデザインの「SLASHPEN」を日常のちょっとした作業に活用している人の話。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "SLASHPEN"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "44ba41631ad15788",
+   "url": "https://nosidebar.com/joshua-becker-decluttering-advice",
+   "title_original": "Joshua Becker’s 10 Most Repeated Pieces of Decluttering Advice",
+   "source": "No Sidebar",
+   "image": "https://nosidebar.com/wp-content/uploads/joshua-becker-2026-2-scaled.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-09-26T05:19:26+00:00",
+   "title_ja": "ジョシュア・ベッカーの片づけアドバイスまとめ",
+   "summary_ja": "ミニマリストの著名人であるジョシュア・ベッカーが長年語ってきた片づけに関するアドバイスを分析した記事。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
   {
    "id": "3e7f02d78e192773",
    "url": "https://www.lifehacker.jp/article/2609-costorypo-smartphonepouch-review1-1369856999",
@@ -752,6 +991,22 @@
    "importance": 3
   },
   {
+   "id": "2d4cd629b2c2014b",
+   "url": "https://www.thespruce.com/storage-lessons-i-learned-from-my-small-apartment-12137337",
+   "title_original": "I Thought We Needed More Space—These 6 Storage Lessons Made Our Small Shared Apartment Work So Much Better",
+   "source": "The Spruce",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-25T14:11:00+00:00",
+   "title_ja": "狭い共有アパートを快適にする6つの収納術",
+   "summary_ja": "限られたスペースの住まいを広く快適に暮らすために役立つ、6つの収納や片付けのレッスンを紹介している。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "939a20dad8a89efc",
    "url": "https://www.youtube.com/watch?v=3w77OBGrJg0",
    "title_original": "Relaxed Homeschool Day of 5 Kids | singing, outdoors, curriculum...",
@@ -768,6 +1023,22 @@
     "ホームベーカリー"
    ],
    "importance": 2
+  },
+  {
+   "id": "95e5d8cc8809c200",
+   "url": "https://www.seattletimes.com/explore/at-home/home-organizing-for-the-neurodivergent-brain",
+   "title_original": "Home organizing for the neurodivergent brain",
+   "source": "The Seattle Times",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-25T14:00:00+00:00",
+   "title_ja": "神経多様性の脳向けホーム整理術",
+   "summary_ja": "神経多様性を持つ人向けに、家の整理や片付けのポイントを紹介する記事。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
   },
   {
    "id": "42d6ddd28c174efd",
@@ -7023,276 +7294,6 @@
    "title_ja": "小さな家で心地よい暮らしを選び直した話",
    "summary_ja": "小さな家での暮らしを通じて、自身の生活や持ち物を見直し、心地よい空間を選び取っていく日々を綴った記録。",
    "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "9140887ea58dd2a1",
-   "url": "https://www.roomie.jp/2026/09/1887706",
-   "title_original": "植物をすぐ枯らす私でもお世話できてる！ 透明な吊り鉢を使い始めて2年、水やりがぐっと楽になったよ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/P1020952_16_9-scaled.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-20T11:30:31+00:00",
-   "title_ja": "透明吊り鉢で水やりが楽に　2年続くミニマルな植物育成",
-   "summary_ja": "東京在住の3人の子どもの母・川瀬アヤさんは、妹から譲られた透明吊り鉢「ネガミエル AIR」を使い、2年間で水やり回数を大幅に減らし、ミニマルなインテリアを実現しています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "透明吊り鉢",
-    "ネガミエル AIR"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ac8d497fc278f495",
-   "url": "https://www.roomie.jp/2026/09/1889911",
-   "title_original": "大鍋に湯を張らなくてもOK。水も火もいらずに低温調理できる魔法の袋",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/61JL8Pd8SBL.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-20T11:15:59+00:00",
-   "title_ja": "火も水も不要の低温調理袋で鍋いらず",
-   "summary_ja": "アイリスオーヤマの袋型低温調理器 PocketChef は、鍋や火を使わずに袋に入れるだけで低温調理ができ、調理の手間と器具を減らす便利なキッチンガジェットです。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "袋型低温調理器 PocketChef"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "fe0a3153d4c0cecb",
-   "url": "https://monomax.jp/archives/360937",
-   "title_original": "【MonoMaxカバン大賞】プロが選んだ「一芸バックパック」3選！約1kg撥水レザーのATTITU、防御力のスーリー、5層収納のace.が日常を変える！",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2026/09/img71-2.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-20T11:00:36+00:00",
-   "title_ja": "約1kgの多機能バックパック3選で日常をシンプルに",
-   "summary_ja": "MonoMaxが選んだ1kg前後のバックパック3種、撥水レザーのATTITU、耐衝撃のスーリー、5層収納のace.は、軽量で多機能なため、持ち物を絞りシンプルな日常を支えます。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ATTITU",
-    "スーリー",
-    "ace."
-   ],
-   "importance": 3
-  },
-  {
-   "id": "18aca40d54304789",
-   "url": "https://www.youtube.com/watch?v=atu50SODnCY",
-   "title_original": "【お金のお悩み相談室】Q:節約や我慢はやっぱり必要でしょうか…＜教えて！やましたさん＞",
-   "source": "やましたひでこ断捨離",
-   "image": "https://i2.ytimg.com/vi/atu50SODnCY/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-09-20T11:00:32+00:00",
-   "title_ja": "お金と断捨離の関係　節約は必要かやました氏が語る",
-   "summary_ja": "やましたひでこ氏が金運向上の断捨離をテーマに、節約や我慢の必要性について語り、家計と心の整理が資産形成に繋がると説明しています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "1947b38a3eeb73c3",
-   "url": "https://www.hindustantimes.com/lifestyle/art-culture/minimalist-or-maximalist-7-ways-to-balance-both-decor-styles-at-home-101789893825275.html",
-   "title_original": "Minimalist or maximalist? 7 ways to balance both decor styles at home | Hindustan Times",
-   "source": "Hindustan Times",
-   "image": "https://www.hindustantimes.com/ht-img/img/2026/09/20/1600x900/logo/decor_1789897420995_hh2L_1789897421355_z61P_e9cd6380-4344-4b02-b7f0-f35de1af3245_MKSo.png",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-20T10:49:43+00:00",
-   "title_ja": "ミニマリストとマキシマリストの調和　7つのインテリア術",
-   "summary_ja": "インドのHindustan Timesは、ミニマリストとマキシマリストのインテリアを上手く組み合わせる7つの方法を紹介し、シンプルさと個性を両立させるコツを提案しています。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "efad1e5fab5e06bb",
-   "url": "https://www.roomie.jp/2026/09/1889721",
-   "title_original": "スマホリング型なのが斬新。くっつけるだけだから想像以上にAI翻訳機が身近になったよ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/teweekaix94.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-20T10:45:48+00:00",
-   "title_ja": "スマホリング型の高性能AI翻訳デバイスを使ってみた",
-   "summary_ja": "146言語に対応し、外国語でのやり取りをスムーズにするスマホリング型のAI翻訳デバイスを紹介。くっつけるだけで簡単に使える。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "AI翻訳機",
-    "スマホリング"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "b3a8096327569b71",
-   "url": "https://note.com/inoco2024/n/n6e246d7fb0e7",
-   "title_original": "断捨離と思い出が詰まった〇〇〇さん。",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/img/1789888287-StGjARH2riUz0WY5kJ76fds4.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-20T10:42:31+00:00",
-   "title_ja": "9年間大切にしてきた思い出のぬいぐるみを手放す",
-   "summary_ja": "上京した際にいただいた思い出の詰まったぬいぐるみと向き合い、断捨離を決意して手放していく過程についての記録。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "ぬいぐるみ"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "5c1b4dec7aa57364",
-   "url": "https://note.com/kaaaaawa21/n/n764b9559f928",
-   "title_original": "秋は見直しの季節だ〜！",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/img/1788939363-YunWG1dSvVRD37Z8UmeTbhLi.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-20T10:30:21+00:00",
-   "title_ja": "秋の衣替えで見直したスポーツ着を含めた36着",
-   "summary_ja": "秋の衣替えの季節にあわせて持ち物を見直し、スポーツ着を合わせて合計36着の服で暮らしている様子をつづっている。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "服",
-    "スポーツ着"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "0771caf4c7c2290e",
-   "url": "https://www.lifehacker.jp/article/2609-amazon-yamazen-suresurecarry",
-   "title_original": "衣替えのたびに重い衣装ケースを持ち上げる問題、激薄の台車で解決",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/20/3e0f0b4b-f328-4a86-ba65-86012f658070/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-20T10:30:00+00:00",
-   "title_ja": "重い衣装ケースをラクに引き出す超薄型キャリー",
-   "summary_ja": "衣替えのたびに重い衣装ケースを持ち上げる負担を解消するため、高さ3.8cmの非常に薄いコンパクトな台車を活用する。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "台車",
-    "衣装ケース"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "b9c84f8e85403040",
-   "url": "https://note.com/ry_mso8121/n/nde4a4de930ff",
-   "title_original": "5連休、2日目にしてミニマリストを諦めました。笑",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/315644859/rectangle_large_type_2_738c6a1f5bf4ee8472aec51183be46e1.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-20T10:16:28+00:00",
-   "title_ja": "5連休2日目でミニマリスト生活を断念",
-   "summary_ja": "5連休中にミニマリスト生活を試したが、2日目で続かず諦めた。生活用品を減らす計画が思うように進まず、結局元の暮らしに戻った壁や失敗談を振り返る。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "e50f89f5f0a28f67",
-   "url": "https://note.com/twins_onpyp/n/ne905214868e8",
-   "title_original": "ミニマリスト｜洗濯に漂白剤を足すことにした。",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/313905914/rectangle_large_type_2_752967c39be622010a465f8ccec386c5.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-20T10:15:42+00:00",
-   "title_ja": "洗濯は洗剤だけから漂白剤追加へ",
-   "summary_ja": "1年間洗剤だけで洗濯していたが、皮脂臭が気になり漂白剤を加えることにした。シンプルな洗濯用品の限界と対策を具体的に紹介する。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [
-    "洗濯用洗剤",
-    "漂白剤"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "7dd1cc20cb77a5d5",
-   "url": "https://www.roomie.jp/2026/09/1884113",
-   "title_original": "濡れたタオルを入れるために買ったバッグが、旅行先ではサコッシュに。これひとつで身軽に出かけられました",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/11eaeeeceaf0af6df778ae515e0892c3.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-20T10:00:59+00:00",
-   "title_ja": "濡れタオル用バッグが旅行のサコッシュに",
-   "summary_ja": "濡れたタオル用に購入したバッグを旅行時のサコッシュとして活用。小さく軽く持ち運べるので身軽な旅が実現できた。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "バッグ",
-    "充電ケーブル",
-    "モバイルバッテリー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "bd4d6c324743df04",
-   "url": "https://monomax.jp/archives/363311",
-   "title_original": "【鉄の15倍強度】最強素材“ダイニーマ”製のリュック、牛革の10倍丈夫なエイ革財布…ほか『新・一生モノの人気記事ベスト3』（2026年8月版）",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2026/09/032107_11zon-scaled-1.webp",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-20T10:00:19+00:00",
-   "title_ja": "一生モノのリュックと財布を紹介",
-   "summary_ja": "耐久性抜群のダイニーマ製リュックとエイ革財布など、長く使える一生モノアイテム3点を紹介。素材と強度に注目した選び方を解説する。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ダイニーマ製リュック",
-    "エイ革財布"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "2394f6a72a565927",
-   "url": "https://www.youtube.com/watch?v=CShpDb3PuXE",
-   "title_original": "【リアルなお金事情】31歳ミニマリスト 家賃4万円 熊本ラーメンも食べましたvlog",
-   "source": "ミニマリストK",
-   "image": "https://i4.ytimg.com/vi/CShpDb3PuXE/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-09-20T10:00:04+00:00",
-   "title_ja": "31歳ミニマリスト、家賃4万円で暮らす実録Vlog",
-   "summary_ja": "31歳ミニマリストが熊本で家賃4万円の部屋に住み、ラーメンを食べながら家計を抑える暮らしをVlogで紹介。家賃・食費の節約感覚が分かります。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "a5b24ad81bae68e3",
-   "url": "https://note.com/yokubari_papa/n/nea5ba4fe8c01",
-   "title_original": "うちの年少の息子、特技が「お片付け」なんです。ミニマリスト志向の父が考えた4つの理由",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/312885480/rectangle_large_type_2_fbd7e367a518fb13c34d67a3a3e7413c.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-20T09:44:55+00:00",
-   "title_ja": "息子が片付け上手に！ミニマリスト父の4つの理由",
-   "summary_ja": "ミニマリストの父が、息子が自然に片付け上手になる4つの理由を語ります。子どもの整理整頓への関心が家庭環境とどう結びつくかを考察。",
-   "category": "心・習慣",
    "axis": "reduce",
    "things": [],
    "importance": 3
