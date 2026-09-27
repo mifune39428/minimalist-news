@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-28T01:39:57.827678+09:00",
+ "updated_at": "2026-09-28T06:06:05.986259+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,33 +27,37 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-09-28T01:42:32.441787+09:00",
+  "generated_at": "2026-09-28T06:06:41.261127+09:00",
   "days": 3,
   "period": "9月27日〜9月28日",
   "count": 45,
   "reduce_count": 26,
   "own_count": 19,
-  "overview": "不要な物の手放し方や心構えをはじめ、持ち物をすっきりと保つための収納術や便利なガジェット活用術が多く語られています。",
-  "reduce": "いつか使うと残したモノの不安を見直し、日々の習慣や境界線メソッドを使って無理なく物を減らし心を整える方法が紹介されています。",
-  "own": "無印良品のバインダーやコンパクトな収納ポーチ、ワイヤレス機器など、空間をすっきり見せるための便利なアイテムが紹介されています。",
+  "overview": "持ち物の厳選や日々の片付け、生活習慣の工夫に関する記事が多く集まっています。自分の基準で見直すミニマリストたちの体験談が語られています。",
+  "reduce": "いつか使うと残した物や思い出の品、日常の習慣を手放し、自分の基準や心のゆとりを取り戻すための具体的な片付けや思考法が語られています。",
+  "own": "洗濯機で洗える服への絞り込みや、ガジェット・収納アイテムを活用して暮らしをすっきりと快適に保つ工夫や実例が紹介されています。",
   "points": [
    {
-    "title": "手放す基準と心の変化",
-    "body": "いつか使うと残したモノを見直し、手放すことで心の不安を和らげたり、執着心を手放すプロセスが綴られています。"
+    "title": "服や持ち物の厳選",
+    "body": "子育てを機に洗濯機で洗える服だけを選んで少数精鋭にしたり、片付けを通して他人の目ではなく自分の基準で服や持ち物を選ぶようになったという体験談が語られています。"
    },
    {
-    "title": "空間を整える収納術",
-    "body": "無印良品のアイテムを使ったポストカードの整理や、山崎実業の3段トレーによる小物収納などが紹介されています。"
+    "title": "思い出の品の手放し",
+    "body": "約20年分の日記や、離婚時の思い出の品、手紙や写真アルバムなどをすべて手放し、自分の執着心と向き合って心や暮らしを新陳代謝させる取り組みが紹介されています。"
    },
    {
-    "title": "便利なガジェット活用",
-    "body": "ワイヤレスHDMIやコンパクトなノートPCスタンドなど、配線をすっきりさせて作業スペースを快適にする道具が紹介されています。"
+    "title": "収納とスペースの工夫",
+    "body": "ポストカードを無印良品のバインダーで整理したり、山崎実業の3段トレーや密閉容器などを導入して、散らかりがちな小物や生ゴミのニオイを防ぐ工夫が述べられています。"
+   },
+   {
+    "title": "ガジェットの活用",
+    "body": "ノートパソコンスタンドやワイヤレスHDMI送受信機、タップなどを活用して、デスク周りの配線や持ち運びの不便さを解消し、作業スペースをすっきり保つ事例が挙げられています。"
    }
   ],
   "keywords": [
    "断捨離",
    "ミニマリスト",
-   "持たない暮らし",
+   "手放す",
    "収納",
    "片付け"
   ]
@@ -61,11 +65,11 @@
  "things": [
   {
    "name": "服",
-   "count": 17
+   "count": 19
   },
   {
    "name": "本",
-   "count": 10
+   "count": 11
   },
   {
    "name": "スマホ",
@@ -128,10 +132,6 @@
    "count": 2
   },
   {
-   "name": "キッチン道具",
-   "count": 2
-  },
-  {
    "name": "ケーブル",
    "count": 2
   },
@@ -148,7 +148,15 @@
    "count": 2
   },
   {
+   "name": "ノートパソコン",
+   "count": 2
+  },
+  {
    "name": "バックパック",
+   "count": 2
+  },
+  {
+   "name": "パジャマ",
    "count": 2
   },
   {
@@ -169,10 +177,6 @@
   },
   {
    "name": "傘",
-   "count": 2
-  },
-  {
-   "name": "掃除道具",
    "count": 2
   },
   {
@@ -211,6 +215,7 @@
   "Homes and Gardens",
   "House Beautiful",
   "Ideal Home",
+  "LIMO | くらしとお金の経済メディア",
   "MakeUseOf",
   "MonoMax",
   "New Ulm Journal",
@@ -270,6 +275,118 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "4f46a07a792cdd20",
+   "url": "https://note.com/8eriyaki/n/n35464a0c90a5",
+   "title_original": "ミニマリストではないけれど",
+   "source": "note #少ない服で暮らす",
+   "image": "https://assets.st-note.com/production/uploads/images/317925437/rectangle_large_type_2_6b221444f1d2d86e0f22a92dda707ec4.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-27T20:20:00+00:00",
+   "title_ja": "子育てを機に洗濯機で洗える服だけに絞り少数精鋭にした話",
+   "summary_ja": "子どもが生まれてから服選びの基準を「洗濯機で洗えて乾きやすいこと」に変更した人の事例。手元に残した服を厳選した結果、年間を通してトップス4着、ボトムス4着、アウター1着などの少ないワードローブで暮らすようになった。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "トップス",
+    "ボトムス",
+    "アウター",
+    "パジャマ"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "dc15225b4e5498b2",
+   "url": "https://limo.media/articles/-/139623",
+   "title_original": "断捨離中に懐かしい「図書券」を発見 本を買うつもりが「使わず取っておくことにしたワケ」に注目集まる",
+   "source": "LIMO | くらしとお金の経済メディア",
+   "image": "https://limo.ismcdn.jp/mwimgs/8/b/1200w/img_8bb8d011b12ceb24b044c9d2787229db176463.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-27T20:11:00+00:00",
+   "title_ja": "断捨離中に見つけた昔の図書券を使わずに保管することにした理由",
+   "summary_ja": "片づけや断捨離の途中で懐かしい図書券を発見したものの、本を購入するために消費するのではなく、あえて使わずに手元で保管する選択をしたエピソードについての記事。",
+   "category": "手放す・捨て方",
+   "axis": "own",
+   "things": [
+    "図書券"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "becbcc8adc3c01c4",
+   "url": "https://note.com/saterun/n/n6ab35454914f",
+   "title_original": "「片付けたのは、部屋だけじゃなかった。『自分で選べる私』になるまで」",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/318305415/rectangle_large_type_2_1ed0f892dde949fe4d10b59a8076861d.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-27T20:01:09+00:00",
+   "title_ja": "服を200着抱えていた女性が片付けを通して自分の軸を取り戻した話",
+   "summary_ja": "他人の目を気にしてプチプラ服を200着も買い込んでいた女性が、片付けをきっかけに周囲に合わせて買い物をしていた自分に気づく。服の整理を通じて、他人任せではなく自分の基準で選択する生き方へと変化していったエピソード。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "e4f57f2b59120322",
+   "url": "https://note.com/mozukichi3/n/n5a794b0274de",
+   "title_original": "あれから10年、断捨離と供養と",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/297269027/rectangle_large_type_2_db22866056d73562fe3bc6ca888c824e.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-27T19:50:47+00:00",
+   "title_ja": "離婚時に思い出の品を全て捨て衣装ダンス1つで新生活を始めた記録",
+   "summary_ja": "10年前の離婚時に元夫との思い出の品をすべて処分し、実家から持ってきた衣装ダンス1つと最低限の荷物で新生活を始めた体験談。生活用品や服、本だけを持ち出し、新しい生活をスタートさせた断捨離の様子を振り返っている。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [
+    "衣装ダンス",
+    "生活用品",
+    "服",
+    "本"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "f8073f0f6c95d744",
+   "url": "https://note.com/zero_challenge/n/n3f342c79f72c",
+   "title_original": "パソコンを処分する",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/318150900/rectangle_large_type_2_cafc542ed531d6804bdd645aecd9e210.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-27T19:42:29+00:00",
+   "title_ja": "ノートパソコンを2台所有しているミニマリストの話",
+   "summary_ja": "ミニマリストとして暮らす中で、2017年製と2025年製の2台のノートパソコンを所有している現状について語っている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ノートパソコン"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "68fa1630424c12c0",
+   "url": "https://note.com/eucalyptus_369/n/ncc4a3ad0ce0e",
+   "title_original": "日記について・友人との会話で思ったこと",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/317218042/rectangle_large_type_2_cf4a1a6f19c7b70e23fec524389bc153.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-27T18:30:13+00:00",
+   "title_ja": "約20年分の日記を手放した理由と友人との会話",
+   "summary_ja": "約20年分の日記を断捨離したことについて、友人と「日記を書くのは気持ちの整理のためか」という話題を交えて振り返る。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "9324c6a0b75874eb",
    "url": "https://note.com/atusige01/n/n7d8ec7a8d92d",
@@ -7176,110 +7293,6 @@
     "ケーブル"
    ],
    "importance": 3
-  },
-  {
-   "id": "603401dd6536cb90",
-   "url": "https://www.roomie.jp/2026/09/1889139",
-   "title_original": "数年愛用して、さらに3本買い足した。家庭料理ライターが手放せない、キッチンでの作業をちょっとラクにしてくれる道具",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/DSCF6696-1.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-21T23:00:15+00:00",
-   "title_ja": "家庭料理ライターが数年愛用して買い足したキッチン道具",
-   "summary_ja": "調理や撮影を通して多くの道具を試してきた家庭料理ライターが、機能と佇まいを兼ね備えた愛用のキッチン道具を数年経ってからさらに買い足したことを綴っています。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "キッチン道具"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2196b922afe838e0",
-   "url": "https://bemorewithless.com/rules-for-decluttering-clothes/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
-   "title_original": "7 Simple Rules For Decluttering Clothes",
-   "source": "Be More with Less",
-   "image": "https://bemorewithless.com/wp-content/uploads/2026/09/rules-for-decluttering-clothes-image.png",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-09-21T22:46:15+00:00",
-   "title_ja": "服の片づけで迷いをなくすための7つのシンプルなルール",
-   "summary_ja": "クローゼットの片づけで何を残し、売るか捨てるか悩む人に向けて、作業を簡単で楽しくするためのシンプルなルールを紹介しています。迷いをなくすことでスムーズに服を手放せます。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "b46e2b0b9173aa29",
-   "url": "https://note.com/metastyle/n/n2ee66d44baf6",
-   "title_original": "ツインバード TC-E124SPWで考える、掃除道具を増やさない部屋",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/316167838/rectangle_large_type_2_fbc33ab154497349bc0e13743f8985ea.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-21T22:44:56+00:00",
-   "title_ja": "ツインバードの掃除機から考える掃除道具を増やさない部屋",
-   "summary_ja": "窓から差し込む光でほこりを見つけたときの気づきから、部屋の掃除道具をこれ以上増やさないための工夫や考え方について語られています。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "ツインバードの掃除機",
-    "掃除道具"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "aba00c9c9e43d7eb",
-   "url": "https://www.roomie.jp/2026/09/1888117",
-   "title_original": "ズボン、たたむのやめました。わが家は「ニトリのピンチハンガー」にすべて掛けています",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/260917_nitori_013.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-21T22:30:18+00:00",
-   "title_ja": "洗濯をラクにする！ズボンをたたまずハンガー収納",
-   "summary_ja": "毎日の洗濯で面倒だった「たたむ」作業をやめ、ニトリのピンチハンガーを使ってズボンをすべて掛けて収納する方法を実践している話。家事の工程を減らしてラクにする工夫を紹介している。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "ピンチハンガー",
-    "ボトムスハンガー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f639a596a3cbbed6",
-   "url": "https://news.livedoor.com/article/detail/32383586/?from_page=internal",
-   "title_original": "捨て活の悩み解決！心と家が身軽になるライフさんの“お部屋デトックス”のすすめ",
-   "source": "news.livedoor.com",
-   "image": "https://image.news.livedoor.com/newsimage/stf/3/c/3cf57_1845_532dd37c_8122d4e8.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-21T22:20:00+00:00",
-   "title_ja": "心と家が身軽になるお部屋デトックスのすすめ",
-   "summary_ja": "捨て活に関する悩みを解決し、心と家を身軽にするための部屋デトックスについて紹介している記事。具体的なモノの手放し方や考え方を学ぶことができる。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "75feeb41f5704c17",
-   "url": "https://note.com/yusuke_muji/n/n299c5bbe2f52",
-   "title_original": "私はグリドルのパティが好きだったわけじゃない",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/315817093/rectangle_large_type_2_969b60180939a8350d55f75c4538f075.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-21T22:01:24+00:00",
-   "title_ja": "朝マックの定番を見直して気づいたこと",
-   "summary_ja": "いつも頼んでいた朝マックのメニューからお肉のパティを抜いてみたところ、なくても十分美味しいことに気づいたという話。思い込みを手放すことで新しい発見があった経験を綴っている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
   }
  ]
 }
