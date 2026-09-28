@@ -4,266 +4,580 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>ミニマリスト・ニュース</title>
-<meta name="description" content="世界と日本のミニマリストが「どう減らしているか」と「何を持っているか」を、個人ブログ・ニュース・YouTube・Xから自動で集め、日本語の要約付きでまとめています。6時間ごとに更新。">
-<meta name="theme-color" content="#f4f2ee" media="(prefers-color-scheme: light)">
-<meta name="theme-color" content="#121212" media="(prefers-color-scheme: dark)">
+<meta name="description" content="世界と日本のミニマリストのブログ・ニュース・YouTubeを自動で集め、「減らし方」と「持ち物」の2つの軸でまとめています。6時間ごとに更新。">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#111210" media="(prefers-color-scheme: dark)">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="ミニマリスト">
 <meta property="og:title" content="ミニマリスト・ニュース">
-<meta property="og:description" content="どう減らすか、そして何を持つか。海外・国内のミニマリストの発信を日本語の要約で。">
+<meta property="og:description" content="世界と日本のミニマリストの発信を、「減らし方」と「持ち物」の2つの軸で。6時間ごとに自動更新。">
 <meta property="og:type" content="website">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <script src="ui.js" data-site="minimalist-news"></script>
 <style>
+  /* ---------------------------------------------------------------- 色（このサイトの分）
+     生成りの紙と深い緑。飾りを減らして、余白で見せる。 */
   :root {
     --bg: #f4f2ee;
-    --card: #ffffff;
-    --text: #171614;
-    --muted: #78736b;
-    --line: rgba(0,0,0,.08);
+    --card: #fffefb;
+    --text: #1b1a17;
+    --muted: #75716a;
+    --line: rgba(0,0,0,.07);
     --accent: #3f6b57;
-    --chip: rgba(0,0,0,.045);
-    --chip-on: #171614;
-    --chip-on-text: #f4f2ee;
-    --reduce: #7a6a52;
+    --reduce: #8a7453;
     --own: #3f6b57;
-    --badge: #a2543a;
-    --header: rgba(244,242,238,.86);
+    --soft: rgba(63,107,87,.08);
+    --chip: rgba(0,0,0,.045);
+    --seg-on: #fffefb;
+    --header: rgba(250,249,246,.88);
+    --shadow: 0 1px 2px rgba(0,0,0,.03), 0 6px 20px rgba(0,0,0,.04);
+    --radius: 14px;
+    --ph-bg: radial-gradient(120% 90% at 30% 20%, #a9c7b7 0%, #5d8a74 45%, #2c4a3c 100%);
   }
   @media (prefers-color-scheme: dark) {
     :root {
-      --bg: #121212;
-      --card: #1c1c1b;
-      --text: #eceae5;
-      --muted: #97928a;
-      --line: rgba(255,255,255,.1);
+      --bg: #111210;
+      --card: #1a1b19;
+      --text: #ecebe6;
+      --muted: #9d9a92;
+      --line: rgba(255,255,255,.07);
       --accent: #8fc0a9;
-      --chip: rgba(255,255,255,.08);
-      --chip-on: #eceae5;
-      --chip-on-text: #171614;
       --reduce: #cdb694;
       --own: #8fc0a9;
-      --badge: #e08a6c;
-      --header: rgba(18,18,18,.82);
+      --soft: rgba(143,192,169,.12);
+      --chip: rgba(255,255,255,.06);
+      --seg-on: #2b2c29;
+      --header: rgba(17,18,16,.82);
+      --shadow: 0 0 0 1px rgba(255,255,255,.05);
     }
   }
+
   * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
   body {
     margin: 0;
     background: var(--bg);
     color: var(--text);
-    font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Noto Sans JP", sans-serif;
-    line-height: 1.65;
+    font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Hiragino Kaku Gothic ProN",
+                 "Noto Sans JP", "Segoe UI", sans-serif;
+    /* 和文の字間を詰めて、見出しを引き締める。 */
+    font-feature-settings: "palt";
+    letter-spacing: .02em;
+    line-height: 1.7;
     -webkit-font-smoothing: antialiased;
     padding-bottom: env(safe-area-inset-bottom);
   }
   a { color: inherit; text-decoration: none; }
+  button { -webkit-tap-highlight-color: transparent; }
+  .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+  .clamp2, .clamp3 { display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; }
+  .clamp2 { -webkit-line-clamp: 2; }
+  .clamp3 { -webkit-line-clamp: 3; }
 
+  /* ---------------------------------------------------------------- 上のメニュー */
   header {
     position: sticky; top: 0; z-index: 10;
     background: var(--header);
     -webkit-backdrop-filter: saturate(180%) blur(20px);
     backdrop-filter: saturate(180%) blur(20px);
     border-bottom: 1px solid var(--line);
-    padding: max(env(safe-area-inset-top), 10px) 16px 0;
+    padding-top: env(safe-area-inset-top);
   }
-  .bar { max-width: 760px; margin: 0 auto; display: flex; align-items: baseline; gap: 10px; }
-  h1 { font-size: 18px; font-weight: 600; letter-spacing: .02em; margin: 0; }
-  .updated { font-size: 11px; color: var(--muted); margin-left: auto; white-space: nowrap; }
+  .bar {
+    max-width: 1080px; margin: 0 auto; height: 52px; padding: 0 16px;
+    display: flex; align-items: center; gap: 10px;
+  }
+  .brandmark { display: flex; align-items: center; gap: 8px; }
+  .logo {
+    background: var(--accent); color: #fff; border-radius: 3px;
+    font-size: 9.5px; font-weight: 800; letter-spacing: .1em; line-height: 1;
+    padding: 5px 5px 5px 6px;
+  }
+  .wordmark { font-size: 19px; font-weight: 900; letter-spacing: .12em; line-height: 1; }
+  .updated { margin-left: auto; font-size: 11px; color: var(--muted); white-space: nowrap; }
+  .icon-btn {
+    flex: 0 0 auto; width: 36px; height: 36px; border-radius: 50%; border: 0;
+    background: var(--chip); color: var(--text); cursor: pointer;
+    display: grid; place-items: center;
+  }
+  .icon-btn[aria-expanded="true"] { background: var(--text); color: var(--bg); }
 
-  /* 2軸のタブ。このサイトの背骨なので、他の絞り込みより目立たせる。 */
-  .axis {
-    max-width: 760px; margin: 10px auto 0;
-    display: flex; gap: 4px; background: var(--chip);
-    border-radius: 12px; padding: 3px;
+  /* カテゴリはタブ1列。選んでいるものに赤い下線。右端は薄くしてスクロールできると分かるように。 */
+  .tabs {
+    max-width: 1080px; margin: 0 auto;
+    display: flex; gap: 2px; overflow-x: auto; scrollbar-width: none;
+    padding: 0 36px 0 8px;
+    -webkit-mask-image: linear-gradient(90deg, #000 calc(100% - 36px), transparent);
+            mask-image: linear-gradient(90deg, #000 calc(100% - 36px), transparent);
   }
-  .axis button {
-    flex: 1 1 0; border: 0; cursor: pointer; background: transparent; color: var(--muted);
-    font: inherit; font-size: 13.5px; font-weight: 600;
-    padding: 8px 6px; border-radius: 10px; white-space: nowrap;
+  .tabs::-webkit-scrollbar { display: none; }
+  .tabs .chip {
+    flex: 0 0 auto; position: relative; border: 0; background: none; cursor: pointer;
+    color: var(--muted); font: inherit; font-size: 14.5px; font-weight: 700; letter-spacing: .03em;
+    padding: 9px 9px 12px; white-space: nowrap;
   }
-  .axis button[aria-pressed="true"] { background: var(--card); color: var(--text); box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+  .tabs .chip[aria-pressed="true"] { color: var(--text); }
+  .tabs .chip[aria-pressed="true"]::after {
+    content: ""; position: absolute; left: 9px; right: 9px; bottom: 0; height: 3px;
+    border-radius: 3px 3px 0 0; background: var(--accent);
+  }
+  /* お気に入りのタブ（ui.js が差し込む）は最後尾に回す。 */
+  #ui-favChip { order: 99; }
+  body.ui-favmode .tabs .chip[aria-pressed="true"]:not(#ui-favChip) { color: var(--muted); }
+  body.ui-favmode .tabs .chip[aria-pressed="true"]:not(#ui-favChip)::after { display: none; }
 
-  .filters {
-    max-width: 760px; margin: 0 auto;
-    display: flex; gap: 6px; overflow-x: auto; padding: 9px 0 0;
-    scrollbar-width: none;
-  }
-  .filters:last-of-type { padding-bottom: 10px; }
-  .filters::-webkit-scrollbar { display: none; }
-  .chip {
-    flex: 0 0 auto; border: 0; cursor: pointer;
-    background: var(--chip); color: var(--text);
-    font: inherit; font-size: 12.5px; line-height: 1.4;
-    padding: 5px 12px; border-radius: 999px;
-  }
-  .chip[aria-pressed="true"] { background: var(--chip-on); color: var(--chip-on-text); }
+  /* ---------------------------------------------------------------- 本文の枠 */
+  main { max-width: 1080px; margin: 0 auto; padding: 14px 16px 64px; }
 
-  main { max-width: 760px; margin: 0 auto; padding: 16px 16px 56px; }
-  .lead {
-    font-size: 12.5px; color: var(--muted); margin: 0 0 12px;
-  }
-
-  /* ここ数日の傾向。一覧を読み始める前に、いま何が語られているかを渡す。 */
-  .digest {
-    background: var(--card); border: 1px solid var(--line);
-    border-radius: 16px; padding: 14px 17px; margin-bottom: 14px;
-  }
-  .dHead { display: flex; align-items: baseline; gap: 10px; }
-  .dHead h2 { font-size: 14px; font-weight: 700; margin: 0; letter-spacing: 0; }
-  .dToggle {
-    margin-left: auto; border: 0; background: transparent; cursor: pointer;
-    font: inherit; font-size: 11.5px; color: var(--muted); padding: 2px 0;
-  }
-  .dLead { font-size: 13.5px; margin: 8px 0 0; line-height: 1.6; }
-  .dPoints { list-style: none; margin: 10px 0 0; padding: 0; }
-  .dPoints li {
-    font-size: 12px; line-height: 1.55; color: var(--text); opacity: .88;
-    padding: 6px 0 0; border-top: 1px solid var(--line); margin-top: 6px;
-  }
-  .dPoints li:first-child { border-top: 0; margin-top: 0; padding-top: 0; }
-  .dPoints b { display: block; font-size: 12.5px; opacity: 1; }
-  .dKeys { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 11px; }
-  .dKey {
-    border: 1px solid var(--line); border-radius: 999px;
-    padding: 2px 10px; font-size: 11.5px; color: var(--accent);
-    background: transparent; font-family: inherit; font-size: 11.5px; cursor: pointer;
-  }
-  .dMeta { font-size: 11px; color: var(--muted); margin: 10px 0 0; }
+  .searchbar { position: relative; margin: 0 0 14px; }
+  .searchbar[hidden] { display: none; }
+  .searchbar svg { position: absolute; left: 14px; top: 13px; color: var(--muted); pointer-events: none; }
   .search {
-    width: 100%; margin-bottom: 14px;
-    background: var(--card); color: var(--text);
-    border: 1px solid var(--line); border-radius: 12px;
-    padding: 11px 14px; font: inherit; font-size: 16px;
+    width: 100%; height: 46px; border-radius: 14px;
+    background: var(--card); color: var(--text); border: 1px solid var(--line);
+    padding: 0 14px 0 42px; font: inherit; font-size: 16px; box-shadow: var(--shadow);
   }
+  .search:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
   .search::placeholder { color: var(--muted); }
 
-  article {
-    background: var(--card); border-radius: 16px;
-    padding: 15px 17px; margin-bottom: 11px;
-    border: 1px solid var(--line);
-    transition: transform .15s ease;
+  /* タブごとの小さな切り替え（ブランド・国内外・性別など） */
+  #subFilters { display: flex; gap: 8px; overflow-x: auto; scrollbar-width: none; margin: 0 -16px 14px; padding: 0 16px; }
+  #subFilters::-webkit-scrollbar { display: none; }
+  #subFilters:empty { display: none; }
+  body.ui-favmode #subFilters { display: none; }
+  .seg { flex: 0 0 auto; display: inline-flex; background: var(--chip); border-radius: 999px; padding: 3px; }
+  .seg button {
+    border: 0; background: none; cursor: pointer; white-space: nowrap;
+    font: inherit; font-size: 12.5px; font-weight: 700; color: var(--muted);
+    padding: 5px 12px; border-radius: 999px; letter-spacing: .02em;
   }
-  article:active { transform: scale(.99); }
-  .row { display: flex; gap: 12px; align-items: flex-start; }
-  .row .body { flex: 1 1 auto; min-width: 0; }
-  .shot { position: relative; flex: 0 0 96px; }
-  .thumb {
-    width: 96px; height: 96px;
-    object-fit: cover; border-radius: 10px;
-    background: var(--chip); display: block;
+  .seg button[aria-pressed="true"] { background: var(--seg-on); color: var(--text); box-shadow: 0 1px 3px rgba(0,0,0,.12); }
+
+  /* タブや切り替えを押したときだけ、ふわっと出す。
+     （読み込みのたびに動かすと、アプリに戻るたびに一覧全体がちらつく） */
+  #list.anim > * { animation: rise .28s ease both; }
+  @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { #list.anim > * { animation: none; } }
+
+  /* ---------------------------------------------------------------- 先頭の大きな記事 */
+  .lead {
+    position: relative; overflow: hidden; border-radius: var(--radius);
+    background: #111; box-shadow: var(--shadow); margin: 0 0 16px;
   }
-  .hero {
-    /* 幅の広い画面で主役の画像が伸びすぎないように上限を付ける。 */
-    width: 100%; aspect-ratio: 16 / 9; max-height: 300px; object-fit: cover;
-    border-radius: 12px; background: var(--chip);
-    display: block;
+  .lead > a { display: block; color: #fff; }
+  .lead-img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; }
+  .lead-txt {
+    position: absolute; left: 0; right: 0; bottom: 0; padding: 64px 18px 16px;
+    background: linear-gradient(180deg, transparent, rgba(0,0,0,.6) 38%, rgba(0,0,0,.88));
   }
-  .heroWrap { position: relative; margin-bottom: 11px; }
-  /* 画像が取れなかった記事のための代わりの絵。空白にしない。 */
-  .ph {
+  .lead h2 { font-size: 21px; font-weight: 800; line-height: 1.45; margin: 6px 0 6px; letter-spacing: .02em; }
+  .lead .dek { font-size: 13.5px; line-height: 1.65; margin: 0 0 8px; color: rgba(255,255,255,.86); }
+  .lead .kicker .cat { color: #fff; background: var(--accent); padding: 2px 7px; border-radius: 4px; }
+  .lead .byline { color: rgba(255,255,255,.72); }
+  @media (min-width: 760px) {
+    .lead-img { aspect-ratio: 21 / 9; }
+    .lead-txt { padding: 90px 28px 24px; }
+    .lead h2 { font-size: 28px; max-width: 820px; }
+    .lead .dek { max-width: 760px; font-size: 14.5px; }
+  }
+
+  /* 記事の見出しの上の小さな行（カテゴリ・注目） */
+  .kicker { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; font-size: 11px; line-height: 1.4; }
+  .cat { color: var(--accent); font-weight: 800; letter-spacing: .06em; }
+  .hot { background: var(--accent); color: #fff; font-weight: 800; padding: 1px 6px; border-radius: 4px; letter-spacing: .04em; }
+  .byline { font-size: 11.5px; color: var(--muted); letter-spacing: .01em; }
+  .byline .dot { margin: 0 4px; opacity: .6; }
+
+  /* ---------------------------------------------------------------- 記事の一覧 */
+  /* スマホは1枚の面に行を並べる（区切りは細線）。広い画面では写真が上のカードを並べる。 */
+  .news { background: var(--card); border-radius: var(--radius); box-shadow: var(--shadow); overflow: hidden; }
+  .news:empty { display: none; }
+  .post { position: relative; }
+  .post + .post { border-top: 1px solid var(--line); }
+  .post > a { display: grid; grid-template-columns: 1fr 96px; gap: 14px; padding: 15px 16px; align-items: start; }
+  .post > a:active { background: var(--chip); }
+  .post-img { grid-column: 2; grid-row: 1; position: relative; }
+  .post-txt { grid-column: 1; grid-row: 1; min-width: 0; }
+  .post .thumb { display: block; width: 96px; height: 96px; object-fit: cover; border-radius: 12px; background: var(--chip); }
+  .post h2 { font-size: 15.5px; font-weight: 700; line-height: 1.55; margin: 5px 0 4px; letter-spacing: .02em; }
+  .post .dek { font-size: 13px; line-height: 1.65; color: var(--muted); margin: 0 0 6px; }
+  @media (min-width: 760px) {
+    .news { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; background: none; box-shadow: none; overflow: visible; border-radius: 0; }
+    .post { background: var(--card); border-radius: var(--radius); box-shadow: var(--shadow); overflow: hidden; }
+    .post + .post { border-top: 0; }
+    .post > a { grid-template-columns: 1fr; gap: 0; padding: 0; height: 100%; align-content: start; }
+    .post-img { grid-column: 1; grid-row: 1; }
+    .post-txt { grid-column: 1; grid-row: 2; padding: 13px 17px 17px; }
+    .post .thumb { width: 100%; height: auto; aspect-ratio: 16 / 9; border-radius: 0; }
+    .post > a:hover h2 { color: var(--accent); }
+  }
+  @media (min-width: 1060px) { .news { grid-template-columns: repeat(3, 1fr); } }
+
+  /* 画像が取れなかった記事の代わりの絵。空白にしない。
+     写真用の display:block に負けないよう、組み合わせで指定する。 */
+  .ph, .thumb.ph, .lead-img.ph {
     display: flex; align-items: center; justify-content: center;
-    background: var(--chip); color: var(--muted); font-size: 30px; line-height: 1;
+    background: var(--ph-bg);
+    color: #fff; font-size: 30px; line-height: 1;
   }
-  .hero.ph { font-size: 54px; }
-  /* 動画だと一目で分かるように、サムネイルの上に再生の印を置く。 */
+  .lead-img.ph { font-size: 64px; }
+
+  /* ---------------------------------------------------------------- 見出し（セクション） */
+  .sec-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin: 26px 2px 11px; }
+  .sec-head h3 { margin: 0; font-size: 18px; font-weight: 800; letter-spacing: .04em; }
+  .sec-head h3 small { font-size: 11.5px; color: var(--muted); font-weight: 600; margin-left: 8px; letter-spacing: .02em; }
+  .sec-link { border: 0; background: none; padding: 0; cursor: pointer; font: inherit; font-size: 13px; font-weight: 700; color: var(--accent); white-space: nowrap; }
+
+  /* ---------------------------------------------------------------- ここ数日のまとめ */
+  .digest {
+    position: relative; overflow: hidden; background: var(--card); border-radius: var(--radius);
+    box-shadow: var(--shadow); padding: 16px 18px 14px 20px; margin: 0 0 4px;
+  }
+  .digest::before { content: ""; position: absolute; inset: 0 auto 0 0; width: 4px; background: var(--accent); }
+  .dg-label { font-size: 11.5px; font-weight: 800; color: var(--accent); letter-spacing: .08em; }
+  .dg-label span { color: var(--muted); font-weight: 600; letter-spacing: .02em; margin-left: 6px; }
+  .digest h3 { font-size: 17px; font-weight: 800; line-height: 1.5; margin: 6px 0 10px; }
+  .digest ol { list-style: none; margin: 0; padding: 0; counter-reset: dg; }
+  .digest li { position: relative; padding-left: 28px; font-size: 14px; line-height: 1.75; margin-bottom: 9px; }
+  .digest li::before {
+    counter-increment: dg; content: counter(dg);
+    position: absolute; left: 0; top: 3px; width: 19px; height: 19px; border-radius: 50%;
+    background: var(--soft); color: var(--accent); font-size: 11px; font-weight: 800;
+    display: grid; place-items: center; letter-spacing: 0;
+  }
+  .digest li a { margin-left: 3px; font-size: 16px; line-height: 1; font-weight: 700; color: var(--accent); letter-spacing: 0; vertical-align: -1px; }
+  .digest li a:first-of-type { margin-left: 6px; }
+  .digest li.more { display: none; }
+  .digest.open li.more { display: list-item; }
+  .dg-foot { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-top: 2px; }
+  .dg-note { font-size: 11px; color: var(--muted); }
+  .dg-toggle { border: 0; background: none; padding: 0; cursor: pointer; font: inherit; font-size: 13px; font-weight: 700; color: var(--accent); white-space: nowrap; }
+
+  /* ---------------------------------------------------------------- そのほか */
+  .empty, .loading { text-align: center; color: var(--muted); padding: 56px 0; font-size: 14px; }
+  .sk { border-radius: 12px; background: var(--chip); background-image: linear-gradient(90deg, transparent, rgba(255,255,255,.35), transparent);
+        background-size: 200% 100%; animation: sk 1.3s ease-in-out infinite; }
+  @keyframes sk { from { background-position: 150% 0; } to { background-position: -50% 0; } }
+  .sk-lead { aspect-ratio: 4 / 3; border-radius: var(--radius); margin-bottom: 16px; }
+  .sk-row { height: 96px; margin-bottom: 10px; }
+
+  #more {
+    display: block; margin: 18px auto 0; padding: 11px 28px; cursor: pointer;
+    background: var(--card); color: var(--text); border: 1px solid var(--line); border-radius: 999px;
+    font: inherit; font-size: 14px; font-weight: 700; box-shadow: var(--shadow);
+  }
+  /* #more の display 指定が hidden 属性に勝ってしまうので、消えるように戻す。 */
+  #more[hidden] { display: none; }
+
+  /* お気に入りの一覧（ui.js が描く）の見た目 */
+  #ui-favs article { background: var(--card); border-radius: var(--radius); box-shadow: var(--shadow); padding: 14px 16px; margin-bottom: 10px; }
+  #ui-favs .meta { display: flex; flex-wrap: wrap; gap: 6px; font-size: 11.5px; color: var(--muted); margin-bottom: 4px; }
+  #ui-favs .tag { color: var(--accent); font-weight: 800; }
+  #ui-favs .row { display: flex; gap: 12px; align-items: flex-start; }
+  #ui-favs .row .body { flex: 1; min-width: 0; }
+  #ui-favs .thumb { width: 84px; height: 84px; object-fit: cover; border-radius: 10px; }
+  #ui-favs h2 { font-size: 15.5px; line-height: 1.55; margin: 0 0 6px; }
+  #ui-favs .src { font-size: 12.5px; font-weight: 700; color: var(--accent); }
+
+  footer { max-width: 1080px; margin: 0 auto; padding: 8px 16px 44px; font-size: 11.5px; color: var(--muted); }
+  footer details { border-top: 1px solid var(--line); padding-top: 14px; }
+  footer summary { cursor: pointer; font-weight: 700; color: var(--text); font-size: 12.5px; }
+  footer p { margin: 8px 0 0; line-height: 1.8; }
+  footer .copy { margin-top: 14px; text-align: center; letter-spacing: .06em; }
+
+  /* ---------------------------------------------------------------- このサイトだけの部品 */
+  .logo { background: transparent; color: var(--accent); box-shadow: inset 0 0 0 1.5px var(--accent); letter-spacing: .16em; }
+  .wordmark { font-weight: 800; letter-spacing: .2em; }
+  .tabs .chip[aria-pressed="true"]::after { height: 2px; }
+  .axis { font-weight: 900; letter-spacing: .04em; }
+  .axis.reduce { color: var(--reduce); }
+  .axis.own { color: var(--own); }
+  .lead .axis.reduce { color: #f1dcb6; }
+  .lead .axis.own { color: #bfe6d3; }
+  .kicker .sub { color: var(--muted); font-weight: 700; }
+  .intro { margin: 0 2px 12px; font-size: 13px; color: var(--muted); }
+  .intro b { color: var(--text); }
+  body.ui-favmode .intro { display: none; }
+
+  /* 動画は写真の上に ▶ を重ねる */
   .play {
     position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%);
-    width: 34px; height: 34px; border-radius: 50%;
-    background: rgba(0,0,0,.55); color: #fff;
-    display: flex; align-items: center; justify-content: center;
-    font-size: 13px; padding-left: 3px; pointer-events: none;
+    width: 34px; height: 34px; border-radius: 50%; display: grid; place-items: center;
+    background: rgba(0,0,0,.6); color: #fff; font-size: 13px; padding-left: 2px;
+    -webkit-backdrop-filter: blur(4px); backdrop-filter: blur(4px); pointer-events: none;
   }
-  .heroWrap .play { width: 52px; height: 52px; font-size: 19px; }
+  .lead .play { top: 38%; width: 56px; height: 56px; font-size: 20px; }
 
-  .meta { display: flex; flex-wrap: wrap; align-items: center; gap: 7px; font-size: 11.5px; color: var(--muted); margin-bottom: 7px; }
-  .tag { background: var(--chip); border-radius: 6px; padding: 2px 7px; color: var(--text); }
-  .axisTag { border-radius: 6px; padding: 2px 7px; font-weight: 600; color: #fff; }
-  .axisTag.reduce { background: var(--reduce); }
-  .axisTag.own { background: var(--own); }
-  .badge { background: var(--badge); color: #fff; border-radius: 6px; padding: 2px 7px; font-weight: 600; }
-  h2 { font-size: 16.5px; font-weight: 700; margin: 0 0 6px; letter-spacing: -.01em; line-height: 1.45; }
-  p.summary { margin: 0 0 10px; font-size: 14px; color: var(--text); opacity: .85; }
-  /* 記事に出てきた具体的な持ち物。押すとその言葉で絞り込む。 */
-  .things { display: flex; flex-wrap: wrap; gap: 5px; margin: 0 0 10px; }
+  /* 持ち物の名前（押すとその言葉で絞り込む） */
+  .things { display: flex; flex-wrap: wrap; gap: 5px; margin: 2px 0 7px; }
   .thing {
-    border: 1px solid var(--line); border-radius: 999px;
-    padding: 1px 9px; font-size: 11.5px; color: var(--muted);
-    background: transparent; font-family: inherit; cursor: pointer;
+    font-size: 11px; font-weight: 700; color: var(--accent); background: var(--soft);
+    border-radius: 999px; padding: 1px 9px; cursor: pointer; letter-spacing: .02em;
   }
-  .links { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
-  .src { font-size: 12.5px; color: var(--accent); font-weight: 500; }
-  .orig { font-size: 11.5px; color: var(--muted); }
+  .lead .thing { color: #fff; background: rgba(255,255,255,.16); }
+  .orig { text-decoration: underline; text-underline-offset: 2px; cursor: pointer; }
 
-  .empty, .loading { text-align: center; color: var(--muted); padding: 48px 0; font-size: 14px; }
-  #more {
-    display: block; width: 100%; margin-top: 8px; padding: 13px;
-    background: var(--card); color: var(--accent); border: 1px solid var(--line);
-    border-radius: 12px; font: inherit; font-size: 15px; cursor: pointer;
+  /* ここ数日の傾向 */
+  .digest .dg-keys { display: flex; flex-wrap: wrap; gap: 6px; margin: 4px 0 10px; }
+  .digest .dg-key {
+    border: 0; cursor: pointer; font: inherit; font-size: 12px; font-weight: 700;
+    color: var(--accent); background: var(--soft); border-radius: 999px; padding: 3px 11px;
   }
-  footer {
-    max-width: 760px; margin: 0 auto; padding: 24px 16px 40px;
-    font-size: 11.5px; color: var(--muted); border-top: 1px solid var(--line);
-  }
-  footer p { margin: 0 0 7px; }
+  .digest .dg-keys.more { display: none; }
+  .digest.open .dg-keys.more { display: flex; }
+  .digest li b { display: block; }
+  /* 傾向の一文目は見出しではなく文章なので、少し控えめに。 */
+  .digest h3 { font-size: 15px; font-weight: 700; line-height: 1.8; }
+  body.ui-favmode .digest { display: none !important; }
 </style>
 </head>
 <body>
 
 <header>
   <div class="bar">
-    <h1>ミニマリスト・ニュース</h1>
+    <a class="brandmark" href="./" aria-label="ミニマリスト・ニュース トップへ">
+      <span class="logo">MINIMAL</span><span class="wordmark">NEWS</span>
+    </a>
+    <h1 class="sr-only">ミニマリスト・ニュース</h1>
     <span class="updated" id="updated"></span>
+    <button class="icon-btn" id="searchToggle" type="button" aria-label="キーワードで探す" aria-expanded="false">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.6-3.6"/></svg>
+    </button>
   </div>
-  <div class="axis" id="axisTabs">
-    <button data-axis="all" aria-pressed="true">すべて</button>
-    <button data-axis="reduce" aria-pressed="false">🍃 減らし方</button>
-    <button data-axis="own" aria-pressed="false">🎒 持ち物</button>
-  </div>
-  <div class="filters" id="mediaFilters"></div>
-  <div class="filters" id="regionFilters"></div>
-  <div class="filters" id="categoryFilters"></div>
+  <!-- 先頭の .filters に ui.js がお気に入りのタブを差し込む。 -->
+  <nav class="filters tabs" id="categoryFilters" aria-label="軸"></nav>
 </header>
 
 <main>
-  <section class="digest" id="digest" hidden>
-    <div class="dHead">
-      <h2>ここ数日の傾向</h2>
-      <button class="dToggle" id="digestToggle" aria-expanded="true">たたむ</button>
-    </div>
-    <div id="digestBody"></div>
-  </section>
-  <p class="lead" id="lead"></p>
-  <input class="search" id="search" type="search" placeholder="キーワードで絞り込む（例: 服、キッチン、リュック）" autocomplete="off">
-  <div id="list"><p class="loading">読み込み中…</p></div>
-  <button id="more" hidden>もっと見る</button>
+  <div class="searchbar" id="searchBar" hidden>
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.6-3.6"/></svg>
+    <input class="search" id="search" type="search" placeholder="服、キッチン、リュック…" autocomplete="off" enterkeyhint="search">
+  </div>
+  <div id="subFilters"></div>
+  <div id="list">
+    <div class="sk sk-lead"></div><div class="sk sk-row"></div><div class="sk sk-row"></div><div class="sk sk-row"></div>
+  </div>
+  <button id="more" type="button" hidden>もっと見る</button>
 </main>
 
 <footer>
-  <p>海外・国内の個人ブログ、ニュース、YouTube、X を自動で集め、見出しと要約を機械生成しています。要約は原文の全訳ではありません。詳しい内容は必ず出典元をご確認ください。</p>
-  <p>「ここ数日の傾向」は、直近に集まった記事の要約だけを材料に機械がまとめたものです。集めた範囲の中での傾向であって、世の中全体の統計ではありません。</p>
-  <p>「🍃 減らし方」は物を手放す方法や考え方、「🎒 持ち物」は減らしたうえで実際に使っている物の話です。振り分けも自動なので、時々ずれることがあります。</p>
-  <p>海外の記事は「🌐 日本語で読む」から Google 翻訳を通したページが開きます。翻訳は Google によるもので、当サイトが訳したものではありません。翻訳を受け付けない媒体もあるので、その場合は隣の「原文」からお読みください。</p>
-  <p>記事に出てくる持ち物の名前は、要約の際に本文から拾ったものです。商品名や仕様は出典元でご確認ください。</p>
-  <p>サムネイルは各媒体が配信データ（RSS・OGP）で公開している画像を、出典と原文リンクを添えて表示しています。</p>
-  <p>記事および画像の著作権は各媒体に帰属します。掲載の停止をご希望の媒体様はリポジトリのIssueよりご連絡ください。</p>
-  <p id="sources"></p>
+  <details>
+    <summary>このサイトについて・出典</summary>
+    <p>海外・国内の個人ブログ、ニュース、YouTube、X を自動で集め、見出しと要約を機械生成しています。要約は原文の全訳ではありません。詳しい内容は必ず出典元をご確認ください。</p>
+    <p>「ここ数日の傾向」は、直近に集まった記事の要約だけを材料に機械がまとめたものです。集めた範囲の中での傾向であって、世の中全体の統計ではありません。</p>
+    <p>「🍃 減らし方」は物を手放す方法や考え方、「🎒 持ち物」は減らしたうえで実際に使っている物の話です。振り分けも自動なので、時々ずれることがあります。</p>
+    <p>海外の記事は「🌐 日本語で読む」から Google 翻訳を通したページが開きます。翻訳は Google によるもので、当サイトが訳したものではありません。翻訳を受け付けない媒体もあるので、その場合は「原文」からお読みください。</p>
+    <p>記事に出てくる持ち物の名前は、要約の際に本文から拾ったものです。商品名や仕様は出典元でご確認ください。</p>
+    <p>サムネイルは各媒体が配信データ（RSS・OGP）で公開している画像を、出典と原文リンクを添えて表示しています。記事および画像の著作権は各媒体に帰属します。掲載の停止をご希望の媒体様はリポジトリのIssueよりご連絡ください。</p>
+    <p id="sources"></p>
+  </details>
+  <p class="copy">個人が運営するミニマリストの発信まとめです・6時間ごとに自動更新</p>
 </footer>
 
 <script>
+// ================================================================ 共通の部品
+// （6つのニュースサイトで同じ作り。ユニクロ ニュースの画面をもとにしている）
+
 const PAGE_SIZE = 30;
-let all = [], filtered = [], shown = 0;
-let axis = "all", media = "all", region = "all", category = "all", query = "";
 
 const fmt = new Intl.DateTimeFormat("ja-JP", {
   month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit", timeZone: "Asia/Tokyo"
 });
 
+function relative(iso) {
+  const then = new Date(iso), diff = (Date.now() - then) / 1000;
+  if (diff < 3600) return `${Math.max(1, Math.floor(diff / 60))}分前`;
+  if (diff < 86400) return `${Math.floor(diff / 3600)}時間前`;
+  if (diff < 604800) return `${Math.floor(diff / 86400)}日前`;
+  return fmt.format(then);
+}
+
+// Google翻訳を通した原文ページ。1タップで日本語の全文が読める。
+function translated(url) {
+  return "https://translate.google.com/translate?sl=auto&tl=ja&u=" + encodeURIComponent(url);
+}
+
+function escapeHtml(s) {
+  return String(s == null ? "" : s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
+const num = n => Number(n || 0).toLocaleString("ja-JP");
+const linkAttrs = t => `href="${escapeHtml(t.href)}"${t.blank ? ' target="_blank" rel="noopener noreferrer"' : ""}`;
+
+// 押して切り替えたときだけ、ふわっと出す（CSS の #list.anim）。
+// 読み込みのたびに動かすと、アプリに戻るたびに一覧全体がちらつく。
+function animateNext() {
+  const list = document.getElementById("list");
+  list.classList.remove("anim");
+  void list.offsetWidth;   // 付け直しても動くように、一度描き直させる
+  list.classList.add("anim");
+  clearTimeout(animateNext.timer);
+  animateNext.timer = setTimeout(() => list.classList.remove("anim"), 500);
+}
+
+// ---------------------------------------------------------------- タブと小さな切り替え
+
+// 上のタブ（1列）を作り直す。お気に入りのタブ（ui.js が足したもの）は残して元の場所に戻す。
+function renderTabs(tabs, current) {
+  const box = document.getElementById("categoryFilters");
+  box.querySelectorAll(".chip:not(#ui-favChip)").forEach(el => el.remove());
+  const fav = box.querySelector("#ui-favChip");
+  box.insertAdjacentHTML("afterbegin", tabs.map(([key, label]) =>
+    `<button type="button" class="chip" data-tab="${escapeHtml(key)}" aria-pressed="${key === current}">${label}</button>`).join(""));
+  // ui.js は「先頭の次」にお気に入りを置くので、作り直したあとも同じ場所に戻しておく。
+  if (fav) box.insertBefore(fav, box.children[1] || null);
+}
+
+function markTab(key) {
+  document.querySelectorAll("#categoryFilters .chip[data-tab]").forEach(c =>
+    c.setAttribute("aria-pressed", String(c.dataset.tab === key)));
+  const tab = document.querySelector(`#categoryFilters .chip[data-tab="${CSS.escape(key)}"]`);
+  if (tab) tab.scrollIntoView({ block: "nearest", inline: "center", behavior: "smooth" });
+}
+
+function segHtml(name, current, options) {
+  return `<div class="seg" role="group">${options.map(([value, label]) =>
+    `<button type="button" data-seg="${name}" data-val="${escapeHtml(value)}" aria-pressed="${value === current}">${label}</button>`
+  ).join("")}</div>`;
+}
+
+// ---------------------------------------------------------------- 記事のカード
+
+// 先頭の大きな記事（写真に見出しを重ねる）と、一覧の行。
+// kicker … 見出しの上の小さな行（カテゴリ・注目など）
+// byline … 出典と時刻の行
+// extra  … 要約の下に足すもの（開催日など）
+// overlay … 写真の上に重ねる印（動画の ▶ など。無くてよい）
+function leadHtml(item, parts) {
+  const img = item.image
+    ? `<img class="lead-img" src="${escapeHtml(item.image)}" alt="" decoding="async" referrerpolicy="no-referrer" data-ph="${parts.mark}">`
+    : `<div class="lead-img ph">${parts.mark}</div>`;
+  return `
+  <article class="lead" data-id="${escapeHtml(item.id)}">
+    <a ${linkAttrs(parts.target)}>
+      ${img}${parts.overlay || ""}
+      <div class="lead-txt">
+        ${parts.kicker}
+        <h2>${escapeHtml(item.title_ja)}</h2>
+        ${parts.summary ? `<p class="dek clamp2">${escapeHtml(parts.summary)}</p>` : ""}
+        ${parts.extra || ""}
+        ${parts.byline}
+      </div>
+    </a>
+  </article>`;
+}
+
+function postHtml(item, parts) {
+  const img = item.image
+    ? `<img class="thumb" src="${escapeHtml(item.image)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" data-ph="${parts.mark}">`
+    : `<div class="thumb ph">${parts.mark}</div>`;
+  return `
+  <article class="post" data-id="${escapeHtml(item.id)}">
+    <a ${linkAttrs(parts.target)}>
+      <div class="post-img">${img}${parts.overlay || ""}</div>
+      <div class="post-txt">
+        ${parts.kicker}
+        <h2 class="clamp3">${escapeHtml(item.title_ja)}</h2>
+        ${parts.summary ? `<p class="dek clamp2">${escapeHtml(parts.summary)}</p>` : ""}
+        ${parts.extra || ""}
+        ${parts.byline}
+      </div>
+    </a>
+  </article>`;
+}
+
+// いちばん新しい記事だけ大きく、あとは同じ大きさで並べる。
+// #list の中に <div id="leadSlot"> と <div class="news" id="news"> を置いてから呼ぶ。
+let filtered = [], shown = 0;
+function renderMore(partsFor) {
+  const news = document.getElementById("news");
+  const lead = document.getElementById("leadSlot");
+  if (!news) return;
+  const slice = filtered.slice(shown, shown + PAGE_SIZE);
+  if (shown === 0 && slice.length && lead) {
+    lead.outerHTML = leadHtml(slice[0], partsFor(slice[0]));
+    news.insertAdjacentHTML("beforeend", slice.slice(1).map(i => postHtml(i, partsFor(i))).join(""));
+  } else {
+    news.insertAdjacentHTML("beforeend", slice.map(i => postHtml(i, partsFor(i))).join(""));
+  }
+  shown += slice.length;
+  document.getElementById("more").hidden = shown >= filtered.length;
+}
+
+// ---------------------------------------------------------------- 検索・もっと見る・画像
+
+function setupSearch(onChange) {
+  const toggle = document.getElementById("searchToggle");
+  const bar = document.getElementById("searchBar");
+  const input = document.getElementById("search");
+  toggle.addEventListener("click", () => {
+    const open = bar.hidden;
+    bar.hidden = !open;
+    toggle.setAttribute("aria-expanded", String(open));
+    if (open) {
+      input.focus();
+    } else if (input.value) {
+      // 閉じたら絞り込みも外す（見えないところで絞り込まれたままにしない）。
+      input.value = "";
+      input.dispatchEvent(new Event("input"));
+      onChange("", true);
+    }
+  });
+  let timer;
+  input.addEventListener("input", e => {
+    clearTimeout(timer);
+    const value = e.target.value;
+    timer = setTimeout(() => onChange(value, false), 180);
+  });
+}
+
+function setupMore(render) {
+  const more = document.getElementById("more");
+  more.addEventListener("click", render);
+  // ボタンが見えてきたら、押さなくても続きを出す。
+  if ("IntersectionObserver" in window) {
+    new IntersectionObserver(entries => {
+      if (entries.some(en => en.isIntersecting) && !more.hidden && !document.body.classList.contains("ui-favmode")) render();
+    }, { rootMargin: "400px 0px" }).observe(more);
+  }
+}
+
+// 画像のURLが切れていたら、同じ大きさの代わりの絵に置き換える（穴を空けない）。
+// 読み込めても極端に小さい画像は「いいね」ボタンなどの部品なので同じ扱いにする。
+// error / load は親まで上がってこないので、捕捉フェーズで受ける。
+function setupPlaceholders(fallback) {
+  const replace = img => {
+    const box = document.createElement("div");
+    box.className = `${img.className} ph`;
+    box.textContent = img.dataset.ph || fallback;
+    img.replaceWith(box);
+  };
+  const list = document.getElementById("list");
+  list.addEventListener("error", e => {
+    if (e.target instanceof HTMLImageElement) replace(e.target);
+  }, true);
+  list.addEventListener("load", e => {
+    const img = e.target;
+    if (img instanceof HTMLImageElement && img.naturalWidth && img.naturalWidth < 200) replace(img);
+  }, true);
+}
+
+// ================================================================ このサイトの分
+
+let all = [], digest = null, meta = { categories: [], media_kinds: [], regions: [] };
+// tab … 上のタブ（2つの軸）
+let tab = "all", media = "all", region = "all", category = "all", query = "";
+
 const MEDIA_LABELS = { blog: "📝 ブログ", news: "🗞 ニュース", youtube: "▶️ YouTube", x: "𝕏 ポスト" };
 const AXIS_LABELS = { reduce: "減らし方", own: "持ち物" };
 const AXIS_MARK = { reduce: "🍃", own: "🎒" };
+const INTRO = {
+  all: "世界と日本のミニマリストの発信",
+  reduce: "どうやって物を減らしているか",
+  own: "減らしたうえで何を持っているか",
+};
 
 // 海外の記事は Google 翻訳ごしのURLで開く。
 // translate.goog はホスト名の "." を "-"、もとの "-" を "--" に置き換えた別ホストで
@@ -292,30 +606,50 @@ function readingUrl(item) {
 }
 
 // お気に入り一覧（ui.js）も同じ決め方を使うので、window.NEWS_LINK に置いておく。
-window.NEWS_LINK = item => {
+function linkTarget(item) {
   const translated = readingUrl(item);
   const cta = translated ? "日本語で読む →"
     : item.media === "youtube" ? "動画を見る →"
     : item.media === "x" ? "Xで見る →" : "元の記事を読む →";
   return { href: translated || item.url, blank: true, label: (translated ? "🌐 " : "") + cta };
-};
-
-function relative(iso) {
-  const then = new Date(iso), diff = (Date.now() - then) / 1000;
-  if (diff < 3600) return `${Math.max(1, Math.floor(diff / 60))}分前`;
-  if (diff < 86400) return `${Math.floor(diff / 3600)}時間前`;
-  if (diff < 604800) return `${Math.floor(diff / 86400)}日前`;
-  return fmt.format(then);
 }
+window.NEWS_LINK = linkTarget;
 
-function escapeHtml(s) {
-  return String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const pool = () => tab === "all" ? all : all.filter(i => i.axis === tab);
+const isPlain = () => media === "all" && region === "all" && category === "all" && !query.trim();
+
+function partsFor(item) {
+  const axis = item.axis === "own" ? "own" : "reduce";
+  const translated = readingUrl(item);
+  const things = (item.things || []).slice(0, 4);
+  return {
+    mark: AXIS_MARK[axis],
+    target: linkTarget(item),
+    summary: item.summary_ja,
+    overlay: item.media === "youtube" ? '<span class="play">▶</span>' : "",
+    kicker: `<div class="kicker">
+        <span class="axis ${axis}">${AXIS_MARK[axis]} ${AXIS_LABELS[axis]}</span>
+        <span class="sub">${escapeHtml(item.category)}</span>
+        ${item.importance >= 4 ? '<span class="hot">読み応え</span>' : ""}
+      </div>`,
+    extra: things.length ? `<div class="things">${things.map(t =>
+      `<span class="thing" data-thing="${escapeHtml(t)}">${escapeHtml(t)}</span>`).join("")}</div>` : "",
+    // 翻訳を受け付けない媒体があるので、海外の記事には必ず「原文」を添える。
+    byline: `<div class="byline">${MEDIA_LABELS[item.media] || "📝 ブログ"}<span class="dot">·</span>${item.region === "海外" ? "🌍 " : ""}${escapeHtml(item.source)}<span class="dot">·</span>${relative(item.published)}${
+      translated ? `<span class="dot">·</span><span class="orig" data-orig="${escapeHtml(item.url)}">原文</span>` : ""}</div>`,
+  };
 }
 
 function apply() {
   const q = query.trim().toLowerCase();
+  // 軸を切り替えた結果、選んでいた絞り込みが空になることがあるので戻す。
+  if (category !== "all" && !pool().some(i => i.category === category)) category = "all";
+  if (media !== "all" && !pool().some(i => i.media === media)) media = "all";
+  if (region !== "all" && !pool().some(i => i.region === region)) region = "all";
+  renderSubFilters();
+
   filtered = all.filter(item => {
-    if (axis !== "all" && item.axis !== axis) return false;
+    if (tab !== "all" && item.axis !== tab) return false;
     if (media !== "all" && item.media !== media) return false;
     if (region !== "all" && item.region !== region) return false;
     if (category !== "all" && item.category !== category) return false;
@@ -326,217 +660,121 @@ function apply() {
     return true;
   });
   shown = 0;
-  document.getElementById("list").innerHTML = "";
-  document.getElementById("lead").textContent = leadText();
-  render();
-}
-
-function leadText() {
-  const n = filtered.length;
-  if (axis === "reduce") return `どうやって物を減らしているか — ${n}件`;
-  if (axis === "own") return `減らしたうえで何を持っているか — ${n}件`;
-  return `世界と日本のミニマリストの発信 — ${n}件`;
-}
-
-function render() {
   const list = document.getElementById("list");
-  const slice = filtered.slice(shown, shown + PAGE_SIZE);
+  const intro = `<p class="intro">${escapeHtml(INTRO[tab] || INTRO.all)} — <b>${filtered.length}件</b></p>`;
   if (!filtered.length) {
-    list.innerHTML = '<p class="empty">該当する記事がありません</p>';
+    list.innerHTML = intro + '<p class="empty">該当する記事がありません</p>';
     document.getElementById("more").hidden = true;
     return;
   }
-  list.insertAdjacentHTML("beforeend", slice.map((item, i) => {
-    // 先頭と「濃い」記事だけ大きい画像にして、一覧に緩急をつける。
-    const hero = shown + i === 0 || item.importance >= 4;
-    const mark = AXIS_MARK[item.axis] || "🍃";
-    const meta = `
-        <div class="meta">
-          <span class="axisTag ${item.axis === "own" ? "own" : "reduce"}">${mark} ${AXIS_LABELS[item.axis] || "減らし方"}</span>
-          ${item.importance >= 4 ? '<span class="badge">読み応え</span>' : ""}
-          <span class="tag">${escapeHtml(item.category)}</span>
-          <span>${MEDIA_LABELS[item.media] || "📝 ブログ"}</span>
-          <span>${escapeHtml(item.source)}</span>
-          <span>・${relative(item.published)}</span>
-        </div>`;
-    const title = `<h2>${escapeHtml(item.title_ja)}</h2>`;
-    // 画像が無い記事、読み込みに失敗した記事は同じ大きさの代替の絵に差し替える。
-    // 失敗したときの差し替えは下の error ハンドラが受け持つ（data-ph が代わりの絵）。
-    const play = item.media === "youtube" ? '<span class="play">▶</span>' : "";
-    const img = cls => item.image
-      ? `<img class="${cls}" src="${escapeHtml(item.image)}" alt="" loading="lazy" decoding="async"
-             referrerpolicy="no-referrer" data-ph="${mark}">`
-      : `<div class="${cls} ph">${mark}</div>`;
-    const head = hero
-      ? `<div class="heroWrap">${img("hero")}${play}</div>${meta}${title}`
-      // 出典と時刻は幅いっぱいに置き、見出しだけサムネイルと並べる。
-      : `${meta}<div class="row"><div class="body">${title}</div><div class="shot">${img("thumb")}${play}</div></div>`;
-    const things = (item.things || []).length
-      ? `<div class="things">${item.things.map(t =>
-          `<button class="thing" data-thing="${escapeHtml(t)}">${escapeHtml(t)}</button>`).join("")}</div>`
-      : "";
-    // 海外の記事は日本語に訳したページを主にし、原文へのリンクも必ず併記する
-    // （翻訳を通さない媒体があるため、原文が行き止まりにならないようにする）。
-    const translated = readingUrl(item);
-    const open = translated || item.url;
-    const cta = translated ? "日本語で読む →"
-      : item.media === "youtube" ? "動画を見る →"
-      : item.media === "x" ? "Xで見る →" : "元の記事を読む →";
-    return `
-    <article data-id="${escapeHtml(item.id)}">
-      <a href="${escapeHtml(open)}" target="_blank" rel="noopener noreferrer">
-        ${head}
-        <p class="summary">${escapeHtml(item.summary_ja)}</p>
-      </a>
-      ${things}
-      <div class="links">
-        <a href="${escapeHtml(open)}" target="_blank" rel="noopener noreferrer">
-          <span class="src">${translated ? "🌐 " : ""}${cta}</span>
-        </a>
-        ${translated ? `<a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer"><span class="orig">原文</span></a>` : ""}
-      </div>
-    </article>`;
-  }).join(""));
-  shown += slice.length;
-  document.getElementById("more").hidden = shown >= filtered.length;
+  // 絞り込みをしていないときは、先頭の記事のあとに「ここ数日の傾向」を挟む。
+  list.innerHTML = intro + `<div id="leadSlot"></div>` + (isPlain() ? digestHtml() : "")
+    + (isPlain() && digest ? `<div class="sec-head"><h3>新着</h3></div>` : "")
+    + `<div class="news" id="news"></div>`;
+  render();
 }
-
-// 該当0件のチップは押しても空になるだけなので、そもそも出さない。
-// 軸で絞り込んだあとの中身に合わせたいので、現在の軸だけ先に効かせて数える。
-function buildChips(boxId, attr, current, defs) {
-  const pool = axis === "all" ? all : all.filter(i => i.axis === axis);
-  document.getElementById(boxId).innerHTML = defs
-    .filter(d => d.key === "all" || pool.some(d.match))
-    .map(d => `<button class="chip" data-${attr}="${escapeHtml(d.key)}" aria-pressed="${d.key === current}">${d.label}</button>`)
-    .join("");
-}
-
-function buildAll(categories, mediaKinds, regions) {
-  const pool = axis === "all" ? all : all.filter(i => i.axis === axis);
-  // 軸を切り替えた結果、選んでいた絞り込みが空になることがあるので戻す。
-  if (category !== "all" && !pool.some(i => i.category === category)) category = "all";
-  if (media !== "all" && !pool.some(i => i.media === media)) media = "all";
-  if (region !== "all" && !pool.some(i => i.region === region)) region = "all";
-
-  buildChips("mediaFilters", "media", media, [{ key: "all", label: "すべての種別", match: () => true }]
-    .concat(mediaKinds.map(m => ({ key: m, label: MEDIA_LABELS[m] || m, match: i => i.media === m }))));
-  buildChips("regionFilters", "region", region, [{ key: "all", label: "海外＋国内", match: () => true }]
-    .concat(regions.map(r => ({ key: r, label: r, match: i => i.region === r }))));
-  buildChips("categoryFilters", "category", category, [{ key: "all", label: "全カテゴリ", match: () => true }]
-    .concat(categories.map(c => ({ key: c, label: c, match: i => i.category === c }))));
-}
-
-let meta = { categories: [], media_kinds: [], regions: [] };
+const render = () => renderMore(partsFor);
 
 // ---- ここ数日の傾向 --------------------------------------------------------
 // 収集のたびに collect.py が作り直して articles.json に入れてくる。
-let digest = null;
-// たたんだかどうかは端末ごとの好みなので localStorage に置く。
-// 同じドメインに6サイトあるので、キーにサイト名を入れて混ざらないようにする。
-const DIGEST_KEY = "minimalist-news:digest-open";
-
-function digestOpen() {
-  try { return localStorage.getItem(DIGEST_KEY) !== "0"; } catch (err) { return true; }
+// 最初は要点2つだけ見せ、残りとキーワードは「続きを読む」で開く。開いたかどうかは端末ごとに覚える
+// （同じドメインに6サイトあるので、キーにサイト名を入れて混ざらないようにする）。
+const DIGEST_KEY = "minimalist-news:digest-more";
+function digestMore() {
+  try { return localStorage.getItem(DIGEST_KEY) === "1"; } catch (err) { return false; }
 }
 
-function renderDigest() {
-  const box = document.getElementById("digest");
-  if (!digest || !digest.overview) { box.hidden = true; return; }
-  box.hidden = false;
-
-  const open = digestOpen();
-  const toggle = document.getElementById("digestToggle");
-  toggle.textContent = open ? "たたむ" : "ひらく";
-  toggle.setAttribute("aria-expanded", String(open));
-  const body = document.getElementById("digestBody");
-  if (!open) { body.innerHTML = ""; return; }
-
+function digestHtml() {
+  if (!digest || !digest.overview) return "";
   // 開いているタブに合わせて一文目を差し替える。軸ごとの一言が無ければ全体の話を出す。
-  const lead = (axis === "reduce" && digest.reduce) || (axis === "own" && digest.own) || digest.overview;
-  const points = (digest.points || []).map(p =>
-    `<li><b>${escapeHtml(p.title)}</b>${escapeHtml(p.body)}</li>`).join("");
+  const lead = (tab === "reduce" && digest.reduce) || (tab === "own" && digest.own) || digest.overview;
+  const FIRST = 2;
+  const points = digest.points || [];
   const keys = (digest.keywords || []).map(k =>
-    `<button class="dKey" data-key="${escapeHtml(k)}">${escapeHtml(k)}</button>`).join("");
-  const counts = digest.reduce_count != null
-    ? `（🍃 減らし方 ${digest.reduce_count} ・ 🎒 持ち物 ${digest.own_count}）` : "";
-
-  body.innerHTML = `
-    <p class="dLead">${escapeHtml(lead)}</p>
-    ${points ? `<ul class="dPoints">${points}</ul>` : ""}
-    ${keys ? `<div class="dKeys">${keys}</div>` : ""}
-    <p class="dMeta">${escapeHtml(digest.period || "")}に集まった${digest.count}件から${counts}</p>`;
+    `<button class="dg-key" type="button" data-key="${escapeHtml(k)}">${escapeHtml(k)}</button>`).join("");
+  const counts = digest.reduce_count != null ? `🍃 ${digest.reduce_count} ・ 🎒 ${digest.own_count}` : "";
+  const extra = points.length > FIRST || keys;
+  return `
+  <section class="digest${digestMore() ? " open" : ""}" id="digest">
+    <div class="dg-label">ここ数日の傾向<span>${escapeHtml(digest.period || "")} · ${digest.count || 0}件から${counts ? ` · ${counts}` : ""}</span></div>
+    <h3>${escapeHtml(lead)}</h3>
+    ${points.length ? `<ol>${points.map((p, n) =>
+      `<li class="${n >= FIRST ? "more" : ""}"><b>${escapeHtml(p.title)}</b>${escapeHtml(p.body)}</li>`).join("")}</ol>` : ""}
+    ${keys ? `<div class="dg-keys more">${keys}</div>` : ""}
+    <div class="dg-foot">
+      <span class="dg-note">集めた記事の要約から機械がまとめた傾向です</span>
+      ${extra ? `<button class="dg-toggle" type="button" data-digest>${digestMore() ? "閉じる" : "続きを読む"}</button>` : ""}
+    </div>
+  </section>`;
 }
 
-document.getElementById("digestToggle").addEventListener("click", () => {
-  try { localStorage.setItem(DIGEST_KEY, digestOpen() ? "0" : "1"); } catch (err) { /* 使えなくても動く */ }
-  renderDigest();
-});
-
-// キーワードを押したら、その言葉で一覧を絞り込む。
-document.getElementById("digest").addEventListener("click", e => {
-  const btn = e.target.closest("[data-key]");
-  if (!btn) return;
-  const box = document.getElementById("search");
-  box.value = btn.dataset.key;
-  query = box.value;
-  apply();
-});
-
-// チップは読み込みのたびに作り直すので、クリックは親側で1度だけ受ける。
-function chipHandler(attr, setValue) {
-  return e => {
-    const btn = e.target.closest(`[data-${attr}]`);
-    if (!btn) return;
-    setValue(btn.dataset[attr]);
-    e.currentTarget.querySelectorAll("button").forEach(c => c.setAttribute("aria-pressed", String(c === btn)));
-    apply();
-  };
+// 該当0件の切り替えは押しても空になるだけなので、そもそも出さない。
+// 軸で絞り込んだあとの中身に合わせたいので、いまの軸の記事だけで数える。
+function renderSubFilters() {
+  const here = pool();
+  const cats = meta.categories.filter(c => here.some(i => i.category === c));
+  const medias = meta.media_kinds.filter(m => here.some(i => i.media === m));
+  const regions = meta.regions.filter(r => here.some(i => i.region === r));
+  document.getElementById("subFilters").innerHTML =
+    segHtml("category", category, [["all", "全カテゴリ"]].concat(cats.map(c => [c, escapeHtml(c)])))
+    + segHtml("media", media, [["all", "全種別"]].concat(medias.map(m => [m, MEDIA_LABELS[m] || m])))
+    + segHtml("region", region, [["all", "海外＋国内"]].concat(regions.map(r => [r, r === "海外" ? "🌍 海外" : "🇯🇵 国内"])));
 }
 
-document.getElementById("axisTabs").addEventListener("click", e => {
-  const btn = e.target.closest("[data-axis]");
-  if (!btn) return;
-  axis = btn.dataset.axis;
-  e.currentTarget.querySelectorAll("button").forEach(c => c.setAttribute("aria-pressed", String(c === btn)));
-  // 軸が変わると使える絞り込みも変わるので、チップを作り直す。
-  buildAll(meta.categories, meta.media_kinds, meta.regions);
-  renderDigest();
-  apply();
-});
-document.getElementById("mediaFilters").addEventListener("click", chipHandler("media", v => { media = v; }));
-document.getElementById("regionFilters").addEventListener("click", chipHandler("region", v => { region = v; }));
-document.getElementById("categoryFilters").addEventListener("click", chipHandler("category", v => { category = v; }));
+function buildTabs() {
+  const tabs = [["all", "トップ"]]
+    .concat(["reduce", "own"].filter(a => all.some(i => i.axis === a)).map(a => [a, `${AXIS_MARK[a]} ${AXIS_LABELS[a]}`]));
+  if (!tabs.some(([key]) => key === tab)) tab = "all";
+  renderTabs(tabs, tab);
+}
 
-document.getElementById("more").addEventListener("click", render);
-
-// 持ち物の名前を押したら、その言葉で検索する。
-document.getElementById("list").addEventListener("click", e => {
-  const btn = e.target.closest("[data-thing]");
+document.getElementById("categoryFilters").addEventListener("click", e => {
+  const btn = e.target.closest("[data-tab]");
   if (!btn) return;
-  const box = document.getElementById("search");
-  box.value = btn.dataset.thing;
-  query = box.value;
+  tab = btn.dataset.tab;
+  markTab(tab);
+  animateNext();
   apply();
   window.scrollTo({ top: 0, behavior: "smooth" });
 });
 
-// 画像のURLが切れていたら、同じ大きさの代わりの絵に置き換える（穴を空けない）。
-// error は親まで上がってこないので、捕捉フェーズで受ける。
-document.getElementById("list").addEventListener("error", e => {
-  const img = e.target;
-  if (!(img instanceof HTMLImageElement)) return;
-  const box = document.createElement("div");
-  box.className = `${img.className} ph`;
-  box.textContent = img.dataset.ph || "🍃";
-  img.replaceWith(box);
-}, true);
-
-let timer;
-document.getElementById("search").addEventListener("input", e => {
-  clearTimeout(timer);
-  query = e.target.value;
-  timer = setTimeout(apply, 180);
+document.getElementById("subFilters").addEventListener("click", e => {
+  const btn = e.target.closest("[data-seg]");
+  if (!btn) return;
+  const value = btn.dataset.val;
+  ({ category: () => { category = value; }, media: () => { media = value; }, region: () => { region = value; } })[btn.dataset.seg]();
+  animateNext();
+  apply();
 });
+
+// 一覧の中で押せるもの: 持ち物の名前・キーワード（その言葉で絞り込む）、原文、傾向の開け閉め。
+function searchFor(word) {
+  const input = document.getElementById("search");
+  document.getElementById("searchBar").hidden = false;
+  document.getElementById("searchToggle").setAttribute("aria-expanded", "true");
+  input.value = query = word;
+  animateNext();
+  apply();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+document.getElementById("list").addEventListener("click", e => {
+  const thing = e.target.closest("[data-thing]");
+  const key = e.target.closest("[data-key]");
+  const orig = e.target.closest("[data-orig]");
+  if (thing || key || orig) e.preventDefault();   // カード全体のリンクは開かない
+  if (thing) return searchFor(thing.dataset.thing);
+  if (key) return searchFor(key.dataset.key);
+  if (orig) return window.open(orig.dataset.orig, "_blank", "noopener,noreferrer");
+  if (e.target.closest("[data-digest]")) {
+    try { localStorage.setItem(DIGEST_KEY, digestMore() ? "0" : "1"); } catch (err) { /* 使えなくても動く */ }
+    const box = document.getElementById("digest");
+    if (box) box.outerHTML = digestHtml();
+  }
+});
+
+setupSearch(value => { query = value; apply(); });
+setupMore(render);
+setupPlaceholders("🍃");
 
 async function load() {
   try {
@@ -548,11 +786,10 @@ async function load() {
       media_kinds: data.media_kinds || [],
       regions: data.regions || [],
     };
-    document.getElementById("updated").textContent = data.updated_at ? `更新 ${relative(data.updated_at)}` : "";
-    document.getElementById("sources").textContent = "収集元: " + (data.sources || []).join("、");
     digest = data.digest || null;
-    renderDigest();
-    buildAll(meta.categories, meta.media_kinds, meta.regions);
+    document.getElementById("updated").textContent = data.updated_at ? `${relative(data.updated_at)}に更新` : "";
+    document.getElementById("sources").textContent = "収集元: " + (data.sources || []).join("、");
+    buildTabs();
     apply();
   } catch (err) {
     document.getElementById("list").innerHTML = '<p class="empty">記事を読み込めませんでした。時間をおいて再読み込みしてください。</p>';
