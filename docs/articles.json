@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-30T07:02:37.497411+09:00",
+ "updated_at": "2026-09-30T13:41:42.497448+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,38 +27,34 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-09-30T07:03:30.733379+09:00",
+  "generated_at": "2026-09-30T13:47:04.827636+09:00",
   "days": 3,
   "period": "9月29日〜9月30日",
   "count": 45,
-  "reduce_count": 31,
-  "own_count": 14,
-  "overview": "不要品の処分や終活を通じて家族への負担や日々のストレスを減らす工夫や、暮らしを快適にする便利な持ち物の活用事例が多数語られています。",
-  "reduce": "散らかった状態を隠すのではなく持ち物や家事のやり方を見直すことで、無駄な出費やストレスを減らして部屋を整える工夫が多く語られています。",
-  "own": "スマホ周辺機器や雨対策などの実用的なガジェットを活用し、日常のちょっとした不便を解消して持ち歩きを身軽にする工夫が紹介されています。",
+  "reduce_count": 32,
+  "own_count": 13,
+  "overview": "日常のストレスや無駄をなくすため、1日1つの手放しや家事の効率化など具体的な減らし方を実践する記事が多く集まっています。",
+  "reduce": "ペンや本、ゲーム機などの不要品を手放し、1日1つの断捨離やタイムアタックで日々の暮らしを整える工夫が語られています。",
+  "own": "スマホスタンドや軽量ガジェット、省スペースな収納アイテムなど、日々の不便を解消する便利な持ち物が紹介されています。",
   "points": [
    {
-    "title": "家族や子どもへ配慮した手放し方",
-    "body": "89歳の医学者や50代からの片付けなど、子どもの意見を尊重したり家族に負担をかけないための終活や不要品の整理方法についての具体的な心構えが語られています。"
+    "title": "1日1つの断捨離と習慣",
+    "body": "疲れやすい著者が1日10〜15分の散歩とゆるい断捨離を両立させたり、日々のイライラを解消するために1日1つの断捨離を実践し始めている様子が語られています。"
    },
    {
-    "title": "モチベーションに頼らない片付け",
-    "body": "やる気が湧く瞬間を待つのではなく、1日1つの断捨離を始めたりゴミをその都度すぐ捨てるなど、気分に左右されずに日々の暮らしを整える習慣が紹介されています。"
+    "title": "不要品を手放す基準の模索",
+    "body": "「まだ使える」ペン30本や愛着のある本、ゲーム機を手放す中で、ときめきが分からないと悩みながら自分なりのモノの手放し方や基準を探求する実体験が綴られています。"
    },
    {
-    "title": "省スペースを叶える収納の工夫",
-    "body": "山崎実業のアイテムを活用して物干しスペースや壁付け収納を確保し、床に物を置かず掃除機をかけやすくする実用的な部屋づくりの工夫が語られています。"
-   },
-   {
-    "title": "持ち物を減らすガジェット活用術",
-    "body": "重量9gのUSB-Cハブや、車載ホルダーと卓上スタンドを一体化したリングなど、複数のアイテムを一つにまとめて荷物を減らす実践例が紹介されています。"
+    "title": "ガジェットによる持ち物の統合",
+    "body": "車載ホルダーと卓上スタンドを別々に使っていたものを1つに統合したリングの実体験や、重さ9gのUSB-Cハブで持ち物を減らす工夫が紹介されています。"
    }
   ],
   "keywords": [
    "断捨離",
-   "片付け",
-   "収納",
-   "手放す"
+   "ミニマリスト",
+   "手放す",
+   "収納"
   ]
  },
  "things": [
@@ -72,7 +68,7 @@
   },
   {
    "name": "本",
-   "count": 7
+   "count": 8
   },
   {
    "name": "ポーチ",
@@ -221,6 +217,7 @@
   "Apartment Therapy",
   "Balance Through Simplicity",
   "Be More with Less",
+  "Better Homes & Gardens",
   "Family Handyman",
   "Good Housekeeping",
   "Homes and Gardens",
@@ -237,13 +234,11 @@
   "Philomath News",
   "ROOMIE",
   "Real Simple",
-  "SHEmazing!",
   "Sarah Therese",
   "Simple Lionheart Life",
   "Southern Living",
   "TRILL",
   "The Bolton News",
-  "The Boston Globe",
   "The Minimal Mom",
   "The Minimalists",
   "The Seattle Times",
@@ -282,12 +277,221 @@
   "ライブドアニュース",
   "小さな暮らしノート",
   "幻冬舎plus",
+  "朝日新聞",
   "私だけミニマリスト｜南さやか",
   "筆子ジャーナル",
   "西日本新聞me"
  ],
  "count": 400,
  "items": [
+  {
+   "id": "5cde5db450865838",
+   "url": "https://note.com/sav_day3/n/n86e74adba2db",
+   "title_original": "歩くことと断捨離の、ゆるい両立を目指す",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/318582933/rectangle_large_type_2_85cd641a820b9bcce5d99aa06fbb3474.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-30T04:35:33+00:00",
+   "title_ja": "1日1つの処分で十分とする、ゆるい断捨離と散歩の両立",
+   "summary_ja": "疲れやすい著者が、1日10〜15分の散歩とゆるい断捨離を両立させる工夫を綴っています。断捨離のお休み期間を終え、物を手放したり掃除をしたりする中で、毎日できなくても1日に1つ捨てられたら大成功という気楽な気持ちで取り組む姿勢を紹介しています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "0b2af6dc9d97f387",
+   "url": "https://note.com/ema_minimalist/n/n7014ab719404",
+   "title_original": "なぜ移動したがるのか。",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/312861139/rectangle_large_type_2_fb4326f9fb1466a5c09dba65e0b9590a.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-30T04:06:58+00:00",
+   "title_ja": "家にいるのが退屈な人が気づいた、移動を求めるノマドな生き方",
+   "summary_ja": "自宅で数日間の引きこもり生活を送った結果、家にいるのが退屈で仕方がないと気づいた著者の考察です。常に場所を移動しながら出先で作業を行う、海外ノマドのようなアクティブなライフスタイルが自分に向いているのではないかと分析しています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "e20626a02856e9cd",
+   "url": "https://note.com/pechka234/n/na371927cd63a",
+   "title_original": "読書の秋だけど、絶賛本の断捨離中",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/319100219/rectangle_large_type_2_7490f9aa684d76e2302db5cf8124f3c5.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-30T02:16:54+00:00",
+   "title_ja": "読書好きな人が取り組む本を減らす断捨離の記録",
+   "summary_ja": "幼少期から本を読むことや書店に通うことが大好きだった著者が、手当たり次第に読んできた愛着のある本を減らす断捨離に挑むエピソード。本好きだからこそ増えてしまった所有物との向き合い方を綴っている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "本"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c0a080e7ab5842ea",
+   "url": "https://thesimplicityhabit.com/10-things-frugal-people-dont-do",
+   "title_original": "10 Important Things Frugal People Don’t Do (to Save More Money)",
+   "source": "The Simplicity Habit",
+   "image": "https://thesimplicityhabit.com/wp-content/uploads/2024/06/18-1024x683.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-09-30T01:49:22+00:00",
+   "title_ja": "お金をしっかり貯める節約家が「やらない」行動習慣",
+   "summary_ja": "より多く貯金して無駄遣いを減らすために、節約家たちが日常で「やらない」重要な習慣を紹介。無駄な支出を減らしてシンプルに暮らすために、彼らの習慣を取り入れる考え方を提案している。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "6610fa15bc0d0984",
+   "url": "https://www.roomie.jp/2026/09/1888520",
+   "title_original": "オンライン会議用に買ったサンワダイレクトの「アームスタンド」が、キャンプでも大活躍してくれた話",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/DSC02498.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-30T01:00:15+00:00",
+   "title_ja": "キャンプの照明問題を解決するアームスタンド",
+   "summary_ja": "サンワダイレクトのアームスタンドをキャンプの夜に活用し、LEDランタンの設置場所の悩みを解決した人の話です。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "アームスタンド",
+    "LEDランタン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b869f3be05518011",
+   "url": "https://www.lifehacker.jp/article/amazon-audio-technica-athm20xsts",
+   "title_original": "卓上マイクはもういらない。オーディオテクニカのプロユース直系ヘッドセット",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/09/29/12e319d5-11af-43e6-9a62-4f79c2005704/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-30T01:00:00+00:00",
+   "title_ja": "軽さと音質を両立したオーディオテクニカのヘッドセット",
+   "summary_ja": "モニターヘッドホンとマイクの技術を融合させたオーディオテクニカのヘッドセット。約236gの軽さや跳ね上げ式のミュート機能を備えています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ヘッドセット",
+    "モニターヘッドホン",
+    "マイク"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "172308b10ebb074e",
+   "url": "https://www.roomie.jp/2026/09/1894983",
+   "title_original": "スマホスタンドにもストラップにもなる。背面に貼らないタイプを見つけました",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/syantostandgrip1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-30T00:45:21+00:00",
+   "title_ja": "背面に貼らないスマホスタンド兼ストラップの紹介",
+   "summary_ja": "長時間スマホを持つ負担に着目し、背面に直接貼らないタイプのスタンドとしても使えるスマホストラップを取り入れた人の話です。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "スマホスタンド",
+    "ストラップ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "37627cc2cd27bc75",
+   "url": "https://note.com/kt_b/n/n2e3a504ace0f",
+   "title_original": "「まだ使える」を手放す。30本のペンを整理して思ったこと",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/319084349/rectangle_large_type_2_871bc6877eb09463579530315fc18546.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-30T00:38:55+00:00",
+   "title_ja": "「まだ使える」ペン30本を手放した体験",
+   "summary_ja": "文具コーナーを整理し、30本のペンを減らした。使えるが不要なものを手放す基準と、片付けで得たスッキリ感を紹介。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "ペン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "0855a862fd6a57c1",
+   "url": "https://minimalist-fudeko.com/shopping-rules",
+   "title_original": "買い物リストも30日ルールも効かないもの～私がしている3つの工夫",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/09/window-shopping.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-09-30T00:10:03+00:00",
+   "title_ja": "買い物リストと30日ルールが効かないときの3つの工夫",
+   "summary_ja": "買い物リストと30日待ちルールを試すも効果が薄く、筆者が実践する買わないための3つの工夫を紹介。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "511dd532f9dd4bf7",
+   "url": "https://www.bhg.com/attic-storage-items-to-toss-12067376",
+   "title_original": "7 Things in Your Attic You Should Probably Toss Right Now",
+   "source": "Better Homes & Gardens",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-29T23:46:00+00:00",
+   "title_ja": "屋根裏の7つの不要品、今すぐ処分すべき理由",
+   "summary_ja": "Better Homes & Gardens が、屋根裏にある7つの不要品を今すぐ処分すべきと提案。具体的な品目は不明だが、整理のヒントになる。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "b4b857f5f9f2e4c5",
+   "url": "https://www.asahi.com/and/w/article/16912105",
+   "title_original": "6畳1Kの夫婦二人暮らし。ユニクロの290円靴下でも、色を選べば迷わない「おしゃれ見え」が実現する。",
+   "source": "朝日新聞",
+   "image": "https://p.potaufeu.asahi.com/1545-p/picture/31364139/93e42faf8263a9311388dbebee7d59f9.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-29T23:16:15+00:00",
+   "title_ja": "6畳1K夫婦暮らしでユニクロ靴下だけでおしゃれ見え",
+   "summary_ja": "6畳の1Kに住む夫婦が、ユニクロの290円靴下を色選びだけでおしゃれに見せるコツを紹介。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "ユニクロの靴下"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "83d1c131422a808c",
+   "url": "https://news.livedoor.com/topics/detail/32445815",
+   "title_original": "捨て魔にとっては花を飾るのもNO！洗面所は掃除のしやすさが最優先【ミニマリストの暮らし】 (2026年9月30日掲載)",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-29T22:00:34+00:00",
+   "title_ja": "洗面所は花なし、掃除しやすさが最優先",
+   "summary_ja": "ミニマリストは洗面所に花を飾らず、シンプルに保つことで掃除の手間を減らす方針を示している。実践例として装飾を排除し、清掃しやすいレイアウトを選んでいる。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "436f1359d49a1818",
    "url": "https://note.com/precious_days_/n/n8ccfaf618229",
@@ -445,6 +649,22 @@
     "スマホ",
     "有線イヤホン"
    ],
+   "importance": 3
+  },
+  {
+   "id": "a3bc433e8059b0ac",
+   "url": "https://balancethroughsimplicity.com/how-to-make-time-for-yourself",
+   "title_original": "8 Simple Ways to Make Time For Yourself Without Feeling Guilty",
+   "source": "Balance Through Simplicity",
+   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2019/04/How-to-make-time-for-yourself-2-1024x1024.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-09-29T13:49:00+00:00",
+   "title_ja": "罪悪感を持たずに自分のための時間を生み出す方法",
+   "summary_ja": "セルフケアの大切さを知りながらも、自分を優先することに罪悪感を抱く人に向けて、暮らしの中で自分のための時間を生み出すシンプルな方法を提案している。自分を大切にし、心にゆとりを持つための習慣作りのヒントが語られている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -780,6 +1000,22 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
+  },
+  {
+   "id": "20a13cceef37852b",
+   "url": "https://news.yahoo.co.jp/articles/66d02d174ee8b0c14d3ef94d6a38393332df351a",
+   "title_original": "キム兄のタレント妻 断捨離奮闘中に“特大お届けもの”「どこ置く？」夫はサラリ「コレで4人前が」（スポニチアネックス）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260929-00000242-spnannex-000-4-view.jpg?exp=10800",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-29T07:05:17+00:00",
+   "title_ja": "断捨離中の家庭に届いた大きな荷物をめぐる話",
+   "summary_ja": "断捨離の最中に大きな荷物が届いたというエピソード。持ち物を減らす暮らしの中での出来事として扱える。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
   },
   {
    "id": "1de74a338ca44a1e",
@@ -7091,243 +7327,6 @@
    "axis": "own",
    "things": [
     "自転車"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "8ecb60fdb9ec774a",
-   "url": "https://note.com/tender_zephyr208/n/ndb4338e0c96e",
-   "title_original": "サーティワン片づけ部｜入部届",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/316736363/rectangle_large_type_2_0f759e2c0c664a40fc4653ed74be46bb.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-23T10:48:19+00:00",
-   "title_ja": "31個以上手放す企画とアイスクリームご褒美",
-   "summary_ja": "筆者は「サーティワン片づけ部」に参加し、2026年9〜10月に31点以上の不要品を処分することを目標にした。達成するとサーティワンのアイスクリームを自分へのご褒美にする。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "f5c600d28df8f0e2",
-   "url": "https://balancethroughsimplicity.com/how-to-enjoy-your-home-more-when-you-cant-change-it",
-   "title_original": "How to Enjoy Your Home More When You Can’t Change It",
-   "source": "Balance Through Simplicity",
-   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2026/09/How-to-Enjoy-Your-Home-More-When-You-Cant-Change-It-2-683x1024.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-09-23T10:42:07+00:00",
-   "title_ja": "住まいを変えずに快適に過ごすコツ",
-   "summary_ja": "引っ越しや大規模リフォームができない場合でも、照明やレイアウトの微調整、パーソナルなアイテム配置など小さな工夫で自宅をより居心地よくする実践的なアイデアを紹介。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "dac17966994c7381",
-   "url": "https://note.com/happylife_6110/n/n386cd09958ff",
-   "title_original": "【番外編】今年も残り100日。「また何もしないで終わっちゃう」と焦った私が決めた、ひとつのこと",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/316628224/rectangle_large_type_2_6d7f8bfddcce4d0c08c461daa7b0c588.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-23T10:37:00+00:00",
-   "title_ja": "残り100日と気づいて片付けを決意した話",
-   "summary_ja": "今年が残り100日という投稿を見てハッとし、残りの期間の過ごし方や片付けを見直そうと決意した方のエッセイです。日々の暮らしのスピード感や心の持ちようを整えるきっかけについて綴られています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "d307cd9f72130a4b",
-   "url": "https://note.com/cottonrain/n/n9e66349469bc",
-   "title_original": "クリーンウィーク最終日〜お片付けの成果｜日々のこと",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/316643731/rectangle_large_type_2_8931e8bc4902eed721ee78b801ebc19f.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-23T10:32:30+00:00",
-   "title_ja": "シルバーウィークの5日間で毎日片付けをした話",
-   "summary_ja": "シルバーウィークの5日間を使い、お出かけをしつつも多くの時間を費やして毎日コツコツと自宅の片付けを進めた記録です。連休を活用して一気に住まいを整えた様子が綴られています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "19adcacf2fd35d60",
-   "url": "https://note.com/kenjyou/n/n9ea7ba2f188a",
-   "title_original": "1日500円以下で作れるミニマリストさんの自炊 (超効率化)",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/316725041/rectangle_large_type_2_f95a1ec7c884dee5bade39218997ee85.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-23T10:26:23+00:00",
-   "title_ja": "1日500円以下で作るミニマリストの自炊生活",
-   "summary_ja": "効率を重視する一人暮らしのミニマリストが、手軽に作れて栄養も摂れる1日500円以下の自炊メニューを紹介しています。コンビニ食からの脱却や効率的な食生活の工夫が語られています。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "7f50e24960bc156b",
-   "url": "https://note.com/apt_hornet4092/n/n0603dd94d4b1",
-   "title_original": "不思議",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/316725386/rectangle_large_type_2_07f034c509c0ffebacd4ddfa721299fd.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-23T10:16:10+00:00",
-   "title_ja": "ゴミ分別が楽しくなる…断捨離で変わった体験",
-   "summary_ja": "ゴミ分別が細かくなる地域で、最初は面倒に感じたが、断捨離を進めるうちに分別作業が楽しくなり、まるで仕分け担当大臣になったという体験を語っている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "資源ごみ",
-    "燃えるごみ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "25e1b5a81ba3e45d",
-   "url": "https://monomax.jp/archives/362905",
-   "title_original": "【スマホ見ずに視界を共有】ChatGPT連動スマートグラス「Solos V2」の実力は？テンプル交換で充電待ちゼロになる快適さをライターが本音体験",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2026/09/68fb19461039c8f5d5531125f1faea8a.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-23T10:00:34+00:00",
-   "title_ja": "ChatGPT連動スマートグラス Solos V2 の体験記",
-   "summary_ja": "スマートグラス Solos V2 はChatGPTと連動し、スマホを見ずに視界を共有できる。テンプル交換で充電待ちがなくなり、ライターが実際に快適さを体感した感想を紹介している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "Solos V2",
-    "スマートグラス"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "d42986ca25756c51",
-   "url": "https://note.com/meg0815/n/ndb77d42ac1f9",
-   "title_original": "心地よい暮らしを選び直す9月🍁｜片づけるより、散らからない暮らしを選びたい。",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/img/1790073925-BDpZ5iVEevk98y0Cdw7noGts.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-23T09:37:54+00:00",
-   "title_ja": "散らからない暮らしを選ぶ 9月の提案",
-   "summary_ja": "片づけに追われるより、最初から散らからない生活を設計することを提案。習慣や収納の見直しで、自然と整った空間を保つ方法を紹介している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "9b0a5261725c99be",
-   "url": "https://www.bostonglobe.com/2026/09/23/newsletters/starting-point",
-   "title_original": "Bring in the fleece, throw out the clutter?",
-   "source": "The Boston Globe",
-   "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/QF2C3OAU6II6TJHGX7EGJ7LP4M.jpg?auth=87993457e762660f482d685b02272423965db4b47a0556d2b8cc0f1ffd0ccb9b&width=1440",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-23T09:35:59+00:00",
-   "title_ja": "フリースで暖かく、不要物は処分する提案",
-   "summary_ja": "記事はフリース素材の衣類で暖かさを確保しつつ、不要なものを捨てて生活をシンプルにすることを勧めている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "フリース"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "f16cbf9e1cc132f6",
-   "url": "https://www.youtube.com/shorts/16PivAMyCvo",
-   "title_original": "物が少ない家、実は「掃除」より大事なこと #ミニマリスト #シングルマザー #片付けられない",
-   "source": "小さな暮らしノート",
-   "image": "https://i2.ytimg.com/vi/16PivAMyCvo/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-09-23T09:13:01+00:00",
-   "title_ja": "物が少ない家は掃除より大事なこと",
-   "summary_ja": "物を減らすと掃除範囲が減り、汚れにくく散らかりにくい暮らしを作る方法を、シングルマザーと3歳の子どもが実践例と共に語ります。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "1a598ac329a7c9e2",
-   "url": "https://monomax.jp/archives/361055",
-   "title_original": "【MonoMaxカバン大賞】プロが選んだコブマスターの「着るバッグ」が凄い！8ポケット仕様で手ぶら旅行の最適解“有能バッグ部門1位”の実力を徹底解説",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2027/09/260716-152296_11zon-scaled.jpeg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-23T09:00:35+00:00",
-   "title_ja": "プロが選んだコブマスターの8ポケット着るバッグの実力",
-   "summary_ja": "コブマスターの『着るバッグ』は8つのポケットを備え、手ぶら旅行に最適と評価され、MonoMaxカバン大賞で有能バッグ部門1位に選ばれた理由を解説します。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "着るバッグ",
-    "コブマスターのバッグ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "05bc9e8631e2e094",
-   "url": "https://www.youtube.com/shorts/ZCKsDHq-ac4",
-   "title_original": "【ミニマリスト主婦】まったりな午後のおやつ",
-   "source": "ぴーこ｜ゆるっとミニマルな日常",
-   "image": "https://i3.ytimg.com/vi/ZCKsDHq-ac4/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-09-23T08:00:23+00:00",
-   "title_ja": "ミニマリスト主婦の午後のおやつ風景",
-   "summary_ja": "ミニマリスト主婦が、シンプルな暮らしの中で楽しむ午後のおやつの様子を動画で紹介。少量の食材とコンパクトな器具だけで作る手軽なレシピや、持ち物の選び方のヒントも語られています。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "65d9851211555352",
-   "url": "https://www.shemazing.net/five-weekend-decluttering-projects-youll-actually-want-to-do",
-   "title_original": "Five Weekend Decluttering Projects You’ll Actually Want to Do",
-   "source": "SHEmazing!",
-   "image": "https://www.shemazing.net/wp-content/uploads/2026/09/1790156526_1790156518_91c36d476ad24732a49cfbe8dd390940.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-23T08:00:00+00:00",
-   "title_ja": "週末にやりたくなる5つの断捨離プロジェクト",
-   "summary_ja": "実践しやすい5つの週末断捨離アイデアを紹介し、物を減らすきっかけを提供することで、シンプルな生活への第一歩をサポートします。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "e73d3bc4f2c2aba4",
-   "url": "https://www.roomie.jp/2026/09/1887466",
-   "title_original": "自眉を活かすメイクを探って「セザンヌの透明眉マスカラ」に辿りついた。約500円で清潔感が底上げされたよ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/20260916-mio-cezanne-eyebrowmascara-01.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-23T07:00:38+00:00",
-   "title_ja": "自眉を活かすためにリピートしている透明眉マスカラ",
-   "summary_ja": "描いている感を出さずに清潔感を底上げするため、セザンヌのスタイリングアイブロウマスカラを愛用している人の話。手頃な価格と自然な仕上がりが気に入って半年ほどリピート買いしています。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "眉マスカラ"
    ],
    "importance": 3
   }
