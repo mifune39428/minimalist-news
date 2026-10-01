@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-01T07:01:36.409847+09:00",
+ "updated_at": "2026-10-01T13:53:34.432160+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,44 +27,45 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-01T07:02:37.432252+09:00",
+  "generated_at": "2026-10-01T13:54:13.245700+09:00",
   "days": 3,
   "period": "9月30日〜10月1日",
   "count": 45,
   "reduce_count": 31,
   "own_count": 14,
-  "overview": "持ち物や習慣の減らし方に関する工夫から、暮らしを快適にする便利な道具や収納の事例まで、多角的な視点からシンプルな暮らしについて語られています。",
-  "reduce": "書類や衣類、本などの具体的な手放し方や、スマホの使い方や物欲といった心の習慣を見直す工夫が多く語られています。",
-  "own": "薄型のガジェットや山崎実業の収納アイテムなど、荷物を減らしたり部屋を整えたりするために導入した具体的な道具や事例が紹介されています。",
+  "overview": "45件の記事全体では、10月に向けた衣替えや片付け、サブスクリプションの見直し、デジタルデータの整理など、秋を前に身の回りの不要なものや習慣を手放す方法が語られる一方、薄型充電器や兼用傘など厳選した持ち物で身軽に暮らす工夫も紹介されています。",
+  "reduce": "10月に向けた毎日の断捨離や衣替えの整理、サブスクやスマホ利用の無駄を見直して暮らしや心身をリセットする様々な方法が語られています。",
+  "own": "薄型充電器や晴雨兼用傘、コンパクトなマウスなど、外出や仕事環境を身軽にするために厳選されたこだわりの日用品や収納棚が紹介されています。",
   "points": [
    {
-    "title": "書類やペンの整理",
-    "body": "小手先のテクニックより書類を溜めない仕組みが重要であるという指摘や、まだ使えるペン30本を手放した体験談が語られています。"
+    "title": "サブスクの支出管理",
+    "body": "複数の書き手が、増えがちなサブスクリプションサービスを一覧化して全体の金額を把握したり、本当に必要な価値があるかを選別したりして、無駄をなくす管理法を提案しています。"
    },
    {
-    "title": "デジタルとスマホ対策",
-    "body": "スマホ起動時に10秒間の間を作る機能を試して無駄なスマホいじりが減少した体験や、ノートを減らすためのデジタルノートへの移行が挙げられています。"
+    "title": "10月に始める片付け",
+    "body": "10月の衣替えシーズンに合わせて引き出しを整理する「小断捨離」や、毎日1つの不要品を手放して年間約90個の削減を目指す計画など、秋の始まりに合わせた片付けが実践されています。"
    },
    {
-    "title": "山崎実業の収納活用",
-    "body": "洗濯機横につける棚や壁掛け本棚といった山崎実業のアイテムを活用し、脱衣所の収納不足解消や積読の解消につなげた事例が紹介されています。"
+    "title": "デジタルの整理と制限",
+    "body": "AIアシスタントを用いたフォルダ整理や、アプリ起動に10秒の間を設けてスマホの無意識な利用を防ぐ方法が紹介され、保存容量が増えても管理能力には限界がある点が指摘されています。"
    },
    {
-    "title": "薄型ガジェットの導入",
-    "body": "厚さ6.8mmのモバイルバッテリーやバッグでかさばらない薄型充電器など、持ち運びや作業環境を快適にする道具が取り上げられています。"
+    "title": "大型家電や家との別れ",
+    "body": "賃貸を解約して398日間家を持たずに最小限の持ち物で生活した大学院生や、使っていない冷蔵庫や電子レンジを思い切って処分して気持ちの変化を実感した体験談が綴られています。"
    }
   ],
   "keywords": [
    "断捨離",
-   "ミニマリスト",
-   "収納",
-   "手放す"
+   "サブスクリプション",
+   "モバイルバッテリー",
+   "衣替え",
+   "デジタル整理"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 23
+   "count": 22
   },
   {
    "name": "スマホ",
@@ -75,10 +76,6 @@
    "count": 7
   },
   {
-   "name": "ポーチ",
-   "count": 6
-  },
-  {
    "name": "家具",
    "count": 6
   },
@@ -87,15 +84,19 @@
    "count": 6
   },
   {
+   "name": "ポーチ",
+   "count": 5
+  },
+  {
+   "name": "モバイルバッテリー",
+   "count": 5
+  },
+  {
    "name": "冷蔵庫",
    "count": 5
   },
   {
    "name": "ノート",
-   "count": 4
-  },
-  {
-   "name": "モバイルバッテリー",
    "count": 4
   },
   {
@@ -108,10 +109,6 @@
   },
   {
    "name": "カバン",
-   "count": 3
-  },
-  {
-   "name": "バッグ",
    "count": 3
   },
   {
@@ -133,10 +130,6 @@
   {
    "name": "食器",
    "count": 3
-  },
-  {
-   "name": "AirPods",
-   "count": 2
   },
   {
    "name": "ぬいぐるみ",
@@ -163,7 +156,15 @@
    "count": 2
   },
   {
+   "name": "バッグ",
+   "count": 2
+  },
+  {
    "name": "パジャマ",
+   "count": 2
+  },
+  {
+   "name": "パソコン",
    "count": 2
   },
   {
@@ -258,6 +259,7 @@
   "storyweb.jp",
   "t.co",
   "thechampionnewspaper.com",
+  "wdio.com",
   "ぴーこ｜ゆるっとミニマルな日常",
   "むぎの頑張らない暮らし",
   "やましたひでこ断捨離",
@@ -281,6 +283,192 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "b037d18632771942",
+   "url": "https://note.com/hyouga_2000/n/n162d0ce2f399",
+   "title_original": "【雑記】月額3,000円は、年間36,000円です——サブスクを一度、全部並べてみた話",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/319513658/rectangle_large_type_2_3289f91def3ae407d7494acd0fe8f176.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-01T04:46:47+00:00",
+   "title_ja": "サブスク全体を見える化した結果",
+   "summary_ja": "著者は自分の全サブスクリプションを一覧にし、月額3,000円＝年間36,000円という数字を把握。無駄を見つけて解約を検討するきっかけにした。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "63fd5bf7c7b25d75",
+   "url": "https://thesimplicityhabit.com/if-not-now-never-decluttering-challenge-let-go",
+   "title_original": "“If Not Now, Never” Decluttering Challenge: How to Let Go of “Someday” Items",
+   "source": "The Simplicity Habit",
+   "image": "https://thesimplicityhabit.com/wp-content/uploads/2026/01/horizontal-blog-post-2026-01-12T171741.794-1024x683.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-01T04:31:37+00:00",
+   "title_ja": "“If Not Now, Never” 片付けチャレンジで“いつかの”ものを手放す",
+   "summary_ja": "Rose Morrison氏が提案する『If Not Now, Never』チャレンジでは、“いつか使うかも”と取っておいた衣類や小物を即座に手放す手順を紹介し、心理的ハードルを下げる方法を示しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "シャツ",
+    "小物"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "8f23c9d3a8ce5b1a",
+   "url": "https://note.com/kind_crane3597/n/n3854b95243f8",
+   "title_original": "足るを知る｜多くや少なくを求めてすぎず、中立でかんがえる",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/319508881/rectangle_large_type_2_d028d5e6dac383f1180c345a1cff8780.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-01T04:28:32+00:00",
+   "title_ja": "足るを知る　過剰でも不足でもない中立的な考え方",
+   "summary_ja": "多くを得ることが快適、少なくなることが不快と感じがちだが、著者はそれらを相対化し、必要以上でも不足でもない中立的な視点で暮らしを見つめ直す姿勢を提案しています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "30166211522f5867",
+   "url": "https://note.com/jin_piano/n/ncef71c0ca53c",
+   "title_original": "さぁ10月、あることを実行します",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/319419847/rectangle_large_type_2_c5b706cb5b9ad26b9240626964f0a02f.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-01T04:21:31+00:00",
+   "title_ja": "10月は毎日1つ断捨離で90個を目指す",
+   "summary_ja": "著者は10月から毎日1アイテムを断捨離することを決意し、年間で約90個の不要品を減らす計画を実践。継続的に手放す習慣化の具体例を示しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "c36fb211e094a49f",
+   "url": "https://note.com/novel_auklet8496/n/nba9aa63d954e",
+   "title_original": "本棚で、賢い人に見せようとしていました",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/318850837/rectangle_large_type_2_e50dc5128ba5db1a0836f8cdf3461912.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-01T04:21:00+00:00",
+   "title_ja": "本棚で見せるミニマリスト像",
+   "summary_ja": "著者は本の量で賢さを演出しようとする姿を振り返り、物が多い人と少ない人のどちらが優れているわけではないと結論付けている。",
+   "category": "心・習慣",
+   "axis": "own",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "2260bacdffb3ab58",
+   "url": "https://note.com/kakinaguri02/n/n7649f2c0094b",
+   "title_original": "野川宏光の独り言┅“断捨離って？”",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/img/1790827522-wFrtxDzuS60ZhoKVkA8eYgy2.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-01T04:18:26+00:00",
+   "title_ja": "断捨離って何かを考える",
+   "summary_ja": "不要なものを減らし執着を手放すことで心が軽くなると語り、具体的な手順は示さないが、断捨離の理念を紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "9540c9cfde3bcbae",
+   "url": "https://note.com/tomochi3/n/nb4509dd1954a",
+   "title_original": "ホームレス大学院生だった話(1/n)",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/319503572/rectangle_large_type_2_974b7d372de999afef638552750fbdb5.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-01T04:08:09+00:00",
+   "title_ja": "ホームレス大学院生が語る398日間の暮らし",
+   "summary_ja": "大学院1年で賃貸を解約し、398日間家を持たずに過ごした著者が、最小限の持ち物で生活した経験とその苦労を綴っている。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "aec829af6c2719ec",
+   "url": "https://www.lifehacker.jp/article/2610-use-claude-code-every-day-tasks-nothing-coding",
+   "title_original": "Claude Codeは、コードを書かない人こそ使える。散らかったフォルダもWindowsのエラーも「頼むだけ」で片づいた",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/10/01/7501d210-ef73-4207-bd46-99b951abfa61/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-01T03:50:00+00:00",
+   "title_ja": "Claude Codeでデジタル整理を自動化",
+   "summary_ja": "AIアシスタントClaude Codeを使い、フォルダ整理やエラー修正を指示だけで実行できる方法を解説し、コード不要でデジタル環境をすっきりさせる手順を示す。",
+   "category": "道具・ガジェット",
+   "axis": "reduce",
+   "things": [
+    "Claude Code"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "3af362c0dd4b9b8e",
+   "url": "https://www.roomie.jp/2026/10/1897007",
+   "title_original": "文庫本1冊より軽かった。お出かけの荷物を減らしたい日のモバイルバッテリー",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/pisen1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-01T02:45:08+00:00",
+   "title_ja": "軽さを重視したお出かけ用モバイルバッテリー",
+   "summary_ja": "薄さと軽さにこだわったマグネット式モバイルバッテリーを紹介。ポケットに入れてもかさばらない携帯性の高いアイテム。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "モバイルバッテリー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "df7956d1e4a1d6cc",
+   "url": "https://minimalist-fudeko.com/3-stages-of-decluttering",
+   "title_original": "片づけができない人がつまずく3つの段階",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2022/05/looking-at-messy-room.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-01T00:10:12+00:00",
+   "title_ja": "片づけができない人がつまずいてしまう3つの段階",
+   "summary_ja": "片づけたいと思いながら何年も動けずにいる読者のお便りをもとに、どこで手が止まってしまうのかその段階について考察した記事。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "a76829adab2df307",
+   "url": "https://news.livedoor.com/topics/detail/32456742",
+   "title_original": "仕事机の上はパソコンとライトのみ。道具を全て片付けるメリットは【ミニマリストの暮らし】 (2026年10月1日掲載)",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-09-30T22:00:06+00:00",
+   "title_ja": "仕事机の上をパソコンとライトのみにするミニマリストの暮らし",
+   "summary_ja": "仕事机の上をパソコンとライトだけにすることで道具を全て片付けるメリットを紹介するミニマリストの暮らしに関する記事。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "パソコン",
+    "ライト"
+   ],
+   "importance": 3
+  },
   {
    "id": "c04b7f3c4c3a29b7",
    "url": "https://note.com/precious_days_/n/n078b576e6604",
@@ -316,6 +504,22 @@
     "スマートフォン"
    ],
    "importance": 4
+  },
+  {
+   "id": "b900ceec0428f23f",
+   "url": "https://www.wdio.com/lift-online/a-15-minute-fall-home-reset",
+   "title_original": "A 15-minute fall home reset",
+   "source": "wdio.com",
+   "image": "https://www.wdio.com/wp-content/uploads/2026/09/Tidy-Details-fall-home-reset.png",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-09-30T21:46:40+00:00",
+   "title_ja": "秋の自宅を15分でリセットする方法",
+   "summary_ja": "秋に向けて自宅の環境を短時間で整え直す方法について紹介している海外のライフスタイル記事。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
   },
   {
    "id": "810dd202b7dc1b88",
@@ -7108,209 +7312,6 @@
    "title_ja": "「いつか使うかも」という心理が物を増やしていた話",
    "summary_ja": "家の中の物を減らす際、壊れた物や使い切った物はすぐ手放せるものの、「いつか使うかも」と思う物の判断に迷い、物が増えてしまう悩みを語っている。",
    "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "f5c0e11fedd15d2d",
-   "url": "https://note.com/natuko_reform/n/n849ead60bb43",
-   "title_original": "それでも、捨てられない物",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/316776823/rectangle_large_type_2_689bd89bcadcf5f6371dece27c42379e.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-24T03:22:42+00:00",
-   "title_ja": "リフォームで手放した服・バッグ・本・指輪",
-   "summary_ja": "リフォームを機に服やバッグ、料理本を処分し、結婚指輪まで売却した。手放す基準や実際の捨て方が具体的に紹介されている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "服",
-    "バッグ",
-    "料理本",
-    "結婚指輪"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2fbedca1a9499f60",
-   "url": "https://note.com/kurage_simple/n/n4e49a45fdb27",
-   "title_original": "サインが現れたら、手放し時です",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/316962262/rectangle_large_type_2_9379706f25f8b7a6773b22f8042f815c.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-24T03:05:47+00:00",
-   "title_ja": "サインが現れたら手放すタイミング",
-   "summary_ja": "日常で問題が続くときは、抱えているものが多すぎるサインと捉え、手放すタイミングを見極めるという考え方を提案している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "c8d9159c613bdc25",
-   "url": "https://www.lifehacker.jp/article/2609-hacks-every-airpods-user-should-know",
-   "title_original": "AirPodsは「再設定」で化ける。毎日の通勤や仕事がラクになる10個のハック",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/02/05/d8959e73-e4b5-40d7-830f-57ed03767405/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-24T03:00:00+00:00",
-   "title_ja": "AirPodsの再設定で便利にする10のハック",
-   "summary_ja": "AirPodsの隠れた設定や機能10選を解説し、再設定で通勤や仕事中の操作を簡略化するハックを提供している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "AirPods"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "9f96bb49fcc18374",
-   "url": "https://note.com/toto_minimal/n/n9d0d1111b8c9",
-   "title_original": "手取り30万円台・ボーナスなしで4年1,000万円貯めたわたしが「やらない」と決めた節約術8つ",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/315438486/rectangle_large_type_2_4bf9b2969cb9cd191a4c9e67d5299440.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-24T02:58:27+00:00",
-   "title_ja": "手取り30万円で4年1,000万円貯めた人が選んだ8つの節約術",
-   "summary_ja": "手取り30万円でボーナスなしでも4年で1,000万円貯めた筆者が、実践した「やらない」節約術を8つ具体的に紹介し、無駄な支出を減らす方法を示す。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "e070ed15f936352a",
-   "url": "https://www.lifehacker.jp/article/2609-reuse-old-android-smartphone-apps",
-   "title_original": "使わなくなった古いAndroidを「使えるスマホ」に変える4つのアプリ",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/04/25/bfe883f8-d74d-4711-9fcf-3475e0a0834e/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-24T02:00:00+00:00",
-   "title_ja": "古いAndroidスマホを別の用途で活用する方法",
-   "summary_ja": "引き出しに眠っている古いAndroid端末をスマートホームの操作や防犯対策などの専用デバイスとして再利用するための4つのアプリと活用法を紹介しています。",
-   "category": "道具・ガジェット",
-   "axis": "reduce",
-   "things": [
-    "Androidスマホ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "6e4d373ff3d984e8",
-   "url": "https://note.com/yuruka_kurashi/n/n0ec9f17d2ff4",
-   "title_original": "ポーチが、なぜか増えてしまう理由",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/316457379/rectangle_large_type_2_0d269f8a1c0271e35dae60868b4e9023.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-24T01:07:16+00:00",
-   "title_ja": "なぜかポーチが増えてしまう理由",
-   "summary_ja": "自分でも気づかないうちに多くのポーチを所有してしまっていたことに気づいた人の話。気づけばモノが増えている原因や、持ち物の見直しを考えるきっかけになる内容。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "ポーチ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2ad3ee6eb7751646",
-   "url": "https://www.thespruce.com/things-minimalists-do-before-bed-12126275",
-   "title_original": "6 Things Minimalists Always Do Before Bed to Keep Their Homes Tidy—and They Take Less Than 30 Minutes",
-   "source": "The Spruce",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-24T00:20:00+00:00",
-   "title_ja": "ミニマリストが寝る前に家を整える習慣",
-   "summary_ja": "ミニマリストが家をすっきりと保つために、就寝前の30分以内に必ず行っている6つの習慣について解説している。日々の暮らしを整えるための具体的な行動を知ることができる。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "741ab46ea5c11711",
-   "url": "https://minimalist-fudeko.com/hidden-clutter-6-types",
-   "title_original": "もう捨てるものがない、と思っても家に必ず残っているガラクタ6種類",
-   "source": "筆子ジャーナル",
-   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/08/sorting-clothes.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-24T00:10:56+00:00",
-   "title_ja": "もう捨てるものがないと思っても残るガラクタ6種",
-   "summary_ja": "一通り捨てた後でも家の中に残りがちな、壊れておらず使えそうな6種類のガラクタについて解説。まだ使えるという理由で残しがちな物を手放すためのヒントが書かれている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "71dc8008827b2cf5",
-   "url": "https://www.lifehacker.jp/article/2609how-to-prevent-dust-in-home-usg",
-   "title_original": "部屋のホコリ対策に。我が家が実践している掃除の工夫4つ",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/14/04e2f3d2-a280-42f5-a3f1-2c8055b86f80/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-24T00:00:00+00:00",
-   "title_ja": "部屋のホコリを減らす4つの掃除工夫",
-   "summary_ja": "著者が実践する、ホコリがたまりにくくなる掃除方法を4つ紹介。定期的な拭き取りや換気など、手間を減らすコツが具体的に示されている。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "478c4b9dca002710",
-   "url": "https://bemorewithless.com/simplify-life/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
-   "title_original": "7 Lovely Little Hacks to Simplify Life",
-   "source": "Be More with Less",
-   "image": "https://bemorewithless.com/wp-content/uploads/2026/09/simplify-life-image-1.png",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-09-23T23:46:54+00:00",
-   "title_ja": "シンプル生活のための7つの小技",
-   "summary_ja": "日常の中で実践できる7つのシンプル化ハックを紹介。余計なものにとらわれず、心と時間を軽くする具体的な方法が示されている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "0d83b147cc0578d4",
-   "url": "https://news.livedoor.com/article/image_detail/32395151/?img_id=56545247",
-   "title_original": "【画像】物がないリビング。キープするための家族の片付けルールは【ミニマリストの暮らし】 5/8",
-   "source": "ライブドアニュース",
-   "image": "https://image.news.livedoor.com/newsimage/stf/a/d/ad2e2_1557_211e9541a786c21deb5f80df7a46de63.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-23T22:00:01+00:00",
-   "title_ja": "物がないリビングをキープする家族の片付けルール",
-   "summary_ja": "物が置かれていないすっきりとしたリビングを維持するために、家族で実践している片付けのルールを紹介している。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "1bf6714b18640059",
-   "url": "https://news.livedoor.com/topics/detail/32395151",
-   "title_original": "物がないリビング。キープするための家族の片付けルールは【ミニマリストの暮らし】 (2026年9月24日掲載)",
-   "source": "news.livedoor.com",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-23T22:00:01+00:00",
-   "title_ja": "家族で実践するリビング片付けルールとは",
-   "summary_ja": "リビングを常にすっきり保つために、家族全員が守るべき片付けルールを紹介。不要なものを置かない基準や整理の手順が示されている。",
-   "category": "部屋・収納",
    "axis": "reduce",
    "things": [],
    "importance": 4
