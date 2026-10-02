@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-02T07:29:42.096856+09:00",
+ "updated_at": "2026-10-02T13:44:10.337803+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,41 +27,45 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-02T07:30:52.500880+09:00",
+  "generated_at": "2026-10-02T13:44:39.619411+09:00",
   "days": 3,
-  "period": "9月30日〜10月2日",
+  "period": "10月1日〜10月2日",
   "count": 45,
-  "reduce_count": 29,
-  "own_count": 16,
-  "overview": "秋の模様替えや季節の変わり目に向けた片付けや手放し方、デジタルデトックスや持ち物の見直しに関する話題が多数寄せられています。",
-  "reduce": "季節の変わり目や秋の片付けに合わせ、不要な物やサブスクを見直して手放す具体的な手順や習慣についての話題が多く見られます。",
-  "own": "モバイルバッテリーや収納グッズなど、外出や暮らしを身軽にするための具体的なアイテム選びや工夫についての話題が語られています。",
+  "reduce_count": 26,
+  "own_count": 19,
+  "overview": "季節の変わり目における衣類や日用品の手放し方や、デジタル・サブスクの整理、持ち物を最小限にするための便利なガジェット選びが広く語られています。",
+  "reduce": "季節の変わり目や秋の模様替えに合わせた不要なものの手放し方や、デジタル環境をすっきりさせる片付けの具体的な手順が語られています。",
+  "own": "身軽な外出を支える折りたたみマウスやモバイルバッテリー、充電器などのミニマルなガジェットや収納アイテムの選び方が紹介されています。",
   "points": [
    {
-    "title": "手放す仕組み",
-    "body": "書類整理において小手先のテクニックではなく、いかに書類を溜めない仕組みを作るかが重要であると語られています。"
+    "title": "秋の片付けと手放し方",
+    "body": "整理整頓のプロや専門業者が秋の模様替えに合わせて不要なアイテムを手放す方法を推奨しているほか、毎日1つずつ断捨離を進める実践的な記録が綴られています。"
    },
    {
-    "title": "デジタル整理",
-    "body": "AIアシスタントを使ったフォルダ整理や、アプリやデジタルデータの断捨離を通じて情報過多を解消する手順が紹介されています。"
+    "title": "デジタル環境の整理術",
+    "body": "AIやSNSへの依存を減らすデジタルミニマリズムの提案に加え、AIアシスタントや設定の見直しを活用してデジタルデータやフォルダを自動で整理する手順が解説されています。"
    },
    {
-    "title": "代用品の活用",
-    "body": "3歳の子どもと暮らす中で炊飯器を持たず、代わりに圧力鍋を使うことで物を減らしたシンプルな暮らしが実践されています。"
+    "title": "持ち歩きを軽くする工夫",
+    "body": "ポーチに入れたまま操作できる折りたたみマウスや、充電器と一体化したモバイルバッテリーなど、外出時の荷物やケーブル類を減らして作業を身軽にするガジェットが紹介されています。"
+   },
+   {
+    "title": "暮らしに合う道具選び",
+    "body": "車内のすき間を掃除しやすいハンディクリーナーや防水スプレー、猫が快適に座れる仕事椅子など、日々の暮らしや収納のストレスを軽減する具体的なアイテムの選び方が語られています。"
    }
   ],
   "keywords": [
    "断捨離",
-   "ミニマリスト",
    "収納",
+   "モバイルバッテリー",
    "片付け",
-   "サブスクリプション"
+   "ガジェット"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 21
+   "count": 20
   },
   {
    "name": "スマホ",
@@ -100,10 +104,6 @@
    "count": 3
   },
   {
-   "name": "iPhone",
-   "count": 3
-  },
-  {
    "name": "カバン",
    "count": 3
   },
@@ -120,16 +120,16 @@
    "count": 3
   },
   {
-   "name": "手帳",
-   "count": 3
-  },
-  {
    "name": "本棚",
    "count": 3
   },
   {
    "name": "食器",
    "count": 3
+  },
+  {
+   "name": "iPhone",
+   "count": 2
   },
   {
    "name": "ぬいぐるみ",
@@ -141,6 +141,10 @@
   },
   {
    "name": "ショルダーバッグ",
+   "count": 2
+  },
+  {
+   "name": "スニーカー",
    "count": 2
   },
   {
@@ -188,6 +192,10 @@
    "count": 2
   },
   {
+   "name": "手帳",
+   "count": 2
+  },
+  {
    "name": "観葉植物",
    "count": 2
   },
@@ -216,6 +224,7 @@
   "Be More with Less",
   "Better Homes & Gardens",
   "Bona Magazine",
+  "Carryology",
   "Family Handyman",
   "Good Housekeeping",
   "Homes and Gardens",
@@ -288,6 +297,148 @@
  "count": 400,
  "items": [
   {
+   "id": "65464f9bffba3c17",
+   "url": "https://note.com/best_lifestyle/n/n2653ac000dce",
+   "title_original": "車内用ハンディクリーナーおすすめ10選｜すき間に入る実測比較",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/319887288/rectangle_large_type_2_8a72087acae306b55f71d782059d420b.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-02T04:25:07+00:00",
+   "title_ja": "車内の掃除がラクになるハンディクリーナーの選び方",
+   "summary_ja": "車内のすき間のゴミを素早く掃除するための車載用ハンディクリーナーの選び方。外径6cm以下のボトル型で薄型ノズルのものがおすすめされている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ハンディクリーナー"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "9153397fffda04b3",
+   "url": "https://note.com/best_lifestyle/n/n96c5b7c5e3e5",
+   "title_original": "プロ厳選クローゼット収納ボックス10選！出し入れが劇的に変わる",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/319882751/rectangle_large_type_2_c41bb26eb9a16edef63eb07a1c2a9dd7.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-02T04:07:06+00:00",
+   "title_ja": "クローゼットの収納ボックスの選び方と整理のコツ",
+   "summary_ja": "クローゼットで服が散らかる原因を解消するための収納ボックスの選び方。フタ付きや引き出しなどを用途に合わせて使い分けることでストレスを軽減する。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "収納ボックス"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "72b36ffeb1954256",
+   "url": "https://www.carryology.com/liking/new-releases/scouted-september-2026s-most-interesting-carry",
+   "title_original": "Scouted: September 2026’s Most Interesting Carry",
+   "source": "Carryology",
+   "image": "https://www.carryology.com/wp-content/uploads/2026/09/G-SHOCK-GRAVITYMASTER-GWR-B3000.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-02T04:01:42+00:00",
+   "title_ja": "2026年9月に注目を集めたミニマルなバッグ類",
+   "summary_ja": "遠隔地への遠征向けに作られたミニマルなダッフルバッグや、移動を快適にする機内持ち込み用ローラーバッグなど、注目の持ち運びアイテムを紹介する。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "ダッフルバッグ",
+    "ローラーバッグ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b286322a865f83f9",
+   "url": "https://www.lifehacker.jp/article/machi-ya-penciltips-review-972714",
+   "title_original": "フィルムを貼ると画面がかすむ…iPadの手書きストレスをペン先側で解決できた",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/09/16/efc6f512-8a71-4f2c-b5a4-7bcedabd6a2d/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-02T04:00:00+00:00",
+   "title_ja": "フィルムなしで紙の書き心地を実現するApple Pencilのペン先",
+   "summary_ja": "画面の美しさと快適な手書きを両立させるApple Pencil用交換ペン先を紹介。フィルムを貼らずに紙のような書き心地を実現できるアイテムです。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "Apple Pencil用ペン先"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "13ca84d974262e3c",
+   "url": "https://note.com/dai_105/n/ne1befc3f1d4f",
+   "title_original": "断捨離記録",
+   "source": "note #断捨離",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/ad685dcba7eaad815c17d2921904f6d944e6afcc.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-02T03:46:31+00:00",
+   "title_ja": "2ヶ月半ほど履いたミズノのスニーカーを処分した断捨離記録",
+   "summary_ja": "2ヶ月半ほど着用したミズノのスニーカーを手放したことを記録したブログ記事。身の回りの物を減らす日々の断捨離の様子が綴られています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "スニーカー"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "d13af84163b3de3b",
+   "url": "https://note.com/hantou_hanx/n/n322460d15eb1",
+   "title_original": "ミニマリストになれなかった私が選んだ「半ミニマリスト」",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/318803288/rectangle_large_type_2_5bf5b48cb10442d52837d2ea1ee57008.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-02T03:45:24+00:00",
+   "title_ja": "ミニマリストを目指してモノを減らした「半ミニマリスト」の記録",
+   "summary_ja": "節約のために持ち物を減らそうと試みた経験をつづった記事。完全なミニマリストにはならずとも、買い物を減らしてお金を残す暮らしを選んでいます。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "740345973e75fa3d",
+   "url": "https://minimalist-fudeko.com/what-to-declutter-first",
+   "title_original": "今日1つ捨てるなら何にしますか？ 67歳の今、捨てる優先順位",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/09/get-rid-of-one-thing.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-02T00:10:41+00:00",
+   "title_ja": "今日1つだけ手放すための捨てる優先順位の決め方",
+   "summary_ja": "片づけたいけれど何を捨てるか迷ってしまうときに、今日から1つだけ手放すための優先順位の決め方を紹介しています。ないと困るかを見極めて、手始めに小さな物から処分を進める考え方が分かります。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "7cd7452b752940b8",
+   "url": "https://www.roomie.jp/2026/10/1893698",
+   "title_original": "半額近くになったAppleの「布」、使ってみたら想像以上によかった。日常的に手が伸びる1枚になりました",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/20260927-applecloth-01.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-01T23:00:00+00:00",
+   "title_ja": "Appleの布で充電ケーブル1本生活を目指す",
+   "summary_ja": "都内在住のライターは、白系ガジェットを統一し、月に1回新しいケーブルやバッテリーを試す中で、Appleの布を日常的に使い、汚れ対策とシンプルさを実感。最終目標は充電ケーブルを1本に減らすことだ。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "Appleの布",
+    "充電ケーブル"
+   ],
+   "importance": 3
+  },
+  {
    "id": "91b5d9bbcc1f939c",
    "url": "https://note.com/glossy_emu3201/n/nfb24fa30d135",
    "title_original": "【断捨離】思わぬ収穫があった",
@@ -322,6 +473,24 @@
     "鍋"
    ],
    "importance": 3
+  },
+  {
+   "id": "95d6eec71c354781",
+   "url": "https://news.livedoor.com/article/detail/32467575",
+   "title_original": "使いやすさより、猫優先！こだわりの仕事椅子【ミニマリストの暮らし】",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-01T22:00:14+00:00",
+   "title_ja": "猫優先の仕事椅子でミニマリスト生活",
+   "summary_ja": "ミニマリスト向けに設計された仕事椅子は、使いやすさよりも猫が快適に座れることを重視し、シンプルなデザインと機能性で部屋の空間を無駄にしない選択肢として注目されている。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "仕事椅子"
+   ],
+   "importance": 2
   },
   {
    "id": "6df78fadcd3193a3",
@@ -7152,166 +7321,6 @@
     "子どもの服"
    ],
    "importance": 2
-  },
-  {
-   "id": "0b9d3a9ec59da89c",
-   "url": "https://note.com/calm_lynx7214/n/nab8ec75b4a06",
-   "title_original": "自分が選んで買ったのに、罪悪感で誰かに押し付ける。",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/317173232/rectangle_large_type_2_fb63845ad6cb49673a2dbfa79f1c2832.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-24T15:00:14+00:00",
-   "title_ja": "使わない買い物の罪悪感と手放し方",
-   "summary_ja": "ホーチミン在住の著者が、購入したが全く使わないものへの罪悪感を語り、他人に押し付けるのは避けたいと考える。手放すべきか悩む心の葛藤を共有する。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "2cdf9d186f826a51",
-   "url": "https://note.com/sachisaito/n/nf6343e75b94b",
-   "title_original": "「今日、何もできなかった」を軽くする、小さなコツ",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/317168241/rectangle_large_type_2_8ff5f446b9583c87c6cc5649037f4421.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-24T14:29:42+00:00",
-   "title_ja": "「今日何もできなかった」と感じる日を軽くするコツ",
-   "summary_ja": "ボディケアセラピストが実践する、その日の達成感を得るための小さな工夫や考え方を紹介している。物を持たない暮らしや心構えを整えたい人向けの生活のヒント。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "798b32db8a839665",
-   "url": "https://www.lifehacker.jp/article/2609-i-held-anker-soundcore-4-pro-sleep-earbuds-2",
-   "title_original": "もう枕元にスマホはおかない。睡眠イヤホンが実現させた新しい「夜のデジタルデトックス」",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/10/b9668057-6b1f-4fba-9077-06a28fe7be7f/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-24T14:00:00+00:00",
-   "title_ja": "枕元からスマホを排除する、睡眠用イヤホンでのデジタルデトックス",
-   "summary_ja": "枕元にスマホを置かない生活を実現するため、睡眠用ガジェットを活用した夜のデジタルデトックスの体験談。睡眠記録やアラームを単体でこなす道具を取り入れる方法。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "睡眠用イヤホン",
-    "ケース"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "0853a8fb58bb63e6",
-   "url": "https://nosidebar.com/lessons-from-a-dandelion",
-   "title_original": "Lessons from a Dandelion",
-   "source": "No Sidebar",
-   "image": "https://nosidebar.com/wp-content/uploads/jan-ledermann-SjSJLrHb_s-unsplash1-scaled.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-09-24T14:00:00+00:00",
-   "title_ja": "タンポポの教えから学ぶ、不要なものについての考え方",
-   "summary_ja": "庭の雑草扱いされるタンポポを例に挙げ、場所が変われば価値も変わるという視点から、身の回りの不要なものや固定観念を見つめ直すエッセイ。暮らしの捉え方を和らげる。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "6e71944d710cf116",
-   "url": "https://note.com/bakumochi/n/n3fb6fe75e669",
-   "title_original": "服70点がたった650円で帰ってきた、もう余計な服は買わない",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/317172488/rectangle_large_type_2_0b29dfabe89df7d6f5a52b9ec86d4ad8.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-24T13:57:28+00:00",
-   "title_ja": "服70点を手放して650円になり、無駄買いをやめた話",
-   "summary_ja": "大量に持っていた服70点をまとめて手放したところわずかな金額になり、それを機に余計な服は二度と買わないと決意した体験談。買い物の失敗から学んだ服の減らし方。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "服"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "46274ba9bbddebde",
-   "url": "https://note.com/suu_minimuscle/n/n04f2cb15b56f",
-   "title_original": "AirPodsを黒く塗装したら、1週間で剥がれ始め失敗した話",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/316415548/rectangle_large_type_2_d882b9d8ed84e4ef7b9f5254249d53df.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-24T13:38:15+00:00",
-   "title_ja": "黒塗装したAirPodsが1週間で剥がれた失敗談",
-   "summary_ja": "持ち物を黒で統一したい筆者はAirPodsを黒く塗装したが、1週間で塗装が剥がれ始め、結局元に戻すことになったという失敗エピソードです。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "AirPods"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "d5ce67224ef2d1a1",
-   "url": "https://www.lifehacker.jp/article/2609-iphone-maintenance-tools",
-   "title_original": "新しいiPhoneは買わないので、いまのiPhoneをピッカピカにしました",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/gizmodo/dist/images/2025/10/08/IMG_5500.JPG?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-24T13:30:00+00:00",
-   "title_ja": "新しいiPhoneは買わず、現行機を徹底的に清掃した話",
-   "summary_ja": "新機種を購入せず、現在使っているiPhoneを徹底的に磨き上げてピカピカにし、長く使い続けることを選んだ筆者の実践例です。",
-   "category": "道具・ガジェット",
-   "axis": "reduce",
-   "things": [
-    "iPhone"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ceea62bfe37de716",
-   "url": "https://www.lifehacker.jp/article/2609-lht-applewatch-elecom-charger",
-   "title_original": "荷物を最小限にしたい僕の結論。Apple Watchの充電は「巻き取り式ケーブル」で完結する",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/24/fa217ec0-2ff8-4727-a7b5-f1cdca2b14ff/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-24T13:15:00+00:00",
-   "title_ja": "Apple Watchは巻き取り式充電ケーブルでコンパクト化",
-   "summary_ja": "エレコムの磁気巻き取り式充電ケーブルを使用すると、Apple Watchの充電器が小さくなり、持ち運びが楽になると筆者が紹介しています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "Apple Watch磁気充電ケーブル",
-    "Apple Watch"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "aa94aaa1066cfaa9",
-   "url": "https://www.roomie.jp/2026/09/1892003",
-   "title_original": "眠らせていたポストカードが手帳の表紙に！ 透明ブックカバーで「捨てられない紙もの」を有効活用してます",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/20260912bookcover07-1.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-24T12:30:43+00:00",
-   "title_ja": "捨てられないポストカードを手帳の表紙に活用する方法",
-   "summary_ja": "片づけの際に行き場をなくしたポストカードを、透明ブックカバーを使って手帳の表紙として再利用している人の話。捨てにくい紙ものを工夫して有効活用しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "ポストカード",
-    "ブックカバー",
-    "手帳"
-   ],
-   "importance": 3
   }
  ]
 }
