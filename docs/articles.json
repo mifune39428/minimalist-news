@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T00:57:29.562332+09:00",
+ "updated_at": "2026-10-04T05:46:56.929507+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,36 +27,34 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-04T00:58:52.341563+09:00",
+  "generated_at": "2026-10-04T05:48:03.579955+09:00",
   "days": 3,
-  "period": "10月2日〜10月4日",
+  "period": "10月3日〜10月4日",
   "count": 45,
-  "reduce_count": 27,
-  "own_count": 18,
-  "overview": "衣替えの季節を迎えたクローゼットの見直しや、日常生活での持ち物を厳選しコンパクトに暮らす工夫など、手放す基準や具体的なアイテム選びの体験談が多数語られています。",
-  "reduce": "衣替えや引っ越しを機に服や不用品を手放す基準のほか、掃除用具や習慣を見直して選択に迷わない暮らしをつくる工夫が語られています。",
-  "own": "ポーチやカラビナ付きハンガー、電源タップなど、持ち歩きや収納をコンパクトにして日常を快適にするための具体的なアイテムが紹介されています。",
+  "reduce_count": 26,
+  "own_count": 19,
+  "overview": "10月3日から4日にかけて、衣替えや引っ越しを機にした服や不要品の具体的な手放し方、日々の暮らしを身軽にする工夫についての記事が多く集まりました。",
+  "reduce": "衣替えや引っ越し、不要品の処分を通じて、無理なく荷物や家事を減らして暮らしをラクにする具体的な方法が多数語られています。",
+  "own": "お気に入りの服を数着に絞ったワードローブの実例や、ポーチやカラビナなどのコンパクトで便利な持ち物の活用法が紹介されています。",
   "points": [
    {
-    "title": "衣替えと服の手放し方",
-    "body": "衣替えのタイミングに合わせて、着ない服や子どもの古い服を手放す基準や、ワードローブを数着に厳選してワードローブを見直す体験談が複数紹介されています。"
+    "title": "衣替えと服の手放し",
+    "body": "クローゼットの整理に合わせて着ない服を手放す基準や、子ども服の処分、夏服のスタメン11着の振り返りなど、ワードローブを見直す実例が複数紹介されています。"
    },
    {
-    "title": "不用品や専用道具の処分",
-    "body": "引っ越しや不用品回収のチラシをきっかけに長年放置した家電やダンベルを手放したり、トイレブラシを使い捨てシートに変えて掃除用具自体を減らす工夫が語られています。"
+    "title": "家事や持ち物の削減",
+    "body": "トイレブラシを手放して使い捨てシートにする工夫や、財布とキーケースをやめてポーチ一つにするなど、日用品や収納をコンパクトにして負担を減らす体験談が語られています。"
    },
    {
-    "title": "コンパクトな持ち物と収納",
-    "body": "財布やキーケースを手放してメッシュポーチにまとめた事例や、山崎実業のマグネット収納やレジ袋ハンガー、電源タップを活用してすっきりと暮らす工夫が紹介されています。"
+    "title": "便利なガジェット活用",
+    "body": "モンベルの吸水力が高いコンパクトなタオルや、山崎実業のマグネット収納、チタン製カラビナバッグハンガーなど、暮らしを快適にするアイテムが紹介されています。"
    }
   ],
   "keywords": [
-   "衣替え",
    "断捨離",
+   "衣替え",
    "ミニマリスト",
-   "ワードローブ",
-   "手放す",
-   "収納"
+   "手放す"
   ]
  },
  "things": [
@@ -73,15 +71,15 @@
    "count": 7
   },
   {
-   "name": "冷蔵庫",
-   "count": 6
-  },
-  {
    "name": "家具",
    "count": 6
   },
   {
    "name": "モバイルバッテリー",
+   "count": 5
+  },
+  {
+   "name": "冷蔵庫",
    "count": 5
   },
   {
@@ -91,10 +89,6 @@
   {
    "name": "ノート",
    "count": 4
-  },
-  {
-   "name": "PC",
-   "count": 3
   },
   {
    "name": "カバン",
@@ -129,8 +123,12 @@
    "count": 3
   },
   {
-   "name": "電源タップ",
+   "name": "財布",
    "count": 3
+  },
+  {
+   "name": "PC",
+   "count": 2
   },
   {
    "name": "ぬいぐるみ",
@@ -138,6 +136,10 @@
   },
   {
    "name": "イヤホン",
+   "count": 2
+  },
+  {
+   "name": "コンバース",
    "count": 2
   },
   {
@@ -157,7 +159,19 @@
    "count": 2
   },
   {
+   "name": "ハンガー",
+   "count": 2
+  },
+  {
+   "name": "バッグ",
+   "count": 2
+  },
+  {
    "name": "パンツ",
+   "count": 2
+  },
+  {
+   "name": "フィギュア",
    "count": 2
   },
   {
@@ -203,22 +217,6 @@
   {
    "name": "家電",
    "count": 2
-  },
-  {
-   "name": "手帳",
-   "count": 2
-  },
-  {
-   "name": "枕",
-   "count": 2
-  },
-  {
-   "name": "洋服",
-   "count": 2
-  },
-  {
-   "name": "財布",
-   "count": 2
   }
  ],
  "sources": [
@@ -240,8 +238,8 @@
   "Metro Mode",
   "MonoMax",
   "New Jersey Jewish News",
+  "Nine.com.au",
   "No Sidebar",
-  "Philomath News",
   "ROOMIE",
   "Raptitude",
   "Real Simple",
@@ -252,7 +250,6 @@
   "The Bolton News",
   "The Minimal Mom",
   "The Minimalists",
-  "The Seattle Times",
   "The Simplicity Habit",
   "The Spruce",
   "The Verde Independent",
@@ -302,6 +299,72 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "f4515c800c83e82c",
+   "url": "https://note.com/life2go/n/nbb2f2023fd18",
+   "title_original": "終活-413 本業 iCADSX・・準備完了。お買い物は、空波君です。・.・//🍀",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/320503318/rectangle_large_type_2_82409f7ffd2d1777c76be642661d0981.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-03T20:28:09+00:00",
+   "title_ja": "綺麗な環境を目指して終活と断捨離を続ける人の日常",
+   "summary_ja": "綺麗な環境を目指して、毎日の朝活や家事とともに終活と断捨離を進めている人の記録。本業の準備や車のドレスアップなど忙しい日々を送りながらも、モチベーションを維持して断捨離や掃除に励む様子が綴られている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "TAFT"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "9a82483f9430c4ea",
+   "url": "https://www.nine.com.au/lifestyle/homes/decluttering-tips-microdecluttering-method-expert-advice-20261004-p612bu.html",
+   "title_original": "The little-known decluttering method that can transform your home in just five minutes",
+   "source": "Nine.com.au",
+   "image": "https://static.ffx.io/images/$zoom_0.4995%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/5b2769ce62c9dfa32f571fde4c349ba1f963e22253d2da8b4d6e2b8ce68d807c",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-03T19:00:00+00:00",
+   "title_ja": "わずか5分で家を劇的に変える知られざる片づけ方法",
+   "summary_ja": "わずか5分間の作業で家の中を劇的に変えることができる、あまり知られていない効率的な片づけ方法を紹介する記事。短時間で実践できるため、忙しい人でも無理なく部屋をすっきりと整えることができる。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "8453e3df0a627b73",
+   "url": "https://note.com/naomi_diet0301/n/nb9a953f49aec",
+   "title_original": "記録魔だった私が、思い切って「記録」を手放してみた話",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/320474013/rectangle_large_type_2_f3411d75f16e5425727698cf51d12d23.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-03T16:34:15+00:00",
+   "title_ja": "異常なほどの記録魔だった人が記録することを手放した話",
+   "summary_ja": "異常なほど細かく物事を記録する習慣があった筆者が、過剰になっていた記録行為を思い切って手放してみた体験談。記録することへの執着から解放され、暮らしや心の負担を減らしていくプロセスが綴られている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "475b31ec2910c77e",
+   "url": "https://note.com/waka_1124/n/nf7aad85e1934",
+   "title_original": "1年で1000個捨てる｜手放したもの #06 131個〜",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/320472928/rectangle_large_type_2_2f755c7a8f02b02c95325210c5a704b0.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-03T16:13:09+00:00",
+   "title_ja": "1年で1000個捨てる目標を掲げた人の断捨離の記録",
+   "summary_ja": "引っ越し後に断捨離の勢いが落ち着いたものの、物が多い現状を変えるために1000個手放す挑戦を細々と続けている人の記録。使い切りや細かい手放しを実践しながら、日々の暮らしの中で少しずつ物を減らしている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "c893bfc25fed4516",
    "url": "https://note.com/kimatta_kotae/n/n3c4f75181b87",
@@ -357,6 +420,24 @@
     "服"
    ],
    "importance": 2
+  },
+  {
+   "id": "ead3496015a90ba3",
+   "url": "https://note.com/cozy_life_takuto/n/n3abbb419c2f4",
+   "title_original": "スマートウォレットおすすめ8選｜セリアで容量診断してから",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/320443781/rectangle_large_type_2_e88b3d15844ba63cbdd507ff6cc2e40d.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-03T14:34:26+00:00",
+   "title_ja": "100円の財布で容量を試してから薄い財布を選ぶ方法",
+   "summary_ja": "高価なスマートウォレットを買う前に、セリアの110円の財布で1週間仮運用し、自分に必要なカードや紙幣の枚数を確認する手順。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [
+    "財布"
+   ],
+   "importance": 4
   },
   {
    "id": "262703975bfaf652",
@@ -480,6 +561,42 @@
    "importance": 3
   },
   {
+   "id": "7eb0d3afde784025",
+   "url": "https://note.com/fine_vole9472/n/na7c5cb682d64",
+   "title_original": "「なんとなく持っているもの」を減らしたら、暮らしがちょっとラクになった",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/319860266/rectangle_large_type_2_e5ad4af529a9e504d155d576e05ff37d.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-03T12:07:56+00:00",
+   "title_ja": "なんとなく置いてあるものを手放してラクになった話",
+   "summary_ja": "断捨離を通じて家の中を見直した結果、使っていないのに捨てずになんとなく置いてあったハンガーなどの存在に気づき手放した体験談。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "ハンガー"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "b144f3659766dd0b",
+   "url": "https://www.lifehacker.jp/article/2610-machi-ya-launbot-lh-editorialreview-coy",
+   "title_original": "吊るすだけでシワも匂いもすっきり！服が整う新感覚「衣類ケア」デバイスでゆとりの朝が生まれた",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/09/11/558c4c0e-e497-4e08-94f7-30dc83094ad4/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-03T12:00:00+00:00",
+   "title_ja": "ハンガーに掛けるだけでシワ・匂い除去、AI衣類ケアデバイスLaunbot",
+   "summary_ja": "ポータブルAIデバイスLaunbotはハンガーに掛けるだけで温風が服を乾燥させ、シワを伸ばし除菌まで自動で行い、アイロンの手間を減らし、毎朝整った一着で出かけられるようにする。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "Launbot"
+   ],
+   "importance": 3
+  },
+  {
    "id": "87ba27a8f3082143",
    "url": "https://note.com/clever_rose7169/n/ne96d46452ecd",
    "title_original": "「着る服がないんじゃない。着たい服がなかった。」",
@@ -499,6 +616,25 @@
     "トップス"
    ],
    "importance": 4
+  },
+  {
+   "id": "2e98959af1529644",
+   "url": "https://www.roomie.jp/2026/10/1895795",
+   "title_original": "ダイソーの手芸パーツで、「散らかるフィギュア」を活用できるようになった！ これはハマる…",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/P1030053-scaled-1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-03T11:30:53+00:00",
+   "title_ja": "ダイソー手芸パーツで散らかるフィギュアを整理",
+   "summary_ja": "ダイソーの手芸パーツを使い、散らかりがちな小さなフィギュア用のオリジナル収納ケースを自作。手軽に整理でき、部屋がすっきりしたほか、同じパーツで他の小物も収納可能になった。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "ダイソーの手芸パーツ",
+    "フィギュア"
+   ],
+   "importance": 2
   },
   {
    "id": "bcda8ce63e2366ad",
@@ -608,6 +744,25 @@
     "家庭菜園"
    ],
    "importance": 2
+  },
+  {
+   "id": "c4265a7f2ab5271a",
+   "url": "https://monomax.jp/archives/364077",
+   "title_original": "【足元に“いい感じのクセ”を】ランニング靴の皮を被った万能スケシュー！90sムード満点なコンバース新作「ROADCLASSIC SK」をエディターが試し履き",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2026/09/IMG_1041.jpeg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-03T11:00:07+00:00",
+   "title_ja": "コンバース新作『ROADCLASSIC SK』を試し履き",
+   "summary_ja": "エディターがコンバース新作『ROADCLASSIC SK』を試し履きし、ランニングシューズの皮素材が足元に独特のクセを与えるデザインと、90年代ムード満点のスタイルを評価した。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ROADCLASSIC SK",
+    "コンバース"
+   ],
+   "importance": 1
   },
   {
    "id": "88d44d832282b991",
@@ -800,6 +955,24 @@
    "category": "お金・買い方",
    "axis": "reduce",
    "things": [],
+   "importance": 3
+  },
+  {
+   "id": "8c1a544425f8aa1a",
+   "url": "https://media.unisba.ac.id/ee9b8fdd/2ec4113ePAc2Hy1gISceSzM",
+   "title_original": "BTSのJIMINとJUNG KOOKのバッグの中身は？対照的な二人が、旅に行く時の必需品などを紹介。| In The Bag | VOGUE JAPAN Preakness 2026 Horses (peivZAWnpu)",
+   "source": "Unisba Media",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-03T03:50:59+00:00",
+   "title_ja": "BTSメンバーが旅の必需品を紹介したバッグの中身",
+   "summary_ja": "BTSのJIMINとJUNG KOOKが旅に行く時の必需品やバッグの中身について紹介している内容。対照的な二人の持ち物が分かる。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "バッグ"
+   ],
    "importance": 3
   },
   {
@@ -7169,186 +7342,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
-  },
-  {
-   "id": "2d4cd629b2c2014b",
-   "url": "https://www.thespruce.com/storage-lessons-i-learned-from-my-small-apartment-12137337",
-   "title_original": "I Thought We Needed More Space—These 6 Storage Lessons Made Our Small Shared Apartment Work So Much Better",
-   "source": "The Spruce",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-25T14:11:00+00:00",
-   "title_ja": "狭い共有アパートを快適にする6つの収納術",
-   "summary_ja": "限られたスペースの住まいを広く快適に暮らすために役立つ、6つの収納や片付けのレッスンを紹介している。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "939a20dad8a89efc",
-   "url": "https://www.youtube.com/watch?v=3w77OBGrJg0",
-   "title_original": "Relaxed Homeschool Day of 5 Kids | singing, outdoors, curriculum...",
-   "source": "Sarah Therese",
-   "image": "https://i4.ytimg.com/vi/3w77OBGrJg0/hqdefault.jpg",
-   "media": "youtube",
-   "region": "海外",
-   "published": "2026-09-25T14:00:39+00:00",
-   "title_ja": "自家製パン作りに愛用しているホームベーカリーの話",
-   "summary_ja": "5人の子どもを育てる家庭で、ゼロからパンを作るために愛用している専用機の話。自家製のパン作りに欠かせない道具として紹介されている。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "ホームベーカリー"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "95e5d8cc8809c200",
-   "url": "https://www.seattletimes.com/explore/at-home/home-organizing-for-the-neurodivergent-brain",
-   "title_original": "Home organizing for the neurodivergent brain",
-   "source": "The Seattle Times",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-25T14:00:00+00:00",
-   "title_ja": "神経多様性の脳向けホーム整理術",
-   "summary_ja": "神経多様性を持つ人向けに、家の整理や片付けのポイントを紹介する記事。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "42d6ddd28c174efd",
-   "url": "https://www.lifehacker.jp/article/2609-amazon-mr-vesa16",
-   "title_original": "デスクが狭いなら、モニター裏へ。周辺機器の「置き場所」を増やしてみた",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/23/99e4edf8-6ff9-4d55-bde3-ecae37d100cb/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-25T14:00:00+00:00",
-   "title_ja": "モニター裏のVESA穴を活用してデスク周りを広げる方法",
-   "summary_ja": "モニター裏のVESAネジ穴を利用して、外付けHDDや小型PCなどの周辺機器をすっきりと収納した話。デスクが狭い環境で置き場所を増やす工夫。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "外付けHDD",
-    "小型PC",
-    "Nintendo Switch",
-    "モニターホルダー"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "9828901a94628723",
-   "url": "https://www.lifehacker.jp/article/2609-daiso-disaster-prevention-goods-10",
-   "title_original": "全部そろえても2,000円弱。ダイソーで買える防災グッズ10選",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/14/d4e9b6eb-2e53-4825-a314-f1cd71afa91c/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-25T13:30:00+00:00",
-   "title_ja": "ダイソーでそろえる2000円弱の防災グッズ10選",
-   "summary_ja": "100円ショップのダイソーで購入できる、予算2000円以内でそろえられる防災グッズ10点について紹介している記事。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "防災グッズ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2af99665c6c77d30",
-   "url": "https://www.lifehacker.jp/article/2609-lht-jackery-slimpower-h1",
-   "title_original": "迫る雷雲、思わずコンセントを抜いた。でも、仕事は0.01秒も止まらなかった",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/25/8864c5a0-be4e-46cc-a693-4d6929f1afc4/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-25T13:15:00+00:00",
-   "title_ja": "デスクの下にポータブル電源を導入してPCの電源を守った話",
-   "summary_ja": "薄型のポータブル電源をデスク下に導入し、無停電電源装置としてPCの電源維持に活用している話。雷などの突然の停電でも仕事が止まらない環境を作っている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ポータブル電源",
-    "冷蔵庫",
-    "PC"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "f52a6eed7291b05f",
-   "url": "https://www.lifehacker.jp/article/2609-costorypo-angelwings-review1-1739226929",
-   "title_original": "着脱1秒。チタン製のスマホストラップで手ぶらが加速しそう",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/18/7d03b676-9591-46e3-ae0b-59536e83db60/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-25T13:00:00+00:00",
-   "title_ja": "チタン製マグネットスマホストラップで手ぶら化",
-   "summary_ja": "マグネットで瞬時に着脱できるチタン製のスマホショルダーストラップのレビュー。耐荷重15kgの磁石を備え、身軽な外出に役立つ。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "スマホストラップ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c21c968d3d624de4",
-   "url": "https://www.roomie.jp/2026/09/1892016",
-   "title_original": "靴の収納に悩んでいた私が辿り着いた最適解は、スタンダードプロダクツのメッシュケースでした",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/P1020890-scaled-1.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-25T12:30:57+00:00",
-   "title_ja": "靴の収納悩みを解決したスタンダードプロダクツのケース",
-   "summary_ja": "靴の収納や持ち運びに悩んだライターが、スタンダードプロダクツのメッシュケースを活用してすっきりと整理した工夫を紹介。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "メッシュケース"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "228b4755922fb18c",
-   "url": "https://philomathnews.com/psss-column-decluttering-tips-emergency-preparation-session",
-   "title_original": "PSSS column: Decluttering tips, emergency preparation session",
-   "source": "Philomath News",
-   "image": "https://i0.wp.com/philomathnews.com/wp-content/uploads/2025/10/102425-Psss-column-logo-games.jpg?fit=2560%2C1750&ssl=1",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-25T12:00:00+00:00",
-   "title_ja": "片づけのコツと緊急時への備えについて",
-   "summary_ja": "持ち物の整理整頓や断捨離のコツ、および非常時の備えについて取り上げているコラム記事。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "0671cb5fd89fe594",
-   "url": "https://www.roomie.jp/2026/09/1884054",
-   "title_original": "「隠す」のをやめたら、生活感が消えて手間も減った！イケアの隠れた逸品がインテリアの名脇役だった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/IMG_1759-scaled.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-25T11:30:58+00:00",
-   "title_ja": "隠すのをやめて選んだイケアの美しい延長コード",
-   "summary_ja": "コードボックスに隠す収納をやめ、オブジェのようなデザインのイケアの延長コードを取り入れたことで生活感を消しストレスを減らした話。",
-   "category": "道具・ガジェット",
-   "axis": "reduce",
-   "things": [
-    "延長コード",
-    "電源タップ"
-   ],
-   "importance": 4
   }
  ]
 }
