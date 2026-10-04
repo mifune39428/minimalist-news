@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T01:49:02.392048+09:00",
+ "updated_at": "2026-10-05T06:03:15.483783+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,27 +27,27 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-05T01:49:33.811979+09:00",
+  "generated_at": "2026-10-05T06:03:35.499853+09:00",
   "days": 3,
-  "period": "10月4日〜10月4日",
+  "period": "10月4日〜10月5日",
   "count": 45,
-  "reduce_count": 26,
-  "own_count": 19,
-  "overview": "本日は45件の記事が寄せられ、ガジェットや衣類の選び方を見直す工夫や、日々の生活の中で不要なものを手放す断捨離の実践記録などが広く語られています。",
-  "reduce": "季節の衣替えや日々の断捨離を通じて不要なものを見極め、無理のないペースで物を減らして家の中をすっきりと整える工夫が多数語られています。",
-  "own": "モンベルやユニクロなどの厳選したワードローブ、読書や防災に役立つ便利なガジェット、快適な住環境を支える収納アイテムなどが紹介されています。",
+  "reduce_count": 27,
+  "own_count": 18,
+  "overview": "不要になった家電や衣類を手放す具体的な処分方法や、持ち物を厳選して快適な空間を作る工夫が多方面から語られています。",
+  "reduce": "埋没費用にとらわれずこれからの暮らしに必要な基準で手放すことや、日常の小さな断捨離を続ける実践的な方法が多く語られています。",
+  "own": "モンベルやユニクロなどの厳選したワードローブや、読書や掃除を快適にする便利なグッズを取り入れた暮らしぶりが紹介されています。",
   "points": [
    {
-    "title": "手入れや使い方の見直し",
-    "body": "加湿器やネックピローなどの定番品を見直し、自分のライフスタイルや用途に合った選び方や手入れのしやすさを重視する視点が語られています。"
+    "title": "手放す基準と処分方法",
+    "body": "高かった服や使わなくなった草刈機、電動工具などのアイテムを手放す際、埋没費用にとらわれず基準を設けて処分する具体的な方法が紹介されています。"
    },
    {
-    "title": "衣替えと服の手放し方",
-    "body": "クローゼットの整理において、着ない服を手放す基準を設けたり、トレンドのアイテムをあえて見送ることで無駄な買い物を防ぐ方法が紹介されています。"
+    "title": "ワードローブの厳選",
+    "body": "モンベルやユニクロを中心にした全23着の服で暮らす方法や、秋のワードローブをシンプルに整えるためのシンプルな服選びが提案されています。"
    },
    {
-    "title": "ガジェットによる効率化",
-    "body": "小型の電子書籍リーダーやピント調整可能な老眼鏡、複数の機器をまとめるドッキングステーションを活用し、持ち物を減らす工夫が伝えられています。"
+    "title": "収納と便利グッズ",
+    "body": "ブックタワーや無印良品の空気でできた家具を活用した狭い部屋の収納術や、読書時間を快適にする便利なグッズの愛用品が紹介されています。"
    }
   ],
   "keywords": [
@@ -55,13 +55,13 @@
    "ミニマリスト",
    "手放す",
    "収納",
-   "加湿器"
+   "持ち物"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 22
+   "count": 23
   },
   {
    "name": "スマホ",
@@ -129,6 +129,10 @@
   },
   {
    "name": "Apple Watch SE 3",
+   "count": 2
+  },
+  {
+   "name": "iPhone",
    "count": 2
   },
   {
@@ -200,6 +204,10 @@
    "count": 2
   },
   {
+   "name": "マイク",
+   "count": 2
+  },
+  {
    "name": "充電ケーブル",
    "count": 2
   },
@@ -210,14 +218,6 @@
   {
    "name": "卓上スタンド",
    "count": 2
-  },
-  {
-   "name": "家電",
-   "count": 2
-  },
-  {
-   "name": "手帳",
-   "count": 2
   }
  ],
  "sources": [
@@ -227,6 +227,7 @@
   "Balance Through Simplicity",
   "Be More with Less",
   "Better Homes & Gardens",
+  "Boldsky",
   "Bona Magazine",
   "Carryology",
   "Exile Lifestyle",
@@ -284,7 +285,6 @@
   "ミニマリスト Nozomi",
   "ミニマリストK",
   "ミニマリストしぶ",
-  "ミニマリストじゅん",
   "ヨムーノ",
   "ライフハッカー・ジャパン",
   "ライブドアニュース",
@@ -300,6 +300,77 @@
  "count": 400,
  "items": [
   {
+   "id": "4b80b3934e159577",
+   "url": "https://note.com/yorozuyatetsu/n/n79b76e8d122b",
+   "title_original": "宅録用のマイクを増やしすぎていた俺が、福ちゃんの出張査定で機材を整理した話",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/320580042/rectangle_large_type_2_5fed66b92c41141830d83fac8c9ab2d0.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-04T18:44:32+00:00",
+   "title_ja": "増えすぎた宅録用マイクを出張査定で整理した話",
+   "summary_ja": "用途ごとに使い分けているつもりで似たマイクを増やしていたが、置き場所に困り出張査定で整理した体験談。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "マイク"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "220945d1f5bb7e34",
+   "url": "https://note.com/hip_lily8125/n/nb5cc05a6ec9f",
+   "title_original": "高かったから捨てられない。その「もったいない」を、これからの暮らしで考える",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/320609280/rectangle_large_type_2_d6c16a0137611880679a0509779ab5f0.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-04T18:17:53+00:00",
+   "title_ja": "高いから捨てられない「もったいない」を手放す基準",
+   "summary_ja": "高かった服や使っていない調理家電を手放せないのは、すでに払った埋没費用にとらわれるから。過去にいくら払ったかではなく、これからの暮らしに役立つかどうかで判断することが大切です。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "服",
+    "調理家電"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "9c571268a24aea45",
+   "url": "https://note.com/notwinger999/n/nd37969b512f6",
+   "title_original": "2026/10/6",
+   "source": "note #断捨離",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/e82244a8c35261223450faeadc12ac7277cc0390.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-04T17:10:41+00:00",
+   "title_ja": "労働がつらい日にも手放した物と向き合う記録",
+   "summary_ja": "労働がつらくて眠気を感じながらも、ゲームのコントローラーを握る日々の中で、今日手放した物について綴られています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "コントローラー"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "588e6a5344610fb8",
+   "url": "https://note.com/in_artist_lover/n/n457c9c28b23f",
+   "title_original": "ものを増やしたくないのにさ",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/320861608/rectangle_large_type_2_c3dd88ac2ec8d5a0136ccccd77d6dbf8.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-04T16:15:39+00:00",
+   "title_ja": "ものを増やしたくない人が感じるコスパの悪さとは",
+   "summary_ja": "家の中にものを増やすと、管理の手間や維持費などから単純に「コスパが悪い」と感じる理由について考察しています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "e15f172ea08470e9",
    "url": "https://note.com/best_lifestyle/n/n9bdd80e0ec83",
    "title_original": "卓上加湿器おすすめ10選｜毎日つけっぱなしでもカビない",
@@ -314,6 +385,24 @@
    "axis": "reduce",
    "things": [
     "卓上加湿器"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "29d532fd0ba251d4",
+   "url": "https://note.com/okanoyuutu_diet/n/n271112b9bc9d",
+   "title_original": "【日記】雨の日は友達とのんびり…貯金と生活費の計画を立てた日。",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/320837587/rectangle_large_type_2_9127e7ae02cb82596f8398207b20ffcf.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-04T14:32:39+00:00",
+   "title_ja": "手取り21万円の支出計画と貯金の内訳",
+   "summary_ja": "派遣事務で働く人が、固定費を抑えた収入の中で貯金や生活費の計画を立てた日の記録。固定費をWi-Fi代のみにして貯金額や積立を明確にし、残りの予算でやり繰りする家計管理の工夫がつづられています。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [
+    "iPhone"
    ],
    "importance": 3
   },
@@ -1174,6 +1263,22 @@
    "importance": 4
   },
   {
+   "id": "0dd4ef9637b1116a",
+   "url": "https://balancethroughsimplicity.com/enjoy-your-home",
+   "title_original": "12 Ways to Enjoy Your Home More and Make It Work For You",
+   "source": "Balance Through Simplicity",
+   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2024/01/3-1-683x1024.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-03T13:35:00+00:00",
+   "title_ja": "自宅を負担にせず快適な空間にするための12の方法",
+   "summary_ja": "自宅が時間やエネルギーの負担にならないよう、より心地よく自分に合わせた空間にするための12のアイデアを紹介している海外のブログ記事。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "42fdd6cf3817732d",
    "url": "https://www.realsimple.com/what-all-organized-homes-have-in-common-12134833",
    "title_original": "5 Simple Things Every Organized Home Has in Common",
@@ -1366,6 +1471,22 @@
     "フィギュア"
    ],
    "importance": 2
+  },
+  {
+   "id": "126754900aa58f24",
+   "url": "https://www.boldsky.com/home-n-garden/simple-changes-can-make-space-feel-lighter-calmer-vastu-expert-gauri-jain-on-creating-positive-home-173123.html",
+   "title_original": "‘Simple Changes Can Make A Space Feel Lighter And Calmer’: Vastu Expert Gauri Jain On Creating A Positive Home",
+   "source": "Boldsky",
+   "image": "https://images.boldsky.com/img/2026/10/vaastutipsthumbnail-25101791024809.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-03T11:23:32+00:00",
+   "title_ja": "空間を軽やかで落ち着いた雰囲気にする方法",
+   "summary_ja": "専門家が、自宅の空間をよりポジティブで心地よいものにするためのシンプルな模様替えのコツや考え方を語っている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
   },
   {
    "id": "bcda8ce63e2366ad",
@@ -7209,133 +7330,6 @@
     "サンダル"
    ],
    "importance": 2
-  },
-  {
-   "id": "ed32c408b2d6aed7",
-   "url": "https://www.apartmenttherapy.com/decluttering-secrets-organized-home-37691874",
-   "title_original": "8 Decluttering Secrets from People with Always-Organized Homes",
-   "source": "Apartment Therapy",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-26T12:30:00+00:00",
-   "title_ja": "常に整理整頓された人が教える8つの片付け術",
-   "summary_ja": "常に整理整頓された人々が実践している8つの片付けテクニックを紹介。不要品の見極めや収納の工夫など、すぐに試せる具体策が満載です。具体的な手順や考え方も解説し、ミニマリスト生活への第一歩を支援します。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "ec6ed533c7b65f71",
-   "url": "https://www.marthastewart.com/bathroom-items-to-not-throw-away-12138569",
-   "title_original": "7 Bathroom Items You’ll Regret Getting Rid Of When Decluttering",
-   "source": "marthastewart.com",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-26T12:00:00+00:00",
-   "title_ja": "片付けで手放すと後悔するかもしれない7つの浴室アイテム",
-   "summary_ja": "浴室の片付けで誤って手放すと後悔しやすい7つのアイテムをピックアップ。水回りの必需品を見極め、快適さを損なわない整理方法を提案します。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "39b4d084fc0b104a",
-   "url": "https://www.roomie.jp/2026/09/1891174",
-   "title_original": "13年間ずっと現役！ 山崎実業の名作で、苦手だった三角コーナーを手放せた",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/P1020965-scaled-1.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-26T11:30:56+00:00",
-   "title_ja": "山崎実業のゴミ箱で三角コーナーを手放した体験",
-   "summary_ja": "引越しを機に山崎実業のゴミ箱を導入し、苦手だった三角コーナーをスッキリ解消した体験談。機能性とデザイン性で日常の片付けが楽になった様子を紹介します。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "山崎実業のゴミ箱"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ffc6e436256140fd",
-   "url": "https://www.roomie.jp/2026/09/1892177",
-   "title_original": "「節水は物足りない」は思い込みでした。LIXILの快適シャワーヘッド",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/61tyZQaauzL.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-26T11:15:07+00:00",
-   "title_ja": "LIXILのエコフルplusで快適シャワーを実現",
-   "summary_ja": "LIXILのエコフルplusシャワーヘッドは、快適な水流と節水性能を兼ね備え、毎日のシャワーをシンプルにアップグレードできるアイテムとしておすすめです。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "LIXIL エコフルplus"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "c015288767d583ac",
-   "url": "https://note.com/shoko_minimal/n/nb9e0792116e5",
-   "title_original": "2セットの服で生きる",
-   "source": "note #持たない暮らし",
-   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/33886d46ea55eb0d5e4ff24490ebad87b78d47bf.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-26T11:10:30+00:00",
-   "title_ja": "ユニクロ2セットだけで暮らすミニマルファッション",
-   "summary_ja": "ユニクロの黒トップスとプリーツスカート、黒トップスとグレーのロングパンツの計2セットだけで、秋冬のコーディネートをまかせるミニマルな服装術を紹介。持ち物を極限まで減らす実例です。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "ユニクロの黒トップス",
-    "ユニクロのプリーツスカート",
-    "ユニクロのグレーのロングパンツ"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "f1acf058361b12b3",
-   "url": "https://www.roomie.jp/2026/09/1888504",
-   "title_original": "久しぶりに出した長袖のシワ、約15秒でサッとケア。2年愛用しているスチーマーを今年も手放せない理由はね…",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/2609_koide_steamer_05-1.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-26T11:00:44+00:00",
-   "title_ja": "2年愛用のスチーマー、手放せない理由",
-   "summary_ja": "2年間愛用のスチーマーは、15秒で長袖のシワをサッと取れる。デザイン性と耐久性がミニマリストに合い、手放せない理由を語る。引っ越しで家具や収納も見直し、長く使える道具を選ぶ重要性を実感している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "スチーマー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "af1d1aa352de811f",
-   "url": "https://www.youtube.com/watch?v=GxREzBVYmZM",
-   "title_original": "【Vlog】節約しても暮らしを楽しむために、大切にしているお金の使い方｜26歳ミニマリスト",
-   "source": "ミニマリストじゅん",
-   "image": "https://i4.ytimg.com/vi/GxREzBVYmZM/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-09-26T11:00:04+00:00",
-   "title_ja": "ミニマリストじゅんが語る好きな生活道具とお金の使い方",
-   "summary_ja": "26歳ミニマリストのじゅんが、節約しつつ暮らしを楽しむために選んだガジェットや家具を紹介。SONY REON POCKET 6や小型冷蔵庫など、実用性とデザイン性を重視したアイテムの使い方も語る。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "SONY REON POCKET 6",
-    "エペイオス ドリップケトル",
-    "XREAL 1S",
-    "SunRuck 小型冷蔵庫"
-   ],
-   "importance": 4
   }
  ]
 }
