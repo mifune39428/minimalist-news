@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T22:59:55.488480+09:00",
+ "updated_at": "2026-10-06T08:54:03.662680+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,41 +27,42 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-05T23:00:38.762120+09:00",
+  "generated_at": "2026-10-06T08:55:44.298630+09:00",
   "days": 3,
-  "period": "10月4日〜10月5日",
+  "period": "10月5日〜10月6日",
   "count": 45,
-  "reduce_count": 26,
-  "own_count": 19,
-  "overview": "10月4日から5日にかけて、ミニマリスト関連の45件の記事が集まりました。不用品を手放す基準や収納を増やさない工夫、身軽さを追求した具体的な持ち物選びについての話題が活発に語られています。",
-  "reduce": "購入時の価格にとらわれず今後の暮らしに役立つかで判断する手放し方のコツや、無駄な収納を増やさないルール作りが語られています。",
-  "own": "衣類やガジェット、家電などの持ち物を極限まで絞り込み、日々の家事や生活を効率化する具体的な実例が紹介されています。",
+  "reduce_count": 27,
+  "own_count": 18,
+  "overview": "クローゼットやキッチン用品の整理、ストック量の見直しといった具体的な減らし方のほか、日常の家事や作業効率を高めるミニマルな道具選びが語られています。",
+  "reduce": "クローゼットの服の処分やサブスクの整理、ストック量の見直しなど、不要なモノや固定費を手放して生活を整える工夫が多く語られています。",
+  "own": "ガジェットやキッチンツールなど、日々の暮らしや作業を快適にする厳選したアイテムの具体的な選び方や活用法が語られています。",
   "points": [
    {
-    "title": "高価な品の手放し方",
-    "body": "過去に支払った費用にとらわれず、これからの暮らしに役立つかどうかで物を手放す判断基準が語られています。"
+    "title": "適正なストック量",
+    "body": "セールでの買いだめによる失敗から、家族の人数に応じたトイレットペーパーや洗剤の適正な量を計算し管理するコツが紹介されています。"
    },
    {
-    "title": "収納を増やさない工夫",
-    "body": "家具や壁に穴を開けずにフックで小物を掛けたり、無駄な収納スペースを作らないルールで部屋を整える方法が紹介されています。"
+    "title": "服やキッチンの処分",
+    "body": "クローゼットの服を全部出してゴミ袋2袋分を手放したり、キッチンの収納を見直して鍋やフライパンを減らそうとする記録があります。"
    },
    {
-    "title": "ガジェットの実測検証",
-    "body": "急速充電器や互換フィルターなど、仕様通りか実際に検証したデータをもとに使い勝手や選び方を確かめる記録が見られます。"
+    "title": "道具やガジェットの検証",
+    "body": "電動昇降デスク選びや電動歯ブラシの互換ブラシ比較、65W急速充電器の実測値検証など、著者が試した具体的な経験が綴られています。"
    }
   ],
   "keywords": [
    "断捨離",
    "ミニマリスト",
-   "収納",
-   "手放し",
-   "ワードローブ"
+   "ストック量",
+   "サブスク",
+   "クローゼット",
+   "ガジェット"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 24
+   "count": 23
   },
   {
    "name": "スマホ",
@@ -100,10 +101,6 @@
    "count": 3
   },
   {
-   "name": "パンツ",
-   "count": 3
-  },
-  {
    "name": "ポーチ",
    "count": 3
   },
@@ -136,15 +133,15 @@
    "count": 2
   },
   {
+   "name": "アウター",
+   "count": 2
+  },
+  {
    "name": "イヤホン",
    "count": 2
   },
   {
    "name": "エコバッグ",
-   "count": 2
-  },
-  {
-   "name": "キッチンペーパー",
    "count": 2
   },
   {
@@ -161,6 +158,10 @@
   },
   {
    "name": "テレビ",
+   "count": 2
+  },
+  {
+   "name": "トイレットペーパー",
    "count": 2
   },
   {
@@ -184,7 +185,15 @@
    "count": 2
   },
   {
+   "name": "パンツ",
+   "count": 2
+  },
+  {
    "name": "フィギュア",
+   "count": 2
+  },
+  {
+   "name": "フライパン",
    "count": 2
   },
   {
@@ -209,14 +218,6 @@
   },
   {
    "name": "充電器",
-   "count": 2
-  },
-  {
-   "name": "加湿器",
-   "count": 2
-  },
-  {
-   "name": "卓上スタンド",
    "count": 2
   }
  ],
@@ -253,11 +254,13 @@
   "TRILL",
   "The Minimal Mom",
   "The Minimalists",
+  "The National Tribune",
   "The Simplicity Habit",
   "The Spruce",
   "The Verde Independent",
   "Unisba Media",
   "WDTN.com",
+  "WEBザテレビジョン",
   "Woman & Home",
   "Wrexham and Flintshire News, Sport, Events | The Leader",
   "Yahoo",
@@ -297,10 +300,251 @@
   "朝日新聞",
   "私だけミニマリスト｜南さやか",
   "筆子ジャーナル",
-  "美術館・アート情報"
+  "美術館・アート情報",
+  "조선일보"
  ],
  "count": 400,
  "items": [
+  {
+   "id": "3d5d1f2c1ef9bf46",
+   "url": "https://note.com/best_lifestyle/n/n547eff9cc220",
+   "title_original": "トイペ・洗剤の買いだめに効いたおすすめ8選と適正ストック量",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/321294135/rectangle_large_type_2_6fa99ae7048e45545e7756f20fe6fefd.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-05T23:46:37+00:00",
+   "title_ja": "トイレットペーパーと洗剤の適正ストック量を見直した話",
+   "summary_ja": "セールでの買いだめにより押し入れがふさがってしまった失敗から、家族人数に応じた適正なストック量の計算方法を解説。安さに惑わされず適量を管理するコツを紹介しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "トイレットペーパー",
+    "洗剤"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "503232b135e4accd",
+   "url": "https://note.com/apt_shrew5622/n/nca56e66189e5",
+   "title_original": "【固定費ダイエット】入ったまま放置してない？月額サブスクを無理なく断捨離するコツ",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/321293857/rectangle_large_type_2_696fbaa2276b8a3341bc70a73d81ba0b.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-05T23:45:38+00:00",
+   "title_ja": "放置したままの月額サブスクを無理なく断捨離するコツ",
+   "summary_ja": "気づかないうちに家計を圧迫している月額サブスクリプションを、ストレスなく整理して固定費を削減するステップを紹介。毎月のゆとりを作るための片付け術です。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "a423266942d1d265",
+   "url": "https://note.com/inochi240/n/nd43582d0ccab",
+   "title_original": "「2026年10月｜日々のログ」",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/321295478/rectangle_large_type_2_cbc36c2c898bd6d1dc070fb903581994.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-05T23:43:03+00:00",
+   "title_ja": "クローゼットの服を全部出しして45Lゴミ袋2袋分を手放した話",
+   "summary_ja": "もやもやしていたクローゼットの中身をすべて出し、45リットルのゴミ袋2袋分を処分。ごちゃごちゃしていた服を整理し、お気に入りのものだけを残した片付けの記録です。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "ゴミ袋",
+    "アウター"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "5547a9d20843bea4",
+   "url": "https://note.com/smart_life_yuma/n/n01ed440ffacf",
+   "title_original": "電動昇降デスクおすすめ8選｜買って後悔した3点から逆算",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/321290224/rectangle_large_type_2_2b1a0dc51a518ffbaca96957fc46e4b9.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-05T23:31:13+00:00",
+   "title_ja": "電動昇降デスク選びの失敗しない3ポイント",
+   "summary_ja": "在宅3日・出社2日の働き方で2年間電動昇降デスクを使用した著者が、スペック表よりも「配線」「動作音」「天板幅」の3点で失敗した経験を元に、用途別に最適な1台を選ぶポイントを整理した。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "電動昇降デスク"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "1a63be8021cb30f3",
+   "url": "https://note.com/akari_j/n/n736143296454",
+   "title_original": "長く着たいから考える、14のルール",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/319839268/rectangle_large_type_2_b4f5d12e71dca7d3a86f0e0eae72d15e.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-05T23:30:59+00:00",
+   "title_ja": "長く着るための14のルール",
+   "summary_ja": "服を長く着るために著者が実践してきた14のルールを紹介。購入頻度を下げ、コストと環境負荷を減らす具体的な考え方が中心です。洗濯や保管の工夫も含め、無駄な買い替えを防ぐ方法を提案しています。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "99354863693a4a99",
+   "url": "https://www.roomie.jp/2026/10/1890576",
+   "title_original": "料理上手が愛用する「下村工業の千切り器」。にんじん1本を約1分で細切りにできて、野菜を食べる回数が増えました",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/DSCF6713.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-05T23:00:35+00:00",
+   "title_ja": "下村工業の千切り器で野菜を手早く細切り",
+   "summary_ja": "料理ライターが下村工業の千切り器を試し、にんじん1本を約1分で細切りできたと報告。手軽に野菜を細く切れることで、サラダや炒め物の回数が増え、食生活が改善されたと述べています。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "千切り器"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "f2967b4bc2fa0420",
+   "url": "https://www.lifehacker.jp/article/2610-book_to_read-2046",
+   "title_original": "お金は論理ではなく感情の問題である。だから、いまこそ考えたい「お金のこと」",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/10/05/c42f07e0-9774-4734-b9d2-b80265ea4774/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-05T23:00:00+00:00",
+   "title_ja": "お金は感情の問題―シンプルな金銭法則を解説",
+   "summary_ja": "お金は感情の問題であり、論理だけでなく感情を理解することが重要だと論じる。『Your Money 101日後に人生が豊かになりすぎるシンプルなお金の法則』をもとに、感情に基づくお金の考え方を解説する。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "1c50610054b60586",
+   "url": "https://note.com/nifty_mint9730/n/n074265103664",
+   "title_original": "捨てることを先延ばしにするのは、未来の自分にもう一度悩ませること。",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/315549642/rectangle_large_type_2_351d87b7d226bd620ffd408c9d7dd0cf.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-05T22:12:09+00:00",
+   "title_ja": "捨てる先延ばしが未来の悩みになる",
+   "summary_ja": "片付けを進める中で、捨てるのを先延ばしにすると、未来の自分が再び悩む原因になると著者が実感した。具体的な手順は示されていないが、先送りせずに決断することが精神的負担を減らすと提言している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "2711a369160aae5f",
+   "url": "https://www.roomie.jp/2026/10/1898995",
+   "title_original": "たまたま買った「栓抜き」が、まさかの愛用品に。お酒を飲まないわが家で、なぜか毎日使っています",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/2610_shrkm_sizzler17.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-05T22:00:37+00:00",
+   "title_ja": "お酒を飲まない家で毎日使う栓抜き",
+   "summary_ja": "ほとんどお酒を飲まない家庭で、偶然手に入れた栓抜きが毎日使われる必需品に。シンプルなデザインと使い心地の良さが、ミニマルな暮らしに合うと著者は語る。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "栓抜き"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4ac3f97e45d61f42",
+   "url": "https://www.nationaltribune.com.au/save-date-for-this-year-s-garage-sale-trail",
+   "title_original": "Save Date For This Year’s Garage Sale Trail",
+   "source": "The National Tribune",
+   "image": "https://www.camden.nsw.gov.au/assets/Uploads/3qb7OqmreA9jb9qhK3nqqi9TQv6oXviqxguW1H7t.jpeg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-05T21:46:08+00:00",
+   "title_ja": "今年開催 ガレージセールトレイル日程発表",
+   "summary_ja": "今年開催されるガレージセールトレイルの日程が発表された。参加者は自宅の不要品を持ち寄り、地域でフリーマーケット形式で販売できる機会が提供される。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "4a0db4bcf475eeb1",
+   "url": "https://note.com/metastyle/n/n1498d4cec083",
+   "title_original": "鍋とフライパンを減らしたい。ティファールのインジニオ・ネオ",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/321254710/rectangle_large_type_2_ea38a42090d9903f540d174c9cf34a4b.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-05T21:08:16+00:00",
+   "title_ja": "キッチンの収納を見直し、鍋やフライパンを減らしたい話",
+   "summary_ja": "キッチンの引き出しを開けた際、片手鍋やフライパンの柄がぶつかり合ってうまく収納できず悩んでいる人の記録。調理器具の持ち方や収納を見直すきっかけについて綴られています。",
+   "category": "キッチン・食",
+   "axis": "reduce",
+   "things": [
+    "片手鍋",
+    "フライパン",
+    "ティファールのインジニオ・ネオ"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "c1564d14d66f5012",
+   "url": "https://bemorewithless.com/declutter-kitchen/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
+   "title_original": "8 No-Nonsense Ways To Declutter Kitchen Things",
+   "source": "Be More with Less",
+   "image": "https://bemorewithless.com/wp-content/uploads/2026/10/declutter-kitchen-image.png",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-05T20:59:11+00:00",
+   "title_ja": "キッチンの持ち物をすっきりと手放すための8つのヒント",
+   "summary_ja": "キッチン用品をごちゃつかせずに手放し、すっきりと片付けるための実践的な方法を紹介しています。調理器具や食器類を効率よく減らしたいときに役立つシンプルな考え方です。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "2e77c1163495b0ec",
+   "url": "https://www.chosun.com/english/kpop-culture-en/2026/10/06/VD66G3MXFREL7J6HM5IA5OE3OE",
+   "title_original": "Jun Hyun-moo Reflects on Hoarding Habits, Embraces Quality Over Quantity",
+   "source": "조선일보",
+   "image": "https://www.chosun.com/resizer/v2/GM4WGNRRGNSWGNBSMQ2DMYLDMY.png?auth=b29fa3917d2202729a151e8950b974aebada9f9cefe90c0be30c4f8723159da2&width=650&height=341&smart=true",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-05T20:20:35+00:00",
+   "title_ja": "量より質を重視し、これまでの溜め込みグセを見直した人の話",
+   "summary_ja": "これまでの物の溜め込みグセを振り返り、今後は量よりも質を大切にする生き方へとシフトしたことについて語られています。物の持ち方を見つめ直すきっかけになる内容です。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "efa9f7c4f76c1439",
+   "url": "https://nosidebar.com/21-decluttering-mistakes",
+   "title_original": "21 Decluttering Mistakes That Stop You From Maintaining An Organized Home",
+   "source": "No Sidebar",
+   "image": "https://nosidebar.com/wp-content/uploads/getty-images-PIntD0VM1o-unsplash1-scaled.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-05T14:00:00+00:00",
+   "title_ja": "整理の失敗21選と対策",
+   "summary_ja": "ブログは、整理整頓が進まない21の典型的なミス（先延ばしや感情的執着など）を列挙し、回避策を提示して快適な住空間を作る方法を解説しています。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "9bea302aeabf9d99",
    "url": "https://note.com/yukihyo_227/n/n609612c901db",
@@ -371,6 +615,38 @@
    "importance": 3
   },
   {
+   "id": "87316c1646dca9ff",
+   "url": "https://thetv.jp/program/0000955615/331",
+   "title_original": "ウチ、“断捨離”しました！「京都発!祖母の想いを未来へ…受け継いだ家“ハイレベル化”大作戦」",
+   "source": "WEBザテレビジョン",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-05T13:37:31+00:00",
+   "title_ja": "断捨離で家をハイレベル化した京都の事例",
+   "summary_ja": "京都の家族が断捨離に挑み、祖母から受け継いだ住宅を不要なものを手放して整理・リフォームし、暮らしをハイレベル化した過程を紹介しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "62f45911a9b47d3d",
+   "url": "https://www.apartmenttherapy.com/decluttering-after-65-tips-37693471",
+   "title_original": "6 Things My Mom Got Rid Of After 65",
+   "source": "Apartment Therapy",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-05T13:15:00+00:00",
+   "title_ja": "65歳を過ぎた母が手放した6品",
+   "summary_ja": "65歳を過ぎた母親が不要と判断した6つの品を手放すエピソードを通じて、シニア世代の断捨離のコツや心構えを具体的に示しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "feb1d33a4cee0a47",
    "url": "https://www.lifehacker.jp/article/2610-lht-esr-shift-keyboard-apple-pencil",
    "title_original": "約1.6万円で完成した、「iPadお出かけ生産セット」 仕事のフットワークを軽くする2つのガジェット",
@@ -407,6 +683,24 @@
    "importance": 4
   },
   {
+   "id": "6673f7ffa1c2ff4a",
+   "url": "https://shopping.yahoo.com/beauty/articles/best-beauty-organizers-finally-declutter-130000858.html",
+   "title_original": "The Best Beauty Organizers to Finally Declutter Your Vanity",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/e0ca8d37d6e1295de0c39eaf7b4b037a01c8aaebe5c09b8562874c17d8d62028/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Felle_ecomm_articles_938%2F0a845541a323b7ac673ab76da714e83b.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-05T13:00:00+00:00",
+   "title_ja": "化粧台を片付けるおすすめビューティーオーガナイザー",
+   "summary_ja": "化粧品やコスメを整理するためのおすすめビューティーオーガナイザーを厳選紹介し、バニティ周りの散らかりを解消してスッキリした空間を作る方法を提案しています。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "ビューティーオーガナイザー"
+   ],
+   "importance": 3
+  },
+  {
    "id": "1b31febd61f49023",
    "url": "https://note.com/fine_vole9472/n/n91eed8ade691",
    "title_original": "「片づける」より、「散らからない」を考えるようになった",
@@ -437,6 +731,25 @@
    "axis": "reduce",
    "things": [],
    "importance": 4
+  },
+  {
+   "id": "9ab99df90255bfcf",
+   "url": "https://www.lifehacker.jp/article/2610-smartphone-storage-clean-up-tips",
+   "title_original": "Androidの空き容量を取り戻す3つの方法。写真は消さなくて大丈夫！",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/10/05/e4344d76-992f-43e2-a9df-0ab1fdefbfe4/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-05T12:00:00+00:00",
+   "title_ja": "スマホのストレージ不足を解消して空き容量を増やす方法",
+   "summary_ja": "スマートフォン本体の容量不足に悩む人に向けて、専用アプリの活用や不要データの整理、物理的なUSBメモリを使ったデータ移行で空き容量を取り戻す手順を解説しています。",
+   "category": "道具・ガジェット",
+   "axis": "reduce",
+   "things": [
+    "Filesアプリ",
+    "USBメモリ"
+   ],
+   "importance": 3
   },
   {
    "id": "44412bfab8c51082",
@@ -496,6 +809,24 @@
    "importance": 3
   },
   {
+   "id": "6d38d139d56b8368",
+   "url": "https://www.youtube.com/watch?v=i601oyV9Ycw",
+   "title_original": "The Collection | The Minimalists Ep. 558",
+   "source": "The Minimalists",
+   "image": "https://i2.ytimg.com/vi/i601oyV9Ycw/hqdefault.jpg",
+   "media": "youtube",
+   "region": "海外",
+   "published": "2026-10-05T11:00:22+00:00",
+   "title_ja": "ミニマリストのコレクションとこだわりの黒Tシャツ",
+   "summary_ja": "意図的なコレクションの選び方やアンティークの整理方法、愛用の黒Tシャツ、そしてリビングをすっきり保つために避けるべき7つのアイテムについて語られています。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "黒Tシャツ"
+   ],
+   "importance": 4
+  },
+  {
    "id": "029aca5be3c970ff",
    "url": "https://www.youtube.com/watch?v=c5ILVEG0Tts",
    "title_original": "【有村治子さんと断捨離対談】入れるより、出すが先！“トイレ”が人生の質を左右する本当の理由＜前編＞",
@@ -528,6 +859,22 @@
     "ワンピース"
    ],
    "importance": 4
+  },
+  {
+   "id": "62d7137ce9f1823a",
+   "url": "https://news.livedoor.com/topics/detail/32494823/?_clicked=echoes_list",
+   "title_original": "【心の断捨離】ライフさんのマイナス感情を手放してシンプルに暮らす秘訣！",
+   "source": "ライブドアニュース",
+   "image": "https://image.news.livedoor.com/newsimage/stf/2/a/2acdd_1845_91005ec6_9ecab866.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-05T10:26:47+00:00",
+   "title_ja": "マイナス感情を手放してシンプルに暮らす心の断捨離",
+   "summary_ja": "日々の暮らしの中でマイナス感情を手放し、心を軽くしてシンプルに暮らすための秘訣を紹介しています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
   },
   {
    "id": "7334614b59db2a91",
@@ -6998,347 +7345,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
-  },
-  {
-   "id": "d67be514187ee616",
-   "url": "https://note.com/makio2024/n/n2d75f149c234",
-   "title_original": "思い出たちよ、さようなら",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/318200858/rectangle_large_type_2_4994088a9cac640b4e75e27be5151ab4.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-27T11:21:39+00:00",
-   "title_ja": "思い出の手紙や写真アルバムをすべて手放した話",
-   "summary_ja": "家族からの手紙、会社を辞めたときの寄せ書き、卒業写真アルバム、友人の結婚式プロフィールブックなどの思い出の品をすべて手放した人の体験談。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "7bd3affb57b6d5c1",
-   "url": "https://note.com/allman57/n/n81cccf9e834e",
-   "title_original": "noteに書くことで自分の潜在意識の奥に執着心を見つけることができた",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/318179023/rectangle_large_type_2_e09a6b1755113f443176952819efe1cc.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-27T11:19:22+00:00",
-   "title_ja": "1日1捨を無理なく続けて自分の執着心を手放す方法",
-   "summary_ja": "定期的な断捨離から派生して「1日1捨」を緩く継続している人の話。物と向き合い処分を決めることで、自分の潜在意識にある執着心を手放していく過程を綴る。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "9c2a8afb28d101ce",
-   "url": "https://note.com/futayagi/n/n0cc2ddaf5d57",
-   "title_original": "心のゆとりと引き算の美学 〜心とからだの探求⑤〜",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/317677673/rectangle_large_type_2_ce042d0412630c96769e2028e3e9fd7e.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-27T11:18:16+00:00",
-   "title_ja": "心のゆとりと引き算の美学〜心と体の探求⑤",
-   "summary_ja": "心に余裕ができると子どもの話が聞けるようになり、普段と違う＋αの新しいことに挑戦できると著者は語る。『引き算の美学』を通じて、精神的なミニマリズムの実践例を紹介している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "5864eb11f2bb13c7",
-   "url": "https://note.com/hario__/n/n7f67b3a7450c",
-   "title_original": "生活",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/318187484/rectangle_large_type_2_46ca8e61ea24ad162bd466750ef89614.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-27T11:17:57+00:00",
-   "title_ja": "生活再建と断捨離の試み",
-   "summary_ja": "帰国後1か月で仕事に追われつつ、シルバーウィークに生活を立て直し、さまざまなものを購入しながら断捨離にも取り組んでいる様子を綴る。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "f011c5a7befe4c8f",
-   "url": "https://www.roomie.jp/2026/09/1893659",
-   "title_original": "ゴミの日までにおいが気にならない。空気を抜いて生ゴミを密閉する容器",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/KitchenWasteCanister.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-27T11:15:31+00:00",
-   "title_ja": "生ゴミ臭防止の密閉容器",
-   "summary_ja": "シービージャパンのatomico密閉生ゴミキャニスターSは0.75Lで冷凍可能、密閉によりニオイや虫の発生を防ぎ、キッチンをすっきり保つ。Amazonで過去最安で販売中。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "atomico 密閉生ゴミキャニスターS"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "030d661a9549ebd8",
-   "url": "https://note.com/buy_buybuy/n/n1df3403d2b68",
-   "title_original": "配線が消えた。遅延も消えた無線HDMIは異次元",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/318197148/rectangle_large_type_2_c49dc4bb6e4ecb2d75cdad1c8946800c.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-27T11:13:19+00:00",
-   "title_ja": "配線が不要になる無線HDMI",
-   "summary_ja": "llanoのワイヤレスHDMI送受信機は最大100mの伝送と低遅延、PD 60W対応で、HDMIケーブルの配線や切替の手間を解消し、リビングや会議室をすっきりさせる。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "llano ワイヤレスHDMI"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "09b9b72ed007e4bc",
-   "url": "https://monomax.jp/archives/362923",
-   "title_original": "【ワークマンの2,500円パンツ】デザインだけでも超優秀！サポーター一体型「ウェルネスデロードパンツ」の実力は？腰痛持ちが実際に履いてみた",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2026/09/IMG_4357_result.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-27T11:00:28+00:00",
-   "title_ja": "ワークマンのサポーター一体型ウェルネスパンツ",
-   "summary_ja": "腰痛持ちの筆者が実際に着用した、デザイン性も高いワークマンのサポーター一体型ウェルネスデロードパンツの使用感。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "パンツ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "81c74fff95dc34a1",
-   "url": "https://www.youtube.com/shorts/y0FfWZ4VpeY",
-   "title_original": "【断捨離】断捨離の効用、自分の居場所作りと新陳代謝 #断捨離 #https #danshari #shorts",
-   "source": "やましたひでこ断捨離",
-   "image": "https://i2.ytimg.com/vi/y0FfWZ4VpeY/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-09-27T11:00:24+00:00",
-   "title_ja": "断捨離を通して自分の居場所を作り部屋や心を整える取り組み",
-   "summary_ja": "断捨離を行うことで単に不要な物を減らすだけでなく、自分の居場所を作り出し、部屋も心もスッキリと新陳代謝させていく効果や実践的な考え方について語られた動画。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "e4ddb0b596abc361",
-   "url": "https://www.roomie.jp/2026/09/1887511",
-   "title_original": "生乾き臭に敏感な私が「キッチンリセット」に選んだのは、ふきんでもキッチンペーパーでもないこれだった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/20260916-mio-marna-squeegee-01.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-27T11:00:19+00:00",
-   "title_ja": "キッチンの生乾き臭を防ぐためにふきん代わりに選んだ道具の話",
-   "summary_ja": "調理台の水跳ねを拭くキッチンリセットにおいて、生乾き臭に悩むフリーライターがふきんやキッチンペーパーを使わず、無理なく心地よく手入れできる仕組みを作るために選んだ道具の話。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "ふきん",
-    "キッチンペーパー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "85f54414d7dc65c6",
-   "url": "https://note.com/love_happy_time/n/ne24483b440e0",
-   "title_original": "自分に合った枕",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/318168768/rectangle_large_type_2_9a3095710eba766621c3694fed92fd3a.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-27T10:33:37+00:00",
-   "title_ja": "洗えて清潔を保てるバスタオルを活用した自分に合う枕の工夫",
-   "summary_ja": "市販の低反発枕が丸洗いできないことに悩んでいた著者が、譲り受けた綿100%のバスタオルを活用し、安価で清潔を保ちやすく環境にも優しい理想の枕の使い方を模索した体験談。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "バスタオル",
-    "低反発枕"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f65bf34ee55a740a",
-   "url": "https://www.youtube.com/shorts/T1Dt3hVfdDQ",
-   "title_original": "3歳児と暮らすミニマリスト｜寝る前のきれいな部屋🌙 #ミニマリスト #シングルマザー",
-   "source": "小さな暮らしノート",
-   "image": "https://i1.ytimg.com/vi/T1Dt3hVfdDQ/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-09-27T10:01:59+00:00",
-   "title_ja": "3歳児と暮らすシングルマザーの夜の部屋リセット",
-   "summary_ja": "3歳の子どもと1LDKで暮らすミニマリストが、子どもを寝かしつけたあとに部屋を整える夜のルーティン。無理をしない範囲で空間をリセットし、気持ちよく眠るための工夫を紹介している。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "e52dcacb8acd5049",
-   "url": "https://www.youtube.com/watch?v=s6wo5DvQwT4",
-   "title_original": "【ルームツアー】家賃3.5万円｜賃貸リノベ｜熊本地震で変わった、モノとの向き合い方｜apartment301",
-   "source": "ミニマリストK",
-   "image": "https://i4.ytimg.com/vi/s6wo5DvQwT4/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-09-27T10:00:30+00:00",
-   "title_ja": "家賃3.5万円の賃貸リノベで暮らすミニマリストの部屋",
-   "summary_ja": "家賃3.5万円の賃貸リノベーション物件で暮らす人のルームツアー。災害をきっかけにモノとの向き合い方が変わり、厳選した持ち物でシンプルに暮らす様子を紹介している。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "14d0dce4eb8a9f94",
-   "url": "https://www.roomie.jp/2026/09/1889874",
-   "title_original": "帰宅後のテーブルが小物でゴチャつかなくなった！ 置くだけで片付く山崎実業の3段トレー",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/7e9dcd4f2ab0f7fa72713a54970bbaac.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-27T10:00:23+00:00",
-   "title_ja": "山崎実業の3段トレーで帰宅後のテーブルが片付く理由",
-   "summary_ja": "帰宅後に散らかりがちだった小物をすっきりと整理するため、山崎実業の3段トレーを導入した話。置くだけでテーブルの上を片付く状態にする収納の工夫を紹介している。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "3段トレー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "80979a8330c63745",
-   "url": "https://balancethroughsimplicity.com/what-should-your-home-really-look-like",
-   "title_original": "What Should Your Home Really Look Like? 5 Questions to Help You Decide",
-   "source": "Balance Through Simplicity",
-   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2026/09/3-683x1024.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-09-27T08:48:07+00:00",
-   "title_ja": "住まいを見直す5つの質問と整理のコツ",
-   "summary_ja": "自宅の理想的な姿や整理整頓の基準が分からない人向けに、非現実的な期待を手放し、実生活に合った住まいを作るための5つの質問と、やさしい片付け・整理のアプローチを解説しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "b2712386cb4457b9",
-   "url": "https://www.lifehacker.jp/article/2609-amazon-irisohyama-laptopstand",
-   "title_original": "出先だとノートPCの画面低すぎる問題。255gのスタンドを持ち運びましょう",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/27/ab4bef97-c8e7-4849-bfb5-9dea41bfa0e2/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-27T07:30:00+00:00",
-   "title_ja": "255gの折りたたみノートPCスタンドで持ち運び快適化",
-   "summary_ja": "アイリスオーヤマのノートパソコンスタンドNPS-PBKは重さ255gで13〜17インチ対応、7段階角度調整が可能。折りたたんで収納袋に入れればバッグに入れやすく、カフェやオフィスで首肩の負担を軽減します。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "アイリスオーヤマ ノートパソコンスタンド"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "3a27a1524c40d6cb",
-   "url": "https://news.livedoor.com/topics/detail/32423469",
-   "title_original": "40代、「やめたらラクになったこと」3つ。服は40着でOK、食器もたくさんいらない (2026年9月27日掲載)",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-27T07:00:00+00:00",
-   "title_ja": "40代でやめてラクになったことと手放した物",
-   "summary_ja": "40代になってやめたことで気持ちがラクになった体験談。服を40着に絞ることや、食器を減らしてシンプルに暮らす工夫について紹介している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "服",
-    "食器"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "5cdcdae5cb6aa9ff",
-   "url": "https://note.com/kgw_uuchat/n/n5657bd9e43db",
-   "title_original": "今日の断捨離 | 吸うという習慣",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/317317950/rectangle_large_type_2_40dff051c40e908a3e7cc2197a345b3a.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-27T04:19:29+00:00",
-   "title_ja": "禁煙に取り組みスムーズに「吸う習慣」を手放した人の話",
-   "summary_ja": "タバコを吸う習慣を手放す断捨離に取り組んだ体験談。ニコチン断ちは意外にもスムーズに進めることができたという、悪習慣を減らすための工夫や心の持ち方について記録している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "タバコ"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "eaf8149300c9579a",
-   "url": "https://note.com/twilights7/n/n56670454020c",
-   "title_original": "2026年9月手放したものログ｜30代ひとり暮らし、手放したいモノがなくなってきた",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/317391764/rectangle_large_type_2_c5d64ce6a6c13b8e81bc0b770295ab99.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-27T04:15:34+00:00",
-   "title_ja": "30代ひとり暮らしが季節の変わり目に持ち物を見直した話",
-   "summary_ja": "季節の変わり目である9月に、持ち物の見直しを行った30代ひとり暮らしの記録。手放したいモノが徐々になくなってきた中で、改めて自分の所有物と向き合い、身の回りを整理した様子を綴っている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "56b2dd9902d4d04a",
-   "url": "https://note.com/nobu_50_afp/n/n637a7f9f242f",
-   "title_original": "50代の断捨離で見えた、買い物の基準「稼働率」",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/316350044/rectangle_large_type_2_91da99f6132ac888078e67c0e19d428d.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-27T04:14:26+00:00",
-   "title_ja": "50代の断捨離で見えてきた「稼働率」を基準にするお金の使い方",
-   "summary_ja": "生命保険や通信費の見直しを行った50代の筆者が、年齢とともに変化したお金の使い方を振り返る。お金を使うことは好きでありながらも、本当に使うかどうかという「稼働率」を意識した買い物基準を紹介している。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "0712ecf17fa957e1",
-   "url": "https://note.com/micro_yuki/n/n17bac6637e79",
-   "title_original": "【No.36】メンズ眉毛サロン②",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/317717555/rectangle_large_type_2_9c9d38780641636e1ba999b03b0e67fe.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-27T04:08:50+00:00",
-   "title_ja": "ミニマリストが散髪代より高い眉毛サロンに通い続ける理由",
-   "summary_ja": "アラフォーのミニマリストが、2ヶ月に1回メンズ眉毛サロンに通う美容習慣を紹介。1回あたり5500円の費用をかけ、散髪代よりも高額な投資をしながら眉毛を整えることで、身だしなみをキープしている。",
-   "category": "心・習慣",
-   "axis": "own",
-   "things": [],
-   "importance": 2
   }
  ]
 }
