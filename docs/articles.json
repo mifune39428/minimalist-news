@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T06:03:15.483783+09:00",
+ "updated_at": "2026-10-05T13:45:14.645794+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,45 +27,44 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-05T06:03:35.499853+09:00",
+  "generated_at": "2026-10-05T13:47:15.745632+09:00",
   "days": 3,
   "period": "10月4日〜10月5日",
   "count": 45,
-  "reduce_count": 27,
-  "own_count": 18,
-  "overview": "不要になった家電や衣類を手放す具体的な処分方法や、持ち物を厳選して快適な空間を作る工夫が多方面から語られています。",
-  "reduce": "埋没費用にとらわれずこれからの暮らしに必要な基準で手放すことや、日常の小さな断捨離を続ける実践的な方法が多く語られています。",
-  "own": "モンベルやユニクロなどの厳選したワードローブや、読書や掃除を快適にする便利なグッズを取り入れた暮らしぶりが紹介されています。",
+  "reduce_count": 26,
+  "own_count": 19,
+  "overview": "不要な物を手放す基準や家計管理の工夫、調理家電やガジェットなどの持ち物選定に関する体験談が多数語られています。",
+  "reduce": "埋没費用やこれからの暮らしへの役立ち度を基準に、服やガジェットを手放す具体的な工夫や心理面の見直しが語られています。",
+  "own": "モンベルやユニクロなどの厳選した服や、調理家電、ガジェットなどの具体的なアイテム選びと活用法が紹介されています。",
   "points": [
    {
-    "title": "手放す基準と処分方法",
-    "body": "高かった服や使わなくなった草刈機、電動工具などのアイテムを手放す際、埋没費用にとらわれず基準を設けて処分する具体的な方法が紹介されています。"
+    "title": "手放す判断基準",
+    "body": "過去に支払った費用に捉われず、これからの暮らしに役立つかどうかで不要な服や調理家電を手放す基準が語られています。"
+   },
+   {
+    "title": "家電の活用と工夫",
+    "body": "ホットクックや加湿器などについて、作業時間の削減効果やお手入れのしやすさを考慮した導入・手入れの体験談が共有されています。"
    },
    {
     "title": "ワードローブの厳選",
-    "body": "モンベルやユニクロを中心にした全23着の服で暮らす方法や、秋のワードローブをシンプルに整えるためのシンプルな服選びが提案されています。"
-   },
-   {
-    "title": "収納と便利グッズ",
-    "body": "ブックタワーや無印良品の空気でできた家具を活用した狭い部屋の収納術や、読書時間を快適にする便利なグッズの愛用品が紹介されています。"
+    "body": "モンベルやユニクロを中心に少ない枚数で暮らす工夫や、流行のアイテムを見送って自分のスタイルに合う服を選ぶ基準が紹介されています。"
    }
   ],
   "keywords": [
    "断捨離",
    "ミニマリスト",
    "手放す",
-   "収納",
-   "持ち物"
+   "収納"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 23
+   "count": 24
   },
   {
    "name": "スマホ",
-   "count": 8
+   "count": 9
   },
   {
    "name": "本",
@@ -104,10 +103,6 @@
    "count": 3
   },
   {
-   "name": "パジャマ",
-   "count": 3
-  },
-  {
    "name": "パソコン",
    "count": 3
   },
@@ -129,10 +124,6 @@
   },
   {
    "name": "Apple Watch SE 3",
-   "count": 2
-  },
-  {
-   "name": "iPhone",
    "count": 2
   },
   {
@@ -172,6 +163,10 @@
    "count": 2
   },
   {
+   "name": "ノートPC",
+   "count": 2
+  },
+  {
    "name": "ノートパソコン",
    "count": 2
   },
@@ -181,6 +176,10 @@
   },
   {
    "name": "バッグ",
+   "count": 2
+  },
+  {
+   "name": "パジャマ",
    "count": 2
   },
   {
@@ -216,7 +215,7 @@
    "count": 2
   },
   {
-   "name": "卓上スタンド",
+   "name": "加湿器",
    "count": 2
   }
  ],
@@ -234,6 +233,8 @@
   "Family Handyman",
   "Good Housekeeping",
   "House Beautiful",
+  "Infoseek",
+  "Irish Independent",
   "LIMO | くらしとお金の経済メディア",
   "MarketWatch",
   "Matt D'Avella",
@@ -284,7 +285,6 @@
   "りくと｜ミニマリスト",
   "ミニマリスト Nozomi",
   "ミニマリストK",
-  "ミニマリストしぶ",
   "ヨムーノ",
   "ライフハッカー・ジャパン",
   "ライブドアニュース",
@@ -299,6 +299,203 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "66bb40a0ed739dc4",
+   "url": "https://www.independent.ie/lifestyle/swedish-death-cleaning-i-feel-its-like-a-little-love-letter-to-your-kids/a/161473192.html",
+   "title_original": "Swedish death cleaning: ‘I feel it’s like a little love letter to your kids’",
+   "source": "Irish Independent",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-05T04:38:07+00:00",
+   "title_ja": "子供への愛として生前整理を行うスウェーデンの片づけ術",
+   "summary_ja": "残された家族に負担をかけないよう、生前に身の回りの持ち物を整理する「スウェーデン式生前整理」についての記事。自分の持ち物をあらかじめ減らしておくことは、子供たちへの愛情表現や思いやりのメッセージになると捉えられている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "a51eb62fc109415b",
+   "url": "https://note.com/smart_life_yuma/n/n4d8fafbee4b2",
+   "title_original": "ホットクックで平日の料理時間が月7時間減った会社員の話",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/321009273/rectangle_large_type_2_43658c6b05769a172553f12865048b60.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-05T04:35:54+00:00",
+   "title_ja": "ホットクックを導入して平日の調理時間を月7時間減らした会社員の話",
+   "summary_ja": "週3回以上自炊する一人暮らしの会社員が、調理中の作業時間を月7時間削減できた体験談。本体代を1年未満で回収できるメリットがある一方、ドラム式洗濯機と同時に運転する際の注意点や、容量選びの落とし穴など、都内1Kでの導入前に直面した疑問を解説している。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "ホットクック",
+    "ドラム式洗濯機"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "6b91f23b1e0a9bfe",
+   "url": "https://note.com/best_lifestyle/n/nb27ca323699f",
+   "title_original": "空気清浄機フィルター交換、純正と互換の“価格逆転”が来る",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/321008954/rectangle_large_type_2_befc5f6eefc3e8da5ae9647e020b7f3d.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-05T04:35:03+00:00",
+   "title_ja": "空気清浄機のフィルター交換で純正と互換品を比較検証した人の話",
+   "summary_ja": "実家の空気清浄機を7年間放置して失敗した経験から、交換用フィルターの選び方を検証した体験談。純正品と安価な互換品の価格差が縮まる中、単に安さで選ぶのではなく、組み合わせを工夫することでコストと空気の質を両立させる方法を提案している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "空気清浄機",
+    "フィルター"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b4d4935779a111d7",
+   "url": "https://note.com/cozy_life_takuto/n/nddd88ccd25bd",
+   "title_original": "65W急速充電器、PC＋スマホ同時でPCは40W未満に",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/321008719/rectangle_large_type_2_76c41a57fa3d4be9ec5d32d7e5d5ac4f.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-05T04:34:21+00:00",
+   "title_ja": "65W急速充電器でPCとスマホを同時充電した際の実測値を検証した話",
+   "summary_ja": "ノートPCとスマホを1台で急速充電できるとされる65W充電器の実態を検証した記事。複数ポートを同時に使用すると、PCへの給電が40W未満に低下する仕組みを解説し、実測データをもとにした最適な充電器の選び方を紹介している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "急速充電器",
+    "ノートPC",
+    "スマホ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e41ea91244057a9a",
+   "url": "https://note.com/best_lifestyle/n/n49e704329ed8",
+   "title_original": "加湿器のカビ掃除グッズ8選｜クエン酸が効かない汚れ",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/320999373/rectangle_large_type_2_b50de9ad367e8a56d3d7920eaafb1607.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-05T04:05:38+00:00",
+   "title_ja": "加湿器の汚れに合わせてクエン酸や漂白剤を使い分けて掃除した人の話",
+   "summary_ja": "加湿器の汚れの種類に応じた効果的な掃除方法を紹介する記事。白い汚れにはクエン酸、ピンク汚れには中性洗剤、黒カビには酸素系漂白剤と、汚れの性質に合わせて洗剤を使い分けることで、超音波式加湿器などのしつこいヌメリやカビを効率的に落とす手順を解説している。",
+   "category": "道具・ガジェット",
+   "axis": "reduce",
+   "things": [
+    "加湿器",
+    "クエン酸",
+    "中性洗剤",
+    "酸素系漂白剤"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e25ecbc37b5e764a",
+   "url": "https://note.com/kenmagic1234/n/n745692518eab",
+   "title_original": "スタバ限定のモレスキンノートを手に入れました。",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/320995427/rectangle_large_type_2_fdc7578340d53636bedf9953c02db76f.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-05T03:52:27+00:00",
+   "title_ja": "スタバ限定モレスキンノートを入手した話",
+   "summary_ja": "Kenさんはスターバックス限定のモレスキンノートを手に入れ、所有物として新たに加えたことを報告しています。このノートはシンプルなデザインで、ミニマリストが好む一冊として紹介されています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "モレスキンノート"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "2ad50779c9c043c4",
+   "url": "https://note.com/novel_auklet8496/n/n065d7811ec7f",
+   "title_original": "欲しいものリストを、作らなくなりました",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/320223955/rectangle_large_type_2_7ae1c52768947435cfbf4cb207c2148b.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-05T01:35:19+00:00",
+   "title_ja": "欲しいものリストを作らなくなった理由",
+   "summary_ja": "著者はかつて欲しいものリストを作っていたが、リストが欲求を増やすと気づき、作成をやめて自然に必要なものだけを選ぶようにした経緯を語ります。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "4cc7d373ba43533d",
+   "url": "https://minimalist-fudeko.com/why-we-regret-purchases",
+   "title_original": "買ったときはうれしかったのに、なぜ後悔するのか？（TED）",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/09/buy-things.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-05T00:10:15+00:00",
+   "title_ja": "なぜ人は無駄な物を買ってしまうのか、その心理に迫る",
+   "summary_ja": "買ったときは嬉しかったのに後悔してしまう理由について、マーケティングの視点から解説するTEDトークを紹介しています。物が増えてしまう原因や買い物の心理を振り返るきっかけになります。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "c9b26a9a4bce7251",
+   "url": "https://news.infoseek.co.jp/article/fudge_404309",
+   "title_original": "6畳ワンルームで暮らすミニマリストの「お金をかけすぎない」インテリアのルール。すぐに収納を増やさない【シンプリストの暮らしかた】",
+   "source": "Infoseek",
+   "image": "https://media.image.infoseek.co.jp/isnews/photos/fudge/fudge_404309_0.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-04T23:30:21+00:00",
+   "title_ja": "6畳ワンルームのミニマリストが語る無駄な収納を増やさないルール",
+   "summary_ja": "6畳のワンルームで暮らすミニマリストが、余計な収納を増やさずにインテリアを整えるための費用を抑える具体的なルールを紹介しています。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "1976bb656a840785",
+   "url": "https://news.livedoor.com/topics/detail/32488685",
+   "title_original": "60代からの断捨離術！ライフさんの服を手放す基準とは？「自分の判断基準」で叶えるシンプルライフ",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-04T22:18:00+00:00",
+   "title_ja": "60代から始める服の断捨離基準とシンプルライフ",
+   "summary_ja": "60代のライフさんが、服を手放す際に自分で設定した判断基準を語り、断捨離を通じてシンプルな暮らしを実現する方法を具体的に示しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "9b96d34f4e1e67bb",
+   "url": "https://www.roomie.jp/2026/10/1898417",
+   "title_original": "いなばの缶詰カレーが「4連パウチ」に。使い切りで開けやすく、後片づけまでスムーズなんだ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/20261004_inabacurrypouchtype_0-scaled.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-04T22:00:58+00:00",
+   "title_ja": "いなばの缶詰カレーが使いやすい4連パウチに",
+   "summary_ja": "いなばの缶詰カレーがお気に入りで愛用している。新たに登場した4連パウチタイプは、使い切りやすくて開けやすく、食後の後片づけまでスムーズに行えるのが魅力。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "いなばの缶詰カレー"
+   ],
+   "importance": 2
+  },
   {
    "id": "4b80b3934e159577",
    "url": "https://note.com/yorozuyatetsu/n/n79b76e8d122b",
@@ -7138,198 +7335,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
-  },
-  {
-   "id": "4cb3814d9c58e634",
-   "url": "https://note.com/meguri_mama/n/nc6314d18d0a7",
-   "title_original": "身軽よりも自分の「安心」を大切にしたいと思った話",
-   "source": "note #ミニマリスト",
-   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/6ca81f5d54c500b3de41f62aa7a69604ba53cfe4.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-26T14:57:07+00:00",
-   "title_ja": "身軽な暮らしへの憧れと、子育てグッズの選び方",
-   "summary_ja": "世間でよく聞く「ものを持たない暮らし」やレンタルを活用する合理的なスタイルに憧れを抱きつつ、自分にとっての安心感を大切にしたいとつづった記事です。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "4c479643829ad280",
-   "url": "https://note.com/bzl21340/n/n428ed0d4ca0b",
-   "title_original": "「周囲に流されがち」だった人生が、バイクで変わった",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/317878559/rectangle_large_type_2_b0fbcff78b6a60849a7da2060861b9dc.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-26T14:34:55+00:00",
-   "title_ja": "バイク旅を通して自分の内面とモノとの向き合い方を変えた話",
-   "summary_ja": "バイクのシンプルな造形や一人旅、キャンプ、モノを減らした旅の経験を深く掘り下げ、周囲に流されがちだった人生が変わった理由をたどります。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "2e9f7f25e725cf65",
-   "url": "https://www.lifehacker.jp/article/machi-ya-spearedge-end-973114",
-   "title_original": "段ボールもロープも、引いてスッと。デスクにも玄関にも忍べる12gのチタンナイフ",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/08/27/5f2c449f-e8dc-4a7b-bcef-713dbf594a2a/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-26T13:45:00+00:00",
-   "title_ja": "デスクや玄関に置ける12gの小型チタンナイフ",
-   "summary_ja": "鷹の爪を模した鋭い先端とカーブ刃を持ち、段ボールやロープなどを少ない力で切ることができる小型のチタンナイフを紹介しています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "チタンナイフ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "5e5f6f6024880224",
-   "url": "https://note.com/loyal_curlew839/n/neb5fea8f4de1",
-   "title_original": "50代の終活。たった3段で、2ヶ月入院した",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/317856695/rectangle_large_type_2_1994b53ed1e5351495f017ffcc8d7a11.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-26T13:36:55+00:00",
-   "title_ja": "50代の終活、2ヶ月の入院を経て身の回りの持ち物を見直した話",
-   "summary_ja": "2ヶ月間の入院生活を病院の貸し出しパジャマで過ごし、退院時に手元に残ったのが紙袋ひとつぶんの荷物だけだったという経験をつづっています。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [
-    "パジャマ"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "38a1b8fc17df6c86",
-   "url": "https://www.apartmenttherapy.com/lid-organizer-for-blanket-storage-idea-37691981",
-   "title_original": "I Used a Pot Lid Organizer to Store My Blankets, and It’s Brilliant",
-   "source": "Apartment Therapy",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-26T13:32:31+00:00",
-   "title_ja": "鍋フタオーガナイザーで毛布をすっきり収納",
-   "summary_ja": "著者は鍋のフタ収納ケースを利用し、毛布をコンパクトにまとめて収納。余分なスペースが減り、部屋がすっきりしたと紹介している。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "鍋フタオーガナイザー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "e94602679e2a87ab",
-   "url": "https://www.lifehacker.jp/article/2609-iphone-battery-replacement-extend-life",
-   "title_original": "iPhoneの寿命を3年延ばす方法。コストは買い替えの1/16",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/10/04946688-3d81-4aaa-9d50-9017c99f081a/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-26T13:30:00+00:00",
-   "title_ja": "iPhoneの寿命を3年延ばす方法とコスト",
-   "summary_ja": "今のiPhoneを長く使い続けるための方法を紹介しています。買い替えに比べて大幅にコストを抑えて寿命を延ばすアプローチを解説した記事です。",
-   "category": "道具・ガジェット",
-   "axis": "reduce",
-   "things": [
-    "iPhone"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "fa76886d50eaeff2",
-   "url": "https://www.lifehacker.jp/article/26xx-yamazakijitsugyou-tablet-stand-panel",
-   "title_original": "タブレットスタンドと文具収納が合体。360度くるくるまわして使えるツールハブ",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/17/539c7e1f-bfb0-4aad-98d3-7078cf592997/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-26T13:15:00+00:00",
-   "title_ja": "回転式タブレットスタンドで文具も一体化",
-   "summary_ja": "山崎実業の回転式タブレットスタンドは、前面にタブレットを置き、裏面にマグネットで文具や小物を貼り付けられるツールハブとして機能し、机上をすっきりさせる。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "タブレットスタンド スチールパネル タワー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "9ffdf2c83d793c0f",
-   "url": "https://www.youtube.com/watch?v=U6NqGLkGu-w",
-   "title_original": "ミニマリストしぶ、ハンドルのない無人タクシーに乗る。【テスラ サイバーキャブ】",
-   "source": "ミニマリストしぶ",
-   "image": "https://i2.ytimg.com/vi/U6NqGLkGu-w/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-09-26T13:05:55+00:00",
-   "title_ja": "テスラ・サイバーキャブで削られた“無駄”を解説",
-   "summary_ja": "ミニマリストしぶは、ハンドルやペダルがないテスラの無人タクシーに乗り、車内に残された機能と削減された部品をミニマリズムの観点から分析している。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [
-    "テスラ サイバーキャブ"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "9c8fbc37885cc06b",
-   "url": "https://monomax.jp/archives/363866",
-   "title_original": "【掃除の自動化はここまで来た】シャークの最新ロボット掃除機は“ガチで全自動”！壁際2mmまで届くブラシ＆伸縮モップと最高80℃の温水除菌で「本当の手間いらず」な一台",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2026/09/bd352503ca7ea19daecc626968bd1f3d-scaled.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-26T13:00:55+00:00",
-   "title_ja": "シャーク最新ロボット掃除機で掃除を完全自動化",
-   "summary_ja": "シャークの新型ロボット掃除機は、壁際2mmまで届くブラシと伸縮モップ、最高80℃の温水除菌を搭載し、手動掃除の手間をほぼゼロにできると紹介している。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "シャーク ロボット掃除機"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "4a21f19c0b6a03e4",
-   "url": "https://shopping.yahoo.com/home-garden/home-decor/articles/dollar-tree-finds-decluttering-home-130024579.html",
-   "title_original": "Dollar Tree Finds That Make Decluttering Your Home Easy This Fall",
-   "source": "Yahoo",
-   "image": "https://s.yimg.com/lo/mysterio/api/edb9d790eaa9a839cba7d6f03affb63acfcdff338a948ca99f406e42eb39a264/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwoman_s_world_e_commerce_574%2F03aed7d4927a1a97903bb153af68f8b1.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-26T13:00:24+00:00",
-   "title_ja": "Dollar Treeの格安片付けグッズで整理上手に",
-   "summary_ja": "Dollar Treeで手に入る低価格の収納アイテムや整理用品を紹介し、手軽に家の片付けやミニマリズムを始められるポイントを解説している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "c4a7157698d85e47",
-   "url": "https://www.roomie.jp/2026/09/1887968",
-   "title_original": "ワークマンの定番「シックソールサンダル」は夕方散歩に大活躍！ 玄関に常置きしたい一足だな〜",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/7IV05507.jpeg.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-26T12:30:56+00:00",
-   "title_ja": "ワークマンのサンダルで夕方散歩を楽しむ",
-   "summary_ja": "ちょっとした外出や毎日の夕方散歩に活躍する、ワークマンのシックソールサンダルを紹介しています。気軽に履けて歩きやすい、玄関に常備したい一足です。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "サンダル"
-   ],
-   "importance": 2
   }
  ]
 }
