@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T22:01:11.196983+09:00",
+ "updated_at": "2026-10-07T07:30:54.764471+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,50 +27,61 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-06T22:07:58.499873+09:00",
+  "generated_at": "2026-10-07T07:31:27.638568+09:00",
   "days": 3,
-  "period": "10月5日〜10月6日",
+  "period": "10月6日〜10月7日",
   "count": 45,
   "reduce_count": 31,
   "own_count": 14,
-  "overview": "持ち物の見直しや手放し方、日々の暮らしを整える工夫について、フリマアプリの活用やクローゼットの整理などを交えて多くの実践談が語られています。",
-  "reduce": "クローゼットの服やキッチン用品の整理、サブスクや買いだめの見直しなど、不要品を手放して暮らしを軽くする具体的な体験や工夫が多く語られています。",
-  "own": "機能や軽さを重視した水筒、サーキュレーター、純チタン製のタンブラーなど、日々の生活を快適にするこだわりのアイテム選びが紹介されています。",
+  "overview": "不要品の処分やサブスクの整理といった「減らし方」の工夫から、暮らしを快適にする厳選したアイテム選びまで、日々の生活を見直す体験談や実用的なアイデアが多数語られています。",
+  "reduce": "衣類の枚数を減らしたり、サブスクや買いだめのストックを見直したりして、日々の暮らしや固定費をすっきりと整える実践的な工夫が語られています。",
+  "own": "無印良品の豆皿やチタン製ストラップなど、日常のちょっとした不便を解消して身軽に過ごすための便利なアイテム選びが紹介されています。",
   "points": [
    {
-    "title": "フリマ活用と手放し",
-    "body": "AIに相談してメルカリでの初取引を成功させた体験や、使わないプレゼントをフリマに出品して不要品を手放した妻のエピソードなど、アプリを使った手放し方への一歩が語られています。"
+    "title": "フリマやAIの活用",
+    "body": "AIに相談しながらメルカリで初取引を完了させたり、夫からのプレゼントや思い出の品をフリマに出品したりして、不要品を手放す一歩を踏み出す体験談が語られています。"
    },
    {
-    "title": "服とクローゼットの整理",
-    "body": "価格や将来の着用可能性などのチェックリストを用いて服の取捨選択を行ったり、クローゼットから全部出して45Lゴミ袋2袋分を手放したりするクローゼットの整理術が紹介されています。"
+    "title": "服やクローゼットの見直し",
+    "body": "セールや衝動買いで増えてしまった服を100着から20着に絞ったり、クローゼットの服を全部出してゴミ袋2袋分を手放したりする具体的な断捨離の記録が紹介されています。"
    },
    {
-    "title": "機能や軽さを重視した道具選び",
-    "body": "Apple Watchの常時表示をオフにしてバッテリー持ちを改善させたり、あえて機能を減らして軽さに特化した水筒を選んだりする、道具の選び方の工夫が共有されています。"
+    "title": "サブスクや固定費の整理",
+    "body": "放置していたジムの月会費を電話ゼロで解約したり、気づかないうちに家計を圧迫している月額サブスクを無理なく整理して固定費を削減するステップが示されています。"
+   },
+   {
+    "title": "身軽さを重視したアイテム選定",
+    "body": "カバンからスマホを探す手間をなくすチタン製ストラップや、機能を絞って軽さに特化した水筒など、日常生活で両手を自由にして身軽に動くための道具選びが取り上げられています。"
    }
   ],
   "keywords": [
    "断捨離",
-   "ミニマリスト"
+   "ミニマリスト",
+   "フリマ",
+   "無印良品",
+   "サブスク"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 20
+   "count": 19
   },
   {
    "name": "スマホ",
-   "count": 8
+   "count": 10
+  },
+  {
+   "name": "本",
+   "count": 5
   },
   {
    "name": "靴",
    "count": 5
   },
   {
-   "name": "本",
-   "count": 4
+   "name": "イヤホン",
+   "count": 3
   },
   {
    "name": "スマートフォン",
@@ -78,6 +89,10 @@
   },
   {
    "name": "ノート",
+   "count": 3
+  },
+  {
+   "name": "パンツ",
    "count": 3
   },
   {
@@ -93,19 +108,7 @@
    "count": 3
   },
   {
-   "name": "革靴",
-   "count": 3
-  },
-  {
    "name": "iPad",
-   "count": 2
-  },
-  {
-   "name": "ぬいぐるみ",
-   "count": 2
-  },
-  {
-   "name": "イヤホン",
    "count": 2
   },
   {
@@ -117,10 +120,6 @@
    "count": 2
   },
   {
-   "name": "ケーブル",
-   "count": 2
-  },
-  {
    "name": "コンバース",
    "count": 2
   },
@@ -129,7 +128,7 @@
    "count": 2
   },
   {
-   "name": "スニーカー",
+   "name": "ストラップ",
    "count": 2
   },
   {
@@ -154,10 +153,6 @@
   },
   {
    "name": "パソコン",
-   "count": 2
-  },
-  {
-   "name": "パンツ",
    "count": 2
   },
   {
@@ -205,15 +200,27 @@
    "count": 2
   },
   {
-   "name": "加湿器",
-   "count": 2
-  },
-  {
    "name": "卓上スタンド",
    "count": 2
   },
   {
-   "name": "家具",
+   "name": "枕",
+   "count": 2
+  },
+  {
+   "name": "洋服",
+   "count": 2
+  },
+  {
+   "name": "洗剤",
+   "count": 2
+  },
+  {
+   "name": "財布",
+   "count": 2
+  },
+  {
+   "name": "車載ホルダー",
    "count": 2
   }
  ],
@@ -260,11 +267,9 @@
   "Yahoo",
   "Yahoo News Australia",
   "Yahoo!ニュース",
-  "bbc.co.uk",
   "goodhousekeeping.com",
   "marthastewart.com",
   "mbp-japan.com",
-  "mi-mollet（ミモレ）",
   "note #ミニマリスト",
   "note #少ない服で暮らす",
   "note #持たない暮らし",
@@ -301,6 +306,189 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "4677bfe3c428de23",
+   "url": "https://note.com/quirky_quail7996/n/n1d192a63790c",
+   "title_original": "無職、部屋が片付かない",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/320620776/rectangle_large_type_2_603ca04c04f45779f446204875c4737f.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-06T22:10:59+00:00",
+   "title_ja": "無職になって増えた荷物と、小さな断捨離の始め方",
+   "summary_ja": "時間はあるのに部屋が片付かないと気づき、本やCD、旅先で買った思い出の品々を見直す話。いつか使うという「し」の言い訳を手放し、引き出し一つや棚一段といった小さな場所から今の自分に必要なのかを考えて整理していく。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "本",
+    "CD",
+    "DVD"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "bf0ada3eef8fc677",
+   "url": "https://www.roomie.jp/2026/10/1897205",
+   "title_original": "無印良品の790円豆皿なら、箸置きを別に出さなくていい。「一皿二役」で、少し残ったおかずやタレにも使えて便利",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/261001_muji_mamezara_01.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-06T22:00:07+00:00",
+   "title_ja": "無印良品の豆皿を箸置き兼小皿として使う暮らし",
+   "summary_ja": "箸置きを出し忘れてしまう悩みを解消するため、無印良品の790円の豆皿を取り入れた話。箸置きを別に出さなくてもよく、少し残ったおかずやタレを入れる器としても使える一皿二役の便利なアイテムとして愛用している。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "豆皿",
+    "箸置き"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "24827e4912736ca1",
+   "url": "https://www.lifehacker.jp/article/2610-costorypo-angelwings-start2-1739226929",
+   "title_original": "スマホ決済も鍵の取り出しもスムーズに。チタン製ストラップで「手ぶら」の新習慣",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/09/14/d8707d36-54a2-44c7-ae49-6fe3d302ff1e/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-06T22:00:00+00:00",
+   "title_ja": "チタン製ストラップでスマホや鍵を手ぶらにする習慣",
+   "summary_ja": "カバンの中からスマホや鍵を探す手間をなくすため、RovyVonのチタン製ストラップを取り入れた話。強力なマグネットで1秒着脱でき、耐荷重15kgの頑丈さで両手を自由にしながらスマートに外出するアイテムとして紹介されている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ストラップ",
+    "スマホ",
+    "鍵"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "9652449ef0fea919",
+   "url": "https://note.com/mori_3_note/n/n111bff6fa1d4",
+   "title_original": "父の現状維持バイアス「今のままを選びやすい」",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/321621120/rectangle_large_type_2_1d528547bba41cabe7f8ab160a08ddbd.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-06T21:59:22+00:00",
+   "title_ja": "現状維持バイアスで通信会社を変えられなかった父の話",
+   "summary_ja": "格安SIMの方が安くなると分かっていながら、大手キャリアを使い続けた父親の姿から、人間の持つ現状維持バイアスについて考察しています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "スマホ"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "bc1d50ce56d13cdf",
+   "url": "https://note.com/serene_daphne514/n/n74a699e60fc0",
+   "title_original": "ジム 解約 面倒なまま半年。月会費を払い続けた私が、電話ゼロで引き落としを止めた3つの手順",
+   "source": "note #断捨離",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/e4b6e9b2572fdf9be928067076c7ad70bbe0c141.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-06T21:48:41+00:00",
+   "title_ja": "半年間放置したジムの月会費を電話ゼロで解約した手順",
+   "summary_ja": "行かなくなってからも月会費を払い続けていたジムを、電話を使わずに解約手続きを進めて引き落としを止めた体験談をつづっています。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "12d2056b1c0f705a",
+   "url": "https://note.com/mizuka_note/n/ndc0b85bd74e1",
+   "title_original": "部屋の乱れは、気持ちの乱れ",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/321562680/rectangle_large_type_2_ef1068cf59e763c8b00eb38f5ebbb522.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-06T21:41:17+00:00",
+   "title_ja": "手帳の目標に掲げ続けていた断捨離と向き合った話",
+   "summary_ja": "「部屋の乱れは、気持ちの乱れ」という言葉通り、かつて流行した断捨離を手帳の目標に何度も書いていた筆者が、片付けと心の内面を振り返ります。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "be8c02983533271d",
+   "url": "https://note.com/metastyle/n/nffb2f8229c84",
+   "title_original": "小物入れを減らしたい。アイリスオーヤマのサイドテーブル",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/321608715/rectangle_large_type_2_d603bbf9452e8aeaf6823c13c346b97d.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-06T20:56:25+00:00",
+   "title_ja": "床置きの小物入れを減らしたいソファ横の収納事情",
+   "summary_ja": "ソファ横の床に置いた小さなかごに、リモコンやイヤホン、読みかけの本や充電ケーブルなどをとりあえず放り込んでしまっている。こうした細かな小物入れをいかに減らすかという暮らしの工夫。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "サイドテーブル",
+    "かご",
+    "リモコン",
+    "イヤホン"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "157011fdc5947caf",
+   "url": "https://thesimplicityhabit.com/home-operations-manual",
+   "title_original": "How to Build a Home Operations Manual for Easy, Year-Round Cleaning",
+   "source": "The Simplicity Habit",
+   "image": "https://thesimplicityhabit.com/wp-content/uploads/2026/10/horizontal-blog-post-2026-10-06T130026.127-1024x683.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-06T20:52:07+00:00",
+   "title_ja": "家事のルーティンを楽にするホームオペレーションマニュアル",
+   "summary_ja": "バスルームの掃除やリビングの掃除機がけなど、日々の家事を自動化してスムーズにこなすための仕組みづくりについて解説している。家の中のメンテナンスや掃除の負担を減らすためのマニュアル作成法。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "a9220b69f2919a2f",
+   "url": "https://www.lifehacker.jp/article/machi-ya-softshellpants-start-985245",
+   "title_original": "寒い日は閉じて、暑くなったら開ける。自分で温度調整できる冬パンツ",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/10/05/48064644-4632-4ff9-8ecf-d5126c8429a1/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-06T14:00:00+00:00",
+   "title_ja": "寒暖差に合わせて自分で温度調整できる冬用パンツ",
+   "summary_ja": "中空繊維による保温とサイドベンチレーションによる通気を兼ね備えた高機能ソフトシェルパンツの紹介。防風素材や4WAYストレッチで動きやすく、家庭での洗濯にも対応しているタフな一本。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "パンツ"
+   ],
+   "importance": 1
+  },
+  {
+   "id": "e8592716c095d9fd",
+   "url": "https://www.lifehacker.jp/article/2610-costorypo--migaru-start-1040190988",
+   "title_original": "ワンボタンで自動圧縮。旅行で着たい服は削らずに持っていきましょう",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/10/06/a8b7f0be-e862-4641-9f45-eabb9fd4ef88/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-06T13:00:00+00:00",
+   "title_ja": "衣類を自動で圧縮してかさばらせない方法",
+   "summary_ja": "電動ポンプ内蔵の圧縮袋を使い、衣類をボタン一つで半分ほどの大きさにまとめる方法。旅行や衣替えの荷物を効率よく減らして収納するのに役立ちます。",
+   "category": "旅・持ち歩き",
+   "axis": "reduce",
+   "things": [
+    "電動ポンプ",
+    "圧縮袋"
+   ],
+   "importance": 3
+  },
   {
    "id": "f5ef5b36cc48f58a",
    "url": "https://note.com/otona_doraku/n/nd7f8b7601564",
@@ -7150,189 +7338,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 4
-  },
-  {
-   "id": "3d7180609d5dc3fb",
-   "url": "https://www.bbc.co.uk/news/articles/c6x2z05q9dreo",
-   "title_original": "Staffordshire group offers alternative approach to help hoarders",
-   "source": "bbc.co.uk",
-   "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a54f/live/50e714e0-b11f-11f1-8ecc-07cd1cee2987.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-28T05:25:48+00:00",
-   "title_ja": "イギリスの団体による溜め込み症への支援",
-   "summary_ja": "イギリスのスタッフォードシャーにある団体が、物を溜め込んでしまう人（ホーダー）に対して提供している代替的な支援アプローチについてのニュース。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "dce5eff575e018da",
-   "url": "https://note.com/hearty_ivy7178/n/neb076f4a127d",
-   "title_original": "断捨離中（20）和室の片付け終わりました！",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/318432710/rectangle_large_type_2_a8a4b31b40fc0cb809c8e6ec40a42bcc.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-28T04:19:16+00:00",
-   "title_ja": "和室の家具の上や収納を仕分けて片付けた話",
-   "summary_ja": "和室の家具の上にあったポスターなどを仕分けして処分し、マグカップや人形は現状のまま残すことにしました。物の存在を忘れていた物も多くありながら、不要な物を減らす作業を進めています。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "マグカップ",
-    "人形",
-    "ぬいぐるみ"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "71cc5fb8e0109b7a",
-   "url": "https://note.com/loyal_dahlia7455/n/n4464733a5fa3",
-   "title_original": "🗑️【2026年版】捨てられないものが多い人ほど、実は未来を信じているんじゃないかと思う",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/315341504/rectangle_large_type_2_7507d853b7481dbfebe653f0ac95ffa3.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-28T04:14:04+00:00",
-   "title_ja": "「いつか使う」という片づけの心理を見つめ直した話",
-   "summary_ja": "片づけが苦手な人の言い訳だと思われがちな「いつか使う」という言葉について、未来を信じている気持ちとの関係性を独自の視点から考えた記録です。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "0d9f834d41b7c816",
-   "url": "https://note.com/setozayucox/n/n4b088dce4e1a",
-   "title_original": "断捨離│目の前の現実だけを捨てろ",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/318431114/rectangle_large_type_2_3b92d436fb482869f7b9044cd4c48739.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-28T04:12:58+00:00",
-   "title_ja": "12年断捨離を続けても一瞬で捨てられないという話",
-   "summary_ja": "断捨離の経験が長くても、すべての物を一瞬で簡単に捨てられるわけではないという心境を語っています。日々の暮らしの中で向き合う片づけのリアルな実感が綴られています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "5c69276878f00574",
-   "url": "https://note.com/sugachan_jinji/n/n013e18c4cde7",
-   "title_original": "靴迷子だった僕が、YouTubeの動画一本でエアフォース１を買い、革靴として育てることにした話",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/318430758/rectangle_large_type_2_bc8562921ded90805d1fbc05a8f24bea.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-28T04:10:34+00:00",
-   "title_ja": "靴迷子だった筆者がエアフォース1を革靴として育てる話",
-   "summary_ja": "何ヶ月も靴選びに迷いショップを巡り歩いた末に、YouTube動画をきっかけにエアフォース1を購入しました。スニーカーを革靴のように大切に育てるというユニークな選択をしています。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "エアフォース1",
-    "スニーカー",
-    "革靴"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "61f088f54d248795",
-   "url": "https://note.com/yurihas/n/n24adbb34093f",
-   "title_original": "捨てたのはモノではなく『過去の自分』だった┃50代ワーママ┃４人育児中",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/318423126/rectangle_large_type_2_eae688d9bc1b6c71b58a70bc3f53504c.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-28T04:10:15+00:00",
-   "title_ja": "大家族の狭小住宅で毎日の断捨離を楽しむワーママの話",
-   "summary_ja": "4人育児と共働きで足の踏み場もなかった狭小住宅で、断捨離に目覚め毎日ゴミ袋を満たしています。モノを捨てていくことで達成感を覚え、過去の自分を手放す感覚を楽しんでいます。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [
-    "子どもの服"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "20d02d58478bea0f",
-   "url": "https://note.com/iori_natural/n/na548f2832abb",
-   "title_original": "あらためまして、いおりです",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/318428308/rectangle_large_type_2_e9ca721b618b05e566da4c542a89bb91.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-28T03:55:57+00:00",
-   "title_ja": "管理コストを減らすために断捨離を始めた人の話",
-   "summary_ja": "デスクの上に増え続けるウイスキーのボトルや植物、絡まるケーブルにより、探しものが増えて掃除が億劫になっていた著者。頭の管理コストが年々上がっていると感じたことをきっかけに、身の回りの整理や断捨離を始めた自己紹介の記録。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "ウイスキーのボトル",
-    "植物",
-    "ケーブル"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "cc920fbf5be1ffe4",
-   "url": "https://note.com/deep_kiwi2434/n/n2838a6d5b0e7",
-   "title_original": "「ポイポイ捨てマシーン」の断捨離",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/img/1790564475-YXmJT5IeqwSlC9fOkvG0VbxW.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-28T03:46:08+00:00",
-   "title_ja": "闇雲に捨てる「捨てマシーン」から脱却した人の体験談",
-   "summary_ja": "断捨離に出会い、とにかく捨てることに快感を覚えて家具や突っ張り棒を闇雲に処分していた過去を振り返る。娘の思い出のドレスなど、大切なものは無理に手放さず残すことを決め、勢いだけで捨ててしまう自己流の断捨離に警鐘を鳴らしている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "ドレス",
-    "突っ張り棒",
-    "たおれんゾウ",
-    "家具"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "f3dec0f0df5739d8",
-   "url": "https://note.com/lival_minimalist/n/n9e0fe35b766b",
-   "title_original": "ある物で何とかなったり為せば成なったり",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/img/1790510013-pXHifLxuFQm2ODA03t5aNh9M.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-28T03:19:43+00:00",
-   "title_ja": "ホテル暮らしで加湿器を借りて乾燥対策をする人の話",
-   "summary_ja": "ホテル暮らしを始めた著者が、冬場の乾燥対策としてフロントで加湿器を借りることをルーティンにしていた体験談。部屋に私物を増やさず、ホテルの貸出サービスなどの「ある物」を活用して快適に暮らす工夫を綴っている。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [
-    "加湿器"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2c83b7f41878ad05",
-   "url": "https://mi-mollet.com/articles/-/61464",
-   "title_original": "昼田祥子さん、服を溜め込みがちな私に「服捨てのコツ」を教えてください！【辛酸なめ子】",
-   "source": "mi-mollet（ミモレ）",
-   "image": "https://mi-mollet.ismcdn.jp/mwimgs/b/8/-/img_b835ff08d4bdf44b27078bc44c08e01a677715.jpg?rd=202609281217",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-28T03:00:00+00:00",
-   "title_ja": "服を溜め込みがちな人へ向けた昼田祥子さん直伝の服を捨てるコツ",
-   "summary_ja": "辛酸なめ子さんが、服を溜め込みがちな悩みに対し、昼田祥子さんから服を捨てるためのコツを教わる対談記事。クローゼットを整理し、不要な衣類を手放すための具体的な基準や考え方について紹介している。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "服"
-   ],
-   "importance": 3
   }
  ]
 }
