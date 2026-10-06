@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T08:54:03.662680+09:00",
+ "updated_at": "2026-10-06T14:31:38.563855+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,42 +27,41 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-06T08:55:44.298630+09:00",
+  "generated_at": "2026-10-06T14:32:50.261726+09:00",
   "days": 3,
   "period": "10月5日〜10月6日",
   "count": 45,
-  "reduce_count": 27,
-  "own_count": 18,
-  "overview": "クローゼットやキッチン用品の整理、ストック量の見直しといった具体的な減らし方のほか、日常の家事や作業効率を高めるミニマルな道具選びが語られています。",
-  "reduce": "クローゼットの服の処分やサブスクの整理、ストック量の見直しなど、不要なモノや固定費を手放して生活を整える工夫が多く語られています。",
-  "own": "ガジェットやキッチンツールなど、日々の暮らしや作業を快適にする厳選したアイテムの具体的な選び方や活用法が語られています。",
+  "reduce_count": 31,
+  "own_count": 14,
+  "overview": "不要品の処分や手放し方に関する実践的な工夫をはじめ、ガジェットや日用品の選び方、収納を見直して快適な空間を整える暮らしの記録が多く語られています。",
+  "reduce": "先延ばしにせず不要品を手放す心構えや、クローゼットやキッチンの具体的な片付け、ストック管理の見直しによる負担軽減の工夫が語られています。",
+  "own": "スーツの手入れや電動昇降デスク、ミニ財布など、長く愛用するための道具選びや、限られたスペースを有効活用する収納の工夫が紹介されています。",
   "points": [
    {
-    "title": "適正なストック量",
-    "body": "セールでの買いだめによる失敗から、家族の人数に応じたトイレットペーパーや洗剤の適正な量を計算し管理するコツが紹介されています。"
+    "title": "手放す基準と整理",
+    "body": "ウェディングドレスの処分や海外赴任に伴う7年分の整理など、思い出の品や大量の持ち物を決断して手放した体験談が語られています。"
    },
    {
-    "title": "服やキッチンの処分",
-    "body": "クローゼットの服を全部出してゴミ袋2袋分を手放したり、キッチンの収納を見直して鍋やフライパンを減らそうとする記録があります。"
+    "title": "ストックと収納の工夫",
+    "body": "トイレットペーパーの買いだめによる失敗から適正量を学ぶ話や、キッチン用品の収納を見直してすっきりと暮らす工夫が紹介されています。"
    },
    {
-    "title": "道具やガジェットの検証",
-    "body": "電動昇降デスク選びや電動歯ブラシの互換ブラシ比較、65W急速充電器の実測値検証など、著者が試した具体的な経験が綴られています。"
+    "title": "こだわりの道具選び",
+    "body": "スーツの手入れ道具、電動昇降デスクの選び方、薄型ケースのサイズ確認など、失敗談をもとに道具を吟味する様子が綴られています。"
    }
   ],
   "keywords": [
    "断捨離",
    "ミニマリスト",
-   "ストック量",
-   "サブスク",
-   "クローゼット",
+   "手放す",
+   "収納",
    "ガジェット"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 23
+   "count": 22
   },
   {
    "name": "スマホ",
@@ -70,26 +69,14 @@
   },
   {
    "name": "本",
-   "count": 6
+   "count": 5
   },
   {
    "name": "靴",
    "count": 5
   },
   {
-   "name": "ノート",
-   "count": 4
-  },
-  {
-   "name": "モバイルバッテリー",
-   "count": 4
-  },
-  {
    "name": "カバン",
-   "count": 3
-  },
-  {
-   "name": "ケーブル",
    "count": 3
   },
   {
@@ -101,7 +88,11 @@
    "count": 3
   },
   {
-   "name": "ポーチ",
+   "name": "ノート",
+   "count": 3
+  },
+  {
+   "name": "モバイルバッテリー",
    "count": 3
   },
   {
@@ -117,7 +108,7 @@
    "count": 3
   },
   {
-   "name": "家具",
+   "name": "革靴",
    "count": 3
   },
   {
@@ -142,6 +133,10 @@
   },
   {
    "name": "エコバッグ",
+   "count": 2
+  },
+  {
+   "name": "ケーブル",
    "count": 2
   },
   {
@@ -202,6 +197,10 @@
   },
   {
    "name": "ボトムス",
+   "count": 2
+  },
+  {
+   "name": "ポーチ",
    "count": 2
   },
   {
@@ -305,6 +304,237 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "0027d2d597d13aa6",
+   "url": "https://note.com/hitomi_logdays/n/nc6a4a39f6f1a",
+   "title_original": "【人生実験】4年間眠っていたウェディングドレスが、買った時と同じ値段で売れた。",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/321385132/rectangle_large_type_2_d30fd381b8103fba3c0c62a9d638f5e5.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-06T05:21:53+00:00",
+   "title_ja": "4年間眠っていたウェディングドレスを手放した話",
+   "summary_ja": "ずっと保管していたウェディングドレスを手放したところ、買った時と同じ希望額以上の予想外の収入になった経験についての記事です。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "ウェディングドレス"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "e484fa31e6ed3cb7",
+   "url": "https://note.com/smart_life_yuma/n/n9ad9d835b31e",
+   "title_original": "スーツの手入れ道具ベスト8｜ブラシ洗浄で毛玉23→9個",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/321383379/rectangle_large_type_2_051545efa5fff61c78b965ea1eae2bd8.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-06T05:16:05+00:00",
+   "title_ja": "スーツを長持ちさせる手入れ道具とブラシ洗浄のコツ",
+   "summary_ja": "スーツの毛玉を減らすために実践したブラシの定期洗浄の方法と、実際に買ってよかった手入れ道具ベスト8を紹介しています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "スーツブラシ",
+    "スプレー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "21021b0e9d8d66fd",
+   "url": "https://note.com/best_lifestyle/n/n70e253a81511",
+   "title_original": "賃貸のシャワーヘッド交換おすすめ10選｜退去時も安心",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/321383044/rectangle_large_type_2_78e344945705d6cb2187c23f8672aec2.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-06T05:14:52+00:00",
+   "title_ja": "賃貸住宅で安心してシャワーヘッドを交換する方法",
+   "summary_ja": "賃貸のお風呂でも退去時に元に戻せるよう、ネジ規格の確認やパッキンの保管など、シャワーヘッド交換の注意点とおすすめをまとめています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "シャワーヘッド",
+    "アダプター",
+    "パッキン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b612eff3f7558536",
+   "url": "https://note.com/tanusandesu/n/n04fd94e897fb",
+   "title_original": "無職になって3か月過ぎました～",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/321377524/rectangle_large_type_2_b48604d6e158f4c16c8979165e44b059.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-06T04:56:38+00:00",
+   "title_ja": "シェアルームの引っ越しに向けて不要な物を断捨離中",
+   "summary_ja": "無職でのんびりと生活リズムを整えながら、将来のシェアルームに向けて2部屋を空けるために不要な物の断捨離を進めている話です。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "3908499842cb8bfe",
+   "url": "https://note.com/joyful_pony2272/n/ndef132a06694",
+   "title_original": "メタ認知",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/321370380/rectangle_large_type_2_ae4493a6ac3c684c02f09572285aca5b.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-06T04:54:39+00:00",
+   "title_ja": "日々の生活で心の余白を取り戻すための内省時間",
+   "summary_ja": "心が疲れてしまう前に仕事休みをとり、自分の一人時間を作ってメタ認知しながら心の余白の大切さに気づいたときの記録です。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "819b4a762c757473",
+   "url": "https://note.com/smart_life_yuma/n/nbe13b31674eb",
+   "title_original": "【30代】秋冬ビジネスカジュアル重ね着おすすめ8選",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/321374603/rectangle_large_type_2_2b08f5078a12df0f8fee932d86c8868f.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-06T04:46:03+00:00",
+   "title_ja": "厚手インナーをやめ、薄手3枚の重ね着で冬の寒暖差を乗り切る30代会社員の話",
+   "summary_ja": "冬のオフィスと通勤時の寒暖差対策として、厚手の極暖系インナーをやめ、薄手インナーを3枚重ねる着方に変えた30代会社員の体験談。暖房の効いた室内と寒い屋外の双方で脱ぎ着による温度調整がしやすくなり、見た目や動きやすさの面でも厚手1枚より優れている理由を解説する。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "極暖系インナー",
+    "インナー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "1001022b12228662",
+   "url": "https://note.com/cozy_life_takuto/n/n9489ceb077f3",
+   "title_original": "Switch 2ケースにJoy-Conが入らない人へ｜原因は深さ",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/321374405/rectangle_large_type_2_aaac9e4a7e24b8a3b9fc3b9e24273c12.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-06T04:45:32+00:00",
+   "title_ja": "薄型ケースの容量表記に潜む罠と、買い直し後に使い分けるケースを紹介する話",
+   "summary_ja": "薄型大容量を謳うSwitch 2のキャリングケースに予備のコントローラーを入れた際、深さ不足でフタが画面を圧迫した失敗談。tomtocの薄型ケースでの収納テスト結果をもとに、表記上の容量では見えない深さの問題を指摘し、買い直し後に使い分けている8つのケースを紹介する。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "キャリングケース",
+    "Joy-Con",
+    "tomtocの薄型ケース"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "af0dae0431ebec86",
+   "url": "https://note.com/best_lifestyle/n/na57617790864",
+   "title_original": "バスチェアは高さで選ぶ！ワンオペ育児ママのベスト10",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/321374273/rectangle_large_type_2_7167044e8baab20c69a048c393795271.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-06T04:44:57+00:00",
+   "title_ja": "ワンオペ育児の腰痛対策に、座面の高いバスチェアを導入して負担を軽減した話",
+   "summary_ja": "ワンオペ育児でお風呂の際に腰を痛めた経験から、座面が高いバスチェアの導入を提案する体験談。20cm前後の低い風呂いすから、30cm台や40cm以上の高さのあるいすに変えるだけで腰の負担が劇的に楽になった実績をもとに、おすすめのバスチェアを紹介する。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "バスチェア",
+    "風呂いす"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c54b1a679b1f4f0f",
+   "url": "https://note.com/novel_auklet8496/n/n61a2c127f522",
+   "title_original": "安いから買う人と、高くても買う人",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/320226800/rectangle_large_type_2_dd2cdac9037dfa4512bfbf742e26188e.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-06T04:30:29+00:00",
+   "title_ja": "安いから買う人と高くても買う人の違いや買い物の考え方について綴った記事",
+   "summary_ja": "「安いから買う」という基準と「高くても買う」という基準の双方について、どちらが正しいかではなく、それぞれの買い物における価値観や考え方を考察する。断捨離や物を増やす・減らす際の判断基準にもつながる、購入時のマインドに関する内容。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "06047bff58020821",
+   "url": "https://note.com/sunwind/n/nb2d86f54797e",
+   "title_original": "断捨離が進まないワケ。",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/321362870/rectangle_large_type_2_980085c2a93f81467fdd2c007111e23e.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-06T04:03:52+00:00",
+   "title_ja": "断捨離が進まない理由と実例",
+   "summary_ja": "テレビ番組で実家の高齢母が介護のために息子夫婦と同居する様子が紹介され、住み替えに伴う荷物整理の難しさや断捨離が進まない原因が語られています。思い出の品や生活必需品の取捨選択が壁になることが指摘されました。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "49fa4eeba410222e",
+   "url": "https://note.com/serene_poppy8209/n/n424dc740cde3",
+   "title_original": "「捨てよう。」海外赴任が決まり、７年間の暮らしを手放すことになった",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/321362128/rectangle_large_type_2_d2e34fa4a33e65b04a4e22a77fa2f100.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-06T04:00:40+00:00",
+   "title_ja": "海外赴任で7年分の持ち物を手放した体験",
+   "summary_ja": "オランダ赴任が決まった筆者は、7年間分の生活用品を手放すことになり、喜びと不安が入り混じる心境を綴っています。具体的な処分方法や残す基準は示されていませんが、物を減らす決断のプロセスが描かれます。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "2b0fa40c45cc4f4f",
+   "url": "https://minimalist-fudeko.com/declutter-halloween-items",
+   "title_original": "ハロウィン用品は10月のうちに見直す：衣装・飾り・限定品を今年使うかで選ぶ",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/09/haloween-goods.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-06T00:10:37+00:00",
+   "title_ja": "ハロウィンの衣装や飾りを今年使うかで選ぶ見直し方法",
+   "summary_ja": "ハロウィンが近づく季節に、家に眠る衣装や飾りの見直しをする方法について。新しいものを買い足す前に、去年までのグッズを実際に使うかどうかで判断し、持ち物を厳選する考え方を紹介しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "7be389d998294901",
+   "url": "https://www.lifehacker.jp/article/2610used-5-note-taking-apps-and-ended-back-on-google-keep",
+   "title_original": "OneNoteやObsidianを試した結果、私が「Google Keep」に戻ってきた理由",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/10/05/18648a1e-26c6-4884-b628-0d5cfec4b31b/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-06T00:00:00+00:00",
+   "title_ja": "多機能ノートアプリからGoogle Keepに戻った理由",
+   "summary_ja": "様々なノートアプリを試した筆者が、複雑な機能よりも日常のメモに必要な手軽さやアクセス性の高さを重視してGoogle Keepに戻ってきた理由を解説しています。道具をシンプルに絞る考え方の参考になります。",
+   "category": "道具・ガジェット",
+   "axis": "reduce",
+   "things": [
+    "Google Keep",
+    "OneNote",
+    "Obsidian"
+   ],
+   "importance": 3
+  },
   {
    "id": "3d5d1f2c1ef9bf46",
    "url": "https://note.com/best_lifestyle/n/n547eff9cc220",
@@ -768,6 +998,25 @@
     "ブラウス",
     "パンツ",
     "靴"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "da223fee485b59cb",
+   "url": "https://note.com/smart_life_yuma/n/n3361bad9e8b7",
+   "title_original": "シューキーパーは100均で十分？革靴で木製と比べた結果",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/321144377/rectangle_large_type_2_c2065d8cdaa4f20637c19f05ab136a09.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-05T11:32:33+00:00",
+   "title_ja": "革靴のシューキーパーは100均と木製どちらが良いか",
+   "summary_ja": "都内で働く会社員が、100均のプラスチック製と数千円の木製シューキーパーを比較。型崩れ防止なら100均でも効果があるが、湿気対策には木製が優れていると自身の使用感をもとに解説している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "シューキーパー",
+    "革靴"
    ],
    "importance": 3
   },
@@ -7091,256 +7340,6 @@
    "published": "2026-09-27T16:00:00+00:00",
    "title_ja": "家が狭く感じるときに見直したい7つの物",
    "summary_ja": "自宅が狭く窮屈に感じるときに、まず片づけるべき7つの物について解説しています。効果的な断捨離を通じて居住空間をすっきりと整えるためのヒントが分かります。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "28fc6717e89cdef3",
-   "url": "https://note.com/333branding/n/nb8ad03b6657e",
-   "title_original": "ミニマリストにドラム洗濯機は要らない",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/318290680/rectangle_large_type_2_d1a500b8661c99992143ec59934d5d7f.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-27T15:29:21+00:00",
-   "title_ja": "狭小物件への引越しで家具家電を総入れ替えした話",
-   "summary_ja": "10畳の部屋から始まり、引越しを重ねて10平方メートルの狭小物件に住むようになった人の暮らし。部屋が小さくなるたびに家具や家電を見直し、総入れ替えを行ってきた経験について語られている。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "家具",
-    "家電"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "6ee93959f331ef4f",
-   "url": "https://note.com/tumugi_uranai/n/nb04403997c63",
-   "title_original": "お金の不安は、モノに宿っていた。断捨離が引き寄せを加速させる理由。",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/318282844/rectangle_large_type_2_4a83959685a935d0e1b65bc9d57e4ee7.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-27T15:00:03+00:00",
-   "title_ja": "いつか使うと残したモノが不安を生む断捨離の考え方",
-   "summary_ja": "着ていない服や積んだ本など、いつか使うと何年も放置しているモノが部屋を圧迫している状況に着目。まだ使えるからと残す心理を見直し、手放すことで心の不安を和らげる考え方について綴っている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "服",
-    "本"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "a44b882ba2a7b5a5",
-   "url": "https://www.southernliving.com/things-to-declutter-every-sunday-12069828",
-   "title_original": "7 Things To Declutter Every Sunday For A Fresh Start To The Week",
-   "source": "Southern Living",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-27T15:00:00+00:00",
-   "title_ja": "毎週日曜に片付ける7つのアイテム",
-   "summary_ja": "毎週日曜に行うと効果的な7つの片付け対象（例：衣類、書類、キッチン用品など）を示し、整理の習慣化と心のリセットを促す具体的な手順を紹介しています。さらに、片付けのタイミングやチェックリストの活用法も提案し、継続しやすい仕組みを提供しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "2636d0a422771693",
-   "url": "https://www.apartmenttherapy.com/pro-organizer-builtin-bookshelf-tips-37691992",
-   "title_original": "Her 4 Simple Tips Transformed My Cluttered Built-in Bookshelf Into an Organized One",
-   "source": "Apartment Therapy",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-27T14:15:21+00:00",
-   "title_ja": "本棚をすっきり整理した4つのシンプルなコツ",
-   "summary_ja": "本棚の整理に悩む著者が、4つのシンプルな手順（不要な本の選別、カテゴリー分け、収納グッズ活用、定位置設定）で、散らかったビルトイン本棚をすっきりとした収納スペースに変えた方法を紹介しています。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "本棚"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "bec9f37ae3537ecf",
-   "url": "https://www.roomie.jp/2026/09/1893974",
-   "title_original": "「水を足さずに煮込む」を約260gで叶えてくれるかも。蒸気がぐるぐる巡る純チタン製ダッチオーブン",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/musuidutchoven1.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-27T13:45:03+00:00",
-   "title_ja": "純チタン製ダッチオーブン『Air Edge』で軽く調理",
-   "summary_ja": "重量約260gの純チタン製ダッチオーブン『Air Edge』を紹介。蒸気が循環し水を足さずに煮込みができ、従来の重い鋳鉄製ダッチオーブンに比べ持ち運びやすさと調理効率が向上している点をレビューしています。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "ダッチオーブン",
-    "Air Edge"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "abb7159d08a818c3",
-   "url": "https://www.lifehacker.jp/article/2609-amazon-kingjim-visualbartimerplus",
-   "title_original": "「時間が見える」キングジムのタイマーが進化。4色＋バックライトでさらに見やすく",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/25/116df24e-e86a-4eb7-a562-95274486b7d3/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-27T13:45:00+00:00",
-   "title_ja": "キングジムのビジュアルバータイマー＋の機能と使い心地",
-   "summary_ja": "キングジムのビジュアルバータイマー＋のレビュー記事。4色のバー表示とバックライト、充電式バッテリー、ダイヤル操作といった機能が強化され、残り時間が視覚的に把握しやすくなった点や実際の使用感を詳しく評価しています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ビジュアルバータイマー＋",
-    "キングジムタイマー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f3b1aff7efa6e8e6",
-   "url": "https://www.lifehacker.jp/article/2609-lht-chargespot-matome",
-   "title_original": "電源スポットを欲しい場所につくる。手元にさりげなく設置できる「挟めるタップ」",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/25/a2b6572d-02ca-4b37-973c-e0c95c79cd4b/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-27T13:15:00+00:00",
-   "title_ja": "デスクに挟むだけで電源確保できるタップを紹介",
-   "summary_ja": "デスク天板に挟むだけで電源を確保できるコンパクトなタップを紹介。コードが散らからず作業スペースをすっきり保て、USBポートでスマホも同時充電できる点が魅力。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "挟めるタップ"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "30b4f61763bc4eef",
-   "url": "https://www.roomie.jp/2026/09/1892063",
-   "title_original": "読書好きの祖父が使っている「読書ライト」。上からポンとオンオフできるのが寝落ちにピッタリだった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/20260924-mio-panasonic-ledlantern-01.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-27T13:00:54+00:00",
-   "title_ja": "上から操作できる読書ライトで寝落ち防止",
-   "summary_ja": "上部からワンタップでオンオフできる読書ライトを祖父が愛用。寝落ちしにくく、シンプルな設計で机上をすっきりさせる効果がある。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "読書ライト"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "5a733d3055db6ccf",
-   "url": "https://www.roomie.jp/2026/09/1888868",
-   "title_original": "いい意味でAnkerらしくない。レザー調の新作ポーチに、いつもの充電セットがすっきり収まりました",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/37A6495-1.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-27T12:30:01+00:00",
-   "title_ja": "レザー調の新作ポーチに充電セットをすっきり収納",
-   "summary_ja": "外出時のモバイルバッテリーやケーブル類をすっきり収めるため、Ankerのレザー調ポーチにいつもの充電セットをまとめて持ち歩いている人の話。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "モバイルバッテリー",
-    "ケーブル",
-    "ポーチ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "9c32a36f0dc4ce31",
-   "url": "https://www.goodhousekeeping.com/home/organizing/a73836079/windowsill-storage-mistakes",
-   "title_original": "9 Things to Never Keep on Your Windowsill, According to Professional Organizers",
-   "source": "Good Housekeeping",
-   "image": "https://hips.hearstapps.com/hmg-prod/images/b10ff071-240b-493e-84e7-856db7ad10bc.jpeg?crop=1xw:0.666666666667xh;center,top&resize=1200:*",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-27T12:12:49+00:00",
-   "title_ja": "窓辺に置いてはいけない9つの物",
-   "summary_ja": "プロの整理収納アドバイザーが解説する、窓辺に置かない方がよいとされる9つの物についての片づけに関する情報。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "76725f83265c11c5",
-   "url": "https://note.com/mogumogu_matsuli/n/n0f44e88ad307",
-   "title_original": "【自己紹介】まつりです｜食べることが好きなミニマリスト見習い",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/318215200/rectangle_large_type_2_dd576a626640736b8dda91329599584f.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-27T12:00:59+00:00",
-   "title_ja": "好きなことを我慢しないミニマリスト見習いの記録",
-   "summary_ja": "物を減らしてお金と時間を節約しつつ、自分の好きなことは我慢せずにコンプレックスを解消していく、一人暮らしのアラサー会社員の自己紹介。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "8b5c9227a2471e97",
-   "url": "https://www.roomie.jp/2026/09/1891333",
-   "title_original": "スタンプ台がいらない「日付印」でライフログを管理する方法。手帳デコをしなくても、まとまって見えるんだ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/IMG_9759-scaled.jpeg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-27T11:30:38+00:00",
-   "title_ja": "スタンプ台がいらない日付印でライフログを管理する話",
-   "summary_ja": "スタンプ台が不要な日付印を使って手帳や日記のスケジュール管理をしている人の話。文房具や雑貨が好きでノートを書く際に活用しているアイテムの紹介。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "日付印",
-    "手帳",
-    "ノート"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "e2d07b540ed59149",
-   "url": "https://note.com/fudeko59/n/n7f8c22d70f4e",
-   "title_original": "『55歳からの「持たない」で潤う暮らし方108』に筆子が監修した記事がのっています",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/317892599/rectangle_large_type_2_b4328ef75e14771ea57197077be46f9e.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-27T11:30:00+00:00",
-   "title_ja": "55歳からの持たない暮らしで気持ちと時間を潤す工夫",
-   "summary_ja": "『55歳からの「持たない」で潤う暮らし方108』に掲載された、50代からの持たない暮らしについての紹介。物を減らすことで気持ちや時間にゆとりを持つ考え方。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "748c16575e1cf25b",
-   "url": "https://www.realsimple.com/the-boundary-method-of-decluttering-12115791",
-   "title_original": "The “Boundary Method” Might Be the Easiest Way to Finally Get Clutter Under Control",
-   "source": "Real Simple",
-   "image": "https://www.realsimple.com/thmb/YvcEeXOQZAVfxBnnn-K9z6FAn9k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/boundary-method-declutter-GettyImages-1415825462-cd83020af1554a9b8e47809d607e1e1d.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-27T11:30:00+00:00",
-   "title_ja": "境界線メソッドで散らかった部屋を片付ける方法",
-   "summary_ja": "境界線メソッドを使って散らかった部屋や物をごちゃごちゃした状態から整理整頓しやすくする片付けの手法についての記事。",
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
