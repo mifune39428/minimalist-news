@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T21:55:25.902998+09:00",
+ "updated_at": "2026-10-08T07:54:47.519786+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,43 +27,40 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-07T21:56:32.545468+09:00",
+  "generated_at": "2026-10-08T07:56:44.763883+09:00",
   "days": 3,
-  "period": "10月6日〜10月7日",
+  "period": "10月7日〜10月8日",
   "count": 45,
-  "reduce_count": 32,
-  "own_count": 13,
-  "overview": "10月6日から7日にかけて、家計簿やクローゼット、デジタルデータの減らし方から、日々の暮らしを快適にする厳選した持ち物の工夫まで45件の記事が語られています。",
-  "reduce": "家計簿ノートの頻度見直しやクローゼットの整理、フリマアプリの活用など、日々の習慣や持ち物を無理なく減らす具体的な工夫が語られています。",
-  "own": "充電タップやコーヒー急須、豆皿など、日常のちょっとしたストレスを解消し生活を快適にする愛用アイテムの数々が紹介されています。",
+  "reduce_count": 31,
+  "own_count": 14,
+  "overview": "10月7日から8日にかけて、不要な物やスケジュールを見直す減らし方の工夫と、日々の暮らしを快適にする持ち物の活用法に関する記事が多数寄せられています。",
+  "reduce": "季節の変わり目である10月に向けた手放し方や、家計簿やクローゼット収納、衝動買いを避ける工夫など、暮らしを整える具体的な見直し術が語られています。",
+  "own": "旅行や日常の移動、デジタル環境や家事を快適にするためのガジェット、食器、バッグなど、日々の手間を減らす厳選された持ち物が紹介されています。",
   "points": [
    {
-    "title": "家計簿の頻度見直し",
-    "body": "noteの記事では、毎日レシートを写す家計簿ノートの書き方をやめ、月に1回お金の流れを見直す形に変えることで無理なく続けられると紹介されています。"
+    "title": "衣類と収納の見直し",
+    "body": "秋の衣替えやクローゼットのスペース確保に関して、セーターの重さから重ねてよい限界枚数を調べたり、物を減らさずに収納を広げる工夫が語られています。"
    },
    {
-    "title": "クローゼットの整理術",
-    "body": "服の取捨選択をチェックリストで体系化する方法や、素材別に重ねて収納する際の限界枚数を調べ、クローゼットの過密化を防ぐ工夫が語られています。"
+    "title": "デジタルと家計の見直し",
+    "body": "毎日書いていた家計簿を月1回の見直し型に変えて無理なく続ける方法や、スマホ内の不要なデータを削除するデジタル断捨離のガイドが紹介されています。"
    },
    {
-    "title": "デジタルやモノの手放し",
-    "body": "スマホ内の不要なデータを削除するデジタル断捨離や、AIに相談して初めてフリマ取引を成功させ不要品を手放した体験談が綴られています。"
-   },
-   {
-    "title": "日常を快適にする道具",
-    "body": "旅行の充電をまとめる電源タップや、洗い物を急須ひとつにする信楽焼のコーヒー急須など、日々の手間を減らす便利アイテムが紹介されています。"
+    "title": "旅と外出時の持ち物",
+    "body": "旅行や出張での荷物を最小限にするため、多機能ケーブルや電源タップ、防犯性の高いバッグを活用して持ち物をすっきりさせる工夫が共有されています。"
    }
   ],
   "keywords": [
-   "ミニマリスト",
-   "断捨離",
-   "持たない暮らし"
+   "持ち物",
+   "クローゼット",
+   "ノート",
+   "断捨離"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 19
+   "count": 18
   },
   {
    "name": "スマホ",
@@ -74,8 +71,8 @@
    "count": 5
   },
   {
-   "name": "靴",
-   "count": 5
+   "name": "ノート",
+   "count": 4
   },
   {
    "name": "iPad",
@@ -90,7 +87,7 @@
    "count": 3
   },
   {
-   "name": "ノート",
+   "name": "テレビ",
    "count": 3
   },
   {
@@ -110,8 +107,8 @@
    "count": 3
   },
   {
-   "name": "カバン",
-   "count": 2
+   "name": "靴",
+   "count": 3
   },
   {
    "name": "コンバース",
@@ -123,10 +120,6 @@
   },
   {
    "name": "スマホスタンド",
-   "count": 2
-  },
-  {
-   "name": "テレビ",
    "count": 2
   },
   {
@@ -154,10 +147,6 @@
    "count": 2
   },
   {
-   "name": "フライパン",
-   "count": 2
-  },
-  {
    "name": "ペン",
    "count": 2
   },
@@ -182,10 +171,6 @@
    "count": 2
   },
   {
-   "name": "下着",
-   "count": 2
-  },
-  {
    "name": "充電ケーブル",
    "count": 2
   },
@@ -199,6 +184,10 @@
   },
   {
    "name": "卓上スタンド",
+   "count": 2
+  },
+  {
+   "name": "手帳",
    "count": 2
   },
   {
@@ -220,6 +209,14 @@
   {
    "name": "電動ポンプ",
    "count": 2
+  },
+  {
+   "name": "電源タップ",
+   "count": 2
+  },
+  {
+   "name": "革靴",
+   "count": 2
   }
  ],
  "sources": [
@@ -233,9 +230,10 @@
   "Bona Magazine",
   "Carryology",
   "Exile Lifestyle",
-  "Family Handyman",
   "Good Housekeeping",
+  "Homes and Gardens",
   "House Beautiful",
+  "Ideal Home",
   "Infoseek",
   "Irish Independent",
   "MarketWatch",
@@ -249,11 +247,13 @@
   "Real Simple",
   "Sarah Therese",
   "Simple Lionheart Life",
+  "South Jersey Media",
   "Southern Living",
   "TRILL",
   "The Minimal Mom",
   "The Minimalists",
   "The National Tribune",
+  "The Oakland Press",
   "The Simplicity Habit",
   "The Spruce",
   "The Times of India",
@@ -265,6 +265,7 @@
   "Wrexham and Flintshire News, Sport, Events | The Leader",
   "Yahoo",
   "Yahoo!ニュース",
+  "YouTube",
   "goodhousekeeping.com",
   "marthastewart.com",
   "mbp-japan.com",
@@ -274,7 +275,6 @@
   "note #断捨離",
   "prunderground.com",
   "realsimple.com",
-  "southernliving.com",
   "t.co",
   "thechampionnewspaper.com",
   "wdio.com",
@@ -304,6 +304,196 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "7f27dde9b4d0f203",
+   "url": "https://note.com/nidomi/n/nb6e677ea7954",
+   "title_original": "頭でわかっている人ほど、体ではわかっていない",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/321673909/rectangle_large_type_2_f9dd8ca7ea6e8aaa360a6858b2bbd32c.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-07T22:45:00+00:00",
+   "title_ja": "頭で理解することと行動することの違い",
+   "summary_ja": "頭でわかっているつもりでも、新しい行動を起こすことで目の前の現実が変わっていくという気づきについて綴られた記事です。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "818f42a5afb1d3a5",
+   "url": "https://note.com/shin_mini_ryou/n/n16dc34235e9f",
+   "title_original": "太陽の暖かさを感じられる朝",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/321979164/rectangle_large_type_2_67d338ffe2922603f63c1500118adebd.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-07T22:10:54+00:00",
+   "title_ja": "夕食を抜いて心身をととのえた朝の記録",
+   "summary_ja": "前夜の夕食を控えることで朝の目覚めを軽くし、快適な朝活と穏やかな時間を過ごした習慣についての記録です。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "191aab495c852939",
+   "url": "https://www.roomie.jp/2026/10/1897782",
+   "title_original": "ホテルのテレビ、使わないのはもったいない。Ankerの「魔法のケーブル」で旅の楽しみが増えました",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/261002_anker_05.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-07T22:00:11+00:00",
+   "title_ja": "旅先でホテルのテレビを活用するAnkerの多機能ケーブル",
+   "summary_ja": "旅やアウトドアを好むライターが、携帯性と多機能性に優れたAnkerのケーブルを紹介。出張や旅行先のホテルにあるテレビを活用し、旅の楽しみを広げてくれるアイテムとしての魅力や、持ち物をコンパクトにしたい人向けの利便性を綴る。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "Ankerのケーブル",
+    "テレビ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "bbc12d3fcfaea9ad",
+   "url": "https://www.lifehacker.jp/article/machi-ya-tryangle-repost-954551",
+   "title_original": "まな板もこね台も鍋敷きも解凍も、これ1枚。燕三条の職人が仕上げた4in1の純チタンボード",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/25/1893e6ac-f958-43bb-8f47-8e8296ecf464/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-07T22:00:00+00:00",
+   "title_ja": "まな板や鍋敷きなど1枚で4役をこなす純チタン製の多機能ボード",
+   "summary_ja": "木や樹脂製のまな板の買い替えに悩む人に向けて、燕三条の職人が仕上げた国産の純チタン製ボードを紹介。これ1枚で、切る、こねる、鍋敷きなどの熱から守る、食材を解凍するといった4つの役割をこなし、キッチンの道具を減らしたい人にも適している。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "純チタンの下ごしらえボード",
+    "まな板"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ae42983f67e0c583",
+   "url": "https://note.com/metastyle/n/nc7bffe49713d",
+   "title_original": "手帳とノートを1冊に。RIHUAのA5システム手帳",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/321962996/rectangle_large_type_2_d463ef8c7d9834903f06ea7fc95f6def.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-07T21:03:17+00:00",
+   "title_ja": "複数ある使いかけのノートや手帳を1冊にまとめた人の話",
+   "summary_ja": "机の引き出しから仕事用や読書用など4冊の使いかけのノートや古い手帳が見つかったことをきっかけに、それらを1冊にまとめる解決策を紹介。RIHUAのA5システム手帳を活用し、手帳とノートを一本化して持ち物をすっきりさせる工夫を綴る。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "RIHUAのA5システム手帳",
+    "ノート",
+    "手帳"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ca70437ad950759c",
+   "url": "https://www.theoaklandpress.com/2026/10/07/how-to-declutter-when-your-kids-head-off-to-college",
+   "title_original": "How to declutter when your kids head off to college",
+   "source": "The Oakland Press",
+   "image": "https://www.theoaklandpress.com/wp-content/uploads/2026/10/TOP-L-HF-Declutter1011-01.jpeg?w=4500&h=3282",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-07T20:43:44+00:00",
+   "title_ja": "子どもが大学へ進学し家を出るタイミングで片づけを進める方法",
+   "summary_ja": "子どもが大学進学のために実家を離れるタイミングを見計らって、家の中の不要なものを整理し片づけを進めるための方法を解説。ライフステージの変化に合わせ、子ども部屋や家庭内の持ち物を見直して暮らしをシンプルにするコツを紹介する。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "b6c992a4cebf0dc4",
+   "url": "https://www.goodhousekeeping.com/home/organizing/a74066594/things-to-toss-in-october",
+   "title_original": "14 Things Pro Organizers Urge You to Throw Out in October",
+   "source": "Good Housekeeping",
+   "image": "https://hips.hearstapps.com/hmg-prod/images/fd0d5bb0-0512-4d48-b380-3ba1cbafe79d.jpg?crop=1xw:0.75xh;0xw,0.091xh&resize=1200:*",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-07T19:30:11+00:00",
+   "title_ja": "整理整頓のプロが10月に手放すことをすすめる14のアイテム",
+   "summary_ja": "片づけの専門家が、10月のタイミングで思い切って処分することを推奨する14個の持ち物を紹介。季節の変わり目であるこの時期に、家の中を見直して不要なものを手放し、住まいをすっきりと整えるための具体的なアドバイスを提案する。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "507f4505a2a362d0",
+   "url": "https://www.realsimple.com/the-easiest-way-to-create-more-closet-space-12135418",
+   "title_original": "The Closet Trick That Gives You More Space Without Getting Rid of a Single Thing",
+   "source": "Real Simple",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-07T19:30:00+00:00",
+   "title_ja": "物を減らさずにクローゼットのスペースを広げる収納のコツ",
+   "summary_ja": "物を1つも捨てることなく、クローゼットの中にさらなるスペースを作り出すための収納テクニックを紹介する。手持ちの衣類やアイテムを整理し、限られた空間を有効に活用するための具体的なアイデアがまとめられている。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "クローゼット"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "2c290efe4a73cd1c",
+   "url": "https://www.homesandgardens.com/celebrity-homes/brooklyn-beckham-nicola-peltz-anti-minimalist-christmas-tree",
+   "title_original": "Brooklyn Beckham’s Christmas Tree Redefines Minimalist Spaces",
+   "source": "Homes and Gardens",
+   "image": "https://cdn.mos.cms.futurecdn.net/pMphdSc5jjtua3a3t87Vw4-2400-80.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-07T16:00:00+00:00",
+   "title_ja": "ミニマリスト空間に映えるブルックリン・ベッカムのクリスマスツリー",
+   "summary_ja": "ブルックリン・ベッカムが飾ったクリスマスツリーを紹介し、ミニマルなインテリア空間における新しいツリーのあり方を提案する。シンプルで洗練されたデザインが、すっきりとした部屋の雰囲気を引き立てる様子が描かれている。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "クリスマスツリー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e6284746acb4ba57",
+   "url": "https://southjersey.media/washington-twp-news/decluttering-should-be-a-celebration-of-your-life",
+   "title_original": "Making room for what matters",
+   "source": "South Jersey Media",
+   "image": "https://media-com.website-us-east-1.linodeobjects.com/wp-content/uploads/sites/5/2026/09/IMG_2904-scaled.jpeg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-07T13:00:00+00:00",
+   "title_ja": "大切なもののために空間を作る",
+   "summary_ja": "自分にとって本当に大切なもののために、余分なスペースや余白を作り出すことについての考え方を扱っています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "91e6f8af88d6ad3a",
+   "url": "https://www.idealhome.co.uk/house-manual/storage-organisation-decluttering/things-to-declutter-in-october",
+   "title_original": "Pro organisers say these are the 4 things to declutter in October to get ready for the colder months",
+   "source": "Ideal Home",
+   "image": "https://cdn.mos.cms.futurecdn.net/DLuuJuDMWzWu8JpzkNUg48-2560-80.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-07T13:00:00+00:00",
+   "title_ja": "寒くなる前に片づけておきたい4つのもの",
+   "summary_ja": "寒い季節に向けて、プロの整理収納アドバイザーが10月に手放すべきと推奨する4つのアイテムについての解説。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "bea49673fb40779c",
    "url": "https://note.com/best_lifestyle/n/n16a0ec55782e",
@@ -358,6 +548,24 @@
     "おむつ"
    ],
    "importance": 4
+  },
+  {
+   "id": "cc2cc4b7f6d52f02",
+   "url": "https://www.roomie.jp/2026/10/1897798",
+   "title_original": "無印良品の新作「ゆったり座れるパーソナルソファ」は、暮らしに合わせて長く使えるシンプルさがいい！",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/4550723278508_16_org-1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-07T12:00:22+00:00",
+   "title_ja": "無印良品のパーソナルソファを取り入れた暮らし",
+   "summary_ja": "ライフオーガナイザーが選んだ無印良品のパーソナルソファを紹介。暮らしの変化に合わせて長く使えるシンプルなデザインと、快適な過ごし方を取り入れている。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "パーソナルソファ"
+   ],
+   "importance": 3
   },
   {
    "id": "e74dce4c78e5486c",
@@ -2389,6 +2597,24 @@
     "いなばの缶詰カレー"
    ],
    "importance": 2
+  },
+  {
+   "id": "f2d7db8cac1358a3",
+   "url": "https://youtu.be/9qfuRmzdiI8?si=BPWvPsg-M_xpu8DU",
+   "title_original": "15 Days in Spain With One Backpack | Aer Travel Pack 4 Packing List",
+   "source": "YouTube",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-04T19:38:34+00:00",
+   "title_ja": "スペインを1つのバックパックで旅した持ち物リスト",
+   "summary_ja": "1つのバックパックを使ってスペインを15日間旅した際のパッキングリストを紹介する動画です。旅に持ち出した具体的な道具がわかります。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "バックパック"
+   ],
+   "importance": 3
   },
   {
    "id": "4b80b3934e159577",
@@ -7108,231 +7334,6 @@
     "卓上スタンド"
    ],
    "importance": 3
-  },
-  {
-   "id": "40dca1cef3e34a1e",
-   "url": "https://bemorewithless.com/33-item-wardrobe-experiment/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
-   "title_original": "My 33-Item Wardrobe Experiment 16 years Later",
-   "source": "Be More with Less",
-   "image": "https://bemorewithless.com/wp-content/uploads/2026/09/33-item-wardrobe-experiment-image.png",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-09-29T00:45:00+00:00",
-   "title_ja": "33着の服で暮らすワードローブ実験を16年続けた現在の心境",
-   "summary_ja": "33アイテムだけで服を着回す「Project 333」の挑戦を16年経った今でも続けている人の話。少ない服で暮らす生活を長く続けることで、クローゼットだけでなく人生観が変わったという実体験。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "服"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "5bf4ad455f5627a5",
-   "url": "https://www.familyhandyman.com/article/garage-storage-makeover",
-   "title_original": "Put Your Garage to Work: How to Add Storage and Make Every Inch Count",
-   "source": "Family Handyman",
-   "image": "https://www.familyhandyman.com/wp-content/uploads/2026/09/Put-Your-Garage-to-Work_FHMON26_Garage_Storage_Two_Page_Spread_LEDE_MD_P2_05_27_19b_270.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-29T00:35:09+00:00",
-   "title_ja": "ガレージの収納を増やして空間を最大限に活用する方法",
-   "summary_ja": "ガレージの収納スペースを増やし、限られたスペースの隅々まで有効に活用するための方法を解説している海外の記事。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "7136f3ffe609ebe8",
-   "url": "https://minimalist-fudeko.com/reduce-cleaning-frequency",
-   "title_original": "毎日の掃除を週1回に減らす：頻度の見直し方",
-   "source": "筆子ジャーナル",
-   "image": "https://minimalist-fudeko.com/wp-content/uploads/2021/02/cleaning.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-29T00:10:35+00:00",
-   "title_ja": "家族構成の変化に合わせて掃除の頻度を見直す方法",
-   "summary_ja": "子供が独立して家族の人数やライフスタイルが変わっても、昔のままの掃除ルーティンを続けている人に向けて頻度を見直す提案。暮らしの変化に合わせた効率的な家事の進め方について。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "52a70a7ee062b6f2",
-   "url": "https://note.com/zen_kara_manabu/n/n1aa863198a11",
-   "title_original": "⑤モノに追われて疲れてしまう人へ｜寺の修行生活に学ぶ「持たない」習慣",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/318704306/rectangle_large_type_2_33bf99e4e55f34d7fcfad60b3c74053a.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-28T23:12:55+00:00",
-   "title_ja": "モノに追われて疲れる人へ向けた寺の修行生活に学ぶ持たない習慣",
-   "summary_ja": "片づけてもすぐに散らかったりモノがあふれて落ち着かない人に向けて、寺の修行生活から「持たない」暮らしの習慣を学ぶ考え方を紹介。モノに追われる生活から抜け出すためのヒント。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "bc79202b89388a02",
-   "url": "https://note.com/like_ibis6799/n/n8b8ea3e6d658",
-   "title_original": "書類が増えなくなりました",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/317233326/rectangle_large_type_2_77c00cae821467924d13343bcd426e1b.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-28T22:34:50+00:00",
-   "title_ja": "書類が増えなくなる工夫をした人の話",
-   "summary_ja": "ひとり生活を送る中で、増えるとやっかいな厄介な書類をテーマに、なぜ書類が増えるのか、どうやって増やさないようにしたのかをつづった断捨離の記録。（具体的な書類の減らし方について語られている）",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "書類"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2d8670d8e3c49c5e",
-   "url": "https://www.roomie.jp/2026/09/1893010",
-   "title_original": "山崎実業の新作「かける傘立て」。私は折り畳み傘派、夫は長傘派のわが家にぴったりな収納かも！",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/20260925-yamajitsu-umbrella-holder-01.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-28T22:30:26+00:00",
-   "title_ja": "山崎実業の「かける傘立て」を選んだ理由",
-   "summary_ja": "折り畳み傘派の自分と長傘派の夫という異なる傘のタイプを持つ家庭で、山崎実業の新作「かける傘立て」を取り入れて玄関の収納を整えている実例。（具体的な収納アイテムを紹介している）",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "傘立て"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "0b1e4bcda9073a77",
-   "url": "https://note.com/littleepiphanies/n/n5bc120ff3ff1",
-   "title_original": "グレーのまま置いておくということ",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/318358275/rectangle_large_type_2_bbae2f51dae7ee2103bbf7cc2fd56aab.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-28T22:28:52+00:00",
-   "title_ja": "完璧を目指さず「まあいっか」と思える心の変化",
-   "summary_ja": "すべてをきれいに完璧に仕上げなくても、まあいっかと受け入れられるようになった心の変化についてつづっています。無理に整えすぎない生き方が、日々の負担を軽くしてくれます。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "19636d8567b25df6",
-   "url": "https://note.com/mori_3_note/n/n77bbb936fa3e",
-   "title_original": "残す・手放す・買うを決める基準",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/314308042/rectangle_large_type_2_4ef3bdb9938693c6636cbbf5cb76524a.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-28T22:04:03+00:00",
-   "title_ja": "持ち物50個以下をやめた人の残す・手放す・買う基準",
-   "summary_ja": "以前は持ち物を50個以下にすることを目指していたものの、その目標をやめた執筆者が、現在どのように「残す・手放す・買う」を決めているのかを紹介しています。数を減らすことだけが目的ではない選び方の変化が分かります。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "ff2d06f8d117f6b9",
-   "url": "https://news.livedoor.com/topics/detail/32436142",
-   "title_original": "靴も下着もカバンも。無駄買いを防げる、私物の一元管理【ミニマリストの暮らし】 (2026年9月29日掲載)",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-28T22:00:01+00:00",
-   "title_ja": "無駄買い防止のための私物一元管理術",
-   "summary_ja": "靴・下着・カバンなどの私物を一元管理する方法を紹介し、無駄な買い物を防ぐ仕組みやチェックリストの作り方を解説する。実践例とポイントが分かりやすくまとめられている。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "靴",
-    "下着",
-    "カバン"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "536ecbb33bf8a0f6",
-   "url": "https://news.livedoor.com/article/detail/32436142",
-   "title_original": "靴も下着もカバンも。無駄買いを防げる、私物の一元管理【ミニマリストの暮らし】",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-28T22:00:01+00:00",
-   "title_ja": "靴や下着、カバンを管理して無駄買いを防ぐ工夫",
-   "summary_ja": "靴や下着、カバンなどの私物を一元管理することで、無駄な買い物を防ぐミニマリストの暮らし方を紹介している記事。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "靴",
-    "下着",
-    "カバン"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "058138f6f3f065a1",
-   "url": "https://www.southernliving.com/expert-tips-remove-fall-clutter-12146307",
-   "title_original": "6 Expert Tips For Keeping Family Clutter In Check This Fall",
-   "source": "southernliving.com",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-28T21:55:49+00:00",
-   "title_ja": "家族の物を増やさないための秋の片づけ術",
-   "summary_ja": "秋に向けて家族の持ち物や散らかりがちな空間を整理し、管理するための専門家による実践的なコツを紹介している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "3f5c3d3abab08f03",
-   "url": "https://www.realsimple.com/items-to-declutter-from-kitchen-counter-12120903",
-   "title_original": "If You Have Any of These 7 Items on Your Kitchen Counter, It’s Time to Declutter",
-   "source": "Real Simple",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-28T21:30:00+00:00",
-   "title_ja": "キッチンのカウンターから今すぐ片付けるべき7つの持ち物",
-   "summary_ja": "キッチンのカウンターをすっきりと整理するために、今すぐ片付けるべき7つのアイテムを提案する。余計なものを減らし、使いやすく清潔な台所をキープするための片付けのヒントを紹介。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "9f37b0e53b9a6464",
-   "url": "https://note.com/metastyle/n/n4322fc211841",
-   "title_original": "CAROTEの取っ手のとれるフライパンと、一本の取っ手で足りる台所",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/318681087/rectangle_large_type_2_206b6f311d493d7ce84c18822b681660.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-28T21:25:29+00:00",
-   "title_ja": "カローテの取っ手がとれるフライパンと1本の取っ手で暮らす台所",
-   "summary_ja": "カローテの取っ手がとれるフライパンを使い、1本の取っ手だけでシンプルにやりくりする台所の暮らしを綴る。道具を最小限に抑えることで、静かで整ったキッチン空間を実現している。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "フライパン",
-    "取っ手"
-   ],
-   "importance": 4
   }
  ]
 }
