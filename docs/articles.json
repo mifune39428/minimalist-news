@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T07:30:54.764471+09:00",
+ "updated_at": "2026-10-07T14:00:57.428110+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,39 +27,35 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-07T07:31:27.638568+09:00",
+  "generated_at": "2026-10-07T14:02:29.187898+09:00",
   "days": 3,
   "period": "10月6日〜10月7日",
   "count": 45,
-  "reduce_count": 31,
-  "own_count": 14,
-  "overview": "不要品の処分やサブスクの整理といった「減らし方」の工夫から、暮らしを快適にする厳選したアイテム選びまで、日々の生活を見直す体験談や実用的なアイデアが多数語られています。",
-  "reduce": "衣類の枚数を減らしたり、サブスクや買いだめのストックを見直したりして、日々の暮らしや固定費をすっきりと整える実践的な工夫が語られています。",
-  "own": "無印良品の豆皿やチタン製ストラップなど、日常のちょっとした不便を解消して身軽に過ごすための便利なアイテム選びが紹介されています。",
+  "reduce_count": 30,
+  "own_count": 15,
+  "overview": "10月6日から7日に集まった45件の記事では、キッチン家電や衣類、デジタルデータの減らし方や、試行錯誤を通じた持ち物の見直しに関する具体的な体験談が語られています。",
+  "reduce": "セールでの失敗談やクローゼットの整理、衣替えの負担を軽減する手順など、持ち物を減らすための具体的な基準や工夫が多数語られています。",
+  "own": "水筒やタンブラー、ガジェット周辺のアイテムなど、機能を絞って軽さや使い勝手を重視したこだわりの持ち物が紹介されています。",
   "points": [
    {
-    "title": "フリマやAIの活用",
-    "body": "AIに相談しながらメルカリで初取引を完了させたり、夫からのプレゼントや思い出の品をフリマに出品したりして、不要品を手放す一歩を踏み出す体験談が語られています。"
+    "title": "衣類の減らし方と収納",
+    "body": "セーターの素材別に重ねて収納できる限界枚数をキッチンスケールで重さを量って調べたり、衝動買いで100着あった服を20着まで絞り込んだりした実体験が語られています。"
    },
    {
-    "title": "服やクローゼットの見直し",
-    "body": "セールや衝動買いで増えてしまった服を100着から20着に絞ったり、クローゼットの服を全部出してゴミ袋2袋分を手放したりする具体的な断捨離の記録が紹介されています。"
+    "title": "買い物の失敗と見直し",
+    "body": "セールの勢いで日用品を大量買いして収納を圧迫した失敗談や、価格差よりも届いてからの返品期間やサイズ感を重視して買うタイミングを決める重要性が解説されています。"
    },
    {
-    "title": "サブスクや固定費の整理",
-    "body": "放置していたジムの月会費を電話ゼロで解約したり、気づかないうちに家計を圧迫している月額サブスクを無理なく整理して固定費を削減するステップが示されています。"
-   },
-   {
-    "title": "身軽さを重視したアイテム選定",
-    "body": "カバンからスマホを探す手間をなくすチタン製ストラップや、機能を絞って軽さに特化した水筒など、日常生活で両手を自由にして身軽に動くための道具選びが取り上げられています。"
+    "title": "デジタルと不要品の手放し",
+    "body": "スマホ内の写真や使わなくなったアプリなどのデジタル断捨離に加え、AIに相談してメルカリでの初取引を成功させたり、ウェディングドレスを手放したりした体験が紹介されています。"
    }
   ],
   "keywords": [
    "断捨離",
    "ミニマリスト",
-   "フリマ",
-   "無印良品",
-   "サブスク"
+   "収納",
+   "失敗",
+   "体験談"
   ]
  },
  "things": [
@@ -78,6 +74,10 @@
   {
    "name": "靴",
    "count": 5
+  },
+  {
+   "name": "iPad",
+   "count": 3
   },
   {
    "name": "イヤホン",
@@ -108,12 +108,8 @@
    "count": 3
   },
   {
-   "name": "iPad",
-   "count": 2
-  },
-  {
-   "name": "エコバッグ",
-   "count": 2
+   "name": "洗剤",
+   "count": 3
   },
   {
    "name": "カバン",
@@ -121,10 +117,6 @@
   },
   {
    "name": "コンバース",
-   "count": 2
-  },
-  {
-   "name": "ショルダーバッグ",
    "count": 2
   },
   {
@@ -212,15 +204,19 @@
    "count": 2
   },
   {
-   "name": "洗剤",
-   "count": 2
-  },
-  {
    "name": "財布",
    "count": 2
   },
   {
    "name": "車載ホルダー",
+   "count": 2
+  },
+  {
+   "name": "電動ポンプ",
+   "count": 2
+  },
+  {
+   "name": "電源タップ",
    "count": 2
   }
  ],
@@ -258,6 +254,7 @@
   "The National Tribune",
   "The Simplicity Habit",
   "The Spruce",
+  "The Times of India",
   "The Verde Independent",
   "Unisba Media",
   "WDTN.com",
@@ -306,6 +303,189 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "439d49b8b32aa7d9",
+   "url": "https://note.com/best_lifestyle/n/n1aa12494d7d1",
+   "title_original": "キッチン家電のセール、割引率より「返品30日」が大事だった",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/321733340/rectangle_large_type_2_49d6070113620ab144614025fa2121a1.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-07T04:53:11+00:00",
+   "title_ja": "セールでのキッチン家電選び、割引率より返品期間を重視した話",
+   "summary_ja": "価格差よりも届いてからのサイズや使い勝手のミスマッチを防ぐため、返品期間から逆算して買うタイミングを決める重要性を解説しています。実際に食洗機の置き場所で苦労した失敗をもとに、失敗しない選び方をまとめています。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [
+    "食洗機",
+    "キッチン家電"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "fc0acc17ca8f21ee",
+   "url": "https://note.com/best_lifestyle/n/nbbf0fbbaa595",
+   "title_original": "ニットは何枚まで重ねていい？素材別の限界を実測",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/321731385/rectangle_large_type_2_4296533815d1e4db9cd80dc414c61c61.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-07T04:46:15+00:00",
+   "title_ja": "ニットを重ねて収納すると潰れる？素材別の限界枚数を調べた話",
+   "summary_ja": "引き出しにセーターを重ねて収納したところ、下の服にシワや毛玉が戻らなくなった実体験をもとにしています。キッチンスケールで重さを量って判明した素材別の重ねてよい枚数の目安や、潰さないための保管方法を紹介しています。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "セーター"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d9d39c6f2a96e4b3",
+   "url": "https://www.roomie.jp/2026/10/1900365",
+   "title_original": "洗い物は急須ひとつ、それも水ですすぐだけ！信楽焼のコーヒー急須がラクすぎる",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/koga2.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-07T04:45:52+00:00",
+   "title_ja": "洗い物は急須ひとつだけ、信楽焼のコーヒー急須を使った人の話",
+   "summary_ja": "自宅で手軽にコーヒーを淹れられる信楽焼のコーヒー用急須「香雅-KOGA-」を紹介しています。ハンドドリップのハードルを下げ、日々の洗い物が急須ひとつですすみ、水ですすぐだけで済む手軽さを伝えています。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "コーヒー急須"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "85c36affef899972",
+   "url": "https://note.com/lapistear_8822/n/nf6567956aadc",
+   "title_original": "服はあるのに「着る服がない」のはなぜ？秋の衣替えがしんどい理由を心理学で紐解く",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/321723046/rectangle_large_type_2_2885236a91fa11ab45aeb0bb016f8dcf.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-07T04:18:45+00:00",
+   "title_ja": "秋の衣替えがしんどい理由と、無理なくクローゼットを整える手順",
+   "summary_ja": "秋の衣替えで服の山ができたり面倒に感じたりする現象を、気温や服選びの条件変化という心理学の視点から紐解いています。自分の片付け下手さに落ち込むことなく、無理なく部屋とクローゼットを整えるステップを紹介しています。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5766ca9b2be07dcf",
+   "url": "https://note.com/best_lifestyle/n/ne50e9c50dcc6",
+   "title_original": "プライム感謝祭で買うべき日用品ベスト8｜重い物は本数を計算",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/321719629/rectangle_large_type_2_6947d4a2883e98fce0a5b64f0b8207e6.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-07T04:01:36+00:00",
+   "title_ja": "セールで日用品を買いすぎて収納を圧迫した失敗談と量の計算方法",
+   "summary_ja": "セールの勢いでペットボトルの水を大量に買い、収納がパンパンになって本当に必要な物が買えなくなった失敗を綴っています。1ヶ月で使い切る量や家の空きスペースから逆算して、重い物を買う本数を決める計算方法をまとめています。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [
+    "ペットボトルの水",
+    "洗剤",
+    "トイレットペーパー"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "652c6d1bbe3f527c",
+   "url": "https://note.com/mahi_music2001/n/n8e62a53ee284",
+   "title_original": "今あるもので、十分だった",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/321718042/rectangle_large_type_2_67d16083f5732304ed4262ac24fd2618.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-07T03:57:05+00:00",
+   "title_ja": "今年は服を1着も買わなかった話",
+   "summary_ja": "筆者は2024年に一切服を購入せず、既に持っている衣類だけで一年を過ごしたと語る。新たに買わない基準や、手持ちだけで満足できる心構え、失敗談はなく、シンプルな生活の実例として示している。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "6b020781cc46fe9a",
+   "url": "https://note.com/mokari730/n/n58a8535be749",
+   "title_original": "元銀行員FPシンママの私が気づいた、お金が貯まる5つのこと｜持たない暮らしと「引き算」のやりくり",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/321682112/rectangle_large_type_2_306ab92ba20d32e2b999b0b77fd00ce7.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-07T02:02:35+00:00",
+   "title_ja": "元銀行員シングルマザーが実践した5つの節約術",
+   "summary_ja": "元銀行員FPのシングルマザーが、持たない暮らしで実践したお金を貯める5つの方法を紹介。引き算で支出を減らす具体例が語られる。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "663d38c26246640f",
+   "url": "https://www.roomie.jp/2026/10/1900017",
+   "title_original": "iPadの画面がぼやけるのが嫌でフィルムを剥がした私。ペン先を変えたら手書きがラクになりました",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/penciltips2.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-07T00:45:06+00:00",
+   "title_ja": "iPadの画面フィルムを外しペン先を変えて手書き快適にした体験談",
+   "summary_ja": "iPadで手書きする際、画面フィルムを外しペン先を交換した結果、画面が鮮明になり書き心地が向上した作者の体験が語られる。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "iPad",
+    "ペーパーライクフィルム",
+    "ペン先"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "3db3845b7da1208b",
+   "url": "https://minimalist-fudeko.com/digital-declutter-roundup",
+   "title_original": "部屋は片づいたのにスマホの中は手つかず：デジタル断捨離の記事のまとめ",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/10/using-smartphone.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-07T00:10:27+00:00",
+   "title_ja": "スマホのデジタル断捨離まとめ",
+   "summary_ja": "部屋の片付けは進んでもスマホはそのまま。写真・メルマガ・使わなくなったアプリなど、デジタルのガラクタを対象にした39本の記事をまとめたガイドです。スマホ内の不要なデータを削除し、ストレージをすっきりさせる手順も紹介しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "写真",
+    "メルマガ",
+    "アプリ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "71dedf4c0f06e04f",
+   "url": "https://timesofindia.indiatimes.com/life-style/home-garden/before-diwali-declutter-these-7-things-instead-of-simply-moving-them-around/photostory/134723144.cms",
+   "title_original": "Before Diwali, declutter these 7 things instead of simply moving them around",
+   "source": "The Times of India",
+   "image": "https://static.toiimg.com/thumb/msid-134723492,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-06T23:30:00+00:00",
+   "title_ja": "ディワリ前に手放すべき7アイテム",
+   "summary_ja": "インドの祭りディワリを迎える前に、単に物を移動させるだけでなく、実際に手放すべき7つの品目を紹介する記事です。生活をシンプルにするヒントが得られます。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
   {
    "id": "4677bfe3c428de23",
    "url": "https://note.com/quirky_quail7996/n/n1d192a63790c",
@@ -7158,185 +7338,6 @@
     "洗顔フォーム",
     "オールインワンクリーム"
    ],
-   "importance": 4
-  },
-  {
-   "id": "ded63deee51d756d",
-   "url": "https://note.com/proper_rabbit626/n/n81633d62bee7",
-   "title_original": "小説『私の暮らしに、必要なもの』①線が2本",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/318600431/rectangle_large_type_2_1e4967b2dc141d5a91fbc228247aa9fe.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-28T12:38:34+00:00",
-   "title_ja": "産休を機に部屋を見直し、持ち物と向き合う",
-   "summary_ja": "産休に入った看護師が、部屋に溢れる観葉植物や雑貨、使い切れない化粧品、重複した服を見直す決意をするまでの記録。暮らしを整える過程で、自分の持ち物と向き合う様子が綴られている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "観葉植物",
-    "雑貨",
-    "服",
-    "化粧品"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "f1e1d6247f8f9e61",
-   "url": "https://www.roomie.jp/2026/09/1886225",
-   "title_original": "在宅ワークの平日によく穿いている「MUJI Laboのイージーパンツ」。ご近所ウェアや移動着にぴったりです",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/d4222b621cadf5dea56cccf6e83f4ddb.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-28T12:30:28+00:00",
-   "title_ja": "在宅ワークの日常着に選んだ無印良品のパンツ",
-   "summary_ja": "フリーライターが在宅ワークや近所での活動時に愛用している「MUJI Labo」のイージーパンツを紹介。シーンに合わせて機能的な服と、気分が上がる服を使い分けるライフスタイルを実践している。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "イージーパンツ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f8e9107f4f9f2bb7",
-   "url": "https://news.livedoor.com/article/detail/32434253",
-   "title_original": "食卓には何も置かない。たったそれだけで食事の楽しさが劇的に変わる！【ミニマリストの暮らし】",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-28T12:15:06+00:00",
-   "title_ja": "食卓に何も置かない暮らしのメリット",
-   "summary_ja": "食卓に何も置かないというシンプルな暮らし方を提案する記事。テーブルの上を空にすることで、食事の楽しさが劇的に向上するというミニマリストの考え方を紹介している。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "caf66c3bb5800700",
-   "url": "https://www.roomie.jp/2026/09/1890618",
-   "title_original": "デスクのティッシュ、地味に場所を取る…。山崎実業の新作なら文具とひとまとめにできそう",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/260921_yamajitsu_slimtissue-case_01.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-28T12:00:21+00:00",
-   "title_ja": "デスク周りをコンパクトにまとめる収納の工夫",
-   "summary_ja": "デスク上の場所を取るティッシュなどの小物を、山崎実業の収納アイテムを使ってひとまとめにするアイデア。限られたスペースを有効活用し、実用的で長く使えるものを選ぶことで、作業環境をコックピットのようにシンプルに整えています。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "ティッシュ",
-    "デスク用品"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "d4b60df2aadd9c1d",
-   "url": "https://news.yahoo.co.jp/articles/daf356b36bb70b84ff45a69d15561134b597da85/images/000",
-   "title_original": "無印のショルダーバッグ、どれがいい？ シンプリストの愛用4選、リアルなレビューに「かっこいい」「使いやすいですよね」",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgAR-2Gzs5C7T5JzbNxSruZYlV2w_20VMryEF6RPGe_wuAoUyciFWfDQsowLpD0KExhMrSjS-yhx7-PNBotFLh3fqdLM9ryqgGu6XsTg3i52tRCOtqPruLzfSgUGJAJZRiw==",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-28T11:15:00+00:00",
-   "title_ja": "シンプリストが愛用する無印良品のショルダーバッグ4選",
-   "summary_ja": "シンプリストたちが実際に愛用している無印良品のショルダーバッグ4選と、リアルな使い心地のレビューを紹介。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "ショルダーバッグ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "7c7a1f4cd30578b9",
-   "url": "https://monomax.jp/archives/364505",
-   "title_original": "【無印良品1090円の傑作】トイレットペーパーをリビングに置く!? “小掃除が激変”するアイデア商品が超優秀！無印マニアが徹底レビュー",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2027/09/11DSC04502-1-scaled.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-28T11:00:41+00:00",
-   "title_ja": "無印良品のアイテムでリビングの掃除を効率化",
-   "summary_ja": "トイレットペーパーをリビングに置いて、小掃除を劇的に変える無印良品の収納活用術。生活感を抑えつつ、掃除のハードルを下げる工夫として紹介されています。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "トイレットペーパー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "6486376081d2f6b2",
-   "url": "https://www.youtube.com/shorts/QzNtAmHVj-I",
-   "title_original": "【ミニマリスト】出かける準備、3分で終わります",
-   "source": "ミニマリスト Nozomi",
-   "image": "https://i2.ytimg.com/vi/QzNtAmHVj-I/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-09-28T11:00:31+00:00",
-   "title_ja": "服3着・持ち物40個で叶えるミニマルな準備",
-   "summary_ja": "ミニマリスト歴12年の投稿者が実践する、準備に3分しかかからないスマートな暮らし。服は3着、持ち物は40個まで絞り込み、乳幼児がいても快適に過ごせるミニマルな思考と環境作りを紹介しています。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "服"
-   ],
-   "importance": 5
-  },
-  {
-   "id": "bd72f206f13c5319",
-   "url": "https://monomax.jp/archives/361138",
-   "title_original": "【手のひらサイズ→大容量22Lに早変わり】1位はコブマスターの防水ショルダー！プロが審査「傑作エコバッグ」ベスト3『MonoMaxカバン大賞』",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2026/09/260716-152309_11zon-scaled.jpeg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-28T09:00:19+00:00",
-   "title_ja": "プロが選ぶ傑作エコバッグベスト3",
-   "summary_ja": "プロが審査したエコバッグのランキング記事。手のひらサイズから22Lまで拡張できる防水ショルダーバッグなどが紹介されています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "エコバッグ",
-    "ショルダーバッグ"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "cf29997b94824704",
-   "url": "https://www.youtube.com/shorts/FjoLIvWjydk",
-   "title_original": "【【ミニマリスト主婦】念入りな週明けのリセット",
-   "source": "ぴーこ｜ゆるっとミニマルな日常",
-   "image": "https://i3.ytimg.com/vi/FjoLIvWjydk/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-09-28T08:00:24+00:00",
-   "title_ja": "ミニマリスト主婦の週明けリセット術",
-   "summary_ja": "ミニマリストの日常として、週の始まりに行う部屋の片付けやリセットの様子を紹介する動画。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "4eeb1ad289f67680",
-   "url": "https://note.com/novel_auklet8496/n/n05f3f1dedafb",
-   "title_original": "捨てるか迷ったら、3,000円で決めます",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/318455904/rectangle_large_type_2_067bd94befeb4f99ff80e0b557ebc65b.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-28T05:49:38+00:00",
-   "title_ja": "捨てるか迷う物を判断する基準",
-   "summary_ja": "片付けで捨てるか迷った際の判断基準として、3,000円という金額を一つの目安にする考え方を紹介。物を手放せない人の迷いを減らすための工夫です。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
    "importance": 4
   }
  ]
