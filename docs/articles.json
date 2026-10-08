@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T07:54:47.519786+09:00",
+ "updated_at": "2026-10-08T14:11:38.193527+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,34 +27,35 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-08T07:56:44.763883+09:00",
+  "generated_at": "2026-10-08T14:14:16.140968+09:00",
   "days": 3,
   "period": "10月7日〜10月8日",
   "count": 45,
   "reduce_count": 31,
   "own_count": 14,
-  "overview": "10月7日から8日にかけて、不要な物やスケジュールを見直す減らし方の工夫と、日々の暮らしを快適にする持ち物の活用法に関する記事が多数寄せられています。",
-  "reduce": "季節の変わり目である10月に向けた手放し方や、家計簿やクローゼット収納、衝動買いを避ける工夫など、暮らしを整える具体的な見直し術が語られています。",
-  "own": "旅行や日常の移動、デジタル環境や家事を快適にするためのガジェット、食器、バッグなど、日々の手間を減らす厳選された持ち物が紹介されています。",
+  "overview": "季節の変わり目における家の中やクローゼットの片付け方、持ち物の見直しや失敗談が数多く語られています。",
+  "reduce": "季節の変わり目における手放すべき場所や、衣類や日用品の収納・買い方の失敗から学ぶ減らし方が多数紹介されています。",
+  "own": "ピーラーやイヤホン、多機能ボードなど、暮らしや通勤、旅を快適にするこだわりのアイテム選びが語られています。",
   "points": [
    {
-    "title": "衣類と収納の見直し",
-    "body": "秋の衣替えやクローゼットのスペース確保に関して、セーターの重さから重ねてよい限界枚数を調べたり、物を減らさずに収納を広げる工夫が語られています。"
+    "title": "秋の片付けと手放し方",
+    "body": "整理収納アドバイザーや専門家が、秋の季節の変わり目に優先して片づけるべき場所や手放すべきアイテムを具体的に提案しています。"
    },
    {
-    "title": "デジタルと家計の見直し",
-    "body": "毎日書いていた家計簿を月1回の見直し型に変えて無理なく続ける方法や、スマホ内の不要なデータを削除するデジタル断捨離のガイドが紹介されています。"
+    "title": "収納や買い物の失敗談",
+    "body": "セールでの日用品の買いすぎやニットの重ねすぎによる失敗から、収納スペースや必要な量を逆算して管理する重要性が語られています。"
    },
    {
-    "title": "旅と外出時の持ち物",
-    "body": "旅行や出張での荷物を最小限にするため、多機能ケーブルや電源タップ、防犯性の高いバッグを活用して持ち物をすっきりさせる工夫が共有されています。"
+    "title": "日常のアイテム選び",
+    "body": "引き出しへの収まりや耳への負担、手間の軽減を重視したピーラーやイヤホン、コーヒー急須などの選び方が紹介されています。"
    }
   ],
   "keywords": [
-   "持ち物",
+   "断捨離",
+   "ミニマリスト",
+   "手放す",
    "クローゼット",
-   "ノート",
-   "断捨離"
+   "ノート"
   ]
  },
  "things": [
@@ -64,22 +65,18 @@
   },
   {
    "name": "スマホ",
-   "count": 10
+   "count": 8
   },
   {
    "name": "本",
-   "count": 5
+   "count": 6
   },
   {
-   "name": "ノート",
+   "name": "イヤホン",
    "count": 4
   },
   {
    "name": "iPad",
-   "count": 3
-  },
-  {
-   "name": "イヤホン",
    "count": 3
   },
   {
@@ -88,6 +85,10 @@
   },
   {
    "name": "テレビ",
+   "count": 3
+  },
+  {
+   "name": "ノート",
    "count": 3
   },
   {
@@ -151,19 +152,11 @@
    "count": 2
   },
   {
-   "name": "ポーチ",
-   "count": 2
-  },
-  {
    "name": "マイク",
    "count": 2
   },
   {
    "name": "メルカリ",
-   "count": 2
-  },
-  {
-   "name": "リュック",
    "count": 2
   },
   {
@@ -183,10 +176,6 @@
    "count": 2
   },
   {
-   "name": "卓上スタンド",
-   "count": 2
-  },
-  {
    "name": "手帳",
    "count": 2
   },
@@ -196,14 +185,6 @@
   },
   {
    "name": "洋服",
-   "count": 2
-  },
-  {
-   "name": "財布",
-   "count": 2
-  },
-  {
-   "name": "車載ホルダー",
    "count": 2
   },
   {
@@ -221,6 +202,7 @@
  ],
  "sources": [
   "A Slob Comes Clean",
+  "ABEMA",
   "AllOutdoor.com",
   "Apartment Therapy",
   "Balance Through Simplicity",
@@ -249,7 +231,7 @@
   "Simple Lionheart Life",
   "South Jersey Media",
   "Southern Living",
-  "TRILL",
+  "TRILL【トリル】",
   "The Minimal Mom",
   "The Minimalists",
   "The National Tribune",
@@ -284,6 +266,7 @@
   "むぎの頑張らない暮らし",
   "やましたひでこ断捨離",
   "りくと｜ミニマリスト",
+  "ウォーカープラス",
   "ミニマリスト Nozomi",
   "ミニマリストK",
   "ミニマリストsin",
@@ -304,6 +287,176 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "c1f8cf3860f31347",
+   "url": "https://note.com/best_lifestyle/n/n8359b5530386",
+   "title_original": "ピーラー縦型と横型、結局どっち？おすすめ10選",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/322088320/rectangle_large_type_2_bdc2bdce04770f7065f6f78aada6e864.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-08T05:02:17+00:00",
+   "title_ja": "キッチンの収納スペースから考えるピーラーの選び方と失敗談",
+   "summary_ja": "野菜の剥きやすさだけでなく、キッチンの引き出しへの収まりやすさや他の道具との引っかかりにくさを重視したピーラーの選び方を紹介。丸い野菜に向く横型と、狭い引き出しに収納しやすい縦型の特徴を比較し、自身の買い直し経験を踏まえて解説する。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "ピーラー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "47e434103707565c",
+   "url": "https://note.com/smart_life_yuma/n/n9a15771145cf",
+   "title_original": "通勤イヤホンおすすめ8選｜メガネ・マスクでも蒸れない",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/322084623/rectangle_large_type_2_d1fbeb372e3615657c5d9083c0ba1b1b.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-08T04:48:07+00:00",
+   "title_ja": "メガネやマスク着用時でも快適に使える通勤向けイヤホンの選び方",
+   "summary_ja": "満員電車に往復100分乗る筆者が、メガネやマスクを着用していても蒸れにくく、装着感や隔音性に優れたノイズキャンセリングイヤホンの選び方を紹介。カタログスペックだけでは分からない、実際の使用環境における性能発揮のポイントを解説する。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "イヤホン",
+    "ヘッドホン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "10eb512a452b25fe",
+   "url": "https://note.com/light_bobcat1340/n/n34e29c08ca3a",
+   "title_original": "9月に処分した物 大掃除その3",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/320391901/rectangle_large_type_2_94ade84b09a77eef565500835f426599.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-08T04:39:42+00:00",
+   "title_ja": "9月の断捨離で処分した物を記録する大掃除メモ",
+   "summary_ja": "お盆から継続している断捨離のモチベーションを維持しながら、9月に処分した細かい物について振り返る自分用の記録メモ。写真を撮り忘れてしまうほど勢いよく進んだ片付けの様子を、備忘録としてまとめている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "25e1ca8b75675d98",
+   "url": "https://www.lifehacker.jp/article/2610-costorypo-teburadehanger-start-1628193192",
+   "title_original": "上着と荷物で手がふさがる問題、コレで解決。まとめて吊るす本革手ぶらベルト",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/10/02/5392bf69-1d68-4bd5-b138-1ad00fec2fe7/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-08T04:00:00+00:00",
+   "title_ja": "脱いだ上着や荷物をバッグに吊るせる本革製便利ベルト",
+   "summary_ja": "脱いだ上着や帽子、買い物袋などをバッグやスーツケースのハンドルに外付けして固定できる本革製ベルトを紹介。マグネット式バックルで簡単に装着でき、約70gと軽量ながら、荷物で手がふさがる問題を解決して手ぶらでの移動をサポートする。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "手ぶら de ハンガー",
+    "ベルト"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c79d4eaa6f8d170b",
+   "url": "https://thesimplicityhabit.com/7-habits-to-help-prevent-overwhelm",
+   "title_original": "7 Habits to Help Prevent Overwhelm in Your Life",
+   "source": "The Simplicity Habit",
+   "image": "https://thesimplicityhabit.com/wp-content/uploads/2023/11/horizontal-blog-post-2023-11-20T083902.387-1024x683.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-08T02:29:42+00:00",
+   "title_ja": "生活の負担やストレスを減らす7つの習慣",
+   "summary_ja": "日々の生活で感じる重圧やストレスを防ぎ、少ない負担で多くのことをこなすための習慣を紹介。暮らしを見直し、心に余裕を持たせるための考え方をまとめている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "518bc4f9f2168c74",
+   "url": "https://www.realsimple.com/best-fall-decluttering-tips-from-pro-organizers-12135415",
+   "title_original": "We Asked Pro Organizers What They Always Declutter for Fall—Here Are Their 6 Picks",
+   "source": "Real Simple",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-08T00:30:00+00:00",
+   "title_ja": "プロが教える秋に手放すべき6つの場所",
+   "summary_ja": "プロの整理収納アドバイザーが提案する、秋の季節の変わり目に優先して片づけるべき6つの場所について解説した記事。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "16bc214e830cca03",
+   "url": "https://minimalist-fudeko.com/where-to-start-tidying",
+   "title_original": "片づけはどこから？ 余裕がない日に先に整える4か所",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/09/tidying-up.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-08T00:10:01+00:00",
+   "title_ja": "忙しい日にまず片づけるべき4つの場所",
+   "summary_ja": "時間や気持ちに余裕がない日でも、次に使うときの不便を減らすために優先して整えるべき4つの場所を紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "25539e2e25b7cbfa",
+   "url": "https://note.com/meg0815/n/n583f578cee25",
+   "title_original": "50歳までの身軽化計画｜第4回「捨てるには惜しい」が、暮らしを重くしていた。",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/321996282/rectangle_large_type_2_d01a7ed214856d2eba6686e93c396f1d.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-08T00:05:36+00:00",
+   "title_ja": "「捨てるには惜しい」物を前に迷う時の考え方",
+   "summary_ja": "壊れた物や不用品は手放しやすいものの、「まだ使える」「高かった」といった惜しい物は家の中に残りやすい。捨てられないのではなく、決断できずに物が溜まっていく悩みを綴ったエッセイ。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "9b520fc9d9b8b9c4",
+   "url": "https://note.com/dabe_life/n/n3d3e70bd2220",
+   "title_original": "好きなものだけ、ちゃんと好きでいる。",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/321988819/rectangle_large_type_2_5af6a16b1c9dce0f51fbd97c4a11a60e.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-07T22:55:52+00:00",
+   "title_ja": "物を減らす過程で趣味の物をどう捉えるか",
+   "summary_ja": "シンプルに暮らすために趣味の物まで減らすべきかという迷いについて触れている。好きな物をちゃんと好きでいるための、物の持ち方や心構えを考えるきっかけになる記事。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "bdd764e487f8c5a5",
+   "url": "https://bemorewithless.com/places-to-donate-books/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
+   "title_original": "25 Places to Donate Books",
+   "source": "Be More with Less",
+   "image": "https://bemorewithless.com/wp-content/uploads/2022/12/books.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-07T22:54:14+00:00",
+   "title_ja": "不要になった本を寄付できる場所のまとめ",
+   "summary_ja": "読み終えた本を寄付したい人に向けて、本を引き取ってくれる場所を25箇所紹介している。状態の悪い本や古い本の扱い方についてもアドバイスを交えて解説している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "本"
+   ],
+   "importance": 3
+  },
   {
    "id": "7f27dde9b4d0f203",
    "url": "https://note.com/nidomi/n/nb6e677ea7954",
@@ -405,6 +558,22 @@
    "published": "2026-10-07T20:43:44+00:00",
    "title_ja": "子どもが大学へ進学し家を出るタイミングで片づけを進める方法",
    "summary_ja": "子どもが大学進学のために実家を離れるタイミングを見計らって、家の中の不要なものを整理し片づけを進めるための方法を解説。ライフステージの変化に合わせ、子ども部屋や家庭内の持ち物を見直して暮らしをシンプルにするコツを紹介する。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "ff41896b56bfdebd",
+   "url": "https://www.goodhousekeeping.com/home/organizing/g74066594/things-to-toss-in-october",
+   "title_original": "14 Things to Throw Out ASAP in October, According to Professional Organizers",
+   "source": "Good Housekeeping",
+   "image": "https://hips.hearstapps.com/hmg-prod/images/fd0d5bb0-0512-4d48-b380-3ba1cbafe79d.jpg?crop=1xw:0.75xh;0xw,0.091xh&resize=1200:*",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-07T19:30:11+00:00",
+   "title_ja": "プロの整理士が勧める「10月にすぐ手放すべき14のもの」",
+   "summary_ja": "プロの整理収納アドバイザーが提案する、10月に優先して処分すべき14のアイテムを紹介する記事。季節の変わり目であるこの時期に家の中を見直し、不要なものを整理することで、すっきりと快適な暮らしの空間を整えるためのヒントが書かれている。",
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
@@ -652,6 +821,38 @@
    "importance": 3
   },
   {
+   "id": "a8ef3a1d639ba588",
+   "url": "https://www.walkerplus.com/article/1339527/image16602961.html",
+   "title_original": "画像1 / 192＞【漫画】「復活すんな、飲み会文化」「モヤる…ご祝儀へのお返し問題」「プレゼントの金額差」「プレゼントは何が欲しいか聞け」「コストが大きいほど大事？〜断捨離爆遅太郎〜」ほか収録／著：ゐ",
+   "source": "ウォーカープラス",
+   "image": "https://news.walkerplus.com/article/1339527/16602961_615.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-07T10:33:56+00:00",
+   "title_ja": "暮らしのモヤモヤや断捨離をテーマにしたコミックエッセイ",
+   "summary_ja": "復活する飲み会文化への不満や、ご祝儀のお返し、プレゼントをめぐる人間関係のモヤモヤ、そして物の処分が進まない「断捨離爆遅太郎」など、日常の無駄なコストや片づけの悩みをユーモラスに描いた漫画を紹介する記事。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "1303e828a7a76e4f",
+   "url": "https://abema.tv/video/episode/87-263_s311_p1002690",
+   "title_original": "母に本音を言えなくて… 繊細娘の“心の重り”放出記 【BS朝日】ウチ、“断捨離”しました！",
+   "source": "ABEMA",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-07T10:23:05+00:00",
+   "title_ja": "人間関係の悩みを乗り越えた断捨離の記録",
+   "summary_ja": "家族への本音を抱えていた女性が、断捨離を通じて心の重荷を手放していく様子を描いた番組の記録です。物理的な片付けだけでなく、内面的な葛藤との向き合い方を伝えています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "4138a2c40172d013",
    "url": "https://www.roomie.jp/2026/10/1896048",
    "title_original": "インド旅のスリ対策にも大活躍。カメラがすっぽり入る「パーゴワークスのバッグ」が頼もしかった",
@@ -735,6 +936,22 @@
    "things": [
     "スマホスタンド"
    ],
+   "importance": 3
+  },
+  {
+   "id": "79fc2e607b457d95",
+   "url": "https://trilltrill.jp/articles/5062032",
+   "title_original": "「人生を変えた」2,000万円貯めた女性が明かす、実際に取り入れてきた“節約術”に「知らない節約もあり、勉強になりました」",
+   "source": "TRILL【トリル】",
+   "image": "https://media.trilltrill.jp/articles/5062032/cover-image.95006a26c03754de3874f162a02bcfb1?w=1200",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-07T08:35:00+00:00",
+   "title_ja": "2000万円貯めた女性が実践する節約術の紹介",
+   "summary_ja": "実際に2000万円の貯蓄を達成した女性が、日々の生活に取り入れてきた具体的な節約術を明かしています。お金との向き合い方や無理なく続けられる暮らしの工夫が学べる内容です。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -7076,263 +7293,6 @@
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
-   "importance": 3
-  },
-  {
-   "id": "8be2db3696a8a3a8",
-   "url": "https://www.roomie.jp/2026/09/1894950",
-   "title_original": "「ポケットが膨らむ」を解決。スマホを手ぶらで持ち歩く、腰に差すだけのホルダー",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/smartgearmax2.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-29T04:45:34+00:00",
-   "title_ja": "ポケットの膨らみを解決する、スマホを腰に差すホルダー",
-   "summary_ja": "スマホをポケットに入れず手ぶらで持ち歩くため、腰に差して固定するホルダーを活用している事例です。衣服の膨らみや落下を防ぐ工夫が紹介されています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "スマホ",
-    "ホルダー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "17b3c8089fcecb5d",
-   "url": "https://note.com/gunboy_ai/n/na3e019bacb5f",
-   "title_original": "Day45｜風水で「運」は変わる？——60歳、新居の「健康運・仕事運」をAIで科学する",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/318786491/rectangle_large_type_2_85a819bb8caef115ac50062b5ad6d3f4.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-29T04:15:27+00:00",
-   "title_ja": "60歳からの新居への引っ越しで、かなりの物を手放した話",
-   "summary_ja": "60歳から第二の人生を始めるため、新しい土地への引っ越しに合わせてかなりの物を処分した。新しい部屋で健康運や仕事運を高めるため、インテリアや部屋づくりを工夫している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "家具",
-    "インテリア"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "62025aa1cf761017",
-   "url": "https://note.com/lush_macaw2982/n/n4946461c28bc",
-   "title_original": "50代からの片付けは「捨てる基準」を変えるだけ！思い出の品や高価な物を手放す5つの質問",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/318781129/rectangle_large_type_2_67cd37995a2dd888948e07b966aa9c2b.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-29T03:56:34+00:00",
-   "title_ja": "50代からの片付けで思い出の品を手放す5つの質問",
-   "summary_ja": "なかなか物を捨てられない50代に向けて、思い出の品や高価な物を手放すための5つの質問を紹介。捨てる基準を変えることで、片付けを進める考え方を提案している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "ba33bde0c9d47b81",
-   "url": "https://note.com/guriko_7/n/n19e7b34f04bd",
-   "title_original": "家でのモヤっを無くす",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/318777001/rectangle_large_type_2_4bb51b6b7872c138029fcd661e0fcdd9.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-29T03:39:12+00:00",
-   "title_ja": "家でのモヤモヤを解消するミニマリストの考え方",
-   "summary_ja": "ミニマリストの本で知った「モヤっが起きたらエラーあり」という言葉をきっかけに、日常生活の中で感じる小さな違和感を無くしていく暮らしの工夫について語っている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "217c461fdb3886b2",
-   "url": "https://note.com/minimalist_mona/n/n7af033c58280",
-   "title_original": "便利そう、で買ったものほど使わなかった。",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/318750304/rectangle_large_type_2_5566703e871d018e686e8e5547d4595b.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-29T03:34:45+00:00",
-   "title_ja": "便利そうと買って使わなかった100円ショップの物",
-   "summary_ja": "100円ショップで安くて便利そうだからと購入したものの、実際にはあまり使わなかった経験から、買い物時の判断基準や物の持ち方について振り返っている。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "dbe322b9f3503ab3",
-   "url": "https://note.com/minimum_st/n/nac688e759e8c",
-   "title_original": "2026.09.29 今日のつぶやき",
-   "source": "note #ミニマリスト",
-   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/bfcbda860a69c79fb4eed1e98fba21022c02d6be.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-29T03:10:13+00:00",
-   "title_ja": "趣味にお金がかからない分、食材や日用品にこだわる暮らし",
-   "summary_ja": "手芸や読書は低コストで楽しみ、浮いた分を食費や肌着、スキンケアに回す暮らし。健康を考慮して冷凍食材の産地を見直すなど、自分なりの基準で使う物や食べ物を選んでいる。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "糸",
-    "布",
-    "肌着",
-    "スキンケア"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "595bb4180d64971f",
-   "url": "https://www.roomie.jp/2026/09/1892430",
-   "title_original": "ドライヤー2台でごちゃつくわが家。山崎実業の新作なら「洗濯機横」を使えて、目からウロコだった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/8faee6e9c337ed0580f8e2328f523cb5.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-29T03:00:00+00:00",
-   "title_ja": "ドライヤー2台のごちゃつきを山崎実業の収納で解消",
-   "summary_ja": "札幌在住のフリーライターは、2台のドライヤーが置き場に困っていたが、山崎実業の新作『洗濯機横』を活用して横に固定。床が開放され、スペースがすっきり整理整頓できた。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "ドライヤー",
-    "山崎実業の洗濯機横収納"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "1334e02da7efbb40",
-   "url": "https://www.roomie.jp/2026/09/1894054",
-   "title_original": "急須でコーヒー、ってアリかも！蓋を開けた瞬間の香りまで楽しめる信楽焼の珈琲急須",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/koga1.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-29T02:45:32+00:00",
-   "title_ja": "信楽焼珈琲急須で手間いらずのコーヒー",
-   "summary_ja": "ハンドドリップの手間と味のブレを減らすため、信楽焼の珈琲急須『香雅-』を使用。注ぎ口で抽出でき、香りも楽しめるのでシンプルな朝が実現した。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "信楽焼の珈琲急須"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2fdcfe98fcb6b81f",
-   "url": "https://note.com/anshin_cotori888/n/n25646a096b27",
-   "title_original": "拭き掃除しやすいように、できるだけぶら下げる",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/318757000/rectangle_large_type_2_b4da0c8bb26abd7216c753c2e144399e.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-29T02:35:27+00:00",
-   "title_ja": "床をすっきり保つ、吊り下げ収納のコツ",
-   "summary_ja": "掃除機がかけやすいよう、キッチンツールや掃除用具をできるだけ壁やフックに吊り下げ、床に物を置かない工夫を実践している。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "キッチンツール",
-    "掃除用具"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "7b8a7a233e0dd40b",
-   "url": "https://www.lifehacker.jp/article/machi-ya-pluspoketmega-start-974791",
-   "title_original": "出し入れの多い物は、リュックの外に出しておく。改札やレジで手が止まらない荷物の分け方",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/28/b64a4f88-76b7-4371-9c91-65f2b5b9252b/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-29T02:30:00+00:00",
-   "title_ja": "リュックのベルトに付ける着脱式ポーチで出し入れをスムーズにする工夫",
-   "summary_ja": "使用頻度の高い財布やスマホをリュックのショルダーベルトに装着できるポーチに収納し、改札やレジでスムーズに取り出す方法を紹介。取り外せばiPadも入るショルダーバッグとして単体でも活用できるため、荷物の整理や持ち歩きに役立つ。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "リュック",
-    "ポーチ",
-    "財布",
-    "スマホ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f59bb5aa20daf356",
-   "url": "https://www.aslobcomesclean.com/2026/09/the-problem-with-waiting-for-inspiration",
-   "title_original": "The Problem with Waiting for Inspiration",
-   "source": "A Slob Comes Clean",
-   "image": "https://www.aslobcomesclean.com/wp-content/uploads/2026/09/frazzled-lady-wordpress-safe.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-09-29T02:04:10+00:00",
-   "title_ja": "部屋の片付けで「やる気が出る瞬間」を待つのをやめるべき理由",
-   "summary_ja": "家を掃除する際に、突如湧き出るモチベーションに頼る問題点を指摘した記事。やる気がある時は一気に作業が進むものの、不定期なやる気を待つ習慣を見直し、気分に左右されずに片付けを進める考え方の重要性を伝えている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "33945126827bbb60",
-   "url": "https://www.lifehacker.jp/article/machi-ya-ringnote-end-966502",
-   "title_original": "中身だけ買い替えれば、ずっと使える。自分と一緒に成長する姫路革の上質ノート",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/28/a7acee54-20df-4d94-98d4-afd7b0c6cc45/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-29T01:30:00+00:00",
-   "title_ja": "用紙を入れ替えて長く使い込める姫路革のバネ式リングノート",
-   "summary_ja": "好きな用紙を自由に綴じ直せるバネ式リングを採用した、姫路革のシステムノートを紹介。中身を交換しながら永く使い続けることができ、フルタンニン鞣しのレザーカバーは使い込むほど経年変化による味わいを楽しめる。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ノート",
-    "用紙"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "984ed0570600c71c",
-   "url": "https://trilltrill.jp/articles/5062829",
-   "title_original": "『これ捨てとくね』母のメッセージに気づいた時には、２０年一緒だったぬいぐるみはもうなかった",
-   "source": "TRILL",
-   "image": "https://media.trilltrill.jp/articles/5062829/featured-image.7f5f46ed34f4e24c4cf9263eb28c6f8e?w=1200",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-29T01:20:00+00:00",
-   "title_ja": "実家の母に20年一緒だったぬいぐるみを知らぬ間に処分されていた話",
-   "summary_ja": "実家に置いていた20年連れ添ったぬいぐるみについて、母親から事後報告で捨てられたことを知らされた人のエピソード。予期せぬ形で長年の持ち物を手放すことになった実体験。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "ぬいぐるみ"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "1a29b2a528161e4c",
-   "url": "https://www.lifehacker.jp/article/machi-ya-dualmagicringpro-review2-947405",
-   "title_original": "専用スタンドはもう不要。このリングおかげで、車でもデスクでもスマホが格段に使いやすくなった",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/25/05b84dd4-e8b2-4ea2-a825-e4961218de0d/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-29T01:00:00+00:00",
-   "title_ja": "車載やデスク用スタンドを1つにまとめたマルチリングの使用感",
-   "summary_ja": "車載ホルダーや卓上スタンドなど用途別に買い足すのをやめ、「Dual Magic Ring Pro」というマグネット式スタンドを導入したレビュー。強力磁石と3軸ヒンジで1台二役をこなす愛用品。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "スマホリング",
-    "車載ホルダー",
-    "卓上スタンド"
-   ],
    "importance": 3
   }
  ]
