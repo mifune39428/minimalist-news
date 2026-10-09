@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T08:06:31.005532+09:00",
+ "updated_at": "2026-10-09T14:14:28.602265+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,41 +27,45 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-09T08:07:00.642751+09:00",
+  "generated_at": "2026-10-09T14:17:25.149712+09:00",
   "days": 3,
   "period": "10月8日〜10月9日",
   "count": 45,
-  "reduce_count": 30,
-  "own_count": 15,
-  "overview": "10月8日〜9日に収集された45件の記事では、不要な物やスペースの減らし方、日々の生活を見直す心と習慣の整え方、そして暮らしを便利にする具体的な持ち物の工夫が語られています。",
-  "reduce": "物を減らすときの迷いや基準、季節の変わり目に手放すべき場所やアイテムについての具体的な手放し方の記録が多く見られます。",
-  "own": "限られたスペースを有効活用する収納アイテムや、充電器などのガジェット、外出時に役立つ身軽な持ち物のレビューが語られています。",
+  "reduce_count": 27,
+  "own_count": 18,
+  "overview": "不要品を手放す具体的な工夫や、持ち物を厳選して身軽に暮らす実践例が多数語られています。",
+  "reduce": "ミンスゲームやフリマアプリの活用、季節の変わり目における具体的な手放し方の記録が目立ちます。",
+  "own": "重さや収納サイズを重視したガジェット選びや、最小限の衣類・道具で快適に過ごす工夫が紹介されています。",
   "points": [
    {
-    "title": "手放す基準と葛藤",
-    "body": "さらに物を減らしたいときの悩みや、高価だったりまだ使える「捨てるには惜しい」物を前にして決断できずに溜まっていく葛藤についてつづられています。"
+    "title": "ミンスゲームによる手放し",
+    "body": "日にちと同じ数のモノを手放していく片づけルール「ミンスゲーム」を実践し、7日目から9日目までの過程を記録している。"
    },
    {
-    "title": "季節や時間の片づけ術",
-    "body": "整理収納アドバイザーが提案する、10月の季節の変わり目に優先して手放すべきアイテムや、時間や気持ちに余裕がない日でもまず片づけるべき場所が紹介されています。"
+    "title": "収納サイズを考慮した道具選び",
+    "body": "自立式ハンモックやバッグの中身を整理するポーチなど、重さや収納サイズ、持ち運びやすさを重視したアイテム選びが紹介されている。イイネ。"
    },
    {
-    "title": "暮らしを整える収納と道具",
-    "body": "山崎実業のケースを活用したアイラップの収納や、サンワのクランプ付き電源タップ、純チタン製の多機能ボードなど、日常の不便を解消するアイテムが取り上げられています。"
+    "title": "暮らしの負担を減らす習慣",
+    "body": "予定やデジタル機器への依存を見直し、細かい作業や思考に奪われる時間を減らして心に余裕を持たせる習慣について語られている。"
    }
   ],
   "keywords": [
+   "ミニマリスト",
    "断捨離",
    "手放す",
    "片付け",
-   "収納",
-   "ミニマリスト"
+   "収納"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 18
+   "count": 17
+  },
+  {
+   "name": "スマホ",
+   "count": 5
   },
   {
    "name": "スマートフォン",
@@ -70,10 +74,6 @@
   {
    "name": "本",
    "count": 5
-  },
-  {
-   "name": "スマホ",
-   "count": 4
   },
   {
    "name": "iPad",
@@ -176,6 +176,10 @@
    "count": 2
   },
   {
+   "name": "小物",
+   "count": 2
+  },
+  {
    "name": "手帳",
    "count": 2
   },
@@ -185,6 +189,10 @@
   },
   {
    "name": "洋服",
+   "count": 2
+  },
+  {
+   "name": "財布",
    "count": 2
   },
   {
@@ -211,11 +219,9 @@
  "sources": [
   "A Slob Comes Clean",
   "ABEMA",
-  "AllOutdoor.com",
   "Apartment Therapy",
   "Balance Through Simplicity",
   "Be More with Less",
-  "Better Homes & Gardens",
   "Boldsky",
   "Bona Magazine",
   "Carryology",
@@ -227,14 +233,12 @@
   "Ideal Home",
   "Infoseek",
   "Irish Independent",
-  "MarketWatch",
   "MonoMax",
   "New Jersey Jewish News",
   "Nine.com.au",
   "No Sidebar",
   "ODT",
   "ROOMIE",
-  "Raptitude",
   "Real Simple",
   "Sarah Therese",
   "Simple Lionheart Life",
@@ -258,7 +262,6 @@
   "Yahoo!ニュース",
   "YouTube",
   "goodhousekeeping.com",
-  "marthastewart.com",
   "mbp-japan.com",
   "note #ミニマリスト",
   "note #少ない服で暮らす",
@@ -286,8 +289,6 @@
   "レイの小さな暮らし",
   "千葉テレビ放送株式会社",
   "小さな暮らしノート",
-  "幻冬舎plus",
-  "朝日新聞",
   "私だけミニマリスト｜南さやか",
   "筆子ジャーナル",
   "美術館・アート情報",
@@ -295,6 +296,163 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "3e6b6de47cf9b6f7",
+   "url": "https://note.com/nri_kurashi/n/n2354276de00b",
+   "title_original": "ミンスゲーム7〜9日目の話",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/322424988/rectangle_large_type_2_b538153a00d545ac235abbc54d466046.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-09T05:09:59+00:00",
+   "title_ja": "ミンスゲームで7日から9日目の片付けを進めた話",
+   "summary_ja": "日にちと同じ数のモノを手放していく片づけルール「ミンスゲーム」に取り組み、7日目から9日目までの過程を記録したブログ記事。具体的な手放し方のプロセスが綴られている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "312dfc87c4db328c",
+   "url": "https://note.com/otona_doraku/n/n2837f0d29997",
+   "title_original": "自立式ハンモックは「重さ」で後悔する｜買う前に見る2つの数字",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/322424690/rectangle_large_type_2_1580c055aeb5ea2596e91cc53d5983f9.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-09T05:02:28+00:00",
+   "title_ja": "自立式ハンモックを重さと収納サイズで選ぶべき理由",
+   "summary_ja": "キャンプ用の自立式ハンモック選びで後悔しないために、寝心地よりも「重さ」と「収納サイズ」を重視すべき理由を解説。大きなフレーム型を購入して持ち運びに苦労した失敗談をもとに、持ち運びやすさを軸にした選び方のポイントを紹介している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "自立式ハンモック"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "39d8a0d10c5ec76a",
+   "url": "https://note.com/best_lifestyle/n/na2a41443710c",
+   "title_original": "新NISAで残高12万に急減！30代育休で救われた本8選",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/322422415/rectangle_large_type_2_8ef0496cd69075b79a0646aa1cff35b0.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-09T04:52:44+00:00",
+   "title_ja": "無理な新NISA投資から家計を立て直した人の話",
+   "summary_ja": "育休中の無理な積立投資で普通預金が急減した経験から、投資の基本とキャッシュフロー管理を学び直した体験談。生活防衛資金として約150万円を最優先で確保し、積立投資を月1.5万円の身の丈に合った規模に縮小して家計を再建したプロセスを綴る。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "9074e9a6f5c53936",
+   "url": "https://note.com/tomyinorge/n/nff13a5699e9b",
+   "title_original": "ノルウェー版メルカリ Finn.noで絶賛断捨離中",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/320492476/rectangle_large_type_2_b67f808675321f8f0c2cf47b56bfc6b4.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-09T04:39:19+00:00",
+   "title_ja": "ノルウェー版メルカリFinn.noを活用した断捨離の様子",
+   "summary_ja": "自己啓発本やYouTubeの影響を受けて断捨離を決意し、ノルウェー版メルカリを利用して不要品の整理を進めている人の記録。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "368b13fb3a572d0b",
+   "url": "https://www.lifehacker.jp/article/2610-costorypo-smartphonepouch-review2-1369856999",
+   "title_original": "財布と一体化した横型スマホショルダーが最高。もうガサゴソ探さなくていい",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/10/06/b4a20a1d-4ee3-4ee5-98b9-01aadbc40f12/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-09T04:00:00+00:00",
+   "title_ja": "財布一体型の横型スマホショルダーの使い勝手と魅力",
+   "summary_ja": "スマホや現金、カードをまとめて持ち歩ける本革製の横型スマホポーチをレビュー。財布代わりとして散歩や買い物で活用している道具の紹介。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "スマホポーチ",
+    "カード",
+    "小物",
+    "財布"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "aa03cb41d3534cb2",
+   "url": "https://note.com/best_lifestyle/n/n606559ccce2f",
+   "title_original": "食器用スポンジ厳選10選｜2週間で油まみれになる悩みを解決",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/322393707/rectangle_large_type_2_379c6d54b389990777c5c610427f6729.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-09T03:00:55+00:00",
+   "title_ja": "油汚れでへたらないスポンジ選びと洗い方のコツ",
+   "summary_ja": "油汚れで2週間ほどでへたってしまう食器用スポンジの悩みを解決するため、スポンジ内部の膜構造や、油を抱き込ませない正しい洗い方の手順を紹介しています。道具選びと使い方の見直しで消耗を抑える方法です。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "スポンジ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "fa0b54b3ddd69bf2",
+   "url": "https://www.goodhousekeeping.com/home/organizing/a74085815/things-to-declutter-before-halloween",
+   "title_original": "10 Things to Declutter Before Halloween, According to Home Editors",
+   "source": "Good Housekeeping",
+   "image": "https://hips.hearstapps.com/hmg-prod/images/7442bb9a-6634-47e5-9a79-ee41fc1fa6c8.jpeg?crop=0.888888888889xw:1xh;center,top&resize=1200:*",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-09T00:57:04+00:00",
+   "title_ja": "ハロウィン前に自宅で手放すべき10のアイテム",
+   "summary_ja": "自宅のインテリアや収納をすっきりさせるために、ハロウィンを迎える前段階で見直して手放すべき10のアイテムをホームエディターが解説しています。季節の変わり目に合わせた片づけのヒントになる内容です。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "d7f8dd480d963444",
+   "url": "https://www.roomie.jp/2026/10/1901371",
+   "title_original": "パカッと開いて中身が見やすい。取り出しやすさにこだわった3WAYポーチ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/d2dpouchv21.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-09T00:45:00+00:00",
+   "title_ja": "バッグの中身を整理しやすい3WAYポーチの紹介",
+   "summary_ja": "バッグの中で迷子になりがちな小物をすっきりと収納し、スムーズに取り出せる「D2D Pouch V2」を取り上げています。絶妙なサイズ感でポケットを拡張し、身軽な移動を叶えてくれる便利なアイテムの仕様を紹介しています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "D2D Pouch V2",
+    "スマホ",
+    "カギ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c238f0941383b5d8",
+   "url": "https://minimalist-fudeko.com/unnoticed-tasks",
+   "title_original": "予定を減らしてもまだ忙しい人が、気づかずにやっていること",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/09/checking-schedule.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-09T00:10:05+00:00",
+   "title_ja": "予定を減らしても忙しい人が無意識にやっていること",
+   "summary_ja": "予定や断れる用事を減らしたにもかかわらず、依然として忙しさに追われている人の特徴について解説しています。本人は気づかないうちに細かい作業や思考に時間を奪われている可能性を指摘し、暮らしの見直しを促しています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "c0a38168e784edac",
    "url": "https://note.com/ck_wordwriter/n/n2721fcfa4823",
@@ -459,6 +617,24 @@
    "axis": "own",
    "things": [
     "サンワ クランプ電源タップ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "2ca8557bd8de2146",
+   "url": "https://monomax.jp/archives/365338",
+   "title_original": "【究極のギミック服】作業着の概念が覆る！8ポケット＆短パンになるミズノの「本格テックウェア」が優秀。季節の変わり目の最適解をスタイリストが徹底解説",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2026/10/SH_F2JED36055_00-e1791437479965.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-08T13:00:37+00:00",
+   "title_ja": "8つのポケットと短パンになるミズノのテックウェア",
+   "summary_ja": "作業着の概念を変える、8つのポケットを備え短パンにも変形するミズノの本格テックウェア。季節の変わり目に重宝する機能的な服としてスタイリストが解説している。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "ミズノのテックウェア"
    ],
    "importance": 3
   },
@@ -655,6 +831,24 @@
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
+   "importance": 3
+  },
+  {
+   "id": "f78ffd9a214ab7ec",
+   "url": "https://monomax.jp/archives/365818",
+   "title_original": "【大人の休日バッグの最適解】ブリーフィング名作「デイトリッパー」20周年限定モデル！サイズ＆素材のアプデ版を編集部が徹底解説",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2026/10/260810-154040_11zon-scaled-e1791434298883.jpeg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-08T11:00:14+00:00",
+   "title_ja": "ブリーフィング「デイトリッパー」20周年限定モデルの解説",
+   "summary_ja": "発売から20年を迎えたブリーフィングの名作バッグ「デイトリッパー」の限定モデルについて、サイズや素材のアップデートポイントを編集部が徹底解説している。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "デイトリッパー"
+   ],
    "importance": 3
   },
   {
@@ -7113,195 +7307,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
-  },
-  {
-   "id": "511dd532f9dd4bf7",
-   "url": "https://www.bhg.com/attic-storage-items-to-toss-12067376",
-   "title_original": "7 Things in Your Attic You Should Probably Toss Right Now",
-   "source": "Better Homes & Gardens",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-29T23:46:00+00:00",
-   "title_ja": "屋根裏の7つの不要品、今すぐ処分すべき理由",
-   "summary_ja": "Better Homes & Gardens が、屋根裏にある7つの不要品を今すぐ処分すべきと提案。具体的な品目は不明だが、整理のヒントになる。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "b4b857f5f9f2e4c5",
-   "url": "https://www.asahi.com/and/w/article/16912105",
-   "title_original": "6畳1Kの夫婦二人暮らし。ユニクロの290円靴下でも、色を選べば迷わない「おしゃれ見え」が実現する。",
-   "source": "朝日新聞",
-   "image": "https://p.potaufeu.asahi.com/1545-p/picture/31364139/93e42faf8263a9311388dbebee7d59f9.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-29T23:16:15+00:00",
-   "title_ja": "6畳1K夫婦暮らしでユニクロ靴下だけでおしゃれ見え",
-   "summary_ja": "6畳の1Kに住む夫婦が、ユニクロの290円靴下を色選びだけでおしゃれに見せるコツを紹介。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "ユニクロの靴下"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "9fe5732f9c9aba76",
-   "url": "https://www.raptitude.com/2026/09/reality-only-takes-yes-for-an-answer",
-   "title_original": "Reality Only Takes Yes for an Answer",
-   "source": "Raptitude",
-   "image": "https://www.raptitude.com/wp-content/uploads/2026/09/icecreamground.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-09-29T22:04:02+00:00",
-   "title_ja": "正しい行動を起こす瞬間の心境の変化",
-   "summary_ja": "正しいと気づいた行動を起こすまでの間に生じる心の葛藤や、ふとした瞬間の行動について語っているエッセイ。生活や習慣を見つめ直す気づきが得られる内容。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "83d1c131422a808c",
-   "url": "https://news.livedoor.com/topics/detail/32445815",
-   "title_original": "捨て魔にとっては花を飾るのもNO！洗面所は掃除のしやすさが最優先【ミニマリストの暮らし】 (2026年9月30日掲載)",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-29T22:00:34+00:00",
-   "title_ja": "洗面所は花なし、掃除しやすさが最優先",
-   "summary_ja": "ミニマリストは洗面所に花を飾らず、シンプルに保つことで掃除の手間を減らす方針を示している。実践例として装飾を排除し、清掃しやすいレイアウトを選んでいる。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "436f1359d49a1818",
-   "url": "https://note.com/precious_days_/n/n8ccfaf618229",
-   "title_original": "片づいてないことを隠すその工夫、実は逆効果です",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/319042909/rectangle_large_type_2_fa6c514a4f9fb4c6711b42eabb1222b5.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-29T21:49:55+00:00",
-   "title_ja": "片づいてないことを隠す工夫が逆効果になる理由",
-   "summary_ja": "片づけサポートの経験を持つコンサルタントが、散らかった状態を隠そうとする工夫がかえって逆効果になる理由について語っている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "92df4df685b35f57",
-   "url": "https://www.lifehacker.jp/article/2609-amazon-yamazaki-raincoatbag",
-   "title_original": "急な雨にもう慌てない。自転車にレインコートを常備できる収納バッグがガチで便利だった",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/29/c3ae4cef-9ee8-47fe-b73b-42fa705c4e82/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-29T21:30:00+00:00",
-   "title_ja": "自転車に取り付けるレインコート収納バッグの実体験レビュー",
-   "summary_ja": "山崎実業の自転車取り付け用レインコート収納バッグを実際に使い、雨の日でもコートを手軽に常備できる便利さを体感。取り付け方法や折りたたみ時のコンパクトさ、雨具サイズとの相性まで詳しくレビューしている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "レインコート収納バッグ",
-    "山崎実業"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "753a13d24ee932ce",
-   "url": "https://note.com/metastyle/n/ne57ec1d14fe1",
-   "title_original": "アイリスオーヤマの収納スツールで、箱と椅子を一つに",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/319037403/rectangle_large_type_2_6418773d5a90431353c9b07f19b6950c.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-09-29T21:23:37+00:00",
-   "title_ja": "Iris O.の収納スツールで箱と椅子を一体化",
-   "summary_ja": "Irisオーヤマの収納スツールは、蓋付きボックスと椅子が合体した家具で、季節外れのひざ掛けや延長コードなどを見えないように収納でき、部屋の隅に1つ置くだけで座りながら整理できる実用性を紹介する。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "収納スツール",
-    "Irisオーヤマ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "6326f70a832583f6",
-   "url": "https://www.gentosha.jp/article/29695",
-   "title_original": "「最後は子どもの意見にしたがうべき」89歳の医学者が語る、家族を困らせない終活と片付けの心得",
-   "source": "幻冬舎plus",
-   "image": "https://img.gentosha.jp/_p_uploads_/article/1790233760_rectangle_icon.jpg?p=ogp",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-09-29T21:00:00+00:00",
-   "title_ja": "89歳医学者が語る、家族に負担かけない片付けと終活のコツ",
-   "summary_ja": "89歳の医学者が、子どもの意見を最優先にしつつ、家族に負担をかけない終活や不要品の整理方法、心構えを具体的に語っている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "c88275d9ed0515e9",
-   "url": "https://www.marketwatch.com/story/my-kids-dont-want-my-decades-worth-of-stuff-heres-how-im-learning-to-let-go-of-it-74f91da6",
-   "title_original": "My kids don’t want my decades’ worth of stuff. Here’s how I’m learning to let go of it.",
-   "source": "MarketWatch",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-29T19:02:00+00:00",
-   "title_ja": "子どもが欲しがらない自分の持ち物を手放す学び",
-   "summary_ja": "自分が何十年も溜めた持ち物が子どもに必要とされず、手放す過程とその心の変化、実践的なステップを語る。具体的に何を残し、何を処分したか、感情的な葛藤と向き合う方法を共有している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "416ebe0575076d27",
-   "url": "https://www.marthastewart.com/wardrobe-pieces-to-never-declutter-12146097",
-   "title_original": "7 Clothing Items You’ll Regret Decluttering, According to Stylists",
-   "source": "marthastewart.com",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-29T18:00:00+00:00",
-   "title_ja": "スタイリストが教える、手放して後悔しがちな服",
-   "summary_ja": "スタイリストの意見をもとに、断捨離したあとに後悔しがちである衣類の特徴や、手放す際の注意点について解説しています。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "服"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "64994b9c456aad79",
-   "url": "https://www.alloutdoor.com/2026/09/29/vertx-urban-ghost-36l-weekender-dopp-pouch",
-   "title_original": "Vertx Urban Ghost 36L Weekender, DOPP Kit & Utility Pouch",
-   "source": "AllOutdoor.com",
-   "image": "https://www.alloutdoor.com/wp-content/uploads/2026/09/DSC07798.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-09-29T15:00:17+00:00",
-   "title_ja": "ヴェルテックスのウィークエンダーやポーチ類",
-   "summary_ja": "VertxのUrban Ghost 36Lウィークエンダー、DOPPキット、ユーティリティポーチといった製品についての紹介記事です。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ウィークエンダー",
-    "ポーチ"
-   ],
-   "importance": 2
   }
  ]
 }
