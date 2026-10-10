@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T21:08:44.688726+09:00",
+ "updated_at": "2026-10-11T06:21:28.324073+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,35 +27,39 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-10T21:11:05.829535+09:00",
+  "generated_at": "2026-10-11T06:22:24.853452+09:00",
   "days": 3,
-  "period": "10月10日〜10月10日",
+  "period": "10月10日〜10月11日",
   "count": 45,
-  "reduce_count": 28,
-  "own_count": 17,
-  "overview": "物理的な持ち物だけでなく、スマホのデータやSNSの人間関係、古い固定観念まで見直し、手放すための具体的な手順や工夫が幅広く語られています。",
-  "reduce": "一度に全てを片付けようとする「オールオアナッシング」を避け、保留ボックスや段階的な手順を用いて無理なく不用品を手放す工夫が語られています。",
-  "own": "キッチンやデスク周りなどの収納を整えるグッズの活用法や、厳選した道具や日用品を長く大切に使うための視点が紹介されています。",
+  "reduce_count": 29,
+  "own_count": 16,
+  "overview": "物は減らすだけでなく、掃除の効率化やデジタル・固定費の見直しといった日々の暮らしや思考の整理に関する話題が多く見られます。",
+  "reduce": "物を手放す基準や部屋別の段階的な片付け手順、売却やリサイクルといった具体的な処分方法に関する実践的な工夫が語られています。",
+  "own": "厳選したガジェットや日用品の活用により利便性や快適さを高めつつ、防災や収納の工夫を取り入れる実例が紹介されています。",
   "points": [
    {
-    "title": "デジタルと人間関係の整理",
-    "body": "スマホに溜まりがちなスクリーンショットや約1,000人のSNSのフォローを解除した体験を通じ、デジタル空間の情報や人間関係を整理する試みが語られています。"
+    "title": "掃除や家事の効率化",
+    "body": "物を減らすことで週末の拭き掃除が短時間で終わるようになったり、生ごみ処理機を導入して毎日のゴミ出しの負担を軽減させたりする工夫が紹介されています。"
    },
    {
-    "title": "手放す際の心理的ハードル",
-    "body": "捨てられない時に30日間の猶予を設ける保留ボックスの活用法や、勢いで捨てて後悔した失敗談から、モノを手放す際の判断基準や心の葛藤が綴られています。"
+    "title": "手放す際の工夫と処分",
+    "body": "捨てられない時に30日間の猶予を持たせる保留ボックスの活用法や、リサイクル店で受け付けない品目の処分方法など、手放す際の具体的なステップが語られています。"
    },
    {
-    "title": "固定観念や思考の断捨離",
-    "body": "物だけでなく「石の上にも3年」といった時代に合わなくなった古い価値観や、節約してもお金の不安が消えない思考の癖を見直す動きが取り上げられています。"
+    "title": "デジタルや固定費の見直し",
+    "body": "通信費削減のためのインターネット回線の見直しや、SNSのフォロワーを一斉解除して情報量を整理するなど、デジタル環境や固定費をすっきりさせる取り組みが見られます。"
+   },
+   {
+    "title": "厳選された持ち物の活用",
+    "body": "同じワンピースを10着揃えて服選びの負担を減らす例や、あえてAirPodsを2台持ちして利便性を追求するなど、こだわりを持った所有スタイルが語られています。"
    }
   ],
   "keywords": [
-   "断捨離",
    "ミニマリスト",
+   "断捨離",
+   "片付け",
    "収納",
-   "手放す",
-   "固定観念"
+   "手放す"
   ]
  },
  "things": [
@@ -72,8 +76,8 @@
    "count": 5
   },
   {
-   "name": "iPad",
-   "count": 3
+   "name": "冷蔵庫",
+   "count": 4
   },
   {
    "name": "イヤホン",
@@ -96,11 +100,11 @@
    "count": 3
   },
   {
-   "name": "充電ケーブル",
+   "name": "ワンピース",
    "count": 3
   },
   {
-   "name": "冷蔵庫",
+   "name": "充電ケーブル",
    "count": 3
   },
   {
@@ -112,15 +116,15 @@
    "count": 3
   },
   {
+   "name": "iPad",
+   "count": 2
+  },
+  {
    "name": "iPhone",
    "count": 2
   },
   {
    "name": "アプリ",
-   "count": 2
-  },
-  {
-   "name": "コンバース",
    "count": 2
   },
   {
@@ -164,18 +168,6 @@
    "count": 2
   },
   {
-   "name": "モバイルバッテリー",
-   "count": 2
-  },
-  {
-   "name": "ワンピース",
-   "count": 2
-  },
-  {
-   "name": "上着",
-   "count": 2
-  },
-  {
    "name": "加湿器",
    "count": 2
   },
@@ -188,15 +180,11 @@
    "count": 2
   },
   {
-   "name": "洋服",
+   "name": "調味料",
    "count": 2
   },
   {
    "name": "財布",
-   "count": 2
-  },
-  {
-   "name": "鍋",
    "count": 2
   },
   {
@@ -209,10 +197,6 @@
   },
   {
    "name": "電源タップ",
-   "count": 2
-  },
-  {
-   "name": "革靴",
    "count": 2
   },
   {
@@ -237,7 +221,7 @@
   "Infoseek",
   "Irish Independent",
   "MonoMax",
-  "New Jersey Jewish News",
+  "NZ Herald",
   "News.com.au",
   "Nine.com.au",
   "No Sidebar",
@@ -259,7 +243,6 @@
   "The Times of India",
   "The Washington Post",
   "Unisba Media",
-  "WDTN.com",
   "WEBザテレビジョン",
   "Woman & Home",
   "Wrexham and Flintshire News, Sport, Events | The Leader",
@@ -273,7 +256,6 @@
   "note #少ない服で暮らす",
   "note #持たない暮らし",
   "note #断捨離",
-  "realsimple.com",
   "t.co",
   "うにのゆるシンプルな暮らし",
   "ねとらぼ",
@@ -300,6 +282,211 @@
  "count": 400,
  "items": [
   {
+   "id": "92e4c010a858de4c",
+   "url": "https://note.com/hapiko_adhd/n/nc976423a8888",
+   "title_original": "ハピ子の秘密。同じワンピースを○着持っています",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/321441837/rectangle_large_type_2_67d135914221e05bad1021de083e2bcd.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-10T21:14:44+00:00",
+   "title_ja": "ADHDの当事者が同じワンピースを10着揃えて暮らす理由",
+   "summary_ja": "毎日を快適に過ごす工夫として、デザインも色も全く同じワンピースを10着持っているという実例。服を選ぶ手間や選択の負担を減らし、日々の生活を楽にするためのミニマリストの取り組みが紹介されている。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "ワンピース"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e08c61981965107d",
+   "url": "https://www.youtube.com/shorts/wz6X8NvXmmU",
+   "title_original": "3歳児がいても土曜日は１０分 綺麗を保つ拭き活 #掃除 #ミニマリスト #シングルマザー",
+   "source": "小さな暮らしノート",
+   "image": "https://i4.ytimg.com/vi/wz6X8NvXmmU/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-10-10T21:06:16+00:00",
+   "title_ja": "物を減らして掃除を短時間で終わらせる土曜日の拭き掃除習慣",
+   "summary_ja": "物を減らしたことで掃除がシンプルになり、週末の拭き掃除が10分で済むようになった暮らしの様子。お風呂の防カビ対策や洗濯槽掃除など、部屋をきれいに保ちつつ心の余白を作るコツが語られている。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "6449035d269784eb",
+   "url": "https://thesimplicityhabit.com/avoid-common-minimalism-mistakes-for-a-simplified-life",
+   "title_original": "Avoid These 9 Common Minimalism Mistakes for a Simplified Life",
+   "source": "The Simplicity Habit",
+   "image": "https://thesimplicityhabit.com/wp-content/uploads/2025/02/horizontal-blog-post-2025-02-01T122017.264-1024x683.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-10T21:00:16+00:00",
+   "title_ja": "シンプルな暮らしを目指す時に避けたいミニマリズムの9つの失敗",
+   "summary_ja": "散らかりやストレスを減らし、本当に大切なことに集中するためのミニマリズムの実践において、よくある9つの失敗例を紹介。無駄な時間やお金、エネルギーの消費を防ぎながらシンプルな暮らしを目指す助けになる。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "149a98008c7457ad",
+   "url": "https://note.com/180days_project/n/n0b2894a31a84",
+   "title_original": "あと171日。ミニマリストがAirPodsを2台持ちする理由。",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/323005326/rectangle_large_type_2_905aed0bbbdc618c62d6c6f9d3770522.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-10T20:42:14+00:00",
+   "title_ja": "あえてAirPodsを2台所有して暮らすミニマリストの考え",
+   "summary_ja": "物を厳選して暮らすミニマリストが、ワイヤレスイヤホンのAirPodsをあえて2台持ちしている理由について解説。単に物を減らすだけでなく、自分の生活における利便性を追求した所有スタイルが紹介されている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "AirPods"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "342fb8334d6af2c9",
+   "url": "https://note.com/life2go/n/nc8368a8315c8",
+   "title_original": "終活-420 本業は、折り返しが見えましたよ・TAFT でお買い物。 ・.・//🍀",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/323001827/rectangle_large_type_2_3b1483d384b58bd89176ba3ca4681938.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-10T20:24:12+00:00",
+   "title_ja": "朝活で環境を整え、断捨離を再開した人の記録",
+   "summary_ja": "室温23.9度の朝から掃除や買い物をこなし、きれいな環境を目指して断捨離を再び進めている人の日常の記録。日々の家事や作業の合間に少しずつ片付けを継続している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "d48da4c672f7132a",
+   "url": "https://www.nzherald.co.nz/business/personal-finance/facebook-marketplace-lessons-decluttering-cash-and-the-psychology-of-spending-nadine-higgins/premium/NNMGEZSYEVAQ5P4HPQ4GON3W3U",
+   "title_original": "The surprising lesson I learned from selling my clutter",
+   "source": "NZ Herald",
+   "image": "https://www.nzherald.co.nz/resizer/v2/2YCU2S232BEORJMBQTD63DQ5IA.jpg?auth=e610adfb6decd0a35b65a041d1abe3f4fbad85088ae2bca01ede3db50e03280b&width=1200&height=675&quality=70&focal=1045%2C350&smart=false",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-10T20:01:53+00:00",
+   "title_ja": "不要品を売却して驚きの気づきを得た人の話",
+   "summary_ja": "自宅の不用品を売却した経験を通じて、物を手放すことに関する意外な学びや心境の変化を得たことをつづっている。ものを減らす過程での気づきに焦点を当てた内容。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "23a8fdb329c6a109",
+   "url": "https://note.com/open_eel7440/n/ndd84f2f9ce71",
+   "title_original": "忙しいあなたへ！ミニマリスト整理術で毎日が快適に",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/322983146/rectangle_large_type_2_af4de1c72990ca5d9e189827443f77b0.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-10T16:23:23+00:00",
+   "title_ja": "忙しい人向けミニマリスト整理術の紹介",
+   "summary_ja": "片付けても続かないという悩みを抱える人向けに、ミニマリスト流の整理術を提案し、具体的なステップや続けやすいルーティン、不要品の見極め基準を示すことで、日々の快適さを高める方法を紹介している。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "5e84ab6227db66f6",
+   "url": "https://www.youtube.com/watch?v=3jNQQiKxRE4",
+   "title_original": "【捨て活】ルームツアーしながら いらない物を全部捨てる｜玄関・キッチン・冷蔵庫｜30代一人暮らし（前編）",
+   "source": "うにのゆるシンプルな暮らし",
+   "image": "https://i4.ytimg.com/vi/3jNQQiKxRE4/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-10-10T13:29:06+00:00",
+   "title_ja": "ルームツアーで見つけた不要品を捨てる様子（前編）",
+   "summary_ja": "30代一人暮らしの主がルームツアーしながら玄関・靴箱・キッチン・冷蔵庫の不要品を手に取り『本当に使っているか』を検証し、期限切れの調味料や『いつか使うかも』で残したものを処分した様子を紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "靴箱",
+    "キッチン",
+    "冷蔵庫",
+    "調味料"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "ef7960f55663c5c0",
+   "url": "https://www.lifehacker.jp/article/2610-lht-mont-bell-camerabag",
+   "title_original": "「さすがモンベル！」な3WAYカメラバッグで、持ち歩きがぐっと気軽に",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/10/08/5923e451-db90-4457-aa96-e94905ec4d5f/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-10T13:15:00+00:00",
+   "title_ja": "モンベルの3WAYカメラバッグを実際に使ってみた感想",
+   "summary_ja": "モンベルのドライ カメラバッグ Sは、ショルダー、ポーチ、バッグの3形態で使える多機能性とファッション性を兼ね備えており、実際に使用した感想と持ち歩きの利便性をレポートしている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ドライ カメラバッグ S"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "cdc7c6016a50d39e",
+   "url": "https://www.apartmenttherapy.com/i-put-a-spice-rack-in-my-tiny-shower-and-it-s-brilliant-37694363",
+   "title_original": "I Put a Spice Rack in My Bathroom, and It Tripled the Storage",
+   "source": "Apartment Therapy",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-10T12:52:17+00:00",
+   "title_ja": "スパイスラックを浴室に設置で収納量が3倍に",
+   "summary_ja": "スパイスラックを浴室に設置した結果、収納量が3倍に増え、限られたスペースを有効活用した事例として紹介されている。この工夫は、ミニマルな暮らしを目指す人にとって、意外な場所に収納アイテムを活用するヒントとなる。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "スパイスラック"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d75599567f0a8e72",
+   "url": "https://www.southernliving.com/things-declutter-every-sunday-12153388",
+   "title_original": "7 Things You Should Always Declutter Before Monday",
+   "source": "Southern Living",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-10T12:40:00+00:00",
+   "title_ja": "月曜を迎える前に片づけておきたい7つのもの",
+   "summary_ja": "週末の終わりにすっきりと新しい1週間を迎えるため、自宅の中で優先して整理や手放しをしておくべき7つの対象について紹介しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "e9a7431e2691e139",
+   "url": "https://www.thespruce.com/things-to-sell-instead-of-toss-12159867",
+   "title_original": "Don’t Toss These 7 Common Household Items—They Could Sell for More Than You Think",
+   "source": "The Spruce",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-10T12:13:00+00:00",
+   "title_ja": "捨てずに売るべき身の回りの7つの日用品",
+   "summary_ja": "自宅で処分してしまいがちな日用品の中で、意外と高値で売却できる可能性がある7つのアイテムについて解説している海外記事です。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "0299e35d34b9621b",
    "url": "https://www.washingtonpost.com/home/2026/10/06/this-organizing-method-can-do-more-harm-than-good",
    "title_original": "All-or-nothing organizing can backfire. Here’s why.",
@@ -313,6 +500,24 @@
    "category": "心・習慣",
    "axis": "reduce",
    "things": [],
+   "importance": 3
+  },
+  {
+   "id": "30f0e47462408916",
+   "url": "https://www.roomie.jp/2026/10/1902031",
+   "title_original": "〆の雑炊まで楽しむ派。焦げ付きを落としやすいKEYUCAの新作土鍋なら洗い物がラクになりそう",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/261009_keyucadonabe_eye.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-10T12:00:52+00:00",
+   "title_ja": "洗い物がラクになるKEYUCAの新作土鍋",
+   "summary_ja": "焦げ付きを落としやすく、〆の雑炊まで手軽に楽しめるKEYUCAの新作土鍋を紹介。日々のキッチンでの手間を減らす道具として活躍します。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "土鍋"
+   ],
    "importance": 3
   },
   {
@@ -567,6 +772,38 @@
    "importance": 3
   },
   {
+   "id": "367f3ff2ba483e67",
+   "url": "https://balancethroughsimplicity.com/minimalist-principles",
+   "title_original": "9 Minimalist Principles That Have Nothing to Do With Your Stuff",
+   "source": "Balance Through Simplicity",
+   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2026/10/9-Minimalist-Principles-3-683x1024.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-10T09:36:47+00:00",
+   "title_ja": "物を減らすだけではないミニマリズムの9の原則",
+   "summary_ja": "片付けや物の数を減らすこと以外にも、時間やエネルギー、日々の選択に意識を向けて心穏やかな暮らしを作るための9つの原則。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "3960da5e90c02f96",
+   "url": "https://balancethroughsimplicity.com/meal-rotation",
+   "title_original": "Meal Rotation: A Simple Trick to Make Meal Planning Easier",
+   "source": "Balance Through Simplicity",
+   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2026/10/Meal-Rotation-3-683x1024.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-10T09:30:14+00:00",
+   "title_ja": "毎日の食事作りを楽にする献立ローテーションのコツ",
+   "summary_ja": "毎週ゼロから献立を考えるのをやめ、常備食材で作る簡単な料理を組み合わせる方法。服のコーディネートのように選択肢を持ち、考える負担を減らします。",
+   "category": "キッチン・食",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "a767676bb98b1f3a",
    "url": "https://trilltrill.jp/articles/5062038",
    "title_original": "『2,000万円貯めた節約YouTuber』が明かす…もっと早くやれば“節約になったコト”に「後悔」「今すぐ役立ててください」",
@@ -599,6 +836,22 @@
     "2層式ショルダーバッグ"
    ],
    "importance": 2
+  },
+  {
+   "id": "7b83c554b0940c91",
+   "url": "https://nosidebar.com/slowing-down-productive",
+   "title_original": "11 Reminders That Slowing Down Can Be the Most Productive Thing You Do",
+   "source": "No Sidebar",
+   "image": "https://nosidebar.com/wp-content/uploads/slower-down.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-10T08:00:00+00:00",
+   "title_ja": "スピードを緩めることが生産的になる理由と気づき",
+   "summary_ja": "常に速く動き多くのことをこなそうとする生活から離れ、ペースを落とすことの大切さを説く記事。疲弊した日常を見直し、立ち止まる意味を考えます。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
   },
   {
    "id": "e9aaf8d8c860961b",
@@ -7054,287 +7307,6 @@
    "published": "2026-10-01T22:18:14+00:00",
    "title_ja": "断捨離を進める中で思わぬ収穫があった話",
    "summary_ja": "断捨離をしていると天からの贈り物のように思わぬ収穫があるという話を懐疑的に捉えつつ、実際に自分にも同じような出来事が起こったことを綴っている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "f679562056009d0f",
-   "url": "https://www.roomie.jp/2026/10/1895208",
-   "title_original": "アウトドア珈琲好きに朗報！クッカーや鍋に取り付ける「スキッター」のおかげでお湯をこぼさないようになりました",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/rm260929_2.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-01T22:00:51+00:00",
-   "title_ja": "アウトドアでのコーヒー淹れを快適にする注ぎ口",
-   "summary_ja": "キャンプやアウトドアでのドリップコーヒーにお湯を注ぐ際、クッカーや鍋からお湯が溢れる悩みをZEN Campsのスキッターで解決した話。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "スキッター",
-    "シェラカップ",
-    "鍋"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "95d6eec71c354781",
-   "url": "https://news.livedoor.com/article/detail/32467575",
-   "title_original": "使いやすさより、猫優先！こだわりの仕事椅子【ミニマリストの暮らし】",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-01T22:00:14+00:00",
-   "title_ja": "猫優先の仕事椅子でミニマリスト生活",
-   "summary_ja": "ミニマリスト向けに設計された仕事椅子は、使いやすさよりも猫が快適に座れることを重視し、シンプルなデザインと機能性で部屋の空間を無駄にしない選択肢として注目されている。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "仕事椅子"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "6df78fadcd3193a3",
-   "url": "https://note.com/yuukhi_/n/nbbafd77fb08b",
-   "title_original": "ep.45 本当の「好き」に出会う方法",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/317240021/rectangle_large_type_2_3f57a67999b7f4856ac38c5ecef47fb0.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-01T21:56:23+00:00",
-   "title_ja": "買い物の失敗を防ぐために本当に好きなモノを見つける方法",
-   "summary_ja": "情報が溢れる中で他人の影響に流されず、自分が本当に好きなモノを見つける大切さを綴った記事。自分の「好き」を明確にすることで、買い物の失敗が減り自分軸がはっきりする。筆者が日頃から心がけている、モノにフォーカスした自分軸の見つけ方を紹介している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "d096372be66c1e74",
-   "url": "https://t.co/RdRhg2WAgC",
-   "title_original": "シャンプー選びで危機一髪｜くしな｜6畳の心地よい暮らし",
-   "source": "t.co",
-   "image": "https://assets.st-note.com/production/uploads/images/318997400/rectangle_large_type_2_d7da193d724e981bbe1204dcb6b50eb7.png?fit=bounds&quality=85&width=1280",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-01T21:00:00+00:00",
-   "title_ja": "6畳の部屋で心地よく暮らす人のシャンプー選びのエピソード",
-   "summary_ja": "6畳の部屋で心地よい暮らしを実践する投稿者が、シャンプー選びで経験した出来事について綴った記事。シンプルライフにおける日用品選びのこだわりや、失敗しかけたエピソードが紹介されている。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "シャンプー"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "fae996d7ac33c105",
-   "url": "https://note.com/metastyle/n/n4089db2f3a75",
-   "title_original": "充電器と電池を1つに。エレコムの3in1バッテリー",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/319775840/rectangle_large_type_2_1060f18ab6b7d64883c76ad6bafb9060.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-01T20:38:02+00:00",
-   "title_ja": "カバンの中をすっきりさせる充電器一体型モバイルバッテリー",
-   "summary_ja": "外出時に充電器やケーブルが見つからないという悩みを解決する、エレコムの3in1バッテリーを紹介。充電器とモバイルバッテリーが1つにまとまることで、持ち歩くケーブル類を減らし、カバンの中をシンプルに整理できる。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "モバイルバッテリー",
-    "充電器",
-    "ケーブル"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "29fce933ef0bf922",
-   "url": "https://www.wdtn.com/living-dayton/fall-decluttering-with-junk-king-dayton",
-   "title_original": "Fall Decluttering with Junk King Dayton",
-   "source": "WDTN.com",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-01T19:16:15+00:00",
-   "title_ja": "秋の片づけを専門業者と一緒に進める方法を紹介したニュース",
-   "summary_ja": "不用品回収業者「Junk King Dayton」とともに、秋の季節に行う片づけや不用品の処分について取り上げたニュース。家の中を整理し、不要なものを手放して暮らしをすっきりさせるためのヒントを提案している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "76788c97fc7d592d",
-   "url": "https://njjewishnews.timesofisrael.com/pbs-star-author-talks-about-downsizing",
-   "title_original": "PBS star, author talks about downsizing",
-   "source": "New Jersey Jewish News",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-01T18:43:50+00:00",
-   "title_ja": "PBSのスターがダウンサイジングについて語る",
-   "summary_ja": "テレビ番組の出演者であり著者でもある人物が、生活のダウンサイジングや物の整理について語ったインタビュー記事。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "c3b7148965386760",
-   "url": "https://www.housebeautiful.com/lifestyle/organizing-tips/a73981438/october-decluttering-organizing-tips",
-   "title_original": "7 Things Pro Organizers Say You Should Throw Out in October",
-   "source": "House Beautiful",
-   "image": "https://hips.hearstapps.com/hmg-prod/images/cardboard-box-with-halloween-decorations-inside-the-royalty-free-image-1759325662.pjpeg?crop=0.753xw:0.565xh;0.181xw,0.0144xh&resize=1200:*",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-01T17:54:15+00:00",
-   "title_ja": "プロの整理整頓アドバイザーが10月に手放すべきと勧める7つのアイテム",
-   "summary_ja": "整理整頓のプロが10月に処分を推奨する7つのアイテムを紹介する記事。秋の模様替えや季節の変わり目にあわせて部屋の中を見直し、不要な物を取り除いて住まいをすっきりと整えるためのアドバイスがまとめられている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "1e9292ec8c92b358",
-   "url": "https://www.youtube.com/watch?v=5q54_DTgwhk",
-   "title_original": "I Feel Sad. So Let’s Declutter.",
-   "source": "The Minimal Mom",
-   "image": "https://i2.ytimg.com/vi/5q54_DTgwhk/hqdefault.jpg",
-   "media": "youtube",
-   "region": "海外",
-   "published": "2026-10-01T17:07:28+00:00",
-   "title_ja": "落ち込んだ気分を片付けで解消しようとする試みの紹介",
-   "summary_ja": "落ち込んだり悲しい気分になったりしたときに、片付けに取り組む様子を記録した動画。不要な物を減らして空間を整えることで、心や感情を落ち着かせ、気持ちを前向きに切り替えていくプロセスを紹介している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "8ebaa82d9da683ae",
-   "url": "https://nosidebar.com/less-ai-and-more-you-and-i",
-   "title_original": "Less AI and More You and I",
-   "source": "No Sidebar",
-   "image": "https://nosidebar.com/wp-content/uploads/kelly-sikkema-xcvXS6wDCAY-unsplash11-scaled.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-01T14:00:00+00:00",
-   "title_ja": "AIやSNSへの依存を減らし対人関係を大切にするデジタルミニマリズム",
-   "summary_ja": "AIやSNSが社会や人に与える影響への懸念を示し、過剰なテクノロジーの使用を減らすことを提案する記事。デジタル技術への依存から離れ、人と人とのリアルな関わりやシンプルな暮らしに意識を向ける重要性を伝えている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "870eef8100a4fecd",
-   "url": "https://www.roomie.jp/2026/10/1895957",
-   "title_original": "上着も革靴も、晴れた日にひと吹き。高めの防水スプレーを選ぶ意味は？",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/1-36.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-01T13:45:05+00:00",
-   "title_ja": "上着と革靴を守るハイクラス防水スプレーの選び方",
-   "summary_ja": "雨の日でも上着や革靴をそのまま履けるよう、LOCTITEのハイスペック防水スプレーを試した結果、撥水効果で汚れが付きにくくなり、予備の服や靴を減らせたと報告しています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "LOCTITE防水スプレー",
-    "上着",
-    "革靴"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "d52c5247d30e82a6",
-   "url": "https://www.lifehacker.jp/article/2610-lht-logicool-mobi-fold-review",
-   "title_original": "入れっぱなしの安心感。iPadでの外作業のテンポを上げてくれた、ロジクールの折りたたみマウス",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/10/01/de57c87b-56cf-4e4f-b8fa-65aa35b3f838/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-01T13:15:00+00:00",
-   "title_ja": "iPad作業を軽くした折りたたみマウスのレビュー",
-   "summary_ja": "Logitechの折りたたみマウスMobi Foldはポーチに入れたままでも操作でき、コンパクトさと快適な操作感で外出先のiPad作業を身軽にし、持ち物を最小限に抑えるミニマリストに好評です。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "Logitech Mobi Fold",
-    "iPad"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "d129784473ede33c",
-   "url": "https://monomax.jp/archives/364591",
-   "title_original": "【手を使わずに履けるコンバース】脱ぎ履きのストレスゼロ！9790円の注目ハンズリーシューズ「スリットスライド」の秋冬モデルスリッポンは",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2026/09/ec63b0efa3782db84377d0e71181fcad-6.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-01T13:00:37+00:00",
-   "title_ja": "手を使わずに履けるスリットスライドスリッポンの紹介",
-   "summary_ja": "価格9790円のハンズリーシューズ『スリットスライド』は、足を入れるだけで脱ぎ履きができ、秋冬モデルは防寒性も兼ね備え、靴の選択を減らしたい人に便利なアイテムとして評価されています。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "スリットスライド",
-    "コンバース"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "77be44c1e44c534e",
-   "url": "https://www.realsimple.com/amazon-clever-home-storage-solutions-october-2026-12148887",
-   "title_original": "You’re Organizing Your Home All Wrong—Here Are 10 Clever Amazon Storage Finds You Should Be Using, From $9",
-   "source": "realsimple.com",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-01T12:30:00+00:00",
-   "title_ja": "Amazonで見つけた賢い収納グッズ10選",
-   "summary_ja": "記事では、価格が9ドルからの10種類のAmazon収納アイテムを紹介し、家の片付けやスペース活用を効率化する方法を提案しています。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "887d6a9933a29038",
-   "url": "https://media.unisba.ac.id/409e0a7f/6c1a5368Xx8iGStFOwkuCyc/////?share=telegram&nb=1",
-   "title_original": "洋服断捨離/部屋掃除/100均インテリア購入品/Clean With Me Ekstraklasa (6iWC1DXyEc)",
-   "source": "Unisba Media",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-01T12:21:37+00:00",
-   "title_ja": "洋服の断捨離と部屋掃除の様子",
-   "summary_ja": "洋服の断捨離や部屋の掃除を行い、100円ショップのインテリア雑貨を取り入れて空間を整えている様子をまとめた内容。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "洋服",
-    "インテリア雑貨"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "fdab5e93813f5596",
-   "url": "https://note.com/koko_okamoto369/n/n20a9ae8993a0",
-   "title_original": "全捨離日記 10/1",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/img/1790856642-KuPoiIge7kTH2j8XGU4OaQAs.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-01T12:17:51+00:00",
-   "title_ja": "10月1日の全捨離で手放したアイテムの記録",
-   "summary_ja": "日常の中で不要な物を手放していく全捨離に取り組む筆者が、その日に手放すことに決めた所有物を公開している記録。物を減らして生活を整える実践の様子を綴っている。",
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
