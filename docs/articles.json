@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T21:22:13.071846+09:00",
+ "updated_at": "2026-10-12T06:40:41.947206+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,27 +27,27 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-11T21:24:08.573137+09:00",
+  "generated_at": "2026-10-12T06:41:47.406284+09:00",
   "days": 3,
-  "period": "10月10日〜10月11日",
+  "period": "10月11日〜10月12日",
   "count": 45,
-  "reduce_count": 26,
-  "own_count": 19,
-  "overview": "ものや思考の手放し方、日々の暮らしを快適にするための具体的な工夫や心境の変化が45件の記事で語られています。",
-  "reduce": "収納の見直しやチェック項目を用いた手放し方、思い込みをやめる心の整理など具体的な減らし方が語られています。",
-  "own": "デスク環境やガジェット、洋服の厳選など、身軽で利便性を高める愛用品や所有のスタイルが紹介されています。",
+  "reduce_count": 28,
+  "own_count": 17,
+  "overview": "モノの手放し方や思考の整理といった減らす工夫に関する話題と、厳選された愛用品やデスク環境など持ち物に関する実例が45件寄せられています。",
+  "reduce": "物を減らす基準や思い込みを手放す心の断捨離、掃除の効率化など、暮らしをすっきりさせる具体的な体験談や失敗を防ぐ方法が語られています。",
+  "own": "トートバッグや同じワンピース、多機能な道具など、日々の生活の利便性を高めるために厳選された愛用品やデスク環境が紹介されています。",
   "points": [
    {
-    "title": "手放す基準と迷いへの向き合い方",
-    "body": "AIに相談せず自分の過去の基準に向き合うことや、木材や不用品を処分した経験など、物を見極めて手放す基準について複数の書き手が語っています。"
+    "title": "手放す前の確認と基準",
+    "body": "後悔しない断捨離のために手放す前に5つのチェック項目を確認する方法や、AIに頼らず自身の過去の基準に向き合う大切さが語られています。"
    },
    {
-    "title": "多機能な道具による効率化",
-    "body": "1台4役のまな板や3WAYカメラバッグなど、複数の役割をこなすアイテムを取り入れることで持ち物や洗い物を減らす工夫が紹介されています。"
+    "title": "収納を見直す効率化",
+    "body": "山崎実業の掃除収納の新作への買い替えや、シンクのスポンジホルダー導入などにより、家事の往復や作業効率が大幅に向上した実例が紹介されています。"
    },
    {
-    "title": "心と習慣の断捨離の実践",
-    "body": "「〜しなければならない」という思い込みや義務感を手放す心の断捨離や、朝活を通じた環境整備など生活習慣の改善が話題になっています。"
+    "title": "服の数と選び方の工夫",
+    "body": "夏服を12着で過ごした振り返りや、同じワンピースを10着揃えて服を選ぶ手間や選択の負担を減らすミニマリストの取り組みが紹介されています。"
    }
   ],
   "keywords": [
@@ -55,8 +55,7 @@
    "ミニマリスト",
    "手放す",
    "収納",
-   "アイテム",
-   "ガジェット"
+   "掃除"
   ]
  },
  "things": [
@@ -69,11 +68,15 @@
    "count": 7
   },
   {
-   "name": "本",
-   "count": 5
+   "name": "冷蔵庫",
+   "count": 4
   },
   {
-   "name": "冷蔵庫",
+   "name": "手帳",
+   "count": 4
+  },
+  {
+   "name": "本",
    "count": 4
   },
   {
@@ -86,6 +89,10 @@
   },
   {
    "name": "テレビ",
+   "count": 3
+  },
+  {
+   "name": "ノート",
    "count": 3
   },
   {
@@ -105,20 +112,16 @@
    "count": 3
   },
   {
-   "name": "手帳",
-   "count": 3
-  },
-  {
-   "name": "洗剤",
-   "count": 3
-  },
-  {
    "name": "財布",
    "count": 3
   },
   {
    "name": "食器",
    "count": 3
+  },
+  {
+   "name": "TAFT",
+   "count": 2
   },
   {
    "name": "iPad",
@@ -153,19 +156,11 @@
    "count": 2
   },
   {
-   "name": "ノート",
-   "count": 2
-  },
-  {
    "name": "ノートPC",
    "count": 2
   },
   {
    "name": "バックパック",
-   "count": 2
-  },
-  {
-   "name": "フィギュア",
    "count": 2
   },
   {
@@ -177,7 +172,15 @@
    "count": 2
   },
   {
+   "name": "洗剤",
+   "count": 2
+  },
+  {
    "name": "衣類",
+   "count": 2
+  },
+  {
+   "name": "調味料",
    "count": 2
   },
   {
@@ -186,10 +189,6 @@
   },
   {
    "name": "電動ポンプ",
-   "count": 2
-  },
-  {
-   "name": "電源タップ",
    "count": 2
   },
   {
@@ -203,12 +202,12 @@
   "Apartment Therapy",
   "Balance Through Simplicity",
   "Be More with Less",
+  "Better Homes & Gardens",
   "Boldsky",
   "Cleveland.com",
   "Franklin County Free Press",
   "Good Housekeeping",
   "Homes and Gardens",
-  "House Beautiful",
   "Ideal Home",
   "Infoseek",
   "Irish Independent",
@@ -272,6 +271,201 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "c27aefc658981986",
+   "url": "https://note.com/metastyle/n/nbcbe58654bfb",
+   "title_original": "財布と鍵をひとつに。mienoのキーケース財布が気になる",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/323375713/rectangle_large_type_2_9d7747b254b91382af509da6c87d4e98.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-11T21:14:47+00:00",
+   "title_ja": "財布と鍵を一体化したキーケース財布を紹介",
+   "summary_ja": "著者は毎朝、玄関で財布と鍵が一緒に入っているか確認し、mienoのキーケース財布を使っていると紹介。機能と持ち運びの便利さがポイント。シンプルな持ち物にしたいミニマリストにおすすめ。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "キーケース財布"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "f05ea6aa2dc80070",
+   "url": "https://note.com/raghousetv/n/n784d4b9d23bd",
+   "title_original": "『【無心で見て癒されて💖】ぼーっと見る動画🥱毎日が古着フェスティバル🎡背後でフリマニアン金子が・・・♻️ラグハウスの古着仕分け動画2️⃣2️⃣7️⃣Rag House TV / 古着のリサイクル』の最新動画をご覧ください❗",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/323378013/rectangle_large_type_2_ed020f2ce0f3971a2bbb7f810ed81c59.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-11T20:56:13+00:00",
+   "title_ja": "古着リサイクル工場の最新動画を紹介",
+   "summary_ja": "ラグハウスのYouTubeチャンネルRag House TVで、古着の回収・リサイクル工程を紹介する最新動画が公開されたことを案内。衣類の再利用に関心ある人向け。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "46ac9991f478d9e7",
+   "url": "https://note.com/life2go/n/n23610085c907",
+   "title_original": "終活-421 本業は、チェック完了。TAFT 改造しました。 ・.・//🍀",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/323370945/rectangle_large_type_2_f703c01780c3a2a1abbab5a5338471da.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-11T20:33:18+00:00",
+   "title_ja": "断捨離再開とTAFTでの買い物報告",
+   "summary_ja": "作者は朝のルーティンの中で断捨離を再開し、TAFTでの購入を通じて生活環境を整える様子を綴った。具体的な手放し方は示さないが、継続的な片付けの意識が伺える。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "TAFT"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "c91e703e7fa3f6b4",
+   "url": "https://note.com/lovely_racoon101/n/n271d94c83b51",
+   "title_original": "初めての投稿",
+   "source": "note #ミニマリスト",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/b4c4525609fa04c7f787bea0c69948802f7224ce.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-11T18:57:43+00:00",
+   "title_ja": "社会人5年目が半年で究極のミニマリストを目指す話",
+   "summary_ja": "社会人5年目で部屋が散らかった状態から、半年かけてすべてのものをシンプルにミニマルにすることを目指す人の記録。まずはものを減らすことから優先して動いていくと決意している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "c2abe7b81821cb1b",
+   "url": "https://note.com/mee_kurashi/n/na5fba5f78df9",
+   "title_original": "冷蔵庫の片付け、そして靴箱、靴箱横収納の片付け。",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/321862518/rectangle_large_type_2_9855a2a9121d659819eef0d3d72a7b1e.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-11T18:14:28+00:00",
+   "title_ja": "LINE片付けで冷蔵庫と靴箱をすっきり整えた記録",
+   "summary_ja": "LINEを使った片付けの順序に従い、冷蔵庫と靴箱まわりを整理した人の体験談。冷蔵庫は普段から使う分だけを買い、無駄なものがないすっきりとした状態を保っている。",
+   "category": "キッチン・食",
+   "axis": "reduce",
+   "things": [
+    "調味料"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b580ea8e2b8bb12a",
+   "url": "https://shopping.yahoo.com/home-garden/kitchen/articles/dusty-cookie-tin-declutter-kitchen-171000819.html",
+   "title_original": "That dusty cookie tin can declutter your kitchen counter, and even moonlight as a cake stand",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/ccea5e4f73e3f6d1ae3fcd768c89c6789cf98666bb332af65c1b15a319632127/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fc169cad8c5e76a4026ca3d80df06ec99.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-11T17:10:00+00:00",
+   "title_ja": "クッキー缶を使ってキッチンカウンターを片付ける方法",
+   "summary_ja": "埃をかぶったクッキー缶を活用して、キッチンのカウンターをすっきりと片付けるアイデアについて。ケーキスタンドとしても代用できる。",
+   "category": "キッチン・食",
+   "axis": "reduce",
+   "things": [
+    "クッキー缶",
+    "ケーキスタンド"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "68af95c04af2f7fd",
+   "url": "https://thesimplicityhabit.com/7-worst-places-to-begin-decluttering",
+   "title_original": "Don’t Start Here: The 7 Worst Places to Begin Decluttering",
+   "source": "The Simplicity Habit",
+   "image": "https://thesimplicityhabit.com/wp-content/uploads/2025/06/horizontal-blog-post-2025-06-03T101016.417-1024x683.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-11T14:38:01+00:00",
+   "title_ja": "片付けの挫折を防ぐために最初に手を付けてはいけない場所",
+   "summary_ja": "家をシンプルにしようと思い立った際、モチベーションを保ったまま挫折を防ぐために、最初に片付け始めてはいけない7つの場所について解説している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "155a7faea31c915e",
+   "url": "https://www.cleveland.com/news/2026/10/is-it-time-to-declutter-your-life-and-your-brain.html",
+   "title_original": "Is it time to declutter your life (and your brain)?",
+   "source": "Cleveland.com",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-11T14:00:00+00:00",
+   "title_ja": "生活と頭の中を整理するタイミングとは",
+   "summary_ja": "生活や思考を整理するべきタイミングと、その効果や具体的な手順について解説し、心身のすっきり感を得る方法を提案しています。さらに、実践的なチェックリストも掲載し、すぐに始められるようサポートします。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "8eced8e040b46c8c",
+   "url": "https://www.roomie.jp/2026/10/1897667",
+   "title_original": "4年前から使っていた「山崎実業の掃除収納」を新作に乗り換え。掃除中の行ったり来たりがなくなった",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/20261002-mio-yamajitsu-01.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-11T13:50:41+00:00",
+   "title_ja": "山崎実業の掃除収納を新作に替えて効率UP",
+   "summary_ja": "4年前の山崎実業製掃除収納を新作に買い替え、収納位置が固定されて掃除時の往復が減り、作業効率が大幅に向上した実体験を紹介しています。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "山崎実業 掃除収納",
+    "フロアワイパー",
+    "ハンディモップ",
+    "カーペットクリーナー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "a6a1259bded0c240",
+   "url": "https://www.roomie.jp/2026/10/1899678",
+   "title_original": "三日月形ヨギボーが「デスク作業のおとも」にちょうどいい。ラクな姿勢にサポートしてくれるよ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/IMG_0842.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-11T13:00:45+00:00",
+   "title_ja": "ヨギボー三日月枕でデスク作業を快適に",
+   "summary_ja": "ヨギボーの三日月形クッション『メガムーンピロー』をデスク周りに置くと姿勢がサポートされ、狭い部屋でも床掃除がしやすく快適に作業できる点をレポートしています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ヨギボー メガムーンピロー"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "3e9ed6dfb7505002",
+   "url": "https://note.com/kotori___journal/n/n8b6b80d36e16",
+   "title_original": "#252 変わっていくもの。変わらないもの。",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/323276673/rectangle_large_type_2_f0fc324f84c6335f667b74418def593f.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-11T12:25:05+00:00",
+   "title_ja": "手帳を複数使ってきた筆者がシンプル化を考える話",
+   "summary_ja": "毎年複数の手帳を使い分けてきたが、記録の分散に悩み来年はシンプルにまとめたいと考えている人のエピソード。過去の思い出のノートは捨てられない様子もつづられている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "手帳",
+    "ノート"
+   ],
+   "importance": 2
+  },
   {
    "id": "96fa97faba0260eb",
    "url": "https://note.com/kuro_oza/n/n4e6c5379754b",
@@ -658,6 +852,22 @@
     "手帳",
     "金属製パーツ"
    ],
+   "importance": 3
+  },
+  {
+   "id": "ada1b7e02d64e79b",
+   "url": "https://note.com/work_minimum14/n/n40b87d8fece7",
+   "title_original": "レンタルされた街と、僕のお守り",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/322874564/rectangle_large_type_2_7163df1aad6a96ea0377b85c4e1954bf.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-10T23:10:39+00:00",
+   "title_ja": "極端な思考を試すエクストリーム思考の実践",
+   "summary_ja": "理想や最悪のシナリオを極限まで押し進めて考えるエクストリーム思考を紹介。課題の本質やアイデアの幅を浮き彫りにするアプローチについて語られています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -1213,6 +1423,22 @@
     "カトラリー"
    ],
    "importance": 3
+  },
+  {
+   "id": "b975acc05b59f960",
+   "url": "https://youtu.be/F_DrbKGbogU?si=YTADG5OG8DcuJUWz",
+   "title_original": "【62】ミニマリスト アラフォー男の日常ルーティンvlog 節約一人暮らしin仙台 松島観光 航空祭",
+   "source": "YouTube",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-10T10:00:02+00:00",
+   "title_ja": "仙台で一人暮らしをするアラフォー男性の日常",
+   "summary_ja": "仙台での一人暮らしや観光、航空祭を楽しむアラフォー男性の日常を追ったVlog。抜粋がないため動画の具体的な持ち物や手放し方の詳細は不明です。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [],
+   "importance": 2
   },
   {
    "id": "cc1f7336217b8a2e",
@@ -2198,6 +2424,22 @@
    "title_ja": "友達の数を減らして心地よく過ごすミニマリストの考え方",
    "summary_ja": "たくさんの友達が必要だと思っていた投稿者が、少ない交友関係がちょうどいいと感じるに至った理由を語る動画。無理をせずゆるっと過ごすための暮らしの考え方を紹介している。",
    "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "d7b323bd713509fb",
+   "url": "https://www.bhg.com/most-asked-tiny-house-questions-answered-12136861",
+   "title_original": "8 Most-Asked Tiny House Questions, Answered by Home and Design Experts",
+   "source": "Better Homes & Gardens",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-09T06:44:00+00:00",
+   "title_ja": "専門家が答えるタイニーハウスに関する8つの質問",
+   "summary_ja": "専門家がタイニーハウスに関するよくある質問に答えている。限られた空間での暮らしや設計についての考え方が分かる内容。",
+   "category": "暮らしの実例",
    "axis": "reduce",
    "things": [],
    "importance": 3
@@ -7043,245 +7285,6 @@
    "axis": "reduce",
    "things": [
     "枕"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2cba474fb9c895b4",
-   "url": "https://www.roomie.jp/2026/10/1564251",
-   "title_original": "ちょっと古いくらいが心地いい。築35年・1LDK、レトロに囲まれた、犬と本との暮らし（京都府）",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/DSCF1150_02.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-03T01:00:32+00:00",
-   "title_ja": "築35年の1LDKで愛犬と本に囲まれて暮らす会社員の部屋",
-   "summary_ja": "京都の落ち着いた住宅街にある築35年の賃貸マンションで、愛犬のトイプードルと暮らす会社員のエマさん。約41平米の1LDKという間取りで、自然が残る環境を楽しみながら、レトロな雰囲気に囲まれた心地よい暮らしを送っています。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "c05b1307cfb4124e",
-   "url": "https://minimalist-fudeko.com/before-buying-in-bulk",
-   "title_original": "その3個パック、何ヶ月分ですか。まとめ買いで家が狭くなる前に",
-   "source": "筆子ジャーナル",
-   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/09/drug-store.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-03T00:10:58+00:00",
-   "title_ja": "まとめ買いで家が狭くなるのを防ぐためのストック管理法",
-   "summary_ja": "安いからと洗剤やペーパー類をまとめ買いし、収納場所に収まらなくなる問題を防ぐ方法を解説。まとめ買い自体を否定するのではなく、自宅の収納スペースに合わせてあらかじめストックする量を決めて購入することを提案しています。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [
-    "洗剤",
-    "ペーパー類"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "1cbfb3ffd54e6fec",
-   "url": "https://www.roomie.jp/2026/10/1897385",
-   "title_original": "コンビニ・デリバリー飯の「ちょっと嫌な気持ちになる原因」が消滅！山﨑実業が一瞬で解決してくれた",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/20261001_tower_hook_thumbnail.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-02T23:30:01+00:00",
-   "title_ja": "テーブル横にゴミ袋を設置して食事中のゴミをすぐ捨てる方法",
-   "summary_ja": "コンビニ弁当やデリバリーの食事中に出る細かなゴミがテーブルに散らかるストレスを解決する、山崎実業のテーブル横レジ袋ハンガーを紹介。食事中に席を立つことなく、手元ですぐにゴミを捨てられる便利なアイテムです。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "テーブル横レジ袋ハンガー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "31ebe72680f98880",
-   "url": "https://www.roomie.jp/2026/10/1887320",
-   "title_original": "コンセント不足はもう終わり。1口が9台分に化ける直挿し電源タップで",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/1-24.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-02T23:15:10+00:00",
-   "title_ja": "1つのコンセントを9台分に増設できる直挿し式電源タップ",
-   "summary_ja": "スマートフォンやイヤホンなど充電機器が増える中、コンセント不足を解消するサンワサプライの直挿し式電源タップを紹介。壁のコンセント1口に差し込むだけで、すっきりと多くの差込口を確保できる便利なアイテムです。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "電源タップ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "e9b2f5d57be482fd",
-   "url": "https://mbp-japan.com/tokyo/danshari/column/5237761",
-   "title_original": "シニア世代の断捨離は、これからを軽やかに生きるためにーサンシティ柏開催レポート｜小林理恵",
-   "source": "mbp-japan.com",
-   "image": "https://mbp-japan.com/elements/tokyo/profiles/danshari/images/original/image_5346810.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-02T23:00:50+00:00",
-   "title_ja": "シニア世代のこれからの暮らしに向けた断捨離セミナーのレポート",
-   "summary_ja": "サンシティ柏で開催された、シニア世代がこれからの人生を軽やかに生きるための断捨離についてのイベントレポート。これからの暮らしを身軽にするための片づけの考え方が紹介されている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "3cb4b63d901432f1",
-   "url": "https://www.realsimple.com/the-one-surface-rule-of-decluttering-12135335",
-   "title_original": "The “One Surface Rule” Is the Simple Trick That Keeps Small Spaces Clutter-Free",
-   "source": "Real Simple",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-02T22:30:00+00:00",
-   "title_ja": "狭い空間をすっきり保つ「ワン・サーフェス・ルール」という工夫",
-   "summary_ja": "小さなスペースで物を散らかさずにすっきりと保つためのシンプルなルールについて解説した記事。物を増やさないための暮らしの工夫が紹介されている。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "82d5e088568a961b",
-   "url": "https://bemorewithless.com/weekend-favorites-october-3-2026/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
-   "title_original": "Weekend Favorites: an amazing list of cozy movies + the 20/10 cleaning method",
-   "source": "Be More with Less",
-   "image": "https://bemorewithless.com/wp-content/uploads/2026/10/20-10-cleaning-method-image-1.png",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-02T22:18:21+00:00",
-   "title_ja": "片づけをセルフケアとして捉える週末の知恵と掃除方法",
-   "summary_ja": "断捨離は自分をケアする大切なお手入れであるという考え方や、短い時間で取り組む掃除のメソッドを紹介している。心を整えるための暮らしの工夫を知ることができる。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "5c2ca6e89a4b338b",
-   "url": "https://note.com/shion166/n/n8cc8fed27610",
-   "title_original": "〈美容好きミニマリスト〉秋の気配？クローゼットの見直しやってみた",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/318789466/rectangle_large_type_2_1c57bc4af77dcefcbe596b1491883499.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-02T21:54:49+00:00",
-   "title_ja": "美容好きミニマリストが秋のクローゼット見直し",
-   "summary_ja": "美容にこだわるミニマリストが、秋の訪れと共にクローゼットを見直し、不要な服を手放すプロセスと基準を紹介。季節の変わり目に合わせて、何を残し何を処分するかを具体的に語っている。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "5b07b224af3f87e4",
-   "url": "https://note.com/roujinkai_233/n/n0de6970ea50f",
-   "title_original": "断捨離の話【オタクの本・フィギュア編】",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/317212501/rectangle_large_type_2_4a5afdd7dd1eab48ea8a23ae16fb76ac.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-02T21:52:10+00:00",
-   "title_ja": "オタクの本・フィギュア編 断捨離の実践",
-   "summary_ja": "オタクが所有する本やフィギュアに対し、執着とストレスを減らすための断捨離手法を解説。使わない同用途のものは手放す基準を提示し、生活空間をすっきりさせる方法を紹介。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "本",
-    "フィギュア"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "e0f925ec3b7a8cee",
-   "url": "https://note.com/metastyle/n/na29666c3704e",
-   "title_original": "Tシャツは3枚でいいかも。ミズノ365メリノT",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/320127429/rectangle_large_type_2_16793d1e1cf8ff1982da6927177e9c6d.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-02T20:45:32+00:00",
-   "title_ja": "Tシャツは3枚でいいかも ミズノ365メリノTレビュー",
-   "summary_ja": "ミズノの365メリノTを例に、最低限のTシャツは3枚で足りるというミニマリスト的提案。実際に着用感や洗濯回数を検証し、余分な在庫を減らす方法を紹介。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "ミズノ365メリノT",
-    "Tシャツ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "92f558a4b8b9e1f5",
-   "url": "https://note.com/vast_eider5341/n/ne4277dfc6978",
-   "title_original": "13_「大阪グランベルホテル」で体験するミニマリズム",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/307848583/rectangle_large_type_2_0902d432ec1e1a08f8796bb4540bca2b.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-02T20:00:00+00:00",
-   "title_ja": "大阪グランベルホテルで体験したミニマリズム",
-   "summary_ja": "大阪グランベルホテルの宿泊体験を通じ、限られた部屋面積で何を捨て、どこに投資すべきかを建築士目線で解説。シンプルな空間が休息に与える効果をレポート。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "661a1beee5c76f21",
-   "url": "https://www.housebeautiful.com/lifestyle/organizing-tips/a73960375/outdated-decluttering-rules-organizers",
-   "title_original": "The 2 Most Outdated Decluttering Rules That Experts Say You Can Stop Following Right Now",
-   "source": "House Beautiful",
-   "image": "https://hips.hearstapps.com/hmg-prod/images/15aa01c3-1dfc-4260-aa3b-4dc85e18f2c0.jpeg?crop=1xw:0.749646393211xh;center,top&resize=1200:*",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-02T17:34:25+00:00",
-   "title_ja": "専門家がやめるべきと指摘する古い片づけのルール",
-   "summary_ja": "片づけの専門家が、現在ではもう従わなくてもよいと考えている古い片づけのルールについて解説している記事です。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "4bd6899fac65bb22",
-   "url": "https://www.thespruce.com/monthly-10-list-12130394",
-   "title_original": "Organizing and Cleaning Pros Swear by a “Monthly 10 List” for Keeping Your Home Cleaner and Less Cluttered",
-   "source": "The Spruce",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-02T15:44:00+00:00",
-   "title_ja": "家をすっきり保つ「毎月の10リスト」の活用法",
-   "summary_ja": "片づけや掃除のプロが実践している、自宅をきれいに保ち不要な物をため込まないための毎月のリストについて紹介しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "9c318a97f73f356f",
-   "url": "https://www.youtube.com/watch?v=nsJVaJQicXM",
-   "title_original": "WE MOVED IN?! ditl mom vlog",
-   "source": "Sarah Therese",
-   "image": "https://i3.ytimg.com/vi/nsJVaJQicXM/hqdefault.jpg",
-   "media": "youtube",
-   "region": "海外",
-   "published": "2026-10-02T14:00:29+00:00",
-   "title_ja": "海外の母親が新しい家での暮らしとパン作りを紹介",
-   "summary_ja": "新居へ引っ越した海外の母親が、日々の暮らしや手作りのパン作りを行う日常をシェアしている。動画内で使っている製パン用の機械が、ゼロからのパン作りを可能にしていると紹介されている。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "製パン機"
    ],
    "importance": 3
   }
