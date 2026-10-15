@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T20:04:47.335663+09:00",
+ "updated_at": "2026-10-16T01:35:01.234109+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,35 +27,35 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-15T20:05:55.322216+09:00",
+  "generated_at": "2026-10-16T01:36:53.484528+09:00",
   "days": 3,
-  "period": "10月15日〜10月15日",
+  "period": "10月15日〜10月16日",
   "count": 45,
-  "reduce_count": 29,
-  "own_count": 16,
-  "overview": "物を減らして心身の負担を軽くする工夫や、暮らしを快適にする実用的なアイテムの活用法が語られています。",
-  "reduce": "売却や寄付、ジモティーを活用した手放し方や、買う前の判断基準を見直す試みが紹介されています。",
-  "own": "無印良品や山崎実業の収納グッズ、フロントオープン式スーツケースなど、日常の不便を解消する道具が取り上げられています。",
+  "reduce_count": 31,
+  "own_count": 14,
+  "overview": "持ち物の見直しや手放し方、日々の暮らしを快適にするための具体的な工夫や体験談が様々な視点から語られています。",
+  "reduce": "無理のない手放し基準を設定する方法や、買い物の失敗談を教訓にして生活をシンプルにする工夫が語られています。",
+  "own": "無印良品や山崎実業の収納アイテムを活用して暮らしの不便を解消し、日常を快適にする事例が多く紹介されています。",
   "points": [
    {
-    "title": "手放す心理と方法",
-    "body": "メルカリやジモティーでの手放し体験を通じ、愛着や購入価格にとらわれてためらう心理の正体や、ゴミにしないための工夫が語られています。"
+    "title": "手放す際の心理と基準",
+    "body": "メルカリでの売買や愛着にとらわれて捨てられない心理を解説する記事や、無理に捨てず譲渡や自分に合った基準で進める断捨離の体験談が語られています。"
    },
    {
-    "title": "キッチンの効率化",
-    "body": "山崎実業のマグネットしゃもじや高密度TPUまな板などを導入し、洗い物や調理のストレスを減らす実例が多数紹介されています。"
+    "title": "収納・便利グッズの活用",
+    "body": "山崎実業のソープトレーやペットフードストッカー、無印良品のポーチなどを活用し、日常のちょっとした手間に定位置を作って解消する工夫が紹介されています。"
    },
    {
-    "title": "移動と出張の快適化",
-    "body": "フロントオープン式のスーツケースや旅先での65W充電器選びなど、移動時のストレスを軽減する持ち物が紹介されています。"
+    "title": "お香・お金と買い方の見直し",
+    "body": "箱買いをやめて固定費を浮かせた体験や、セールで焦って購入し失敗した教訓など、出費や持ち物の買い方を見直す具体的なエピソードが寄せられています。"
    }
   ],
   "keywords": [
    "ミニマリスト",
    "断捨離",
-   "収納",
-   "手放す",
-   "山崎実業"
+   "持たない暮らし",
+   "山崎実業",
+   "無印良品"
   ]
  },
  "things": [
@@ -65,19 +65,23 @@
   },
   {
    "name": "服",
-   "count": 6
+   "count": 7
   },
   {
    "name": "スマートフォン",
    "count": 5
   },
   {
-   "name": "ノート",
+   "name": "本",
    "count": 5
   },
   {
-   "name": "本",
-   "count": 5
+   "name": "ノート",
+   "count": 4
+  },
+  {
+   "name": "バッグ",
+   "count": 4
   },
   {
    "name": "リュック",
@@ -92,15 +96,7 @@
    "count": 3
   },
   {
-   "name": "スーツケース",
-   "count": 3
-  },
-  {
    "name": "デスク",
-   "count": 3
-  },
-  {
-   "name": "バッグ",
    "count": 3
   },
   {
@@ -124,7 +120,7 @@
    "count": 3
   },
   {
-   "name": "食器",
+   "name": "炊飯器",
    "count": 3
   },
   {
@@ -141,10 +137,6 @@
   },
   {
    "name": "アプリ",
-   "count": 2
-  },
-  {
-   "name": "イヤホン",
    "count": 2
   },
   {
@@ -168,7 +160,15 @@
    "count": 2
   },
   {
+   "name": "スーツケース",
+   "count": 2
+  },
+  {
    "name": "タブレット",
+   "count": 2
+  },
+  {
+   "name": "ダウンジャケット",
    "count": 2
   },
   {
@@ -250,7 +250,6 @@
   "Real Simple",
   "Sarah Therese",
   "Simple Lionheart Life",
-  "South Jersey Media",
   "Southern Living",
   "TRILL【トリル】",
   "The Canberra Times",
@@ -302,6 +301,133 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "a956936969b77ff4",
+   "url": "https://note.com/otona_doraku/n/nff9f0e304b0c",
+   "title_original": "電気圧力鍋と炊飯器の併用ベスト8！夕飯の渋滞を抜け出す最適解",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/324804118/rectangle_large_type_2_f372d81e8224d9d14e1c164cc0317e29.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-15T16:00:12+00:00",
+   "title_ja": "炊飯器を手放して電気圧力鍋にした失敗談",
+   "summary_ja": "キッチンの省スペース化を狙って炊飯器を捨て電気圧力鍋に一本化したものの、調理が同時にできず後悔した体験談。",
+   "category": "キッチン・食",
+   "axis": "reduce",
+   "things": [
+    "炊飯器",
+    "電気圧力鍋"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "2d8e3d9ca669bfbb",
+   "url": "https://note.com/j7r3a/n/n2424349373b9",
+   "title_original": "コスメの次はバッグ。断捨離はまだまだ終わらない。",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/324801215/rectangle_large_type_2_42f663821f6ded87ab9998c1ce4916c2.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-15T15:48:10+00:00",
+   "title_ja": "コスメの次にバッグを整理した断捨離の記録",
+   "summary_ja": "コスメボックスの整理に続き、自宅にあるバッグ類を見直して断捨離を進めていることを伝えるブログ記事。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "バッグ"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "1614e174585f6120",
+   "url": "https://note.com/otona_doraku/n/nb76ac3fef9a3",
+   "title_original": "実は損してた？缶チューハイ箱買いを捨てて年間10万浮いた話",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/324802167/rectangle_large_type_2_43a7122468a5468fd2d91c6c2e6aff27.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-15T15:45:14+00:00",
+   "title_ja": "缶チューハイの箱買いをやめて固定費を浮かせた話",
+   "summary_ja": "毎晩の缶チューハイの箱買いをやめ、業務用の素と炭酸水に切り替えたことで、空き缶のゴミ出しの手間と年間10万円の出費を減らした体験談。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [
+    "缶チューハイ",
+    "炭酸水",
+    "サワーの素"
+   ],
+   "importance": 5
+  },
+  {
+   "id": "a06e3bc5132d4db9",
+   "url": "https://note.com/best_lifestyle/n/n9d92b799b40e",
+   "title_original": "冬物収納おすすめ8選！ダウンがぺちゃんこにならない保管術",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/324778664/rectangle_large_type_2_73e339456a9ca0cef9052fb3ce13d88a.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-15T14:08:40+00:00",
+   "title_ja": "ダウンを傷めずに冬物をすっきり収納するコツ",
+   "summary_ja": "冬物のダウンやコートは圧縮袋で空気を抜きすぎず、適度に残して保管することで、ふんわり感を保ちながらクローゼットの容積を小さく抑えることができます。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "ダウンジャケット",
+    "ウールコート",
+    "圧縮袋"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "1fe7571799496d32",
+   "url": "https://nosidebar.com/seven-5-minute-decluttering-projects",
+   "title_original": "Seven 5-Minute Decluttering Projects You Can Accomplish Today",
+   "source": "No Sidebar",
+   "image": "https://nosidebar.com/wp-content/uploads/fred-kleber-WOqsGkuF_J8-unsplash1-scaled.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-15T14:00:00+00:00",
+   "title_ja": "今日からできる5分間の片付けプロジェクト7選",
+   "summary_ja": "散らかった部屋をスッキリさせるために、今日から取り組める5分で終わる片付けのアイデアを紹介しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "755df3966384d395",
+   "url": "https://www.goodhousekeeping.com/home/organizing/g74108079/medicine-cabinet-items-to-toss",
+   "title_original": "10 Medicine Cabinet Items Organizers Say It's Time to Toss",
+   "source": "Good Housekeeping",
+   "image": "https://hips.hearstapps.com/hmg-prod/images/bd463f12-b181-4bc9-90b2-022d062fe8fe.jpg?crop=1xw:0.75xh;0xw,0.054xh&resize=1200:*",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-15T12:37:34+00:00",
+   "title_ja": "薬箱の整理で見直したい古いアイテムの手放し方",
+   "summary_ja": "海外の整理収納の専門家が、薬箱の中で期限切れや不要になりがちなアイテムを処分する重要性を指摘している記事です。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "2541c5856a76ce78",
+   "url": "https://www.roomie.jp/2026/10/1907723",
+   "title_original": "“放っておく”だけで料理が完成！シャープの「ホットクック」を使い始めて、自炊のハードルが下がりました",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2025/07/2507_hotcook_thumbnail.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-15T12:20:38+00:00",
+   "title_ja": "ホットクックで自炊のハードルを下げた人の話",
+   "summary_ja": "料理が苦手で忙しい日々を送る中、シャープのホットクックを取り入れたことで自炊の負担を減らすことができたという体験談です。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "ホットクック"
+   ],
+   "importance": 3
+  },
   {
    "id": "46c1180d5deac39b",
    "url": "https://note.com/rosy_wolf2732/n/necf3184ea8f2",
@@ -584,6 +710,24 @@
    "things": [
     "無印のノート",
     "スマートフォン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5787b8b860dccbab",
+   "url": "https://youtu.be/0HVRoEvPyBc?si=lmvUItn2Dsa37YrI",
+   "title_original": "【全11着】ミニマリスト冬のLookbook｜中性的モノトーンコーデ",
+   "source": "YouTube",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-15T04:11:15+00:00",
+   "title_ja": "ミニマリストの冬服コーディネート11着",
+   "summary_ja": "中性的なモノトーンの色合いでまとめた、冬服全11着によるコーディネートを紹介している。ミニマリストの持ち物や服選びの参考になる内容。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "服"
    ],
    "importance": 3
   },
@@ -1711,6 +1855,22 @@
    "summary_ja": "賃貸の狭い洗面所で配管や湿気に悩む人向けに、スペースを有効活用できるラックや防カビグッズなど、実際に効果があった8品を具体的に紹介している。",
    "category": "部屋・収納",
    "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "4772aae1b137a89b",
+   "url": "https://balancethroughsimplicity.com/why-autumn-is-a-good-time-to-declutter",
+   "title_original": "Why Autumn Is the Perfect Time to Declutter and Reset Your Home",
+   "source": "Balance Through Simplicity",
+   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2023/09/2-4-683x1024.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-14T06:20:00+00:00",
+   "title_ja": "秋の季節に自宅の片付けと見直しを進める理由",
+   "summary_ja": "忙しい季節を迎える前に自宅の物を整理整頓するメリットや、暮らしをリセットする方法について解説している海外のブログ記事。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
    "things": [],
    "importance": 3
   },
@@ -7166,161 +7326,6 @@
    "things": [
     "クリスマスツリー"
    ],
-   "importance": 3
-  },
-  {
-   "id": "e6284746acb4ba57",
-   "url": "https://southjersey.media/washington-twp-news/decluttering-should-be-a-celebration-of-your-life",
-   "title_original": "Making room for what matters",
-   "source": "South Jersey Media",
-   "image": "https://media-com.website-us-east-1.linodeobjects.com/wp-content/uploads/sites/5/2026/09/IMG_2904-scaled.jpeg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-07T13:00:00+00:00",
-   "title_ja": "大切なもののために空間を作る",
-   "summary_ja": "自分にとって本当に大切なもののために、余分なスペースや余白を作り出すことについての考え方を扱っています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "91e6f8af88d6ad3a",
-   "url": "https://www.idealhome.co.uk/house-manual/storage-organisation-decluttering/things-to-declutter-in-october",
-   "title_original": "Pro organisers say these are the 4 things to declutter in October to get ready for the colder months",
-   "source": "Ideal Home",
-   "image": "https://cdn.mos.cms.futurecdn.net/DLuuJuDMWzWu8JpzkNUg48-2560-80.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-07T13:00:00+00:00",
-   "title_ja": "寒くなる前に片づけておきたい4つのもの",
-   "summary_ja": "寒い季節に向けて、プロの整理収納アドバイザーが10月に手放すべきと推奨する4つのアイテムについての解説。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "bea49673fb40779c",
-   "url": "https://note.com/best_lifestyle/n/n16a0ec55782e",
-   "title_original": "家計簿ノートおすすめ8選｜毎日書くのはもう古い",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/321888105/rectangle_large_type_2_5ff820da67a58a8a614f25883fc57956.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-07T12:53:08+00:00",
-   "title_ja": "毎日書くのをやめた。月1回の見直し型にする家計簿ノート",
-   "summary_ja": "キャッシュレス時代の家計簿ノートは毎日レシートを写すのではなく、月に1回お金の流れを見直す形に変えることで無理なく続けられる。毎日書くやり方で挫折していた経験から、ノートの新しい役割と選び方を紹介する。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [
-    "ノート"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "e2d3ff3ee279197a",
-   "url": "https://note.com/smart_life_yuma/n/nbc6510558c61",
-   "title_original": "4万円のノイキャンで耳の奥が痛い｜1ヶ月で装着タイプを変えた話",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/321884985/rectangle_large_type_2_fdba283238a5847a883fca1f996d301b.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-07T12:45:03+00:00",
-   "title_ja": "ノイキャンイヤホンで耳の痛さに悩み、装着タイプを変えた話",
-   "summary_ja": "4万円のノイキャンイヤホンで満員電車のストレスは減ったものの、耳の奥の圧迫感や頭重感に悩んだ体験談。機種選びよりも自分の耳に合う装着タイプを見直すことが重要として、通勤時の工夫やグッズについて語っている。",
-   "category": "道具・ガジェット",
-   "axis": "reduce",
-   "things": [
-    "イヤホン"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "22fc7baa9207b86a",
-   "url": "https://note.com/cozy_life_takuto/n/nb2fdb79e6cd9",
-   "title_original": "赤ちゃん帰省の便利グッズは7割不要｜残すべき8選",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/321884839/rectangle_large_type_2_1dfaaa80f450969ee3423cc44f0b71a7.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-07T12:44:30+00:00",
-   "title_ja": "赤ちゃんの帰省用便利グッズは7割不要、厳選した8つの持ち物",
-   "summary_ja": "赤ちゃん連れの帰省で多くの便利グッズを揃える必要はなく、持参した28点のうち実際に使ったのは8点だけだった。基本の3点に絞り現地調達を活用することで、準備時間を縮めスーツケース1個分の荷物を減らした経験談。",
-   "category": "旅・持ち歩き",
-   "axis": "reduce",
-   "things": [
-    "スーツケース",
-    "おむつ"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "cc2cc4b7f6d52f02",
-   "url": "https://www.roomie.jp/2026/10/1897798",
-   "title_original": "無印良品の新作「ゆったり座れるパーソナルソファ」は、暮らしに合わせて長く使えるシンプルさがいい！",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/4550723278508_16_org-1.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-07T12:00:22+00:00",
-   "title_ja": "無印良品のパーソナルソファを取り入れた暮らし",
-   "summary_ja": "ライフオーガナイザーが選んだ無印良品のパーソナルソファを紹介。暮らしの変化に合わせて長く使えるシンプルなデザインと、快適な過ごし方を取り入れている。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "パーソナルソファ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "e74dce4c78e5486c",
-   "url": "https://www.theminimalists.com/lt",
-   "title_original": "Luxury Time",
-   "source": "The Minimalists",
-   "image": "https://www.theminimalists.com/wp-content/uploads/2026/10/jake-blucker-jeVh67AofYU-unsplash-500x333.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-07T12:00:00+00:00",
-   "title_ja": "時間を贅沢に使う―満員スケジュールはステータスではない",
-   "summary_ja": "Joshua Fields Millburnは、カレンダーが埋まっていることをステータスとしないと主張し、余裕のある時間を大切にするために予定を減らす考え方を紹介している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "1a90a8ea4b27ad95",
-   "url": "https://news.livedoor.com/article/detail/32513268/?from_page=internal",
-   "title_original": "【実家の片付け】捨てられない母が変わった！大量の食器を手放せた「魔法の言葉」",
-   "source": "ライブドアニュース",
-   "image": "https://image.news.livedoor.com/newsimage/stf/d/f/df99a_1845_e467873e_1300ab0c.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-07T12:00:00+00:00",
-   "title_ja": "母が“魔法の言葉”で大量の食器を手放した話",
-   "summary_ja": "捨てられないと悩んでいた母が、あるフレーズをきっかけに大量の食器を手放すことに成功し、片付けが進んだエピソード。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "食器"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "4e60dc7038d82ffd",
-   "url": "https://note.com/fine_vole9472/n/nf2a228690b1d",
-   "title_original": "家を整えたら、子育てで大切にしたいものが見えてきた",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/319991255/rectangle_large_type_2_92e6662fc6bb1e9b25e86940aa317e0c.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-07T11:32:49+00:00",
-   "title_ja": "断捨離で家を整え子育ての本質が見えた",
-   "summary_ja": "断捨離にハマり家の中を整理した結果、子育てで本当に大切にしたいものが見えてきたと作者が語る実体験。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
    "importance": 3
   }
  ]
