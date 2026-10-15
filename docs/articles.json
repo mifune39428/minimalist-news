@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T01:35:01.234109+09:00",
+ "updated_at": "2026-10-16T06:06:08.416078+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,35 +27,35 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-16T01:36:53.484528+09:00",
+  "generated_at": "2026-10-16T06:06:47.409738+09:00",
   "days": 3,
   "period": "10月15日〜10月16日",
   "count": 45,
-  "reduce_count": 31,
-  "own_count": 14,
-  "overview": "持ち物の見直しや手放し方、日々の暮らしを快適にするための具体的な工夫や体験談が様々な視点から語られています。",
-  "reduce": "無理のない手放し基準を設定する方法や、買い物の失敗談を教訓にして生活をシンプルにする工夫が語られています。",
-  "own": "無印良品や山崎実業の収納アイテムを活用して暮らしの不便を解消し、日常を快適にする事例が多く紹介されています。",
+  "reduce_count": 30,
+  "own_count": 15,
+  "overview": "不要品の整理やデジタルデータの削減といった日々の減らし方の工夫と、収納やガジェットなど暮らしを快適にする持ち物の活用法が多角的に語られています。",
+  "reduce": "季節の変わり目や終活、年齢や環境の変化に合わせて、不要な物やデジタルデータを無理なく手放して暮らしを整える工夫が多数語られています。",
+  "own": "限られたスペースや日常の家事を効率化するため、コンパクトな調理器具や収納・ガジェット類を定位置で賢く活用する実例が紹介されています。",
   "points": [
    {
-    "title": "手放す際の心理と基準",
-    "body": "メルカリでの売買や愛着にとらわれて捨てられない心理を解説する記事や、無理に捨てず譲渡や自分に合った基準で進める断捨離の体験談が語られています。"
+    "title": "手放す基準と心理",
+    "body": "メルカリでの出品や愛着・過去の購入価格にとらわれて捨てられない心理に向き合い、自分なりの手放す基準を設定して進める工夫が語られています。"
    },
    {
-    "title": "収納・便利グッズの活用",
-    "body": "山崎実業のソープトレーやペットフードストッカー、無印良品のポーチなどを活用し、日常のちょっとした手間に定位置を作って解消する工夫が紹介されています。"
+    "title": "収納とスペース削減",
+    "body": "玄関の不要品撤去や山崎実業のアイテムを活用した定位置作り、冬物をすっきり収める保管のコツで空間を効率よく使う手法が紹介されています。"
    },
    {
-    "title": "お香・お金と買い方の見直し",
-    "body": "箱買いをやめて固定費を浮かせた体験や、セールで焦って購入し失敗した教訓など、出費や持ち物の買い方を見直す具体的なエピソードが寄せられています。"
+    "title": "デジタルや情報の整理",
+    "body": "スマホに溜まりがちなレシピのスクリーンショットを手書きのレシピノートに切り替えて、デジタル情報を減らしてすっきりさせる実践例があります。"
    }
   ],
   "keywords": [
-   "ミニマリスト",
+   "減らし方",
    "断捨離",
    "持たない暮らし",
-   "山崎実業",
-   "無印良品"
+   "ミニマリスト",
+   "手放す"
   ]
  },
  "things": [
@@ -72,19 +72,15 @@
    "count": 5
   },
   {
-   "name": "本",
-   "count": 5
-  },
-  {
-   "name": "ノート",
-   "count": 4
-  },
-  {
    "name": "バッグ",
    "count": 4
   },
   {
    "name": "リュック",
+   "count": 4
+  },
+  {
+   "name": "本",
    "count": 4
   },
   {
@@ -100,6 +96,10 @@
    "count": 3
   },
   {
+   "name": "ノート",
+   "count": 3
+  },
+  {
    "name": "モニター",
    "count": 3
   },
@@ -109,10 +109,6 @@
   },
   {
    "name": "冷蔵庫",
-   "count": 3
-  },
-  {
-   "name": "手帳",
    "count": 3
   },
   {
@@ -132,10 +128,6 @@
    "count": 2
   },
   {
-   "name": "まな板",
-   "count": 2
-  },
-  {
    "name": "アプリ",
    "count": 2
   },
@@ -145,10 +137,6 @@
   },
   {
    "name": "カード",
-   "count": 2
-  },
-  {
-   "name": "クリスマスツリー",
    "count": 2
   },
   {
@@ -169,10 +157,6 @@
   },
   {
    "name": "ダウンジャケット",
-   "count": 2
-  },
-  {
-   "name": "テレビ",
    "count": 2
   },
   {
@@ -216,7 +200,23 @@
    "count": 2
   },
   {
+   "name": "手帳",
+   "count": 2
+  },
+  {
    "name": "机",
+   "count": 2
+  },
+  {
+   "name": "無印良品",
+   "count": 2
+  },
+  {
+   "name": "老眼鏡",
+   "count": 2
+  },
+  {
+   "name": "調味料",
    "count": 2
   }
  ],
@@ -232,6 +232,7 @@
   "ENCOUNT",
   "FUDGE.jp",
   "Franklin County Free Press",
+  "Franklin County Now",
   "Good Housekeeping",
   "Homes and Gardens",
   "House Beautiful",
@@ -256,7 +257,6 @@
   "The Cool Down",
   "The Minimal Mom",
   "The Minimalists",
-  "The Oakland Press",
   "The Simplicity Habit",
   "The Spruce",
   "The Washington Post",
@@ -301,6 +301,142 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "91903004e78259a3",
+   "url": "https://www.youtube.com/watch?v=Oo5Hv8spLSI",
+   "title_original": "5 Organizing Mistakes (that keep us CLUTTERED!)",
+   "source": "The Minimal Mom",
+   "image": "https://i4.ytimg.com/vi/Oo5Hv8spLSI/hqdefault.jpg",
+   "media": "youtube",
+   "region": "海外",
+   "published": "2026-10-15T20:55:21+00:00",
+   "title_ja": "片付けが片付かない原因になる5つの間違い",
+   "summary_ja": "クリスマスの時期に向けて、ギフトや食事、装飾などをシンプルにしてストレスを減らす方法について紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "f6b9a7315c414322",
+   "url": "https://note.com/ten10591059/n/nca7675689b90",
+   "title_original": "9時の公園で、ちょっとした「なぞなぞ」を仕掛けてみます。",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/324825277/rectangle_large_type_2_0de1cc761e57dbd00221b683766e1d0a.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-15T20:12:44+00:00",
+   "title_ja": "ハサミ1本で自分で髪を切る暮らし",
+   "summary_ja": "ハサミ1本を使って自宅で髪を切り、タングルティーザーでブラッシングをして整えている。手作りの野草茶や植物を生活に取り入れている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ハサミ",
+    "タングルティーザー",
+    "容器"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "7c3936da6b35ba11",
+   "url": "https://note.com/life2go/n/n3c0cae99e3b0",
+   "title_original": "終活-425 本業は、後半戦。加速しています。Modeling。 ・.・//🍀",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/324821601/rectangle_large_type_2_f81e096d3c70da630452913fcae94999.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-15T19:52:08+00:00",
+   "title_ja": "綺麗な環境を目指して進める終活の断捨離",
+   "summary_ja": "快適な環境を目指して、朝から室温を確認しつつ家事をこなし、断捨離や掃除を再開して日々を整えている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "96121d42896ce250",
+   "url": "https://franklincountynow.com/news/216612-turn-clutter-into-cash-part-2-financial-fitness",
+   "title_original": "Turn Clutter into Cash – part 2 | Financial Fitness",
+   "source": "Franklin County Now",
+   "image": "https://franklincountynow.com/wp-content/blogs.dir/261/files/2026/09/hug-your-money-09.30.26.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-15T19:17:06+00:00",
+   "title_ja": "不要な物を整理してお金に変える工夫についての話",
+   "summary_ja": "家の中の不要な物を手放して現金化する方法や、お金との付き合い方を見直すためのヒントについて紹介している。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "5bac6b240d82277e",
+   "url": "https://note.com/raghousetv/n/n4cd80d67171e",
+   "title_original": "『一着の服が「行き着く先」をイメージ🤔する事で始まる未来！リサイクルするにも限界が有る！少しだけ想像してみて下さい♻️古着の選別作業動画2️⃣2️⃣9️⃣Rag House TV / 古着のリサイクル』の最新動画をご覧ください❗",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/324811622/rectangle_large_type_2_16a6d0053766a3fe79cdeed795588671.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-15T17:51:18+00:00",
+   "title_ja": "古着のリサイクル現場から考える服の行方",
+   "summary_ja": "古着のリサイクル工場での選別作業を通じて、不要になった服がたどる現実や、手放す前に考えるべきことについて伝えている。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "古着"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4df0bdce208d6b2c",
+   "url": "https://www.aol.com/articles/10-things-got-rid-45-171500000.html",
+   "title_original": "10 Things I Got Rid Of After 45 (No One Needs Them!)",
+   "source": "AOL.com",
+   "image": "https://hermes.media.transform.aol.com/15be365f12de2d66d49c4daabd33196eb6781756/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/15/b9db7e20-79ad-372e-becd-9761a934be7a/6f1b7037-d0d1-4752-b451-a531e1d37062.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-15T17:15:00+00:00",
+   "title_ja": "45歳を過ぎて手放した10の不要な物",
+   "summary_ja": "年齢を重ねてから自分には不要だと気づき、思い切って手放した10種類の具体的なアイテムについて振り返っている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "ae62da5a9e555412",
+   "url": "https://note.com/mdesign_2026/n/n8245d7672733",
+   "title_original": "あなたの玄関大丈夫？玄関に置いちゃいけないもの、全部置いていた話。",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/324810881/rectangle_large_type_2_b3e9b18593d03f564329b83a05d1d8a0.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-15T16:57:26+00:00",
+   "title_ja": "玄関に置きがちな物を手放してスッキリさせた話",
+   "summary_ja": "以前はさまざまな物を置いていた玄関を見直し、不要な物をすべて撤去したことで暮らしが整ってきた実体験を語っている。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "f67313723e188365",
+   "url": "https://note.com/ararecyan/n/n75363eaf4d67",
+   "title_original": "無職15日目｜vol.14 模様替え",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/324809319/rectangle_large_type_2_556ca48b7259ce44bfb0c6f6b707f3b2.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-15T16:46:00+00:00",
+   "title_ja": "無職生活の合間に行った部屋の模様替えの記録",
+   "summary_ja": "無職生活の15日目に、気分転換や暮らしを整えるために部屋の模様替えを実施したときの様子を綴っている。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [
+    "ベッド"
+   ],
+   "importance": 2
+  },
   {
    "id": "a956936969b77ff4",
    "url": "https://note.com/otona_doraku/n/nff9f0e304b0c",
@@ -359,6 +495,22 @@
    "importance": 5
   },
   {
+   "id": "9718b0d2ea7924a1",
+   "url": "https://note.com/otona_doraku/n/n98b469d17cd9",
+   "title_original": "住宅ローン控除でiDeCoが台無し？年3.8万円損した僕の対策",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/324799668/rectangle_large_type_2_34cca52164f8ada02ca53ad77f3cc183.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-15T15:30:09+00:00",
+   "title_ja": "住宅ローン控除とiDeCoの併用で損した話",
+   "summary_ja": "住宅ローン控除とiDeCoを満額併用した結果、控除枠を使い切れず年間3万8000円損した実体験。掛金を縮小して新NISAへ資金をシフトし、家計のキャッシュフローを改善した話。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
    "id": "a06e3bc5132d4db9",
    "url": "https://note.com/best_lifestyle/n/n9d92b799b40e",
    "title_original": "冬物収納おすすめ8選！ダウンがぺちゃんこにならない保管術",
@@ -395,6 +547,56 @@
    "importance": 3
   },
   {
+   "id": "dc4c965b0fef1bb3",
+   "url": "https://note.com/best_lifestyle/n/nc81655023dca",
+   "title_original": "楽天スーパーセール買い方で失敗ゼロ！ポイント倍率より大切な2軸",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/324767544/rectangle_large_type_2_30b02ef9fb029bc1381a8d7510de7f7e.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-15T13:34:18+00:00",
+   "title_ja": "ポイント倍率より重要な2軸で無駄買いを防止",
+   "summary_ja": "楽天やAmazonの大型セールで、ポイント倍率にこだわるのをやめ、1個あたりの実質底値と段ボール1箱の占有度の2つの基準で購入量を決めると、不要な日用品のストックがなくなり、部屋がすっきりしたと実体験を交えて紹介している。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "11de47a9cf126680",
+   "url": "https://www.roomie.jp/2026/10/1902531",
+   "title_original": "コーヒーから無添加お出汁まで。15分で抽出できるコレが優秀",
+   "source": "ROOMIE",
+   "image": "https://www.roomie.jp/wp-content/uploads/2025/06/8-2.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-15T13:15:30+00:00",
+   "title_ja": "15分で抽出できるクールバリスタが便利",
+   "summary_ja": "CCPの「Cool Barista」は、コーヒーや無添加お出汁をわずか15分で抽出できるコンパクトな機器で、キッチンの調理時間とスペースを削減し、ミニマリスト向けの便利な道具として紹介されている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "Cool Barista"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ef2318ea232b4172",
+   "url": "https://note.com/best_lifestyle/n/n7e2dadca250f",
+   "title_original": "片付け本でゴミ袋22個捨てた！年末逆算スケジュール8選",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/324755529/rectangle_large_type_2_8ec03feaf5d1ea75bea1db84f9f28195.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-15T13:07:59+00:00",
+   "title_ja": "年末逆算スケジュールでゴミ袋22個を処分",
+   "summary_ja": "年末の大掃除を自治体の最終ゴミ回収日から逆算したスケジュールで計画し、12月30日から実行することで22個ものゴミ袋を捨て、不要品の整理と片付けのやる気を高める方法を具体的に提示している。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
    "id": "755df3966384d395",
    "url": "https://www.goodhousekeeping.com/home/organizing/g74108079/medicine-cabinet-items-to-toss",
    "title_original": "10 Medicine Cabinet Items Organizers Say It's Time to Toss",
@@ -409,6 +611,22 @@
    "axis": "reduce",
    "things": [],
    "importance": 2
+  },
+  {
+   "id": "3e0e77926969868c",
+   "url": "https://news.yahoo.co.jp/articles/5fec2cb9131d83e907e4a635b6695764f748e45b/images/001",
+   "title_original": "化粧品のサンプルはいくつ残す？40代ミニマリストの「ものを増やさない工夫」3つ (ESSE-online)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJncFPc6gsp_8nfaRmLDJG1dDeLualQXyjrP_U5exXUZWHOCNYfH8yKIRh2oIlnfSca96Wnu4QUKZY_8ARy4KUef8Qm93OSCJsM1wcd7Kh4E4b",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-15T12:21:57+00:00",
+   "title_ja": "40代ミニマリストのサンプルを増やさない工夫",
+   "summary_ja": "化粧品のサンプルを溜め込まずに上手に管理するための、ものを増やさない3つの工夫について紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
   },
   {
    "id": "2541c5856a76ce78",
@@ -7102,230 +7320,6 @@
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
-   "importance": 3
-  },
-  {
-   "id": "8a1d45add3e827cb",
-   "url": "https://www.youtube.com/shorts/tBy5toiz36o",
-   "title_original": "しんどい朝は「全部やらない」でいい #ミニマリスト #掃除 #シングルマザー #フルタイム",
-   "source": "小さな暮らしノート",
-   "image": "https://i1.ytimg.com/vi/tBy5toiz36o/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-10-08T00:00:33+00:00",
-   "title_ja": "頑張らない日を作る、小さな暮らしの仕組みづくり",
-   "summary_ja": "3歳の息子と暮らすシングルマザーが、忙しい毎日でも心に余白を持つために実践している、頑張らなくても回る仕組みづくりの記録。意思の強さに頼らずに暮らすための工夫を紹介している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "9b520fc9d9b8b9c4",
-   "url": "https://note.com/dabe_life/n/n3d3e70bd2220",
-   "title_original": "好きなものだけ、ちゃんと好きでいる。",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/321988819/rectangle_large_type_2_5af6a16b1c9dce0f51fbd97c4a11a60e.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-07T22:55:52+00:00",
-   "title_ja": "物を減らす過程で趣味の物をどう捉えるか",
-   "summary_ja": "シンプルに暮らすために趣味の物まで減らすべきかという迷いについて触れている。好きな物をちゃんと好きでいるための、物の持ち方や心構えを考えるきっかけになる記事。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "bdd764e487f8c5a5",
-   "url": "https://bemorewithless.com/places-to-donate-books/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
-   "title_original": "25 Places to Donate Books",
-   "source": "Be More with Less",
-   "image": "https://bemorewithless.com/wp-content/uploads/2022/12/books.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-07T22:54:14+00:00",
-   "title_ja": "不要になった本を寄付できる場所のまとめ",
-   "summary_ja": "読み終えた本を寄付したい人に向けて、本を引き取ってくれる場所を25箇所紹介している。状態の悪い本や古い本の扱い方についてもアドバイスを交えて解説している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "本"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "7f27dde9b4d0f203",
-   "url": "https://note.com/nidomi/n/nb6e677ea7954",
-   "title_original": "頭でわかっている人ほど、体ではわかっていない",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/321673909/rectangle_large_type_2_f9dd8ca7ea6e8aaa360a6858b2bbd32c.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-07T22:45:00+00:00",
-   "title_ja": "頭で理解することと行動することの違い",
-   "summary_ja": "頭でわかっているつもりでも、新しい行動を起こすことで目の前の現実が変わっていくという気づきについて綴られた記事です。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "818f42a5afb1d3a5",
-   "url": "https://note.com/shin_mini_ryou/n/n16dc34235e9f",
-   "title_original": "太陽の暖かさを感じられる朝",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/321979164/rectangle_large_type_2_67d338ffe2922603f63c1500118adebd.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-07T22:10:54+00:00",
-   "title_ja": "夕食を抜いて心身をととのえた朝の記録",
-   "summary_ja": "前夜の夕食を控えることで朝の目覚めを軽くし、快適な朝活と穏やかな時間を過ごした習慣についての記録です。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "191aab495c852939",
-   "url": "https://www.roomie.jp/2026/10/1897782",
-   "title_original": "ホテルのテレビ、使わないのはもったいない。Ankerの「魔法のケーブル」で旅の楽しみが増えました",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/261002_anker_05.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-07T22:00:11+00:00",
-   "title_ja": "旅先でホテルのテレビを活用するAnkerの多機能ケーブル",
-   "summary_ja": "旅やアウトドアを好むライターが、携帯性と多機能性に優れたAnkerのケーブルを紹介。出張や旅行先のホテルにあるテレビを活用し、旅の楽しみを広げてくれるアイテムとしての魅力や、持ち物をコンパクトにしたい人向けの利便性を綴る。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "Ankerのケーブル",
-    "テレビ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "bbc12d3fcfaea9ad",
-   "url": "https://www.lifehacker.jp/article/machi-ya-tryangle-repost-954551",
-   "title_original": "まな板もこね台も鍋敷きも解凍も、これ1枚。燕三条の職人が仕上げた4in1の純チタンボード",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/08/25/1893e6ac-f958-43bb-8f47-8e8296ecf464/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-07T22:00:00+00:00",
-   "title_ja": "まな板や鍋敷きなど1枚で4役をこなす純チタン製の多機能ボード",
-   "summary_ja": "木や樹脂製のまな板の買い替えに悩む人に向けて、燕三条の職人が仕上げた国産の純チタン製ボードを紹介。これ1枚で、切る、こねる、鍋敷きなどの熱から守る、食材を解凍するといった4つの役割をこなし、キッチンの道具を減らしたい人にも適している。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "純チタンの下ごしらえボード",
-    "まな板"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ae42983f67e0c583",
-   "url": "https://note.com/metastyle/n/nc7bffe49713d",
-   "title_original": "手帳とノートを1冊に。RIHUAのA5システム手帳",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/321962996/rectangle_large_type_2_d463ef8c7d9834903f06ea7fc95f6def.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-07T21:03:17+00:00",
-   "title_ja": "複数ある使いかけのノートや手帳を1冊にまとめた人の話",
-   "summary_ja": "机の引き出しから仕事用や読書用など4冊の使いかけのノートや古い手帳が見つかったことをきっかけに、それらを1冊にまとめる解決策を紹介。RIHUAのA5システム手帳を活用し、手帳とノートを一本化して持ち物をすっきりさせる工夫を綴る。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "RIHUAのA5システム手帳",
-    "ノート",
-    "手帳"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ca70437ad950759c",
-   "url": "https://www.theoaklandpress.com/2026/10/07/how-to-declutter-when-your-kids-head-off-to-college",
-   "title_original": "How to declutter when your kids head off to college",
-   "source": "The Oakland Press",
-   "image": "https://www.theoaklandpress.com/wp-content/uploads/2026/10/TOP-L-HF-Declutter1011-01.jpeg?w=4500&h=3282",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-07T20:43:44+00:00",
-   "title_ja": "子どもが大学へ進学し家を出るタイミングで片づけを進める方法",
-   "summary_ja": "子どもが大学進学のために実家を離れるタイミングを見計らって、家の中の不要なものを整理し片づけを進めるための方法を解説。ライフステージの変化に合わせ、子ども部屋や家庭内の持ち物を見直して暮らしをシンプルにするコツを紹介する。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "ff41896b56bfdebd",
-   "url": "https://www.goodhousekeeping.com/home/organizing/g74066594/things-to-toss-in-october",
-   "title_original": "14 Things to Throw Out ASAP in October, According to Professional Organizers",
-   "source": "Good Housekeeping",
-   "image": "https://hips.hearstapps.com/hmg-prod/images/fd0d5bb0-0512-4d48-b380-3ba1cbafe79d.jpg?crop=1xw:0.75xh;0xw,0.091xh&resize=1200:*",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-07T19:30:11+00:00",
-   "title_ja": "プロの整理士が勧める「10月にすぐ手放すべき14のもの」",
-   "summary_ja": "プロの整理収納アドバイザーが提案する、10月に優先して処分すべき14のアイテムを紹介する記事。季節の変わり目であるこの時期に家の中を見直し、不要なものを整理することで、すっきりと快適な暮らしの空間を整えるためのヒントが書かれている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "b6c992a4cebf0dc4",
-   "url": "https://www.goodhousekeeping.com/home/organizing/a74066594/things-to-toss-in-october",
-   "title_original": "14 Things Pro Organizers Urge You to Throw Out in October",
-   "source": "Good Housekeeping",
-   "image": "https://hips.hearstapps.com/hmg-prod/images/fd0d5bb0-0512-4d48-b380-3ba1cbafe79d.jpg?crop=1xw:0.75xh;0xw,0.091xh&resize=1200:*",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-07T19:30:11+00:00",
-   "title_ja": "整理整頓のプロが10月に手放すことをすすめる14のアイテム",
-   "summary_ja": "片づけの専門家が、10月のタイミングで思い切って処分することを推奨する14個の持ち物を紹介。季節の変わり目であるこの時期に、家の中を見直して不要なものを手放し、住まいをすっきりと整えるための具体的なアドバイスを提案する。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "507f4505a2a362d0",
-   "url": "https://www.realsimple.com/the-easiest-way-to-create-more-closet-space-12135418",
-   "title_original": "The Closet Trick That Gives You More Space Without Getting Rid of a Single Thing",
-   "source": "Real Simple",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-07T19:30:00+00:00",
-   "title_ja": "物を減らさずにクローゼットのスペースを広げる収納のコツ",
-   "summary_ja": "物を1つも捨てることなく、クローゼットの中にさらなるスペースを作り出すための収納テクニックを紹介する。手持ちの衣類やアイテムを整理し、限られた空間を有効に活用するための具体的なアイデアがまとめられている。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "クローゼット"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2c290efe4a73cd1c",
-   "url": "https://www.homesandgardens.com/celebrity-homes/brooklyn-beckham-nicola-peltz-anti-minimalist-christmas-tree",
-   "title_original": "Brooklyn Beckham’s Christmas Tree Redefines Minimalist Spaces",
-   "source": "Homes and Gardens",
-   "image": "https://cdn.mos.cms.futurecdn.net/pMphdSc5jjtua3a3t87Vw4-2400-80.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-07T16:00:00+00:00",
-   "title_ja": "ミニマリスト空間に映えるブルックリン・ベッカムのクリスマスツリー",
-   "summary_ja": "ブルックリン・ベッカムが飾ったクリスマスツリーを紹介し、ミニマルなインテリア空間における新しいツリーのあり方を提案する。シンプルで洗練されたデザインが、すっきりとした部屋の雰囲気を引き立てる様子が描かれている。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "クリスマスツリー"
-   ],
    "importance": 3
   }
  ]
