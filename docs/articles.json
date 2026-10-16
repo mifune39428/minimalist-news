@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T12:44:25.619438+09:00",
+ "updated_at": "2026-10-16T20:00:25.623593+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,33 +27,35 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-16T12:44:59.131755+09:00",
+  "generated_at": "2026-10-16T20:04:58.348268+09:00",
   "days": 3,
   "period": "10月15日〜10月16日",
   "count": 45,
-  "reduce_count": 32,
-  "own_count": 13,
-  "overview": "持ち物のデジタル管理やガジェットの活用による効率化のほか、キッチンや収納スペースの限られた環境での具体的な工夫や失敗談が語られています。",
-  "reduce": "物をただ捨てるのではなく譲渡や基準設定で罪悪感を減らす工夫や、キッチン・収納の省スペース化に関する体験談が多く寄せられています。",
-  "own": "スマートフォンやアプリを使ったコスメの管理、車内や日常の持ち運びに適したガジェット選び、キッチン周りの便利な道具の活用法が紹介されています。",
+  "reduce_count": 29,
+  "own_count": 16,
+  "overview": "10月15日〜16日に集まった45件の記事では、持ち物を手放して暮らしをラクにする具体的な工夫や、機能的なガジェット・アイテムを活用した生活の効率化が多角的に語られています。",
+  "reduce": "物を手放すことで心に余白を生み、家事や仕事の効率を上げる具体的な断捨離の体験談や片付けの工夫が多数語られています。",
+  "own": "新幹線の移動や出張、狭いキッチンなどの限られた環境を快適にする、コンパクトで機能的な持ち物やガジェットの活用法が紹介されています。",
   "points": [
    {
-    "title": "キッチンの省スペース化",
-    "body": "狭い賃貸キッチンにおいて、作業台を潰さずにタンク式食洗機を置く工夫や、調理スペースに合わせた牛刀の選び方が紹介されています。また炊飯器を手放し電気圧力鍋にしたものの同時調理ができず後悔した失敗談もあります。"
+    "title": "手放すことによる効率化",
+    "body": "物をつぎつぎと手放して思考に余白を作ることで、仕事の集中力や作業スピードが向上したという体験談が語られています。また、持ち物を減らすことで毎日の家事を大幅に削減し、暮らしの面倒くささを解消するポイントも解説されています。"
    },
    {
-    "title": "デジタルを活用した管理法",
-    "body": "アナログ手帳を愛用しながら、服やコスメをアプリを使ってデジタルで管理し使用期限やレビューを記録する工夫が語られています。また、カメラの持ち歩きをクリップ式に変えて撮影枚数が増えた事例もあります。"
+    "title": "狭い空間を活かす工夫",
+    "body": "奥行きの狭い賃貸キッチンでは、作業台に合わせて210mmの牛刀を選ぶことや、シンク上のデッドスペースを活用してタンク式食洗機を導入する工夫が紹介されています。また、出張時の狭い机でも場所を取らない展開時のフットプリントが小さいガジェットポーチの選び方も取り上げられています。"
    },
    {
-    "title": "買い物の失敗と見直し",
-    "body": "セールの安さに惹かれて格安モニターを購入した結果、配線や大きな台座で机が狭くなり作業効率が下がった失敗談などが語られています。セール時はポイント倍率ではなく実質底値や占有度で判断する工夫も紹介されています。"
+    "title": "お金と買い方の見直し",
+    "body": "缶チューハイの箱買いをやめて業務用に切り替えることで年間10万円の出費を減らした話や、大型セールでポイント倍率ではなく1個あたりの実質底値と段ボールの占有度で無駄買いを防ぐ基準が紹介されています。"
    }
   ],
   "keywords": [
    "断捨離",
    "ミニマリスト",
-   "持たない暮らし"
+   "ガジェット",
+   "手放す",
+   "収納"
   ]
  },
  "things": [
@@ -74,7 +76,7 @@
    "count": 4
   },
   {
-   "name": "スマートフォン",
+   "name": "バッグ",
    "count": 4
   },
   {
@@ -94,6 +96,14 @@
    "count": 3
   },
   {
+   "name": "ケーブル",
+   "count": 3
+  },
+  {
+   "name": "スマートフォン",
+   "count": 3
+  },
+  {
    "name": "デスク",
    "count": 3
   },
@@ -102,19 +112,11 @@
    "count": 3
   },
   {
-   "name": "バッグ",
-   "count": 3
-  },
-  {
    "name": "モニター",
    "count": 3
   },
   {
    "name": "モバイルバッテリー",
-   "count": 3
-  },
-  {
-   "name": "冷蔵庫",
    "count": 3
   },
   {
@@ -162,7 +164,11 @@
    "count": 2
   },
   {
-   "name": "ケーブル",
+   "name": "ガジェットポーチ",
+   "count": 2
+  },
+  {
+   "name": "スカート",
    "count": 2
   },
   {
@@ -206,15 +212,11 @@
    "count": 2
   },
   {
+   "name": "冷蔵庫",
+   "count": 2
+  },
+  {
    "name": "加湿器",
-   "count": 2
-  },
-  {
-   "name": "机",
-   "count": 2
-  },
-  {
-   "name": "棚",
    "count": 2
   }
  ],
@@ -228,6 +230,7 @@
   "Better Homes & Gardens",
   "Bona Magazine",
   "Cleveland.com",
+  "Cycling Weekly",
   "ENCOUNT",
   "FUDGE.jp",
   "Franklin County Free Press",
@@ -301,6 +304,294 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "ba4587f9bfd5ab40",
+   "url": "https://note.com/toimo/n/n2c03daae8d65",
+   "title_original": "捨てられない、「わたあめ機」",
+   "source": "note #断捨離",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/7f90ff10f6393b1bc28eb5d1969ce952d2bdad2d.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-16T10:50:36+00:00",
+   "title_ja": "家庭用のわたあめ機を捨てられずにいる理由",
+   "summary_ja": "自宅にある家庭用わたあめ機を手放せずに残している様子を綴った記事。使わないと分かっていても捨てる踏ん切りがつかないモノとの向き合い方について触れている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "わたあめ機"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "e7731a1d66b7364a",
+   "url": "https://note.com/ganahi/n/nc23e35aff446",
+   "title_original": "運が悪いんじゃない。部屋が悪いだけ",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/325054106/rectangle_large_type_2_62bcecb8adbacd8f9a9aa3c3b34fdd6a.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-16T10:48:52+00:00",
+   "title_ja": "心を整える前にまず部屋を片付けるべき理由",
+   "summary_ja": "気持ちを変えるよりも先に散らかった部屋を清めることの大切さを解説した記事。人は過ごす環境の状態を自分の価値として無意識に受け取るため、空間を整えることが先決だと述べている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "2c5865213c73aa7e",
+   "url": "https://www.cyclingweekly.com/deals/declutter-your-cockpit-with-2026s-sleekest-new-bike-light-trend-10-out-front-mount-bike-lights",
+   "title_original": "Declutter your cockpit with 2026’s sleek bike light trend",
+   "source": "Cycling Weekly",
+   "image": "https://cdn.mos.cms.futurecdn.net/QEg2t4G2ivnecWpvfRVrXB-2560-80.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-16T10:46:47+00:00",
+   "title_ja": "自転車のハンドル周りを洗練させる最新ライト",
+   "summary_ja": "自転車のハンドルまわりをスッキリと整理できる、最新のバイクライトのトレンドについて取り上げた記事。デザイン性に優れたアイテムでコックピットをスマートに整える提案がされている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "自転車",
+    "ライト"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "2b399e02b58a905b",
+   "url": "https://note.com/senzaibigaku/n/n33bd7cbc88e5",
+   "title_original": "ものを手放すと、仕事が速くなる。全捨離で頭に余白ができる理由｜潜在美学コラム",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/325052943/rectangle_large_type_2_b9b0a1a1bab25feaa257c848a86302ef.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-16T10:44:56+00:00",
+   "title_ja": "手放すことで頭に余白ができ仕事が効率化する理由",
+   "summary_ja": "物をつぎつぎと手放すことで思考に余白が生まれ、仕事の集中力や作業スピードが向上した体験を語る記事。片づけを進めることで時間のゆとりが生まれ、作業が捗る効果について述べている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "5ad4f282d64990db",
+   "url": "https://note.com/smart_life_yuma/n/nee21919e16d7",
+   "title_original": "新幹線の首凝りをゼロにする！顎下支持ネックピローで出張が変わる",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/325048818/rectangle_large_type_2_43ddac1c0f51d8e82dbf817b90821c88.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-16T10:31:43+00:00",
+   "title_ja": "新幹線の首凝りを防ぐ顎下支持ネックピロー",
+   "summary_ja": "新幹線の移動で首のコリに悩んでいた人が、直角に近い座席でも熟睡できるように検証し、顎下支持設計のネックピローを取り入れた体験談です。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "ネックピロー",
+    "エアー枕"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "96312a8811eb2fcd",
+   "url": "https://note.com/smart_life_yuma/n/ndfa776d193c5",
+   "title_original": "新幹線でケーブルをぶちまけた僕が選ぶ出張ガジェットポーチ",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/325039262/rectangle_large_type_2_4a3321fb9dc36afabfc8901dcc8299df.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-16T10:01:13+00:00",
+   "title_ja": "出張に最適なガジェットポーチの選び方とポイント",
+   "summary_ja": "新幹線の狭い机でも場所を取らない、展開時のフットプリントが小さいガジェットポーチの選び方を紹介。容量よりコンパクトさが出張の快適さを左右する点を解説し、実際に使えるモデル例も提示。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ガジェットポーチ",
+    "充電器",
+    "ケーブル"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "313aad8f7aabd139",
+   "url": "https://www.roomie.jp/2026/10/1900263",
+   "title_original": "モンベルの「ペアスキンコットンロンT」が快適なシーズン！面素材の風合いと、速乾性を両立した理想のインナーだよ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/20261016_montbell_1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-16T10:00:20+00:00",
+   "title_ja": "季節の変わり目に便利なモンベル速乾インナー紹介",
+   "summary_ja": "肌寒い季節に、モンベルのペアスキンコットンロンTが速乾性と柔らかさを兼ね備えたインナーとしておすすめ。アウトドアでも快適に着られ、重ね着の幅が広がる点を紹介。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "ペアスキンコットンロンT"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "11d852c744a72b2f",
+   "url": "https://monomax.jp/archives/367532",
+   "title_original": "ワークマン「フードがネックピローになる」2900円のすごい旅アウター、雨も安心の付録“シップス エニィの7大機能バッグ…ほか【旅グッズの人気記事ランキングベスト3】（2026年9月版）",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2026/10/IMG_4473_result.webp",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-16T10:00:16+00:00",
+   "title_ja": "ワークマンのネックピローフード付き旅アウターと機能バッグ",
+   "summary_ja": "価格2900円のワークマン製アウターはフードがネックピローになる設計で、雨天でも安心。さらにシップス エニィの7大機能バッグが付属し、旅先での収納をシンプルにする。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "ワークマンの旅アウター",
+    "シップス エニィの機能バッグ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "20ad2a0910f5ea42",
+   "url": "https://www.youtube.com/watch?v=A54zSto-6IE",
+   "title_original": "【捨て活】ルームツアーしながら いらない物を全部捨てる｜洗面所・お風呂・リビング｜30代一人暮らし（後編）",
+   "source": "うにのゆるシンプルな暮らし",
+   "image": "https://i2.ytimg.com/vi/A54zSto-6IE/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-10-16T10:00:09+00:00",
+   "title_ja": "洗面所・お風呂・リビングの不要品を捨てたルームツアー",
+   "summary_ja": "30代一人暮らしのミニミニマリストが、洗面所・お風呂・リビングの不要な洗剤や洗濯カゴ、使わなくなった掃除道具などを実際に手放す様子を紹介。捨てる基準や減らし方のヒントが得られる。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "洗面所の洗剤",
+    "洗濯カゴ",
+    "掃除用具",
+    "スカート"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "0f59c7baf8ea2c58",
+   "url": "https://www.roomie.jp/2026/10/1902962",
+   "title_original": "ふわふわミルクも、抹茶もこれ1本。1,000円台で買えるカリタの「ミルクフォーマー」で、おうちカフェがもっと楽しくなりそう",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/2610_kaltafrother_top.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-16T09:50:49+00:00",
+   "title_ja": "1,000円台で買えるカリタのミルクフォーマーで自宅カフェを実現",
+   "summary_ja": "カリタのスティックミルクフローサーは1,000円台で手に入るミルクフォーマー。簡単にミルクを泡立て、カフェ風ドリンクを自宅で楽しめる使い方と購入ポイントを紹介。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "カリタ スティックミルクフローサー"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "8bd286f81dbd4c29",
+   "url": "https://monomax.jp/archives/367452",
+   "title_original": "【手ぶら派必携のコールマン】単なる“財布バッグ”を超えた「2層式お財布ショルダー」は海外旅行まで使える！MonoMax11月号増刊付録をスタイリストが徹底検証",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2026/10/261010-166982.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-16T09:00:05+00:00",
+   "title_ja": "コールマンの2層式財布ショルダーを実際に検証",
+   "summary_ja": "スタイリストがMonoMax増刊付録のコールマン2層式財布ショルダーを評価。財布とショルダーが一体化し、旅行でも使える軽量設計が特徴だ。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "コールマン 2層式財布ショルダー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "cf0f7e9031ef76b7",
+   "url": "https://www.youtube.com/watch?v=8owy3Qk8zXE",
+   "title_original": "なぜか疲れる毎日。その原因は家の中にありました。",
+   "source": "小さな暮らしノート",
+   "image": "https://i1.ytimg.com/vi/8owy3Qk8zXE/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-10-16T08:30:04+00:00",
+   "title_ja": "物が多くて疲れた日常を減らしたら変わった5つのこと",
+   "summary_ja": "部屋のものを減らすと、探す時間が減り、朝夜のルーティンが楽になると同時に、疲れの原因が見えるようになったと語る。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "保育園の書類"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "5426550b3636f7ff",
+   "url": "https://youtu.be/UomKAjjk1MM?si=Z4SPM4KHoWBEvaKw",
+   "title_original": "元ミニマリスト林野庁職員の通勤バッグの中身！What's In My Bag?",
+   "source": "YouTube",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-16T08:09:09+00:00",
+   "title_ja": "元ミニマリスト林野庁職員の通勤バッグの中身",
+   "summary_ja": "元林野庁職員であるミニマリストの、通勤バッグに入っている持ち物を紹介している。どのようなアイテムを持ち歩いているのかが分かる内容。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "バッグ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "8b35431ae6878bdb",
+   "url": "https://www.youtube.com/watch?v=A1m31w_CI58",
+   "title_original": "【ミニマリスト】『ちゃんと暮らす』をやめたらモノが減った",
+   "source": "ぴーこ｜ゆるっとミニマルな日常",
+   "image": "https://i2.ytimg.com/vi/A1m31w_CI58/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-10-16T08:00:38+00:00",
+   "title_ja": "「ちゃんとする」をやめてモノを減らした話",
+   "summary_ja": "家事をきっちりこなすことをやめた結果、必要な物が自然と減り暮らしがラクになった経験を語る。収納や料理、掃除の場面で手放した物について紹介している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "2e1d500e43669aca",
+   "url": "https://note.com/best_lifestyle/n/n7dd88d3e094d",
+   "title_original": "2027年家族カレンダーは「1人3.8㎠」が最小の防衛線",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/324991362/rectangle_large_type_2_7004732cdb723604e3564e57357abc27.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-16T07:31:44+00:00",
+   "title_ja": "家族カレンダーの必要スペースについての考え方",
+   "summary_ja": "家族の予定を管理するためのカレンダーについて、破綻しないために必要な1人あたりの筆記面積の基準や、スケジュール共有の工夫について考察している。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [
+    "カレンダー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "8c054ff9c61259d9",
+   "url": "https://youtu.be/rg_OMMQEgeQ?si=73WOXJgAcy_Sk4bj",
+   "title_original": "【一人暮らしミニマリスト】手放したら楽になった物16選",
+   "source": "YouTube",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-16T05:43:49+00:00",
+   "title_ja": "一人暮らしミニマリストが手放した16アイテム",
+   "summary_ja": "動画では、一人暮らしミニマリストが実際に手放した16品を紹介。不要品を減らすことで生活が楽になった具体例が語られる。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
   {
    "id": "dc5d6f8cb792ec62",
    "url": "https://note.com/ho_room/n/naa2e85b67347",
@@ -7053,287 +7344,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 4
-  },
-  {
-   "id": "821145083b7b2c02",
-   "url": "https://www.apartmenttherapy.com/bakon-over-door-hanger-drying-rack-amazon-prime-big-deal-days-37694437",
-   "title_original": "I Put This Storage Gem in My Bedroom, and It Created an Instant Closet",
-   "source": "Apartment Therapy",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-08T15:43:01+00:00",
-   "title_ja": "寝室に収納アイテムを置くだけでクローゼットが完成",
-   "summary_ja": "寝室に置くだけで即席クローゼットになる収納アイテムを紹介し、限られたスペースで衣類を整理する方法を示す。実際に使用した感想や配置のコツも解説。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "f00c11531ff6e0b1",
-   "url": "https://nosidebar.com/why-a-20th-century-lifestyle-might-be-the-only-way-to-retire",
-   "title_original": "Why a 20th Century Lifestyle Might Be the Only Way to Retire",
-   "source": "No Sidebar",
-   "image": "https://nosidebar.com/wp-content/uploads/a-c-1SJiblFI3Eg-unsplash1-scaled.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-08T14:00:00+00:00",
-   "title_ja": "20世紀的生活が退職後の資金を支える理由",
-   "summary_ja": "著者は現代の中産階級的暮らしを見直し、20世紀風のシンプルな生活へシフトすることで、退職後に必要な1～2億円の資金を大幅に削減できると主張する。具体例として支出の見直しや所有物の減少を挙げている。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "1fd7a100138c0880",
-   "url": "https://www.lifehacker.jp/article/2610-lht-sanwa-chargingstation-b115uc",
-   "title_original": "コンセントがなければ「挟んで」増設すればいいじゃない。手元に設置できるサンワの電源タップ",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/06/24/549bfbcb-713a-417b-a3ac-bb7bcabcb87b/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-08T13:15:00+00:00",
-   "title_ja": "サンワのクランプ付き電源タップで配線をすっきり",
-   "summary_ja": "工具不要で好きな場所に固定できるサンワ製クランプ付き電源タップ「TAP-B115UC-2BK」を実際に使用し、コンセント不足を解消しつつ配線を整理できる点を評価する。設置の手軽さと安全性が特徴。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "サンワ クランプ電源タップ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2ca8557bd8de2146",
-   "url": "https://monomax.jp/archives/365338",
-   "title_original": "【究極のギミック服】作業着の概念が覆る！8ポケット＆短パンになるミズノの「本格テックウェア」が優秀。季節の変わり目の最適解をスタイリストが徹底解説",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2026/10/SH_F2JED36055_00-e1791437479965.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-08T13:00:37+00:00",
-   "title_ja": "8つのポケットと短パンになるミズノのテックウェア",
-   "summary_ja": "作業着の概念を変える、8つのポケットを備え短パンにも変形するミズノの本格テックウェア。季節の変わり目に重宝する機能的な服としてスタイリストが解説している。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "ミズノのテックウェア"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "d0acdecfcdda292f",
-   "url": "https://note.com/m_subt443/n/n1e4c324233ad",
-   "title_original": "冷蔵庫を空っぽにしたら、純度99.5％の塩を探すハメになった話（手放す日々 ひとコマ）",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/321665155/rectangle_large_type_2_cbec2d45ce23448a1f9ff52913870dbc.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-08T12:55:55+00:00",
-   "title_ja": "冷蔵庫を空にしたら純度99.5%の塩を探すはめに",
-   "summary_ja": "冷蔵庫の中身をすべて手放した結果、食材がなくなり、純度の高い塩を求めてサバイバル的な探索を余儀なくされた体験を語る。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "冷蔵庫",
-    "塩",
-    "レトルト食品"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "a9499c7534bd7af5",
-   "url": "https://note.com/zubora_mammy/n/n6553476846d6",
-   "title_original": "片付けで疲れて、掃除までできない。今日は「ひと拭きできる場所」をつくる",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/322231631/rectangle_large_type_2_6ccfb44a012308f9a91211232dbdc3bb.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-08T12:45:32+00:00",
-   "title_ja": "片付けで疲れたら「ひと拭きできる場所」を作る方法",
-   "summary_ja": "掃除が面倒になるときは、拭くだけで済む小さなエリアを設けることで、片付けのハードルを下げる実践例を紹介。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "dcd2ba08c69439b1",
-   "url": "https://note.com/clean_shark7492/n/n0cdddf7f092b",
-   "title_original": "ソロキャンプ道具4選｜はじめてでも失敗しにくい最小構成",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/322227079/rectangle_large_type_2_1974e5dacb1dd2a57c3f12e7688fd22e.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-08T12:34:07+00:00",
-   "title_ja": "ソロキャンプ道具4選：はじめての最小構成",
-   "summary_ja": "はじめてのソロキャンプに向けて、失敗しにくい最小限の道具構成を紹介している記事。キャンプの荷物を少なく抑えたい人向けのアイテム選びの参考になる内容。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "キャンプ道具"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "71e9a9e61bcdcaa6",
-   "url": "https://www.roomie.jp/2026/10/1899530",
-   "title_original": "山崎実業の名作キッチンアイテム、アウトドアでも大活躍するって知ってた？",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/P1020970-scaled-1.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-08T12:30:59+00:00",
-   "title_ja": "山崎実業のキッチンアイテムのアウトドア活用",
-   "summary_ja": "山崎実業のアイテムについて紹介されているが、文章が途中で切れており具体的なミニマリズムの実践内容や持ち物リストを確認できないため除外する。",
-   "category": "キッチン・食",
-   "axis": "reduce",
-   "things": [],
-   "importance": 1
-  },
-  {
-   "id": "b65e864c9cef0358",
-   "url": "https://note.com/cozy_life_takuto/n/n7123590effff",
-   "title_original": "結局どれ？デスクのUSB電源タップは「机の構造」で決まる",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/322225767/rectangle_large_type_2_fb82d8e15a912168d4f79e74ef49d524.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-08T12:30:10+00:00",
-   "title_ja": "デスクのUSB電源タップは机の構造で選ぶ",
-   "summary_ja": "床置きから机上への固定に変えることでデスク周りのストレスを解消した体験談。クランプ式、マグネット式、卓上型の3つから、机の構造に合わせて選ぶ方法を解説している。",
-   "category": "道具・ガジェット",
-   "axis": "reduce",
-   "things": [
-    "電源タップ",
-    "USB電源タップ",
-    "充電ケーブル"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "607c0386bbce52bf",
-   "url": "https://www.lifehacker.jp/article/2610-best-garmin-sleep-tracking-hacks",
-   "title_original": "Garminの睡眠トラッキング精度を上げる、今日から試せる5つの設定",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/10/06/8af8ffe8-612a-4223-96f8-902064e4b329/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-08T12:30:00+00:00",
-   "title_ja": "Garminの睡眠トラッキング精度を上げる設定",
-   "summary_ja": "新しいデバイスを買わずに、手持ちのGarminスマートウォッチで質の高い睡眠データを得るための5つの設定方法を紹介している。既存の道具を活かす工夫。",
-   "category": "道具・ガジェット",
-   "axis": "reduce",
-   "things": [
-    "スマートウォッチ",
-    "Garmin"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "d6a1f2eb2d0ad27e",
-   "url": "https://note.com/yarxaria/n/ne23503b70ee5",
-   "title_original": "「所有」から「体験」へ：AI時代のミニマリズムと心の充足感",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/322207991/rectangle_large_type_2_e742e8f254bde876a529d937999fa4fb.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-08T12:07:17+00:00",
-   "title_ja": "所有から体験へ：AI時代のミニマリズム",
-   "summary_ja": "AI時代のミニマリズムや心の充足感について語られているが、具体的な持ち物や手放し方の情報が含まれていないため除外する。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 1
-  },
-  {
-   "id": "09396433faad90c0",
-   "url": "https://note.com/fine_vole9472/n/neda6dcaae2cc",
-   "title_original": "スマホと「やらなきゃ」に追われていた私が、子どもと庭で見つけたもの",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/319995932/rectangle_large_type_2_9dba7d8a2ec1d9841ad24a34efda2865.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-08T12:03:29+00:00",
-   "title_ja": "スマホ依存から解放、庭で見つけたシンプルな暮らし",
-   "summary_ja": "スマホに追われていた著者が、子どもと庭で自然と触れ合う時間を持ち、デジタルから離れるきっかけを得た様子を語る。その経験から、スマホ使用を減らし、ゆとりある生活を取り戻す方法を考える。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "スマートフォン"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f99523e2aef4111d",
-   "url": "https://www.roomie.jp/2026/10/1901529",
-   "title_original": "小さなカバンでも持ち歩ける、モンベルの「四角いボトル」。このコンパクトさで実は500ml入るんです",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/04/DSC_0488-scaled.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-08T11:30:07+00:00",
-   "title_ja": "モンベルの四角い500mlボトル、コンパクトさが魅力",
-   "summary_ja": "モンベルの四角い形状の500mlボトルは、従来のステンレス製より軽く、コンパクトなバッグにも収まりやすく、毎日持ち歩く水分補給に最適だと作者が実体験で紹介している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "モンベルの四角いボトル"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "0bebe2904c21c8c5",
-   "url": "https://www.roomie.jp/2026/10/1900652",
-   "title_original": "充電器もケーブルもこれ1つ。Ankerのピカチュウポーチが15％オフ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/RM-3.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-08T11:15:27+00:00",
-   "title_ja": "Ankerのピカチュウ旅行ポーチで充電器とケーブルを一括管理",
-   "summary_ja": "Ankerのピカチュウデザインのトラベルポーチは、充電器とケーブルを1つにまとめられ、旅行や出張時の荷造りをシンプルにし、見た目も楽しくするアイテムとしておすすめされている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "Anker トラベルポーチ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "e7c5dfb4dbadb223",
-   "url": "https://www.aslobcomesclean.com/2026/10/531-call-the-bluff-decluttering",
-   "title_original": "531: “Call the Bluff” Decluttering",
-   "source": "A Slob Comes Clean",
-   "image": "https://www.aslobcomesclean.com/wp-content/uploads/2026/08/New-Podcast-Art-2026-sm-size-1024x1024.png",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-08T11:00:44+00:00",
-   "title_ja": "自分を言い訳させない片づけ術の考え方",
-   "summary_ja": "自分の言い訳を見抜いて行動する片づけのコツを紹介。容器の容量を守ることやその場で片づける習慣を取り入れ、モノを減らす作業を確実に実行する方法を解説している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "f78ffd9a214ab7ec",
-   "url": "https://monomax.jp/archives/365818",
-   "title_original": "【大人の休日バッグの最適解】ブリーフィング名作「デイトリッパー」20周年限定モデル！サイズ＆素材のアプデ版を編集部が徹底解説",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2026/10/260810-154040_11zon-scaled-e1791434298883.jpeg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-08T11:00:14+00:00",
-   "title_ja": "ブリーフィング「デイトリッパー」20周年限定モデルの解説",
-   "summary_ja": "発売から20年を迎えたブリーフィングの名作バッグ「デイトリッパー」の限定モデルについて、サイズや素材のアップデートポイントを編集部が徹底解説している。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "デイトリッパー"
-   ],
-   "importance": 3
   }
  ]
 }
