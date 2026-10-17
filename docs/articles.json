@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T05:41:56.921410+09:00",
+ "updated_at": "2026-10-17T12:34:16.858206+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,35 +27,34 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-17T05:43:29.488237+09:00",
+  "generated_at": "2026-10-17T12:35:10.148043+09:00",
   "days": 3,
   "period": "10月16日〜10月17日",
   "count": 45,
-  "reduce_count": 26,
-  "own_count": 19,
-  "overview": "手放し方や片付けの習慣化に関する実践的な工夫から、日常の質を高めるこだわりや厳選された持ち物の紹介まで、多様なアプローチが語られています。",
-  "reduce": "ポモドーロ法や引っ越しを想定した思考実験で片付けを習慣化し、不要な物や負担を着実に減らす工夫が語られています。",
-  "own": "限られた空間でも快適に暮らすため、機内持ち込みサイズやコンパクトさを重視した機能的な道具やガジェットが選ばれています。",
+  "reduce_count": 28,
+  "own_count": 17,
+  "overview": "片付けや断捨離の実体験や習慣に関する減らし方の話題と、ガジェットや生活雑貨などの持ち物に関する工夫が多数語られています。",
+  "reduce": "不用品の手放し方や習慣を見直し、限られた収納やキャパシティに合わせて暮らしを整える工夫や体験談が多く語られています。",
+  "own": "カメラリュックやジャケット、調理器具など、自身のライフスタイルに合わせたこだわりの持ち物選びや愛用品が紹介されています。",
   "points": [
    {
-    "title": "片付けの習慣化とコツ",
-    "body": "ポモドーロ法を取り入れた小さな作業や、明日引っ越すという仮定のシチュエーションを活用して、先延ばしにせず片付けを進める手法が紹介されています。"
+    "title": "手放す工夫と習慣",
+    "body": "不用品販売の売上記録や週末の片づけ、ポモドーロ法を活用した小さなステップでの片付けなど、無理なく手放す方法が語られています。"
    },
    {
     "title": "収納と買い方の見直し",
-    "body": "限られた賃貸の収納を圧迫しないよう大容量パックを避けて高密度な日用品を選んだり、終わらない掃除に直面して今後の買い方を見直す様子が語られています。"
+    "body": "部屋が散らかる原因や圧縮袋による服の傷みへの対策、大容量パックを避けて保管場所を取らない日用品を選ぶ工夫が紹介されています。"
    },
    {
-    "title": "旅と移動の快適化",
-    "body": "新幹線の首凝りを防ぐ顎下支持ネックピローや、機内持ち込みサイズをクリアするカメラリュックなど、移動時間を快適にする道具が選ばれています。"
+    "title": "こだわりの持ち物選び",
+    "body": "衣類スチーマーやリカバリーウェア、機内持ち込みサイズのカメラリュックなど、用途や枚数にこだわったアイテム選びが紹介されています。"
    }
   ],
   "keywords": [
    "断捨離",
    "ミニマリスト",
    "片付け",
-   "収納",
-   "ガジェット"
+   "収納"
   ]
  },
  "things": [
@@ -100,10 +99,6 @@
    "count": 3
   },
   {
-   "name": "ダウンジャケット",
-   "count": 3
-  },
-  {
    "name": "デスク",
    "count": 3
   },
@@ -129,10 +124,6 @@
   },
   {
    "name": "本",
-   "count": 3
-  },
-  {
-   "name": "段ボール",
    "count": 3
   },
   {
@@ -172,6 +163,10 @@
    "count": 2
   },
   {
+   "name": "ダウンジャケット",
+   "count": 2
+  },
+  {
    "name": "ノートPC",
    "count": 2
   },
@@ -192,6 +187,10 @@
    "count": 2
   },
   {
+   "name": "上着",
+   "count": 2
+  },
+  {
    "name": "冷蔵庫",
    "count": 2
   },
@@ -208,15 +207,15 @@
    "count": 2
   },
   {
+   "name": "段ボール",
+   "count": 2
+  },
+  {
    "name": "洋服",
    "count": 2
   },
   {
    "name": "無印良品",
-   "count": 2
-  },
-  {
-   "name": "老眼鏡",
    "count": 2
   }
  ],
@@ -244,7 +243,6 @@
   "MonoMax",
   "NZ Herald",
   "New York Post",
-  "News.com.au",
   "No Sidebar",
   "PHPオンライン",
   "People.com",
@@ -295,7 +293,6 @@
   "千葉テレビ放送株式会社",
   "小さな暮らしノート",
   "山陽新聞",
-  "河北新報オンライン",
   "私だけミニマリスト｜南さやか",
   "筆子ジャーナル",
   "조선일보",
@@ -303,6 +300,200 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "6e488fae0a90d7be",
+   "url": "https://note.com/panonote/n/na768d90cb712",
+   "title_original": "断捨離の合間に書いてみています✍️",
+   "source": "note #断捨離",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/4bb6bddd6abba4497d9f66cf9c0ae0853d6ac473.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-17T03:21:08+00:00",
+   "title_ja": "不用品販売の売上とこれからの断捨離計画",
+   "summary_ja": "これまでの不用品販売で約4万円の売上を得た人の記録。日頃から断捨離をしているため手放せる物が減ってきたとし、今後は1年間使わなかったものについての紹介を予定している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "16f9443b6d89dce1",
+   "url": "https://note.com/kurage_simple/n/nee5c04ec7534",
+   "title_original": "いっしょに片付けたら、人生が変わってしまったみんなの話。",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/325272879/rectangle_large_type_2_d4ffee7c1ec9d51b6162da56ee317c26.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-17T03:19:58+00:00",
+   "title_ja": "片付けを通じて人生が変わった人たちの話",
+   "summary_ja": "片付けをきっかけに集まった人たちとの出会いや、生活を共にする中で人生が変化していった様子について語られている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "fcc582357ccdfbd2",
+   "url": "https://note.com/alive_drake9577/n/n04960961e4f9",
+   "title_original": "すぐ散らかる人のポイントは二つ。追加のインテリアアドバイス。捨てた後に読んでね。",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/325272543/rectangle_large_type_2_0d58229aa52e1513c94044914f96bea0.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-17T03:16:44+00:00",
+   "title_ja": "部屋がすぐ散らかる人の特徴とインテリアのコツ",
+   "summary_ja": "部屋が散らかる原因は使った後に元の場所に戻していないことだとする指摘と、追加のインテリアに関するアドバイスが書かれている。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "dba8234caaa51bf1",
+   "url": "https://note.com/best_lifestyle/n/ndbc60f28df4b",
+   "title_original": "衣類スチーマー、枚数で選ぶと二度手間になる話",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/325267746/rectangle_large_type_2_54750b95e5843b67b94abe048c9cfeed.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-17T03:00:21+00:00",
+   "title_ja": "衣類スチーマーは枚数で選ぶと失敗する理由",
+   "summary_ja": "ストップウォッチで測定した結果、アイロン兼用型は4枚、スチーム専用型は6枚のシワ取りが可能だったが、仕上がりの細かさで専用型は逆に手間が増えることが分かりました。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "衣類スチーマー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "802ac688d9b47364",
+   "url": "https://www.lifehacker.jp/article/2610-you-dont-need-google-apps-on-your-phone-anymore-try-these-instead",
+   "title_original": "プライバシーを守りながら快適に使える、Googleアプリの代替ツール6選",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/10/15/15c42c56-e3ba-4098-a33b-7ffd0b6c2b94/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-17T03:00:00+00:00",
+   "title_ja": "プライバシー保護しながら使えるGoogle代替アプリ6選",
+   "summary_ja": "位置情報や行動データの収集を避けつつ、メール・マップ・ブラウザ・写真・カレンダー・クラウドの6項目で快適に使えるGoogleアプリ代替ツールを厳選して紹介します。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "メールアプリ",
+    "マップアプリ",
+    "ブラウザ",
+    "クラウドストレージ"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "bb8348f4968a5683",
+   "url": "https://www.lifehacker.jp/article/amazon-sale-nanobubble",
+   "title_original": "洗濯機のホースにつなぐだけ。見えない泡がもたらした、天気に左右されない洗濯の余裕",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/07/09/b9a7d6aa-37d8-4d37-891d-31fc5f24a817/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-17T02:30:00+00:00",
+   "title_ja": "洗濯機ホースに付けるだけのナノバブル装置レビュー",
+   "summary_ja": "洗濯機の給水ホースに接続するだけで微細ナノバブルを発生させ、部屋干し臭の軽減や洗浄力向上を実感。天候に左右されず快適に洗濯できる点を2年半の使用感と共にレビューしています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ナノバブル装置"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "973ea6ba127516ec",
+   "url": "https://www.lifehacker.jp/article/2610-lht-workman-recovery-wear-2",
+   "title_original": "「リカバリーウェア＝高い」のイメージが崩れた。ワークマンなら1着2900円、薄いのに暖かくて仕事モードもオフになる",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/10/08/814a522d-959b-44da-9539-ac70d3d339cb/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-17T02:00:00+00:00",
+   "title_ja": "ワークマンのリカバリーウェアで快適に過ごすおうち時間",
+   "summary_ja": "手頃な価格で購入できるワークマンのリカバリーウェア「メディヒール コスモス」の着心地を紹介。締め付けのないサラッとした着用感で、リラックスした部屋着として活用している様子を伝えています。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "リカバリーウェア"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "00f6b9ed9b2c0ae1",
+   "url": "https://www.roomie.jp/2026/10/1908541",
+   "title_original": "鍵やイヤホンもまとめてぶら下げ管理。スマホは1秒で取り外せる万能ショルダーストラップ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/angelwings4.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-17T00:45:44+00:00",
+   "title_ja": "ワンアクションで外せる便利なスマホショルダーストラップ",
+   "summary_ja": "鍵やイヤホンも一緒に持ち運べ、使いたい時にスマホを1秒で取り外せるRovyVonのショルダーストラップの使用感をレビュー。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "スマホストラップ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e818eb9d171d9d54",
+   "url": "https://minimalist-fudeko.com/too-many-coloring-supplies",
+   "title_original": "2、3回生まれ変わらないと使い切れない。塗り絵の画材を買いすぎた話",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/10/clourling-goods.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-17T00:10:10+00:00",
+   "title_ja": "趣味の道具を買いすぎて使い切れない話",
+   "summary_ja": "趣味を始めると道具や素材が次々と欲しくなり、増えすぎてしまう現象についての気づき。使い切れないほどの画材を買ってしまった失敗談から、ものの持ち方を見つめ直す。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "塗り絵の画材"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e1b9ec0baffe662a",
+   "url": "https://bemorewithless.com/weekend-favorites-october-17-2026/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
+   "title_original": "the neuroscience of decluttering + the 5-wear rule",
+   "source": "Be More with Less",
+   "image": "https://bemorewithless.com/wp-content/uploads/2026/10/neuroscience-of-decluttering-image.png",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-16T22:09:47+00:00",
+   "title_ja": "デジタルや紙の山を手放す週末の片づけ",
+   "summary_ja": "写真や紙の山など、散らかった不用品を片付けるための週末の取り組みについての紹介。ものを手放すための考え方や片づけの習慣に焦点を当てている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "a512e5e9ebfb44ce",
+   "url": "https://note.com/metastyle/n/n7ff2c8f9f1f0",
+   "title_original": "上着を2着から1着に。Morethanの通勤ジャケット",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/325171421/rectangle_large_type_2_bb7aad6df01e07c561b372e9c8958b91.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-16T21:51:03+00:00",
+   "title_ja": "上着選びの迷いをなくすため通勤ジャケットを1着にした話",
+   "summary_ja": "きちんとしたジャケットと軽い上着の2着持ちで毎朝迷っていたため、通勤用の上着を1着に絞ってクローゼットをすっきりさせた人の体験談です。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "通勤ジャケット",
+    "上着"
+   ],
+   "importance": 3
+  },
   {
    "id": "c96c6e992f7703bd",
    "url": "https://note.com/vast_sedum409/n/nc53c0fba1a13",
@@ -394,6 +585,22 @@
    "published": "2026-10-16T18:30:00+00:00",
    "title_ja": "多忙な秋を快適にする片付けの習慣について",
    "summary_ja": "セラピストが提案する、忙しい秋の日々を混乱させないための11の片付け習慣について解説。暮らしの乱れを防ぎ、すっきりとした日常を維持するための整理整頓のヒント。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "f634ae0c96479198",
+   "url": "https://media.unisba.ac.id/03db5bd0/e1b3b79bCg5SXzFfIl5cGFo",
+   "title_original": "【実家片付け】20年ぶりの玄関一掃？！ゴミ屋敷の入り口がスッキリ変身✨母と口論しながら大量断捨離！ Martin Short (w56h9USwz6)",
+   "source": "Unisba Media",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-16T16:30:00+00:00",
+   "title_ja": "母親と口論しながら20年ぶりの玄関の大量断捨離をした話",
+   "summary_ja": "実家の玄関に溜まった不要品を、母親と口論をしながら20年ぶりに一掃し、ゴミ屋敷状態だった入り口をすっきりと変身させた実録です。",
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
@@ -7135,207 +7342,6 @@
     "上着"
    ],
    "importance": 4
-  },
-  {
-   "id": "aa59491afe427f7e",
-   "url": "https://kahoku.news/articles/JY6XWJHGL9KHN.html",
-   "title_original": "断捨離は「大切なものを見つけるヒントに」 提唱者のやましたひでこさんが11月に仙台で講演会＜インタビュー動画",
-   "source": "河北新報オンライン",
-   "image": "https://kahoku.news/images/2026/10/09/JY6XWJHGL9KHN/001_size7.jpg?timestamp=20261010071305",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-09T21:00:00+00:00",
-   "title_ja": "やましたひでこさんが語る、大切なものを見つける断捨離",
-   "summary_ja": "断捨離提唱者のやましたひでこさんが、物を通して本当に大切なものを見つけるヒントについて語る講演会のニュースです。片づけを通じて暮らしや心を整えるための基本的な考え方を伝えています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "73080fd68a226047",
-   "url": "https://www.realsimple.com/things-organized-people-never-keep-12149598",
-   "title_original": "8 Things Organized People Never Keep—and You Should Get Rid of Them Too",
-   "source": "Real Simple",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-09T19:30:00+00:00",
-   "title_ja": "片付け上手な人が絶対に自宅に置かない8つの物",
-   "summary_ja": "整理整頓が行き届いた人が自宅に溜め込まない、手放すべき8つの物について解説しています。不要なアイテムを処分するための基準や、すっきりした空間を保つための考え方が分かります。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "e8902cddd0ede91d",
-   "url": "https://www.youtube.com/watch?v=Q_qeumwK3fQ",
-   "title_original": "The Genius Hotel Cleaning Method (Why It Works!)",
-   "source": "The Minimal Mom",
-   "image": "https://i2.ytimg.com/vi/Q_qeumwK3fQ/hqdefault.jpg",
-   "media": "youtube",
-   "region": "海外",
-   "published": "2026-10-09T18:30:34+00:00",
-   "title_ja": "ホテル清掃の仕組みを取り入れた片づけ術",
-   "summary_ja": "ホテルの清掃方法からヒントを得た、効率的に家の中を片づけてすっきりさせるための手法を解説している動画。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "0579b05f6326f856",
-   "url": "https://www.goodhousekeeping.com/uk/house-and-home/household-advice/a74092074/things-to-declutter-in-morning",
-   "title_original": "5 things to declutter while you're getting ready in the morning, so you can be as productive as possible",
-   "source": "Good Housekeeping",
-   "image": "https://hips.hearstapps.com/hmg-prod/images/158c82e2-f216-4ccd-8c5a-888db21ce2cd.jpg?crop=1.00xw:0.753xh;0,0.247xh&resize=1200:*",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-09T16:39:17+00:00",
-   "title_ja": "朝の身支度中に見直したい5つのもの",
-   "summary_ja": "朝の準備をしている時間に手放すと、すっきりと効率的に過ごせるようになる5つのアイテムについて紹介する記事。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "05b7c6a9e45d3e6e",
-   "url": "https://www.thespruce.com/things-minimalists-toss-daily-for-a-cleaner-home-12159863",
-   "title_original": "7 Everyday Items Minimalists Toss Immediately for a Cleaner, Clearer Space",
-   "source": "The Spruce",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-09T16:34:00+00:00",
-   "title_ja": "ミニマリストがすぐに処分する7つの日用品",
-   "summary_ja": "部屋をすっきりと保つために、ミニマリストが日常の中で迷わず手放している7つの物について解説している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "7ee5cde2529593e8",
-   "url": "https://www.roomie.jp/2026/10/1902234",
-   "title_original": "炒めて煮込んでそのまま冷蔵庫へ。移し替えがいらない鍋で夕飯づくりがラクになった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/seto2.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-09T14:45:15+00:00",
-   "title_ja": "移し替えが不要な鍋で夕飯作りがラクになった話",
-   "summary_ja": "ダッチオーブンのような重さや手入れの負担を減らし、炒めて煮込んでそのまま冷蔵庫へ入れられる鍋を導入した人の話。毎日の料理の現実的な負担を軽くする工夫として役立つ道具の紹介。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "鍋"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "598aabf0447554ee",
-   "url": "https://note.com/kenichi_aichi/n/n61f70dd41b1c",
-   "title_original": "無料より高いものはない――「もらわない」という選択",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/322608598/rectangle_large_type_2_d4a977b3868434885db7a80394223e39.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-09T14:40:07+00:00",
-   "title_ja": "無料でもらわない選択をした人の話",
-   "summary_ja": "無料で配られているものでも、損はないという常識を疑い、あえてもらわない選択をする考え方についての気づきを綴っています。無駄なものを増やさないための工夫が分かります。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "4a6676b70d32673b",
-   "url": "https://www.youtube.com/watch?v=JSIh_erPIu8",
-   "title_original": "Fixing My Hair & Picking WALL COLOURS",
-   "source": "Sarah Therese",
-   "image": "https://i3.ytimg.com/vi/JSIh_erPIu8/hqdefault.jpg",
-   "media": "youtube",
-   "region": "海外",
-   "published": "2026-10-09T14:00:33+00:00",
-   "title_ja": "パン作りや日常を整える暮らしの記録",
-   "summary_ja": "自家製パン作りや日常のルーティンを大切にする人の記録。自宅でパンを作るための機械や、日々の生活を快適にするための道具を活用している様子が語られている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "パン焼き器"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "a74d408c353295d2",
-   "url": "https://www.cleveland.com/news/2026/10/why-midlife-clutter-is-draining-you-and-why-you-should-purge-it-in-our-best-life.html",
-   "title_original": "Why midlife clutter is draining you. And why you should purge it in Our Best Life",
-   "source": "Cleveland.com",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-09T14:00:00+00:00",
-   "title_ja": "中年期のモノの散らかりが心を疲れさせる理由",
-   "summary_ja": "人生の中盤におけるモノの散らかりがエネルギーを奪う原因について解説し、不要なものを手放すことの重要性を説いている。暮らしを軽くするための心の持ち方を考えるきっかけになる内容。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "eead2361c0707266",
-   "url": "https://www.news.com.au/branded-content/how-to-declutter-your-wardrobe-like-a-pro/news-story/d47f09224631e5c17b58d5e00e0b56ae",
-   "title_original": "How to declutter your wardrobe like a pro",
-   "source": "News.com.au",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-09T13:58:53+00:00",
-   "title_ja": "プロのようにワードローブを整理する方法",
-   "summary_ja": "クローゼットの中身をすっきりと整え、効率的に服を減らしていくためのアプローチについて紹介している記事です。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "a0c728eff69a9080",
-   "url": "https://note.com/best_lifestyle/n/n7a3bac9a9152",
-   "title_original": "プライム感謝祭の日用品は「超濃縮」が正解！棚1段に半年分収める技",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/322582879/rectangle_large_type_2_e2ab52e9e6d5f9004a7eae004b4f0ec8.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-09T13:15:39+00:00",
-   "title_ja": "大容量より超濃縮を選ぶ日用品のストック術",
-   "summary_ja": "メガサイズの日用品を買い込んで収納を圧迫するのを防ぎ、超濃縮や長尺のスマートなストック品を選ぶことで棚1段に半年分を収める工夫を紹介しています。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "日用品パウチ",
-    "段ボール"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "eefd1e6a1e0c1d32",
-   "url": "https://monomax.jp/archives/366201",
-   "title_original": "【スノーピークの即戦力ダウン】ミドルアウターに優秀な700FPの撥水モデル！冬コーデの主役に注目",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2026/10/b0ecdfda877f03fc871a3d80cb5947ba-1.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-09T13:00:25+00:00",
-   "title_ja": "スノーピークの700FP撥水ダウンジャケット",
-   "summary_ja": "冬のコーディネートの主役として活躍する、スノーピークの優秀なミドルアウターである700フィルパワーの撥水ダウンジャケットを紹介しています。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "ダウンジャケット"
-   ],
-   "importance": 2
   }
  ]
 }
