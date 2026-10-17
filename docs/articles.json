@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T00:14:37.759281+09:00",
+ "updated_at": "2026-10-18T05:20:13.657464+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,49 +27,53 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-18T00:16:12.797995+09:00",
+  "generated_at": "2026-10-18T05:20:44.117307+09:00",
   "days": 3,
   "period": "10月17日〜10月18日",
   "count": 45,
-  "reduce_count": 26,
-  "own_count": 19,
-  "overview": "心身の健康やライフスタイルの変化を見据えた手放し方や、日常生活を快適にするこだわりの愛用品に関する実践的な話題が多く語られています。",
-  "reduce": "単に物を減らすだけでなく、生活習慣や根本的な片付けの仕組みを見直すことで、日々の家事負担や暮らしを楽にする方法が紹介されています。",
-  "own": "限られた空間や時間を快適にするため、ミニマリストたちが厳選したガジェットや機能的なファッションアイテム、防災品などの実例が語られています。",
+  "reduce_count": 25,
+  "own_count": 20,
+  "overview": "家具や家電の見直しによる家事負担の軽減や、デジタル・化粧品などの具体的な手放し方についての体験談や工夫が幅広く語られています。",
+  "reduce": "気温に合わせた衣替えへの変更や、スマホのスクリーンショットを条件を決めて素早く整理するなど、日常の負担を軽くする減らし方の工夫が語られています。",
+  "own": "テスラ車中泊用マットレスや無印良品のケース、防災ルームシューズなど、限られた空間や災害時に役立つ具体的な愛用品の紹介が多く見られます。",
   "points": [
    {
-    "title": "手放す基準と物の終わり",
-    "body": "愛用品を手放す際の考察や、切り花の終わりから美しさを見出す記録など、日々の持ち物を見直して自分に必要な精鋭を見極める心得が語られています。"
+    "title": "衣替えの負担軽減",
+    "body": "カレンダーではなく気温に合わせて衣類を入れ替える習慣に変え、移行期間用の棚を設けたことで毎年の負担が軽くなった体験談がつづられています。"
    },
    {
-    "title": "クローゼットと服の最適化",
-    "body": "通勤用の上着を1着に絞ったり、季節に合わせたセーターを取り入れたりして、毎朝の迷いをなくしワードローブをすっきりと整理する工夫が紹介されています。"
+    "title": "デジタルデータの整理",
+    "body": "スマホに溜まった3,000枚のスクショを3つの条件と5つの手順で素早く整理する方法や、AIを活用してデジタルデータを整理する仕組みが紹介されています。"
    },
    {
-    "title": "デジタルとデータの整理整頓",
-    "body": "AIを活用してデータを自動で整理・削除する仕組みや、プライバシーを守りながら快適に使える代替アプリを活用してデジタル空間をすっきりさせる手法が解説されています。"
+    "title": "家事負担を減らす家電",
+    "body": "1万円以下の全自動スープメーカーや、1台で7役をこなすハンドブレンダーを導入し、調理の手間や調理道具を減らす工夫が紹介されています。"
    }
   ],
   "keywords": [
    "断捨離",
-   "ミニマリスト",
    "持たない暮らし",
-   "片付け",
-   "クローゼット"
+   "ミニマリスト",
+   "ルームシューズ",
+   "車中泊"
   ]
  },
  "things": [
+  {
+   "name": "服",
+   "count": 7
+  },
   {
    "name": "スマホ",
    "count": 6
   },
   {
-   "name": "服",
-   "count": 6
-  },
-  {
    "name": "リュック",
    "count": 5
+  },
+  {
+   "name": "ケーブル",
+   "count": 4
   },
   {
    "name": "コスメ",
@@ -80,15 +84,7 @@
    "count": 4
   },
   {
-   "name": "iPhone",
-   "count": 3
-  },
-  {
    "name": "クリップ",
-   "count": 3
-  },
-  {
-   "name": "ケーブル",
    "count": 3
   },
   {
@@ -120,6 +116,10 @@
    "count": 3
   },
   {
+   "name": "棚",
+   "count": 3
+  },
+  {
    "name": "炊飯器",
    "count": 3
   },
@@ -129,6 +129,10 @@
   },
   {
    "name": "PC",
+   "count": 2
+  },
+  {
+   "name": "iPhone",
    "count": 2
   },
   {
@@ -168,11 +172,11 @@
    "count": 2
   },
   {
-   "name": "ノートPC",
+   "name": "ニット",
    "count": 2
   },
   {
-   "name": "バックパック",
+   "name": "ノートPC",
    "count": 2
   },
   {
@@ -201,10 +205,6 @@
   },
   {
    "name": "机",
-   "count": 2
-  },
-  {
-   "name": "棚",
    "count": 2
   },
   {
@@ -275,7 +275,6 @@
   "Yahoo!ニュース",
   "YouTube",
   "freeyork",
-  "mai minimalism",
   "note #ミニマリスト",
   "note #少ない服で暮らす",
   "note #持たない暮らし",
@@ -303,6 +302,78 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "692405d54029500a",
+   "url": "https://note.com/life2go/n/neac3b5c31bd4",
+   "title_original": "終活-427 本業Modeling は、完了しました。納品準備します。 ・.・//🍀",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/325534084/rectangle_large_type_2_b63d2b87b6d50a3f6ea3674bf6b0dc48.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-17T20:05:58+00:00",
+   "title_ja": "朝活と掃除をこなしながら断捨離を進める日常",
+   "summary_ja": "朝の室温確認や家事を済ませた後、きれいな環境を目指して断捨離と掃除を再開した日の記録。日々の生活の中で少しずつ片付けを進める様子がつづられている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "bd859eb974d61102",
+   "url": "https://note.com/soundtec/n/ne464ab7fa12b",
+   "title_original": "コントローラーを拭くほど、除菌シートが増えていった",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/325532987/rectangle_large_type_2_3a4ab42d91c20b65a74c90665a15f87c.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-17T19:18:34+00:00",
+   "title_ja": "家族がそれぞれ持ち歩き増えてしまった除菌シート",
+   "summary_ja": "ゲームのコントローラーを拭こうとした際、家族が各自の近くに置いたことで除菌シートが3種類も転がっていることに気づいたエピソード。日用品が自然と増えていく様子を描く。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "除菌シート",
+    "コントローラー"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "1201d2ec6c214ae5",
+   "url": "https://note.com/miyamoto_2020/n/nddc6ecc82917",
+   "title_original": "家族との付き合い方って難しい",
+   "source": "note #断捨離",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/cc5c68ba2cb1885c0eb9172bf947b688e595475d.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-17T18:48:15+00:00",
+   "title_ja": "実家の片付けで見つけた古い瓶の中身を処分する",
+   "summary_ja": "実家の片付けで祖母が昔作った謎の漬物が入った古い瓶を発見し、中身をゴミ袋に流して処分した体験談。古い物の処分に苦労しながら片付けを進める様子が語られている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "瓶",
+    "服"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "ee4922b3b47709be",
+   "url": "https://note.com/monoenaga1206/n/n89def522e41b",
+   "title_original": "スクショ3,000枚、残すのは「理由を一言で言える」ものだけ",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/325514461/rectangle_large_type_2_ad0da35f5a3a78a61ab188b6db7cd7bc.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-17T16:12:36+00:00",
+   "title_ja": "スマホの3,000枚のスクショを条件を決めて素早く減らす方法",
+   "summary_ja": "スマホに溜まった3,000枚のスクリーンショットを、3つの条件と5つの手順を使い、1枚あたり2秒のペースで素早く整理して減らしていくための手順を紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "スクリーンショット"
+   ],
+   "importance": 3
+  },
   {
    "id": "083d91fa52880a80",
    "url": "https://note.com/moti_journal/n/n335c8084c1a7",
@@ -337,6 +408,25 @@
    "axis": "reduce",
    "things": [],
    "importance": 4
+  },
+  {
+   "id": "903bf1930c25baa7",
+   "url": "https://note.com/komonnogakko/n/ne94b5870888f",
+   "title_original": "荷物を減らすほど、遠くへ行ける——50代でテスラに乗り換えて、車中泊を始めた話",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/325496110/rectangle_large_type_2_c241a9bd5fad75959c90a5ba68cf6400.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-17T14:48:54+00:00",
+   "title_ja": "荷物を減らしてテスラ車中泊を始めた50代の持ち物",
+   "summary_ja": "荷物を減らしてテスラに乗り換え、車中泊を始めた体験談。公式ストアで購入したテスラModel Y専用の純正車中泊エアマットレスがようやく届いたことを紹介している。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "テスラ車",
+    "エアマットレス"
+   ],
+   "importance": 3
   },
   {
    "id": "be2e51c003f143a0",
@@ -375,6 +465,78 @@
    "importance": 3
   },
   {
+   "id": "8b8c11cb129a7f88",
+   "url": "https://www.lifehacker.jp/article/2610-amazon-anker-portablesolarpanel-onk",
+   "title_original": "畳めばノートPCサイズ。7,000円台のAnkerポータブルソーラーパネル",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2025/08/31/4a69ea56-4ef4-4b35-8a40-da0a9cb9f686/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-17T13:45:00+00:00",
+   "title_ja": "折りたたみ可能なAnkerのポータブルソーラーパネルが7千円台",
+   "summary_ja": "AnkerのSolix PS30は折りたたみ可能でノートPCサイズに収まり、最大15WのUSB‑Cと12WのUSB‑Aの2ポートで同時にスマホやタブレットを充電できる。価格は7千円台で災害時の電源確保に適している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "f8134d696aac577c",
+   "url": "https://www.lifehacker.jp/article/amazon-sale-soupmaker",
+   "title_original": "全自動スープメーカーが欲しい！ プライム感謝祭で1万円以下になった3台を、自分の暮らしに合うか本気で比べてみた",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/10/17/d681c373-d2d5-4e57-b0c4-a84c40ad63da/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-17T13:30:00+00:00",
+   "title_ja": "1万円以下の全自動スープメーカー3機種を比較",
+   "summary_ja": "Amazonプライム感謝祭で1万円以下に値下げされた全自動スープメーカー3機種を実際に使用し、調理手間の削減効果や使い勝手を比較。編集部は自炊負担を減らすための選び方とおすすめ機種を提示している。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "全自動スープメーカー"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "4210ebe0044c6158",
+   "url": "https://www.lifehacker.jp/article/2610-lht-yamajitsu-clothesrack",
+   "title_original": "あえての「ハンガーラック」買い足し。頑張らなくても片付く＆手持ち服が見渡せるジャケット収納",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/10/16/f71d1ab6-d1ec-4989-8565-e9602669d6ed/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-17T13:15:00+00:00",
+   "title_ja": "山崎実業のコートハンガー タワーで服が見える収納",
+   "summary_ja": "山崎実業のコートハンガー タワー KDはスリムなデザインで、ジャケットやシャツを縦に掛けられる。部屋のスペースを取らずに服が見渡せるため、収納が楽になった実体験をレポートしている。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "山崎実業 コートハンガー タワー KD"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4b0a83517ec591ca",
+   "url": "https://note.com/best_lifestyle/n/n4a02d20d8e88",
+   "title_original": "衣替えを一日でやるのをやめたら毎年ラクになった",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/325461633/rectangle_large_type_2_a88c43482a38f81fcef82e9fb4a03b65.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-17T13:00:28+00:00",
+   "title_ja": "衣替えを一日で終わらせるのをやめてラクにする方法",
+   "summary_ja": "カレンダーではなく気温に合わせて衣類を入れ替える習慣に変えた人の話。移行期間専用の棚を一段設けたことで、春と秋の衣替えが実質的に消滅し、毎年の負担が軽くなった体験談がつづられています。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "ニット",
+    "コート",
+    "棚"
+   ],
+   "importance": 4
+  },
+  {
    "id": "aaf42941af1545c1",
    "url": "https://www.roomie.jp/2026/10/1904881",
    "title_original": "足のむくみが気になる日は「めぐっぱ」でケア。最初は痛かったけれど、じんわりほぐれていった",
@@ -389,6 +551,26 @@
    "axis": "own",
    "things": [
     "足指オープナー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "47c8a865bf1ea288",
+   "url": "https://www.lifehacker.jp/article/2610-amazon-anker9in1-abg",
+   "title_original": "9台同時充電OKのAnker充電ステーション。デスク周りがスッキリ",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2025/01/10/c12eabcb-4e2c-4569-b249-2938bc0e1bbd/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-17T13:00:00+00:00",
+   "title_ja": "Ankerの充電ステーションですっきりさせたデスク周り",
+   "summary_ja": "デスク周りのケーブルのごちゃつきを解消するために導入した電源タップの記事。複数のデバイスを同時に充電できるアイテムを使って、見た目を整えて掃除しやすくする方法を紹介しています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "Anker充電ステーション",
+    "USBポート付き電源タップ",
+    "ケーブル"
    ],
    "importance": 3
   },
@@ -427,6 +609,25 @@
     "ミニコスメ"
    ],
    "importance": 3
+  },
+  {
+   "id": "5da08d9b17e09cb4",
+   "url": "https://note.com/loyal_curlew839/n/n52e5e0b63599",
+   "title_original": "50代の終活。家具をキャンプ道具に替えた",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/325414814/rectangle_large_type_2_7e711e4407fc337463a1a52db43ced0a.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-17T11:02:39+00:00",
+   "title_ja": "50代から始めた終活。家具をキャンプ道具に替えた話",
+   "summary_ja": "部屋の椅子を軽いキャンプ道具に替えたことで、掃除の負担が減り快適になった。小さな身軽さから始める終活の工夫を紹介する。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [
+    "折りたたみチェア",
+    "ダイニングチェア"
+   ],
+   "importance": 4
   },
   {
    "id": "86350dfa2e09d7d9",
@@ -7147,205 +7348,6 @@
    "axis": "own",
    "things": [
     "土鍋"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "267f78fbe0f9c612",
-   "url": "https://note.com/yohaku_pt/n/n67d1033f81f7",
-   "title_original": "ミニマリスト、収納グッズを2つ買う。キッチンシンク下のBefore→After",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/320662233/rectangle_large_type_2_c69246308b96af5c5537ac3d4827b258.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-10T11:59:02+00:00",
-   "title_ja": "ミニマリストが収納グッズ2つでシンク下を変えた",
-   "summary_ja": "ミニマリストがキッチンシンク下の整理に収納グッズ2点を導入し、見た目と使い勝手が大幅に改善したビフォーアフターを紹介している。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "収納ボックス",
-    "引き出しトレイ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "dd360b1cb03ba7e5",
-   "url": "https://note.com/rich_kudu7774/n/nd607a189782c",
-   "title_original": "断捨離しながら、買い物について考える",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/322897906/rectangle_large_type_2_48c6966a764c7ebc6451e30eeed0ceee.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-10T11:47:39+00:00",
-   "title_ja": "定期的な断捨離で買い物について見直した人の話",
-   "summary_ja": "前回の見直しから3ヶ月が経ち、再び物を見直すために断捨離を行っているという記録。自分の持ち物と向き合い、これからの買い物について改めて考えるきっかけにしている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "7b1794c2631bb645",
-   "url": "https://www.lifehacker.jp/article/machi-ya-blackdutchovena-start-952155",
-   "title_original": "キャンプしか出番がない問題。鉄をやめた軽量ダッチオーブンなら、洗剤で洗えて平日も活躍する",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/10/09/8ed7e30c-ff14-4d54-967d-b48d722dced9/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-10T11:45:00+00:00",
-   "title_ja": "洗剤で洗える軽量な三層鋼ダッチオーブンの紹介",
-   "summary_ja": "シーズニング不要でガスやIHにも対応し、約1.3kgと軽量な燕三条製のダッチオーブン。キャンプだけでなく平日も気軽に使えるため、持ち物の用途を広げるアイテムとして活躍する。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ダッチオーブン"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "d6ea303d516c3f69",
-   "url": "https://note.com/hirohamu0904/n/nbfd9592bb1d8",
-   "title_original": "【ミニマリスト】インターネット料金を見直そう！",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/322895054/rectangle_large_type_2_27cbd5a21d55c8942d172ba877f37efe.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-10T11:40:33+00:00",
-   "title_ja": "通信費削減のためにインターネット回線を見直した話",
-   "summary_ja": "よりシンプルでコンパクトな暮らしを目指し、スマホの乗り換えに合わせてインターネット回線も見直したという記録。固定費を削るための具体的な手順や考え方について触れている。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [
-    "iPhone"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ad226ac85c2d6505",
-   "url": "https://www.roomie.jp/2026/10/1900117",
-   "title_original": "ダイソー「ハトメパンチ」で、ごちゃつく小物を連結するのにハマってます。カバンの中がスッキリしたよ〜",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/P1030137-scaled-1.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-10T11:30:11+00:00",
-   "title_ja": "ダイソーのハトメパンチでカバンの中を整理した話",
-   "summary_ja": "ダイソーのハトメパンチを使ってごちゃつく小物を連結し、カバンの中をすっきりとさせた工夫。日常のちょっとしたアイテムを活用して手間を減らし、スマートに収納している実例。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ハトメパンチ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "e9946e5438138846",
-   "url": "https://note.com/miniham44/n/n6d0cbcd1ee9d",
-   "title_original": "【第2回】書類とデスクの山から卒業！机が整うと集中力と自由な時間が手に入る理由",
-   "source": "note #ミニマリスト",
-   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/62cb8f3802601aafbf437a375bf0bb1f9d5b6502.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-10T11:24:59+00:00",
-   "title_ja": "書類やデスク周りを片付けて自由な時間を取り戻す方法",
-   "summary_ja": "郵便物やレシートなどの紙類が溜まりがちなデスク周りを整理し、モノを探す時間と脳のエネルギーのロスを減らす方法。書類が増える原因を見直し、机の上をすっきりと整える考え方。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "3faf3e11a45a4725",
-   "url": "https://www.roomie.jp/2026/10/1902135",
-   "title_original": "ごみの日まで臭う生ごみ、山善の処理機で乾かして1/10にするのが正解でした",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/yamazen01.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-10T11:15:44+00:00",
-   "title_ja": "山善の生ごみ処理機で日々のゴミ出しを見直した話",
-   "summary_ja": "キッチンの生ごみの臭いや汁もれを解消するため、乾燥粉砕式の生ごみ処理機を導入して毎日のごみ捨てのストレスを軽減した実例。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "生ごみ処理機"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "57adaddffeba9356",
-   "url": "https://www.roomie.jp/2026/10/1900320",
-   "title_original": "PCを背負って移動する日々…。「カバン自体の重さ」を見直したら通勤ストレスが激減した",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/bbpk_202501027_8-1.jpeg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-10T11:00:35+00:00",
-   "title_ja": "通勤カバンを登山用バッグに変えて軽さを実感した話",
-   "summary_ja": "パソコンを持ち歩く日々の通勤で、バッグ自体の重さを見直して登山用の軽量バックパックに変更したところ、負担が大きく減ったという話。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "バックパック"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "17b79bd89b422e8e",
-   "url": "https://www.youtube.com/watch?v=IJLyabmHmc0",
-   "title_original": "ミニマリストが何度もリピ買いする日用品ベスト２５",
-   "source": "mai minimalism",
-   "image": "https://i2.ytimg.com/vi/IJLyabmHmc0/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-10-10T11:00:24+00:00",
-   "title_ja": "ミニマリストが何度もリピート買いしている日用品25選",
-   "summary_ja": "暮らしを整えるミニマリストが、実際に愛用し続けている食器拭きクロスや洗剤、入浴剤などの具体的な日用品をまとめて紹介している。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "食器拭きクロス",
-    "アルコール除菌スプレー",
-    "食器用洗剤",
-    "入浴剤"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "dae55f664f448384",
-   "url": "https://www.youtube.com/watch?v=vNiMx0QOddQ",
-   "title_original": "節約を頑張る人ほど陥る「お金の思考の罠」とは？",
-   "source": "やましたひでこ断捨離",
-   "image": "https://i3.ytimg.com/vi/vNiMx0QOddQ/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-10-10T11:00:19+00:00",
-   "title_ja": "やましたひでこが語る節約思考の落とし穴と手放し方",
-   "summary_ja": "節約してもお金の不安が消えない理由を見直し、お金を貯め込むことや我慢する思考から抜け出して関係性を整えるための考え方。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "8c97b2d9aaeffb2c",
-   "url": "https://www.youtube.com/watch?v=RLczi8JtGJA",
-   "title_original": "【Vlog】ワンルーム18m2でも快適に過ごす日常｜26歳ミニマリスト",
-   "source": "ミニマリストじゅん",
-   "image": "https://i3.ytimg.com/vi/RLczi8JtGJA/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-10-10T11:00:03+00:00",
-   "title_ja": "ワンルーム18㎡で使うミニマリスト必需品",
-   "summary_ja": "26歳ミニマリストが18㎡のワンルームで実際に使っているアイテムを紹介。SONY REON POCKET 6やエペイオスのドリップケトル、E‑Winのスタンディングテーブルなど、生活を快適にする12点を披露。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "SONY REON POCKET 6",
-    "エペイオス ドリップケトル",
-    "E‑Win スタンディングテーブル",
-    "SunRuck 小型冷蔵庫"
    ],
    "importance": 3
   }
