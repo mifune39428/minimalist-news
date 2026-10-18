@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T05:20:13.657464+09:00",
+ "updated_at": "2026-10-18T12:41:16.339703+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,41 +27,40 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-18T05:20:44.117307+09:00",
+  "generated_at": "2026-10-18T12:41:51.095119+09:00",
   "days": 3,
   "period": "10月17日〜10月18日",
   "count": 45,
-  "reduce_count": 25,
-  "own_count": 20,
-  "overview": "家具や家電の見直しによる家事負担の軽減や、デジタル・化粧品などの具体的な手放し方についての体験談や工夫が幅広く語られています。",
-  "reduce": "気温に合わせた衣替えへの変更や、スマホのスクリーンショットを条件を決めて素早く整理するなど、日常の負担を軽くする減らし方の工夫が語られています。",
-  "own": "テスラ車中泊用マットレスや無印良品のケース、防災ルームシューズなど、限られた空間や災害時に役立つ具体的な愛用品の紹介が多く見られます。",
+  "reduce_count": 27,
+  "own_count": 18,
+  "overview": "家事や手放しの工夫、身軽な持ち物の選び方に焦点を当てた45本の記事が集まり、暮らしを整える具体的なアイデアが語られています。",
+  "reduce": "写真を使った選別や段階的な道具の見直しなど、無理なく物を減らす工夫や手放した体験が多く共有されています。",
+  "own": "コードをすっきりまとめるポーチや、1台で何役もこなす調理家電、旅行向けのミニコスメなど、日常や移動を快適にする工夫が語られています。",
   "points": [
    {
-    "title": "衣替えの負担軽減",
-    "body": "カレンダーではなく気温に合わせて衣類を入れ替える習慣に変え、移行期間用の棚を設けたことで毎年の負担が軽くなった体験談がつづられています。"
+    "title": "手放す工夫と判断基準",
+    "body": "フリマアプリで売れない物の考え方や、写真を撮ってから手放す手法、長年放置していた家電の処分などを通じて、スムーズに物を手放すコツが語られています。"
    },
    {
-    "title": "デジタルデータの整理",
-    "body": "スマホに溜まった3,000枚のスクショを3つの条件と5つの手順で素早く整理する方法や、AIを活用してデジタルデータを整理する仕組みが紹介されています。"
+    "title": "デジタルと支出の管理",
+    "body": "家計簿アプリから手帳に変えて支出を減らした体験や、スマホに溜まったスクリーンショットを条件を決めて素早く整理する手順が紹介されています。"
    },
    {
-    "title": "家事負担を減らす家電",
-    "body": "1万円以下の全自動スープメーカーや、1台で7役をこなすハンドブレンダーを導入し、調理の手間や調理道具を減らす工夫が紹介されています。"
+    "title": "便利な持ち物と家電",
+    "body": "デスク裏のケーブルリールや耐火ガジェットポーチ、1台で7役こなすハンドブレンダーなど、日常の不便を解消するアイテムが多数取り上げられています。"
    }
   ],
   "keywords": [
-   "断捨離",
-   "持たない暮らし",
-   "ミニマリスト",
-   "ルームシューズ",
-   "車中泊"
+   "手放す",
+   "持ち物",
+   "片付け",
+   "ガジェット"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 7
+   "count": 8
   },
   {
    "name": "スマホ",
@@ -69,19 +68,31 @@
   },
   {
    "name": "リュック",
-   "count": 5
+   "count": 6
   },
   {
    "name": "ケーブル",
-   "count": 4
+   "count": 5
+  },
+  {
+   "name": "バッグ",
+   "count": 5
   },
   {
    "name": "コスメ",
    "count": 4
   },
   {
-   "name": "バッグ",
+   "name": "手帳",
    "count": 4
+  },
+  {
+   "name": "本",
+   "count": 4
+  },
+  {
+   "name": "ガジェットポーチ",
+   "count": 3
   },
   {
    "name": "クリップ",
@@ -100,19 +111,15 @@
    "count": 3
   },
   {
+   "name": "フライパン",
+   "count": 3
+  },
+  {
    "name": "モニター",
    "count": 3
   },
   {
    "name": "家具",
-   "count": 3
-  },
-  {
-   "name": "手帳",
-   "count": 3
-  },
-  {
-   "name": "本",
    "count": 3
   },
   {
@@ -152,11 +159,11 @@
    "count": 2
   },
   {
-   "name": "ガジェットポーチ",
+   "name": "スカート",
    "count": 2
   },
   {
-   "name": "スカート",
+   "name": "ステンレス鍋",
    "count": 2
   },
   {
@@ -172,15 +179,15 @@
    "count": 2
   },
   {
+   "name": "トートバッグ",
+   "count": 2
+  },
+  {
    "name": "ニット",
    "count": 2
   },
   {
    "name": "ノートPC",
-   "count": 2
-  },
-  {
-   "name": "フライパン",
    "count": 2
   },
   {
@@ -196,27 +203,19 @@
    "count": 2
   },
   {
+   "name": "充電器",
+   "count": 2
+  },
+  {
+   "name": "寝袋",
+   "count": 2
+  },
+  {
    "name": "急須",
    "count": 2
   },
   {
    "name": "日焼け止め",
-   "count": 2
-  },
-  {
-   "name": "机",
-   "count": 2
-  },
-  {
-   "name": "段ボール",
-   "count": 2
-  },
-  {
-   "name": "洋服",
-   "count": 2
-  },
-  {
-   "name": "老眼鏡",
    "count": 2
   }
  ],
@@ -236,14 +235,12 @@
   "FUDGE.jp",
   "Franklin County Now",
   "Good Housekeeping",
-  "Homes and Gardens",
   "House Beautiful",
   "Ideal Home",
   "Infoseek",
   "Martha Stewart",
   "MoneyLion",
   "MonoMax",
-  "NZ Herald",
   "New York Post",
   "News.com.au",
   "No Sidebar",
@@ -262,7 +259,6 @@
   "The Minimalists",
   "The Simplicity Habit",
   "The Spruce",
-  "The Washington Post",
   "The i Paper",
   "Unisba Media",
   "Vietnam.vn",
@@ -302,6 +298,234 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "11253afb0b9b9d4d",
+   "url": "https://note.com/mendo_less/n/nd471d49a7de9",
+   "title_original": "売れないまま置いてあるものは、値段が決まらないから残っている",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/325648543/rectangle_large_type_2_203d8c8a81906dc2cd56a8c5ffcae3e6.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-18T03:32:32+00:00",
+   "title_ja": "売れないまま放置している物の手放し方",
+   "summary_ja": "フリマアプリに出品しようと撮影したものの、そのまま放置されている本やゲーム、家電などのアイテムについて、売れない理由や手放す際の考え方を解説しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "本",
+    "ゲーム",
+    "家電"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "143837de4d2b0173",
+   "url": "https://note.com/otona_doraku/n/n3dd4811be679",
+   "title_original": "ソロキャンプ道具、最初に買うのは3点だけでいい",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/325648215/rectangle_large_type_2_bfb9a4df024c59f8ab9894441da50843.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-18T03:31:05+00:00",
+   "title_ja": "ソロキャンプ道具を最小限から揃える方法",
+   "summary_ja": "初期費用を抑えるため、最初はレンタルで試して自分の使用頻度が確実な3点だけを買い、残りは1年かけて買い足すという段階的な道具の揃え方を紹介しています。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [
+    "テント",
+    "寝袋",
+    "マット"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "65a0a0481f94c6d9",
+   "url": "https://note.com/best_lifestyle/n/ne525541d029f",
+   "title_original": "家計簿が続かない人へ｜手帳に戻して月1.8万浮いた",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/325647855/rectangle_large_type_2_b15ae235397da2d10d6e2e2ad796fa99.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-18T03:29:58+00:00",
+   "title_ja": "家計簿アプリから手帳に変えて支出を減らした話",
+   "summary_ja": "自動連携の家計簿アプリから、1日3行書く手帳へ移行したところ、書く手間が消費前のブレーキとなって食費の削減につながった体験談を語っています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "手帳",
+    "家計簿アプリ"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "527e64faed7979fd",
+   "url": "https://note.com/ariari12/n/n1b720c25a03a",
+   "title_original": "がんばらない片付け「撮って、戻さない」のシンプル行動学",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/325400949/rectangle_large_type_2_5cfa8d23920f21e33382aef7d79ba217.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-18T03:12:00+00:00",
+   "title_ja": "「撮って、戻さない」片付けで無理なく減らす方法",
+   "summary_ja": "写真に撮ってから手放す「撮って、戻さない」手法で、物を選別しやめるハードルを下げ、実際に数十個の衣類や小物を減らした経験を具体例と共に紹介。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "2e2644d6b2aee109",
+   "url": "https://www.lifehacker.jp/article/2610-pixel-system-storage-explainer",
+   "title_original": "Pixelのストレージに居座る28GBの「容量泥棒」に、思いつく手の限りを試してみた",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/10/16/c08b36b9-b6ae-42fb-8823-9e87cc0b6e8e/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-18T03:00:00+00:00",
+   "title_ja": "Pixelのストレージを圧迫する28GBの容量泥棒を検証",
+   "summary_ja": "AndroidのシステムやAI Coreが占める容量を解説し、アプリ削除・キャッシュクリアを試した結果、実際にどれだけストレージが増えるかを検証した。",
+   "category": "道具・ガジェット",
+   "axis": "reduce",
+   "things": [
+    "Pixelスマートフォン",
+    "Androidアプリ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "983336d9c3290909",
+   "url": "https://www.roomie.jp/2026/10/1908184",
+   "title_original": "デスク裏に隠れて、使うときだけ引き出せる。CIOのケーブルリール「ケルベロス」が机の上をスッキリさせてくれた",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/1-19.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-18T02:15:04+00:00",
+   "title_ja": "デスク裏に隠すケーブルリール「ケルベロス」で机上がスッキリ",
+   "summary_ja": "CIOのケーブルリール「ケルベロス」をデスク裏に設置し、使用時だけ引き出す方式で充電コードが絡まる悩みを解消。実際に取り付けた様子と効果をレポート。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "ケルベロス",
+    "CIO"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d6396bd1dc305665",
+   "url": "https://note.com/best_lifestyle/n/n55716fa3f0b0",
+   "title_original": "鍋を一生ものにする「火を止めた後の30秒」",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/325611766/rectangle_large_type_2_b641c824d05b2c87c432780297eae189.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-18T01:38:25+00:00",
+   "title_ja": "ステンレス鍋は火止め後30秒で寿命が決まる",
+   "summary_ja": "ステンレス鍋の底に白い斑点は水道水のミネラルや塩分が乾いて固着したもの。クエン酸で落とせるが、放置すると孔食になる。鍋の一生ものかは、火を止めた後の30秒で汚れがつくかで判断できる。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "ステンレス鍋"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "26efc1b19aa31443",
+   "url": "https://note.com/best_lifestyle/n/neffbfdce7e74",
+   "title_original": "取っ手が取れるフライパン危険サイン3つ｜8選",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/325609064/rectangle_large_type_2_d6d78b45cd68f433422d471a2460bb07.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-18T01:30:27+00:00",
+   "title_ja": "取っ手が外れるフライパンの危険サインと選び方",
+   "summary_ja": "取っ手が外れたフライパンで朝食中に危険を体験。取っ手が外れる原因はロック構造に依存し、長持ちするかが重要。記事では危険サイン3つと、選び方のポイント8選を紹介し、耐久性を基準に選ぶべきと結論付けている。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "フライパン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "849b7cadd70ad5f3",
+   "url": "https://note.com/hitosaji_style/n/na011bdb7425d",
+   "title_original": "管理｜買う前に、手持ちを確認する",
+   "source": "note #少ない服で暮らす",
+   "image": "https://assets.st-note.com/production/uploads/images/325479637/rectangle_large_type_2_8e5d24d4a6322dec9d1171c19f5a44e9.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-18T00:20:56+00:00",
+   "title_ja": "アプリで手持ちの服を管理し買い物を吟味する工夫",
+   "summary_ja": "服を増やさないためアプリで手持ちを管理し、新しい物を買う前に既存のアイテムとの組み合わせや類似品がないか確認する工夫。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服",
+    "バッグ",
+    "靴",
+    "ジュエリー"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "0efc8300a9c47291",
+   "url": "https://www.roomie.jp/2026/10/1905725",
+   "title_original": "デザイン性だけじゃない。燃えにくい「Anker Style Pouch」が頼もしすぎた",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/1-17.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-18T00:15:18+00:00",
+   "title_ja": "充電器をすっきりまとめる耐火ガジェットポーチ",
+   "summary_ja": "充電器やケーブルなどの小物をまとめて持ち運び、荷物を整理できる燃えにくい素材のガジェットポーチを活用している話。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ガジェットポーチ",
+    "充電器",
+    "ケーブル",
+    "電源アダプタ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "0ec4c820f47493fd",
+   "url": "https://minimalist-fudeko.com/unused-bread-maker",
+   "title_original": "いつか使うと思って7年。ホームベーカリーは2200円で売れました（読者のお便り）",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2021/06/inside-of-the-oshiire.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-18T00:10:15+00:00",
+   "title_ja": "押し入れに7年眠っていた調理家電を手放した体験",
+   "summary_ja": "一度しか使わずに7年間押し入れに保管していたホームベーカリーをフリマアプリで手放し、使わない物に気づいた体験談。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "ホームベーカリー"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "ececc07e137767c1",
+   "url": "https://note.com/yusuke_muji/n/n44a331bf9840",
+   "title_original": "お風呂もキッチンもいらない",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/320514248/rectangle_large_type_2_baccbe3afff535edba8b0c57c9f969d9.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-17T23:09:36+00:00",
+   "title_ja": "クローゼットや浴室を手放して持たない暮らしを模索した話",
+   "summary_ja": "クローゼットにカビが生えたことをきっかけに、本当に収納や浴室、キッチンが必要かを見直した体験談。服を2着に絞り、なくても困らない固定観念を手放すことで、管理の手間や掃除を減らす暮らしについて考えている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "リュック",
+    "トートバッグ"
+   ],
+   "importance": 4
+  },
   {
    "id": "692405d54029500a",
    "url": "https://note.com/life2go/n/neac3b5c31bd4",
@@ -7144,211 +7368,6 @@
    "category": "心・習慣",
    "axis": "reduce",
    "things": [],
-   "importance": 3
-  },
-  {
-   "id": "149a98008c7457ad",
-   "url": "https://note.com/180days_project/n/n0b2894a31a84",
-   "title_original": "あと171日。ミニマリストがAirPodsを2台持ちする理由。",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/323005326/rectangle_large_type_2_905aed0bbbdc618c62d6c6f9d3770522.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-10T20:42:14+00:00",
-   "title_ja": "あえてAirPodsを2台所有して暮らすミニマリストの考え",
-   "summary_ja": "物を厳選して暮らすミニマリストが、ワイヤレスイヤホンのAirPodsをあえて2台持ちしている理由について解説。単に物を減らすだけでなく、自分の生活における利便性を追求した所有スタイルが紹介されている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "AirPods"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "342fb8334d6af2c9",
-   "url": "https://note.com/life2go/n/nc8368a8315c8",
-   "title_original": "終活-420 本業は、折り返しが見えましたよ・TAFT でお買い物。 ・.・//🍀",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/323001827/rectangle_large_type_2_3b1483d384b58bd89176ba3ca4681938.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-10T20:24:12+00:00",
-   "title_ja": "朝活で環境を整え、断捨離を再開した人の記録",
-   "summary_ja": "室温23.9度の朝から掃除や買い物をこなし、きれいな環境を目指して断捨離を再び進めている人の日常の記録。日々の家事や作業の合間に少しずつ片付けを継続している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "d48da4c672f7132a",
-   "url": "https://www.nzherald.co.nz/business/personal-finance/facebook-marketplace-lessons-decluttering-cash-and-the-psychology-of-spending-nadine-higgins/premium/NNMGEZSYEVAQ5P4HPQ4GON3W3U",
-   "title_original": "The surprising lesson I learned from selling my clutter",
-   "source": "NZ Herald",
-   "image": "https://www.nzherald.co.nz/resizer/v2/2YCU2S232BEORJMBQTD63DQ5IA.jpg?auth=e610adfb6decd0a35b65a041d1abe3f4fbad85088ae2bca01ede3db50e03280b&width=1200&height=675&quality=70&focal=1045%2C350&smart=false",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-10T20:01:53+00:00",
-   "title_ja": "不要品を売却して驚きの気づきを得た人の話",
-   "summary_ja": "自宅の不用品を売却した経験を通じて、物を手放すことに関する意外な学びや心境の変化を得たことをつづっている。ものを減らす過程での気づきに焦点を当てた内容。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "b9a2e5210d9b106e",
-   "url": "https://www.homesandgardens.com/celebrity-homes/julianne-moore-minimalist-unexpected-red-theory",
-   "title_original": "Julianne Moore's Minimalist Spin on The 'Unexpected Red Theory' is a Study in Ultimate Living Room Chicness",
-   "source": "Homes and Gardens",
-   "image": "https://cdn.mos.cms.futurecdn.net/4c7BkBsQfLzZCVoswHTZ4B-2560-80.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-10T18:00:00+00:00",
-   "title_ja": "ジュリアン・ムーアのミニマリストリビングルーム",
-   "summary_ja": "ジュリアン・ムーアが提案する『Unexpected Red Theory』を基にしたミニマリストリビングは、余計な装飾を排除し、シンプルかつ洗練された空間を実現している様子を紹介している。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "23a8fdb329c6a109",
-   "url": "https://note.com/open_eel7440/n/ndd84f2f9ce71",
-   "title_original": "忙しいあなたへ！ミニマリスト整理術で毎日が快適に",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/322983146/rectangle_large_type_2_af4de1c72990ca5d9e189827443f77b0.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-10T16:23:23+00:00",
-   "title_ja": "忙しい人向けミニマリスト整理術の紹介",
-   "summary_ja": "片付けても続かないという悩みを抱える人向けに、ミニマリスト流の整理術を提案し、具体的なステップや続けやすいルーティン、不要品の見極め基準を示すことで、日々の快適さを高める方法を紹介している。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "5e84ab6227db66f6",
-   "url": "https://www.youtube.com/watch?v=3jNQQiKxRE4",
-   "title_original": "【捨て活】ルームツアーしながら いらない物を全部捨てる｜玄関・キッチン・冷蔵庫｜30代一人暮らし（前編）",
-   "source": "うにのゆるシンプルな暮らし",
-   "image": "https://i4.ytimg.com/vi/3jNQQiKxRE4/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-10-10T13:29:06+00:00",
-   "title_ja": "ルームツアーで見つけた不要品を捨てる様子（前編）",
-   "summary_ja": "30代一人暮らしの主がルームツアーしながら玄関・靴箱・キッチン・冷蔵庫の不要品を手に取り『本当に使っているか』を検証し、期限切れの調味料や『いつか使うかも』で残したものを処分した様子を紹介している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "靴箱",
-    "キッチン",
-    "冷蔵庫",
-    "調味料"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "ef7960f55663c5c0",
-   "url": "https://www.lifehacker.jp/article/2610-lht-mont-bell-camerabag",
-   "title_original": "「さすがモンベル！」な3WAYカメラバッグで、持ち歩きがぐっと気軽に",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/10/08/5923e451-db90-4457-aa96-e94905ec4d5f/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-10T13:15:00+00:00",
-   "title_ja": "モンベルの3WAYカメラバッグを実際に使ってみた感想",
-   "summary_ja": "モンベルのドライ カメラバッグ Sは、ショルダー、ポーチ、バッグの3形態で使える多機能性とファッション性を兼ね備えており、実際に使用した感想と持ち歩きの利便性をレポートしている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ドライ カメラバッグ S"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "cdc7c6016a50d39e",
-   "url": "https://www.apartmenttherapy.com/i-put-a-spice-rack-in-my-tiny-shower-and-it-s-brilliant-37694363",
-   "title_original": "I Put a Spice Rack in My Bathroom, and It Tripled the Storage",
-   "source": "Apartment Therapy",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-10T12:52:17+00:00",
-   "title_ja": "スパイスラックを浴室に設置で収納量が3倍に",
-   "summary_ja": "スパイスラックを浴室に設置した結果、収納量が3倍に増え、限られたスペースを有効活用した事例として紹介されている。この工夫は、ミニマルな暮らしを目指す人にとって、意外な場所に収納アイテムを活用するヒントとなる。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "スパイスラック"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "d75599567f0a8e72",
-   "url": "https://www.southernliving.com/things-declutter-every-sunday-12153388",
-   "title_original": "7 Things You Should Always Declutter Before Monday",
-   "source": "Southern Living",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-10T12:40:00+00:00",
-   "title_ja": "月曜を迎える前に片づけておきたい7つのもの",
-   "summary_ja": "週末の終わりにすっきりと新しい1週間を迎えるため、自宅の中で優先して整理や手放しをしておくべき7つの対象について紹介しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "e9a7431e2691e139",
-   "url": "https://www.thespruce.com/things-to-sell-instead-of-toss-12159867",
-   "title_original": "Don’t Toss These 7 Common Household Items—They Could Sell for More Than You Think",
-   "source": "The Spruce",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-10T12:13:00+00:00",
-   "title_ja": "捨てずに売るべき身の回りの7つの日用品",
-   "summary_ja": "自宅で処分してしまいがちな日用品の中で、意外と高値で売却できる可能性がある7つのアイテムについて解説している海外記事です。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "0299e35d34b9621b",
-   "url": "https://www.washingtonpost.com/home/2026/10/06/this-organizing-method-can-do-more-harm-than-good",
-   "title_original": "All-or-nothing organizing can backfire. Here’s why.",
-   "source": "The Washington Post",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-10T12:02:25+00:00",
-   "title_ja": "全か無かの整理法は逆効果な理由",
-   "summary_ja": "全てを一度に片付けようとする『オールオアナッシング』の整理法が、かえってストレスや継続困難につながる理由を解説している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "30f0e47462408916",
-   "url": "https://www.roomie.jp/2026/10/1902031",
-   "title_original": "〆の雑炊まで楽しむ派。焦げ付きを落としやすいKEYUCAの新作土鍋なら洗い物がラクになりそう",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/261009_keyucadonabe_eye.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-10T12:00:52+00:00",
-   "title_ja": "洗い物がラクになるKEYUCAの新作土鍋",
-   "summary_ja": "焦げ付きを落としやすく、〆の雑炊まで手軽に楽しめるKEYUCAの新作土鍋を紹介。日々のキッチンでの手間を減らす道具として活躍します。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "土鍋"
-   ],
    "importance": 3
   }
  ]
