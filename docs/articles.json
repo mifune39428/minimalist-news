@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T19:37:38.788473+09:00",
+ "updated_at": "2026-10-19T00:36:04.230407+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,52 +27,44 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-18T19:39:39.079720+09:00",
+  "generated_at": "2026-10-19T00:36:36.660152+09:00",
   "days": 3,
-  "period": "10月17日〜10月18日",
+  "period": "10月17日〜10月19日",
   "count": 45,
-  "reduce_count": 29,
-  "own_count": 16,
-  "overview": "日用品や服、デジタルデータの具体的な減らし方に加え、厳選した道具や家具で快適に暮らす工夫が多方面から語られています。",
-  "reduce": "ストック買いの見直しや手帳への移行、スマホのスクショ整理など、日々の習慣や固定観念を手放して支出や手間を減らす工夫が語られています。",
-  "own": "ビジネスコートやフライパンの耐久性を基準にした選び方や、充電ステーションでデスク周りをすっきりととのえる愛用品が紹介されています。",
+  "reduce_count": 32,
+  "own_count": 13,
+  "overview": "10月17日から19日に集まった45件の記事では、日用品やガジェットの過剰なスペックを見直す失敗談や、家事や買い物の負担を減らす具体的な工夫が語られています。",
+  "reduce": "日用品のストック買いや過剰な防水・収納スペックを見直し、手放すことで無駄な支出や管理の手間を減らす工夫が多く語られています。",
+  "own": "調理器具やガジェット、掃除用品について、日々の手入れ方法や長く使うための基準、便利な活用実例が紹介されています。",
   "points": [
    {
-    "title": "固定観念を手放す暮らし",
-    "body": "ウォーターサーバーやクローゼット、満腹が正解という常識を見直し、なくても困らない固定観念を手放すことで管理の手間や支出を減らす体験談が多く見られます。"
+    "title": "日用品と買い物の見直し",
+    "body": "セールでの安さやストック買いを見直すことで、無駄な支出を年間2万円削減した事例や、家計簿アプリから手帳に変えて買い物のブレーキにした体験談が語られています。"
    },
    {
-    "title": "デジタルや服の整理術",
-    "body": "スマホに溜まった3000枚のスクショを条件を決めて素早く片付ける方法や、アプリで手持ちの服を管理して買い物を吟味する具体的な工夫が紹介されています。"
+    "title": "過剰スペックの手放し",
+    "body": "完全防水リュックの背中の蒸れや手入れの負担から半年で手放した失敗談など、日常生活においてオーバースペックな機能や道具を見直し、本当に必要なものを選ぶ基準が紹介されています。"
    },
    {
-    "title": "耐久性を重視した道具選び",
-    "body": "ビジネスコートやフライパンなど、傷みやすい箇所や寿命の決まる瞬間に着目して長く使えるものを選び、買い替えサイクルを伸ばす基準が語られています。"
-   },
-   {
-    "title": "省スペースなガジェット活用",
-    "body": "デスク裏に隠すケーブルリールや充電ステーション、折りたたみ可能なソーラーパネルを導入し、ごちゃつく配線や充電周りをすっきり整える工夫がレポートされています。"
+    "title": "道具の手入れと寿命",
+    "body": "土鍋の目止めを怠り3週間で臭いが移った失敗や、ステンレス鍋の火止め後の放置による劣化など、日々の道具を長く使うための正しい手入れや実用限界について語られています。"
    }
   ],
   "keywords": [
    "断捨離",
-   "持たない暮らし",
-   "手放す",
-   "見直し",
-   "ミニマリスト"
+   "ミニマリスト",
+   "手放した",
+   "ガジェット",
+   "収納"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 8
+   "count": 9
   },
   {
    "name": "スマホ",
-   "count": 6
-  },
-  {
-   "name": "リュック",
    "count": 6
   },
   {
@@ -85,6 +77,10 @@
   },
   {
    "name": "コスメ",
+   "count": 4
+  },
+  {
+   "name": "リュック",
    "count": 4
   },
   {
@@ -148,6 +144,10 @@
    "count": 2
   },
   {
+   "name": "iPad",
+   "count": 2
+  },
+  {
    "name": "iPhone",
    "count": 2
   },
@@ -188,10 +188,6 @@
    "count": 2
   },
   {
-   "name": "トートバッグ",
-   "count": 2
-  },
-  {
    "name": "ニット",
    "count": 2
   },
@@ -201,6 +197,10 @@
   },
   {
    "name": "ミニ財布",
+   "count": 2
+  },
+  {
+   "name": "レンズ",
    "count": 2
   },
   {
@@ -218,10 +218,6 @@
   {
    "name": "日焼け止め",
    "count": 2
-  },
-  {
-   "name": "机",
-   "count": 2
   }
  ],
  "sources": [
@@ -229,6 +225,7 @@
   "A Slob Comes Clean",
   "AOL.com",
   "Apartment Therapy",
+  "Asianet Newsable",
   "Balance Through Simplicity",
   "Be More with Less",
   "Better Homes & Gardens",
@@ -275,6 +272,7 @@
   "Yahoo Lifestyle Singapore",
   "Yahoo!ニュース",
   "YouTube",
+  "cristinaiglesias.com",
   "freeyork",
   "note #ミニマリスト",
   "note #少ない服で暮らす",
@@ -303,6 +301,280 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "3c349aad55d9d8e7",
+   "url": "https://note.com/takudo4610srt/n/n93e9f0224e82",
+   "title_original": "大谷翔平は、なぜゴミを拾うのか？ 人生を変える「小さな習慣」の力",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/324159546/rectangle_large_type_2_412fc4bf49af4c693a664796ffceca9a.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-18T15:06:20+00:00",
+   "title_ja": "ゴミ拾いを習慣にして人生を変える話",
+   "summary_ja": "「ゴミを拾う」という小さな行動を実践することが、人生を変えるきっかけになるという考え方について紹介しています。日々の小さな習慣が暮らしに与える影響を綴った内容です。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "51e45079c244c389",
+   "url": "https://note.com/zubora_mammy/n/n416884767193",
+   "title_original": "乾太くんで干す手間が減った。ズボラな私には「家事を減らす」ことも大事だった",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/325890175/rectangle_large_type_2_5edef8a4f62fbd9ef149662e20f999ec.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-18T15:03:56+00:00",
+   "title_ja": "乾太くんで家事を減らした話",
+   "summary_ja": "洗濯物を干す手間や畳む苦労に悩んでいた筆者が、ガス衣類乾燥機を導入したことで家事の負担を大きく減らした体験をつづっています。収納に入りきらなかった洗濯物の悩みも解消されています。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [
+    "洗濯機"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "a19c695c7f3573a6",
+   "url": "https://note.com/best_lifestyle/n/n3610b00873a6",
+   "title_original": "土鍋の目止めを省いたら3週間で臭い移りした話",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/325886270/rectangle_large_type_2_cd7f3b54cb41f642a6af38fc730cfe47.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-18T14:52:40+00:00",
+   "title_ja": "土鍋の目止めを省いて失敗した話",
+   "summary_ja": "新品の土鍋の目止めを省いた結果、わずか3週間でキムチと干物の臭いが移ってしまった失敗談です。初期の手間を惜しむと匂いやひび割れの原因になるため、正しい手入れの重要性を伝えています。",
+   "category": "キッチン・食",
+   "axis": "reduce",
+   "things": [
+    "土鍋"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "df423d0e1e3b02b6",
+   "url": "https://note.com/otona_doraku/n/n8ed32b3fd9d2",
+   "title_original": "カメラ防湿庫の常識が来春で変わる｜備える8選",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/325886054/rectangle_large_type_2_a7bc00fa852474eeeee222d54a258d47.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-18T14:52:09+00:00",
+   "title_ja": "カメラの手入れ道具と除湿の選び方",
+   "summary_ja": "レンズのカビや湿気トラブルを防ぐため、防湿庫や乾燥剤の選び方を見直した体験談です。機材の保管場所や湿度管理の重要性、手入れ道具の持ち方について触れています。",
+   "category": "道具・ガジェット",
+   "axis": "reduce",
+   "things": [
+    "カメラ",
+    "レンズ",
+    "防湿庫",
+    "乾燥剤"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4aad738b6e5ef1d1",
+   "url": "https://note.com/cozy_life_takuto/n/nf03ae27bb18e",
+   "title_original": "ワイヤレスキーボードの3台兼用は限界だった｜実測0.8秒と4.6秒",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/325885903/rectangle_large_type_2_f926bff381332adaa449303a74341f57.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-18T14:51:35+00:00",
+   "title_ja": "ワイヤレスキーボードの複数台運用の限界",
+   "summary_ja": "1台のワイヤレスキーボードで複数端末を使い回した際、切替時の遅延が思考を中断させる原因になると気づいた体験です。実測した遅延時間をもとに、マルチペアリングの実用的な限界について語っています。",
+   "category": "道具・ガジェット",
+   "axis": "reduce",
+   "things": [
+    "ワイヤレスキーボード",
+    "iPad",
+    "Androidタブレット",
+    "Windows"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b748cf917d72c17b",
+   "url": "https://note.com/best_lifestyle/n/nc74698771839",
+   "title_original": "菜箸の耐熱温度、実用限界は表記の7割でした",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/325885075/rectangle_large_type_2_b1e5fd610d90f97abc50fa2be0849ff5.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-18T14:48:27+00:00",
+   "title_ja": "ナイロン製おたまの耐熱温度と実用限界",
+   "summary_ja": "耐熱温度220℃のおたまを揚げ油で使ったところ、3週間で先端が反り返った。毎日使い続けられる実用的な限界は、表記温度の7割程度であるという道具の使用経験についての話。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "おたま"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d2985033ecf1c6fa",
+   "url": "https://note.com/unsealedletter08/n/n1a4af3333958",
+   "title_original": "2026年10月18日 選べなかった未来たちを葬る",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/325882251/rectangle_large_type_2_382d701185d2dc7bffbbd92c462c8ce4.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-18T14:41:01+00:00",
+   "title_ja": "部屋を片付けたくて服を手放した日のこと",
+   "summary_ja": "部屋の散らかりにイライラし、スッキリさせたいという衝動から、服などの布物をゴミ袋へ次々と手放した。物を捨てることで自分の心を落ち着かせようとした、断捨離中の心理をつづった記録。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "f59477d1c703f868",
+   "url": "https://note.com/jazzy_broom4748/n/n2da3c2acbec1",
+   "title_original": "余白",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/325877887/rectangle_large_type_2_581c259128ed51210f49d32688794a86.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-18T14:27:43+00:00",
+   "title_ja": "断捨離を通じて気づいた人生の余白",
+   "summary_ja": "いつも物で満たされていた状態から断捨離を行ったことで、新しい物事を始めるためにも生活や心に余白が必要だと気づいた。余白を作ってその状態を楽しむ暮らしの考え方について語っている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "6224825185521495",
+   "url": "https://www.lifehacker.jp/article/2610-amazon-switchbot-lock-pro-starter-combo-suica-tue",
+   "title_original": "賃貸でも工事不要でオートロックに。SwitchBotドアロックProで防犯対策",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2025/08/28/e5ec49af-781d-46c2-8237-e940063fb17c/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-18T13:45:00+00:00",
+   "title_ja": "後付けスマートロックで鍵の紛失不安を解消した話",
+   "summary_ja": "玄関の鍵に後付けすることで、スマホや指紋、ICカードでの施錠・解錠を可能にするスマートロック。鍵を持ち歩く必要がなくなるため、紛失の不安や交換費用の心配から解放され、家族全員が安心して外出できるよう防犯性を高めてくれる。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "SwitchBotドアロックProセット",
+    "スマホ",
+    "指紋認証キー",
+    "ICカード"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5933e673c33c9ce2",
+   "url": "https://www.lifehacker.jp/article/aimedia-bathroom-high-pressure-gun",
+   "title_original": "お風呂掃除の見て見ぬ振りを、「もっとやりたい」まで引き上げてくれた高水圧ガン #これ買ってよかった",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/09/03/359ee2a0-883a-4871-a5a8-88769f9e9227/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-18T13:30:00+00:00",
+   "title_ja": "水圧で汚れを吹き飛ばす高水圧ガンでお風呂掃除をラクに",
+   "summary_ja": "シャワーヘッドに付け替えるだけで手軽に使えるアイメディアの高水圧ガン。強力な水圧により、排水溝や細かい隙間の汚れを効率よく吹き飛ばすことができる。面倒に感じがちなお風呂掃除や大掃除の負担を大幅に軽減してくれるアイテム。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "高水圧ガン",
+    "シャワーヘッド"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "30bcab7c6b04f1bf",
+   "url": "https://cristinaiglesias.com/newsday/autumn-decluttering-7-items-taking-up-crucial-space-in-your-home-right-now",
+   "title_original": "Autumn Decluttering: 7 Items Taking Up Crucial Space in Your Home Right Now",
+   "source": "cristinaiglesias.com",
+   "image": "https://www.collinruggnews.com/wp-content/uploads/2026/10/cover-autumn-decluttering-7-items-taking-up-crucial-space-in-1280x720-9mwIp.webp",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-18T12:34:50+00:00",
+   "title_ja": "自宅のスペースを圧迫する秋の片付けで手放すべき7つの物",
+   "summary_ja": "自宅の限られたスペースを圧迫し、日常生活の邪魔になっている物を秋のタイミングで整理して手放すためのヒント。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "c644c56b70201fb9",
+   "url": "https://www.roomie.jp/2026/10/1908005",
+   "title_original": "ゲーム機、タオルで包むのやめました。Belkin「Nintendo Switch 2のためのケース」が長旅の味方です",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/hanawa261016_main.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-18T12:30:22+00:00",
+   "title_ja": "移動を快適にするBelkinのNintendo Switch 2用ケース",
+   "summary_ja": "京都への移住を経て、日々のちょっとした手間を減らすアイテムを探求する夫婦が、旅先でのゲームプレイに活用しているケース。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "Nintendo Switch 2ケース",
+    "Nintendo Switch 2"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ebbe69d593d3c605",
+   "url": "https://www.goodhousekeeping.com/home/organizing/a74098763/decluttering-original-packaging-items",
+   "title_original": "10 Things Pro Organizers Would Never Keep in the Original Packaging",
+   "source": "Good Housekeeping",
+   "image": "https://hips.hearstapps.com/hmg-prod/images/ef52ab9f-03a2-4ed2-a779-b23c7f6a6856.jpeg?crop=0.889xw:1xh;0.034xw,0xh&resize=1200:*",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-18T12:24:44+00:00",
+   "title_ja": "プロの整理収納士が元のパッケージのまま家に置かない10の物",
+   "summary_ja": "収納のプロたちが自宅では絶対にそのままのパッケージで保管しない、暮らしをすっきりさせるための具体的なアイテム。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "b994fa93b5e8cfb6",
+   "url": "https://newsable.asianetnews.com/amp/world/watch-chinese-couple-turns-full-size-coach-bus-into-two-bedroom-apartment-on-wheels-video-goes-viral-articleshow-x8douk9",
+   "title_original": "WATCH: Chinese Couple Turns Full-Size Coach Bus into Two-Bedroom Apartment on Wheels, Video Goes Viral",
+   "source": "Asianet Newsable",
+   "image": "https://static.asianetnews.com/images/w-1280,h-720,imgid-01m57f166wshcg040x7xqa32jy,imgname-chinese-couple-converts-full-size-coach-bus-into-two-bedroom-mobile-home-1792325753051.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-18T12:19:27+00:00",
+   "title_ja": "中国のカップルが大型コーチバスを2LDKの家に改造した話",
+   "summary_ja": "フルサイズの大型バスを移動式の2LDKのアパートへと見事に改装し、車輪の上の生活を実現したカップルの実例。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "コーチバス"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "40a9e06ef9e7972b",
+   "url": "https://www.roomie.jp/2026/10/1902564",
+   "title_original": "お風呂掃除が立ったまま完了。電動ブラシで時短＆ピカピカに",
+   "source": "ROOMIE",
+   "image": "https://www.roomie.jp/wp-content/uploads/2023/12/e3c342002d50ab11a5abbee8483abb7e-1.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-18T12:15:13+00:00",
+   "title_ja": "立ったままお風呂掃除を完了できる電動ブラシの活用",
+   "summary_ja": "かがんだり濡れたりする面倒なお風呂掃除の負担を減らし、立ったまま効率よくピカピカに仕上げるための電動ブラシ。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "電動ブラシ",
+    "バスポリッシャー"
+   ],
+   "importance": 3
+  },
   {
    "id": "5d51ce3e9e516701",
    "url": "https://note.com/yuki_honokurashi/n/n5c59a422a645",
@@ -1384,6 +1656,22 @@
     "ポルコロッソ・トラベラーズノート・イルビゾンテ"
    ],
    "importance": 4
+  },
+  {
+   "id": "21966a5fbb1b28f3",
+   "url": "https://balancethroughsimplicity.com/journal-prompts-for-self-reflection",
+   "title_original": "5 Powerful Journal Prompts for Self-Reflection",
+   "source": "Balance Through Simplicity",
+   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2022/11/5-Powerful-Journal-Prompts-for-Self-Reflection-3-683x1024.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-17T04:05:00+00:00",
+   "title_ja": "自己内省を深めて大切なものを見つけるための5つの質問",
+   "summary_ja": "自分の思考や感情を整理し、何が本当に重要かを明確にして意味のある人生を築くための5つのジャーナリングの問いを紹介しています。日々の暮らしや考え方を整えるヒントになります。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
   },
   {
    "id": "f1351f0db9ed2f9a",
@@ -7101,289 +7389,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
-  },
-  {
-   "id": "cb6b7bc6eae9fd3f",
-   "url": "https://www.roomie.jp/2026/10/1900610",
-   "title_original": "ダイソーの「透明なカバー」で、大事なロルバーンの表紙を守れた。傷・汚れを避けながらシールも収納できるよ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/IMG_9968-scaled.jpeg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-11T11:30:17+00:00",
-   "title_ja": "ダイソーの透明カバーでロルバーンの表紙を守る工夫",
-   "summary_ja": "おうち時間を充実させるライターが、ダイソーの透明なカバーを使ってお気に入りのロルバーンの表紙を傷や汚れから守っている工夫を紹介。シールも一緒に収納しながらノートをカスタムして大切に使っている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "透明なカバー",
-    "ロルバーン"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "29bf3d689aed58df",
-   "url": "https://www.lifehacker.jp/article/machi-ya-icemarblestone-review-975343",
-   "title_original": "ワインに「石」を入れて冷やしたら、最後まで味が変わらなくて驚いた",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/26/723a88af-2526-4407-912f-a27477d96c27/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-11T11:00:00+00:00",
-   "title_ja": "ワインを薄めずに冷やすアイスマーブルストーンの紹介",
-   "summary_ja": "氷を使わずにワインやコーヒーを冷やせる天然石『アイスマーブルストーン』を紹介。薄めずに本来の風味を保ち、水洗いで繰り返し使えるため、無駄を減らすミニマリスト向けのアイテムだ。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "アイスマーブルストーン"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "ef82311a67c01804",
-   "url": "https://www.roomie.jp/2026/10/1899438",
-   "title_original": "狭いシンクに革命。「洗剤ディスペンサー付きスポンジホルダー」で置くものを減らしたら、掃除もラクになった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/2303_OXOspongeholder_7.jpeg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-11T10:30:42+00:00",
-   "title_ja": "シンクの置物を減らすスポンジホルダーで掃除が楽に",
-   "summary_ja": "シンクに置くスポンジと洗剤を1つにまとめるOXOのスポンジホルダーを導入し、置き物を減らすことで掃除が楽になった実例を紹介。ものを置かないことが最善という考え方が示されている。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "OXO スポンジホルダー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "1b246ab087578797",
-   "url": "https://www.lifehacker.jp/article/2610-amazon-kai-sekimagoroku-sharpener",
-   "title_original": "トマトが潰れる包丁も簡単に切れ味復活。貝印のシャープナーが44%オフ",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/10/11/8c428559-5fb3-4cff-b072-a16bb59f29b4/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-11T10:30:00+00:00",
-   "title_ja": "包丁の切れ味を復活させる貝印シャープナーを紹介",
-   "summary_ja": "貝印の『関孫六 ダイヤモンド&セラミックシャープナー』は、ダイヤモンド砥石とセラミック砥石の3段階で刃を整え、初心者でも扱いやすく切れ味を回復させる。料理の手間を減らすミニマリスト向けのツールだ。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "関孫六 ダイヤモンド&セラミックシャープナー"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "ec8857d695aa93fe",
-   "url": "https://www.roomie.jp/2026/10/1899191",
-   "title_original": "1台4役のまな板で、洗い物が減らせた！ 収納スペースも削減できていいことづくめだ…",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/6609a99a6efbfb1cdafe74fd6479a905.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-11T10:00:58+00:00",
-   "title_ja": "1台4役まな板で洗い物と収納を減らした実例",
-   "summary_ja": "1枚でまな板、皿、ボウル、トレイの4役をこなすまな板を取り入れ、洗い物とキッチン収納を大幅に削減した方法を紹介。多機能アイテムで持ち物を絞るミニマリストの工夫が分かる。",
-   "category": "キッチン・食",
-   "axis": "reduce",
-   "things": [
-    "4役まな板"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "4d13a41ab72b3942",
-   "url": "https://www.youtube.com/watch?v=2LBuDabJ0-c",
-   "title_original": "【夫婦喧嘩勃発？】31歳ミニマリスト 家賃4万円 カメラ新調 谷川岳に登る",
-   "source": "ミニマリストK",
-   "image": "https://i3.ytimg.com/vi/2LBuDabJ0-c/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-10-11T10:00:09+00:00",
-   "title_ja": "低家賃で暮らすミニマリストがカメラ新調と登山を語る",
-   "summary_ja": "家賃4万円でシンプルに暮らす31歳ミニマリスト夫婦が、新たにカメラを購入したことと谷川岳への登山体験を紹介。限られた空間と予算の中で必要なものだけを所有する実例が語られる。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "カメラ"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "ea3084a7737ad0dd",
-   "url": "https://news.infoseek.co.jp/article/fudge_406236",
-   "title_original": "おもちゃ箱みたいな家に暮らして。デザイナー夫婦が選ぶ、北欧ポップな3つの愛用品 【あの人の愛用品】｜Infoseekニュース",
-   "source": "Infoseek",
-   "image": "https://media.image.infoseek.co.jp/isnews/photos/fudge/fudge_406236_0.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-11T06:30:32+00:00",
-   "title_ja": "デザイナー夫婦が選ぶ北欧ポップな3つの愛用品",
-   "summary_ja": "おもちゃ箱のような家で暮らすデザイナー夫婦が、実際に選んで使っている北欧ポップな愛用品について紹介している記事です。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "340c2cec11323919",
-   "url": "https://note.com/yusuke_muji/n/n22b25beaaf42",
-   "title_original": "バッグまで軽くしたくなった",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/321121997/rectangle_large_type_2_416c11ab394a3b1ad0edef9235b9655a.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-11T06:25:31+00:00",
-   "title_ja": "リュックからシンプルなトートバッグへ替えた話",
-   "summary_ja": "リュックひとつで暮らしていた筆者が、より装飾のない無印良品のトートバッグを購入した。金具やボタンのない極限までシンプルな造りと軽さに惹かれ、持ち物を減らして身軽に暮らす工夫を綴っている。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "トートバッグ",
-    "リュック",
-    "診察券",
-    "充電コード"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "7246db7a249ac76c",
-   "url": "https://note.com/simple_aki/n/nefa75e016de2",
-   "title_original": "秋の衣替え｜夏服12着で足りた？",
-   "source": "note #少ない服で暮らす",
-   "image": "https://assets.st-note.com/production/uploads/images/323128162/rectangle_large_type_2_a10d1a6cf014c3cbdaa4edac042ad74f.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-11T04:58:08+00:00",
-   "title_ja": "夏服12着で足りた？秋の衣替えで振り返る",
-   "summary_ja": "今年の夏は12着だけの服で過ごし、秋の衣替えで実際に頻繁に着たものとほとんど着なかったものを振り返り、手放す基準や残す理由を検証した。結果、次のシーズンに残す12点を決定し、ミニマリスト的な衣類管理の実例を示す。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "79ddc23cf7c7e22b",
-   "url": "https://www.lifehacker.jp/article/machi-ya-syantostandgrip-review-979567",
-   "title_original": "片手スマホの「小指が痛い」を解消。底面から支えるグリップで持ち方が変わった",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/26/d6580f6e-d887-4eb4-aeff-468b43d9aa5d/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-11T04:00:00+00:00",
-   "title_ja": "スマホの小指の痛みを解消する底面支持グリップ",
-   "summary_ja": "人間工学に基づき開発されたスマホリング兼スタンドを使用し、底面から支えることで小指の痛みや指への負担を軽減させている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "スマホリング"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "5a3d7b1ed5b31b4c",
-   "url": "https://note.com/junashikata/n/n9a2e721109f2",
-   "title_original": "10月上旬に手放したもの一覧",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/323112005/rectangle_large_type_2_0e19425448ae07126fff5f8d39f744de.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-11T03:42:50+00:00",
-   "title_ja": "ミニマリストが10月上旬に手放した物と理由",
-   "summary_ja": "物を手放すことに躊躇する人が多い中、実際に手放したアイテムとそれぞれの処分した理由を記録している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "2567176ca45d935c",
-   "url": "https://note.com/mimi0412/n/n6584eb30bbf1",
-   "title_original": "「なきゃ」を、どこかに置くー心の断捨離",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/323110988/rectangle_large_type_2_2d811aded190b103aca7d0d02b3c3db9.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-11T03:38:38+00:00",
-   "title_ja": "「〜しなきゃ」という思い込みや無料奉仕を手放す心の断捨離をした話",
-   "summary_ja": "久しぶりに断捨離を行い、まずは気持ちの面から見直した記録。自分を縛っていた「〜しなければならない」という思い込みを置き去りにし、義務感で行っていた無料奉仕をやめる決意をした様子が綴られている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "9409d7cb8725b805",
-   "url": "https://www.lifehacker.jp/article/2610-costorypo-poket-lh-editorialreview-1450767633",
-   "title_original": "リュックに外付けポケットをつけたら、「よく使うもの」がサッと取り出せるようになった",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/10/09/30b3986d-6804-4ed4-b92d-e285c90bec46/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-11T02:30:00+00:00",
-   "title_ja": "リュックに外付けポケットを追加して小物を出しやすくした話",
-   "summary_ja": "リュックサックに外付けの収納ポケットを取り付けることで、スマートフォンや財布などの頻繁に使う小物をスムーズに取り出せるようにした工夫を紹介しています。カバンを買い替えることなく収納力を高め、毎日の小さなストレスを解消する方法です。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "リュック",
-    "ポケット",
-    "スマホ",
-    "財布"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "69a7556970b9cd05",
-   "url": "https://note.com/fair_zebra131/n/n492775e0bba3",
-   "title_original": "【1年半ぶり】自称ミニマリストの今のスタメンを書いてみた①？",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/323089017/rectangle_large_type_2_e93108cee1e0cf6baa3d9660f62e5b0a.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-11T02:23:27+00:00",
-   "title_ja": "自称ミニマリストが1年半ぶりに選んだ現在の持ち物スタメン",
-   "summary_ja": "自称ミニマリストを名乗る投稿者が、前回の紹介から1年半ぶりとなる現在の持ち物スタメンを公開しています。どのような基準で厳選されたアイテムが残っているのか、日々の暮らしで実際に使われている愛用品や持ち物の変化を綴っています。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "1d75058e209a30ad",
-   "url": "https://nlab.itmedia.co.jp/cont/articles/4040968",
-   "title_original": "アラサー主婦、家の不用品を“根こそぎ捨てまくり”→「びっくりしました」「スッキリしましたね」「見習います」（1/3） | 住まい ねとらぼ",
-   "source": "ねとらぼ",
-   "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/10/1791421909_cover.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-11T02:05:00+00:00",
-   "title_ja": "アラサー主婦が自宅の不用品を根こそぎ捨てて部屋をスッキリさせた話",
-   "summary_ja": "アラサーの主婦が自宅にある不用品を徹底的に手放し、部屋をスッキリと片付けた様子を取り上げています。大量の不要な物を思い切って処分していく過程や、その後の整った空間に対する周囲の反応などが紹介されています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "226a7e3cf7b1dab7",
-   "url": "https://www.chosun.com/english/kpop-culture-en/2026/10/11/I2ZU2SQKGJB3BM4PKOOX3FYZOU",
-   "title_original": "Yoon Bo-mi Reveals Seasonal Clothes Organization Tips in Newlywed Home",
-   "source": "조선일보",
-   "image": "https://www.chosun.com/resizer/v2/MU4TEYJVHBRDOMRXGE2GEZTEMU.jpg?auth=dcbcd77c11d4f29b9a10a5a5c62fb02b909e825c369cbb8d20994d94b3b310ee&width=650&height=341&smart=true",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-11T01:39:56+00:00",
-   "title_ja": "新婚の自宅で見せた季節の衣類をすっきり整理する収納のコツ",
-   "summary_ja": "新婚の自宅を舞台に、季節ごとに増えがちな衣類をどのように整理整頓しているのか、その具体的な収納のコツや考え方を明かしています。衣替えの時期に洋服の量を見直し、限られたスペースを有効に使うための工夫が語られています。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "衣類"
-   ],
-   "importance": 2
   }
  ]
 }
