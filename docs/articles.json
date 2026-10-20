@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T20:33:22.054309+09:00",
+ "updated_at": "2026-10-21T01:34:42.772157+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,35 +27,35 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-20T20:34:17.873204+09:00",
+  "generated_at": "2026-10-21T01:42:32.776836+09:00",
   "days": 3,
-  "period": "10月20日〜10月20日",
+  "period": "10月20日〜10月21日",
   "count": 45,
-  "reduce_count": 26,
-  "own_count": 19,
-  "overview": "固定電話や積ん読、着ていない服を手放す具体的な基準のほか、マルチポットやフラグメントケースなど厳選したアイテムで暮らしを整える工夫が45件語られています。",
-  "reduce": "買いたい理由の曖昧な物や固定電話、積ん読を手放し、収納や心にゆとりを生む具体的な基準や体験談が多く語られています。",
-  "own": "無印良品のボックスを活用した隙間収納や、1台で何役もこなすマルチポットなど、厳選した持ち物で暮らしを快適にする実例が語られています。",
+  "reduce_count": 24,
+  "own_count": 21,
+  "overview": "不要品やストックを手放して暮らしのゆとりを生み出す減らし方の実践や、厳選したアイテムで日常を快適にする工夫が多方面から語られています。",
+  "reduce": "靴下や服の数、買いだめや固定電話などを見直し、心や収納にゆとりを生み出す具体的な手放し方の基準や実践例が多く語られています。",
+  "own": "無印良品の収納アイテムや時短調理鍋、マルチポットなど、限られた空間やキッチンをすっきりと快適に保つための便利な持ち物が紹介されています。",
   "points": [
    {
-    "title": "手放す基準の設定",
-    "body": "着ていない服や熱く語れない物は思い切って処分するなど、判断をシンプルにするための基準や呪文を使った具体的な手放し方が紹介されています。"
+    "title": "手放す基準の見直し",
+    "body": "約15足あった靴下や何年も着ていない服など、なぜ持っていたのか理由を振り返り、熱く語れない物や定価で買い直さない物を手放す基準が紹介されています。"
    },
    {
-    "title": "多機能な持ち物の活用",
-    "body": "1本で何役もこなすコスメや、一台で何通りもの使い方ができる調理器具やバックパックなど、持ち物の数を増やさずに便利さを保つ工夫が語られています。"
+    "title": "ストックと買いだめの削減",
+    "body": "お買い得品の買いだめや洗剤のストックをやめて1本に絞ったことで、収納と心にゆとりが生まれ日々のストレスが減った体験談が語られています。"
    },
    {
-    "title": "収納と習慣の見直し",
-    "body": "買いだめを控えてストックを減らしたり、朝の丁寧な所作やメモによる管理で探し物を減らしたりと、日々の習慣を整えてストレスを軽減する様子が示されています。"
+    "title": "キッチンや収納の効率化",
+    "body": "無印良品のボックスや薄型吊るしケースを使ったデッドスペースの活用や、1つで複数の役割をこなすマルチポットでキッチンをすっきりさせる工夫が紹介されています。"
    }
   ],
   "keywords": [
-   "ミニマリスト",
    "断捨離",
+   "ミニマリスト",
    "収納",
    "手放す",
-   "持ち物"
+   "持たない暮らし"
   ]
  },
  "things": [
@@ -76,15 +76,11 @@
    "count": 4
   },
   {
-   "name": "ケーブル",
-   "count": 3
-  },
-  {
    "name": "本",
-   "count": 3
+   "count": 4
   },
   {
-   "name": "鍵",
+   "name": "ケーブル",
    "count": 3
   },
   {
@@ -104,11 +100,11 @@
    "count": 2
   },
   {
-   "name": "ボールペン",
+   "name": "パンツ",
    "count": 2
   },
   {
-   "name": "ミニ財布",
+   "name": "ボールペン",
    "count": 2
   },
   {
@@ -125,6 +121,10 @@
   },
   {
    "name": "家具",
+   "count": 2
+  },
+  {
+   "name": "寝袋",
    "count": 2
   },
   {
@@ -145,6 +145,10 @@
   },
   {
    "name": "財布",
+   "count": 2
+  },
+  {
+   "name": "鍵",
    "count": 2
   },
   {
@@ -230,8 +234,113 @@
   "私だけミニマリスト｜南さやか",
   "筆子ジャーナル"
  ],
- "count": 269,
+ "count": 272,
  "items": [
+  {
+   "id": "16562c520cd90e16",
+   "url": "https://note.com/blog3969/n/nebf32b836396",
+   "title_original": "「筋肉が全て」を購入",
+   "source": "note #ミニマリスト",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/f73e630d32c63a1be5222210ed415e91a3ef3f3f.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-20T16:25:07+00:00",
+   "title_ja": "本を買わない誓いを破り購入した本と日々の記録",
+   "summary_ja": "もう本は買わないと決めていたにもかかわらず、モチベーションを高めるためにメルカリで本を購入してしまった日の記録。歯医者に行ったことや睡眠時間のずれなど、日常の出来事もつづられている。",
+   "category": "心・習慣",
+   "axis": "own",
+   "things": [
+    "本"
+   ],
+   "importance": 1
+  },
+  {
+   "id": "4421ebc7fce9e35b",
+   "url": "https://note.com/dapper_human5445/n/n242b3f4a7feb",
+   "title_original": "【365日初体験｜DAY20】靴下が約15足。俺、足何本あるんだ？",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/326641261/rectangle_large_type_2_3cfc0c51bae801d2e4ef725806c27e54.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-20T16:09:58+00:00",
+   "title_ja": "靴下の数を見直して手放す理由を考えた日のこと",
+   "summary_ja": "一日一捨を続ける中で、約15足あった靴下を見直した体験。足は2本なのになぜこれほど持っていたのか、残していた理由を初めて言葉にして振り返り、使っていない靴下と向き合うきっかけとなった。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "靴下",
+    "パンツ"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "82a44a6b7c04a836",
+   "url": "https://note.com/fancy_oriole3613/n/n1af45a0904c0",
+   "title_original": "節約しているつもりなのに、お金が残らない。「長く使うから」「自己投資だから」で買っていない？",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/326615626/rectangle_large_type_2_ea214da29391095384d9fd5254bfe664.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-20T14:16:55+00:00",
+   "title_ja": "「長く使う」の言葉に惑わされないお金の使い方",
+   "summary_ja": "節約しているつもりでもお金が残らない原因について。「いいものを長く使う」「自己投資」という言葉の裏にある買い物の基準を見直す。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "a1be4e5d714925b5",
+   "url": "https://www.lifehacker.jp/article/machi-ya-graphenesleepingbag-start-987070",
+   "title_original": "気温に合わせて中綿が変化。エアロゲル✕グラフェンの高性能寝袋",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/10/17/e0dbe745-5a43-4ef9-93c4-7836f2f8729c/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-20T14:00:00+00:00",
+   "title_ja": "気温で中綿が変化する先進素材の高性能寝袋",
+   "summary_ja": "寒暖差に合わせてエアロゲル入りの中綿が膨らみや収縮をして温度を調節する寝袋。さまざまな季節に対応できるモジュラー設計を採用している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "寝袋"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "043218117067d01c",
+   "url": "https://www.chiba-tv.com/plus/detail/amp/2026102137679",
+   "title_original": "捨てるべき「アラフィフ夫婦の習慣」とは？ 5つの“当たり前”を手放せば夫婦関係がラクになる",
+   "source": "千葉テレビ放送株式会社",
+   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1485272480194184664/origin_1.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-20T13:42:36+00:00",
+   "title_ja": "アラフィフ夫婦が手放すべき5つの当たり前",
+   "summary_ja": "これまでの習慣や当たり前を見直すことで、夫婦関係をよりラクにするための手放し方のヒントについて紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "04a80adc1d9645ff",
+   "url": "https://www.roomie.jp/2026/10/1901685",
+   "title_original": "カセットコンロ、買ったときの箱に戻すのをやめたい。山崎実業なら「家電の下」が収納場所になりそう",
+   "source": "ROOMIE",
+   "image": "https://www.roomie.jp/wp-content/uploads/2026/10/261008_portablestoverack_01.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-20T12:00:18+00:00",
+   "title_ja": "カセットコンロの収納をラクにする山崎実業のアイテム",
+   "summary_ja": "コンパクトな2LDKで暮らすライターが、使用頻度の高いカセットコンロを箱から出し、家電の下を収納場所にしてラクにする方法を検討している。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "カセットコンロ"
+   ],
+   "importance": 3
+  },
   {
    "id": "5ead15686bb69f82",
    "url": "https://www.roomie.jp/2026/10/1911847",
@@ -1744,22 +1853,6 @@
    "importance": 3
   },
   {
-   "id": "6e83e3a9118da4be",
-   "url": "https://note.com/tanurashi/n/n4f85f2cda1f8",
-   "title_original": "【断捨離】1000個手放したら、「好きなもの」がわかるようになった",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/326018705/rectangle_large_type_2_4d0acf76c8f945d17fd877b8a879a4be.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-19T03:08:32+00:00",
-   "title_ja": "家の物を1000個手放すことで自分の「好きなもの」を再発見した話",
-   "summary_ja": "最初は500個を目標に片づけを始め、777個を経て今年合計で1000個の物を手放すことに成功した体験談。数を意識しながら大量の物を手放していく過程で、本当に自分が好きなものが何なのかが分かるようになった変化を綴っている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
    "id": "00ff368172115c92",
    "url": "https://futabasha-change.com/articles/-/3214?page=2",
    "title_original": "｢受かってやろうという気持ちは1ミリもなかった｣宇賀なつみ、テレ朝入社“まさかの真相”！｢生きて帰ってこられればオッケー｣超多忙アナの旅の荷物は3つだけ？",
@@ -1773,24 +1866,6 @@
    "category": "旅・持ち歩き",
    "axis": "own",
    "things": [],
-   "importance": 4
-  },
-  {
-   "id": "7446a8dc34553ccc",
-   "url": "https://note.com/cozy_life_takuto/n/nfa05a9e1a1ad",
-   "title_original": "充電ケーブル、1年もつのは公称2.5万回以上だけ",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/325995949/rectangle_large_type_2_a564ab6c1892178073ac8b72d8485138.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-19T01:53:00+00:00",
-   "title_ja": "充電ケーブルを長持ちさせる公称耐久回数の見極め方",
-   "summary_ja": "折り曲げテスト1万回のケーブルが半年で故障した体験から、実使用日数は公称回数の3〜5%程度になると分析。1年以上壊さずに使い続けるには、公称2万5千回以上の製品を選ぶ必要があると検証している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "充電ケーブル"
-   ],
    "importance": 4
   },
   {
@@ -1939,25 +2014,6 @@
    "category": "暮らしの実例",
    "axis": "own",
    "things": [],
-   "importance": 3
-  },
-  {
-   "id": "e99647c9be0dc249",
-   "url": "https://note.com/metastyle/n/n5b6cd8f11145",
-   "title_original": "財布と鍵をひとつに。ライフポケットのミニ財布",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/325922401/rectangle_large_type_2_1146187c70a541ca03c219caffbe3b33.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-18T21:00:58+00:00",
-   "title_ja": "財布と鍵をひとつにまとめるライフポケットのミニ財布",
-   "summary_ja": "玄関で鍵を探す手間を減らすため、財布と鍵を一つにまとめて持ち歩くことができるライフポケットのミニ財布について書かれた記事。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ミニ財布",
-    "鍵"
-   ],
    "importance": 3
   },
   {
