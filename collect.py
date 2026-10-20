@@ -71,6 +71,7 @@ MAX_NEW_PER_RUN = 40
 # そのうち「持ち物」寄りの収集元のために空けておく枠。
 # 世の中の発信は減らす話に偏っていて、放っておくと「持ち物」タブが埋まらない。
 OWN_QUOTA = 12
+GLOBAL_QUOTA = 20
 # 1回の実行で、過去の記事のサムネイルを取りに行く件数の上限。
 BACKFILL_PER_RUN = 30
 # トップに出す「ここ数日の傾向」が見る期間と、まとめに渡す記事数の上限。
@@ -536,6 +537,13 @@ def fetch_feed(feed: dict) -> list[dict]:
         if feed.get("google_news"):
             body = ""
 
+        # 総合的な媒体は、ミニマリズムに関わる語が見出しか本文に入った記事だけ拾う。
+        # LLMに投げる前のふるい（無関係な記事で1回の処理枠を食い潰さないため）。
+        if feed.get("keywords"):
+            haystack = f"{title} {body}".lower()
+            if not any(word in haystack for word in feed["keywords"]):
+                continue
+
         if media == "x":
             # 本人の投稿だけを、本家へのリンクと本家の画像で取り込む。
             if title.startswith(RETWEET_PREFIXES):
@@ -818,7 +826,7 @@ def clean_things(raw) -> list[str]:
     return things[:4]
 
 
-def enrich(items: list[dict]) -> list[dict]:
+def enrich(items: list[dict], skipped: dict[str, str]) -> list[dict]:
     """LLMで日本語の見出し・要約・分類を付ける。失敗した分は捨てて次回に回す。"""
     results: list[dict] = []
     for offset in range(0, len(items), BATCH_SIZE):
@@ -847,6 +855,7 @@ def enrich(items: list[dict]) -> list[dict]:
             entry = by_index.get(index) or entries[index - 1]
             if entry.get("relevant") is False:
                 print(f"  ・ミニマリズムと無関係のため除外: {item['title_original'][:40]}")
+                skipped[item["id"]] = dt.datetime.now(dt.timezone.utc).isoformat()
                 continue
             category = str(entry.get("category", "")).strip()
             axis = str(entry.get("axis", "")).strip()
@@ -1010,6 +1019,31 @@ def make_digest(items: list[dict], previous: dict | None, has_new: bool) -> dict
 # 保存
 # --------------------------------------------------------------------------
 
+SKIPPED_PATH = os.path.join(BASE_DIR, "docs", "skipped.json")
+SKIP_MEMORY_DAYS = 14
+
+
+def load_skipped() -> dict[str, str]:
+    """無関係と判定して見送った記事のID。毎回LLMに投げ直さないために覚えておく。"""
+    try:
+        with open(SKIPPED_PATH, encoding="utf-8") as f:
+            data = json.load(f)
+    except (json.JSONDecodeError, OSError):
+        return {}
+    cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=SKIP_MEMORY_DAYS)
+    return {
+        key: value
+        for key, value in data.get("ids", {}).items()
+        if (parse_date(value) or cutoff) >= cutoff
+    }
+
+
+def save_skipped(skipped: dict[str, str]) -> None:
+    with open(SKIPPED_PATH, "w", encoding="utf-8") as f:
+        json.dump({"ids": skipped}, f, ensure_ascii=False, indent=0)
+        f.write("\n")
+
+
 def load_existing() -> dict:
     if not os.path.exists(OUTPUT_PATH):
         return {"updated_at": None, "items": []}
@@ -1034,7 +1068,8 @@ def main() -> int:
 
     existing = load_existing()
     existing_items = existing["items"]
-    known_ids = {item["id"] for item in existing_items}
+    skipped = load_skipped()
+    known_ids = {item["id"] for item in existing_items} | set(skipped)
     known_urls = {canonical_url(item["url"]) for item in existing_items}
     known_titles = [normalize_title(item.get("title_original", "")) for item in existing_items]
 
@@ -1070,17 +1105,24 @@ def main() -> int:
             [item for item in new_items if item["hint"] == "own"], OWN_QUOTA
         )
         taken = {item["id"] for item in owned}
+        # 海外の記事は国内より少なく届くので、1回の処理枠の一部を先に確保する。
+        have_global = sum(1 for item in owned if item["region"] == "海外")
+        abroad = interleave_by_source(
+            [item for item in new_items if item["id"] not in taken and item["region"] == "海外"],
+            max(0, GLOBAL_QUOTA - have_global),
+        )
+        taken |= {item["id"] for item in abroad}
         rest = interleave_by_source(
             [item for item in new_items if item["id"] not in taken],
-            MAX_NEW_PER_RUN - len(owned),
+            MAX_NEW_PER_RUN - len(owned) - len(abroad),
         )
-        new_items = owned + rest
+        new_items = owned + abroad + rest
         new_items.sort(key=lambda item: item["published"], reverse=True)
 
     enriched: list[dict] = []
     replaced: set[str] = set()
     if new_items:
-        enriched = enrich(new_items)
+        enriched = enrich(new_items, skipped)
         print(f"  要約 {len(enriched)}件（ミニマリズムと無関係と判定された分は除外）")
         enriched, replaced = dedupe_stories(enriched, existing_items)
         print(f"  掲載対象 {len(enriched)}件")
@@ -1145,6 +1187,7 @@ def main() -> int:
         "items": merged,
     }
 
+    save_skipped(skipped)
     os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=1)
