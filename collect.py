@@ -46,6 +46,22 @@ INTAKE_DAYS = 4
 # サイトに残す期間と件数の上限。ニュースと違って古びにくい話題なので長めに残す。
 KEEP_DAYS = 45
 KEEP_MAX = 400
+# noteのハッシュタグ記事は量が多く、放っておくと棚の半分近くを占めた（2026-10-20に47%）。
+# 新しい順に数えて、この割合を超えた分は載せない。
+NOTE_SHARE_MAX = 0.15
+
+
+def cap_note_share(items: list[dict]) -> list[dict]:
+    others = sum(1 for item in items if not str(item.get("source", "")).startswith("note"))
+    limit = int(others * NOTE_SHARE_MAX / (1 - NOTE_SHARE_MAX))
+    kept, notes = [], 0
+    for item in items:
+        if str(item.get("source", "")).startswith("note"):
+            if notes >= limit:
+                continue
+            notes += 1
+        kept.append(item)
+    return kept
 # 1回のLLM呼び出しでまとめて処理する記事数。
 # Groqの無料枠は分あたりトークン数（TPM 6000）が厳しいので、大きくし過ぎない。
 BATCH_SIZE = 5
@@ -1091,7 +1107,7 @@ def main() -> int:
         if (parse_date(item.get("published", "")) or now) >= now - dt.timedelta(days=KEEP_DAYS)
     ]
     merged.sort(key=lambda item: item["published"], reverse=True)
-    merged = merged[:KEEP_MAX]
+    merged = cap_note_share(merged)[:KEEP_MAX]
 
     # 以前の実行で画像が付かなかった記事を、少しずつ埋めていく。
     stale = [item for item in merged if not item.get("image")][:BACKFILL_PER_RUN]

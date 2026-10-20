@@ -395,7 +395,7 @@
       "url": "https://note.com/hashtag/%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AA%E3%82%B9%E3%83%88/rss",
       "media": "blog",
       "region": "国内",
-      "max_items": 6,
+      "max_items": 2,
       "enabled": true
     },
     {
@@ -403,7 +403,7 @@
       "url": "https://note.com/hashtag/%E6%96%AD%E6%8D%A8%E9%9B%A2/rss",
       "media": "blog",
       "region": "国内",
-      "max_items": 6,
+      "max_items": 2,
       "enabled": true,
       "hint": "reduce"
     },
@@ -412,7 +412,7 @@
       "url": "https://note.com/hashtag/%E6%8C%81%E3%81%9F%E3%81%AA%E3%81%84%E6%9A%AE%E3%82%89%E3%81%97/rss",
       "media": "blog",
       "region": "国内",
-      "max_items": 5,
+      "max_items": 2,
       "enabled": true
     },
     {
@@ -420,7 +420,7 @@
       "url": "https://note.com/hashtag/%E5%B0%91%E3%81%AA%E3%81%84%E6%9C%8D%E3%81%A7%E6%9A%AE%E3%82%89%E3%81%99/rss",
       "media": "blog",
       "region": "国内",
-      "max_items": 4,
+      "max_items": 2,
       "enabled": true,
       "hint": "own"
     },
@@ -544,7 +544,8 @@
       "region": "国内",
       "hint": "own",
       "enabled": false,
-      "_note": "記事が1件しかないタグ。"
+      "_note": "記事が1件しかないタグ。",
+      "max_items": 2
     },
     {
       "name": "はてなブックマーク検索",
@@ -553,6 +554,103 @@
       "region": "国内",
       "enabled": false,
       "_note": "40件返るが、語が本文に一度出るだけの無関係な記事（技術記事など）が大半。"
+    },
+    {
+      "name": "Google ニュース",
+      "url": "https://news.google.com/rss/search?q=%E5%8F%8E%E7%B4%8D%20%E7%89%87%E4%BB%98%E3%81%91%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "media": "news",
+      "region": "国内",
+      "google_news": true,
+      "max_items": 5,
+      "enabled": true
+    },
+    {
+      "name": "Google ニュース",
+      "url": "https://news.google.com/rss/search?q=%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%83%A9%E3%82%A4%E3%83%95%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "media": "news",
+      "region": "国内",
+      "google_news": true,
+      "max_items": 5,
+      "enabled": true
+    },
+    {
+      "name": "Google ニュース",
+      "url": "https://news.google.com/rss/search?q=%E6%8C%81%E3%81%9F%E3%81%AA%E3%81%84%E6%9A%AE%E3%82%89%E3%81%97%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "media": "news",
+      "region": "国内",
+      "google_news": true,
+      "max_items": 4,
+      "enabled": true
+    },
+    {
+      "name": "Google ニュース",
+      "url": "https://news.google.com/rss/search?q=%E6%95%B4%E7%90%86%E5%8F%8E%E7%B4%8D%E3%82%A2%E3%83%89%E3%83%90%E3%82%A4%E3%82%B6%E3%83%BC%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "media": "news",
+      "region": "国内",
+      "google_news": true,
+      "max_items": 4,
+      "enabled": true
+    },
+    {
+      "name": "Google ニュース",
+      "url": "https://news.google.com/rss/search?q=%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AA%E3%82%B9%E3%83%88%20%E5%AE%B6%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "media": "news",
+      "region": "国内",
+      "google_news": true,
+      "max_items": 4,
+      "enabled": true
+    },
+    {
+      "name": "Google ニュース",
+      "url": "https://news.google.com/rss/search?q=%E5%B0%91%E3%81%AA%E3%81%84%E6%9C%8D%20%E3%83%AF%E3%83%BC%E3%83%89%E3%83%AD%E3%83%BC%E3%83%96%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja",
+      "media": "news",
+      "region": "国内",
+      "google_news": true,
+      "max_items": 3,
+      "enabled": true
+    },
+    {
+      "name": "Google ニュース",
+      "url": "https://news.google.com/rss/search?q=simple%20living%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
+      "media": "news",
+      "region": "海外",
+      "google_news": true,
+      "max_items": 4,
+      "enabled": true
+    },
+    {
+      "name": "Google ニュース",
+      "url": "https://news.google.com/rss/search?q=capsule%20wardrobe%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
+      "media": "news",
+      "region": "海外",
+      "google_news": true,
+      "max_items": 3,
+      "enabled": true
+    },
+    {
+      "name": "Google ニュース",
+      "url": "https://news.google.com/rss/search?q=digital%20minimalism%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
+      "media": "news",
+      "region": "海外",
+      "google_news": true,
+      "max_items": 3,
+      "enabled": true
+    },
+    {
+      "name": "Mr. Money Mustache",
+      "url": "https://www.mrmoneymustache.com/feed/",
+      "media": "blog",
+      "region": "海外",
+      "max_items": 3,
+      "enabled": true
+    },
+    {
+      "name": "Cup of Jo",
+      "url": "https://www.cupofjo.com/feed/",
+      "media": "blog",
+      "region": "海外",
+      "max_items": 3,
+      "enabled": true
     }
   ]
 }
