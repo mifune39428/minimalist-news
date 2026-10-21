@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T01:52:12.748307+09:00",
+ "updated_at": "2026-10-22T06:26:09.143132+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,34 +27,39 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-22T01:53:19.888203+09:00",
+  "generated_at": "2026-10-22T06:28:19.232508+09:00",
   "days": 3,
-  "period": "10月20日〜10月22日",
+  "period": "10月21日〜10月22日",
   "count": 45,
-  "reduce_count": 26,
-  "own_count": 19,
-  "overview": "衣類や本、大型家具の断捨離といった具体的な手放し方から、身軽な持ち物やスマートツールの活用まで、日々の暮らしをコンパクトに整える工夫が広く語られています。",
-  "reduce": "衣類や本、アプリ、実家の不用品などを手放した体験談が多く、収納用品を買う前にまずは持ち物を見直す重要性が指摘されています。",
-  "own": "秋服の着回しやハンガー10本の生活、モバイルバッテリーなどの軽量・多機能なガジェットを活用してコンパクトに暮らす実例が紹介されています。",
+  "reduce_count": 27,
+  "own_count": 18,
+  "overview": "物の減らし方や収納の工夫をはじめ、心と習慣の整え方、厳選した持ち物の活用法に関する記事が多数発信されています。",
+  "reduce": "収納用品を増やす前に持ち物を見直す重要性や、計画的な片づけ、衣類やアプリなどの具体的な手放し方が語られています。",
+  "own": "ガジェットや衣服において、軽量さや定番アイテム、多機能性を活かして荷物をコンパクトにまとめる工夫が紹介されています。",
   "points": [
    {
-    "title": "身軽な衣類の管理と手放し",
-    "body": "衣類の断捨離として45リットルゴミ袋をいっぱいにした話や、40代OLが秋服を全14着に絞って着回す実例、約15足あった靴下を見直して手放した体験が語られています。"
+    "title": "片づけと手放しの工夫",
+    "body": "年末に向けて11月から計画的に大掃除を進めるアプローチや、衣類や本、使っていないアプリなどを実際に手放した体験談が多く語られています。"
    },
    {
-    "title": "家具や収納のコンパクト化",
-    "body": "ベッドフレームやソファを持たずに三つ折りマットレスで暮らした経験や、場所を取る机を無印の折りたたみ式に買い替えた事例など、大型家具を見直す動きが見られます。"
+    "title": "収納と持ち物の見直し",
+    "body": "収納ケースやボックスを安易に増やす前に手持ちの物を見直す重要性や、キッチンの戸棚をクローゼットのように片付ける工夫が提案されています。"
    },
    {
-    "title": "ガジェットやツールの活用",
-    "body": "温度表示付きモバイルバッテリーや重さ89gのカードサイズマルチツールなど、外出時の荷物を減らして安心感を高める実用的なアイテムが紹介されています。"
+    "title": "身軽なガジェット活用",
+    "body": "厚さ4.8mmの薄型バッテリーやケーブル内蔵型、カードサイズのマルチツールなど、荷物を減らして持ち歩くための道具が紹介されています。"
+   },
+   {
+    "title": "少ない服でのコーディネート",
+    "body": "40代OLが秋服を全14着に絞って着回す実例や、秋冬のワードローブ管理術、予算の都合で買い物を慎重に見送る姿勢が綴られています。"
    }
   ],
   "keywords": [
    "断捨離",
-   "ミニマリスト",
-   "服",
-   "収納"
+   "モバイルバッテリー",
+   "ワードローブ",
+   "収納ケース",
+   "片付け"
   ]
  },
  "things": [
@@ -69,6 +74,10 @@
   {
    "name": "本",
    "count": 5
+  },
+  {
+   "name": "iPhone",
+   "count": 4
   },
   {
    "name": "ケーブル",
@@ -89,10 +98,6 @@
   {
    "name": "モバイルバッテリー",
    "count": 4
-  },
-  {
-   "name": "iPhone",
-   "count": 3
   },
   {
    "name": "シャワー",
@@ -203,6 +208,7 @@
   "ENCOUNT",
   "Franklin County Now",
   "Good Housekeeping",
+  "GoodsPress Web",
   "InStyle",
   "Infoseek",
   "JIJICO",
@@ -237,6 +243,7 @@
   "WEBザテレビジョン",
   "WFMZ.com",
   "WNYT.com",
+  "Who What Wear",
   "Yahoo Lifestyle Singapore",
   "Yahoo!ニュース",
   "YouTube",
@@ -246,6 +253,7 @@
   "note #少ない服で暮らす",
   "note #持たない暮らし",
   "note #断捨離",
+  "pmg-ky2.com",
   "tech-insider.org",
   "うにのゆるシンプルな暮らし",
   "ぴーこ｜ゆるっとミニマルな日常",
@@ -269,8 +277,91 @@
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 312,
+ "count": 321,
  "items": [
+  {
+   "id": "00d1bc88066d4daf",
+   "url": "https://note.com/mori_3_note/n/n5db0a86e57a7",
+   "title_original": "終わっていないことが、頭の中を散らかしている。 「ツァイガルニク効果」",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/326558902/rectangle_large_type_2_c99eda6cb93e3607b7f6eb9c153d5e5c.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-21T21:20:37+00:00",
+   "title_ja": "仕事後も頭が散らかる原因と「ツァイガルニク効果」に関する考察",
+   "summary_ja": "仕事が終わっても頭の中で仕事が続いてしまう悩みに対し、やり残したことが強く記憶に残るツァイガルニク効果の視点から解説する記事。部屋の物だけでなく、頭の中の散らかりを整理して思考をすっきりさせる考え方が語られている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "68b229c201e49b26",
+   "url": "https://www.goodspress.jp/news/750355",
+   "title_original": "iPhone Airより薄い。\"あとちょっと\"にぴったりな厚さ4.8mmの超薄型MagSafeバッテリー",
+   "source": "GoodsPress Web",
+   "image": "https://static.andgp.net/cms/wp-content/uploads/2026/10/261013_magonair_01-720x720.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-21T21:00:00+00:00",
+   "title_ja": "厚さ4.8mmでiPhoneより薄い超薄型MagSafeバッテリー",
+   "summary_ja": "厚さわずか4.8mmの超薄型MagSafe対応モバイルバッテリーの紹介記事。iPhone本体よりも薄くコンパクトな仕様で、荷物を増やしたくない場面でのちょっとした充電に役立つ道具として取り上げられている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "MagSafeバッテリー",
+    "iPhone"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5476bdc73528feb5",
+   "url": "https://bemorewithless.com/decluttering-methods/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
+   "title_original": "5 Decluttering Methods to Create a Clutter-Free Home",
+   "source": "Be More with Less",
+   "image": "https://bemorewithless.com/wp-content/uploads/2023/09/decluttering-methods-image.png",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-21T20:50:22+00:00",
+   "title_ja": "スッキリした家をつくるための効果的な片づけ手法5選",
+   "summary_ja": "ミニマルな暮らしを目指しつつも物の整理に苦戦している人に向けて、5つの片づけ方法を紹介した記事。自身の目標や使える時間、関心の度合いに合わせてカスタマイズしながら実践するための具体的なアプローチを提案している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "8318c42675a9288c",
+   "url": "https://note.com/yuruka_kurashi/n/nc0221de53b42",
+   "title_original": "年末の大掃除、私は11月から少しずつ始めます",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/326226116/rectangle_large_type_2_acb593441202ad294bf49b4e250f2f55.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-21T20:40:18+00:00",
+   "title_ja": "年末の大掃除を11月から計画的に少しずつ進める工夫",
+   "summary_ja": "年末の慌ただしい時期にまとめて大掃除をするのではなく、11月から前倒しで少しずつ片づけを進める工夫をつづった記事。直前に負担を集中させず、余裕を持って計画的に住まいを整えるアプローチが紹介されている。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "1bf1743f5cffc86b",
+   "url": "https://www.thespruce.com/minimalist-living-room-decor-regrets-12172543",
+   "title_original": "We Asked Minimalists About the Living Room Decor Purchases They Regret Most, and They Did Not Hold Back",
+   "source": "The Spruce",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-21T16:42:00+00:00",
+   "title_ja": "ミニマリストが後悔したリビングの装飾品",
+   "summary_ja": "ミニマリストたちに、リビングルームの装飾品の買い物のうち何をもっとも後悔しているか尋ねた海外ニュース記事。購入時の失敗談や不要だったインテリアについて語られている。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
   {
    "id": "34bdf30db5b2aed5",
    "url": "https://note.com/lyllamai/n/n06640512fc02",
@@ -322,6 +413,22 @@
    "summary_ja": "キッチンの戸棚の整理に、クローゼットと同じようなアプローチを取り入れて片付けをぐっと楽にした人の体験談。",
    "category": "手放す・捨て方",
    "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "d4dafece91dac936",
+   "url": "https://www.whowhatwear.com/fashion/shopping/wardrobe-staples-fall-2026",
+   "title_original": "The Best Staples to Buy to Never Have a \"Nothing to Wear\" Day Again",
+   "source": "Who What Wear",
+   "image": "https://cdn.mos.cms.futurecdn.net/v9ZdaBfsTet8foUiEZSU7Y.gif",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-21T15:00:00+00:00",
+   "title_ja": "服選びに迷わないために持っておきたい定番アイテム",
+   "summary_ja": "「着る服がない」と悩む日をなくすために、ワードローブに揃えておきたい定番のファッションアイテムについて紹介している。",
+   "category": "服・ファッション",
+   "axis": "own",
    "things": [],
    "importance": 3
   },
@@ -454,6 +561,25 @@
    "importance": 2
   },
   {
+   "id": "946fe070c09936b8",
+   "url": "https://www.roomie.jp/2026/10/1911651",
+   "title_original": "自転車チェーンのお手入れ、オイルの代わりにコレ。固形だからベタつかず、汚れにくい",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/cha_TOP16-9.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-21T10:45:06+00:00",
+   "title_ja": "自転車チェーンを固形オイルで手入れする話",
+   "summary_ja": "自転車チェーンのメンテナンスを圧倒的にラクにし、汚れにくくしてくれる固形タイプのオイルを紹介している。ベタつかず手入れのハードルを下げる便利なアイテム。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "自転車チェーン",
+    "固形オイル"
+   ],
+   "importance": 3
+  },
+  {
    "id": "510f2006bf5b4c14",
    "url": "https://www.youtube.com/watch?v=bkQmM1zMBlQ",
    "title_original": "結婚したミニマリストKさんに、気になること全部聞いてみた｜出会い・お金・暮らし",
@@ -504,6 +630,22 @@
     "ハンガー"
    ],
    "importance": 4
+  },
+  {
+   "id": "c30da230494804df",
+   "url": "https://www.pmg-ky2.com/larue/features/declutter-your-finances-this-fall/article_c166d1cf-2f82-52c4-81de-e4cc26933b99.html",
+   "title_original": "Declutter your finances this fall",
+   "source": "pmg-ky2.com",
+   "image": "https://bloximages.newyork1.vip.townnews.com/pmg-ky2.com/content/tncms/assets/v3/editorial/6/f4/6f4a45e5-c558-5420-990e-0575c429cb12/6ad0ecdc0a750.image.jpg?crop=639%2C336%2C0%2C64",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-21T10:00:00+00:00",
+   "title_ja": "秋の家計とファイナンスの片づけについて",
+   "summary_ja": "秋の季節に合わせ、自身の財政状態やお金まわりをすっきりと整理整頓し見直すためのヒントをまとめた記事。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
   },
   {
    "id": "c518175286d3cbcd",
@@ -575,6 +717,24 @@
    "things": [
     "モバイルバッテリー",
     "UGREEN"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "281fc12026c9fb24",
+   "url": "https://www.youtube.com/shorts/8VyrzbI7f-o",
+   "title_original": "【ミニマリスト主婦】ひたすら掃除機かける",
+   "source": "ぴーこ｜ゆるっとミニマルな日常",
+   "image": "https://i1.ytimg.com/vi/8VyrzbI7f-o/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-10-21T08:00:39+00:00",
+   "title_ja": "ミニマリスト主婦の日常における掃除の様子",
+   "summary_ja": "ミニマリスト主婦が日々のルーティンとしてひたすら掃除機をかける様子を記録した動画。暮らしを整える習慣のひとコマである。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "掃除機"
    ],
    "importance": 2
   },
