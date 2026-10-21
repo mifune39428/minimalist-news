@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T08:01:58.768563+09:00",
+ "updated_at": "2026-10-21T12:51:46.368048+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,40 +27,45 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-21T08:02:28.599559+09:00",
+  "generated_at": "2026-10-21T12:52:24.121807+09:00",
   "days": 3,
   "period": "10月20日〜10月21日",
   "count": 45,
-  "reduce_count": 21,
-  "own_count": 24,
-  "overview": "不要品の手放し方や日々の習慣を見直す減らし方の工夫と、コンパクトな住まいや便利な道具を活用した持ち物の厳選に関する話題が多く語られています。",
-  "reduce": "靴下やストック品、ブランド物など過去にため込んだ物を見直し、手放すことで心や収納にゆとりを生み出す工夫が多数語られています。",
-  "own": "折りたたみ式の机や多機能なバッグ、タイニーハウスや効率的な収納グッズなど、暮らしをコンパクトに整えるアイテムが紹介されています。",
+  "reduce_count": 25,
+  "own_count": 20,
+  "overview": "不要品やアプリの断捨離といった手放す工夫から、ガジェットやワードローブを見直す持ち物のスリム化まで、身軽で快適な暮らしを整える実践例が幅広く語られています。",
+  "reduce": "アプリや積ん読、実家の思い出の品など身の回りの不要なものを手放し、収納や心にゆとりを生み出す具体的な片付け体験や習慣の工夫が多く語られています。",
+  "own": "モバイルバッテリーや超軽量フライパンなどの便利な道具選びから、秋冬13着のワードローブ管理、折りたたみ式テーブルによる省スペース化まで、厳選した持ち物を活用する工夫が語られています。",
   "points": [
    {
-    "title": "手放す基準の言語化",
-    "body": "靴下や本、ブランド物などの所有物を見直し、なぜそれらを残していたのか理由を言葉にして手放すきっかけにする事例が語られています。"
+    "title": "アプリや物の手放し方",
+    "body": "個人情報保護を考慮して使っていないアプリを9個断捨離した体験や、実家の楽器の寄附、靴下の数を見直して手放す理由を考えるなど、多様な手放し方のエピソードが語られています。"
    },
    {
-    "title": "ストックや買いだめの見直し",
-    "body": "洗剤の買いだめや不要なストックをなくし、1本に絞ることで収納や心にゆとりを持たせる工夫について紹介されています。"
+    "title": "ワードローブの厳選",
+    "body": "秋冬のワードローブを13着や14着に絞り込んで管理する術や、スーツを味方にする身軽な服選び、機能性とデザイン性を兼ね備えたアイテムの活用法が紹介されています。"
    },
    {
-    "title": "コンパクトな住まいと工夫",
-    "body": "タイニーハウスや4畳だけの限られた空間で、昇降ベッドや最低限の持ち物だけで暮らすミニマリストの実例が取り上げられています。"
+    "title": "便利な道具の活用",
+    "body": "ケーブル一体型のモバイルバッテリーや約330gの超軽量フライパンなど、荷物や日常の調理・片付けの負担を軽減する機能的なガジェットや調理器具が取り上げられています。"
    }
   ],
   "keywords": [
-   "ミニマリスト",
    "断捨離",
-   "収納",
-   "手放す"
+   "モバイルバッテリー",
+   "ワードローブ",
+   "スマートツール",
+   "タイニーハウス"
   ]
  },
  "things": [
   {
    "name": "服",
    "count": 9
+  },
+  {
+   "name": "ケーブル",
+   "count": 4
   },
   {
    "name": "スマホ",
@@ -79,7 +84,7 @@
    "count": 4
   },
   {
-   "name": "ケーブル",
+   "name": "iPhone",
    "count": 3
   },
   {
@@ -91,12 +96,12 @@
    "count": 3
   },
   {
-   "name": "雑貨",
+   "name": "モバイルバッテリー",
    "count": 3
   },
   {
-   "name": "iPhone",
-   "count": 2
+   "name": "雑貨",
+   "count": 3
   },
   {
    "name": "イヤホン",
@@ -128,10 +133,6 @@
   },
   {
    "name": "メガネ",
-   "count": 2
-  },
-  {
-   "name": "モバイルバッテリー",
    "count": 2
   },
   {
@@ -204,6 +205,7 @@
   "JIJICO",
   "Jenny Mustard",
   "LIMO | くらしとお金の経済メディア",
+  "Malay Mail",
   "MoneyLion",
   "MonoMax",
   "New York Post",
@@ -262,8 +264,182 @@
   "私だけミニマリスト｜南さやか",
   "筆子ジャーナル"
  ],
- "count": 283,
+ "count": 292,
  "items": [
+  {
+   "id": "de66e73794b4cf6b",
+   "url": "https://note.com/keisuke_yano/n/n6b3ab577d02a",
+   "title_original": "もう忘れない！カバンが軽くなる「ケーブル内蔵モバイルバッテリー」が今、大人気！",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/326766528/rectangle_large_type_2_100a9e86bca7eb1debaf8141c0b8a059.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-21T03:48:54+00:00",
+   "title_ja": "カバンを軽くするケーブル内蔵モバイルバッテリー",
+   "summary_ja": "外出時のスマホの充電切れに備えて持ち歩く、ケーブルが一体型になったモバイルバッテリーを紹介しています。荷物を減らしたい人に適したアイテムです。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "モバイルバッテリー",
+    "ケーブル"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "0a4e184062968b68",
+   "url": "https://note.com/icchora_aging/n/n1d939a29d3fb",
+   "title_original": "スーツはミニマリストの味方になる？ 洗えるスーツで考える、身軽な服選び",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/326622310/rectangle_large_type_2_8f88390f1bc4de2b57a9fcb21b3db528.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-21T03:39:33+00:00",
+   "title_ja": "スーツを味方にする身軽な服選びの考え方",
+   "summary_ja": "ミニマリズムとスーツの相性の良さについて考察し、洗えるスーツなどを通じた身軽な服の選び方について綴っています。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "スーツ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5358ba79bc0c71ed",
+   "url": "https://note.com/menhealer_namapo/n/n7fb73c063361",
+   "title_original": "家計簿アプリの見直しをしてiphoneからマネーフォワードなどアプリを9個断捨離【2026年10月】",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/326761260/rectangle_large_type_2_319d0fc4356760b57af2fcd050a862a0.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-21T03:37:06+00:00",
+   "title_ja": "セキュリティを考慮して家計簿アプリなど9個を断捨離した話",
+   "summary_ja": "個人情報保護の観点から、長年使っていた家計簿アプリ2つを含む計9個の使っていないアプリをまとめて手放した体験談です。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "iPhone",
+    "家計簿アプリ"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "56c03df3e78131c5",
+   "url": "https://note.com/music_cat777/n/nb2f6b8639a05",
+   "title_original": "父が残していたもの",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/326636211/rectangle_large_type_2_44ddca4732485d0ebc6da404c2396dfd.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-21T03:35:20+00:00",
+   "title_ja": "父から受け継いだ不要品を整理した体験",
+   "summary_ja": "戦後世代の父から遺された不要品を受け取り、再利用できるものと処分すべきものに分け、実際に手放す作業とその感想を紹介しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "f675706eb848f870",
+   "url": "https://www.lifehacker.jp/article/2610-i-gave-old-tablet-permanent-job",
+   "title_original": "アップデートから見放された8年前のiPad。役割を変えたら「手放せない相棒」に化けた",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/10/20/034385b5-1e10-4e66-928e-b820d6840659/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-21T03:00:00+00:00",
+   "title_ja": "古いiPad Proをスマートホームのダッシュボードに再活用",
+   "summary_ja": "アップデート対象外となったiPad Proを、スマートホームの操作画面として活用する手順と活用例を解説しています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "iPad Pro"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "7550bbb3ba4b7230",
+   "url": "https://thesimplicityhabit.com/smart-tools-that-help-make-your-daily-routines-easier",
+   "title_original": "5 Smart Tools That Help Make Your Daily Routines Easier",
+   "source": "The Simplicity Habit",
+   "image": "https://thesimplicityhabit.com/wp-content/uploads/2026/10/horizontal-blog-post-2026-10-20T140246.638-1024x683.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-21T01:50:28+00:00",
+   "title_ja": "日常を楽にする5つのスマートツール",
+   "summary_ja": "Evelyn Long氏のゲスト投稿で、家庭内のルーティンを自動化し作業負担を軽減する5つのスマートツールが紹介されています。忙しい日々をシンプルにしたい人向けの内容です。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "5080cb5a893fa3e5",
+   "url": "https://www.malaymail.com/news/life/2026/10/21/she-outlived-a-dictatorship-and-turned-117-now-albanias-oldest-woman-has-one-simple-philosophy/239957",
+   "title_original": "She outlived a dictatorship and turned 117. Now Albania’s oldest woman has one simple philosophy",
+   "source": "Malay Mail",
+   "image": "https://www.malaymail.com/malaymail/uploads/images/2026/10/21/369561.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-21T01:45:54+00:00",
+   "title_ja": "117歳アルバニア最年長女性が語るシンプル哲学",
+   "summary_ja": "独裁政権を生き抜いたアルバニア最年長の117歳女性は、長寿の秘訣として「シンプルに生きる」ことを挙げ、余計なものを持たない生活を実践してきたと語っています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "d5495312a72fa7d8",
+   "url": "https://news.livedoor.com/article/detail/32617204",
+   "title_original": "手持ち服を見直して無駄買い防止！秋冬13着ワードローブ管理術と「3秒でコンパクトになるマフラー」紹介",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-21T00:50:03+00:00",
+   "title_ja": "秋冬13着のワードローブ管理術とマフラーの紹介",
+   "summary_ja": "手持ちの服を見直して無駄な買い物を防ぐための、秋冬13着でのワードローブ管理術やコンパクトになるマフラーの紹介。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "マフラー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "1cd302416ca707a9",
+   "url": "https://minimalist-fudeko.com/reduce-social-meetups",
+   "title_original": "友達の誘いの断り方。毎回は負担なとき、角を立てずに回数を減らすには（読者のお便り）",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/09/dinner.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-21T00:10:32+00:00",
+   "title_ja": "友人からの食事会の誘いを角を立てずに断る方法",
+   "summary_ja": "月1回の友人との食事会への負担を感じている読者のお便りをもとに、関係を悪化させずに誘いの回数を減らすコツを考えた記事。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "221b0b3abba86e06",
+   "url": "https://www.roomie.jp/2026/10/1911265",
+   "title_original": "和平フレイズ「330g超軽量フライパン」で、自炊が楽しくなった。洗うのも持ち上げるのも楽チンなんだ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/IMG_0339-2-scaled.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-20T23:00:44+00:00",
+   "title_ja": "約330gの超軽量フライパンで調理や片付けがラクになった話",
+   "summary_ja": "ほぼ毎日使う調理器具として、和平フレイズの超軽量フライパン「カルイーノ」を導入した。約330gという驚きの軽さにより、料理をお皿に移す作業や使い終わったあとの洗浄がとても楽になり、自炊の負担が減った。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "フライパン"
+   ],
+   "importance": 3
+  },
   {
    "id": "2c06583680537bb8",
    "url": "https://note.com/soukeigoudou/n/n14953d72293f",
@@ -330,6 +506,25 @@
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
+   "importance": 3
+  },
+  {
+   "id": "4eed8863ddc10fef",
+   "url": "https://news.livedoor.com/article/detail/32616512",
+   "title_original": "ライフさんの「好き」に囲まれた暮らし。むやみに物を増や差ない。お気に入りの手ぬぐい＆風呂敷を活用した実用アイデア",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-20T22:20:00+00:00",
+   "title_ja": "むやみに物を増やさない暮らしとお気に入りの布の活用法",
+   "summary_ja": "むやみに物を増やさない暮らしを送りながら、お気に入りの手ぬぐいや風呂敷を日々の生活で実用的に活用している人のアイデア。好きな物に囲まれつつもすっきりと暮らす工夫が見えてくる内容となっている。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [
+    "手ぬぐい",
+    "風呂敷"
+   ],
    "importance": 3
   },
   {
@@ -683,6 +878,22 @@
    "title_ja": "物がどうしても増えてしまう心理について",
    "summary_ja": "片づけが進まない理由や、なぜ部屋に物が増えていってしまうのか、その心理的な背景について解説している。動画の概要欄からは具体的な手法の抜粋がないため、見出しから推測されるテーマに沿ってまとめた。",
    "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "9d6d652a18d7e085",
+   "url": "https://youtu.be/fRhgeJVKas8",
+   "title_original": "【主婦vlog】リビングの模様替えと断捨離｜34歳小学生ママの1日",
+   "source": "YouTube",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-20T11:00:10+00:00",
+   "title_ja": "リビングの模様替えと断捨離を行った主婦の1日",
+   "summary_ja": "34歳の小学生の母親である主婦が、リビングの模様替えと断捨離を通じて部屋を整える様子を紹介している。日々の暮らしの中での片付けの実践例がわかる。",
+   "category": "暮らしの実例",
    "axis": "reduce",
    "things": [],
    "importance": 3
@@ -1984,47 +2195,6 @@
    "importance": 3
   },
   {
-   "id": "4510efc7dc6b68a3",
-   "url": "https://note.com/cozy_life_takuto/n/n4c015ba9904a",
-   "title_original": "ダウンが戻らない人へ。圧縮袋は3段階で分ける",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/326072599/rectangle_large_type_2_53a532145f5ce33ff6474a10f01c3272.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-19T06:08:03+00:00",
-   "title_ja": "冬服圧縮袋を3段階に分けてダウンのへたり防止",
-   "summary_ja": "著者はダウンは無圧縮〜軽圧縮、ウールは中圧縮、綿は深圧縮と3段階に分けて収納。これで次シーズンのダウンがつぶれにくくなると実体験を語る。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "圧縮袋",
-    "ダウンジャケット",
-    "ウールセーター",
-    "綿コート"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c023d715efc1c56e",
-   "url": "https://note.com/smart_life_yuma/n/na7757ef3df9b",
-   "title_original": "14インチPCバッグ、1年使って壊れたのはスリーブの方",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/326070664/rectangle_large_type_2_f94bce4424847677ca6aef0274bfaaae.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-19T06:00:50+00:00",
-   "title_ja": "14インチPCバッグはスリーブよりインナーケース併用が長持ち",
-   "summary_ja": "1年通勤でスリーブだけのPCバッグは約700回の開閉で破損。一方、バッグとインナーケースの併用はファスナー回数が少なく現役を保ち、薄さだけで選ぶと買い替えになると著者が指摘。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "14インチノートPCバッグ",
-    "スリーブ",
-    "インナーケース"
-   ],
-   "importance": 3
-  },
-  {
    "id": "170c87b7ad320bf0",
    "url": "https://trilltrill.jp/articles/5113291",
    "title_original": "森田ひかる、大々的な断捨離を決行!?「3つのBOXを作って、心を鬼にする！」片づけのコツを語る♡",
@@ -2041,26 +2211,6 @@
     "BOX"
    ],
    "importance": 2
-  },
-  {
-   "id": "f084a1e1bc74ebb2",
-   "url": "https://note.com/best_lifestyle/n/nad6dfc4d3f80",
-   "title_original": "冷蔵庫ホワイトボード、クリップ30秒で正解が出る",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/326030196/rectangle_large_type_2_30f4edc1db33752bdb0690f72f540621.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-19T03:45:03+00:00",
-   "title_ja": "冷蔵庫ホワイトボードの失敗を防ぐ扉判定法と正しい選び方",
-   "summary_ja": "冷蔵庫の扉素材によっては磁石が効かず、強力マグネットの買い足しで失敗した体験談。手元のマグネット1個で30秒で扉の素材を判定し、落ちないホワイトボードを選ぶための手順とタイプ別の最適解を解説している。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "冷蔵庫",
-    "ホワイトボード",
-    "マグネット"
-   ],
-   "importance": 3
   },
   {
    "id": "00ff368172115c92",
