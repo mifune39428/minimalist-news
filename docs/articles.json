@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T12:51:36.799068+09:00",
+ "updated_at": "2026-10-22T20:25:09.516343+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,33 +27,38 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-22T12:52:32.443568+09:00",
+  "generated_at": "2026-10-22T20:26:28.188613+09:00",
   "days": 3,
   "period": "10月21日〜10月22日",
   "count": 45,
-  "reduce_count": 28,
-  "own_count": 17,
-  "overview": "秋の季節に合わせた衣替えや不用品の処分、限られた空間をすっきりと整える収納の工夫について多く語られています。",
-  "reduce": "収納用品を増やす前に手持ちの物を見直す重要性や、季節の変わり目に衣類や本を手放す具体的な体験談が紹介されています。",
-  "own": "超小型のミニPCやモバイルバッテリーなど、デスク周りや外出時の荷物を軽くして快適に暮らすための道具が紹介されています。",
+  "reduce_count": 27,
+  "own_count": 18,
+  "overview": "秋の季節の変化に合わせた衣替えや断捨離の工夫と、身の回りをすっきりと整えるための具体的なアイデアが多数語られています。",
+  "reduce": "収納用品を増やす前に持ち物を見直す重要性や、季節の変わり目における衣類や本などの具体的な手放し方が紹介されています。",
+  "own": "スマホ周辺機器や超小型ミニPCなど外出時やデスク周りの充電・作業環境をすっきりさせるガジェットが取り上げられています。",
   "points": [
    {
-    "title": "衣替えと無駄な買い物の見直し",
-    "body": "40代女性の衣替えや秋服を買う前のポイント紹介など、散財を防ぎ無駄な買い物をしないための考え方が語られています。"
+    "title": "衣替えと無駄買いの防止",
+    "body": "秋服を購入する前にクローゼットの中身を見直し、散財を防ぐための考え方や、整理収納アドバイザーによる衣替えのコツが紹介されています。"
    },
    {
-    "title": "収納用品を増やす前の見直し",
-    "body": "整理収納のプロが、収納ケースやボックスを安易に買う前にまずは手持ちの物を見直すことの大切さを提案しています。"
+    "title": "収納用品を買う前の見直し",
+    "body": "整理収納のプロが、収納ボックスを安易に増やす前に手持ちの物を確認し整理することの大切さを提案しています。"
    },
    {
-    "title": "ガジェットを活用した荷物の軽量化",
-    "body": "超小型ミニPCやケーブル内蔵モバイルバッテリーなどを導入し、デスク周りや外出時の荷物をスッキリさせる工夫が紹介されています。"
+    "title": "ガジェットによる環境改善",
+    "body": "モバイルバッテリーや超小型ミニPC、電子メモなどを活用し、外出時やデスク周りの持ち物を減らしてシンプルに整える工夫が語られています。"
+   },
+   {
+    "title": "習慣的な片付けと手放し",
+    "body": "30日間の片付けチャレンジを通じて無理なく断捨離を習慣化する方法や、本や衣類を手放した具体的な体験談が綴られています。"
    }
   ],
   "keywords": [
-   "手放す",
+   "断捨離",
+   "衣替え",
    "収納",
-   "服"
+   "ミニマリスト"
   ]
  },
  "things": [
@@ -62,11 +67,19 @@
    "count": 10
   },
   {
+   "name": "スマホ",
+   "count": 6
+  },
+  {
+   "name": "本",
+   "count": 6
+  },
+  {
    "name": "ベッド",
    "count": 5
   },
   {
-   "name": "本",
+   "name": "モバイルバッテリー",
    "count": 5
   },
   {
@@ -78,10 +91,6 @@
    "count": 4
   },
   {
-   "name": "スマホ",
-   "count": 4
-  },
-  {
    "name": "バックパック",
    "count": 4
   },
@@ -90,11 +99,15 @@
    "count": 4
   },
   {
-   "name": "モバイルバッテリー",
-   "count": 4
+   "name": "イヤホン",
+   "count": 3
   },
   {
    "name": "シャワー",
+   "count": 3
+  },
+  {
+   "name": "財布",
    "count": 3
   },
   {
@@ -102,15 +115,23 @@
    "count": 3
   },
   {
-   "name": "イヤホン",
-   "count": 2
-  },
-  {
    "name": "キッチン",
    "count": 2
   },
   {
    "name": "サングラス",
+   "count": 2
+  },
+  {
+   "name": "シャツ",
+   "count": 2
+  },
+  {
+   "name": "スマートフォン",
+   "count": 2
+  },
+  {
+   "name": "ソファ",
    "count": 2
   },
   {
@@ -135,6 +156,10 @@
   },
   {
    "name": "ラベル",
+   "count": 2
+  },
+  {
+   "name": "収納ケース",
    "count": 2
   },
   {
@@ -171,10 +196,6 @@
   },
   {
    "name": "老眼鏡",
-   "count": 2
-  },
-  {
-   "name": "財布",
    "count": 2
   },
   {
@@ -239,6 +260,7 @@
   "WFMZ.com",
   "WNYT.com",
   "Who What Wear",
+  "Yahoo",
   "Yahoo Lifestyle Singapore",
   "Yahoo!ニュース",
   "YouTube",
@@ -266,6 +288,7 @@
   "モデルプレス",
   "ライフハッカー・ジャパン",
   "ライブドアニュース",
+  "千葉テレビ放送",
   "千葉テレビ放送株式会社",
   "双葉社 THE CHANGE",
   "婦人公論.jp",
@@ -275,8 +298,249 @@
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 331,
+ "count": 344,
  "items": [
+  {
+   "id": "2182fc92d8fa9c85",
+   "url": "https://www.roomie.jp/2026/10/1912106",
+   "title_original": "旅用充電セットはコレだけでいいや。Philipsの全部入りバッテリー",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/RM-2-1.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-22T11:15:46+00:00",
+   "title_ja": "外出時の充電環境をすっきりさせるフィリップスのバッテリー",
+   "summary_ja": "スマホやイヤホンなど増えがちな充電器をまとめるため、PhilipsのUSBモバイルバッテリーを紹介しています。持ち歩く機器を減らして外出先での充電周りをシンプルに整えるためのアイテムです。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "モバイルバッテリー",
+    "スマホ",
+    "イヤホン",
+    "スマートウォッチ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4439d7d8bcedcf80",
+   "url": "https://www.yahoo.com/lifestyle/articles/30-day-minimalism-challenge-turns-110019243.html",
+   "title_original": "This 30-Day Minimalism Challenge Turns Decluttering Into A Manageable Daily Habit",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/01605ed54b7273c44c5071ef633a5dbe4e2d081f6a83b3c69806ba2c9c52d49b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhuffpost_life_308%2F76cac91c37fcdb2620e1ed01c3774d6b.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-22T11:00:19+00:00",
+   "title_ja": "30日間のミニマリズム挑戦で片付けを習慣にする方法",
+   "summary_ja": "30日間の片付けチャレンジを通じて、日々の習慣として無理なく断捨離を進める方法を紹介しています。少しずつ物を手放すことで、片付けを生活に定着させるためのアイデアです。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "4923c57e2cdc3570",
+   "url": "https://www.aslobcomesclean.com/2026/10/533-how-to-build-decluttering-confidence",
+   "title_original": "533: How to Build Decluttering Confidence",
+   "source": "A Slob Comes Clean",
+   "image": "https://www.aslobcomesclean.com/wp-content/uploads/2026/08/New-Podcast-Art-2026-sm-size-1024x1024.png",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-22T11:00:16+00:00",
+   "title_ja": "片付けの自信を育てるための考え方と実践方法",
+   "summary_ja": "物を手放すことが怖かったり自信がない人に向けて、片付けの自信をつける方法を解説しています。ある一つの行動を通じて、その物を残すか手放すかを自分で判断できるようになるためのヒントです。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "f2ddd03f0d828966",
+   "url": "https://www.roomie.jp/2026/10/1907635",
+   "title_original": "無印良品の「もちもちクッション」で背もたれと腰の隙間を埋める。巻き肩＆猫背の私を救った使い方",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/20261022_yamazakimai_muji-top.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-22T11:00:14+00:00",
+   "title_ja": "無印良品のクッションで姿勢を改善。ソファの隙間を埋めて使った体験談",
+   "summary_ja": "リビングの広いソファに座るときに姿勢が悪くなってしまうのを防ぐため、無印良品のクッションを背もたれと腰の隙間に挟んで使った体験談。巻き肩や猫背の悩みを解消し、快適に過ごす工夫が紹介されています。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "無印良品のクッション",
+    "ソファ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "512da1f95159c0fa",
+   "url": "https://www.youtube.com/shorts/8UfP62B03dI",
+   "title_original": "【断捨離】お財布の断捨離で金運アップ #断捨離 #金運 #shorts",
+   "source": "やましたひでこ断捨離",
+   "image": "https://i1.ytimg.com/vi/8UfP62B03dI/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-10-22T11:00:10+00:00",
+   "title_ja": "財布の断捨離で身の回りを整理。中身を減らして整えた話",
+   "summary_ja": "財布の中身や状態を見直し、不要なものを手放してすっきりと整理する断捨離の取り組み。お金の通り道である財布を整えることで、気分や運気を高める考え方が紹介されています。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [
+    "財布"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "ebaddf176ccd138a",
+   "url": "https://tinyhousetalk.com/canopee-stilt-tiny-cabin-eastern-townships-quebec",
+   "title_original": "Canopée: A Stilt Tiny Cabin Up in the Trees of Québec’s Eastern Townships",
+   "source": "Tiny House Talk",
+   "image": "",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-22T11:00:00+00:00",
+   "title_ja": "カナダの森に立つ高床式タイニーキャビンでのシンプル空間",
+   "summary_ja": "カナダ・ケベック州の森に位置する高床式の小さなキャビン「Canopée」の紹介。車が入れない小道の先にあり、薪暖炉やソーラー照明を備えた4人まで宿泊可能なシンプルな建築空間です。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "薪暖炉",
+    "ソーラー照明",
+    "タイニーキャビン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "1f384f18e6c4dcb4",
+   "url": "https://note.com/lively_marten340/n/n999b0e5e6f57",
+   "title_original": "スマホの\"なんとなく\"を、図書館の1冊に置きかえてみた",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/327243076/rectangle_large_type_2_7c1c534f75b476aff3e179757f30f875.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-22T10:56:41+00:00",
+   "title_ja": "スマホのゲームやSNSを手放し図書館の本を読む習慣に変えた話",
+   "summary_ja": "スマホのゲームアプリを消去し、SNSも目につかない場所へ隠した後に感じた違和感と向き合った体験談。なんとなく画面を眺める時間を、図書館で借りてきた1冊の本を読む時間に置き換える試みです。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "スマホ",
+    "本"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "2df78351420b0cb5",
+   "url": "https://note.com/just_orchid8686/n/n0e010ee4cbd2",
+   "title_original": "テレビがないと、NHKとの関係はどうなる？ 持たない暮らしで見えてくる",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/327234394/rectangle_large_type_2_d447e58e802cbead6085bfe446eb14ac.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-22T10:19:56+00:00",
+   "title_ja": "テレビを手放すとNHKとの契約関係はどうなるのか",
+   "summary_ja": "自宅にテレビがない人はNHK受信契約の対象外となります。スマホやパソコンを持っているだけでは契約対象になりませんが、特定の配信サービスを自分で見始めた場合は契約が必要になります。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "テレビ",
+    "スマートフォン",
+    "パソコン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "880626a283fdcf3a",
+   "url": "https://www.roomie.jp/2026/10/1902739",
+   "title_original": "ダイソー「手のひらサイズの電子メモ」。絶妙な不便さもあるけど、買ってよかった",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/ogmax_20261010-17-1.gif?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-22T10:00:02+00:00",
+   "title_ja": "ダイソーの手のひらサイズ電子メモを試した話",
+   "summary_ja": "インドア派の執筆者がデスクでのちょっとした計算やTodoメモとしてダイソーの電子メモを導入した感想。絶妙な不便さがありつつも買ってよかったと実感しているアイテムです。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "電子メモ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "94a453bb1a059fc0",
+   "url": "https://www.roomie.jp/2026/10/1912858",
+   "title_original": "乾燥機を回すほどじゃない、明日の1枚に。アイロンもサボれる小さな乾燥機",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/launbotTOP16-9end.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-22T09:45:30+00:00",
+   "title_ja": "少量の洗濯物をすぐ乾かす小さな乾燥機",
+   "summary_ja": "夜に明日の服が乾いていない時に、1枚だけを手軽に乾燥させられる小さな乾燥機。大がかりな乾燥機を回すほどではない衣類をすぐに乾かしたい場面で活躍する便利なアイテムです。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "乾燥機",
+    "シャツ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c3d50fdb0e9d303a",
+   "url": "https://limo.media/articles/-/142899",
+   "title_original": "おしゃれに手ぶらで外出しよう！3COINSの「ストラップつきポーチ」が便利。革っぽい素材だから大人女性にも",
+   "source": "LIMO | くらしとお金の経済メディア",
+   "image": "https://limo.ismcdn.jp/mwimgs/6/8/1200w/img_68d751c90d3ee4db1706037077915279220346.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-22T09:30:00+00:00",
+   "title_ja": "手ぶらで外出できる3COINSのストラップ付きポーチ",
+   "summary_ja": "革のような質感で大人の女性にも合わせやすい、3COINSのストラップ付きポーチ。おしゃれな見た目で身軽に外出したい時に役立つ、便利なミニマルアイテムです。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "ポーチ",
+    "ストラップ"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "5da8969f6c6d7e5d",
+   "url": "https://www.chiba-tv.com/plus/detail/2026102145691",
+   "title_original": "IKEA、セリア、ニトリetc.｜衣替えをラクにする！整理収納アドバイザーもおすすめの収納アイデア4選",
+   "source": "千葉テレビ放送",
+   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1485928453348017160/origin_1.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-22T09:09:14+00:00",
+   "title_ja": "整理収納アドバイザーが教える衣替えの収納術4選",
+   "summary_ja": "IKEAやセリア、ニトリなどのアイテムを活用して、衣替えを楽にする整理収納のアイデアを提案しています。すっきりと効率的に衣類を片付けたい時に参考になる方法です。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "収納ケース"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "6f13d3b9ea83323d",
+   "url": "https://monomax.jp/archives/365709",
+   "title_original": "この高級感で3万円台は反則！G-SHOCK新顔「2500」はラグスポ時計!? “これは売れる”と確信した理由をNo.1モノ雑誌編集長が徹底レビュー『コレ買いです』Vol.184",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2026/10/21478.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-22T09:00:56+00:00",
+   "title_ja": "3万円台の上質なG-SHOCK新作腕時計",
+   "summary_ja": "ラグジュアリースポーツウォッチのような高級感を持ちながら、3万円台で購入できるG-SHOCKの新しい腕時計。デザイン性とコストパフォーマンスに優れた愛用品候補です。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "腕時計"
+   ],
+   "importance": 3
+  },
   {
    "id": "f3600380cc3356d1",
    "url": "https://thesimplicityhabit.com/things-minimalists-clear-out-each-fall",
