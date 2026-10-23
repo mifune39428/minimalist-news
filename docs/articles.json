@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T06:21:05.105494+09:00",
+ "updated_at": "2026-10-23T12:56:00.321670+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,41 +27,45 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-23T06:22:29.399146+09:00",
+  "generated_at": "2026-10-23T12:56:43.074676+09:00",
   "days": 3,
   "period": "10月22日〜10月23日",
   "count": 45,
   "reduce_count": 29,
   "own_count": 16,
-  "overview": "10月22日から23日に集まった45件の記事では、季節の変わり目に向けた物の手放し方や衣替えの収納術、デジタル機器やガジェットを活用したデスク周りの整理術などが多方面から語られています。",
-  "reduce": "季節の変わり目や年末に向けて、使っていない日用品や特別なアイテムを見直し、無理なく手放して空間を整える方法や心構えが多く語られています。",
-  "own": "リュックや財布などの小物をバッグインバッグや透明バインダーですっきり見える化して整える収納術や、薄型の充電器など持ち歩きをシンプルにする工夫が紹介されています。",
+  "overview": "物を減らして思考や暮らしを整える実践談や、日々の生活を快適にする便利な持ち物の工夫が45件語られています。",
+  "reduce": "物を捨てる前の判断基準や、床のものを拾うことから始める掃除の工夫、デジタルデトックスの試みが語られています。",
+  "own": "デスク周りや外出先での充電環境をすっきりさせるガジェットや、無印良品のアイテムを活用した暮らしの工夫が紹介されています。",
   "points": [
    {
-    "title": "季節や行事前の手放し方",
-    "body": "クリスマスや秋の季節の変わり目に合わせ、1時間で片付けるべきアイテムや手放すべき日用品を整理アドバイザーやミニマリストが提案しています。"
+    "title": "手放す前の見直しと工夫",
+    "body": "ゴミ袋に入れる前に一度立ち止まるルールや、メルカリを活用した不用品の出品、高価だった物やまだ使える物を手放すための具体的な考え方が紹介されています。"
    },
    {
-    "title": "デジタルと日常の習慣見直し",
-    "body": "スマホのブルーライトを抑えるナイトグラスの試用談や、SNSやゲームを手放して本を読む習慣に変えた体験談など、デジタルデトックスの話題が語られています。"
+    "title": "デジタルと時間の整理",
+    "body": "スマホの通知やゲームを手放して本を読む習慣に変えたり、ナイトグラスを使って寝前の光を和らげたりするデジタルデトックスの試みが語られています。"
    },
    {
-    "title": "住み替えや限られた空間の工夫",
-    "body": "60代男性が3LDKから1Kへ住み替えた教訓や、壁面収納やミニPCの導入により限られた住空間やデスク周りをすっきりさせる実例が紹介されています。"
+    "title": "収納とスペースの活用",
+    "body": "バッグインバッグやブックエンドの組み合わせ、冷却ラックを壁面収納として使うなど、限られた空間をすっきりと整えるアイデアが提案されています。"
+   },
+   {
+    "title": "快適な日常を支える道具",
+    "body": "チタン製の焼き網や段階的に明るくなる目覚まし時計、超小型ミニPCなど、暮らしのストレスを軽減する便利なアイテムのレビューが集まっています。"
    }
   ],
   "keywords": [
    "断捨離",
-   "収納",
    "ミニマリスト",
-   "スマホ",
-   "片付け"
+   "収納",
+   "メルカリ",
+   "無印良品"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 10
+   "count": 9
   },
   {
    "name": "スマホ",
@@ -92,10 +96,6 @@
    "count": 4
   },
   {
-   "name": "バッグ",
-   "count": 4
-  },
-  {
    "name": "イヤホン",
    "count": 3
   },
@@ -104,11 +104,11 @@
    "count": 3
   },
   {
-   "name": "メガネ",
+   "name": "バッグ",
    "count": 3
   },
   {
-   "name": "財布",
+   "name": "メガネ",
    "count": 3
   },
   {
@@ -200,7 +200,7 @@
    "count": 2
   },
   {
-   "name": "鍵",
+   "name": "財布",
    "count": 2
   },
   {
@@ -302,8 +302,90 @@
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 362,
+ "count": 364,
  "items": [
+  {
+   "id": "888684d846b30567",
+   "url": "https://note.com/souji_daisuki/n/n7d315d725024",
+   "title_original": "流されるままに捨ててしまった後悔。片付け好きの私が、捨てる前に必ずやること。",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/327474734/rectangle_large_type_2_dac496df63defe9fd32306832ea014b0.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-23T03:46:42+00:00",
+   "title_ja": "流されるままの廃棄を後悔し手放す前に一度立ち止まるルール",
+   "summary_ja": "整理整頓が好きな筆者が、流されるまま物を捨てて後悔した経験から始めたルールを紹介。ゴミ袋に入れる直前に立ち止まり、本当に捨てていいか考え、感謝を伝えて手放すことで納得のいく片付けを実践している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "1f2d8f4c3cdd199c",
+   "url": "https://note.com/akito_restart/n/nec8fa7b7540c",
+   "title_original": "ものを減らすと、頭が軽くなる。ぼくが「選ぶ回数」を減らしている理由",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/327470533/rectangle_large_type_2_29dc4d0c1bdac9f57b2dd2039f0063ee.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-23T03:30:49+00:00",
+   "title_ja": "選択の回数を減らして思考を軽やかにするミニマリズムの工夫",
+   "summary_ja": "持ち物や日常の選択肢を減らすことで、決断による脳の疲れを軽減する考え方について解説。自分の選ぶ回数を減らして思考をスッキリさせ、生活を整えるミニマリズムの利点や実践の理由を語っている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "17a002330fc0dace",
+   "url": "https://note.com/gyoza_x/n/n8012d97f29d0",
+   "title_original": "方丈記+",
+   "source": "note #ミニマリスト",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/e9396acec5c6fe82b09e581316b25406165508a0.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-23T03:14:36+00:00",
+   "title_ja": "鴨長明『方丈記』の現代語訳から学ぶ執着を手放す生き方",
+   "summary_ja": "簡素な暮らしの原点である鴨長明の『方丈記』を現代語訳した記事。絶え間なく流れる川の水や消えゆく泡の描写を通じて、物の無常さや執着を手放す考え方、シンプルな暮らしの思想に触れている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "fc8a24c5e1580f26",
+   "url": "https://minimalist-fudeko.com/clear-the-floor-first",
+   "title_original": "部屋の掃除ができないなら、掃除機を出さずに床のものを拾う日を作る",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/09/spacious-room.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-23T00:10:15+00:00",
+   "title_ja": "掃除が進まない時は床のものを拾うことから始める話",
+   "summary_ja": "掃除機をかける前に気合を入れるのではなく、まずは床に置いてあるものを拾うことから始める片付けの工夫を紹介しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "36e3949ad1362e38",
+   "url": "https://www.roomie.jp/2026/10/1912446",
+   "title_original": "使い捨てじゃない“チタン製の焼き網”のおかげでBBQのストレスが激減！イワタニの「炙りや」との相性もバッチリです",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/20261021_TITANMANIA5.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-22T22:00:25+00:00",
+   "title_ja": "手入れが楽なチタン製の焼き網",
+   "summary_ja": "錆びにくく掃除もしやすいフルチタン製の焼き網。イワタニの調理器具とも相性が良くBBQのストレスを軽減する。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "チタン製の焼き網"
+   ],
+   "importance": 3
+  },
   {
    "id": "a385bab839692a82",
    "url": "https://www.lifehacker.jp/article/machi-ya-soma-review2-982531",
@@ -529,7 +611,7 @@
    "url": "https://www.apartmenttherapy.com/cooling-rack-entryway-wall-storage-37692893",
    "title_original": "I Put a Cooling Rack on My Wall, and It Transformed My Entryway Storage",
    "source": "Apartment Therapy",
-   "image": "",
+   "image": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/at%2Farchive%2Fa87ea9c22bc7e9c57812aa765fffcde61c2756b2",
    "media": "news",
    "region": "海外",
    "published": "2026-10-22T13:08:11+00:00",
@@ -3185,22 +3267,6 @@
    "importance": 4
   },
   {
-   "id": "53fa5ac177fa084d",
-   "url": "https://note.com/shino_kurashi/n/n9a2b2b0d5a7c",
-   "title_original": "「年末の大掃除がゆううつ」を終わらせる｜10月から始める「1日1か所だけ手放す」3つのルール",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/325792282/rectangle_large_type_2_81374b5db781f5db2f7310a4d6ffd3be.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-19T12:25:08+00:00",
-   "title_ja": "年末大掃除回避の10月から始める1日1か所手放し法",
-   "summary_ja": "毎年の年末大掃除にうんざりする人向けに、10月から毎日1箇所だけ手放すルールを提案。3つのルールで計画的に片付け、途中で挫折しないコツを具体的に紹介している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
    "id": "dbbc5b253b1aa748",
    "url": "https://www.theminimalists.com/p560",
    "title_original": "Podcast Ep. 560 | The Responsibility",
@@ -3396,24 +3462,6 @@
    "importance": 4
   },
   {
-   "id": "3ebd37db337a3756",
-   "url": "https://note.com/clever_fairy1895/n/ne924696c1fad",
-   "title_original": "着回しをあきらめたら、服選びが楽になった",
-   "source": "note #少ない服で暮らす",
-   "image": "https://assets.st-note.com/production/uploads/images/325870653/rectangle_large_type_2_4c7f3657d2f3a6a8607cb975ff468dfc.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-19T08:54:20+00:00",
-   "title_ja": "300着から服選びを見直した人の話",
-   "summary_ja": "以前は300着以上の服を持ちながら着る服に悩んでいたが、着回しをあきらめたことで服選びが楽になった。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "服"
-   ],
-   "importance": 4
-  },
-  {
    "id": "720f4fa0394a0e11",
    "url": "https://www.youtube.com/shorts/nphQAKSIXmE",
    "title_original": "【ミニマリスト主婦】洗濯物干しと食器洗い",
@@ -3427,26 +3475,6 @@
    "category": "暮らしの実例",
    "axis": "reduce",
    "things": [],
-   "importance": 3
-  },
-  {
-   "id": "f542e345d3c21726",
-   "url": "https://note.com/risu_kakeinote/n/n40496da4dee1",
-   "title_original": "#07【整える】僕が財布を持たなくなった理由。減らしたかったのは荷物だけじゃない",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/326062920/rectangle_large_type_2_fb10ecac72dee1d672e10b9bbb12e8c7.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-19T07:40:29+00:00",
-   "title_ja": "財布を持たなくなった理由と手放した経験",
-   "summary_ja": "出かける前の確認や荷物を減らすために財布を持つことをやめたという体験談。物だけでなく日常の手間や思考をどのように手放したのかを知ることができる。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "財布",
-    "バッグ",
-    "鍵"
-   ],
    "importance": 3
   },
   {
