@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T12:56:00.321670+09:00",
+ "updated_at": "2026-10-23T20:15:22.585884+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,39 +27,35 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-23T12:56:43.074676+09:00",
+  "generated_at": "2026-10-23T20:16:25.292436+09:00",
   "days": 3,
   "period": "10月22日〜10月23日",
   "count": 45,
-  "reduce_count": 29,
-  "own_count": 16,
-  "overview": "物を減らして思考や暮らしを整える実践談や、日々の生活を快適にする便利な持ち物の工夫が45件語られています。",
-  "reduce": "物を捨てる前の判断基準や、床のものを拾うことから始める掃除の工夫、デジタルデトックスの試みが語られています。",
-  "own": "デスク周りや外出先での充電環境をすっきりさせるガジェットや、無印良品のアイテムを活用した暮らしの工夫が紹介されています。",
+  "reduce_count": 30,
+  "own_count": 15,
+  "overview": "メルカリを使った不用品売却や住まいのサイズダウンなど具体的なモノの減らし方から、デジタルデトックスや思考を整える心・習慣に関する話題まで45件の記事が寄せられています。",
+  "reduce": "フリマアプリの活用や床の上の片付け、住み替えによる空間の縮小など、具体的な手放し方や無理なく続けるための工夫が語られています。",
+  "own": "無印良品のデスクやコンパクトなトレーラーハウス、ガジェットや文具の収納など、限られた空間を快適にする工夫や愛用品が紹介されています。",
   "points": [
    {
-    "title": "手放す前の見直しと工夫",
-    "body": "ゴミ袋に入れる前に一度立ち止まるルールや、メルカリを活用した不用品の出品、高価だった物やまだ使える物を手放すための具体的な考え方が紹介されています。"
+    "title": "メルカリの活用",
+    "body": "ミニマリスト歴12年の投稿者や3年ぶりに利用した筆者が、フリマアプリを使って書籍や不用品を大量に手放した具体的な体験談や、子どもがいる家庭での効率的な物の減らし方を語っています。"
    },
    {
-    "title": "デジタルと時間の整理",
-    "body": "スマホの通知やゲームを手放して本を読む習慣に変えたり、ナイトグラスを使って寝前の光を和らげたりするデジタルデトックスの試みが語られています。"
+    "title": "住み替えと空間の縮小",
+    "body": "シカゴの不動産業者による住まい縮小のロードマップのほか、60代男性が3LDKから1Kへ住み替えて家具を手放した教訓など、住まいのサイズダウンに関する実践的な記録が複数見られます。"
    },
    {
-    "title": "収納とスペースの活用",
-    "body": "バッグインバッグやブックエンドの組み合わせ、冷却ラックを壁面収納として使うなど、限られた空間をすっきりと整えるアイデアが提案されています。"
-   },
-   {
-    "title": "快適な日常を支える道具",
-    "body": "チタン製の焼き網や段階的に明るくなる目覚まし時計、超小型ミニPCなど、暮らしのストレスを軽減する便利なアイテムのレビューが集まっています。"
+    "title": "デジタルデトックス",
+    "body": "スマホのゲームやSNSを手放し図書館の本を読む習慣に変えた体験談や、デジタル機器の使用を見直して日々の暮らしを取り戻すためのシンプルな方法が提案されています。"
    }
   ],
   "keywords": [
    "断捨離",
-   "ミニマリスト",
-   "収納",
    "メルカリ",
-   "無印良品"
+   "手放す",
+   "無印良品",
+   "収納"
   ]
  },
  "things": [
@@ -69,6 +65,10 @@
   },
   {
    "name": "スマホ",
+   "count": 8
+  },
+  {
+   "name": "ベッド",
    "count": 7
   },
   {
@@ -76,16 +76,12 @@
    "count": 7
   },
   {
-   "name": "ベッド",
+   "name": "モバイルバッテリー",
    "count": 6
   },
   {
-   "name": "モバイルバッテリー",
-   "count": 5
-  },
-  {
    "name": "iPhone",
-   "count": 4
+   "count": 5
   },
   {
    "name": "ケーブル",
@@ -112,8 +108,20 @@
    "count": 3
   },
   {
+   "name": "収納ケース",
+   "count": 3
+  },
+  {
+   "name": "財布",
+   "count": 3
+  },
+  {
    "name": "雑貨",
    "count": 3
+  },
+  {
+   "name": "カード",
+   "count": 2
   },
   {
    "name": "キッチン",
@@ -160,10 +168,6 @@
    "count": 2
   },
   {
-   "name": "収納ケース",
-   "count": 2
-  },
-  {
    "name": "収納ボックス",
    "count": 2
   },
@@ -188,6 +192,10 @@
    "count": 2
   },
   {
+   "name": "洗濯カゴ",
+   "count": 2
+  },
+  {
    "name": "洗濯機",
    "count": 2
   },
@@ -197,10 +205,6 @@
   },
   {
    "name": "老眼鏡",
-   "count": 2
-  },
-  {
-   "name": "財布",
    "count": 2
   },
   {
@@ -224,6 +228,7 @@
   "Chronicle-Tribune",
   "Cycling Weekly",
   "ENCOUNT",
+  "FinancialContent",
   "Franklin County Now",
   "Good Housekeeping",
   "GoodsPress Web",
@@ -302,8 +307,244 @@
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 364,
+ "count": 379,
  "items": [
+  {
+   "id": "7df838fbcdc090a3",
+   "url": "https://note.com/soukeigoudou/n/n8f605f31b020",
+   "title_original": "社会人の押し入れにあるBOSSのDS-1は、日本製なら高く売れるのか。銀ネジ18,000円、台湾製3,700円",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/327604471/rectangle_large_type_2_0a7cd410e418ce55ee6bc103031ba7e9.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-23T11:08:52+00:00",
+   "title_ja": "押し入れに眠るBOSSのディストーションを売却した話",
+   "summary_ja": "学生時代に使っていたBOSSのディストーションを押し入れから見つけ出し、査定に出した体験談。日本製と台湾製で買取価格に差が出ることが語られている。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [
+    "BOSSのDS-1"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "8bc593feb7763cab",
+   "url": "https://www.youtube.com/watch?v=XO8zZJzt7Kc",
+   "title_original": "【50代の断捨離】53歳・青木さやかさん「もう恋愛はやめた」！？その一言にやましたひでこが贈った一言とは…？",
+   "source": "やましたひでこ断捨離",
+   "image": "https://i1.ytimg.com/vi/XO8zZJzt7Kc/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-10-23T11:00:28+00:00",
+   "title_ja": "青木さやかさんの生き方と断捨離を語る動画",
+   "summary_ja": "青木さやかさんがゲスト出演し、恋愛や自身の生き方、これまでのライフスタイルの変化についてやましたひでこと共に語り合う対談動画。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "284918fa6b9dd3a4",
+   "url": "https://www.youtube.com/watch?v=cwRtEUXbhX4",
+   "title_original": "【ミニマリスト】メルカリで不用品を96万円分売りました/フリマアプリでものを手放すコツ",
+   "source": "ミニマリスト Nozomi",
+   "image": "https://i4.ytimg.com/vi/cwRtEUXbhX4/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-10-23T11:00:19+00:00",
+   "title_ja": "メルカリを活用して不要品を96万円分売ったコツ",
+   "summary_ja": "ミニマリスト歴12年の投稿者が、フリマアプリを使って大量の不用品を手放した具体的な体験談。子どもがいる家庭での効率的な物の減らし方を紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "f9fa953a9e333776",
+   "url": "https://www.roomie.jp/2026/10/1908727",
+   "title_original": "不器用な私でも、かんたんに手帳デコ。失敗したら消せる「デコラッシュ」で文字多めの手帳が変わった",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/shiro_261020_decorush_top.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-23T11:00:16+00:00",
+   "title_ja": "文具を使って手帳をデコレーションする愛用品",
+   "summary_ja": "手帳のデコレーションに消せるテープを活用している執筆者のコラム。暮らしを楽しくするお気に入りの文房具を取り入れた日常について綴られている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "デコラッシュ",
+    "手帳"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "5c6b501a2088cca7",
+   "url": "https://www.youtube.com/watch?v=Kb92bY7Ajw4",
+   "title_original": "【これでいい】暮らしをシンプルにラクにする、6つのこと。【ミニマリスト】",
+   "source": "ミニマリストsin",
+   "image": "https://i4.ytimg.com/vi/Kb92bY7Ajw4/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-10-23T11:00:09+00:00",
+   "title_ja": "暮らしをシンプルにラクにする6つの工夫",
+   "summary_ja": "片付けやクローゼットの整理など、日々の暮らしをシンプルにしてラクにするための6つのアプローチを紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "eedd662f166b09e2",
+   "url": "https://tinyhousetalk.com/safari-condo-alto-r1713-retractable-roof-trailer",
+   "title_original": "Safari Condo Alto R1713: A Lightweight Trailer with a Roof That Rises at Camp",
+   "source": "Tiny House Talk",
+   "image": "",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-23T11:00:00+00:00",
+   "title_ja": "電動ルーフを備えた軽量トレーラーの装備",
+   "summary_ja": "キャンプ時に電動で屋根が上がる軽量なトラベルトレーラーを紹介。パノラマガラスや大型ベッド、リチウム電源を備える。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "トラベルトレーラー",
+    "ベッド",
+    "リチウム電源"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "15b54bcc65b7c59d",
+   "url": "https://note.com/eminimal2026/n/n418bba786e98",
+   "title_original": "服はたたまない、炊飯器は持たない。完全ワンオペの私がやめた家事4選",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/327551153/rectangle_large_type_2_20b8df8fb3c17fb07e11e4a2b96fd8fc.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-23T11:00:00+00:00",
+   "title_ja": "ワンオペ育児の中でやめた4つの家事",
+   "summary_ja": "完全ワンオペで家事を回す中で、服をたたむことや炊飯器を持つことをやめ、負担を減らした生活の工夫を紹介している。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [
+    "炊飯器"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "1b161cdd5f716d03",
+   "url": "https://www.youtube.com/watch?v=jy2pK4ZXwrs",
+   "title_original": "【捨て活】ときめく物は残して、あとは手放す｜文房具・寝具・カーテン｜30代一人暮らし",
+   "source": "うにのゆるシンプルな暮らし",
+   "image": "https://i3.ytimg.com/vi/jy2pK4ZXwrs/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-10-23T10:00:23+00:00",
+   "title_ja": "30代一人暮らしの捨て活：文房具や寝具を手放した記録",
+   "summary_ja": "ときめく物を残しつつ使っていない文房具や白いブラウス、洗濯カゴなどを手放した。寝具の色を白に変えてノイズを減らし、無理のないペースで物を減らす暮らしを実践している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "文房具",
+    "寝具",
+    "カーテン",
+    "洗濯カゴ"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "11e1d6f4f9cbab98",
+   "url": "https://www.lifehacker.jp/article/2604-lht-mujirushiryohin-desk",
+   "title_original": "【予算3万円】無印良品でつくる在宅ワーク環境！コンパクト＆見た目もGOODなデスクとチェア",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/04/27/6e1db0d0-991b-4d21-b947-603f51ca6fca/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-23T10:00:00+00:00",
+   "title_ja": "無印良品のコンパクトなデスクとチェアで作る在宅ワーク環境",
+   "summary_ja": "限られたスペースの部屋にピッタリな、無印良品のすっきりとしたデザインのコンパクトなデスクとデスクチェアを使用した在宅ワーク環境を紹介している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "デスク",
+    "デスクチェア"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "0269c2e68aac1d4a",
+   "url": "https://www.roomie.jp/2026/10/1909563",
+   "title_original": "ガジェット好きが「これ1台」で出かけられるように。iPhoneもApple Watchも充電できて、USB-Cケーブルまで備えたモバイルバッテリー",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/20261017-matech-01.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-23T09:50:31+00:00",
+   "title_ja": "ケーブル1本で暮らしたいライターの持ち物選び",
+   "summary_ja": "ガジェットを白で統一し、小さく軽いアイテムを追求するライターの持ち物事情。iPhoneやApple Watchが充電できるモバイルバッテリーなどを試している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "モバイルバッテリー",
+    "iPhone",
+    "Apple Watch",
+    "USB-Cケーブル"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5ac1b57531076855",
+   "url": "https://www.youtube.com/watch?v=_WxuCFIwV1M",
+   "title_original": "小さく暮らしたい私が家を買う理由",
+   "source": "小さな暮らしノート",
+   "image": "https://i4.ytimg.com/vi/_WxuCFIwV1M/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-10-23T08:30:23+00:00",
+   "title_ja": "小さく暮らしたいシングルマザーが家を買う理由",
+   "summary_ja": "掃除しやすく心に余白のある暮らしを目指し、現在の1LDKから息子とちょうどよく暮らせる家を探すミニマリストの記録。物を見直し、もっと小さな家への引っ越しを検討している。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "201f7b60dc7698b3",
+   "url": "https://www.roomie.jp/2026/10/1912347",
+   "title_original": "財布は小さいほどいい？ 編集部3人の愛用財布を比べてわかったこと",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/8c084d01db9ed952d51b5111265018d4.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-23T08:30:18+00:00",
+   "title_ja": "編集部3人の愛用財布を持ち寄って使い勝手を比べてみた",
+   "summary_ja": "キャッシュレス化が進む中、編集部員3人が実際に愛用している財布を持ち寄り、それぞれの使い勝手や持ち歩く中身を比較しています。現金やカードの持ち歩き方がどのように変わったのか、リアルな財布事情がわかります。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "財布",
+    "カード",
+    "スマホ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "0f89f7f9ca2ef64c",
+   "url": "https://www.realsimple.com/amazon-professional-organizer-recommended-decluttering-hacks-for-fall-october-2026-12187724",
+   "title_original": "16 Genius Storage Solutions Straight From the Pros to Refresh Your Home for Fall",
+   "source": "Real Simple",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-23T04:00:00+00:00",
+   "title_ja": "プロが教える秋の部屋を整える収納アイデア",
+   "summary_ja": "秋に向けて住まいをすっきりと整えるための収納術を紹介。家の中を片付けて快適な空間を作るためのアイデアが学べる内容。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "888684d846b30567",
    "url": "https://note.com/souji_daisuki/n/n7d315d725024",
@@ -351,6 +592,22 @@
    "axis": "reduce",
    "things": [],
    "importance": 2
+  },
+  {
+   "id": "30c6ccc05af2d94b",
+   "url": "https://www.financialcontent.com/article/marketersmedia-2026-10-23-real-estate-broker-in-northbrook-chicago-and-suburbs-winfield-cohen-publishes-a-rightsizing-roadmap",
+   "title_original": "Real Estate Broker in Northbrook, Chicago and Suburbs Winfield Cohen Publishes a Rightsizing Roadmap",
+   "source": "FinancialContent",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-23T03:10:00+00:00",
+   "title_ja": "シカゴの不動産業者が公開した住まい縮小のロードマップ",
+   "summary_ja": "住まいのサイズダウンや暮らしの整理を検討している人に向けて、不動産のプロが公開した実践的なロードマップに関する記事。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
   },
   {
    "id": "fc8a24c5e1580f26",
@@ -2285,6 +2542,24 @@
    "things": [
     "メリージェーン",
     "雑貨"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4a22527ca5d764f3",
+   "url": "https://news.livedoor.com/article/image_detail/32614235/?img_id=57095464",
+   "title_original": "【画像】家がキレイな人が愛用する「収納ケース」7種類。無印良品、ニトリ…全部見せます！ 1/7",
+   "source": "ライブドアニュース",
+   "image": "https://image.news.livedoor.com/newsimage/stf/9/b/9b60d_1580_2d47b084f44b13cfa5bdd09bf4f70d84.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-20T11:00:00+00:00",
+   "title_ja": "家がキレイな人が愛用する収納ケース7選",
+   "summary_ja": "整理整頓された家で実際に使われている無印良品やニトリなどの収納ケースを紹介している。どのような収納道具が愛用されているのかが分かる内容。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "収納ケース"
    ],
    "importance": 3
   },
