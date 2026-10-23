@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T01:43:49.144522+09:00",
+ "updated_at": "2026-10-24T06:11:02.233629+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,34 +27,38 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-24T01:45:01.754065+09:00",
+  "generated_at": "2026-10-24T06:11:43.047275+09:00",
   "days": 3,
-  "period": "10月22日〜10月24日",
+  "period": "10月23日〜10月24日",
   "count": 45,
-  "reduce_count": 30,
-  "own_count": 15,
-  "overview": "10月22日から24日にかけて、持ち物の見直しやメルカリを活用した手放し方のコツ、ガジェットや無印良品のアイテムを活用した時短・効率化の工夫などが多方面から語られています。",
-  "reduce": "フリマアプリでの出品体験や、床のものを拾うことから始める片付け術、手放す際の後悔を防ぐためのルールなど、具体的な物の減らし方に関する話題が多数見られます。",
-  "own": "無印良品のデスクやモバイルバッテリー、機能的なガジェット、財布の比較など、日々の暮らしを快適にするためのコンパクトで厳選された持ち物の紹介が目立ちます。",
+  "reduce_count": 27,
+  "own_count": 18,
+  "overview": "メルカリを活用した不用品の手放し方やクローゼットの整理といった物の減らし方に関する話題と、無印良品のアイテムやガジェットなどの持ち物に関する工夫が広く語られています。",
+  "reduce": "メルカリでの不用品売却やデジタルデータの整理、年齢に応じた服や家事の見直しなど、日々の暮らしや思考をシンプルにする具体的な工夫が語られています。",
+  "own": "無印良品のモバイルバッテリーやふき取りマスク、ガジェット類やキャンパーなど、日々の暮らしや移動を快適にする便利なアイテムの紹介が目立ちます。",
   "points": [
    {
-    "title": "メルカリでの手放し方",
-    "body": "ミニマリスト歴12年の投稿者による96万円分の不用品売却のコツや、3年ぶりの書籍出品など、フリマアプリを活用した具体的な手放し方の体験談が語られています。"
+    "title": "メルカリの活用術",
+    "body": "noteやミニマリスト系クリエイターが、3年越しに売れた不要品の手放し報告や、フリマアプリを使って大量の不用品を売却した具体的なコツを紹介しています。"
    },
    {
-    "title": "無印良品の便利アイテム",
-    "body": "ふき取りマスクによる1分の朝洗顔や、食器用汚れふきシートでお弁当洗いの手間を減らす工夫、モバイルバッテリーやコンパクトなデスク環境の活用法が紹介されています。"
+    "title": "無印良品の活用",
+    "body": "ROOMIEやライフハッカー・ジャパンなどで、ふき取りマスクの時短効果、汚れふきシートによるお弁当洗いの軽減、モバイルバッテリーやデスク環境などが紹介されています。"
    },
    {
-    "title": "デジタルや思考の整理",
-    "body": "デジタルデータの本格的な断捨離の必要性や、日常の選択の回数を減らして脳の疲れを軽減するミニマリズムの工夫について言及されています。"
+    "title": "デジタルデータの整理",
+    "body": "デジタル社会における本格的なデータの断捨離の必要性や、アプリやメールなどの不要な情報を削除してシンプルなオンライン環境を作る手順が語られています。"
+   },
+   {
+    "title": "キャンピングトレーラー",
+    "body": "Tiny House Talkの記事において、断熱シェルでトラックをキャンパーに変える方法や手作りのティアドロップ型トレーラーなど、車中泊や移動式の暮らしが複数取り上げられています。"
    }
   ],
   "keywords": [
-   "減らし方",
-   "断捨離",
-   "無印良品",
    "メルカリ",
+   "無印良品",
+   "断捨離",
+   "キャンパー",
    "ガジェット"
   ]
  },
@@ -69,7 +73,7 @@
   },
   {
    "name": "ベッド",
-   "count": 7
+   "count": 8
   },
   {
    "name": "モバイルバッテリー",
@@ -77,7 +81,7 @@
   },
   {
    "name": "本",
-   "count": 7
+   "count": 6
   },
   {
    "name": "iPhone",
@@ -93,6 +97,10 @@
   },
   {
    "name": "イヤホン",
+   "count": 3
+  },
+  {
+   "name": "キッチン",
    "count": 3
   },
   {
@@ -116,15 +124,11 @@
    "count": 3
   },
   {
-   "name": "雑貨",
-   "count": 3
-  },
-  {
    "name": "カード",
    "count": 2
   },
   {
-   "name": "キッチン",
+   "name": "クラウドストレージ",
    "count": 2
   },
   {
@@ -208,6 +212,10 @@
    "count": 2
   },
   {
+   "name": "雑貨",
+   "count": 2
+  },
+  {
    "name": "食器",
    "count": 2
   }
@@ -223,6 +231,7 @@
   "Balance Through Simplicity",
   "Be More with Less",
   "Better Homes & Gardens",
+  "Bona Magazine",
   "CN Traveller",
   "Cat Country 107.3 and 94.9",
   "Chronicle-Tribune",
@@ -310,8 +319,58 @@
   "筆子ジャーナル",
   "ｄメニューニュース"
  ],
- "count": 396,
+ "count": 400,
  "items": [
+  {
+   "id": "9610bc8a61e8f660",
+   "url": "https://note.com/yuruka_kurashi/n/n91e2612929f6",
+   "title_original": "3年越しに売れたもの。1500円でも、手放せてよかった。",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/327612128/rectangle_large_type_2_735e78d6378f881ca0b5ade8dedfe439.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-23T21:05:27+00:00",
+   "title_ja": "3年越しにメルカリで売れた不要品を手放した話",
+   "summary_ja": "メルカリに出品していたものが3年越しに売れ、ずっと家にあったものをようやく手放すことができたという報告。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "8ecc5697c9206a43",
+   "url": "https://note.com/pan_ai_sensei/n/n18617f05e6b5",
+   "title_original": "「安いから買う」の罠。ミニマリストの痛すぎる戒め",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/327631842/rectangle_large_type_2_86037449dc6d5806d2ce3a35437576ae.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-23T20:59:40+00:00",
+   "title_ja": "安いからと服を買わない。ミニマリストの4つの教え",
+   "summary_ja": "バーゲンで安いからと違うテイストの服を買ったり色違い買いをしたりせず、自分が本当に着る服だけを残すという服選びの教え。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "84c466a16ca148ed",
+   "url": "https://bemorewithless.com/weekend-favorites-october-24-2026/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
+   "title_original": "how to get cozy without clutter + photo decluttering",
+   "source": "Be More with Less",
+   "image": "https://bemorewithless.com/wp-content/uploads/2026/10/HOW-TO-GET-COZY-image.png",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-23T19:59:54+00:00",
+   "title_ja": "物を増やさずに心地よい部屋を作る週末の習慣",
+   "summary_ja": "物を増やさずに家の中を心地よく整える方法や、写真のデジタル断捨離などの週末に向けた穏やかな暮らしのアイデア。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "7e8537f2686f51c4",
    "url": "https://note.com/manyroom/n/n62b6a7560420",
@@ -526,6 +585,26 @@
    "importance": 3
   },
   {
+   "id": "a84ce8dba334f26f",
+   "url": "https://tinyhousetalk.com/timberleaf-classic-colorado-teardrop-full-galley",
+   "title_original": "Timberleaf Classic: A Handcrafted Colorado Teardrop With a Big Skylight and Full Galley",
+   "source": "Tiny House Talk",
+   "image": "",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-23T11:30:00+00:00",
+   "title_ja": "大きな天窓付きの手作りティアドロップ型キャンピングトレーラー",
+   "summary_ja": "コロラド州で作られた手作りの小型トレーラー。大きな天窓の下のクイーンベッドや、断熱仕様のキャビン、後部の充実したキッチンを備えています。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "トレーラー",
+    "ベッド",
+    "キッチン"
+   ],
+   "importance": 3
+  },
+  {
    "id": "60e4c82bd3a583f0",
    "url": "https://news.yahoo.co.jp/articles/4e36d42671416026a1ebb1f4c56ea8facc971e78",
    "title_original": "衣替えシーズン到来。「着る服がない」を解消する、スタイリストのクローゼット・デトックス術3（ELLE）",
@@ -541,6 +620,26 @@
    "things": [
     "服",
     "クローゼット"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4e18b5fef258e4e1",
+   "url": "https://tinyhousetalk.com/go-fast-campers-v2-pro-platform-wedge-truck-camper",
+   "title_original": "Go Fast Campers V2 Pro: A Low-Profile Wedge Camper That Turns a Pickup Bed Into a Bedroom",
+   "source": "Tiny House Talk",
+   "image": "",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-23T11:15:00+00:00",
+   "title_ja": "荷台を寝室にするピックアップトラック用カスタムキャンパー",
+   "summary_ja": "ピックアップトラックの荷台に取り付けるロープロファイルなキャンパー。数秒でポップアップするテントを備え、大人が快適に眠れる空間を作ります。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "テント",
+    "キャンパー",
+    "トラック"
    ],
    "importance": 3
   },
@@ -827,6 +926,67 @@
     "財布",
     "カード",
     "スマホ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "982e6afdd8881ac8",
+   "url": "https://www.youtube.com/watch?v=j5wreRx8TKk",
+   "title_original": "【ミニマリスト】抜き打ちで家の中の不用品探してみた",
+   "source": "ぴーこ｜ゆるっとミニマルな日常",
+   "image": "https://i3.ytimg.com/vi/j5wreRx8TKk/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-10-23T08:00:21+00:00",
+   "title_ja": "家の中を抜き打ちで不用品チェックしたミニマリストの様子",
+   "summary_ja": "動画ではキッチン・洗面所・玄関を対象に、手放せるものがあるか抜き打ちで確認。ミニマリストらしい「ゆるく」片付けを実践し、不要品の見つけ方や手放す基準を紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "キッチン用品",
+    "洗面所用品",
+    "玄関用品"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "bded29063a09e32e",
+   "url": "https://www.bona.co.za/lifestyle/how-to-declutter-your-digital-life-and-reset",
+   "title_original": "How to declutter your digital life and reset",
+   "source": "Bona Magazine",
+   "image": "https://www.bona.co.za/wp-content/uploads/2026/09/iStock-2256587991-1024x683.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-23T08:00:10+00:00",
+   "title_ja": "デジタル生活を整理しリセットする方法",
+   "summary_ja": "デジタルデータやアプリ、メールなどを見直し、不要な情報を削除してシンプルなオンライン環境を作る手順や考え方を紹介。定期的なリセットで生産性向上を目指す。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "アプリ",
+    "メール",
+    "クラウドストレージ"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "181465b2bfc47a46",
+   "url": "https://note.com/yohakurashi/n/n0e9c56b02c8f",
+   "title_original": "持たない暮らしなのに歯ブラシをストックする",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/327543845/rectangle_large_type_2_7e63cd8737a4c09cca706fa8746eb957.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-23T07:50:56+00:00",
+   "title_ja": "ミニマリストでも歯ブラシは15本ストックした理由",
+   "summary_ja": "ミニマリストの筆者が、価格上昇や在庫切れに備えて歯ブラシを15本まとめ買いした経緯と、ヨドバシでの購入体験、ストックの基準を語る。必要最低限と判断したものの、ストックは生活の手間を減らすと主張する。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "歯ブラシ",
+    "ヨドバシカメラ",
+    "Amazon",
+    "ペット用ウエットティッシュ"
    ],
    "importance": 3
   },
@@ -3805,42 +3965,6 @@
     "Xiaomi Band 9 Active"
    ],
    "importance": 3
-  },
-  {
-   "id": "b8169122fd5e8644",
-   "url": "https://note.com/fukugyo_ai_note/n/n97fd9ac6a946",
-   "title_original": "フリマ 出品 最初｜売れやすいものから出す順番",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/326201120/rectangle_large_type_2_81b47ba66e39ff65850c1bd07d5097a1.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-19T12:29:24+00:00",
-   "title_ja": "フリマ出品は売れやすいものから順に出すコツ",
-   "summary_ja": "休みの午前中にクローゼットから未使用の服や雑貨、読み終わった本を取り出し、フリマアプリで最初の出品に挑戦。写真撮影や説明文作成、価格設定、梱包発送と手順が重く感じても、売れやすいアイテムから始めると続けやすい。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "服",
-    "雑貨",
-    "本"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "42904c88048032d4",
-   "url": "https://note.com/alive_drake9577/n/n7f6adaec5a87",
-   "title_original": "モノを減らすということは、目的ではない",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/326200450/rectangle_large_type_2_2824bdd3dac35d35d020774d7fbe4eb2.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-19T12:27:21+00:00",
-   "title_ja": "モノを減らすは目的ではなく必要なものを見つけること",
-   "summary_ja": "ミニマリストは「ものを減らす」こと自体を目標にしない。自分に本当に必要なものを見極め、重要なもののために余計なものを手放すプロセスが大切だと著者は語る。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
   },
   {
    "id": "dbbc5b253b1aa748",
@@ -7237,40 +7361,6 @@
    "axis": "own",
    "things": [
     "スウェット"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "bd41926a4e639b95",
-   "url": "https://www.aol.com/articles/simple-3-item-decluttering-rule-140000000.html",
-   "title_original": "This Simple 3-Item Decluttering Rule Is Perfect if You Never Know Where to Start",
-   "source": "AOL.com",
-   "image": "https://hermes.media.static.aol.com/media/2026/10/13/28463862-e589-3a10-a2e6-76a340da091c/1502981e-58d3-42a2-b12a-083860ec2d39.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-13T14:00:00+00:00",
-   "title_ja": "片づけに迷ったときに使える3つのアイテムで始めるルール",
-   "summary_ja": "何から手をつけていいか分からないとき、特定の3つのアイテムに着目して片づけを進めるシンプルなルールを紹介している記事です。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "635304f0c6caac57",
-   "url": "https://www.lifehacker.jp/article/2610-amazon-xgimiprojector-vjh",
-   "title_original": "部屋のどこでも映画館。自動調整＆天井投影ができるXGIMIのプロジェクター",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2025/06/26/bff8eb6c-a7b8-41b3-9f33-98f7e4a60105/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-13T13:45:00+00:00",
-   "title_ja": "天井投影もできるXGIMIのプロジェクターで叶える自宅映画館",
-   "summary_ja": "自動調整や天井投影機能を備え、場所を選ばず大画面で映像を楽しめるXGIMIのプロジェクターを活用した暮らしを紹介しています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "プロジェクター"
    ],
    "importance": 3
   }
