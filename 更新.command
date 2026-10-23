@@ -9,4 +9,7 @@ else
   git add docs/articles.json
   git commit -m "記事の手動更新 $(date '+%Y-%m-%d %H:%M')" && git push && echo "公開サイトに反映しました。"
 fi
+echo
+echo "=== YouTube動画の要約（字幕から） ==="
+/opt/homebrew/bin/python3 ../news_yt_summary/run.py --site ミニマリスト || echo "動画の要約に失敗しました（記事の更新は済んでいます）"
 read -r -p "Enterで閉じる"

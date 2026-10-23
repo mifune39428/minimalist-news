@@ -310,6 +310,13 @@
     -webkit-backdrop-filter: blur(4px); backdrop-filter: blur(4px); pointer-events: none;
   }
   .lead .play { top: 38%; width: 56px; height: 56px; font-size: 20px; }
+  /* 字幕から要約できた動画。押すと動画ではなく要約ページが開くので、再生マークは出さない。 */
+  .play.sum {
+    left: auto; top: auto; right: 6px; bottom: 6px; transform: none;
+    width: auto; height: auto; border-radius: 999px; padding: 3px 8px;
+    font-size: 10.5px; font-weight: 700; letter-spacing: .04em;
+  }
+  .lead .play.sum { top: 14px; right: 14px; bottom: auto; width: auto; height: auto; font-size: 12px; padding: 4px 10px; }
 
   /* 持ち物の名前（押すとその言葉で絞り込む） */
   .things { display: flex; flex-wrap: wrap; gap: 5px; margin: 2px 0 7px; }
@@ -608,6 +615,10 @@ function readingUrl(item) {
 // お気に入り一覧（ui.js）も同じ決め方を使うので、window.NEWS_LINK に置いておく。
 function linkTarget(item) {
   const translated = readingUrl(item);
+  // 字幕から要約できた動画は、動画ではなく要約ページ（v.html）を開く。
+  if (item.media === "youtube" && item.has_video_summary) {
+    return { href: `v.html?id=${encodeURIComponent(item.id)}`, blank: false, label: "📝 要約を読む →" };
+  }
   const cta = translated ? "日本語で読む →"
     : item.media === "youtube" ? "動画を見る →"
     : item.media === "x" ? "Xで見る →" : "元の記事を読む →";
@@ -626,7 +637,8 @@ function partsFor(item) {
     mark: AXIS_MARK[axis],
     target: linkTarget(item),
     summary: item.summary_ja,
-    overlay: item.media === "youtube" ? '<span class="play">▶</span>' : "",
+    overlay: item.media !== "youtube" ? ""
+      : item.has_video_summary ? '<span class="play sum">📝 要約</span>' : '<span class="play">▶</span>',
     kicker: `<div class="kicker">
         <span class="axis ${axis}">${AXIS_MARK[axis]} ${AXIS_LABELS[axis]}</span>
         <span class="sub">${escapeHtml(item.category)}</span>
@@ -805,6 +817,23 @@ function restoreScroll(view) {
   window.scrollTo(0, view.y);
 }
 
+// 動画の要約は Mac の news_yt_summary が別のファイルに置く（Actions の articles.json とぶつけないため）。
+// 無くても一覧は出す。
+async function withVideoSummaries(items) {
+  try {
+    const res = await fetch(`yt_summaries.json?t=${Date.now()}`, { cache: "no-store" });
+    if (!res.ok) return items;
+    const done = (await res.json()).done || {};
+    for (const item of items) {
+      const v = done[item.id];
+      if (item.media !== "youtube" || !v) continue;
+      item.has_video_summary = true;
+      item.summary_ja = v.summary;
+    }
+  } catch (err) { /* 要約が読めなくても一覧は出す */ }
+  return items;
+}
+
 async function load() {
   try {
     const res = await fetch(`articles.json?t=${Date.now()}`, { cache: "no-store" });
@@ -829,7 +858,7 @@ async function load() {
     } else {
       view = { y: window.scrollY, shown };
     }
-    all = window.NEWS_ITEMS = data.items || [];
+    all = window.NEWS_ITEMS = await withVideoSummaries(data.items || []);
     meta = {
       categories: data.categories || [],
       media_kinds: data.media_kinds || [],

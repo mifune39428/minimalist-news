@@ -48,6 +48,13 @@ Becoming Minimalist・Zen Habits・ミニマリストしぶのブログはRSSが
 - LLMが `relevant: false` と判定した記事は捨てる。実測で新着の3割前後が落ちる。
 - LLMが全滅したバッチは**保存せずに捨てる**。RSSには数日分残るので次の実行で拾い直される。
 
+## YouTubeは「要約」で読む（`docs/v.html`）
+
+YouTubeのカードを押すと、動画ではなく字幕から作った要約ページが開く。要約を作るのは
+Mac の `../news_yt_summary/`（字幕は Mac の yt-dlp でないと取れないため、Actions ではなくこちら）。
+`docs/videos/<記事ID>.json` と `docs/yt_summaries.json` はそちらが push するので、collect.py は触らない。
+字幕が無い・音楽だけの動画は、これまでどおり YouTube へ飛ぶ。詳しくは `news_yt_summary/README.md`。
+
 ## ここ数日の傾向（トップのまとめ）
 
 一覧の上に「ここ数日の傾向」を出している。直近 `DIGEST_DAYS`（3日）に載った記事の

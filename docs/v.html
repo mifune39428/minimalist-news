@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>動画の要約 | ミニマリスト・ニュース</title>
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#111210" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<script src="ui.js" data-site="minimalist-news"></script>
+<style>
+  /* YouTube動画を再生せずに中身を読むページ。中身は news_yt_summary（Mac）が字幕から作る。
+     色は一覧（index.html）と同じ。 */
+  :root {
+    --bg: #f4f2ee; --card: #fffefb; --text: #1b1a17; --muted: #75716a;
+    --line: rgba(0,0,0,.07); --accent: #3f6b57; --chip: rgba(0,0,0,.045);
+    --soft: rgba(63,107,87,.08); --header: rgba(250,249,246,.88);
+    --shadow: 0 1px 2px rgba(0,0,0,.03), 0 6px 20px rgba(0,0,0,.04);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #111210; --card: #1a1b19; --text: #ecebe6; --muted: #9d9a92;
+      --line: rgba(255,255,255,.07); --accent: #8fc0a9; --chip: rgba(255,255,255,.06);
+      --soft: rgba(143,192,169,.12); --header: rgba(17,18,16,.82);
+      --shadow: 0 0 0 1px rgba(255,255,255,.05);
+    }
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Hiragino Kaku Gothic ProN",
+                 "Noto Sans JP", "Segoe UI", sans-serif;
+    font-feature-settings: "palt"; letter-spacing: .02em;
+    line-height: 1.85; -webkit-font-smoothing: antialiased;
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+  a { color: var(--accent); text-decoration: none; }
+  header {
+    position: sticky; top: 0; z-index: 10; background: var(--header);
+    -webkit-backdrop-filter: saturate(180%) blur(20px); backdrop-filter: saturate(180%) blur(20px);
+    border-bottom: 1px solid var(--line);
+    padding-top: env(safe-area-inset-top);
+  }
+  .bar { max-width: 720px; height: 52px; margin: 0 auto; padding: 0 16px; display: flex; align-items: center; gap: 10px; }
+  .back { font-size: 14px; font-weight: 700; color: var(--text); }
+  .brandmark { margin-left: auto; display: flex; align-items: center; gap: 7px; color: var(--text); }
+  .logo { background: var(--accent); color: #fff; border-radius: 3px; font-size: 9px; font-weight: 800; letter-spacing: .1em; line-height: 1; padding: 5px 5px 5px 6px; }
+  .wordmark { font-size: 16px; font-weight: 800; letter-spacing: .2em; line-height: 1; }
+  main { max-width: 720px; margin: 0 auto; padding: 18px 16px 40px; }
+  .meta { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; font-size: 12px; color: var(--muted); margin-bottom: 10px; }
+  .tag { background: var(--chip); border-radius: 4px; padding: 2px 8px; color: var(--text); }
+  .kind { background: var(--accent); color: #fff; border-radius: 4px; padding: 2px 8px; font-weight: 700; }
+  h1 { font-size: 24px; font-weight: 800; line-height: 1.5; margin: 0 0 6px; }
+  .orig-title { font-size: 12.5px; color: var(--muted); margin: 0 0 16px; line-height: 1.6; }
+  .cover { width: 100%; aspect-ratio: 16 / 9; max-height: 340px; object-fit: cover; border-radius: 16px; background: var(--chip); display: block; margin-bottom: 20px; box-shadow: var(--shadow); }
+  .lede { font-size: 16.5px; font-weight: 600; line-height: 1.9; margin: 0 0 20px; }
+  .box {
+    position: relative; overflow: hidden; background: var(--card); border-radius: 16px; box-shadow: var(--shadow);
+    padding: 16px 18px 16px 22px; margin: 0 0 16px;
+  }
+  .box::before { content: ""; position: absolute; inset: 0 auto 0 0; width: 4px; background: var(--accent); }
+  .box h2 { font-size: 12px; color: var(--accent); margin: 0 0 8px; letter-spacing: .08em; font-weight: 800; }
+  .box ul { margin: 0; padding-left: 20px; }
+  .box li { font-size: 15px; margin-bottom: 7px; }
+  .box li:last-child { margin-bottom: 0; }
+  .box p { margin: 0; font-size: 14.5px; }
+  .worth { background: var(--soft); box-shadow: none; }
+  .actions { margin: 24px 0 20px; }
+  .btn {
+    display: block; text-align: center; padding: 13px; border-radius: 999px;
+    font-size: 14.5px; font-weight: 700; border: 1px solid var(--line);
+    background: var(--card); color: var(--accent);
+  }
+  .note { font-size: 11.5px; color: var(--muted); border-top: 1px solid var(--line); padding-top: 16px; }
+  .note p { margin: 0 0 7px; }
+  .loading { text-align: center; color: var(--muted); padding: 60px 0; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="bar">
+    <a class="back" href="./">‹ 一覧へ戻る</a>
+    <a class="brandmark" href="./" aria-label="ミニマリスト・ニュース トップへ"><span class="logo">MINIMAL</span><span class="wordmark">NEWS</span></a>
+  </div>
+</header>
+
+<main id="main"><p class="loading">読み込み中…</p></main>
+
+<script>
+const id = (new URLSearchParams(location.search).get("id") || "").replace(/[^0-9a-f]/g, "");
+
+const fmt = new Intl.DateTimeFormat("ja-JP", {
+  year: "numeric", month: "numeric", day: "numeric", timeZone: "Asia/Tokyo",
+});
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
+
+function duration(sec) {
+  sec = Number(sec) || 0;
+  if (!sec) return "";
+  const h = Math.floor(sec / 3600), m = Math.floor(sec % 3600 / 60), s = sec % 60;
+  return h ? `${h}時間${m}分` : m ? `${m}分${s ? s + "秒" : ""}` : `${s}秒`;
+}
+
+async function load() {
+  const main = document.getElementById("main");
+  if (!id) { location.replace("./"); return; }
+  try {
+    const res = await fetch(`videos/${id}.json`, { cache: "no-store" });
+    if (!res.ok) throw new Error("not found");
+    const v = await res.json();
+    document.title = `${v.title_ja} | ミニマリスト・ニュース`;
+    const len = duration(v.duration);
+    main.innerHTML = `
+      <div class="meta">
+        <span class="kind">📝 動画の要約</span>
+        ${v.category ? `<span class="tag">${escapeHtml(v.category)}</span>` : ""}
+        <span>▶️ ${escapeHtml(v.source)}</span>
+        ${len ? `<span>・${len}</span>` : ""}
+        ${v.published ? `<span>・${fmt.format(new Date(v.published))}</span>` : ""}
+      </div>
+      <h1>${escapeHtml(v.title_ja)}</h1>
+      ${v.title_original && v.title_original !== v.title_ja ? `<p class="orig-title">${escapeHtml(v.title_original)}</p>` : ""}
+      ${v.image ? `<img class="cover" src="${escapeHtml(v.image)}" alt="" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}
+      <p class="lede">${escapeHtml(v.summary)}</p>
+      <div class="box">
+        <h2>動画の要点</h2>
+        <ul>${(v.points || []).map(p => `<li>${escapeHtml(p)}</li>`).join("")}</ul>
+      </div>
+      ${v.worth ? `<div class="box worth"><h2>動画を見る必要は？</h2><p>${escapeHtml(v.worth)}</p></div>` : ""}
+      <div class="actions">
+        <a class="btn" href="${escapeHtml(v.url)}" target="_blank" rel="noopener noreferrer">YouTubeで動画を見る${len ? `（${len}）` : ""}</a>
+      </div>
+      <div class="note">
+        <p>この要約は、動画の字幕${v.auto_caption ? "（YouTubeの自動生成）" : ""}をもとにAIが日本語で書き起こしたものです。聞き間違い・言い漏らしがあることがあります。正確な内容は元の動画でご確認ください。</p>
+        <p>動画と画像の著作権は${escapeHtml(v.source)}に帰属します。このサイトは個人が運営する非公式のまとめです。</p>
+      </div>`;
+    if (window.uiAttachDetail) {
+      uiAttachDetail({ ...v, media: "youtube", summary_ja: v.summary, has_video_summary: true });
+    }
+  } catch (err) {
+    main.innerHTML = '<p class="loading">要約が見つかりませんでした。<br><a href="./">一覧へ戻る</a></p>';
+  }
+}
+
+load();
+</script>
+</body>
+</html>
