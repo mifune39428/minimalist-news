@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T19:33:39.575541+09:00",
+ "updated_at": "2026-10-25T00:37:30.968086+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,35 +27,35 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-24T19:35:09.730453+09:00",
+  "generated_at": "2026-10-25T00:39:06.148848+09:00",
   "days": 3,
-  "period": "10月23日〜10月24日",
+  "period": "10月23日〜10月25日",
   "count": 45,
   "reduce_count": 28,
   "own_count": 17,
-  "overview": "物や住まい、お金のダウンサイジングに加え、収納やガジェットを活用した具体的な暮らしの工夫が多数語られています。",
-  "reduce": "年齢やライフスタイルの変化に合わせた住まいの縮小や、メルカリを活用した不用品の手放し術などが紹介されています。",
-  "own": "無印良品や山崎実業のアイテムを使った収納の工夫や、必要最小限に厳選されたガジェットやワードローブの例が挙げられています。",
+  "overview": "実家や住まいのダウンサイジングといった大きな手放し方から、無印良品のケースや山崎実業のアイテムを活用した日々の収納術まで、暮らしをシンプルに整える多様な工夫が語られている。",
+  "reduce": "家や家具の処分、デジタルデトックス、服や支出のの見直しなど、モノや習慣を手放して心を軽くする具体的な手順や心構えが多数紹介されている。",
+  "own": "無印良品や山崎実業の便利グッズ、タイニーハウスでの工夫など、限られた空間や外出先で快適に暮らすための愛用品や持ち運びのアイデアが語られている。",
   "points": [
    {
-    "title": "無印良品の活用術",
-    "body": "無印良品の大きなホーロー容器でお米を保存したり、クリアケースで常備薬を整理したりと、日々の暮らしを快適にする実例が紹介されています。"
+    "title": "住まいのダウンサイジング",
+    "body": "実家の荷物を持ち込まずに50平米へ改装する挑戦や、50代で持ち家と膨大な持ち物をすべて手放した終活など、大きな住まいから小さく暮らす実例が語られている。"
    },
    {
-    "title": "山崎実業の収納アイテム",
-    "body": "ハンギング傘立てやマグネット式スライドパネルを利用し、玄関や冷蔵庫横のわずかな隙間を活かして生活感を減らす収納法が語られています。"
+    "title": "無印良品を活用した収納術",
+    "body": "やわらか収納ケースで家中を簡単に片付ける方法や、大きなホーロー容器でお米を保存する工夫など、無印良品のアイテムを使った具体的な整理術が紹介されている。"
    },
    {
-    "title": "手放すことへの体験談",
-    "body": "50代での住まいや持ち物のリセット、メルカリを活用して不要品を売却した体験など、モノに依存しない生き方が共有されています。"
+    "title": "支出とモノの見直し",
+    "body": "収入が増えても生活費が減らない原因と支出の調整や、バーゲンで安いからと服を買わずに本当に着る服だけを残すといった、お金と服の選び方が語られている。"
    }
   ],
   "keywords": [
    "無印良品",
    "山崎実業",
-   "メルカリ",
    "ダウンサイジング",
-   "キャンパー"
+   "断捨離",
+   "タイニーハウス"
   ]
  },
  "things": [
@@ -73,15 +73,15 @@
   },
   {
    "name": "モバイルバッテリー",
-   "count": 7
-  },
-  {
-   "name": "本",
    "count": 6
   },
   {
-   "name": "iPhone",
+   "name": "本",
    "count": 5
+  },
+  {
+   "name": "iPhone",
+   "count": 4
   },
   {
    "name": "ケーブル",
@@ -120,10 +120,6 @@
    "count": 3
   },
   {
-   "name": "カード",
-   "count": 2
-  },
-  {
    "name": "クラウドストレージ",
    "count": 2
   },
@@ -144,6 +140,10 @@
    "count": 2
   },
   {
+   "name": "トレーラー",
+   "count": 2
+  },
+  {
    "name": "ニット",
    "count": 2
   },
@@ -153,10 +153,6 @@
   },
   {
    "name": "ヘッドホン",
-   "count": 2
-  },
-  {
-   "name": "ボールペン",
    "count": 2
   },
   {
@@ -198,10 +194,6 @@
   {
    "name": "雑貨",
    "count": 2
-  },
-  {
-   "name": "食器",
-   "count": 2
   }
  ],
  "sources": [
@@ -233,6 +225,7 @@
   "Jenny Mustard",
   "LIMO | くらしとお金の経済メディア",
   "Malay Mail",
+  "Mindful",
   "MonoMax",
   "New York Post",
   "News.com.au",
@@ -304,6 +297,236 @@
  "count": 400,
  "items": [
   {
+   "id": "8e11e887387aa3a2",
+   "url": "https://note.com/flambon/n/n2080d872bc39",
+   "title_original": "【実家リノベ】持ち出しゼロで叶える親のダウンサイジング。50平米をスイートルームに変える3つの挑戦",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/328092543/rectangle_large_type_2_c9548b0c4d6ed2d5471ccb8de1271493.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-24T15:29:41+00:00",
+   "title_ja": "実家リノベで持ち出しゼロのダウンサイジング挑戦",
+   "summary_ja": "著者は母の老後住まいとして小さな中古マンションを購入し、実家の荷物を一切持ち込まずに50平米をスイートルームへ改装する3つの挑戦を紹介する。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "07f9e5d5602c801a",
+   "url": "https://note.com/project_kafka/n/n3b878234fdda",
+   "title_original": "『問いだけを鞄に入れて』",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/328087896/rectangle_large_type_2_049aa9ff90f8ced44c5ca31cfa4bb98e.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-24T14:48:05+00:00",
+   "title_ja": "問いだけを鞄に入れて　持たない暮らしの提案",
+   "summary_ja": "『問いだけを鞄に入れて』は、物を持たずに質問だけを携える暮らしを提案し、常に問い続ける姿勢で執着を手放す考え方を示す。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "ce38130d51dccceb",
+   "url": "https://www.southernliving.com/uses-for-old-sheets-12160933",
+   "title_original": "10 Clever Uses For Old Sheets You’ll Wish You Tried Sooner",
+   "source": "Southern Living",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-24T14:10:00+00:00",
+   "title_ja": "古いシーツの活用法10選",
+   "summary_ja": "古くなったシーツを再利用する10のアイデアを紹介。掃除用布や収納カバー、ペットの敷物など、身近な用途で無駄を減らす方法が提案されている。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "シーツ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "63be624cdfb1f9f1",
+   "url": "https://www.mindful.org/what-a-screen-free-day-is-really-like-a-digital-detox-minus-the-guilt",
+   "title_original": "What a Screen-Free Day Is Really Like: A Digital Detox, Minus the Guilt",
+   "source": "Mindful",
+   "image": "https://www.mindful.org/content/uploads/Article-header_What-a-Screen-Free-Day-Is-Really-Like.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-24T13:40:00+00:00",
+   "title_ja": "スクリーンフリーデイの体験記　デジタルデトックス",
+   "summary_ja": "著者は1日スクリーンを使わないデジタルデトックスに挑戦し、最初の不安や中盤の変化、最後に得た心の余裕を率直に綴っている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "084e77b16b019188",
+   "url": "https://www.lifehacker.jp/article/2610-lht-mujirushi-mattress",
+   "title_original": "仕事の合間にサクッと出せる。無印良品のマットレスは「ごろ寝休憩」にもちょうどよかった！",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/05/29/8f8e9865-dc15-4fb1-879c-ff11be79b6ae/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-24T13:15:00+00:00",
+   "title_ja": "無印良品の空気でできたマットレスの使い心地",
+   "summary_ja": "無印良品の足踏みポンプ式空気でできたマットレスを使用し、仕事の合間の休憩やごろ寝に活用しているレビュー。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "マットレス"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "683dafb5a8ef1c0b",
+   "url": "https://www.roomie.jp/2026/10/1900524",
+   "title_original": "2,500円で買えちゃうワークマンの「ステップインハイクシューズ」には、玄関に一足置いておきたい理由がたくさん",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/7IV07695.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-24T12:30:36+00:00",
+   "title_ja": "手を使わずに履けるワークマンのハイキングシューズ",
+   "summary_ja": "玄関でサッと脱ぎ履きができるワークマンのステップインハイクシューズ。荷物で手がふさがっているときや急いでいるときに活躍する、玄関に置いておきたい一足。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "ステップインハイクシューズ",
+    "アクティブハイクハーディ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "acae547cb2ff6052",
+   "url": "https://news.infoseek.co.jp/article/itmedia_nlab_4060876",
+   "title_original": "「何故か家中片付きます」 無印良品の“990円やわらか収納ケース”に集まった声 「ポンポン入れるだけで見た目スッキリ」「軽くて傷つかない」｜Infoseekニュース",
+   "source": "Infoseek",
+   "image": "https://media.image.infoseek.co.jp/isnews/photos/itmedia_nlab/itmedia_nlab_4060876_0-enlarge.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-24T12:20:00+00:00",
+   "title_ja": "無印良品のケースを使った手軽な片付け術",
+   "summary_ja": "無印良品のやわらか収納ケースを使うことで、家中が簡単に片付くという話題。物をポンポンと入れるだけで見た目がすっきりと整う、軽くて扱いやすい収納アイテム。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "やわらか収納ケース"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "af6d3b9061683298",
+   "url": "https://tinyhousetalk.com/diy-foam-teardrop-trailer-bathroom-48000-miles",
+   "title_original": "This DIY Foam Teardrop Trailer Fits a Bathroom and Has Logged 48,000 Miles",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/diy-foam-teardrop-trailer-my-way-galley-open.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-24T12:15:29+00:00",
+   "title_ja": "トイレ付き自作トレーラーハウスでの旅の工夫",
+   "summary_ja": "木製フレームを使わずに自作したコンパクトなトレーラーハウス。コンポスタブルトイレや収納ベッド、床の工夫を取り入れ、長距離の移動にも耐える仕様で快適な旅を実現している。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "コンポスタブルトイレ",
+    "トレーラー"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "d28d18951a654558",
+   "url": "https://note.com/naikoutekibotti/n/na9df1f498301",
+   "title_original": "【バディミステリー】#8｜物が多いストレスと、「落ち着く部屋」作り",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/328022335/rectangle_large_type_2_a1948a576a5bd9d529f27bde453fc115.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-24T12:14:30+00:00",
+   "title_ja": "物が多いストレスと落ち着く部屋づくりの記録",
+   "summary_ja": "物があふれることによるストレスに向き合いながら、自分が本当に落ち着ける部屋をつくるための工夫や心境について綴ったエッセイとノベル形式の記事。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "a29d63471bf46b35",
+   "url": "https://www.roomie.jp/2026/10/1912551",
+   "title_original": "スタプロのペン用クリップで、もう「書くものお借りできますか？」を言わなくて済む！",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/P1030281_16_9-scaled.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-24T11:30:33+00:00",
+   "title_ja": "ペン用クリップで書くものを持ち歩く工夫",
+   "summary_ja": "外出先で筆記用具を借りずに済むよう、ペン用クリップを活用してスマートに持ち歩く工夫を紹介している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ペン用クリップ"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "d70c13080610da3b",
+   "url": "https://tinyhousetalk.com/portland-garage-conversion-adu-becca-anthony",
+   "title_original": "They Turned Their Garage Into a 370 Sq Ft Home and Rent Out the Main House",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/the-becca-anthony-portland-adu-exterior.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-24T11:30:00+00:00",
+   "title_ja": "ガレージを改装した約34平米のタイニーハウス",
+   "summary_ja": "自宅のガレージを天井の高い明るい約34平米の住居へと改装し、母屋を貸し出しながらコンパクトに暮らす実例。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "087dbc864d451e20",
+   "url": "https://monomax.jp/archives/365804",
+   "title_original": "【無印良品】20年愛用のマニアが本気で選んだ「お悩み解決グッズ」BEST5！高い棚の引き出しにくさ、風呂場の“シャンプー詰め替え問題”を一発解決する便利グッズとは？",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2026/10/260813-155423_11zon-scaled.jpeg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-24T11:00:56+00:00",
+   "title_ja": "無印良品マニアが選ぶ暮らしの悩み解決グッズ",
+   "summary_ja": "長年無印良品を愛用するマニアが、収納の引き出しや浴室の詰め替え問題など、日々の不便を解消する便利グッズを紹介している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "シャンプー詰め替え",
+    "引き出し"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "cff5654fcdb13015",
+   "url": "https://www.youtube.com/watch?v=gsLb0xMgEY4",
+   "title_original": "vlog | 5:40起床☀️平日はほぼ0円で暮らす、26歳派遣社員ミニマリストの2日間 | フレンチトースト、作り置き、たまのビール",
+   "source": "ミニマリストじゅん",
+   "image": "https://i4.ytimg.com/vi/gsLb0xMgEY4/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-10-24T11:00:37+00:00",
+   "title_ja": "0円生活のミニマリストが選んだお気に入りアイテム紹介",
+   "summary_ja": "26歳派遣社員ミニマリストが、2日間の生活で実際に使っているエペイオスのドリップケトルやE‑Winスタンディングテーブル、SwitchBotハブミニ、SunRuck小型冷蔵庫など、おすすめの便利アイテムを紹介しています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "エペイオス ドリップケトル",
+    "E‑Win スタンディングテーブル",
+    "SwitchBot ハブミニ",
+    "SunRuck 小型冷蔵庫"
+   ],
+   "importance": 4
+  },
+  {
    "id": "63d30ab916c2cd92",
    "url": "https://www.roomie.jp/2026/10/1897609",
    "title_original": "山崎実業の新作「かける傘立て」で玄関がスッキリ！収納としても大活躍の名作だった",
@@ -320,6 +543,22 @@
     "傘立て"
    ],
    "importance": 3
+  },
+  {
+   "id": "da1647bd3c58bbad",
+   "url": "https://www.southernliving.com/things-declutter-before-monday-12189515",
+   "title_original": "7 Decluttering Projects Organizers Recommend Doing Every Sunday",
+   "source": "Southern Living",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-24T10:25:00+00:00",
+   "title_ja": "毎週日曜にやるべき7つの片付けプロジェクト",
+   "summary_ja": "整理のプロが提案する、毎週日曜に実践できる7つのデクラッタリング作業を紹介。不要品の処分や収納見直しなど、生活をシンプルに保つ具体的な手順が分かります。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
   },
   {
    "id": "f04efd17abf1b816",
@@ -358,7 +597,7 @@
    "url": "https://tinyhousetalk.com/selling-the-big-house-to-downsize",
    "title_original": "Selling the Big House to Downsize: The Real Math",
    "source": "Tiny House Talk",
-   "image": "",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/going-tiny-series-part-06.jpg",
    "media": "blog",
    "region": "海外",
    "published": "2026-10-24T09:00:00+00:00",
@@ -881,7 +1120,7 @@
    "url": "https://tinyhousetalk.com/freedom-camper-insulated-shell-truck-trailer",
    "title_original": "Freedom Camper: A 195-Pound Insulated Shell That Turns Your Truck or Utility Trailer Into a Camper",
    "source": "Tiny House Talk",
-   "image": "",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/Freedom-Camper-Overland-Trailer.jpg",
    "media": "blog",
    "region": "海外",
    "published": "2026-10-23T12:00:48+00:00",
@@ -918,7 +1157,7 @@
    "url": "https://tinyhousetalk.com/foamie-teardrop-camper-one-weekend-1000",
    "title_original": "She and Her Friends Built This Foam Teardrop Camper in One Weekend for $1,000",
    "source": "Tiny House Talk",
-   "image": "",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/Foamie-Teardrop-Rear-Tongue-Box-Desert.jpg",
    "media": "blog",
    "region": "海外",
    "published": "2026-10-23T11:45:00+00:00",
@@ -958,7 +1197,7 @@
    "url": "https://tinyhousetalk.com/timberleaf-classic-colorado-teardrop-full-galley",
    "title_original": "Timberleaf Classic: A Handcrafted Colorado Teardrop With a Big Skylight and Full Galley",
    "source": "Tiny House Talk",
-   "image": "",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/timberleaf-classic-desert-exterior-bike-rack.jpg",
    "media": "blog",
    "region": "海外",
    "published": "2026-10-23T11:30:00+00:00",
@@ -997,7 +1236,7 @@
    "url": "https://tinyhousetalk.com/go-fast-campers-v2-pro-platform-wedge-truck-camper",
    "title_original": "Go Fast Campers V2 Pro: A Low-Profile Wedge Camper That Turns a Pickup Bed Into a Bedroom",
    "source": "Tiny House Talk",
-   "image": "",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/gfc-v2-pro-closed-super-duty-exterior.jpg",
    "media": "blog",
    "region": "海外",
    "published": "2026-10-23T11:15:00+00:00",
@@ -1134,7 +1373,7 @@
    "url": "https://tinyhousetalk.com/safari-condo-alto-r1713-retractable-roof-trailer",
    "title_original": "Safari Condo Alto R1713: A Lightweight Trailer with a Roof That Rises at Camp",
    "source": "Tiny House Talk",
-   "image": "",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/safari-condo-alto-r1713-dinette-retractable-roof.jpg",
    "media": "blog",
    "region": "海外",
    "published": "2026-10-23T11:00:00+00:00",
@@ -1766,7 +2005,7 @@
    "url": "https://tinyhousetalk.com/zook-cabins-atlas-rolling-bed-park-model",
    "title_original": "The Atlas by Zook Cabins: A 233 Sq. Ft. Park Model With a Bed That Rolls Onto the Deck",
    "source": "Tiny House Talk",
-   "image": "",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/Zook-Cabins-Atlas-Park-Model-bed-on-deck-under-stars.jpg",
    "media": "blog",
    "region": "海外",
    "published": "2026-10-22T11:45:26+00:00",
@@ -1895,7 +2134,7 @@
    "url": "https://tinyhousetalk.com/canopee-stilt-tiny-cabin-eastern-townships-quebec",
    "title_original": "Canopée: A Stilt Tiny Cabin Up in the Trees of Québec’s Eastern Townships",
    "source": "Tiny House Talk",
-   "image": "",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/beside-lao-canopee-summer-exterior-stilts.jpg",
    "media": "blog",
    "region": "海外",
    "published": "2026-10-22T11:00:00+00:00",
@@ -4112,46 +4351,6 @@
    "importance": 4
   },
   {
-   "id": "4286540f905d2e1d",
-   "url": "https://note.com/happy_gnu691/n/n78d177ba9463",
-   "title_original": "物からの卒業",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/326318072/rectangle_large_type_2_6ef8c36af761063679c4aa8e03ecd409.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-19T22:00:55+00:00",
-   "title_ja": "引っ越しを機に本の手放し方に悩んだ話",
-   "summary_ja": "引っ越しで大切な本の選別に直面した人の記録。一度は新居の本棚に並べたものの、開かれていない違和感から、あと1年開かなかったら処分するという期限を決めて手放す準備をした様子を綴っている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "本",
-    "本棚"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "7ed697519e228d24",
-   "url": "https://note.com/shin_mini_ryou/n/n8e16b2ac829d",
-   "title_original": "朝習慣の達成感",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/326316280/rectangle_large_type_2_bb9a3ba6a7404d97194e5f5ecf37248f.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-19T22:00:44+00:00",
-   "title_ja": "丁寧な朝習慣と所作で自分と暮らしを整える話",
-   "summary_ja": "布団や洗濯物をたたむ、掃除をするといった朝の習慣を紹介。扉を静かに閉めるなどモノや所作を丁寧に扱うことで、自分自身を整え、日常の感謝や周囲との信頼関係に繋がると述べている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "布団",
-    "洗濯物",
-    "タオル",
-    "食器"
-   ],
-   "importance": 3
-  },
-  {
    "id": "0461310ffd10d04f",
    "url": "https://www.roomie.jp/2026/10/1911654",
    "title_original": "はっきり言って香りは独特、でも3年間愛用してる入浴剤。5分つかるだけでも「湯上がりのポカポカ」が長続き",
@@ -4166,25 +4365,6 @@
    "axis": "own",
    "things": [
     "入浴剤"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "e49d8bf17807aa87",
-   "url": "https://note.com/hkzk1040/n/nc388200cbae5",
-   "title_original": "【保存食】去年の干し柿を、冷凍庫から畑の休憩へ｜羊羹みたいな甘さ",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/324347983/rectangle_large_type_2_177cb8302ea5fde5cf5114076caebda8.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-19T21:42:51+00:00",
-   "title_ja": "冷凍保存した干し柿を畑でスナックに",
-   "summary_ja": "去年の秋に収穫した干し柿を冷凍庫で保存し、畑での作業の合間に木のお盆に乗せてひと息つくときに食べている。しわが寄り白い粉が付いたままでも甘さは羊羹のよう。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "干し柿",
-    "木のお盆"
    ],
    "importance": 3
   },
@@ -7135,203 +7315,6 @@
     "コンセントカバー"
    ],
    "importance": 3
-  },
-  {
-   "id": "284ae66d81509e8a",
-   "url": "https://www.lifehacker.jp/article/2610-lht-uni-jetstream-andknot",
-   "title_original": "ジェットストリーム好き必見。カラビナ付き『&knot』を身に付けて、いつでも書き出せる",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/07/13/5588696f-10a1-42b4-abd7-4ecc7ad526ab/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-14T13:15:00+00:00",
-   "title_ja": "いつでもサッと書き出せるカラビナ付きボールペン",
-   "summary_ja": "ベルトループやバッグにカラビナで取り付けて持ち運べる、ジェットストリームインサイドのボールペンを活用している事例。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ボールペン"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "142fbc5e42e65b4e",
-   "url": "https://monomax.jp/archives/366719",
-   "title_original": "【都会派ミリタリー】ビジネスから出張まで対応！ワイルドシングスの新作バッグ「メトロポリスライン」全4型が優秀すぎる",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2026/10/fj_0926_1-scaled.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-14T13:00:26+00:00",
-   "title_ja": "ワイルドシングスのメトロポリスラインバッグ4タイプを紹介",
-   "summary_ja": "ミリタリー由来の耐久性と機能性を備えたワイルドシングスの新作バッグ『メトロポリスライン』が、ビジネスや出張に最適な全4モデルとして発売されたことをレビューしている。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "メトロポリスラインバッグ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "b425f6b71487d9c1",
-   "url": "https://www.lifehacker.jp/article/2610-amazon-cio-smartcobyslim5k-jpv",
-   "title_original": "薄さわずか8.7mm。発熱を抑えて安全に充電できるCIOのモバイルバッテリー",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2025/10/21/dfd3e0eb-3bde-4424-a6b8-f3cdc2ad8d58/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-14T13:00:00+00:00",
-   "title_ja": "薄さわずか8.7mmの発熱を抑えるモバイルバッテリー",
-   "summary_ja": "CIOから発売された、発熱を抑えて安全に充電できるMagSafe対応の薄型モバイルバッテリーの紹介。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "モバイルバッテリー",
-    "iPhone"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "0ddb9521665a6cd5",
-   "url": "https://www.roomie.jp/2026/10/1906431",
-   "title_original": "山崎実業のゴミ箱を“じゃない使い方”にしてみたら、洗濯動線を改善できた",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/tamajitsu-gomibako-top.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-14T12:30:47+00:00",
-   "title_ja": "山崎実業のゴミ箱を活用し洗濯動線を改善した事例",
-   "summary_ja": "山崎実業のポリエチレン製ゴミ箱を別用途で配置し、洗濯物の搬送ルートをスムーズにすることで、洗濯動線の効率化とスペース活用を実現した工夫を紹介している。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [
-    "山崎実業 ゴミ箱"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "559233d33347b9e5",
-   "url": "https://www.roomie.jp/2026/10/1902512",
-   "title_original": "キャッシュレス時代のミニ財布。小銭もカードも取り出しやすい",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/1.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-14T12:15:08+00:00",
-   "title_ja": "キャッシュレス時代に選ぶ小銭もカードも使いやすいミニ財布",
-   "summary_ja": "キャッシュレス化が進む中でも現金が必要な場面に対応できる、小銭とカードの取り出しやすさを重視したミニ財布について紹介している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ミニ財布",
-    "カード",
-    "小銭"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "1028a72603135f02",
-   "url": "https://www.theminimalists.com/relief",
-   "title_original": "The Relief of Disappointment",
-   "source": "The Minimalists",
-   "image": "https://www.theminimalists.com/wp-content/uploads/2026/10/andrej-lisakov-1FQ7W91bo8I-unsplash-500x333.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-14T12:00:00+00:00",
-   "title_ja": "欲しいものが手に入らないときの気楽さについての考え方",
-   "summary_ja": "Joshua Fields Millburnによる、自分が欲しいものを手に入れられなかったときに感じる不思議な安心感や心境の変化について綴っている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "a63d2a13cff3e6d6",
-   "url": "https://www.roomie.jp/2026/10/1905417",
-   "title_original": "TP-Linkの「工事不要で取り付けられる防犯ドアホン」で、外出時にちゃんと安心できるようになった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/COV00429-2.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-14T11:00:28+00:00",
-   "title_ja": "工事不要のTP-Link防犯ドアホンで外出時の不安解消",
-   "summary_ja": "頻繁に留守にする著者は来訪者への不安を抱えていたが、工事不要で取り付けられるTP-Linkの防犯ドアホンを設置したことで、外出中も自宅の状況を確認でき安心感を得た。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "TP-Link防犯ドアホン"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "1f355d12ce282edb",
-   "url": "https://www.roomie.jp/2026/10/1905947",
-   "title_original": "これ1本で5本分の老眼鏡。どんな状況もベスポジで見える、度数調整式が快適だよ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/clickfocus3.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-14T10:45:27+00:00",
-   "title_ja": "老眼鏡を1本に集約する度数調整式グラス",
-   "summary_ja": "用途に合わせて複数持ちがちな老眼鏡を1本にまとめられる度数調整式のメガネ。スマホや説明書を見る際の文字の小ささに悩む場面で、ピント合わせの面倒や管理の手間を減らすアイテムとして紹介されています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "老眼鏡"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "931c48b84c14e013",
-   "url": "https://www.roomie.jp/2026/10/1900447",
-   "title_original": "サッシ掃除の“見て見ぬフリ”卒業。「充電式ケルヒャー」で頑固な汚れも吹き飛ばせた！",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/20251128-mio-kaercher-ochandycompact-05.jpeg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-14T10:30:41+00:00",
-   "title_ja": "充電式ケルヒャーでサッシ掃除の負担を軽減する",
-   "summary_ja": "後回しにしがちなサッシの頑固な汚れを、電源コードのない手のひらサイズの高圧洗浄機で手軽に解消した実例。面倒な掃除の手間やハードルを減らすことで、綺麗を保つ工夫が紹介されています。",
-   "category": "道具・ガジェット",
-   "axis": "reduce",
-   "things": [
-    "高圧洗浄機"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "b0ab0c65dd7a751d",
-   "url": "https://www.lifehacker.jp/article/2610-costorypo-thecubesfuton-start-1984665065",
-   "title_original": "布団に入った瞬間からもう暖かい。宇宙技術を応用した快適すぎる掛け布団",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/10/13/d3d5af33-e3e5-4a67-adde-9f8dee688b9b/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-14T10:30:00+00:00",
-   "title_ja": "宇宙技術を応用した洗濯機で洗える掛け布団",
-   "summary_ja": "NASAの宇宙服の保温原理を応用し、暖かさとムレにくさを両立した掛け布団。洗濯機で丸洗いでき、圧縮収納にも対応しているため、季節を問わずすっきりと使いやすい寝具として紹介されています。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "掛け布団"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "9d0b832737ccd7ea",
-   "url": "https://freeyork.org/architecture/blakely-island-cabin-retreat-wittman-estes-retreat",
-   "title_original": "“Wittman Estes Crafts a Minimalist 400-Square-Foot Retreat Amidst Blakely Island’s Wilderness”",
-   "source": "freeyork",
-   "image": "https://freeyorkk.b-cdn.net/wp-content/uploads/2026/10/blakely-island-cabin-retreat-wittman-estes-retreat-freeyork-1.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-14T10:16:47+00:00",
-   "title_ja": "ブレイクリー島に400平方フィートのミニリトリート",
-   "summary_ja": "ウィットマン・エステス氏がブレイクリー島の自然に溶け込む、面積わずか400平方フィート（約37㎡）のミニマリスト・リトリートを設計・建築した様子を紹介。シンプルな空間と自然素材が特徴です。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [],
-   "importance": 4
   }
  ]
 }
