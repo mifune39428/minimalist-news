@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T12:49:11.833418+09:00",
+ "updated_at": "2026-10-25T20:00:04.592896+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,49 +27,49 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-25T12:49:44.902362+09:00",
+  "generated_at": "2026-10-25T20:01:35.414727+09:00",
   "days": 3,
   "period": "10月24日〜10月25日",
   "count": 45,
   "reduce_count": 24,
   "own_count": 21,
-  "overview": "モノや空間を減らす工夫から、無印良品や山崎実業のアイテムを活用した持ち物の整え方まで、ミニマリストたちの多様な暮らしぶりが語られています。",
-  "reduce": "模様替えや捨て活を通じて不要なストックや家具を手放し、暮らしをコンパクトにダウンサイジングする実践的な工夫が多く語られています。",
-  "own": "無印良品のケースや山崎実業の収納グッズを使い、小物や傘などをすっきりと整理して持ち歩く・収める実例が紹介されています。",
+  "overview": "不要な物や目標を手放すことで暮らしや心を整える工夫と、無印良品や山崎実業などのアイテムを活用した具体的な収納・持ち物の見直しに関する話題が多く寄せられています。",
+  "reduce": "調理用バットやストック品など日用品の量を減らし、不要な買い物や目標を手放すことで時間や心の余裕を生み出す工夫が語られています。",
+  "own": "無印良品の収納ケースやカードケースをはじめ、日常の小さなストレスを解消する便利なアイテムや身軽な旅・生活の工夫が紹介されています。",
   "points": [
    {
-    "title": "手放すことへの心理的アプローチ",
-    "body": "断捨離で罪悪感を手放して感情を充電する方法や、不要品を捨て続けた結果物置部屋を子ども部屋に改装した事例など、心を整えながら片付けを進める体験が語られています。"
+    "title": "無印良品の活用",
+    "body": "無印良品のパジャマやカードケース、やわらか収納ケースなどを使って、日常の小さなストレスを解消したりバッグの中身をすっきりさせたりする工夫が複数の記事で紹介されています。"
    },
    {
-    "title": "限られた空間を活かす住まいの実例",
-    "body": "築50年の団地やガレージをリノベーションした事例など、小さな空間を工夫して心地よい住まいへと生まれ変わらせるコンパクトな暮らしぶりが紹介されています。"
+    "title": "タイニーハウスの実例",
+    "body": "移動式のタイニーハウスやガレージを改装した住まい、自作のトレーラーハウスなど、限られた空間で低コストに暮らす多様な実例や資金調達の選択肢が語られています。"
    },
    {
-    "title": "無印良品などの便利な活用術",
-    "body": "無印良品の収納ケースやホーロー容器、山崎実業のアイテムなどを使い、常備薬や傘、お米などをすっきりと整理して暮らしの不便を解消する工夫が提案されています。"
+    "title": "思い切った手放し",
+    "body": "50代で持ち家や膨大な持ち物をすべて手放した体験談や、物置を子ども部屋にするための長期間の捨て活など、大きな決断で人生や部屋をリセットする事例が見られます。"
    }
   ],
   "keywords": [
    "無印良品",
    "山崎実業",
+   "タイニーハウス",
    "断捨離",
-   "持たない暮らし",
-   "リノベーション"
+   "ミニマリスト"
   ]
  },
  "things": [
-  {
-   "name": "服",
-   "count": 9
-  },
   {
    "name": "ベッド",
    "count": 8
   },
   {
+   "name": "服",
+   "count": 8
+  },
+  {
    "name": "スマホ",
-   "count": 7
+   "count": 6
   },
   {
    "name": "モバイルバッテリー",
@@ -89,6 +89,10 @@
   },
   {
    "name": "バックパック",
+   "count": 4
+  },
+  {
+   "name": "財布",
    "count": 4
   },
   {
@@ -120,15 +124,11 @@
    "count": 3
   },
   {
-   "name": "財布",
-   "count": 3
-  },
-  {
-   "name": "クラウドストレージ",
+   "name": "カードケース",
    "count": 2
   },
   {
-   "name": "サングラス",
+   "name": "クラウドストレージ",
    "count": 2
   },
   {
@@ -176,10 +176,6 @@
    "count": 2
   },
   {
-   "name": "家具",
-   "count": 2
-  },
-  {
    "name": "掃除用具",
    "count": 2
   },
@@ -221,7 +217,9 @@
   "Chattanooga Times Free Press",
   "Chronicle-Tribune",
   "Cycling Weekly",
+  "ELLE",
   "ENCOUNT",
+  "Fast Company（働き方）",
   "FinancialContent",
   "Franklin County Now",
   "Good Housekeeping",
@@ -245,7 +243,6 @@
   "Sacramento Bee",
   "Santa Clarita Valley Signal",
   "Sarah Therese",
-  "Simple Lionheart Life",
   "Southern Living",
   "T3",
   "TRILL",
@@ -265,6 +262,7 @@
   "Yahoo Creators",
   "Yahoo!ニュース",
   "YouTube",
+  "au Webポータル",
   "cristinaiglesias.com",
   "freeyork",
   "note",
@@ -303,6 +301,230 @@
  "count": 400,
  "items": [
   {
+   "id": "1b15e5da8750e1fa",
+   "url": "https://note.com/glad_skink7124/n/n853d766dfe8e",
+   "title_original": "どう考えてもマキシマリスト",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/328397533/rectangle_large_type_2_eb273a3bdbef24accd5c840e01bca0cb.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-25T10:52:38+00:00",
+   "title_ja": "ごちゃついた部屋が好きでも実現できない人の折衷案",
+   "summary_ja": "アウトドアギアや植物に囲まれたマキシマリストな空間に憧れるものの、置く場所の限界や実害を感じて折衷案を探る人の話。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "ラグ"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "f64820b069f4ba13",
+   "url": "https://www.roomie.jp/2026/10/1910082",
+   "title_original": "山崎実業のスライドテーブルで「朝のキッチンの渋滞」が解消！ 家族が準備に参加しやすくなったよ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/f57853d4185d133c0bd0f5d9b8fd3748.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-25T10:00:56+00:00",
+   "title_ja": "山崎実業のスライドテーブルでキッチンの混雑を解消した話",
+   "summary_ja": "山崎実業のスライドテーブルを導入し、朝のキッチンの渋滞を解消して家族が準備に参加しやすくなった工夫を紹介している。",
+   "category": "キッチン・食",
+   "axis": "reduce",
+   "things": [
+    "スライドテーブル"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "9333f7a0935027e9",
+   "url": "https://www.youtube.com/watch?v=rtEVQx9lhqk",
+   "title_original": "【筋トレ始めた】31歳ミニマリスト 家賃4万円 毎朝7時コメダ珈琲 3日間ルーティン",
+   "source": "ミニマリストK",
+   "image": "https://i3.ytimg.com/vi/rtEVQx9lhqk/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-10-25T10:00:01+00:00",
+   "title_ja": "31歳ミニマリストの家賃4万円の部屋での3日間ルーティン",
+   "summary_ja": "家賃4万円の部屋に暮らす31歳のミニマリストが、毎朝のコメダ珈琲や筋トレを取り入れた3日間の日常を公開している。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "1fdcd93a16bf78a3",
+   "url": "https://note.com/takahashi_simple/n/n323d83358b5a",
+   "title_original": "5枚あったバットを「1枚」に。買い替え時に試した、道具の「当たり前」を疑う話。",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/328308821/rectangle_large_type_2_4261b0b11b8026486fd6efc2ef48adc6.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-25T09:20:05+00:00",
+   "title_ja": "5枚あった調理用バットを1枚に削減。道具の当たり前を疑い手放した人の話",
+   "summary_ja": "シンプリストを目指す夫婦が、道具の買い替え時にこれまで当たり前のように持っていた物を見直した事例です。5枚あった調理用バットを1枚だけに減らすなど、暮らしの中で本当に必要な量や役割を再検討する考え方を紹介しています。",
+   "category": "キッチン・食",
+   "axis": "reduce",
+   "things": [
+    "バット"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "055bddc2bfcae922",
+   "url": "https://www.roomie.jp/2026/10/1914000",
+   "title_original": "愛用し始めて約3年半。睡眠にこだわる私が、無印良品の「ガーゼパジャマ」を選んだワケ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/261023_muji_pajamas_-17-1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-25T09:00:48+00:00",
+   "title_ja": "暮らしをシンプルにしたい筆者が3年半愛用する無印良品のパジャマの話",
+   "summary_ja": "暮らしをシンプルに整えたい筆者が、約3年半愛用し続けている無印良品のガーゼパジャマについて語る記事です。睡眠にこだわる中で日常の無駄な動作を減らす工夫をしつつ、お気に入りのアイテムを長く使い続ける理由を紹介しています。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "ガーゼパジャマ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "6908e4e8be2d5522",
+   "url": "https://tinyhousetalk.com/how-people-pay-for-a-tiny-house",
+   "title_original": "How People Actually Pay for a Tiny House: Every Option",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/going-tiny-series-part-07.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-25T09:00:00+00:00",
+   "title_ja": "タイニーハウスの購入資金をどう調達するか選択肢を解説した話",
+   "summary_ja": "移動式タイニーハウスを購入する際の資金調達方法やローンの現実について解説した記事です。普通の住宅ローンより審査が難しい事情を踏まえ、実際に購入者がどのような方法で資金を工面しているのか具体策を紹介しています。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [
+    "タイニーハウス"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "314d10a42606c7a3",
+   "url": "https://www.thespruce.com/everyday-items-to-stop-buying-12167038",
+   "title_original": "7 Everyday Items Pro Organizers Say You’ll Be Glad You Stopped Buying—They Just Add Clutter and Waste Money",
+   "source": "The Spruce",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-25T08:21:00+00:00",
+   "title_ja": "部屋の散らかりとお金の無駄を防ぐために購入をやめるべき日用品7選",
+   "summary_ja": "整理収納のプロが、買うのをやめることで部屋の散らかりを防ぎ節約にもつながる日用品を紹介している。部屋をすっきり保つには、物を減らすだけでなく不要な買い物を根本から止める習慣が大切だと伝える。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "b13f74ad7fc1763d",
+   "url": "https://www.elle.com/uk/fashion/what-to-wear/a74215850/fashion-expert-capsule-wardrobe-essentials",
+   "title_original": "The Versatile Capsule Wardrobe Essentials You Need And Where To Buy Them, According To 5 Fashion Experts",
+   "source": "ELLE",
+   "image": "https://hips.hearstapps.com/hmg-prod/images/536e27e9-3d6a-4e0b-a81e-38d5e30a7025.jpeg?crop=1.00xw:0.334xh;0,0.106xh&resize=1200:*",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-25T08:06:18+00:00",
+   "title_ja": "専門家5人が選ぶカプセルワードローブに必要な定番服と選び方",
+   "summary_ja": "5人のファッション専門家が、着回し力が高く最小限の服で回すカプセルワードローブの定番アイテムを厳選。無駄な衣服を増やさず、自分に合うワードローブを構築するためのポイントを解説している。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "50dadcec0017735f",
+   "url": "https://www.fastcompany.com/91627787/why-quitting-your-job-might-be-your-best-decision-yet?partner=rss&amp%3Butm_source=rss&amp%3Butm_medium=feed&amp%3Butm_campaign=rss+fastcompany&amp%3Butm_content=rss",
+   "title_original": "Why quitting your job might be your best decision yet",
+   "source": "Fast Company（働き方）",
+   "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91627787-why-quitting-might-be-the-best-decision-you-make.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-25T08:00:00+00:00",
+   "title_ja": "自分に合わない目標を手放すことで時間とエネルギーを取り戻す考え方",
+   "summary_ja": "15年間ジャーナリストとして活動した著者が、自分に合わなくなった目標や仕事を手放すメリットを解説。諦めることは失敗ではなく、不要な執着を減らすことで新しい挑戦のための時間やエネルギーを生み出せると説く。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "9372bf4a3487a62e",
+   "url": "https://www.thespruce.com/minimalists-never-hold-onto-these-sentimental-items-12167037",
+   "title_original": "Minimalists Say These 7 Sentimental Items Create More Clutter Than Comfort—Why They Let Them Go",
+   "source": "The Spruce",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-25T07:44:00+00:00",
+   "title_ja": "ミニマリストが手放した思い出の品7選とその理由",
+   "summary_ja": "ミニマリストたちが、安心感よりも散らかりの原因になりやすいとして手放した7つの思い出の品について、その理由とともに語っている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "2dbfc51ac7fcf26d",
+   "url": "https://www.roomie.jp/2026/10/1914764",
+   "title_original": "ミニバッグのときの財布かさばる問題。無印良品の「290円で買えるカードケース」でスマートに解決できた",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/05/IMG_0211-scaled.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-25T05:00:40+00:00",
+   "title_ja": "ミニバッグ時の財布の厚みを無印良品の290円カードケースで解決した話",
+   "summary_ja": "小さなバッグでお出かけする際、三つ折り財布でも厚みが気になってしまう悩みを、無印良品で販売されている290円のシンプルなカードケースに切り替えることで解決した事例です。財布のかさばりを抑え、散歩やイベント時の持ち物をスマートに収めています。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "カードケース",
+    "財布",
+    "ミニバッグ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d843e041d7b82026",
+   "url": "https://news.yahoo.co.jp/articles/e9e36cfca376ce297c41cdb5b8dd9402146cd636/images/000",
+   "title_original": "【ダイソー】整理収納アドバイザーがすすめる！収納グッズ選びに迷ったら試してほしい110円アイテム (サンキュ！)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJndin-Fn8gRQBT9s7X4MzO2ALiAILtsQDNKC4xxuWcYjiY8-z0PeDyLW29C3SPaxkvgCmdbKwFZOMbwkyBWo6gBt5xYbBo1LWpSQEA73tIvSUOaK6yMUYiil1tkehmZX1JA==",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-25T03:22:03+00:00",
+   "title_ja": "ダイソーの110円収納グッズを整理収納アドバイザーがおすすめする理由",
+   "summary_ja": "整理収納アドバイザーが、収納グッズ選びに迷った際に試すべきダイソーの110円アイテムを紹介する記事です。手頃な価格で部屋の整理整頓や収納の悩みを解決するための選択肢を提案しています。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "収納グッズ"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "b46327afe37e53ef",
+   "url": "https://article.auone.jp/7b45eac4-a43c-46e8-a74a-6deff11b0692",
+   "title_original": "金融資産約8000万円「お金は使い切る。思い出は貯蓄する」65歳男性の年金生活",
+   "source": "au Webポータル",
+   "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/25/https___allabout_co_jp_gm_gc_522302__w640.webp",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-25T03:20:00+00:00",
+   "title_ja": "資産8000万円を持つ65歳男性が実践する「お金を使い切る」年金生活",
+   "summary_ja": "約8000万円の金融資産を持ちながら「お金は使い切り、思い出を貯蓄する」という考え方で年金生活を送る65歳男性の事例です。物を溜め込むのではなく体験や思い出に価値を置く、豊かなシニアライフの考え方を紹介しています。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "62f0757fdfb4182f",
    "url": "https://note.com/kyochiss/n/nc076ca346b03",
    "title_original": "10月25日",
@@ -333,6 +555,24 @@
    "axis": "own",
    "things": [
     "服"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b7c1e1036215f70d",
+   "url": "https://www.roomie.jp/2026/10/1914700",
+   "title_original": "無印良品の「日常の小さなストレスを解消」してくれる逸品3選。少しの変化で家事がはかどるようになったよ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2025/03/250323_muji_tsurisagenozzle_01.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-25T01:00:53+00:00",
+   "title_ja": "無印良品の小さなストレスを解消する逸品3選",
+   "summary_ja": "家での作業や家事を快適にするため、無印良品の隠れた逸品を紹介している。日常の小さなストレスを解消するアイテムを取り入れた実例。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "無印良品の製品"
    ],
    "importance": 3
   },
@@ -7077,253 +7317,6 @@
     "住宅",
     "テーブル"
    ],
-   "importance": 3
-  },
-  {
-   "id": "51da7b157b1f4740",
-   "url": "https://www.lifehacker.jp/article/2610-lht-yamazakijirushi-pet-food-stocker",
-   "title_original": "愛犬のフードは「隠さず・見せて」収納する。ごはんタイムがスムーズになるストッカー活用術",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/10/14/a56500ef-874d-4597-89a0-6da05a528212/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-15T10:00:00+00:00",
-   "title_ja": "ペットフードを使いやすく収納するストッカー",
-   "summary_ja": "山崎実業のペットフードストッカーを導入し、スライド式キャップで日々の食事の準備をスムーズに整えている実例です。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "ペットフードストッカー ヌークス"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "e435d44d4bec4e4d",
-   "url": "https://monomax.jp/archives/365705",
-   "title_original": "使い込むほど味が出る。L.L.Beanの巾着バッグはクラシック感極まる名品／No.1モノ雑誌編集長のお墨付き『コレ買いです』Vol.183",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2026/10/21389c.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-15T09:00:59+00:00",
-   "title_ja": "使い込むほど味が出るL.L.Beanの巾着バッグ",
-   "summary_ja": "クラシックなデザインが特徴で、使い込むことで風合いが増すL.L.Beanの巾着バッグを取り入れている事例です。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "L.L.Beanの巾着バッグ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "5871d68e091e7080",
-   "url": "https://balancethroughsimplicity.com/seasonal-reset-home-life",
-   "title_original": "5 Simple Ways to Refresh Your Home and Life With a Seasonal Reset",
-   "source": "Balance Through Simplicity",
-   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2026/10/Seasonal-Reset-1-683x1024.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-15T07:52:54+00:00",
-   "title_ja": "季節のリセットで暮らしをシンプルにする5つの方法",
-   "summary_ja": "季節の変わり目に、部屋の片付けやワードローブの見直し、日課の調整など5つのシンプルな手法で、生活をすっきりさせる方法を紹介。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "ワードローブ",
-    "家具"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "4be5ea4278a7c65d",
-   "url": "https://freeyork.org/architecture/russian-forest-retreat-georgy-kostrovs",
-   "title_original": "Russian Forest Retreat: Georgy Kostrov’s Innovative Home Design for Tranquility and Flow",
-   "source": "freeyork",
-   "image": "https://freeyorkk.b-cdn.net/wp-content/uploads/2026/10/russian-forest-retreat-georgy-kostrovs-freeyork-1.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-15T06:50:56+00:00",
-   "title_ja": "静寂と流れを生み出すロシアの森林リトリート建築",
-   "summary_ja": "ロシアの森林地帯にある、平穏と空間の流れを重視してデザインされた住宅建築を紹介する記事です。無駄を削ぎ落としたシンプルな住まいや暮らしの環境作りの参考になります。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "5787b8b860dccbab",
-   "url": "https://youtu.be/0HVRoEvPyBc?si=lmvUItn2Dsa37YrI",
-   "title_original": "【全11着】ミニマリスト冬のLookbook｜中性的モノトーンコーデ",
-   "source": "YouTube",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-15T04:11:15+00:00",
-   "title_ja": "ミニマリストの冬服コーディネート11着",
-   "summary_ja": "中性的なモノトーンの色合いでまとめた、冬服全11着によるコーディネートを紹介している。ミニマリストの持ち物や服選びの参考になる内容。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "服"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "a87b7ddd46c55b2f",
-   "url": "https://www.lifehacker.jp/article/2610-goodbye-chrome-firefox-finally-became-the-android-browser-i-always-wanted",
-   "title_original": "AndroidのブラウザをChrome→Firefoxに乗り換えた理由は「拡張機能が使えた」から。",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/15/9a929570-b55d-4d4f-ae5a-8e52a3d07717/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-15T03:00:00+00:00",
-   "title_ja": "AndroidでChromeからFirefoxへ乗り換えた理由と拡張機能活用",
-   "summary_ja": "Android版Firefoxは拡張機能が使える点が魅力。広告ブロックなどでスマホの閲覧が快適になり、Chromeから乗り換えた筆者がその利点を解説する。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "Firefox",
-    "Chrome"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "7661173a3ae22e86",
-   "url": "https://www.roomie.jp/2026/10/1906599",
-   "title_original": "爪切りは電動が当たり前？ボタンひとつで切る・磨く・整うが新常識になるよ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/j52.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-15T02:45:00+00:00",
-   "title_ja": "電動爪切りJ5の4機能とライト搭載の使い心地",
-   "summary_ja": "1台で切る・整える・磨く・ライト照射の4機能を備えた電動爪切りJ5を実際に使用し、コンパクトさと操作感をレビュー。電動化で爪切りが手軽になる。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "電動爪切り J5"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "707dbda49a18e752",
-   "url": "https://thesimplicityhabit.com/gratitude-prompts-positive-life",
-   "title_original": "How Gratitude Prompts Can Lead to a More Positive Life",
-   "source": "The Simplicity Habit",
-   "image": "https://thesimplicityhabit.com/wp-content/uploads/2022/11/8-1024x683.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-15T02:19:03+00:00",
-   "title_ja": "感謝の気持ちを持つことで前向きな生活に変える方法",
-   "summary_ja": "日々の生活で感謝の促しを活用し、ネガティブな気持ちや考えを和らげてより前向きで幸福感のある暮らしを作るための考え方について紹介しています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "6b14f8a8f02b7dcb",
-   "url": "https://www.lifehacker.jp/article/machi-ya-tryangle-review-972293",
-   "title_original": "晴れでも曇りでも外す暇なし！福井の眼鏡職人が生んだ「視界を自動最適化する」スポーツサングラス",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/10/13/c5790d5d-aae3-4d24-bb0f-135e9a121fd3/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-15T01:30:00+00:00",
-   "title_ja": "視界を自動最適化する福井の眼鏡職人のスポーツサングラス",
-   "summary_ja": "紫外線量に応じてレンズ濃度が自動で変わり、乱反射を抑える福井の眼鏡メーカーが開発した約36gの軽量スポーツサングラス。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "サングラス"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "5522a701341e804a",
-   "url": "https://minimalist-fudeko.com/before-buying-kitchen-gadgets",
-   "title_original": "キッチンの便利グッズは、同じことで2回困ってから買う。皮むき器や瓶のふた開けの選び方",
-   "source": "筆子ジャーナル",
-   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/10/egg-slicer.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-15T00:10:57+00:00",
-   "title_ja": "キッチンの便利グッズは同じことで2回困ってから買う",
-   "summary_ja": "使わずに眠りがちなピーラーや瓶のふた開けなどの便利雑貨について紹介しています。同じことで2回困るまでは買わないという基準を持つことで、使わないキッチンの雑貨を増やさずに暮らすコツを解説しています。",
-   "category": "キッチン・食",
-   "axis": "reduce",
-   "things": [
-    "ゆで卵の殻むき器",
-    "にんにくの皮むき器",
-    "おにぎりの型"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "a6f16cca21d6601c",
-   "url": "https://bemorewithless.com/how-to-slow-down-in-life/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
-   "title_original": "How to Slow Down (And Enjoy Life)",
-   "source": "Be More with Less",
-   "image": "https://bemorewithless.com/wp-content/uploads/2023/01/slow_down_fb.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-14T22:16:39+00:00",
-   "title_ja": "忙しい日常から抜け出して暮らしのペースを落とす12の指針",
-   "summary_ja": "常にストレスを抱えた忙しい生活から離れ、よりスローで豊かな人生を楽しむための12の優しいガイドラインを紹介しています。日々の慌ただしさを手放し、自分の時間を取り戻すための考え方を学べます。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "e7a1510f0be2e53d",
-   "url": "https://simplelionheartlife.com/how-to-make-life-easier",
-   "title_original": "How to Make Life Easier: 14 Simple Ideas to Try",
-   "source": "Simple Lionheart Life",
-   "image": "https://simplelionheartlife.com/wp-content/uploads/2022/07/How-to-Make-Life-Easier-14-Simple-Ideas-to-Try-1.png",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-14T21:50:34+00:00",
-   "title_ja": "生活をシンプルにしてストレスを減らす14のアイデア",
-   "summary_ja": "日々の生活が複雑でストレスフルに感じるときに、もっと気楽でシンプルな暮らしに変えるための14のヒントを紹介しています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "7abd3ff4971c8451",
-   "url": "https://www.roomie.jp/2026/10/1906479",
-   "title_original": "音楽への没入感が段違い。スマホ依存を脱却できる音楽プレーヤー",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/08/1-18.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-14T21:15:25+00:00",
-   "title_ja": "スマホ依存を脱却するための音楽プレーヤー",
-   "summary_ja": "スマホの代わりに専用の音楽プレーヤーを使うことで、音楽への没入感を高めつつデジタルデトックスを図るスタイルの紹介。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "音楽プレーヤー",
-    "スマホ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2e210ec143d5bf33",
-   "url": "https://www.thespruce.com/items-secondhand-clothing-shops-wont-take-12159911",
-   "title_original": "5 Items Secondhand Clothing Shops Won’t Take, According to Goodwill and Buffalo Exchange Pros",
-   "source": "The Spruce",
-   "image": "https://www.thespruce.com/thmb/N7wXiKrXt_hngBk9_-iHvS6tAn4=/8164x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1477136187-ef3fccef88524a1698844509f44ddb69.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-14T19:51:00+00:00",
-   "title_ja": "中古衣料店が受け取らない5品目",
-   "summary_ja": "米国の中古衣料店（GoodwillやBuffalo Exchange）が受け取らない5種類の品目を紹介し、不要品の処分方法を検討する際の参考になる内容です。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
    "importance": 3
   }
  ]
