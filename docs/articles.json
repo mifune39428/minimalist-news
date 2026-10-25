@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T20:00:04.592896+09:00",
+ "updated_at": "2026-10-26T00:47:46.114944+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,45 +27,49 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-25T20:01:35.414727+09:00",
+  "generated_at": "2026-10-26T00:48:47.674197+09:00",
   "days": 3,
-  "period": "10月24日〜10月25日",
+  "period": "10月24日〜10月26日",
   "count": 45,
-  "reduce_count": 24,
-  "own_count": 21,
-  "overview": "不要な物や目標を手放すことで暮らしや心を整える工夫と、無印良品や山崎実業などのアイテムを活用した具体的な収納・持ち物の見直しに関する話題が多く寄せられています。",
-  "reduce": "調理用バットやストック品など日用品の量を減らし、不要な買い物や目標を手放すことで時間や心の余裕を生み出す工夫が語られています。",
-  "own": "無印良品の収納ケースやカードケースをはじめ、日常の小さなストレスを解消する便利なアイテムや身軽な旅・生活の工夫が紹介されています。",
+  "reduce_count": 23,
+  "own_count": 22,
+  "overview": "物を減らす断捨離や収納の工夫から、厳選された持ち物やコンパクトな暮らしの実例まで、多様な角度からミニマルなライフスタイルが語られています。",
+  "reduce": "クローゼットや調理用バットなど日用品の見直しをはじめ、目標や不要な買い物など執着を手放す具体的な工夫が語られています。",
+  "own": "無印良品のケースやガジェットケースを活用した収納術のほか、旅行の荷物を極限まで絞り込む工夫が紹介されています。",
   "points": [
    {
-    "title": "無印良品の活用",
-    "body": "無印良品のパジャマやカードケース、やわらか収納ケースなどを使って、日常の小さなストレスを解消したりバッグの中身をすっきりさせたりする工夫が複数の記事で紹介されています。"
+    "title": "日用品と道具の削減",
+    "body": "クローゼットの断捨離や5枚あった調理用バットを1枚に減らすなど、暮らしの中で当たり前になっていた物や日用品を見直して手放す事例が多数紹介されています。"
    },
    {
-    "title": "タイニーハウスの実例",
-    "body": "移動式のタイニーハウスやガレージを改装した住まい、自作のトレーラーハウスなど、限られた空間で低コストに暮らす多様な実例や資金調達の選択肢が語られています。"
+    "title": "無印良品の活用術",
+    "body": "無印良品のパジャマやカードケース、マッサージツール、収納ケースなど、日常の小さなストレスを解消するアイテムを取り入れた暮らしの工夫が語られています。"
    },
    {
-    "title": "思い切った手放し",
-    "body": "50代で持ち家や膨大な持ち物をすべて手放した体験談や、物置を子ども部屋にするための長期間の捨て活など、大きな決断で人生や部屋をリセットする事例が見られます。"
+    "title": "旅行時の荷物を軽量化",
+    "body": "4泊5日の旅行で服を3着やリュック1つにまとめたり、超軽量エコバッグを活用したりして、荷物を最小限に抑える旅のスタイルが紹介されています。"
+   },
+   {
+    "title": "心や目標のデトックス",
+    "body": "自分に合わない目標を手放して時間を取り戻す考え方や、デジタルデトックスを通じて心の余裕を得る体験談など、習慣面での手放しが語られています。"
    }
   ],
   "keywords": [
    "無印良品",
-   "山崎実業",
-   "タイニーハウス",
    "断捨離",
-   "ミニマリスト"
+   "ミニマリスト",
+   "持たない暮らし",
+   "収納"
   ]
  },
  "things": [
   {
    "name": "ベッド",
-   "count": 8
+   "count": 7
   },
   {
    "name": "服",
-   "count": 8
+   "count": 7
   },
   {
    "name": "スマホ",
@@ -84,11 +88,11 @@
    "count": 4
   },
   {
-   "name": "ケーブル",
+   "name": "イヤホン",
    "count": 4
   },
   {
-   "name": "バックパック",
+   "name": "ケーブル",
    "count": 4
   },
   {
@@ -96,15 +100,15 @@
    "count": 4
   },
   {
-   "name": "イヤホン",
-   "count": 3
-  },
-  {
    "name": "キッチン",
    "count": 3
   },
   {
    "name": "シャワー",
+   "count": 3
+  },
+  {
+   "name": "バックパック",
    "count": 3
   },
   {
@@ -122,6 +126,10 @@
   {
    "name": "暖炉",
    "count": 3
+  },
+  {
+   "name": "カメラ",
+   "count": 2
   },
   {
    "name": "カードケース",
@@ -168,10 +176,6 @@
    "count": 2
   },
   {
-   "name": "住宅",
-   "count": 2
-  },
-  {
    "name": "収納ボックス",
    "count": 2
   },
@@ -180,15 +184,7 @@
    "count": 2
   },
   {
-   "name": "洋服",
-   "count": 2
-  },
-  {
    "name": "洗濯カゴ",
-   "count": 2
-  },
-  {
-   "name": "洗濯機",
    "count": 2
   },
   {
@@ -212,13 +208,13 @@
   "Be More with Less",
   "Better Homes & Gardens",
   "Bona Magazine",
+  "BurlingtonToday.com",
   "CN Traveller",
   "Cat Country 107.3 and 94.9",
   "Chattanooga Times Free Press",
   "Chronicle-Tribune",
   "Cycling Weekly",
   "ELLE",
-  "ENCOUNT",
   "Fast Company（働き方）",
   "FinancialContent",
   "Franklin County Now",
@@ -275,7 +271,6 @@
   "うにのゆるシンプルな暮らし",
   "ねとらぼ",
   "ぴーこ｜ゆるっとミニマルな日常",
-  "むぎの頑張らない暮らし",
   "やましたひでこ断捨離",
   "ウォーカープラス",
   "ニコニコニュース",
@@ -300,6 +295,170 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "467d465fc14546b7",
+   "url": "https://note.com/no_man_s2_115/n/n0fd646d09bff",
+   "title_original": "やる気スイッチは、嫌々押すもの",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/328505302/rectangle_large_type_2_026af97b92fe74f2550b17e0ab475d2d.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-25T15:30:28+00:00",
+   "title_ja": "やる気が出ない中でクローゼットを断捨離した話",
+   "summary_ja": "やる気が出ないまま午後遅くにクローゼットの断捨離を始めた人の体験談。不要なものを仕分けし、30リットルのゴミ袋がいっぱいになるまで処分して床磨きまでやり遂げた。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "ゴミ袋"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "25e5eeb5fc2145f8",
+   "url": "https://www.burlingtontoday.com/local-news/trash-donate-keep-learn-to-declutter-and-downsize-at-seniors-speaker-series-12919970",
+   "title_original": "Trash, donate, keep: learn to declutter and downsize at seniors' speaker series",
+   "source": "BurlingtonToday.com",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-25T13:34:26+00:00",
+   "title_ja": "シニア向け講演会で学ぶ整理とダウンサイジング",
+   "summary_ja": "捨て、寄付し、残すものを選ぶことで、物の整理とダウンサイジングを学ぶシニア向けの講演会シリーズについて伝えている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "3368eda8d4d002d2",
+   "url": "https://www.roomie.jp/2026/10/1904896",
+   "title_original": "“ちょっとの床掃除”にシート1枚使うのはもったいなくて。「クイックルの新作」は準備なしで使えて最高だった",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/20261025_quickle_top.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-25T13:00:00+00:00",
+   "title_ja": "床掃除のシートを節約し無理なく整える仕組み",
+   "summary_ja": "大掛かりな掃除を避けて汚れを見つけたらこまめに掃くため、日用品の選び方を工夫している人の話。無理なく家の中を清潔に保つための仕組みづくりについて紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "7314eba10e97ef79",
+   "url": "https://www.roomie.jp/2026/10/1915082",
+   "title_original": "7年使い続けても不便なし。カメラも細かなガジェットも「包むだけ」で気軽に持ち運べるようになった",
+   "source": "ROOMIE",
+   "image": "https://www.roomie.jp/wp-content/uploads/2026/10/37A7155.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-25T12:30:07+00:00",
+   "title_ja": "カメラやガジェットを包んで持ち運ぶ愛用品",
+   "summary_ja": "カメラや周辺機器をまとめて気軽に持ち運べるアイテムを7年間使い続けている人の話。一目惚れしたお気に入りの道具を長く大切に愛用している暮らしぶりを紹介している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "カメラ",
+    "ガジェット",
+    "音楽機材"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "49677e42e7d67df5",
+   "url": "https://www.roomie.jp/2026/10/1904695",
+   "title_original": "まるでオブジェみたい。無印良品の新作「3種のブナ材マッサージツール」で、頭から足までスッキリ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/261025_muji-beechwood-massage_01.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-25T12:00:36+00:00",
+   "title_ja": "無印良品のブナ材マッサージツールでスッキリ",
+   "summary_ja": "無印良品の新作である3種類のブナ材マッサージツールを使って、頭から足まで全身をケアしている人の話。オブジェのような見た目のアイテムを取り入れている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "マッサージツール"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "410a655832fb965b",
+   "url": "https://www.roomie.jp/2026/10/1913155",
+   "title_original": "文房具好きな私の新たな相棒は、Amazonベストセラーの「先曲がりピンセット」。小さなシールも自由自在です",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/IMG_0424-scaled.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-25T11:30:25+00:00",
+   "title_ja": "「先曲がりピンセット」でシール貼りを快適に",
+   "summary_ja": "田中青紗さんは、シール貼りの手間を減らすためにAmazonベストセラーの先曲がりピンセットを活用。小さなシールも正確に置け、ステーショナリー整理が楽になったと紹介している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "先曲がりピンセット",
+    "シール"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "ce9c06737f17b8df",
+   "url": "https://tinyhousetalk.com/creek-walk-cottages-travelers-rest-swamp-rabbit-trail",
+   "title_original": "Creek Walk Cottages: A Wooded Tiny Home Community on South Carolina’s Swamp Rabbit Trail",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/cw-06-spring-web-52.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-25T11:30:00+00:00",
+   "title_ja": "南カロライナの400sqft以下ティンハウス集落",
+   "summary_ja": "サウスカロライナ州Travelers RestにあるCreek Walk Cottagesは、20エーカー以上の森林に点在する400平方フィート未満のパークモデル・ティンハウス。小川沿いの散策路や庭があり、ミニマルな暮らしを体験できるコミュニティとして注目されている。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [
+    "ティンハウス",
+    "Creek Walk Cottages"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "6186f1d45700ef26",
+   "url": "https://nlab.itmedia.co.jp/cont/articles/4044641/image",
+   "title_original": "古い団地で一人暮らしする50代女性 大事なものを残した“持たない暮らし”に「素敵なものばかり」「押し入れの使い方がオシャレ」",
+   "source": "ねとらぼ",
+   "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/10/1791904912_311389dbb8a7e2872f56be161f223578.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-25T11:15:00+00:00",
+   "title_ja": "50代女性が語る「持たない暮らし」押し入れのオシャレ活用術",
+   "summary_ja": "50代の女性が古い団地で一人暮らしを始め、必要最低限のものだけを残す“持たない暮らし”を実践。押し入れをオシャレに収納し、空間を有効活用するアイデアが紹介され、シンプルながらも心地よい生活が伝わる。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "押し入れ"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "6d3ce9953ce35fe6",
+   "url": "https://monomax.jp/archives/368743",
+   "title_original": "プロが選んだカバン大賞！BEAMS×ブリーフィング「肩掛けを省く英断」3WAYの究極バッグ、撥水レザーのATTITU、防御力のスーリー…ほか【バックパックの人気記事ランキングベスト3】（2026年9月版）",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2026/10/111260716-152017_11zon-scaled-e1789098589867.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-25T11:00:49+00:00",
+   "title_ja": "プロが選ぶ3WAYバッグ「肩掛け不要」ベスト3",
+   "summary_ja": "プロが選んだ3つの3WAYバッグを紹介。BEAMS×ブリーフィングの撥水レザーは肩掛けとリュックを兼ね、ATTITUは防水性、スーリーは防御力に優れ、1つで複数の使い方ができるため荷物を減らしたい人におすすめだ。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "BEAMS×ブリーフィング 3WAYバッグ",
+    "ATTITU 撥水レザー",
+    "スーリー 防御力バッグ"
+   ],
+   "importance": 3
+  },
   {
    "id": "1b15e5da8750e1fa",
    "url": "https://note.com/glad_skink7124/n/n853d766dfe8e",
@@ -353,6 +512,24 @@
    "importance": 3
   },
   {
+   "id": "a8e92b6fac4826c4",
+   "url": "https://youtu.be/qiPYDoUax9I?si=oyq4qonsU_qmSfYK",
+   "title_original": "【30代独身男性】食欲の秋で満たす暮らし|三角チョコパイで一服|ミニマリスト|日常（vlog/日本語字幕付）",
+   "source": "YouTube",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-25T09:30:01+00:00",
+   "title_ja": "30代独身ミニマリストが語る秋のシンプル食生活",
+   "summary_ja": "30代独身ミニマリストが秋の食欲を満たすため、三角チョコパイなどシンプルな食事を取り入れた日常をVlogで公開。ミニマルな暮らしの中で、必要最低限の調理器具と食材で満足感を得る様子が映し出されている。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "三角チョコパイ"
+   ],
+   "importance": 2
+  },
+  {
    "id": "1fdcd93a16bf78a3",
    "url": "https://note.com/takahashi_simple/n/n323d83358b5a",
    "title_original": "5枚あったバットを「1枚」に。買い替え時に試した、道具の「当たり前」を疑う話。",
@@ -385,6 +562,24 @@
    "axis": "own",
    "things": [
     "ガーゼパジャマ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "2413ad5d573f3776",
+   "url": "https://monomax.jp/archives/365994",
+   "title_original": "【イヤホンは“耳を塞がない”が新定番】ノイキャンなしでも音がイイ！識者激推しのイヤーカフ型、Shokz「OpenDots 2」を徹底解説",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2026/10/260812-154965_11zon-scaled.jpeg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-25T09:00:18+00:00",
+   "title_ja": "識者が推すノイキャンなしのイヤーカフ型イヤホン",
+   "summary_ja": "生活必需品であるイヤホンとして、耳を塞がない新定番のShokz製イヤーカフ型モデルが紹介されている。ノイズキャンセリングがなくても音が良い点が特徴。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "イヤホン"
    ],
    "importance": 3
   },
@@ -434,6 +629,22 @@
    "title_ja": "専門家5人が選ぶカプセルワードローブに必要な定番服と選び方",
    "summary_ja": "5人のファッション専門家が、着回し力が高く最小限の服で回すカプセルワードローブの定番アイテムを厳選。無駄な衣服を増やさず、自分に合うワードローブを構築するためのポイントを解説している。",
    "category": "服・ファッション",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "b628023c243f6729",
+   "url": "https://media.unisba.ac.id/3bbe95ed/585aaedbDCMmDFN-QC9QAlo",
+   "title_original": "【2026最新】MSCベリッシマで必須の持ち物4選＆いらないもの8選！失敗を避ける荷造りと洗濯事情 Evika Siliņa (KElAxhn0Ia)",
+   "source": "Unisba Media",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-25T08:04:26+00:00",
+   "title_ja": "MSCベリッシマのクルーズ旅行で必須の持ち物と不要な物",
+   "summary_ja": "クルーズ船での旅行を快適にするために役立つ、必須の持ち物4選と不要な荷物8選を紹介している。失敗を避けるための荷造りや洗濯事情がわかる。",
+   "category": "旅・持ち歩き",
    "axis": "own",
    "things": [],
    "importance": 3
@@ -4461,26 +4672,6 @@
    "importance": 3
   },
   {
-   "id": "a44dddb93bcda206",
-   "url": "https://note.com/yusuke_muji/n/nc2e6062b4ff4",
-   "title_original": "4畳あればいい",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/326452426/rectangle_large_type_2_7aa7cb70df3939ceaf2b7ec5e8ced880.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-20T07:01:00+00:00",
-   "title_ja": "4畳だけで暮らすミニマリストの実例",
-   "summary_ja": "ベッド・洗濯機・着替えの服だけで生活し、テレビやテーブルも持たない。限られた空間で情報過多から解放される暮らしを実践しています。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [
-    "ベッド",
-    "洗濯機",
-    "服"
-   ],
-   "importance": 4
-  },
-  {
    "id": "488d4a53bac72bc4",
    "url": "https://news.livedoor.com/article/detail/32612014",
    "title_original": "「家に帰っても疲れる」「おもちゃで激狭」片付けプロが明かす、リビングの賢い収納術",
@@ -4545,24 +4736,6 @@
    "axis": "own",
    "things": [
     "おにぎりメーカー"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "01a6487fad0097f5",
-   "url": "https://note.com/chiemi0421/n/n51ae33e45de2",
-   "title_original": "ミニマリスト 固定電話をやめてみた",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/326414340/rectangle_large_type_2_2490306fe94725affa4883505b61722e.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-20T03:45:14+00:00",
-   "title_ja": "固定電話を手放したミニマリストの記録",
-   "summary_ja": "自宅の固定電話の契約ををやめてみて、どのように暮らしを見直したのかを綴ったブログ記事。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "固定電話"
    ],
    "importance": 2
   },
@@ -7139,183 +7312,6 @@
    "axis": "own",
    "things": [
     "Cool Barista"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "755df3966384d395",
-   "url": "https://www.goodhousekeeping.com/home/organizing/g74108079/medicine-cabinet-items-to-toss",
-   "title_original": "10 Medicine Cabinet Items Organizers Say It's Time to Toss",
-   "source": "Good Housekeeping",
-   "image": "https://hips.hearstapps.com/hmg-prod/images/bd463f12-b181-4bc9-90b2-022d062fe8fe.jpg?crop=1xw:0.75xh;0xw,0.054xh&resize=1200:*",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-15T12:37:34+00:00",
-   "title_ja": "薬箱の整理で見直したい古いアイテムの手放し方",
-   "summary_ja": "海外の整理収納の専門家が、薬箱の中で期限切れや不要になりがちなアイテムを処分する重要性を指摘している記事です。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "3e0e77926969868c",
-   "url": "https://news.yahoo.co.jp/articles/5fec2cb9131d83e907e4a635b6695764f748e45b/images/001",
-   "title_original": "化粧品のサンプルはいくつ残す？40代ミニマリストの「ものを増やさない工夫」3つ (ESSE-online)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJncFPc6gsp_8nfaRmLDJG1dDeLualQXyjrP_U5exXUZWHOCNYfH8yKIRh2oIlnfSca96Wnu4QUKZY_8ARy4KUef8Qm93OSCJsM1wcd7Kh4E4b",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-15T12:21:57+00:00",
-   "title_ja": "40代ミニマリストのサンプルを増やさない工夫",
-   "summary_ja": "化粧品のサンプルを溜め込まずに上手に管理するための、ものを増やさない3つの工夫について紹介している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "2541c5856a76ce78",
-   "url": "https://www.roomie.jp/2026/10/1907723",
-   "title_original": "“放っておく”だけで料理が完成！シャープの「ホットクック」を使い始めて、自炊のハードルが下がりました",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2025/07/2507_hotcook_thumbnail.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-15T12:20:38+00:00",
-   "title_ja": "ホットクックで自炊のハードルを下げた人の話",
-   "summary_ja": "料理が苦手で忙しい日々を送る中、シャープのホットクックを取り入れたことで自炊の負担を減らすことができたという体験談です。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "ホットクック"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "9b1ad7987a9488d9",
-   "url": "https://www.aslobcomesclean.com/2026/10/532-stuck-in-big-visions-of-meal-planning",
-   "title_original": "532: Stuck in Big Visions of Meal Planning",
-   "source": "A Slob Comes Clean",
-   "image": "https://www.aslobcomesclean.com/wp-content/uploads/2026/08/New-Podcast-Art-2026-sm-size-1024x1024.png",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-15T11:00:58+00:00",
-   "title_ja": "毎晩の食事計画に悩み進まない状態から抜け出すためのステップ",
-   "summary_ja": "献立が決まらず毎晩ストレスを抱えている人に向けて、大きな計画にとらわれず実行に移すための5つの手順を紹介。家事管理の一環として、理想にとらわれず食事の計画をスムーズに始めるための実践的な考え方を提案している。",
-   "category": "キッチン・食",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "ac01c83a3d0856f0",
-   "url": "https://monomax.jp/archives/367192",
-   "title_original": "【無印良品のこれシンデレラフィット】メイク用なのに“ガジェット”が絶妙に収まる！針金入りで全開する1,690円「撥水再生ナイロン広口ポーチ」が優秀すぎた",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2026/10/4DSC04526-1-scaled.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-15T11:00:28+00:00",
-   "title_ja": "ガジェットがすっきり収まる無印良品の撥水再生ナイロン広口ポーチ",
-   "summary_ja": "本来はメイク用として販売されている無印良品の「撥水再生ナイロン広口ポーチ」をガジェット収納として活用する事例を紹介。口部分に針金が入っており全開できるため、中身が見やすく収納しやすい優秀な道具として評価している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "撥水再生ナイロン広口ポーチ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f98f6e17c78e83a6",
-   "url": "https://www.roomie.jp/2026/10/1901721",
-   "title_original": "毎朝玄関で鍵を探すのをやめたい。山崎実業の「ソープトレー」を鍵置き場にして習慣化できるか試してみた",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/3ead85438ef1b7e3a9be3c6f7aa1e239.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-15T11:00:01+00:00",
-   "title_ja": "玄関で鍵を探さないために山崎実業のソープトレーを活用してみた話",
-   "summary_ja": "毎朝玄関で鍵を探す手間を省くため、山崎実業の「ソープトレー」を鍵置き場として流用し整理整頓を試みた事例。暮らしを楽にするために実用的な道具を取り入れ、定位置を作ることで散らかりを防ぐ習慣化への取り組みを紹介している。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "ソープトレー",
-    "鍵"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c2cfcb8f3eef452e",
-   "url": "https://www.youtube.com/watch?v=fEjRH3VMLqw",
-   "title_original": "【洋服とコスメの断捨離】無理に捨てないミニマリストの手放し基準 | 秋服とコスメの見直し | 捨て活",
-   "source": "むぎの頑張らない暮らし",
-   "image": "https://i3.ytimg.com/vi/fEjRH3VMLqw/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-10-15T10:30:32+00:00",
-   "title_ja": "無理に捨てないミニマリストによる、秋服とコスメの手放し基準と断捨離記録",
-   "summary_ja": "洋服やメイク、家計管理のシンプル化を目指すミニマリストによる、秋服とコスメの見直し動画。無理に捨てるのではなく、自分に合った手放し基準を設定しながら進める断捨離の様子や、洋服の数を減らしていく日々の記録を紹介している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "洋服",
-    "コスメ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f80d63b2ec8b471b",
-   "url": "https://www.roomie.jp/2026/10/1905999",
-   "title_original": "山崎実業「マグネットしゃもじ」は、しゃもじの“定位置”を好きな場所につくれて便利。ごはん粒もくっつきにくい",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/20261014_magricepaddle_eye2.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-15T10:30:29+00:00",
-   "title_ja": "山崎実業の「マグネットしゃもじ」で定位置を作り、キッチンを使いやすくした話",
-   "summary_ja": "山崎実業の「マグネットしゃもじ」を新たに購入したライターによるレビュー。好きな場所にしゃもじの定位置を作ることができ、ごはん粒もつきにくいため、日々の料理をストレスなく快適にするための工夫として活用している。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "マグネットしゃもじ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f0eb726ec0b4d22f",
-   "url": "https://www.roomie.jp/2026/10/1907562",
-   "title_original": "L.L.Beanの「アウトドア感が強くないバックパック」がコンパクトでいい！個人的にはパープルがツボなんだけどな…",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/8881c2f207941dfbae9eb97386d3e8c3-1.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-15T10:20:25+00:00",
-   "title_ja": "タウンユースに最適なエルエルビーンのコンパクトな24Lバックパックのレビュー",
-   "summary_ja": "街歩きにも馴染むエルエルビーンの「コンフォート・キャリー・ラップトップ・パック（24L）」を紹介する記事。アウトドア感を抑えたデザインと使いやすいコンパクトなサイズ感、PC収納などの機能性を評価している。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "バックパック"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "90aa6328ba79e33d",
-   "url": "https://encount.press/archives/1082209/2",
-   "title_original": "87歳・小林旭、建築費5億円の“300坪”大豪邸を公開も…「無用の長物」と売却へ テーブルだけで1000万円超も",
-   "source": "ENCOUNT",
-   "image": "https://encount.press/wp-content/uploads/2026/10/14125240/98004d7bdb045a4f42cdff3c57ea781b.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-15T10:20:15+00:00",
-   "title_ja": "87歳の小林旭が「無用の長物」として5億円の大豪邸を売却することを明かした話",
-   "summary_ja": "87歳の小林旭が、かつて建てた建築費5億円・300坪の大豪邸を「無用の長物」と表現し、売却を決意したことを伝えるニュース。1000万円超のテーブルなど豪華な所有物があるものの、暮らしの規模を見直し手放す判断をした。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [
-    "住宅",
-    "テーブル"
    ],
    "importance": 3
   }
