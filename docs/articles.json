@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T05:35:21.745742+09:00",
+ "updated_at": "2026-10-26T12:52:51.240641+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,42 +27,44 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-26T05:35:54.225715+09:00",
+  "generated_at": "2026-10-26T12:54:09.710872+09:00",
   "days": 3,
-  "period": "10月24日〜10月26日",
+  "period": "10月25日〜10月26日",
   "count": 45,
-  "reduce_count": 23,
-  "own_count": 22,
-  "overview": "不要な物や目標を手放す減らし方の工夫と、厳選した愛用品を長く大切に使う持ち物の実例が幅広く語られています。",
-  "reduce": "物を減らすだけでなく、思い込みや不要な買い物をやめる習慣、目標の整理による時間や心の余裕の作り方が紹介されています。",
-  "own": "無印良品の定番アイテムや機能的なガジェットなど、日常の小さなストレスを解消するお気に入りの道具選びが注目されています。",
+  "reduce_count": 26,
+  "own_count": 19,
+  "overview": "持ち物の減らし方や手放すコツに加え、無印良品などの愛用品や収納術を活用したシンプルな暮らしぶりが多数語られています。",
+  "reduce": "調理用バットやストック品など日用品の見直しや、クローゼットの断捨離を通じて不要な物を手放す工夫が語られています。",
+  "own": "無印良品のカードケースやパジャマ、少ない服での着回し術など、日常を快適にする厳選された愛用品が紹介されています。",
   "points": [
    {
-    "title": "手放す基準と工夫",
-    "body": "全持ち物の8割処分を掲げる宣言や、クローゼットや調理用バットの数を大幅に減らすなど、暮らしの中で必要な量を見直す体験談が複数見られます。"
+    "title": "服や旅行の荷物を絞る",
+    "body": "下着を含めて総数20着で暮らす元アパレル店員が、4泊5日の旅行でも服を3着に絞りリュック1つにまとめた工夫を紹介しています。"
    },
    {
-    "title": "無印良品の活用術",
-    "body": "編集部員や愛好家が使い続けるパジャマやブナ材マッサージツール、カードケースなど、身近な無印良品のアイテムで日常を快適にする工夫が語られています。"
+    "title": "ストックや日用品の見直し",
+    "body": "調理用バットの枚数を減らしたり、不安から増えたストック品や余計な買い物をやめることで、散らかりを防ぐ習慣が提案されています。"
    },
    {
-    "title": "旅と持ち歩き道具",
-    "body": "4泊5日の旅行で服を3着に絞った元アパレル店員の工夫や、超軽量エコバッグ、カメラ用ガジェットの持ち運びなど、身軽な移動スタイルが紹介されています。"
+    "title": "無印良品アイテムの活用",
+    "body": "衣類用ケースやブナ材マッサージツール、ガーゼパジャマなど、日々の暮らしや収納のストレスを解消する定番品が愛用されています。"
    }
   ],
   "keywords": [
-   "断捨離",
    "無印良品",
-   "ミニマリスト"
+   "断捨離",
+   "手放す",
+   "持たない暮らし",
+   "収納"
   ]
  },
  "things": [
   {
-   "name": "ベッド",
-   "count": 7
+   "name": "服",
+   "count": 8
   },
   {
-   "name": "服",
+   "name": "ベッド",
    "count": 7
   },
   {
@@ -86,7 +88,7 @@
    "count": 4
   },
   {
-   "name": "財布",
+   "name": "バッグ",
    "count": 4
   },
   {
@@ -106,10 +108,6 @@
    "count": 3
   },
   {
-   "name": "バッグ",
-   "count": 3
-  },
-  {
    "name": "メガネ",
    "count": 3
   },
@@ -122,11 +120,15 @@
    "count": 3
   },
   {
-   "name": "カメラ",
-   "count": 2
+   "name": "財布",
+   "count": 3
   },
   {
-   "name": "カードケース",
+   "name": "靴",
+   "count": 3
+  },
+  {
+   "name": "カメラ",
    "count": 2
   },
   {
@@ -142,15 +144,11 @@
    "count": 2
   },
   {
+   "name": "タイニーハウス",
+   "count": 2
+  },
+  {
    "name": "トレーラー",
-   "count": 2
-  },
-  {
-   "name": "ニット",
-   "count": 2
-  },
-  {
-   "name": "パンツ",
    "count": 2
   },
   {
@@ -180,14 +178,9 @@
   {
    "name": "雑貨",
    "count": 2
-  },
-  {
-   "name": "靴",
-   "count": 2
   }
  ],
  "sources": [
-  "9News",
   "A Slob Comes Clean",
   "AERA DIGITAL",
   "Apartment Therapy",
@@ -248,6 +241,7 @@
   "Yahoo!ニュース",
   "YouTube",
   "au Webポータル",
+  "autoevolution",
   "cristinaiglesias.com",
   "freeyork",
   "note",
@@ -270,6 +264,7 @@
   "ミニマリストしぶ",
   "ミニマリストじゅん",
   "モデルプレス",
+  "ヨムーノ",
   "ライフハッカー・ジャパン",
   "ライブドアニュース",
   "千葉テレビ放送",
@@ -277,6 +272,7 @@
   "双葉社 THE CHANGE",
   "婦人公論.jp",
   "小さな暮らしノート",
+  "山陽新聞",
   "朝日新聞",
   "私だけミニマリスト｜南さやか",
   "筆子ジャーナル",
@@ -284,6 +280,112 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "f9b2d8c0add85555",
+   "url": "https://note.com/migalu_minimal/n/n3ba03c29c19d",
+   "title_original": "部屋は片付いた。でも、ネットに置いたものは覚えていますか。",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/327679733/rectangle_large_type_2_7f734ba687e24826edd5a1db27e715e6.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-26T03:17:40+00:00",
+   "title_ja": "ミニマリスト歴12年の30代パパの暮らし",
+   "summary_ja": "ミニマリスト歴12年で妻と娘2人と暮らす30代パパが、部屋の片付けやデジタル上の管理について振り返るブログ記事の導入部分。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "4972db888ff47ea6",
+   "url": "https://note.com/20chaku/n/nb92444f9e965",
+   "title_original": "迷った服は、一度「捨てたこと」にする",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/328392721/rectangle_large_type_2_54d1ad927ebef7d9f7a83d793d954fbf.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-26T02:58:40+00:00",
+   "title_ja": "下着から靴まで20着で暮らす元アパレル店員の服の減らし方",
+   "summary_ja": "下着や靴を含めて総数20着で暮らす元アパレル店員が、迷った服を一時保管するボックスを使った手放し方や、着回しやすい服の選び方を紹介。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服",
+    "下着",
+    "靴",
+    "バッグ"
+   ],
+   "importance": 5
+  },
+  {
+   "id": "727de42e05594c95",
+   "url": "https://minimalist-fudeko.com/let-go-of-busyness",
+   "title_original": "休んでも疲れが取れない人へ。忙しさという重荷を下ろす3つの方法（TED）",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/09/relax-time.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-26T00:10:48+00:00",
+   "title_ja": "忙しさの重荷を下ろす3つの方法（TED紹介）",
+   "summary_ja": "TEDトーク『The Burden of Busyness』から、忙しさを減らす具体的な3つのアプローチを紹介し、心の軽減を提案している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "35bde2317328c007",
+   "url": "https://www.autoevolution.com/news/this-rustic-french-tiny-house-is-what-makes-tiny-living-wholesome-277517.html",
+   "title_original": "This Rustic French Tiny House Is What Makes Tiny Living Wholesome",
+   "source": "autoevolution",
+   "image": "https://s1.cdn.autoevolution.com/images/news/this-rustic-french-tiny-house-is-what-makes-tiny-living-wholesome-277517_1.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-25T23:06:01+00:00",
+   "title_ja": "フランスの田舎風タイニーハウスが示す小さく暮らす魅力",
+   "summary_ja": "フランスにある素朴なタイニーハウスを取り上げ、コンパクトな住まいがもたらす心地よさとミニマルな生活のポイントを紹介。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [
+    "タイニーハウス",
+    "木造住宅"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "28d10fba1cea1e23",
+   "url": "https://sandigi-www.webow.jp/article/1988269",
+   "title_original": "綾瀬はるか、真っ赤なバブル時代風スーツ着こなす 断捨離できない自分を反省「“いつか使うかも軍団”の壁が超えられない」",
+   "source": "山陽新聞",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-25T21:43:57+00:00",
+   "title_ja": "綾瀬はるかが明かす断捨離の悩み",
+   "summary_ja": "いつか使うかもと思って物が捨てられない自身の断捨離の悩みと反省について語っている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "2fbca537070dbd3b",
+   "url": "https://yomuno.jp/posts/143659",
+   "title_original": "【無印良品】キッチン棚が劇的に整う「衣類用ケース」活用術",
+   "source": "ヨムーノ",
+   "image": "https://image.yomuno.jp/store/article/143659/header_image/large-d283113eaf88d36caf0a4fafa4594aa5.jpeg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-25T20:02:50+00:00",
+   "title_ja": "無印良品の衣類用ケースでキッチン棚を整える活用術",
+   "summary_ja": "無印良品の衣類用ケースを使ってキッチンの収納棚をきれいに整える方法を紹介している。収納や片づけの工夫が分かる内容。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "衣類用ケース"
+   ],
+   "importance": 3
+  },
   {
    "id": "44c9f774fc7873b3",
    "url": "https://note.com/mild_wren2165/n/nbd87b07ba352",
@@ -350,6 +452,22 @@
    "things": [
     "家"
    ],
+   "importance": 3
+  },
+  {
+   "id": "748fa68026ccff64",
+   "url": "https://media.unisba.ac.id/32988dc4/1b152e3c9j1S_xZz5Tw",
+   "title_original": "断捨離提唱者 心と体を整える伝説の朝ごはん やましたひでこ編｜Decluttering Pioneer – Legendary Breakfast In Japan Malvern (jOirAPtlPJ)",
+   "source": "Unisba Media",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-25T15:18:04+00:00",
+   "title_ja": "断捨離提唱者・やましたひでこが実践する朝食",
+   "summary_ja": "断捨離の提唱者やましたひでこさんが、心身を整えるとされる伝説の朝食の内容とその意図を紹介しています。シンプルな食材で作り、ミニマリスト的な生活習慣の一環として提案しています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -437,6 +555,26 @@
    "axis": "own",
    "things": [
     "マッサージツール"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "8e3ecacc13f51637",
+   "url": "https://tinyhousetalk.com/camp-v-naturita-colorado-art-getaway",
+   "title_original": "Camp V: A 1940s Mining Camp in Colorado Reborn as an Art-Filled Getaway",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/camp-v-colorado-prairie-wind-chapel-aerial.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-25T11:45:02+00:00",
+   "title_ja": "コロラド旧鉱山キャンプがアート満載のミニリトリートに",
+   "summary_ja": "コロラド州の1942年築ウラン鉱山キャンプが改装され、キャビンやヨガスタジオ、スイミングポンドなどを備えた小規模なアートリトリート『Camp V』として公開され、宿泊予約が可能になっています。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "キャビン",
+    "ヨガスタジオ",
+    "スイミングポンド"
    ],
    "importance": 2
   },
@@ -4576,27 +4714,6 @@
    "importance": 4
   },
   {
-   "id": "1778474061cd37f1",
-   "url": "https://note.com/simple_aki/n/n84f907257b60",
-   "title_original": "【40代OL】秋服は14着。少ない服で暮らすために変えたこと",
-   "source": "note #少ない服で暮らす",
-   "image": "https://assets.st-note.com/production/uploads/images/326535641/rectangle_large_type_2_75c5ea6d0eb6c40cb519c82593133a19.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-20T10:35:42+00:00",
-   "title_ja": "40代OLが秋服を14着にした実践例",
-   "summary_ja": "40代OLが秋は全14着で過ごすと宣言。春服と兼用し、仕事・休日どちらでも着回せるキレイめアイテムだけを選び、服の数を減らす具体的な基準とコツを紹介。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "ジャケット",
-    "ニット",
-    "パンツ",
-    "ワンピース"
-   ],
-   "importance": 3
-  },
-  {
    "id": "c239d572e849ee45",
    "url": "https://www.roomie.jp/2026/10/1901286",
    "title_original": "掃除嫌いな私が手放せなくなったスポンジ。ホコリがごっそり取れて、水回りもピカピカになった！",
@@ -7181,126 +7298,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 4
-  },
-  {
-   "id": "ffb7616d8d50f3bc",
-   "url": "https://www.lifehacker.jp/article/2610-costorypo-garzini-review1-1218899641",
-   "title_original": "話題のカードスライダー付き財布。使い心地を実際に検証してみました",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/10/14/dbf55473-d094-4253-a766-a2d0ef033360/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-16T02:30:00+00:00",
-   "title_ja": "カードが飛び出すコンパクト革財布の使い心地",
-   "summary_ja": "レバーでカードが階段状に飛び出すスライダー付き財布を検証。最大10枚収納でき、上質な本革とスマートな決済が特徴。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "財布",
-    "カードケース"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "0296cf3eadf88986",
-   "url": "https://www.roomie.jp/2026/10/1907815",
-   "title_original": "評判がよくて気になっていた、オルビスの名作日焼け止め。「トライアルサイズ」から試して正解だった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/261016_amazon_01.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-16T02:10:10+00:00",
-   "title_ja": "オルビスの名作日焼け止めをトライアルサイズで試す",
-   "summary_ja": "気になっていたオルビスの日焼け止めを、ポーチに収まるミニサイズで試した感想。持ち運びに便利なサイズ感を紹介している。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "日焼け止め"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "71cd02ab01a0ef9b",
-   "url": "https://minimalist-fudeko.com/visit-nature",
-   "title_original": "自然は、家に置くものではなく、会いに行くもの",
-   "source": "筆子ジャーナル",
-   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/09/sitting-on-the-bench.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-16T00:10:40+00:00",
-   "title_ja": "部屋に観葉植物を置かないことで管理の手間を手放した話",
-   "summary_ja": "癒やしを求めて部屋に緑や花を置いても、水やりなどの管理や物の増加でかえって心が休まらないことがある。自然は家の中で飾るのではなく、外へ会いに行くものと捉え直す考え方。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "8a741d6763b6b77f",
-   "url": "https://news.livedoor.com/article/detail/32578609",
-   "title_original": "借金460万円から貯金400万円へ！実家暮らしミニマリストが実践する「お金が貯まる」3つの習慣",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-16T00:07:04+00:00",
-   "title_ja": "借金から貯金へ、実家暮らしミニマリストが実践したお金の習慣",
-   "summary_ja": "多額の借金状態から貯金を築いた実家暮らしのミニマリストが、お金を貯めるために実践している3つの習慣について紹介している内容。暮らしを見直すことで資産形成を目指す。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "b39eeaf299c057b6",
-   "url": "https://www.chiba-tv.com/plus/detail/2026102119302",
-   "title_original": "モノが減れば家事は7割減る ミニマリストが教える「面倒くさい」をなくす3つのポイント",
-   "source": "千葉テレビ放送株式会社",
-   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1483608655986181565/origin_1.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-15T23:32:18+00:00",
-   "title_ja": "モノを減らして家事を7割減らす、面倒くささをなくすポイント",
-   "summary_ja": "持ち物を減らすことで毎日の家事を大幅に削減し、暮らしの面倒くささを解消するための3つのポイントをミニマリストが解説している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "0399601a63d414d1",
-   "url": "https://www.9news.com/video/life/bee-organized-shelves-organize-declutter-kitchen/73-4b55f420-72f5-4d7f-aff7-a3e67b79efe2",
-   "title_original": "Simple, multi-functional shelves, organizers to declutter a kitchen",
-   "source": "9News",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-15T23:04:00+00:00",
-   "title_ja": "キッチンの整理整頓に役立つ多機能でシンプルな収納棚",
-   "summary_ja": "キッチンのごちゃつきを解消するために、シンプルで多機能な棚やオーガナイザーを活用してスペースをすっきりと整える方法を紹介している。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "棚",
-    "オーガナイザー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "91903004e78259a3",
-   "url": "https://www.youtube.com/watch?v=Oo5Hv8spLSI",
-   "title_original": "5 Organizing Mistakes (that keep us CLUTTERED!)",
-   "source": "The Minimal Mom",
-   "image": "https://i4.ytimg.com/vi/Oo5Hv8spLSI/hqdefault.jpg",
-   "media": "youtube",
-   "region": "海外",
-   "published": "2026-10-15T20:55:21+00:00",
-   "title_ja": "片付けが片付かない原因になる5つの間違い",
-   "summary_ja": "クリスマスの時期に向けて、ギフトや食事、装飾などをシンプルにしてストレスを減らす方法について紹介している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
   }
  ]
 }
