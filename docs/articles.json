@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T13:15:21.425063+09:00",
+ "updated_at": "2026-10-27T20:49:35.014555+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,46 +27,41 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-27T13:16:35.406287+09:00",
+  "generated_at": "2026-10-27T20:50:18.286233+09:00",
   "days": 3,
   "period": "10月26日〜10月27日",
   "count": 45,
   "reduce_count": 25,
   "own_count": 20,
-  "overview": "持ち物の見直しや手放し方、タイニーハウスやガジェットを活用したコンパクトな暮らしの工夫など、日々の生活をシンプルに整えるアイデアが多方面から語られています。",
-  "reduce": "不用品の行き先調べや夏服の整理など、具体的な片付けの手順や悪習慣を手放す考え方が数多く紹介されています。",
-  "own": "財布とスマホをまとめるポーチや無印良品のアイテムなど、身軽な外出や快適な室内を支える道具や住まいの実例が語られています。",
+  "overview": "キッチンやクローゼットの具体的な整理術から、デジタルデトックスや心構えといった心の習慣まで、暮らしを身軽にするための実践的な工夫が広く語られています。",
+  "reduce": "不要なアイテムを手放す具体的な手順や、散らかりやすい場所を見直すための整理術に関する話題が多く見られます。",
+  "own": "身軽な外出を叶える薄型ガジェットや、機能的でシンプルな無印良品のアイテムを活用した暮らしの実例が紹介されています。",
   "points": [
    {
-    "title": "手放す判断とコツ",
-    "body": "不用品の行き先を事前に調べたり、勢いで捨てて後悔しないための見直し基準など、手放す際の具体的な判断や工夫が複数の記事で語られています。"
+    "title": "キッチンの見直し",
+    "body": "専門家や体験者によるキッチン周りの整理術が多く語られています。冷蔵庫の100均収納や、今すぐ処分すべき10のアイテム、計量の手間を減らす便利グッズの導入などが紹介されています。"
    },
    {
-    "title": "タイニーハウスの活用",
-    "body": "水回りを別棟にしたり最小限の構造から始めたりと、限られた小さな居住空間を快適に使いこなすための様々な実例が紹介されています。"
+    "title": "タイニーハウスの実例",
+    "body": "限られた面積で暮らすタイニーハウスの事例が複数取り上げられています。ウレタン断熱や別棟の水回りでスペースを工夫する様子や、必要に応じて構造を追加する設計が紹介されています。"
    },
    {
-    "title": "無印良品の愛用品",
-    "body": "卓上用ティッシュやジップジャケット、ドリップケトルなど、生活感を減らしてシンプルに暮らすための無印良品アイテムの活用法が注目されています。"
-   },
-   {
-    "title": "スマホ周辺の軽量化",
-    "body": "スマホと財布を一体化させるポーチや薄型スタンド、充電の工夫など、外出や日常の持ち物を小さく軽くする実例が多く取り上げられています。"
+    "title": "手放す際の心構え",
+    "body": "物を減らす際の迷いや後悔を防ぐための考え方が語られています。不用品の行き先を事前に調べることや、勢いで捨てて後悔するかもしれないアイテムについての注意点が共有されています。"
    }
   ],
   "keywords": [
-   "減らし方",
-   "手放す",
-   "タイニーハウス",
    "無印良品",
-   "ガジェット",
-   "収納"
+   "タイニーハウス",
+   "断捨離",
+   "キッチン",
+   "ガジェット"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 9
+   "count": 10
   },
   {
    "name": "スマホ",
@@ -81,15 +76,19 @@
    "count": 7
   },
   {
-   "name": "本",
-   "count": 5
-  },
-  {
    "name": "iPhone",
    "count": 4
   },
   {
+   "name": "キッチン",
+   "count": 4
+  },
+  {
    "name": "ケーブル",
+   "count": 4
+  },
+  {
+   "name": "本",
    "count": 4
   },
   {
@@ -101,15 +100,19 @@
    "count": 3
   },
   {
-   "name": "キッチン",
-   "count": 3
-  },
-  {
    "name": "シャワー",
    "count": 3
   },
   {
+   "name": "タイニーハウス",
+   "count": 3
+  },
+  {
    "name": "バックパック",
+   "count": 3
+  },
+  {
+   "name": "リュック",
    "count": 3
   },
   {
@@ -137,10 +140,6 @@
    "count": 2
   },
   {
-   "name": "クラウドストレージ",
-   "count": 2
-  },
-  {
    "name": "シャツ",
    "count": 2
   },
@@ -154,10 +153,6 @@
   },
   {
    "name": "ソファ",
-   "count": 2
-  },
-  {
-   "name": "タイニーハウス",
    "count": 2
   },
   {
@@ -177,15 +172,15 @@
    "count": 2
   },
   {
+   "name": "ミニバッグ",
+   "count": 2
+  },
+  {
    "name": "メガネ",
    "count": 2
   },
   {
    "name": "ラベル",
-   "count": 2
-  },
-  {
-   "name": "リュック",
    "count": 2
   },
   {
@@ -254,12 +249,12 @@
   "T3",
   "TRILL",
   "The Canberra Times",
-  "The Guardian",
   "The Guardian（暮らし）",
   "The Minimal Mom",
   "The Minimalists",
   "The Simplicity Habit",
   "The Spruce",
+  "The Sun",
   "Tiny House Talk",
   "Union News Daily",
   "Unisba Media",
@@ -280,7 +275,6 @@
   "note #持たない暮らし",
   "note #断捨離",
   "pmg-ky2.com",
-  "tech-insider.org",
   "うにのゆるシンプルな暮らし",
   "ねとらぼ",
   "ぴーこ｜ゆるっとミニマルな日常",
@@ -311,6 +305,221 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "686a2265c715a962",
+   "url": "https://note.com/jazzy_broom4748/n/n579d8d3e6235",
+   "title_original": "迷う迷う",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/329194673/rectangle_large_type_2_ac5e424e05f03059098096d072144c89.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-27T11:44:47+00:00",
+   "title_ja": "予算オーバーでも厳選して買った服の話",
+   "summary_ja": "コムデギャルソンのゲリラストアで買い物をした際、予算を大きく超えてしまった。しかし、迷って選んだ厳選されたアイテムであるため、大切に使おうと思える。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "服"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "0d241f21562198e4",
+   "url": "https://tinyhousetalk.com/14x44-gsx-tiny-home-finished-one-bedroom-spray-foam-corner-kitchen",
+   "title_original": "14×44 GSX Tiny Home: A Finished One-Bedroom with Spray-Foam Walls and a Corner Kitchen",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/fob-14x44-gsx-240588-exterior.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-27T11:30:00+00:00",
+   "title_ja": "ウレタン断熱と角型キッチンを備えたタイニーハウス",
+   "summary_ja": "ミシシッピ州のメーカーが手がけた、1ベッドルーム・1バスルーム仕様のポータブルなタイニーハウス。壁と天井にウレタン断熱が施され、コーナーキッチンを備えている。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "タイニーハウス",
+    "キッチン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "f4b4fefb09060052",
+   "url": "https://www.lifehacker.jp/article/machi-ya-3ktable-review-983957",
+   "title_original": "いつものショルダーバッグにすっぽり。コンパクトなミニテーブルでおうちキャンプを楽しんでみた",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/10/18/2b658242-d87c-4860-bd91-669c8ecef372/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-27T11:30:00+00:00",
+   "title_ja": "ショルダーバッグに入る約430gの軽量ミニテーブル「3K TABLE」のレビュー",
+   "summary_ja": "約430gと超軽量なカーボン製ミニテーブル「3K TABLE」の使用感を解説。工具不要で簡単に組み立てられ、ショルダーバッグに収まるサイズながら拡張ギミックを備えています。おうちキャンプやテラスでの使用に最適なアイテムです。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ミニテーブル",
+    "3K TABLE",
+    "ショルダーバッグ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5b22b48b6ec86eae",
+   "url": "https://www.thesun.co.uk/fabulous/40776686/next-cotton-cardigan-sale",
+   "title_original": "Shoppers rave over Next's £9 cotton cardigans — they are perfect capsule wardrobe staples and 'go with ANY outfit'",
+   "source": "The Sun",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-27T11:16:00+00:00",
+   "title_ja": "着回し力が高くカプセルワードローブに最適な綿カーディガンの評判",
+   "summary_ja": "どんな服装にも合わせやすいと評価されているNextの9ポンドのコットンカーディガンを紹介。優れた着回し力により、最小限の服で回すカプセルワードローブの定番アイテムとして買い物客から人気を集めています。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "コットンカーディガン"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "26bcbaaabcef9a90",
+   "url": "https://news.nicovideo.jp/watch/nw19924657?news_ref=search_search",
+   "title_original": "“人には見せられない”冷蔵庫、100均アイテムで整理すると…… 見違える結果に「見ててとてもスッキリな気分」「やる気ス",
+   "source": "ニコニコニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-27T11:15:42+00:00",
+   "title_ja": "散らかった冷蔵庫を100均アイテムでスッキリ整理した実践例",
+   "summary_ja": "人に見せられない状態だった冷蔵庫を、100円ショップのアイテムを使ってスッキリと整理整頓した事例。見違えるようにきれいになった結果に対して、見ていて気持ちがよくやる気が出ると話題を集めています。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "100均アイテム",
+    "冷蔵庫"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "dfaf0e98754f5802",
+   "url": "https://www.southernliving.com/things-toss-kitchen-12173528",
+   "title_original": "10 Things Experts Say To Toss From Your Kitchen Right Now",
+   "source": "Southern Living",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-27T11:15:28+00:00",
+   "title_ja": "専門家が教えるキッチンから今すぐ手放すべき10個のアイテム",
+   "summary_ja": "専門家が提案する、キッチンから今すぐ処分すべき10のアイテムについての解説。物が溜まりやすいキッチン周りをスッキリと整理し、使いやすい空間を作るための手放し方のヒントを紹介しています。",
+   "category": "キッチン・食",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "9cbdc01e57f1ea56",
+   "url": "https://www.youtube.com/watch?v=NLy3l-SPy5E",
+   "title_original": "【QA：親の介護・大きな家】「私がやらなきゃ」と悩むあなたへ…。1人で抱え込む不安を和らげる「自分への許可」と断捨離の極意＜青木さやかさん対談＞",
+   "source": "やましたひでこ断捨離",
+   "image": "https://i3.ytimg.com/vi/NLy3l-SPy5E/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-10-27T11:00:05+00:00",
+   "title_ja": "親の介護や大きな家の片づけで悩む人への断捨離の極意",
+   "summary_ja": "「自分がやらなきゃ」と一人で抱え込んでしまう不安を和らげるための、自分への許可と断捨離の考え方について語っています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "51b8ca1ff8b92806",
+   "url": "https://www.roomie.jp/2026/10/1911522",
+   "title_original": "移動中はリュックの便利ポケット、着いたら散策用。このミニバッグがお出かけに便利でした",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/kv3_16by9-1-scaled.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-27T10:45:42+00:00",
+   "title_ja": "リュックに合体させて持ち運べる便利なミニバッグ",
+   "summary_ja": "旅行や外出時の移動中はリュックに合体させ、目的地では散策用として使えるミニバッグを活用している事例です。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "ミニバッグ",
+    "リュック"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "492666071b9e1a98",
+   "url": "https://www.roomie.jp/2026/10/1916409",
+   "title_original": "「無印良品の割烹着」で家事中のあたふたがなくなった。ポケット＆ループ付きで、エプロンより機能的かも",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/shiro_kappougi_260504_top.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-27T10:30:16+00:00",
+   "title_ja": "無印良品の割烹着で家事がラクになった話",
+   "summary_ja": "エプロンにこだわりを持つ執筆者が、肩が凝らず機能的な無印良品の割烹着を導入したことで、家事中のストレスが減ったと紹介しています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "割烹着"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "68ef19ebcf5fa6f5",
+   "url": "https://www.theguardian.com/technology/2026/oct/27/gen-z-digital-detox-apps",
+   "title_original": "‘My social life completely plummeted’: gen Z is fighting back against big tech",
+   "source": "The Guardian（暮らし）",
+   "image": "https://i.guim.co.uk/img/media/7ee2fa03bca99eb0692712afe9a5f5691be9e3e4/1025_0_6440_5152/master/6440.jpg?width=140&quality=85&auto=format&fit=max&s=ebbe85b844bcbc75c8b2812a86351342",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-27T10:00:08+00:00",
+   "title_ja": "デジタルデトックスでスマホから離れる若者たち",
+   "summary_ja": "SNSの利用によって私生活に影響が出たと感じた若者たちが、誘惑を断つアプリや機能をそぎ落としたシンプルな携帯電話を使ってオフラインの時間を増やしている話。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "携帯電話"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "fca65712f18bc2e2",
+   "url": "https://note.com/yohakurashi/n/n73e9c9e2e7b2",
+   "title_original": "使い切らなくても捨てる",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/329111453/rectangle_large_type_2_18154c79600130248c1118925eb65ff8.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-27T09:52:44+00:00",
+   "title_ja": "使い切らずに捨てるときの心苦しさと対処法",
+   "summary_ja": "著者はミニマリスト生活で残っている物を捨てるのが心苦しいと感じ、布類などは使い切ってから処分するようにしていたと語る。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "布類"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e4d8e2945b1ec02c",
+   "url": "https://topics.smt.docomo.ne.jp/article/liniere/life/liniere-118014",
+   "title_original": "【無印良品週間で買いたい】キッチングッズおすすめ8選！使うたびにもっと好きになる、ゆるミニマリストの愛用品",
+   "source": "ｄメニューニュース",
+   "image": "https://img.topics.smt.news.goo.ne.jp/picture/liniere/m_liniere-118014.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-27T09:30:00+00:00",
+   "title_ja": "ゆるミニマリストが選ぶMujiキッチングッズ8選",
+   "summary_ja": "無印良品のキッチン用品8点を紹介し、使うたびに好きになるシンプルで機能的なアイテムとしてミニマリストにおすすめしている。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "6dabb16fdfeb4a31",
    "url": "https://note.com/tender_otter9149/n/n722d205a1dcb",
@@ -5058,43 +5267,6 @@
    "importance": 3
   },
   {
-   "id": "16562c520cd90e16",
-   "url": "https://note.com/blog3969/n/nebf32b836396",
-   "title_original": "「筋肉が全て」を購入",
-   "source": "note #ミニマリスト",
-   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/f73e630d32c63a1be5222210ed415e91a3ef3f3f.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-20T16:25:07+00:00",
-   "title_ja": "本を買わない誓いを破り購入した本と日々の記録",
-   "summary_ja": "もう本は買わないと決めていたにもかかわらず、モチベーションを高めるためにメルカリで本を購入してしまった日の記録。歯医者に行ったことや睡眠時間のずれなど、日常の出来事もつづられている。",
-   "category": "心・習慣",
-   "axis": "own",
-   "things": [
-    "本"
-   ],
-   "importance": 1
-  },
-  {
-   "id": "4421ebc7fce9e35b",
-   "url": "https://note.com/dapper_human5445/n/n242b3f4a7feb",
-   "title_original": "【365日初体験｜DAY20】靴下が約15足。俺、足何本あるんだ？",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/326641261/rectangle_large_type_2_3cfc0c51bae801d2e4ef725806c27e54.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-20T16:09:58+00:00",
-   "title_ja": "靴下の数を見直して手放す理由を考えた日のこと",
-   "summary_ja": "一日一捨を続ける中で、約15足あった靴下を見直した体験。足は2本なのになぜこれほど持っていたのか、残していた理由を初めて言葉にして振り返り、使っていない靴下と向き合うきっかけとなった。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "靴下",
-    "パンツ"
-   ],
-   "importance": 4
-  },
-  {
    "id": "a1be4e5d714925b5",
    "url": "https://www.lifehacker.jp/article/machi-ya-graphenesleepingbag-start-987070",
    "title_original": "気温に合わせて中綿が変化。エアロゲル✕グラフェンの高性能寝袋",
@@ -7154,179 +7326,6 @@
     "家族写真"
    ],
    "importance": 4
-  },
-  {
-   "id": "802ac688d9b47364",
-   "url": "https://www.lifehacker.jp/article/2610-you-dont-need-google-apps-on-your-phone-anymore-try-these-instead",
-   "title_original": "プライバシーを守りながら快適に使える、Googleアプリの代替ツール6選",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/10/15/15c42c56-e3ba-4098-a33b-7ffd0b6c2b94/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-17T03:00:00+00:00",
-   "title_ja": "プライバシー保護しながら使えるGoogle代替アプリ6選",
-   "summary_ja": "位置情報や行動データの収集を避けつつ、メール・マップ・ブラウザ・写真・カレンダー・クラウドの6項目で快適に使えるGoogleアプリ代替ツールを厳選して紹介します。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "メールアプリ",
-    "マップアプリ",
-    "ブラウザ",
-    "クラウドストレージ"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "bb8348f4968a5683",
-   "url": "https://www.lifehacker.jp/article/amazon-sale-nanobubble",
-   "title_original": "洗濯機のホースにつなぐだけ。見えない泡がもたらした、天気に左右されない洗濯の余裕",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/07/09/b9a7d6aa-37d8-4d37-891d-31fc5f24a817/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-17T02:30:00+00:00",
-   "title_ja": "洗濯機ホースに付けるだけのナノバブル装置レビュー",
-   "summary_ja": "洗濯機の給水ホースに接続するだけで微細ナノバブルを発生させ、部屋干し臭の軽減や洗浄力向上を実感。天候に左右されず快適に洗濯できる点を2年半の使用感と共にレビューしています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ナノバブル装置"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "87d156612c8dfd02",
-   "url": "https://tech-insider.org/au/ai-data-privacy-digital-declutter-2026",
-   "title_original": "AI Can Keep Your Data for 5 Years: How to Declutter [2026]",
-   "source": "tech-insider.org",
-   "image": "https://tech-insider.org/au/wp-content/uploads/sites/9/2026/10/ai-data-privacy-digital-declutter-2026-gen.webp",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-17T02:02:02+00:00",
-   "title_ja": "AIでデータを5年保存しつつデジタル整理する方法",
-   "summary_ja": "AIを活用し、データを最大5年間保存しながら不要なファイルを自動で削除する仕組みを解説します。デジタル情報の整理で生活空間をすっきりさせる手順が示されています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "973ea6ba127516ec",
-   "url": "https://www.lifehacker.jp/article/2610-lht-workman-recovery-wear-2",
-   "title_original": "「リカバリーウェア＝高い」のイメージが崩れた。ワークマンなら1着2900円、薄いのに暖かくて仕事モードもオフになる",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/10/08/814a522d-959b-44da-9539-ac70d3d339cb/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-17T02:00:00+00:00",
-   "title_ja": "ワークマンのリカバリーウェアで快適に過ごすおうち時間",
-   "summary_ja": "手頃な価格で購入できるワークマンのリカバリーウェア「メディヒール コスモス」の着心地を紹介。締め付けのないサラッとした着用感で、リラックスした部屋着として活用している様子を伝えています。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "リカバリーウェア"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "00f6b9ed9b2c0ae1",
-   "url": "https://www.roomie.jp/2026/10/1908541",
-   "title_original": "鍵やイヤホンもまとめてぶら下げ管理。スマホは1秒で取り外せる万能ショルダーストラップ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/angelwings4.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-17T00:45:44+00:00",
-   "title_ja": "ワンアクションで外せる便利なスマホショルダーストラップ",
-   "summary_ja": "鍵やイヤホンも一緒に持ち運べ、使いたい時にスマホを1秒で取り外せるRovyVonのショルダーストラップの使用感をレビュー。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "スマホストラップ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "d983c3e4bbf9c5ff",
-   "url": "https://www.southernliving.com/how-often-clean-closet-12178569",
-   "title_original": "How Often Should You Clean Out Your Closet? Here’s What Organizing Pros Recommend",
-   "source": "Southern Living",
-   "image": "https://www.southernliving.com/thmb/8HDVeDdlmz9KvWtjBI8Z8wm6oRI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2161186817-9297239807094de18b92c61256aee68a.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-17T00:19:29+00:00",
-   "title_ja": "クローゼット整理の頻度とプロのおすすめ方法",
-   "summary_ja": "整理のプロが推奨するクローゼットの見直し頻度と、効果的な片付け手順を紹介。季節ごとや使用頻度に合わせたタイミングで不要な服を減らすポイントが解説されています。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "e818eb9d171d9d54",
-   "url": "https://minimalist-fudeko.com/too-many-coloring-supplies",
-   "title_original": "2、3回生まれ変わらないと使い切れない。塗り絵の画材を買いすぎた話",
-   "source": "筆子ジャーナル",
-   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/10/clourling-goods.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-17T00:10:10+00:00",
-   "title_ja": "趣味の道具を買いすぎて使い切れない話",
-   "summary_ja": "趣味を始めると道具や素材が次々と欲しくなり、増えすぎてしまう現象についての気づき。使い切れないほどの画材を買ってしまった失敗談から、ものの持ち方を見つめ直す。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "塗り絵の画材"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "01d7fdfb0691caeb",
-   "url": "https://www.youtube.com/shorts/1eRXiiVZsBA",
-   "title_original": "脱衣所にあるもの、これだけ。【ミニマリストの暮らし】",
-   "source": "小さな暮らしノート",
-   "image": "https://i2.ytimg.com/vi/1eRXiiVZsBA/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-10-17T00:00:40+00:00",
-   "title_ja": "脱衣所をシンプルに保つミニマリストの実例",
-   "summary_ja": "脱衣所に必要最低限のものだけを置き、洗濯・干し・収納を一箇所にまとめたミニマリストの実践例です。シンプル化により夜の時間に余白ができ、子育て中でも自分の時間を確保できると語っています。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "a3514dc0d4f0df85",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/17/decluttering-online-how-to-get-your-digital-house-in-order-protect-data-ai",
-   "title_original": "Decluttering your online life: how to get your digital house in order and protect your data from AI",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/d4abb0e3366322b29d9410f1fbd2e8132118491a/0_0_6755_5407/master/6755.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=efaa873d2b1797de171332a405d61143",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-16T23:00:00+00:00",
-   "title_ja": "デジタルデータを整理してプライバシーを守る方法",
-   "summary_ja": "オンライン上のデジタルスペースを整理整頓し、個人データをAIの脅威から保護するための手順や考え方について解説しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "e1b9ec0baffe662a",
-   "url": "https://bemorewithless.com/weekend-favorites-october-17-2026/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
-   "title_original": "the neuroscience of decluttering + the 5-wear rule",
-   "source": "Be More with Less",
-   "image": "https://bemorewithless.com/wp-content/uploads/2026/10/neuroscience-of-decluttering-image.png",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-16T22:09:47+00:00",
-   "title_ja": "デジタルや紙の山を手放す週末の片づけ",
-   "summary_ja": "写真や紙の山など、散らかった不用品を片付けるための週末の取り組みについての紹介。ものを手放すための考え方や片づけの習慣に焦点を当てている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
   }
  ]
 }
