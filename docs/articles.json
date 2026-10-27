@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T02:43:39.076357+09:00",
+ "updated_at": "2026-10-28T06:58:15.923078+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,35 +27,34 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-28T02:44:29.665526+09:00",
+  "generated_at": "2026-10-28T06:59:15.164999+09:00",
   "days": 3,
-  "period": "10月26日〜10月28日",
+  "period": "10月27日〜10月28日",
   "count": 45,
   "reduce_count": 26,
   "own_count": 19,
-  "overview": "持ち物の見直しや収納の工夫を通じて生活をシンプルにする方法や、心・習慣を整える体験談が広く語られています。",
-  "reduce": "収納を増やすのではなく持ち物やルールを見直す手順や、不要なアイテムを手放すための実践的なヒントが語られています。",
-  "own": "無印良品や便利なガジェットを活用して生活感を消し、日常のストレスを軽減するシンプルな持ち物が紹介されています。",
+  "overview": "10月27日から28日に集まった45件の記事では、収納を増やす前に持ち物を見直す考え方や、100均アイテムを活用した冷蔵庫などの具体的な片付け術が語られています。",
+  "reduce": "収納を安易に増やすのではなく、不要な物を手放す基準を設けて自宅の持ち物を見直す方法や、キッチンや冷蔵庫などの具体的な整理整頓術が数多く語られています。",
+  "own": "カプセルワードローブを活用した最少限の服選びや、軽量で多機能なガジェット、タイニーハウスやキャンピングカーなど身軽で機能的な暮らしの実例が紹介されています。",
   "points": [
    {
-    "title": "冷蔵庫と収納の整理術",
-    "body": "100円ショップのアイテムを使って冷蔵庫の中をすっきりと整理整頓し、片付けのモチベーションを高めた実践例が紹介されています。"
+    "title": "収納を増やす前の見直し",
+    "body": "ミニマリストは収納を増やすのではなく、不要なものを定期的に見直して手放す手順を提案しています。新しく物を買う前に、まずは自宅にある持ち物を活かす工夫を大切にしようと語られています。"
    },
    {
-    "title": "デジタル環境の整理",
-    "body": "デジタル上の散らかりやSNSの利用が私生活に与える影響を見直し、シンプルな携帯電話を使うなどしてオフラインの時間を増やす試みが語られています。"
+    "title": "100均を活用した冷蔵庫整理",
+    "body": "100円ショップのアイテムを使って散らかった冷蔵庫をすっきりと整理整頓した実践例が紹介されています。見違えるようにきれいになった結果、片付けのモチベーションが高まると話題になっています。"
    },
    {
-    "title": "服や持ち物の見直し",
-    "body": "衣替えの前に今年着なかった夏服を見直したり、タンスを処分して服の持ち方を改めたりする体験談が共有されています。"
+    "title": "カプセルワードローブの活用",
+    "body": "有名人や買い物客の間で、最小限の服で多彩なコーディネートを実現するカプセルワードローブの選び方や活用法が注目されています。着回し力の高い綿カーディガンなどが定番アイテムとして挙げられています。"
    }
   ],
   "keywords": [
-   "断捨離",
    "収納",
-   "整理",
-   "無印良品",
-   "手放す"
+   "片付け",
+   "断捨離",
+   "持ち物"
   ]
  },
  "things": [
@@ -88,6 +87,10 @@
    "count": 4
   },
   {
+   "name": "タイニーハウス",
+   "count": 4
+  },
+  {
    "name": "本",
    "count": 4
   },
@@ -101,10 +104,6 @@
   },
   {
    "name": "シャワー",
-   "count": 3
-  },
-  {
-   "name": "タイニーハウス",
    "count": 3
   },
   {
@@ -144,10 +143,6 @@
    "count": 2
   },
   {
-   "name": "スタンディングテーブル",
-   "count": 2
-  },
-  {
    "name": "スマートフォン",
    "count": 2
   },
@@ -157,10 +152,6 @@
   },
   {
    "name": "トレーラー",
-   "count": 2
-  },
-  {
-   "name": "ドリップケトル",
    "count": 2
   },
   {
@@ -196,11 +187,15 @@
    "count": 2
   },
   {
-   "name": "小型冷蔵庫",
+   "name": "無印良品のアイテム",
    "count": 2
   },
   {
-   "name": "無印良品のアイテム",
+   "name": "簡易キッチン",
+   "count": 2
+  },
+  {
+   "name": "米",
    "count": 2
   },
   {
@@ -211,6 +206,7 @@
  "sources": [
   "A Slob Comes Clean",
   "AERA DIGITAL",
+  "All About（オールアバウト）",
   "Apartment Therapy",
   "Asianet Newsable",
   "BS12",
@@ -220,11 +216,11 @@
   "BurlingtonToday.com",
   "Cat Country 107.3 and 94.9",
   "Chattanooga Times Free Press",
-  "Chronicle-Tribune",
   "ELLE",
   "EatingWell",
   "Fast Company（働き方）",
   "FinancialContent",
+  "Glam",
   "Good Housekeeping",
   "GoodsPress Web",
   "Ideal Home",
@@ -239,11 +235,12 @@
   "MonoMax",
   "No Sidebar",
   "Open Magazine",
-  "Post and Courier",
   "ROOMIE",
+  "Real Estate",
   "Real Simple",
   "Sacramento Bee",
   "Santa Clarita Valley Signal",
+  "Simple Lionheart Life",
   "Southern Living",
   "T3",
   "TRILL",
@@ -304,6 +301,172 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "af0336c9da315404",
+   "url": "https://simplelionheartlife.com/decluttering-questions",
+   "title_original": "Decluttering Questions: Questions to help you declutter more effectively",
+   "source": "Simple Lionheart Life",
+   "image": "https://simplelionheartlife.com/wp-content/uploads/2022/07/Decluttering-Questions-Questions-to-Help-You-Declutter-More-Effectively-2.png",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-27T21:52:21+00:00",
+   "title_ja": "片付けを効果的に進める質問リスト",
+   "summary_ja": "自宅の片付けで迷うときに使える質問集を紹介。何を残し何を手放すかを具体的に考え、自信を持って整理できるようになる。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "24e062b1e6ff7538",
+   "url": "https://allabout.co.jp/gm/gc/522554",
+   "title_original": "「上の子2人は私より食べる。米が1週間で5kg持たない」41歳女性の非課税生活",
+   "source": "All About（オールアバウト）",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-27T21:30:05+00:00",
+   "title_ja": "米が1週間で5kg未満の非課税生活",
+   "summary_ja": "41歳の女性が、子ども二人が自分より多く食べても1週間で米を5kg未満に抑える非課税生活を実践。食費を減らしシンプルに暮らす例が紹介されている。",
+   "category": "キッチン・食",
+   "axis": "reduce",
+   "things": [
+    "米"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "287b3fc0c20b0261",
+   "url": "https://news.livedoor.com/topics/detail/32673168",
+   "title_original": "意外と知らない「片付けて！」は逆効果。家族が自ら動くようになる3つの収納の仕組み",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-27T21:30:00+00:00",
+   "title_ja": "片付けを指示すると逆効果　家族が動く収納3策",
+   "summary_ja": "「片付けて！」と指示すると逆効果になると指摘し、家族が自ら整理したくなるような収納の仕組みを3つ提示。部屋の片付けが自然に進む方法を解説。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "9a193ef41cabe6b6",
+   "url": "https://www.realestate.com.au/news/mum-of-seven-ditches-30m-mansion-for-simple-life",
+   "title_original": "Mum of seven ditches $30m mansion for simple life",
+   "source": "Real Estate",
+   "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/10/capi_6adec705a0f4c3189937ed8549d0e5ac_d111640e39dd7f34b760eff2325258fb.jpeg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-27T20:03:45+00:00",
+   "title_ja": "大家族の母親が大きな豪邸を手放してシンプルな生活へ",
+   "summary_ja": "多数の子供を持つ母親が、価値の高い大邸宅を手放してシンプルな生活へと移行したことを伝えています。持ち物を大きく減らして暮らしの規模を見直した実例です。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "00a9f013f13e368a",
+   "url": "https://www.realestate.com.au/news/contestant-rick-peroomal-offloads-luxury-home-ahead-of-the-block-auctions",
+   "title_original": "Contestant Rick Peroomal offloads luxury home ahead of The Block auctions",
+   "source": "Real Estate",
+   "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/10/capi_884fcadc6aef4114feb687bc4e0e00f7_887c4b17fb29ac65c6719ed52506006d.jpeg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-27T20:03:45+00:00",
+   "title_ja": "番組出場者がオークションを前に高級住宅を手放した話",
+   "summary_ja": "テレビ番組の出場者が、オークションの開催を前に自身の高級住宅を手放したというニュースです。住まいを売却して身軽になる選択をした事例を伝えています。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "3a25da51ec3a745e",
+   "url": "https://www.glam.com/2286916/celebs-who-make-the-most-out-of-their-capsule-wardrobes",
+   "title_original": "8 Celebs Who Know How To Make The Most Of Their Capsule Wardrobes",
+   "source": "Glam",
+   "image": "https://www.glam.com/img/gallery/8-celebs-who-know-how-to-make-the-most-of-their-capsule-wardrobes/l-intro-1792003663.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-27T20:00:00+00:00",
+   "title_ja": "有名人8人のカプセルワードローブ活用例",
+   "summary_ja": "有名人8人が実践するカプセルワードローブの選び方や活用法を紹介し、最小限の服で多彩なコーデを実現するポイントを解説します。季節ごとの組み合わせや、仕事とプライベートでの使い分け例も掲載しています。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "fcccef400992e2dd",
+   "url": "https://note.com/brainy_dill788/n/ne371ca3bb914",
+   "title_original": "「思い出」を溜めても人生は豊かにならない。私が『今の状態』を最優先する理由",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/319039216/rectangle_large_type_2_d7f0f870f11fe612f2f89f2de476c43c.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-27T19:01:44+00:00",
+   "title_ja": "「思い出」を溜めても人生は豊かにならない",
+   "summary_ja": "20代から節約と投資で資産を築いた知人は、1億円の貯蓄を手にしたものの旅行や趣味を犠牲にし、友人関係も希薄に。筆者は「今の状態」を最優先し、物や思い出に執着しない暮らしの価値を語る。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "dadff97037bd53a4",
+   "url": "https://news.nicovideo.jp/watch/nw19925932?news_ref=watch_20_nw19780912",
+   "title_original": "SNS総フォロワー数19万人超、整理収納アドバイザーひでまるによる新刊『自分らしさは、部屋に出る』2026年12月4日（金）発売",
+   "source": "ニコニコニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-27T19:00:42+00:00",
+   "title_ja": "整理収納アドバイザーひでまるの新刊『自分らしさは、部屋に出る』発売",
+   "summary_ja": "整理収納のプロが、自分らしい暮らしを実現するための部屋作りのヒントと実践例をまとめた新刊が2026年12月4日に発売される。具体的な収納テクニックや心理的な整理のコツも紹介し、読者が部屋を通じて自己表現できるよう導く。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "b28d0dc8de92ca7b",
+   "url": "https://lifehacker.com/tech/jbl-tour-one-m3-headphones-sale-october-2026",
+   "title_original": "My Favorite Travel Headphones Are $250 Off Right Now",
+   "source": "Lifehacker",
+   "image": "https://lifehacker.com/imagery/articles/01KQWR732JFBMPKQJTF1YFGJHB/hero-image.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-27T19:00:12+00:00",
+   "title_ja": "旅行に最適なJBL Tour One M3ヘッドホンが250ドル割引",
+   "summary_ja": "JBLのTour One M3ヘッドホンは軽量でノイズキャンセル機能を備え、機内や長距離移動で快適に音楽や通話ができ、現在250ドルオフで購入できる。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "JBL Tour One M3ヘッドホン"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "09f3b4d175b42929",
+   "url": "https://note.com/mainichi_3ko/n/n0535a4ee4310",
+   "title_original": "「使えること」と「使うこと」",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/328125885/rectangle_large_type_2_1dcd46200e869dbec397ecb1328f9b1e.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-27T18:43:20+00:00",
+   "title_ja": "「使える」だけで残すのはNG　包装紙1枚を手放した体験",
+   "summary_ja": "見た目は綺麗でも実際に使わない包装紙を手放すことで、必要性の判断基準が変わり、無駄な物を減らすきっかけとなった体験談を紹介する。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "包装紙"
+   ],
+   "importance": 4
+  },
   {
    "id": "31b2d799411801ab",
    "url": "https://note.com/urudays/n/n7054a6fba2a1",
@@ -372,6 +535,46 @@
    "things": [
     "LED照明",
     "扇風機"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "2e804806e9e41a60",
+   "url": "https://tinyhousetalk.com/forest-river-campsite-reserve-16sw-marshall-nc",
+   "title_original": "A Never-Used Forest River Campsite Reserve Tiny House With Two Lofts in North Carolina",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/2026/10/forest-river-campsite-reserve-16sw-exterior.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-27T14:30:00+00:00",
+   "title_ja": "北カロライナ州の2ロフト付きフォレストリバー・タイニーハウス販売",
+   "summary_ja": "2025年モデルのForest River Campsite Reserve 16SWは、2つのロフト、食器洗い機、セントラルエア、温水タンクを備え、転売保証付きでノースカロライナ州マーシャルで販売中です。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "タイニーハウス",
+    "食器洗い機",
+    "セントラルエア",
+    "温水タンク"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4b1406966eb271cd",
+   "url": "https://tinyhousetalk.com/rustic-log-cabin-loft-porch-ontario-wisconsin",
+   "title_original": "A Rustic Log Cabin With a Loft and Covered Porch in Wisconsin (Buyer Moves It)",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/2026/10/rustic-log-cabin-wisconsin-exterior.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-27T14:00:00+00:00",
+   "title_ja": "ロフトとポーチ付きの小さな丸太小屋",
+   "summary_ja": "ウィスコンシン州で販売されている、吹き抜けやロフト、簡易キッチン、屋根付きポーチを備えた小さな丸太小屋の紹介。購入者が自分で運搬する条件となっています。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "ロフト",
+    "簡易キッチン"
    ],
    "importance": 3
   },
@@ -5410,41 +5613,6 @@
    "importance": 3
   },
   {
-   "id": "3d004c85d1f00ba0",
-   "url": "https://note.com/metastyle/n/n4de9f7f17667",
-   "title_original": "無印のパイン材折りたたみテーブルで机をひとつに",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/326660827/rectangle_large_type_2_91d394db5f752504a2ac3697290d0fec.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-20T21:40:43+00:00",
-   "title_ja": "部屋で一番場所を取る机を見直し、折りたたみ式に",
-   "summary_ja": "部屋で最も場所を取っていた机を「無印のパイン材折りたたみテーブル」に買い替えて、ひとつにまとめた人の話。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "パイン材折りたたみテーブル",
-    "机"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "cba55e19fe0e3ce3",
-   "url": "https://note.com/royal_lupine607/n/n5a831e609372",
-   "title_original": "旅をしたかったわけじゃない-暮らす場所を変えてみたかった・第三編-",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/322350076/rectangle_large_type_2_4dbeebf37c81891984d0fa32acecb80f.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-20T21:14:53+00:00",
-   "title_ja": "移住先探しで直前の不運に見舞われながらも暮らしの場所を模索した話",
-   "summary_ja": "観光目的ではなく将来不自由なく暮らせるか確かめるため、スーパーや交通手段を調べながら移住先を探す夫婦の記録。愛媛での直前の不運を乗り越えつつ、行政の事情も考慮しながら納得のいく住まい方を考えている。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
    "id": "a1be4e5d714925b5",
    "url": "https://www.lifehacker.jp/article/machi-ya-graphenesleepingbag-start-987070",
    "title_original": "気温に合わせて中綿が変化。エアロゲル✕グラフェンの高性能寝袋",
@@ -7158,182 +7326,6 @@
     "USBポート付き電源タップ",
     "ケーブル"
    ],
-   "importance": 3
-  },
-  {
-   "id": "8334adf82ba52909",
-   "url": "https://www.roomie.jp/2026/10/1903802",
-   "title_original": "スウェット一枚じゃ決まらなくなってきた。そんな私の最適解は、UNIQLO : Cのセーターでした",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/261013_uniqloc39_sam1-2.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-17T12:30:36+00:00",
-   "title_ja": "秋の装いに選んだユニクロCのセーター",
-   "summary_ja": "スウェット一枚では物足りなさを感じる季節の最適解として、ユニクロCのセーターを取り入れています。自分の好きを優先し、一年中ニットで過ごしたいライターのこだわりが詰まった一着です。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "セーター"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "3fc9d18ab3358aae",
-   "url": "https://trilltrill.jp/articles/5110690",
-   "title_original": "YSL BEAUTY・NARS・ReFa【ミニコスメ】コスパ抜群！荷物ミニマリスト愛用の名品",
-   "source": "TRILL",
-   "image": "https://media.trilltrill.jp/articles/5110690/featured-image.7cb67a5fbfd1ad34b5b1ccdb1d85151c?w=1200",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-17T11:20:00+00:00",
-   "title_ja": "荷物を減らしたい人必見、ミニマリスト愛用の名品ミニコスメ",
-   "summary_ja": "荷物を減らしたいミニマリストが愛用している、ブランドのコスパが良いミニコスメを紹介しています。かさばる化粧品を小さくまとめて持ち歩きたい人に役立つアイテム情報です。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "ミニコスメ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "eae4fdbda915b506",
-   "url": "https://news.yahoo.co.jp/articles/bcfd7d971d708d084672d0b08e6570cbfe79a3f4/images/000",
-   "title_original": "新居のウォークインクローゼットで後悔。住んでわかった「まさかの誤算」2つと、つけてよかった唯一の設備 (ESSE-online)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnSjFLmCqDadgEUkQFJ0jIN4kFwqtb20Zi_ZFtQ0WaOUDNk2uF-U0Z4RU1e4krXb_xGI-iYh02-0RM-FbvtruWE2O866Fy9xZH7MUef2C-ks9",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-17T11:00:38+00:00",
-   "title_ja": "新居のウォークインクローゼットで気づいた誤算",
-   "summary_ja": "新居のウォークインクローゼットで実際に暮らしてわかった誤算と、つけてよかった設備についての記事。収納スペースの使い勝手や失敗談から、ものの持ち方や収納の見直しを考えるヒントになります。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "1e7caebb40411108",
-   "url": "https://www.youtube.com/watch?v=Cn6FxRMDvpA",
-   "title_original": "人生は「正解」より「最適」で選ぶ。自分に合う生き方の見つけ方｜ゲスト：金井芽衣さん【後編】",
-   "source": "やましたひでこ断捨離",
-   "image": "https://i4.ytimg.com/vi/Cn6FxRMDvpA/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-10-17T11:00:32+00:00",
-   "title_ja": "人生の選択を「正解」から「最適」へシフトする方法",
-   "summary_ja": "自分に合う生き方の見つけ方について語った動画。やましたひでこ氏をゲストに迎え、片づけを通じて人生の選択基準を見直す考え方を解説している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "86350dfa2e09d7d9",
-   "url": "https://www.youtube.com/watch?v=nX-nB5lXdFs",
-   "title_original": "【Vlog】予定のない休日、思い立ったことをして過ごす日｜26歳ミニマリスト",
-   "source": "ミニマリストじゅん",
-   "image": "https://i3.ytimg.com/vi/nX-nB5lXdFs/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-10-17T11:00:17+00:00",
-   "title_ja": "26歳ミニマリストの休日Vlogと愛用している家具や家電",
-   "summary_ja": "予定のない休日を過ごす26歳ミニマリストの日常と、部屋で愛用しているドリップケトルやスタンディングテーブル、小型冷蔵庫などの便利な家具や家電を紹介しています。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "ドリップケトル",
-    "スタンディングテーブル",
-    "小型冷蔵庫",
-    "ARグラス"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "7438c94f3f65e0f0",
-   "url": "https://www.roomie.jp/2026/10/1906862",
-   "title_original": "無印良品の名作「ウェットティッシュケース」を家中に置いてみると…。何個あっても大活躍してくれる理由",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/IMG_7033.jpeg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-17T10:10:00+00:00",
-   "title_ja": "無印良品のケースを家中で活用している話",
-   "summary_ja": "無印良品のウェットティッシュケースを家中に複数置いて活用している人の話。具体的な使い勝手の良さが紹介されています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ウェットティッシュケース"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "5982b4db6e720dac",
-   "url": "https://youtu.be/G4SM_kF76RQ?si=ysFfjJJ6PwwZTUgx",
-   "title_original": "【63】ミニマリスト アラフォー男の日常ルーティンvlog 節約一人暮らしin仙台 部屋も生活もととのえる",
-   "source": "YouTube",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-17T10:00:34+00:00",
-   "title_ja": "アラフォー男性の節約一人暮らし、部屋と生活をととのえる日常",
-   "summary_ja": "仙台で一人暮らしをするアラフォー男性ミニマリストの日常ルーティンを紹介しています。物を減らしたシンプルな部屋で、生活を整えながら暮らす様子がわかります。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "35dc43a13a66faca",
-   "url": "https://www.youtube.com/watch?v=K2CCZ6KJxdA",
-   "title_original": "スキンケアのやめ方｜40代ミニマリストの超シンプル美容とメイク【肌断食】",
-   "source": "私だけミニマリスト｜南さやか",
-   "image": "https://i4.ytimg.com/vi/K2CCZ6KJxdA/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-10-17T10:00:31+00:00",
-   "title_ja": "40代ミニマリストが行うシンプルな美容とメイク",
-   "summary_ja": "肌断食に挑戦し、洗顔石鹸やMiMCのリキッドファンデーション、アイシャドウなど最小限のアイテムで整えるスキンケアを紹介しています。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "洗顔石鹸",
-    "リキッドファンデーション",
-    "フェイスパウダー",
-    "マスカラ"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "efd459652d4c24ec",
-   "url": "https://www.postandcourier.com/business/real_estate/special-advertising/how-to-declutter-and-get-your-home-more-organized/article_c9689d9c-e25f-4313-835a-5c57a453f4cb.html",
-   "title_original": "How to declutter and get your home more organized",
-   "source": "Post and Courier",
-   "image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/3/ec/3ec40420-546d-11ed-9b55-fffdd357bd97/6357ecd0b308b.image.jpg?crop=1174%2C617%2C0%2C440",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-17T10:00:00+00:00",
-   "title_ja": "自宅を片付けて整理整頓する方法",
-   "summary_ja": "自宅の不要なものを減らし、部屋をよりよく整理整頓するための手順や考え方について解説している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "98068a8dae0c2054",
-   "url": "https://www.chronicle-tribune.com/opinion/op-ed-decluttering-helps-seniors-stay-safer-more-independent-at-home/article_628abd52-fc2b-56f7-9991-f09042de834c.html",
-   "title_original": "Op-Ed: Decluttering helps seniors stay safer, more independent at home",
-   "source": "Chronicle-Tribune",
-   "image": "https://bloximages.newyork1.vip.townnews.com/chronicle-tribune.com/content/tncms/assets/v3/editorial/f/e0/fe04aa8a-b119-5022-9bee-9a6413a5af9d/6acfc591d6694.image.jpg?crop=562%2C563%2C0%2C112&resize=200%2C200&order=crop%2Cresize",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-17T10:00:00+00:00",
-   "title_ja": "高齢者の自宅での安全と自立を守る片付け",
-   "summary_ja": "物を減らしてすっきりと片付けることが、高齢者が自宅でより安全に、自立して生活し続けるのを助けるという意見。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
    "importance": 3
   }
  ]
