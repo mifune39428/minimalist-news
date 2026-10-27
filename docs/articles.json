@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T07:27:08.062725+09:00",
+ "updated_at": "2026-10-27T13:15:21.425063+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,38 +27,40 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-27T07:27:58.194584+09:00",
+  "generated_at": "2026-10-27T13:16:35.406287+09:00",
   "days": 3,
-  "period": "10月25日〜10月27日",
+  "period": "10月26日〜10月27日",
   "count": 45,
-  "reduce_count": 29,
-  "own_count": 16,
-  "overview": "10月25日から27日に寄せられた45件の記事では、服やキッチン用品、デジタル環境などの具体的な手放し方や、タイニーハウスや賃貸を活用した小さな暮らしの実例が多方面から語られています。",
-  "reduce": "クローゼットやキッチンなどの具体的な片付け術をはじめ、夏服の見直しやデジタルデータの整理、手放して後悔しないための判断基準などが語られています。",
-  "own": "無印良品のティッシュやジップジャケット、計量カップやスマホスタンドなど、生活感を減らして日常を便利にする愛用品の実例が多数紹介されています。",
+  "reduce_count": 25,
+  "own_count": 20,
+  "overview": "持ち物の見直しや手放し方、タイニーハウスやガジェットを活用したコンパクトな暮らしの工夫など、日々の生活をシンプルに整えるアイデアが多方面から語られています。",
+  "reduce": "不用品の行き先調べや夏服の整理など、具体的な片付けの手順や悪習慣を手放す考え方が数多く紹介されています。",
+  "own": "財布とスマホをまとめるポーチや無印良品のアイテムなど、身軽な外出や快適な室内を支える道具や住まいの実例が語られています。",
   "points": [
    {
-    "title": "タイニーハウスでの暮らし",
-    "body": "1階建てや別棟を活用した設計、古材を使った可動式キャビンなど、限られた小さな空間で快適に暮らすタイニーハウスの実例が複数の記事で紹介されています。"
+    "title": "手放す判断とコツ",
+    "body": "不用品の行き先を事前に調べたり、勢いで捨てて後悔しないための見直し基準など、手放す際の具体的な判断や工夫が複数の記事で語られています。"
    },
    {
-    "title": "無印良品アイテムの活用",
-    "body": "竹製ティッシュや二重編みジップジャケット、衣類用ケースなど、無印良品の製品を暮らしに取り入れて生活感を抑えたり収納を整えたりする工夫が語られています。"
+    "title": "タイニーハウスの活用",
+    "body": "水回りを別棟にしたり最小限の構造から始めたりと、限られた小さな居住空間を快適に使いこなすための様々な実例が紹介されています。"
    },
    {
-    "title": "手放す際の判断と工夫",
-    "body": "夏服や使わなくなったベースの売却、一時保管ボックスの活用などを通じて、迷った物をどのように見極めて手放したかという体験談や手順が語られています。"
+    "title": "無印良品の愛用品",
+    "body": "卓上用ティッシュやジップジャケット、ドリップケトルなど、生活感を減らしてシンプルに暮らすための無印良品アイテムの活用法が注目されています。"
    },
    {
-    "title": "心と生活習慣の見直し",
-    "body": "スピード社会であえてスローな生き方を選ぶ方法や、他人に振り回されない心の持ちよう、お金をかけずに幸せに暮らす習慣についてミニマリストが解説しています。"
+    "title": "スマホ周辺の軽量化",
+    "body": "スマホと財布を一体化させるポーチや薄型スタンド、充電の工夫など、外出や日常の持ち物を小さく軽くする実例が多く取り上げられています。"
    }
   ],
   "keywords": [
-   "無印良品",
-   "断捨離",
+   "減らし方",
+   "手放す",
    "タイニーハウス",
-   "ミニマリスト"
+   "無印良品",
+   "ガジェット",
+   "収納"
   ]
  },
  "things": [
@@ -91,6 +93,10 @@
    "count": 4
   },
   {
+   "name": "財布",
+   "count": 4
+  },
+  {
    "name": "イヤホン",
    "count": 3
   },
@@ -103,7 +109,7 @@
    "count": 3
   },
   {
-   "name": "メガネ",
+   "name": "バックパック",
    "count": 3
   },
   {
@@ -112,10 +118,6 @@
   },
   {
    "name": "暖炉",
-   "count": 3
-  },
-  {
-   "name": "財布",
    "count": 3
   },
   {
@@ -147,6 +149,10 @@
    "count": 2
   },
   {
+   "name": "スマートフォン",
+   "count": 2
+  },
+  {
    "name": "ソファ",
    "count": 2
   },
@@ -163,15 +169,15 @@
    "count": 2
   },
   {
-   "name": "バックパック",
-   "count": 2
-  },
-  {
    "name": "バッグ",
    "count": 2
   },
   {
    "name": "ヘッドホン",
+   "count": 2
+  },
+  {
+   "name": "メガネ",
    "count": 2
   },
   {
@@ -192,6 +198,10 @@
   },
   {
    "name": "小型冷蔵庫",
+   "count": 2
+  },
+  {
+   "name": "無印良品",
    "count": 2
   },
   {
@@ -229,10 +239,10 @@
   "JIJICO",
   "Jenny Mustard",
   "LIMO | くらしとお金の経済メディア",
+  "Lifehacker",
   "Malay Mail",
   "Mindful",
   "MonoMax",
-  "News.com.au",
   "No Sidebar",
   "Open Magazine",
   "Post and Courier",
@@ -240,7 +250,6 @@
   "Real Simple",
   "Sacramento Bee",
   "Santa Clarita Valley Signal",
-  "Sarah Therese",
   "Southern Living",
   "T3",
   "TRILL",
@@ -302,6 +311,161 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "6dabb16fdfeb4a31",
+   "url": "https://note.com/tender_otter9149/n/n722d205a1dcb",
+   "title_original": "空き家の庭も断捨離が必要？伸びすぎた庭木を整理するという選択",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/329040436/rectangle_large_type_2_6ebafaa2852fffe0e8b22bcf5c967da0.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-27T04:10:37+00:00",
+   "title_ja": "空き家の庭も断捨離：伸びすぎた庭木を整理",
+   "summary_ja": "著者は空き家の庭でも断捨離が必要だと指摘し、伸びすぎた庭木を剪定して不要な枝を取り除くことで、見た目をすっきりさせ、管理を楽にする手順を紹介している。家全体の雰囲気も改善できる。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [
+    "庭木"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "cdddcb03382f123e",
+   "url": "https://www.roomie.jp/2026/10/1916352",
+   "title_original": "ポケットにあれこれ詰め込むの、もうやめない？財布もスマホも1つにまとめよう",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/smartphonepouch4.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-27T03:45:31+00:00",
+   "title_ja": "財布とスマホを1つにまとめる本革スマホポーチの紹介",
+   "summary_ja": "著者はスマホと財布、ポイントカードを別々に持つ不便さを経験し、本革のスマホポーチで電話とカードを一体化。両手が自由になり、外出時のストレスが大幅に減ったと実感している。ポーチは薄型で耐久性があり、日常のミニマリズム実践に最適だ。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "本革スマホポーチ",
+    "スマートフォン",
+    "財布",
+    "ポイントカード"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "095ee4719da008a7",
+   "url": "https://www.bhg.com/declutter-hosting-essentials-12139110",
+   "title_original": "6 Things to Ditch From Your Hosting Closet for Simpler, Stress-Free Entertaining",
+   "source": "Better Homes & Gardens",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-27T03:05:00+00:00",
+   "title_ja": "ホスティング用クローゼットから手放すべき6アイテム",
+   "summary_ja": "ホスティング用クローゼットに常備しがちな6つのアイテムを手放すことで、準備や片付けがシンプルに。余計な食器や装飾品を減らすと、ストレスフリーにおもてなしできると解説している。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "5719999628054721",
+   "url": "https://www.roomie.jp/2026/10/1915832",
+   "title_original": "本革のカバンがいい、でも重いのは嫌。そんなわがままを叶えるトートバッグがこれ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/leatherpoketotebag4.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-27T02:45:55+00:00",
+   "title_ja": "デッドストック革を使った本革トートバッグ",
+   "summary_ja": "質の高いデッドストック革を活用し、実用性と軽さを両立した本革トートバッグの紹介。長く愛用できるカバンを探している人向け。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "本革トートバッグ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b4e435658a7b6b63",
+   "url": "https://www.lifehacker.jp/article/machi-ya-flexy-review-984155",
+   "title_original": "ホテルに着いたら吊るすだけ。荷ほどきゼロのワードローブ型バックパック",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/10/23/515ccaa7-d82c-447a-b474-1cb27e4f083e/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-27T02:30:00+00:00",
+   "title_ja": "荷ほどき不要のワードローブ型バックパック",
+   "summary_ja": "旅先で吊るすだけでワードローブとして使える、容量可変式のバックパック。15のポケットを備え、荷物の整理と持ち運びに優れています。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "バックパック"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "192a3be1966424ed",
+   "url": "https://minimalist-fudeko.com/plan-before-decluttering",
+   "title_original": "捨てるものを選ぶ前に、不用品の行き先を調べる。寄付にもお金がかかるから",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/10/donation-at-shop.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-27T00:10:03+00:00",
+   "title_ja": "捨てる前に不用品の行き先を調べる片づけのコツ",
+   "summary_ja": "片づけが進まないときは、捨てるか悩むのをやめて不用品の行き先を調べることが大切。寄付にも費用がかかる場合があるため事前の確認が必要。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "50ff84f4208da2e2",
+   "url": "https://bemorewithless.com/bad-habits-to-declutter/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
+   "title_original": "5 Bad Habits to Declutter By The End of The Year",
+   "source": "Be More with Less",
+   "image": "https://bemorewithless.com/wp-content/uploads/2026/10/bad-habit-image.png",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-26T23:09:45+00:00",
+   "title_ja": "年末までに手放したい5つの悪習慣の考え方",
+   "summary_ja": "ストレスや不安の原因となり健康にも悪影響を及ぼす悪習慣を、年末までに手放すための考え方について解説している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "18b24070c6073dba",
+   "url": "https://note.com/shibatyon/n/n7c4b9dfca050",
+   "title_original": "買う前に、家の中を見てみよう～持っているものを活かす暮らし～",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/327680590/rectangle_large_type_2_356a4906d220729d7712d22a579859e0.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-26T22:54:32+00:00",
+   "title_ja": "新しい物を買う前に自宅の持ち物を活かす工夫",
+   "summary_ja": "新しい物を購入する前に、まず自宅の中を見渡して今ある持ち物を活かした暮らしを送るための心構えについて綴っている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "04169d2a6ae02fdf",
+   "url": "https://article.auone.jp/7ae6939a-0113-447f-8ae5-4c1e80a46ce4",
+   "title_original": "整理収納アドバイザーが「洗面台にゼッタイ置かないモノ」3つ。これだけは徹底しています！",
+   "source": "au Webポータル",
+   "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/26/https___news_jp_i_1487580561001169474_w450.webp",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-26T22:34:03+00:00",
+   "title_ja": "整理収納アドバイザーが教える洗面台に置かない3アイテム",
+   "summary_ja": "整理収納アドバイザーが洗面台に置くと散らかりやすい3つのアイテムを指摘し、置かない徹底方法を解説しています。具体的に何を置かないかは記事で紹介されており、スッキリした洗面スペースを保つコツが分かります。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "4b6dad02c2081655",
    "url": "https://www.roomie.jp/2026/10/1915582",
@@ -407,6 +571,24 @@
     "服",
     "タンス",
     "段ボール箱"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "3c21b11296ef42c4",
+   "url": "https://lifehacker.com/tech/marshall-monitor-iii-anc-headphones-sale-october-2026",
+   "title_original": "These High-End Marshall Headphones Are Under $200 Right Now",
+   "source": "Lifehacker",
+   "image": "https://lifehacker.com/imagery/articles/01KJQQ6NK7D20KC1YJPGC4GXDQ/hero-image.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-26T20:30:45+00:00",
+   "title_ja": "200ドル以下で買える高音質Marshallヘッドホン",
+   "summary_ja": "Marshall Monitor IIIがデザイン性と迫力あるサウンドを備えながら、現在200ドル以下で購入可能な価格で販売されていることを紹介しています。ガジェット好きにおすすめです。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "Marshall Monitor III"
    ],
    "importance": 3
   },
@@ -820,6 +1002,24 @@
    "axis": "own",
    "things": [
     "CMF Phone 1"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5c1f45a582c54fce",
+   "url": "https://youtu.be/RzeioEhQjdI?si=r5RjInbzaRDH7m9d",
+   "title_original": "【8品】【合計1853円】【無印大好き芸人】【無印週間購入品紹介】【貧乏でも無印週間は楽しめる】【限界ミニマリスト】【夫婦芸人】",
+   "source": "YouTube",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-26T10:19:42+00:00",
+   "title_ja": "限界ミニマリストの夫婦が選んだ無印良品の購入品8選",
+   "summary_ja": "無印良品週間で購入した8品を紹介する動画。限られた予算の中で選んだアイテムや、夫婦での暮らしに役立つ具体的な購入品が分かる。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "無印良品"
    ],
    "importance": 3
   },
@@ -4895,22 +5095,6 @@
    "importance": 4
   },
   {
-   "id": "82a44a6b7c04a836",
-   "url": "https://note.com/fancy_oriole3613/n/n1af45a0904c0",
-   "title_original": "節約しているつもりなのに、お金が残らない。「長く使うから」「自己投資だから」で買っていない？",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/326615626/rectangle_large_type_2_ea214da29391095384d9fd5254bfe664.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-20T14:16:55+00:00",
-   "title_ja": "「長く使う」の言葉に惑わされないお金の使い方",
-   "summary_ja": "節約しているつもりでもお金が残らない原因について。「いいものを長く使う」「自己投資」という言葉の裏にある買い物の基準を見直す。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
    "id": "a1be4e5d714925b5",
    "url": "https://www.lifehacker.jp/article/machi-ya-graphenesleepingbag-start-987070",
    "title_original": "気温に合わせて中綿が変化。エアロゲル✕グラフェンの高性能寝袋",
@@ -5078,22 +5262,6 @@
     "シャワー"
    ],
    "importance": 3
-  },
-  {
-   "id": "0b294d1ad5d5b45b",
-   "url": "https://note.com/yokoh/n/nb34952ac86b0",
-   "title_original": "本棚の整理",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/323728987/rectangle_large_type_2_651545cc745e7e94b3861c55a87b2e5e.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-20T11:14:30+00:00",
-   "title_ja": "積ん読が並んだ本棚を整理した人の話",
-   "summary_ja": "我が家に溜まった欲望の塊である積ん読を見直し、本棚の整理を行ったときの様子をつづった短い記録。定期的に本棚を見直すことで、暮らしや持ち物に向き合う姿勢が表れている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
   },
   {
    "id": "38c0c0aaf897dce1",
@@ -7159,161 +7327,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
-  },
-  {
-   "id": "eead2361c0707266",
-   "url": "https://www.news.com.au/branded-content/how-to-declutter-your-wardrobe-like-a-pro/news-story/d47f09224631e5c17b58d5e00e0b56ae",
-   "title_original": "How to declutter your wardrobe like a pro",
-   "source": "News.com.au",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-16T21:30:31+00:00",
-   "title_ja": "プロのようにクローゼットの中身を片付けるコツ",
-   "summary_ja": "溢れかえったワードローブをプロのように効率よく整理し、自分にとって本当に必要な服だけを残すための実践的な片付け術を紹介します。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "17c11afb8241914f",
-   "url": "https://www.realsimple.com/therapist-approved-fall-decluttering-tips-october-2026-12175027",
-   "title_original": "A Therapist Says These 11 Decluttering Habits Can Make Busy Fall Days Feel Less Chaotic",
-   "source": "Real Simple",
-   "image": "https://www.realsimple.com/thmb/PdJX6kiHBWcYuWstsnMF0v8gQdQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rsp-declutter-your-home-for-fall-to-actually-boost-your-mental-health-tout-5e6f4a20976e42abbc5a27bb47b5f4b1.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-16T18:30:00+00:00",
-   "title_ja": "多忙な秋を快適にする片付けの習慣について",
-   "summary_ja": "セラピストが提案する、忙しい秋の日々を混乱させないための11の片付け習慣について解説。暮らしの乱れを防ぎ、すっきりとした日常を維持するための整理整頓のヒント。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "f634ae0c96479198",
-   "url": "https://media.unisba.ac.id/03db5bd0/e1b3b79bCg5SXzFfIl5cGFo",
-   "title_original": "【実家片付け】20年ぶりの玄関一掃？！ゴミ屋敷の入り口がスッキリ変身✨母と口論しながら大量断捨離！ Martin Short (w56h9USwz6)",
-   "source": "Unisba Media",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-16T16:30:00+00:00",
-   "title_ja": "母親と口論しながら20年ぶりの玄関の大量断捨離をした話",
-   "summary_ja": "実家の玄関に溜まった不要品を、母親と口論をしながら20年ぶりに一掃し、ゴミ屋敷状態だった入り口をすっきりと変身させた実録です。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "b4f8f5d27fad0fce",
-   "url": "https://www.southernliving.com/5-tips-to-declutter-this-fall-12134732",
-   "title_original": "5 Easy Decluttering Tips You Can Use In Every Room This Fall",
-   "source": "Southern Living",
-   "image": "https://www.southernliving.com/thmb/Y8dse2xwGYqtiC3CnnSaHBqJu88=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/27711_Kitchen_0021_preview-e33a1c20cce74bd988ad55d7c9e59e63.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-16T16:10:00+00:00",
-   "title_ja": "すべての部屋で使える秋の簡単な片づけのコツ",
-   "summary_ja": "秋の季節に合わせて、家中の各部屋で実践できる簡単な片づけや整理整頓のヒントを紹介している記事。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "1fb8b8115affd021",
-   "url": "https://www.bhg.com/30-bags-30-days-decluttering-challenge-12161537",
-   "title_original": "This Viral Decluttering Challenge Will Help You Get (and Stay) Organized for Good",
-   "source": "Better Homes & Gardens",
-   "image": "https://www.bhg.com/thmb/dyXzpeYmvagTLqyQHqsze5iri24=/6402x0/filters:no_upscale():max_bytes(150000):strip_icc()/bhg-kitchen-cabinet-hero-22352_E8M0AuaH4gjAOmSXht58UQjpg-f5f7e8b5bf874249809be71f9021cecc.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-16T16:00:00+00:00",
-   "title_ja": "片付けを習慣化する話題のチャレンジ方法",
-   "summary_ja": "部屋の整理整頓を無理なく定着させ、きれいな状態をずっとキープするために役立つ話題の片付けチャレンジを紹介。散らかりにくい仕組みづくりを学ぶことができる。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "c3ee3ec3d74793f8",
-   "url": "https://www.lifehacker.jp/article/machi-ya-soma-additional-982531",
-   "title_original": "掛けたことを忘れる23g。鯖江の職人が仕上げた「寝る前1時間だけ」のメガネ",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/10/14/bad27cca-91ec-4bea-812d-03d820389e53/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-16T14:30:00+00:00",
-   "title_ja": "鯖江の職人が仕上げた重さ23gのメガネ",
-   "summary_ja": "掛けたことを忘れるほど軽い、23gのメガネを紹介。鯖江の職人が丁寧に仕上げた、日常使いしやすいアイテム。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "メガネ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "88df1a5ba24e4cc7",
-   "url": "https://www.youtube.com/watch?v=mDwqzlPc9Ss",
-   "title_original": "My Day As A CHRISTIAN Woman | worship, prayer, bible reading...",
-   "source": "Sarah Therese",
-   "image": "https://i2.ytimg.com/vi/mDwqzlPc9Ss/hqdefault.jpg",
-   "media": "youtube",
-   "region": "海外",
-   "published": "2026-10-16T14:00:07+00:00",
-   "title_ja": "手作りのパン作りを支える愛用の調理器具",
-   "summary_ja": "ゼロからパン作りをするための自家製パン用マシンを使用している様子。日々の丁寧なルーティンの中で、手仕事の暮らしを支えている便利な道具について語っている。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "パン焼き機"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2ca5a06511f4ed5f",
-   "url": "https://www.lifehacker.jp/article/2610-sunday-weekend-mellow-drop-toilet-aroma",
-   "title_original": "「今日、友だち来るんだった！」数滴でトイレのにおいに焦らず済んだ",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/10/08/17e09cd1-9fe7-46b5-a234-2310cf345eaa/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-16T14:00:00+00:00",
-   "title_ja": "生活感を抑えたデザインのトイレ用メロードロップ",
-   "summary_ja": "必要なときだけ数滴垂らして使うトイレのにおい対策アイテム。アロマのような香りと生活感を抑えたデザインが特徴。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "メロードロップ"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "8754307ec0cb94a0",
-   "url": "https://www.lifehacker.jp/article/2610-amazon-sanwa-cardrinkholder-etg",
-   "title_original": "ドライブ中の飲みごろ温度を逃さない。保温・保冷ドリンクホルダーで快適空間に",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2025/09/30/16221ad8-2c90-4654-a186-6f63e68c95f7/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-16T13:45:00+00:00",
-   "title_ja": "車載ドリンクホルダーで飲み物の適温をキープする",
-   "summary_ja": "シガーソケットから給電して飲み物の温度を保つ車載ドリンクホルダーを使用している。ペットボトルや缶など多様な容器に対応する。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "車載ドリンクホルダー",
-    "ペットボトル",
-    "缶",
-    "紙カップ"
-   ],
-   "importance": 2
   }
  ]
 }
