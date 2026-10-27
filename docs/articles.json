@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T20:49:35.014555+09:00",
+ "updated_at": "2026-10-28T02:43:39.076357+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,35 +27,35 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-27T20:50:18.286233+09:00",
+  "generated_at": "2026-10-28T02:44:29.665526+09:00",
   "days": 3,
-  "period": "10月26日〜10月27日",
+  "period": "10月26日〜10月28日",
   "count": 45,
-  "reduce_count": 25,
-  "own_count": 20,
-  "overview": "キッチンやクローゼットの具体的な整理術から、デジタルデトックスや心構えといった心の習慣まで、暮らしを身軽にするための実践的な工夫が広く語られています。",
-  "reduce": "不要なアイテムを手放す具体的な手順や、散らかりやすい場所を見直すための整理術に関する話題が多く見られます。",
-  "own": "身軽な外出を叶える薄型ガジェットや、機能的でシンプルな無印良品のアイテムを活用した暮らしの実例が紹介されています。",
+  "reduce_count": 26,
+  "own_count": 19,
+  "overview": "持ち物の見直しや収納の工夫を通じて生活をシンプルにする方法や、心・習慣を整える体験談が広く語られています。",
+  "reduce": "収納を増やすのではなく持ち物やルールを見直す手順や、不要なアイテムを手放すための実践的なヒントが語られています。",
+  "own": "無印良品や便利なガジェットを活用して生活感を消し、日常のストレスを軽減するシンプルな持ち物が紹介されています。",
   "points": [
    {
-    "title": "キッチンの見直し",
-    "body": "専門家や体験者によるキッチン周りの整理術が多く語られています。冷蔵庫の100均収納や、今すぐ処分すべき10のアイテム、計量の手間を減らす便利グッズの導入などが紹介されています。"
+    "title": "冷蔵庫と収納の整理術",
+    "body": "100円ショップのアイテムを使って冷蔵庫の中をすっきりと整理整頓し、片付けのモチベーションを高めた実践例が紹介されています。"
    },
    {
-    "title": "タイニーハウスの実例",
-    "body": "限られた面積で暮らすタイニーハウスの事例が複数取り上げられています。ウレタン断熱や別棟の水回りでスペースを工夫する様子や、必要に応じて構造を追加する設計が紹介されています。"
+    "title": "デジタル環境の整理",
+    "body": "デジタル上の散らかりやSNSの利用が私生活に与える影響を見直し、シンプルな携帯電話を使うなどしてオフラインの時間を増やす試みが語られています。"
    },
    {
-    "title": "手放す際の心構え",
-    "body": "物を減らす際の迷いや後悔を防ぐための考え方が語られています。不用品の行き先を事前に調べることや、勢いで捨てて後悔するかもしれないアイテムについての注意点が共有されています。"
+    "title": "服や持ち物の見直し",
+    "body": "衣替えの前に今年着なかった夏服を見直したり、タンスを処分して服の持ち方を改めたりする体験談が共有されています。"
    }
   ],
   "keywords": [
-   "無印良品",
-   "タイニーハウス",
    "断捨離",
-   "キッチン",
-   "ガジェット"
+   "収納",
+   "整理",
+   "無印良品",
+   "手放す"
   ]
  },
  "things": [
@@ -184,6 +184,10 @@
    "count": 2
   },
   {
+   "name": "充電器",
+   "count": 2
+  },
+  {
    "name": "家",
    "count": 2
   },
@@ -193,10 +197,6 @@
   },
   {
    "name": "小型冷蔵庫",
-   "count": 2
-  },
-  {
-   "name": "無印良品",
    "count": 2
   },
   {
@@ -214,7 +214,6 @@
   "Apartment Therapy",
   "Asianet Newsable",
   "BS12",
-  "Balance Through Simplicity",
   "Be More with Less",
   "Better Homes & Gardens",
   "Bona Magazine",
@@ -306,6 +305,116 @@
  "count": 400,
  "items": [
   {
+   "id": "31b2d799411801ab",
+   "url": "https://note.com/urudays/n/n7054a6fba2a1",
+   "title_original": "「ちゃんとしなきゃ」をやめたら、暮らしが少しラクになった。",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/329279253/rectangle_large_type_2_abe813af9d2d30b4db4a4414b09b039c.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-27T17:24:25+00:00",
+   "title_ja": "「ちゃんとしなきゃ」を手放してラクになった暮らし",
+   "summary_ja": "子どもや猫がいるからと「家をきれいにしなきゃ」「すぐに片付けなきゃ」と思い込んでいたルールを手放した体験談。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "4077167adc30f5f2",
+   "url": "https://tinyhousetalk.com/1976-vw-westfalia-berlin-deluxe-henderson-nv",
+   "title_original": "A Sage Green 1976 VW Westfalia “Berlin Deluxe” With a New Pop-Top Canvas in Nevada",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/2026/10/1976-vw-westfalia-berlin-deluxe-exterior.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-27T15:30:00+00:00",
+   "title_ja": "ネバダ州で見つかった改装済みの古いキャンピングカー",
+   "summary_ja": "ヨーロッパ製のインテリアパーツや新しいポップトップキャンバスを備えた、1976年式のフォルクスワーゲンのキャンピングカーを紹介している。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "キャンピングカー"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "b0a2ea598520fd9d",
+   "url": "https://tinyhousetalk.com/ford-e450-shuttle-bus-skoolie-vancouver-wa",
+   "title_original": "A Ford E450 Shuttle Bus With a 7.3 Powerstroke, Ready for a Skoolie Build",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/2026/10/ford-e450-shuttle-bus-exterior.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-27T15:00:00+00:00",
+   "title_ja": "改造用に販売されている元スクールバスのシャトルバス",
+   "summary_ja": "高い天井や車椅子用リフトを備えた、フォードのディーゼルエンジン搭載のシャトルバスが販売されていることを伝えている。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "シャトルバス"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "b56861a913081e99",
+   "url": "https://www.roomie.jp/2026/10/1917230",
+   "title_original": "扇風機の「出す・しまう」から解放される。冬の暖房効率もアップするファン付きLED照明",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/lumoair2.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-27T14:45:42+00:00",
+   "title_ja": "扇風機の出し入れが不要になる薄型のファン付きLED照明",
+   "summary_ja": "天井の低い住まいでも圧迫感を軽減する薄型設計で、必要な時だけ羽根が開くファン付きのLED照明を紹介している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "LED照明",
+    "扇風機"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4e9c1b5322926fc7",
+   "url": "https://www.lifehacker.jp/article/2610-lht-cio-mug-warmer2",
+   "title_original": "最後の一口までずっと温かい。「スマホ充電」もできる2in1ツールが寒い日のデスクワークにぴったり",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2025/11/18/657474dd-d563-43cf-a94e-1b5a35e6aa94/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-27T13:15:00+00:00",
+   "title_ja": "マグウォーマーと充電器を兼ねるCIOの2in1ツール",
+   "summary_ja": "飲み物の保温とスマホのワイヤレス充電を1台でこなすCIOのマグウォーマー2を紹介している。季節を問わずデスクまわりで活躍するアイテム。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "マグウォーマー2",
+    "充電器"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e63f98c2adfa1b2d",
+   "url": "https://www.roomie.jp/2026/10/1914463",
+   "title_original": "山崎実業の新作パネルで、ついに洗面所の壁がマグネット対応に！付属トレーで小物もスッキリ収納できるよ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/261023_yamajitsu_washroom_magnet_01.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-27T12:00:35+00:00",
+   "title_ja": "山崎実業のパネルで洗面所の壁をマグネット収納化",
+   "summary_ja": "山崎実業の新作パネルを使って洗面所の壁をマグネット対応にし、付属トレーで小物をすっきりと浮かせて収納している事例。限られた空間を有効活用する工夫。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "パネル",
+    "トレー",
+    "マグネット収納"
+   ],
+   "importance": 3
+  },
+  {
    "id": "686a2265c715a962",
    "url": "https://note.com/jazzy_broom4748/n/n579d8d3e6235",
    "title_original": "迷う迷う",
@@ -322,6 +431,22 @@
     "服"
    ],
    "importance": 2
+  },
+  {
+   "id": "0a0a2fafcd852177",
+   "url": "https://www.southernliving.com/things-making-living-room-cluttered-12195880",
+   "title_original": "5 Things Making Your Living Room Look Cluttered—Even When It’s Clean",
+   "source": "Southern Living",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-27T11:34:00+00:00",
+   "title_ja": "掃除してもリビングが散らかって見える5つの原因",
+   "summary_ja": "部屋を綺麗に片付けても、なぜか雑然とした印象を与えてしまう原因や、インテリアの配置について解説している記事です。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
   },
   {
    "id": "0d241f21562198e4",
@@ -411,6 +536,22 @@
    "title_ja": "専門家が教えるキッチンから今すぐ手放すべき10個のアイテム",
    "summary_ja": "専門家が提案する、キッチンから今すぐ処分すべき10のアイテムについての解説。物が溜まりやすいキッチン周りをスッキリと整理し、使いやすい空間を作るための手放し方のヒントを紹介しています。",
    "category": "キッチン・食",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "55bfa46a148fca7c",
+   "url": "https://nlab.itmedia.co.jp/cont/articles/4049644/amp",
+   "title_original": "“人には見せられない”冷蔵庫、100均アイテムで整理すると…… 見違える結果に「見ててとてもスッキリな気分」「やる気スイッチ入りました」（1/2） | 住まい ねとらぼ",
+   "source": "ねとらぼ",
+   "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/10/1792077843_12499a34f38669d4e1b2801206ddc09a.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-27T11:15:00+00:00",
+   "title_ja": "100均アイテムを使って冷蔵庫の中を整理した話",
+   "summary_ja": "100円ショップのアイテムを活用して、見違えるほどすっきりと冷蔵庫の中を整理整頓した事例。収納を工夫することで、片付けのモチベーションを高めることができる。",
+   "category": "部屋・収納",
    "axis": "reduce",
    "things": [],
    "importance": 3
@@ -521,6 +662,22 @@
    "importance": 3
   },
   {
+   "id": "3e0f6d2a833ddab8",
+   "url": "https://news.yahoo.co.jp/articles/547f02148c7479089bef4a4c0ce8b238c6c120ea/images/000",
+   "title_original": "小林旭は大豪邸をどう片付ける？断捨離を敢行へ、新居の契約にもカメラ密着 (映画ナタリー)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnXK_07-qjl_e049M9_8l9OE8AFSCkGHc_j4_4NRJ81DyW7lXILI5akk2V2EQtv6_IaNuCznnZz1l4r8PI5QUCZCUCRjgMddYD4hvwVf2vWFv",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-27T08:46:10+00:00",
+   "title_ja": "小林旭が大豪邸で断捨離に挑む様子を密着",
+   "summary_ja": "俳優の小林旭が新居の大豪邸で断捨離を実施。不要な家具や衣類を整理し、撮影チームがその過程を密着取材。大規模な住宅でも物を減らす具体的な手順が紹介されています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
    "id": "6dabb16fdfeb4a31",
    "url": "https://note.com/tender_otter9149/n/n722d205a1dcb",
    "title_original": "空き家の庭も断捨離が必要？伸びすぎた庭木を整理するという選択",
@@ -610,6 +767,22 @@
     "バックパック"
    ],
    "importance": 4
+  },
+  {
+   "id": "d43994ff8f1c9346",
+   "url": "https://news.livedoor.com/topics/detail/32665103/?_clicked=echoes_list",
+   "title_original": "片付けや探し物の悩みを解決！ミニマリストが実践する「収納を増やすこと」をやめるコツ",
+   "source": "ライブドアニュース",
+   "image": "https://image.news.livedoor.com/newsimage/stf/0/e/0e3f6_1845_c326a034_a7bd3563.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-27T01:16:44+00:00",
+   "title_ja": "ミニマリストが語る収納増加をやめるコツ",
+   "summary_ja": "ミニマリストは、収納を増やさずに物を減らす方法として、不要なものを手放す基準や片付けの手順を提案している。具体的には、使っていないものを定期的に見直し、捨てるか寄付するかを判断し、収納スペースを増やさない暮らしを実践する。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
   },
   {
    "id": "192a3be1966424ed",
@@ -848,6 +1021,27 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
+  },
+  {
+   "id": "5cf1b0016a444c6a",
+   "url": "https://www.theguardian.com/food/2026/oct/26/quick-easy-crab-spring-onion-fried-rice-recipe-georgina-hayden",
+   "title_original": "Georgina Hayden’s quick and easy recipe for crab and spring onion fried rice | Quick and easy",
+   "source": "The Guardian（暮らし）",
+   "image": "https://i.guim.co.uk/img/media/394668d3ec1a4ecc83431d2fcbf5b4e4358eee5d/242_1546_4827_3860/master/4827.jpg?width=140&quality=85&auto=format&fit=max&s=79edfa9ab0c709c8c7fc444227d58757",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-26T13:00:42+00:00",
+   "title_ja": "カニとネギの簡単フライドライスレシピ",
+   "summary_ja": "ジャスミン米を事前に炊いて冷ますと、香味野菜とチリクリスプオイルでさっと炒めるだけの、優しい味わいのカニとネギのフライドライスが完成する。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "米",
+    "カニ",
+    "ネギ",
+    "チリクリスプオイル"
+   ],
+   "importance": 1
   },
   {
    "id": "7d2af66220dc5bfa",
@@ -5251,22 +5445,6 @@
    "importance": 3
   },
   {
-   "id": "9083a8ea09567806",
-   "url": "https://note.com/jasmine_memo/n/n8b4cc629c075",
-   "title_original": "好きなものを、少しずつ",
-   "source": "note #断捨離",
-   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/b5277339f14c1c8db8b965b1ba41e6f3793617f8.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-20T20:57:02+00:00",
-   "title_ja": "部屋の片づけを通じてモノと自分の気持ちを少しずつ整理している人の話",
-   "summary_ja": "部屋を整えながら大切にしたいモノを厳選しようと試みる記録。思い出やもったいない気持ちから迷いが生じつつも、焦らずに心の心地よさを優先しながら少しずつ部屋と気持ちを整理している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
    "id": "a1be4e5d714925b5",
    "url": "https://www.lifehacker.jp/article/machi-ya-graphenesleepingbag-start-987070",
    "title_original": "気温に合わせて中綿が変化。エアロゲル✕グラフェンの高性能寝袋",
@@ -7157,175 +7335,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
-  },
-  {
-   "id": "4cce1810c9c330ea",
-   "url": "https://media.unisba.ac.id/d2b8af1a/73741c33tZEBBWnifyM",
-   "title_original": "【機内持ち込み】ミニマリストの旅慣れパッキング！ヨーロッパ・バルト三国9泊12日旅✈️夏の北欧に機内持ち込みだけで行く！ Julian Champagnie (DDINT6mPUq)",
-   "source": "Unisba Media",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-17T09:51:07+00:00",
-   "title_ja": "機内持ち込みだけで北欧を巡る旅の荷物術",
-   "summary_ja": "ヨーロッパやバルト三国への9泊12日の旅を、機内持ち込み手荷物のみで軽快に移動したパッキングの実例。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "f118f2f14aa7d1cc",
-   "url": "https://www.roomie.jp/2026/10/1909077",
-   "title_original": "下ごしらえの道具が多すぎる…ブラウンの1台7役ブレンダーが過去最安だよ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/292021.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-17T09:15:06+00:00",
-   "title_ja": "キッチン道具を1台に集約、ブラウンの7機能ブレンダー",
-   "summary_ja": "料理の下ごしらえが多すぎると感じた著者は、1台で刻む・混ぜる・つぶすなど7役をこなすブラウンのハンドブレンダーを導入し、道具を減らした。現在セール中。",
-   "category": "道具・ガジェット",
-   "axis": "reduce",
-   "things": [
-    "ブラウン ハンドブレンダー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "4762d52d169e78db",
-   "url": "https://monomax.jp/archives/367466",
-   "title_original": "【まるで肩掛けできるスーツケース】コールマン「フルオープン式2WAYバッグ」が1泊2日の出張＆旅行に最強すぎた！MonoMax11月号付録をスタイリストが徹底検証",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2026/10/coleman_boston_01.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-17T09:00:49+00:00",
-   "title_ja": "1泊2日で便利なコールマン2WAYバッグの実体験",
-   "summary_ja": "スタイリストがコールマンのフルオープン式2WAYバッグを使い、1泊2日の出張・旅行で荷物をコンパクトにまとめられた点を検証した。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "コールマン フルオープン式2WAYバッグ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "98b5edee479bd057",
-   "url": "https://nosidebar.com/stop-clutter-before-it-starts",
-   "title_original": "Change Your Door, Not Just Your Closet",
-   "source": "No Sidebar",
-   "image": "https://nosidebar.com/wp-content/uploads/stop-clutter.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-17T09:00:00+00:00",
-   "title_ja": "クローゼットだけでなく根本を変える片付け術",
-   "summary_ja": "著者は、クローゼットを片付けてもすぐに散らかる原因は根本的な習慣にあると指摘し、物の出入りを防ぐために生活全体の「扉」を変える必要性を説く。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "c2d3eba417abe3dc",
-   "url": "https://balancethroughsimplicity.com/how-to-manage-a-home",
-   "title_original": "Home Management: Simple Ways to Make Your Home Easier to Run",
-   "source": "Balance Through Simplicity",
-   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2026/10/How-to-Manage-Your-Home-More-Easily-3-683x1024.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-17T07:59:41+00:00",
-   "title_ja": "家事の手間を減らして暮らしを楽にする方法",
-   "summary_ja": "家事のルーティンを見直し、掃除や片付けにかける時間を減らして家を穏やかに管理するための実践的なヒントを紹介しています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "5c97676d028e7c5e",
-   "url": "https://balancethroughsimplicity.com/decluttering-methods-and-strategies",
-   "title_original": "Decluttering Methods and Strategies to Help You Clear Clutter More Easily",
-   "source": "Balance Through Simplicity",
-   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2026/10/Decluttering-Methods-and-Strategies-4-683x1024.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-17T07:05:03+00:00",
-   "title_ja": "自分に合った片付け方法が見つかる断捨離の戦略と手順",
-   "summary_ja": "自宅の片付けをスムーズに進めるため、数分で終わる簡単な作業から家全体を整理する構造的な方法まで、様々な断捨離のアプローチを紹介しています。自分の時間やエネルギーに合わせて最適な方法を選ぶためのガイドです。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "0add0c8de89dee00",
-   "url": "https://news.infoseek.co.jp/article/fudge_406707",
-   "title_original": "8.4畳1Kで暮らすミニマリストの、無印良品の愛用品3選【シンプリストの暮らしかた】｜Infoseekニュース",
-   "source": "Infoseek",
-   "image": "https://media.image.infoseek.co.jp/isnews/photos/fudge/fudge_406707_0.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-17T06:30:50+00:00",
-   "title_ja": "8.4畳1Kのミニマリストが選んだ無印良品3選",
-   "summary_ja": "8.4畳の1K住宅で暮らすミニマリストが、無印良品の愛用品3点を紹介。限られた空間でも快適に過ごすための選び方や活用法に触れている。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "無印良品"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "21966a5fbb1b28f3",
-   "url": "https://balancethroughsimplicity.com/journal-prompts-for-self-reflection",
-   "title_original": "5 Powerful Journal Prompts for Self-Reflection",
-   "source": "Balance Through Simplicity",
-   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2022/11/5-Powerful-Journal-Prompts-for-Self-Reflection-3-683x1024.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-17T04:05:00+00:00",
-   "title_ja": "自己内省を深めて大切なものを見つけるための5つの質問",
-   "summary_ja": "自分の思考や感情を整理し、何が本当に重要かを明確にして意味のある人生を築くための5つのジャーナリングの問いを紹介しています。日々の暮らしや考え方を整えるヒントになります。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "f1351f0db9ed2f9a",
-   "url": "https://news.livedoor.com/article/detail/32589613",
-   "title_original": "「人生変わった」27歳ミニマリストが激推し！20代で絶対に読むべき名著5選",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-17T03:36:19+00:00",
-   "title_ja": "27歳ミニマリストが推す20代向け名著5選",
-   "summary_ja": "27歳のミニマリストが、20代が読むべきと激推しする名著5冊を紹介する記事です。読書を通じてミニマリスト的思考を身につけることがテーマです。それぞれの本が提案するシンプルな暮らしのヒントや、物を減らす心構えも併せて解説しています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "32cda573d95b913a",
-   "url": "https://trilltrill.jp/articles/5111831",
-   "title_original": "持たない暮らしでも手放せないのは？ミニマリストNozomiさんの結論「防災品と家族写真」",
-   "source": "TRILL",
-   "image": "https://media.trilltrill.jp/articles/5111831/featured-image.2ca9eaf0da9db5873772b9de7cad8418?w=1200",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-17T03:12:31+00:00",
-   "title_ja": "ミニマリストNozomiが語る手放せない防災品と家族写真",
-   "summary_ja": "ミニマリストのNozomiさんは、持たない暮らしでも『防災品』と『家族写真』は手放せないと語ります。なぜそれらが必要なのか、具体的な理由と保管方法を紹介しています。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "防災品",
-    "家族写真"
-   ],
-   "importance": 4
   }
  ]
 }
