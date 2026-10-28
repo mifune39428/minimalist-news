@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T21:23:39.471003+09:00",
+ "updated_at": "2026-10-29T07:22:17.244626+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,35 +27,35 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-28T21:24:15.689699+09:00",
+  "generated_at": "2026-10-29T07:23:42.887104+09:00",
   "days": 3,
-  "period": "10月27日〜10月28日",
+  "period": "10月28日〜10月29日",
   "count": 45,
-  "reduce_count": 25,
-  "own_count": 20,
-  "overview": "ミニマリスト関連の45件の記事では、持ち物を減らす考え方や手放す工夫、少ない服やガジェットを活用した日々の暮らしの実例が広く語られています。",
-  "reduce": "物を手放す基準や収納の工夫、生活習慣の見直しによって暮らしを身軽にする方法が多くの記事で取り上げられています。",
-  "own": "無印良品のアイテムやガジェット、カプセルワードローブなど、厳選された持ち物で心地よく暮らす実例が紹介されています。",
+  "reduce_count": 32,
+  "own_count": 13,
+  "overview": "手放し方や朝の習慣を見直す「減らし方」と、厳選した道具や衣類で暮らす「持ち物」の工夫に関する記事が多く集まっています。",
+  "reduce": "物を隠す収納グッズを買う前に根本的な原因を見直すことや、服を絞ることで衣替えや買い物の習慣を変える工夫が語られています。",
+  "own": "無印良品の生活雑貨やガジェット、衣類などを自身の暮らしに合わせて厳選し、快適さを保つための具体的な愛用品の選び方が紹介されています。",
   "points": [
    {
-    "title": "手放す基準の見直し",
-    "body": "使えるという理由だけで残さず、包装紙や思い出の品などに向き合って判断基準を変える体験談が語られています。"
+    "title": "収納より見直し",
+    "body": "収納ケースを買っても数か月後には元に戻るため、単に物を隠すのではなく暮らしの根本的な問題に向き合うべきだと指摘されています。"
    },
    {
-    "title": "収納と部屋の工夫",
-    "body": "収納グッズを買い足す前に持ち物を見直す重要性や、ダイニングテーブルを手放して開放感を出す実例が紹介されています。"
+    "title": "朝の習慣と片付け",
+    "body": "毎朝の早起きや短い片付け作業を日課にすることで、心身の健康を保ちながら散らかりを防ぐアプローチが紹介されています。"
    },
    {
-    "title": "厳選された持ち物",
-    "body": "無印良品のリュックやポーチ、ガジェット類など、日々の暮らしや仕事を快適にする愛用品が紹介されています。"
+    "title": "服や家具の削減",
+    "body": "ワードローブを少数精鋭に絞って衣替えを不要にしたり、ダイニングテーブルを手放して部屋に開放感を生み出す事例が語られています。"
    }
   ],
   "keywords": [
    "無印良品",
    "断捨離",
    "収納",
-   "ガジェット",
-   "服"
+   "ミニマリスト",
+   "衣替え"
   ]
  },
  "things": [
@@ -64,20 +64,16 @@
    "count": 12
   },
   {
-   "name": "スマホ",
-   "count": 7
-  },
-  {
    "name": "ベッド",
    "count": 7
   },
   {
-   "name": "モバイルバッテリー",
+   "name": "スマホ",
    "count": 6
   },
   {
-   "name": "iPhone",
-   "count": 4
+   "name": "モバイルバッテリー",
+   "count": 6
   },
   {
    "name": "キッチン",
@@ -92,16 +88,16 @@
    "count": 4
   },
   {
-   "name": "収納ケース",
-   "count": 4
-  },
-  {
    "name": "本",
    "count": 4
   },
   {
    "name": "財布",
    "count": 4
+  },
+  {
+   "name": "iPhone",
+   "count": 3
   },
   {
    "name": "イヤホン",
@@ -117,6 +113,10 @@
   },
   {
    "name": "バッグ",
+   "count": 3
+  },
+  {
+   "name": "収納ケース",
    "count": 3
   },
   {
@@ -148,10 +148,6 @@
    "count": 2
   },
   {
-   "name": "ケーブル",
-   "count": 2
-  },
-  {
    "name": "シャツ",
    "count": 2
   },
@@ -168,6 +164,10 @@
    "count": 2
   },
   {
+   "name": "ヒートテック",
+   "count": 2
+  },
+  {
    "name": "ヘッドホン",
    "count": 2
   },
@@ -177,10 +177,6 @@
   },
   {
    "name": "メガネ",
-   "count": 2
-  },
-  {
-   "name": "ラベル",
    "count": 2
   },
   {
@@ -227,6 +223,7 @@
   "All About（オールアバウト）",
   "Apartment Therapy",
   "BS12",
+  "Balance Through Simplicity",
   "Be More with Less",
   "Better Homes & Gardens",
   "Bona Magazine",
@@ -245,7 +242,6 @@
   "Ideal Home",
   "InStyle",
   "Infoseek",
-  "JIJICO",
   "Jenny Mustard",
   "LIMO | くらしとお金の経済メディア",
   "Lifehacker",
@@ -258,7 +254,6 @@
   "Real Estate",
   "Real Simple",
   "Sacramento Bee",
-  "Santa Clarita Valley Signal",
   "Simple Lionheart Life",
   "Southern Living",
   "T3",
@@ -274,7 +269,6 @@
   "Union News Daily",
   "Unisba Media",
   "Upworthy",
-  "WEBザテレビジョン",
   "Who What Wear",
   "Yahoo",
   "Yahoo Creators",
@@ -283,7 +277,6 @@
   "YouTube",
   "au Webポータル",
   "autoevolution",
-  "freeyork",
   "note",
   "note #ミニマリスト",
   "note #少ない服で暮らす",
@@ -320,6 +313,207 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "21275708c6bb95ab",
+   "url": "https://note.com/shin_mini_ryou/n/nacededcc7c07",
+   "title_original": "綺麗な青空と白い雲の朝",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/329653419/rectangle_large_type_2_32b0edd266340456099e4022083ba529.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-28T22:18:03+00:00",
+   "title_ja": "毎朝4時半に起きて床や鏡を掃除する朝の習慣の話",
+   "summary_ja": "毎朝4時半頃に起床し、鏡や床の掃除、早朝のウォーキングといった朝活を1つずつ丁寧に行う人の体験談。朝の規則正しい習慣を通して達成感や充実感を味わい、心身ともに健康でウェルビーイングな状態を保つ暮らしの実践が語られている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "4f120e2e087aac67",
+   "url": "https://bemorewithless.com/quotes-about-boundaries/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
+   "title_original": "10 Quotes About Boundaries if You Struggle to Say and Set Them",
+   "source": "Be More with Less",
+   "image": "https://bemorewithless.com/wp-content/uploads/2019/07/quotes-about-boundaries-image.png",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-28T22:04:35+00:00",
+   "title_ja": "人間関係の境界線を引くことに悩む人に向けた名言集",
+   "summary_ja": "他人との適切な境界線を設定することに苦戦している人に向けて、自分を守り尊重するための10の名言を紹介する記事。断りづらい時や抱え込みすぎそうな時に、自身の境界線を明確にして心身のバランスを保つ考え方を学べる。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "0a1c5b5bc91fb50c",
+   "url": "https://www.roomie.jp/2026/10/1915098",
+   "title_original": "普段「AirPods Pro 3」を愛用している僕が、旅行や出張には「AirPods 5」を持ち歩く理由はね…",
+   "source": "ROOMIE",
+   "image": "https://www.roomie.jp/wp-content/uploads/2026/10/261022_AirPods5_08.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-28T22:00:25+00:00",
+   "title_ja": "普段使いと旅先で2つのイヤホンを使い分ける理由",
+   "summary_ja": "普段はAirPods Pro 3を使いつつ、旅行や出張の際にはAirPods 5を持ち歩くフリーライターの持ち物紹介。乗り物移動時の騒音対策や携帯性、多機能性といった要素を考慮し、用途に合わせてイヤホンを切り替える理由を語る。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "AirPods Pro 3",
+    "AirPods 5"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "17df29df960b055a",
+   "url": "https://www.lifehacker.jp/article/machi-ya-lunadat2-start-988292",
+   "title_original": "28gの純チタンボディに7つの光を宿す。ポケットに入るEDCライト「LUNADA T2」",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/10/27/1c973dba-34b3-4608-8ecd-2bae2113b52a/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-28T22:00:00+00:00",
+   "title_ja": "重さ28gで多機能な超小型チタン製EDCライトの紹介",
+   "summary_ja": "全長67mm、重さ28gと小型軽量な純チタン製LED懐中電灯「LUNADA T2」を紹介。最大600lmのメインライトや7段階のサイドライト、IPX6防水、USB-C充電機能を備え、日常の携帯から災害時まで活用できる仕様になっている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "LUNADA T2",
+    "LED懐中電灯"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "97d2197b8c265501",
+   "url": "https://note.com/chiisana_hana/n/n324417d52c4c",
+   "title_original": "服を減らしたら、衣替えをしなくてよくなった",
+   "source": "note #少ない服で暮らす",
+   "image": "https://assets.st-note.com/production/uploads/images/329557282/rectangle_large_type_2_6df75b867b7ef34b542b15d000196ed9.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-28T20:50:54+00:00",
+   "title_ja": "服を減らしたことで衣替えが不要になった話",
+   "summary_ja": "気温が下がった日にヒートテックやダウンジャケットを着た際、同僚の言葉から自分が衣替えをしていないことに気づく。日常的に服の数を絞り込んでおくことで、季節の変わり目における衣替えの手間をなくした実例。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "ヒートテック",
+    "ウルトラライトダウン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "a776f6fbffb956a0",
+   "url": "https://thesimplicityhabit.com/best-decluttering-methods",
+   "title_original": "The 10 Best Decluttering Methods (According to a Professional Declutterer)",
+   "source": "The Simplicity Habit",
+   "image": "https://thesimplicityhabit.com/wp-content/uploads/2026/10/horizontal-blog-post-2026-10-28T123437.192-1024x683.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-28T20:47:11+00:00",
+   "title_ja": "プロが教える10の片づけ・整理方法",
+   "summary_ja": "キッチンカウンターやクローゼット、ガレージなどに物が溢れて散らかっている状態から、どこから手を付ければよいかを解説。片づけのプロが推し進める、家を効率的に片づけるための10の方法を紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "490765148b3cf442",
+   "url": "https://www.southernliving.com/decluttering-mistakes-12173571",
+   "title_original": "7 Decluttering Mistakes Professional Organizers Want You To Stop Making",
+   "source": "Southern Living",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-28T16:10:00+00:00",
+   "title_ja": "片づけのプロが警告するやってはいけない失敗",
+   "summary_ja": "プロの整理収納アドバイザーが指摘する、家を片付ける際によくある間違いをまとめた記事。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "3ee29e23fc0a59fb",
+   "url": "https://www.youtube.com/shorts/xATXxih2UTo",
+   "title_original": "We found hidden clutter in our studio.",
+   "source": "The Minimalists",
+   "image": "https://i1.ytimg.com/vi/xATXxih2UTo/hqdefault.jpg",
+   "media": "youtube",
+   "region": "海外",
+   "published": "2026-10-28T15:41:04+00:00",
+   "title_ja": "スタジオで見つかった隠れた不用品について",
+   "summary_ja": "ミニマリストたちが自分たちのスタジオ内で見つけた、普段気づかない隠れた不要品について語る動画。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "8682697e5594ba14",
+   "url": "https://www.goodhousekeeping.com/uk/house-and-home/household-advice/a74262616/soft-decluttering-method",
+   "title_original": "The soft decluttering method is the easiest way to tidy when you’re already stressed out",
+   "source": "Good Housekeeping",
+   "image": "https://hips.hearstapps.com/hmg-prod/images/2e9ee53f-f945-47a6-a287-908ad304ee59.jpg?crop=1.00xw:0.753xh;0,0.247xh&resize=1200:*",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-28T13:53:56+00:00",
+   "title_ja": "ストレスが少ない「ソフト・デクラター」の手法",
+   "summary_ja": "ストレスを感じているときでも無理なく実践できる、優しい片づけや手放しの方法について紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "2a0125259db57664",
+   "url": "https://balancethroughsimplicity.com/ta-da-list",
+   "title_original": "5 Reasons to Write a Ta-Da List Instead of a To-Do List",
+   "source": "Balance Through Simplicity",
+   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2026/10/Ta-Da-List-2-683x1024.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-28T13:40:20+00:00",
+   "title_ja": "「やったことリスト」を活用する5つの理由",
+   "summary_ja": "タスクを管理する「やることリスト」ではなく、自分が完了した行動を書き出すリストを使って日々の達成感を認める方法。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "983d284ca5bdc1b2",
+   "url": "https://balancethroughsimplicity.com/done-is-better-than-perfect",
+   "title_original": "Why Done is Better Than Perfect: 7 Ways to Stop Holding Yourself Back",
+   "source": "Balance Through Simplicity",
+   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2026/10/Done-is-Better-Than-Perfect-1-683x1024.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-28T13:40:04+00:00",
+   "title_ja": "完璧を目指さず「完了」させることの重要性",
+   "summary_ja": "完璧にこだわって行動が止まってしまうのを防ぎ、まずやり終えることの大切さとそのアプローチについて解説している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "e94f7046df7e939a",
+   "url": "https://www.bhg.com/declutter-hosting-items-12197342",
+   "title_original": "6 Hosting Items You Should Get Rid of Now to Make Entertaining Easier",
+   "source": "Better Homes & Gardens",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-28T13:20:00+00:00",
+   "title_ja": "来客時に備える持ち物を見直すヒント",
+   "summary_ja": "よりスムーズなおもてなしを実現するために、来客用のアイテムを見直して手放すべきものについて解説している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "f0f9cad72eb15b4b",
    "url": "https://note.com/milk_seirisuru/n/n348c8d5a7364",
@@ -5822,43 +6016,6 @@
    "importance": 3
   },
   {
-   "id": "0a4e184062968b68",
-   "url": "https://note.com/icchora_aging/n/n1d939a29d3fb",
-   "title_original": "スーツはミニマリストの味方になる？ 洗えるスーツで考える、身軽な服選び",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/326622310/rectangle_large_type_2_8f88390f1bc4de2b57a9fcb21b3db528.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-21T03:39:33+00:00",
-   "title_ja": "スーツを味方にする身軽な服選びの考え方",
-   "summary_ja": "ミニマリズムとスーツの相性の良さについて考察し、洗えるスーツなどを通じた身軽な服の選び方について綴っています。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "スーツ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "5358ba79bc0c71ed",
-   "url": "https://note.com/menhealer_namapo/n/n7fb73c063361",
-   "title_original": "家計簿アプリの見直しをしてiphoneからマネーフォワードなどアプリを9個断捨離【2026年10月】",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/326761260/rectangle_large_type_2_319d0fc4356760b57af2fcd050a862a0.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-21T03:37:06+00:00",
-   "title_ja": "セキュリティを考慮して家計簿アプリなど9個を断捨離した話",
-   "summary_ja": "個人情報保護の観点から、長年使っていた家計簿アプリ2つを含む計9個の使っていないアプリをまとめて手放した体験談です。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "iPhone",
-    "家計簿アプリ"
-   ],
-   "importance": 4
-  },
-  {
    "id": "f675706eb848f870",
    "url": "https://www.lifehacker.jp/article/2610-i-gave-old-tablet-permanent-job",
    "title_original": "アップデートから見放された8年前のiPad。役割を変えたら「手放せない相棒」に化けた",
@@ -7161,179 +7318,6 @@
    "summary_ja": "ミニマリストにおける子育てや家族との関わり方について語られた動画。所有物を減らす暮らしの中で家族とどのように向き合っているのかを知る手がかりになる。",
    "category": "心・習慣",
    "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "a7dbc08657aed417",
-   "url": "https://mbp-japan.com/tokyo/danshari/column/5239547",
-   "title_original": "モノとの「お別れの儀式」という考え方｜小林理恵",
-   "source": "JIJICO",
-   "image": "https://mbp-japan.com/elements/tokyo/profiles/danshari/images/original/image_5348353.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-18T23:38:35+00:00",
-   "title_ja": "モノとの「お別れの儀式」という考え方を取り入れて手放す",
-   "summary_ja": "不要になったモノを手放す際に行う「お別れの儀式」という独自の考え方について、専門家が分かりやすく解説しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "540ef60bdc15392e",
-   "url": "https://www.thespruce.com/things-to-throw-away-in-fall-12166871",
-   "title_original": "Want a Less Cluttered Home This Fall? Start by Getting Rid of These 7 Things, Professional Organizers Say",
-   "source": "The Spruce",
-   "image": "https://www.thespruce.com/thmb/SZEqDCAOdmI6eWjTF7jsz4Skzfo=/6594x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1630218464-3a4fd805f824451bb8f183ff9fa7aa56.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-18T23:37:00+00:00",
-   "title_ja": "秋のすっきりした部屋作り。プロが教えるまず手放すべき7つのモノ",
-   "summary_ja": "秋に向けてすっきりとした部屋を実現するため、プロの整理収納アドバイザーが最初に見直すべき7つのモノを紹介しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "16adf6616c105d7d",
-   "url": "https://thetv.jp/program/0000955615/333",
-   "title_original": "ウチ、“断捨離”しました！「12歳年下妻の不満爆発 夫の実家で“遺品大戦争”」",
-   "source": "WEBザテレビジョン",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-18T21:55:59+00:00",
-   "title_ja": "夫の実家での遺品整理をめぐる断捨離のドキュメント",
-   "summary_ja": "夫の実家で起きた遺品整理をめぐるトラブルと、それに向き合う家族の断捨離の様子を追ったテレビ番組のニュース。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "23933743bcef1be3",
-   "url": "https://freeyork.org/architecture/traveler-tiny-home-design-compact-comfort-traveler",
-   "title_original": "Compact Comfort: Inside the Traveler Tiny Home’s Efficient 120-Square-Foot Design",
-   "source": "freeyork",
-   "image": "https://freeyorkk.b-cdn.net/wp-content/uploads/2026/10/traveler-tiny-home-design-compact-comfort-traveler-freeyork-1.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-18T21:23:44+00:00",
-   "title_ja": "120平方フィートのコンパクトなタイニーハウス",
-   "summary_ja": "限られた狭小なスペースを効率的にデザインした、タイニーハウスの内部構造と快適な暮らしを紹介する海外の記事。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "8a966e19285f8f59",
-   "url": "https://www.southernliving.com/declutter-home-office-according-to-experts-12178123",
-   "title_original": "4 Things You Can Do Right Now To Declutter Your Home Office, According To Experts",
-   "source": "Southern Living",
-   "image": "https://www.southernliving.com/thmb/YasD7sI5mjuf5P-6KYqlWcUGI1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2172289525-8389de16aa58401bb432a84b3c46eaa5.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-18T18:00:00+00:00",
-   "title_ja": "専門家に学ぶホームオフィスをすぐ片付ける4つの方法",
-   "summary_ja": "専門家の知見に基づき、自宅の仕事スペースを今すぐすっきりと片付けるための4つの実践的なアプローチを紹介する。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "51f4d136078a7d6c",
-   "url": "https://signalscv.com/2026/10/the-philosophy-of-decluttering",
-   "title_original": "The Philosophy of Decluttering",
-   "source": "Santa Clarita Valley Signal",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-18T16:19:37+00:00",
-   "title_ja": "モノを手放すことについての哲学的な考え方",
-   "summary_ja": "身の回りの物を減らすという行為の背景にある考え方や哲学について考察している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "6224825185521495",
-   "url": "https://www.lifehacker.jp/article/2610-amazon-switchbot-lock-pro-starter-combo-suica-tue",
-   "title_original": "賃貸でも工事不要でオートロックに。SwitchBotドアロックProで防犯対策",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2025/08/28/e5ec49af-781d-46c2-8237-e940063fb17c/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-18T13:45:00+00:00",
-   "title_ja": "後付けスマートロックで鍵の紛失不安を解消した話",
-   "summary_ja": "玄関の鍵に後付けすることで、スマホや指紋、ICカードでの施錠・解錠を可能にするスマートロック。鍵を持ち歩く必要がなくなるため、紛失の不安や交換費用の心配から解放され、家族全員が安心して外出できるよう防犯性を高めてくれる。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "SwitchBotドアロックProセット",
-    "スマホ",
-    "指紋認証キー",
-    "ICカード"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "5933e673c33c9ce2",
-   "url": "https://www.lifehacker.jp/article/aimedia-bathroom-high-pressure-gun",
-   "title_original": "お風呂掃除の見て見ぬ振りを、「もっとやりたい」まで引き上げてくれた高水圧ガン #これ買ってよかった",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/09/03/359ee2a0-883a-4871-a5a8-88769f9e9227/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-18T13:30:00+00:00",
-   "title_ja": "水圧で汚れを吹き飛ばす高水圧ガンでお風呂掃除をラクに",
-   "summary_ja": "シャワーヘッドに付け替えるだけで手軽に使えるアイメディアの高水圧ガン。強力な水圧により、排水溝や細かい隙間の汚れを効率よく吹き飛ばすことができる。面倒に感じがちなお風呂掃除や大掃除の負担を大幅に軽減してくれるアイテム。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "高水圧ガン",
-    "シャワーヘッド"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "393f633e119ea099",
-   "url": "https://www.lifehacker.jp/article/2610-lht-cable-matome",
-   "title_original": "使わないケーブルの断捨離→スッキリ仕分ける！ 家中のケーブル整理に役立ったアイテム6つ",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/10/16/b3627904-678e-47ee-b6c0-26c8797a15eb/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-18T13:15:00+00:00",
-   "title_ja": "使わないケーブルの断捨離でスッキリ整理",
-   "summary_ja": "使わなくなったUSBやHDMIなどのケーブルを手放す手順と、仕分けに便利な6つのアイテム（収納ケース・ラベル・ケーブルタイ等）を紹介。見える化で部屋をすっきりさせ、不要な配線が減り掃除が楽になった実例を掲載。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "ケーブル",
-    "収納ケース",
-    "ラベル",
-    "ケーブルタイ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "6071a8eabebc78d5",
-   "url": "https://news.livedoor.com/article/detail/32597866",
-   "title_original": "【秋服全部紹介】40代会社員が「少ない服で着回す」ワードローブ全14着とオンオフコーデ",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-18T13:00:00+00:00",
-   "title_ja": "40代会社員が14着だけで秋コーデ",
-   "summary_ja": "40代の会社員が秋のワードローブを全14点に絞り、オン・オフでのコーディネート例を実演。少ない服で多様に着回す方法が分かる。",
-   "category": "服・ファッション",
-   "axis": "own",
    "things": [],
    "importance": 3
   }
