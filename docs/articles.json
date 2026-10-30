@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T13:56:43.992452+09:00",
+ "updated_at": "2026-10-30T21:24:20.982815+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,44 +27,50 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-30T13:57:44.102905+09:00",
+  "generated_at": "2026-10-30T21:26:48.661938+09:00",
   "days": 3,
   "period": "10月29日〜10月30日",
   "count": 45,
-  "reduce_count": 24,
-  "own_count": 21,
-  "overview": "持ち物の見直しや収納の工夫を通じて、日々の暮らしを快適にするためのアイデアや体験談が45件寄せられています。",
-  "reduce": "クローゼットや食品庫の整理をはじめ、物やデジタルデータを手放して心や時間にゆとりを生む方法が多数語られています。",
-  "own": "無印良品や100均の収納術、厳選された冬服やバックパックなど、限られたアイテムで心地よく暮らす実例が紹介されています。",
+  "reduce_count": 23,
+  "own_count": 22,
+  "overview": "45件の記事では、服やコスメ、写真などの不用品を手放して暮らしやお金を整えるアイデアと、山崎実業や無印良品の便利グッズなど厳選した持ち物で日常や旅を身軽かつ快適にする工夫が語られています。",
+  "reduce": "服や食品、写真などの不要なモノやデータを手放し、買い物の基準を見直して生活や老後の不安を整える方法が語られています。",
+  "own": "山崎実業や無印良品などの機能的な道具や、重ね着で冬を越す少数の服など、厳選したモノで日常や旅を快適にする工夫が語られています。",
   "points": [
    {
-    "title": "衣類や持ち物の見直し",
-    "body": "元アパレル店員が下着からバッグまで総数20着で冬を乗り切る工夫や、秋冬物のプチ断捨離で収納と心をすっきりさせた体験談が語られています。"
+    "title": "少数の服で過ごす工夫",
+    "body": "元アパレル店員が20着の重ね着で冬を乗り切る方法や、服を80着から1着のワンピースまで減らして暮らしを最小限に抑えた体験が紹介されています。"
    },
    {
-    "title": "収納スペースの活用法",
-    "body": "大きなスーツケースを空のまま放置せずに家の中の収納として有効活用するアイデアや、無印や100均を活かした賃貸キッチンの収納術が紹介されています。"
+    "title": "便利グッズによる収納術",
+    "body": "山崎実業のハンガーラックや100均・無印良品のアイテムを賃貸キッチンで活用し、プチストレスを解消しながら空間を有効に使う工夫が取り上げられています。"
    },
    {
-    "title": "デジタルや紙類の整理",
-    "body": "スマートフォンやクラウドに溜まる大量の写真を削除基準や手順と共に整理するデジタル断捨離や、日常の重要書類をストレスフリーに片付けるコツが解説されています。"
+    "title": "デジタルデータの整理術",
+    "body": "スマホの通知整理や使用制限のほか、PC内の不要データ削除アプリや写真の削除基準を設けることで、容量圧迫を防ぐデジタル断捨離のやり方が示されています。"
+   },
+   {
+    "title": "旅や備えに活かす道具選び",
+    "body": "17Lから42Lへ容量変更できるバックパックや、普段使いと防災を兼ねた寝袋・エアマットのセットなど、持ち物を増やさずに快適さと備えを両立する道具が選ばれています。"
    }
   ],
   "keywords": [
+   "山崎実業",
+   "無印良品",
    "断捨離",
-   "ミニマリスト",
-   "収納",
-   "片付け"
+   "バックパック",
+   "防災リュック",
+   "クローゼット"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 12
+   "count": 13
   },
   {
    "name": "ベッド",
-   "count": 6
+   "count": 7
   },
   {
    "name": "モバイルバッテリー",
@@ -76,10 +82,6 @@
   },
   {
    "name": "iPhone",
-   "count": 4
-  },
-  {
-   "name": "キッチン",
    "count": 4
   },
   {
@@ -107,11 +109,7 @@
    "count": 4
   },
   {
-   "name": "シャワー",
-   "count": 3
-  },
-  {
-   "name": "バックパック",
+   "name": "キッチン",
    "count": 3
   },
   {
@@ -119,7 +117,7 @@
    "count": 3
   },
   {
-   "name": "暖炉",
+   "name": "簡易キッチン",
    "count": 3
   },
   {
@@ -159,11 +157,27 @@
    "count": 2
   },
   {
+   "name": "シャワー",
+   "count": 2
+  },
+  {
+   "name": "シール",
+   "count": 2
+  },
+  {
+   "name": "トラベルトレーラー",
+   "count": 2
+  },
+  {
    "name": "トレーラー",
    "count": 2
   },
   {
    "name": "ハンガー",
+   "count": 2
+  },
+  {
+   "name": "バックパック",
    "count": 2
   },
   {
@@ -180,10 +194,6 @@
   },
   {
    "name": "ミニバッグ",
-   "count": 2
-  },
-  {
-   "name": "メガネ",
    "count": 2
   },
   {
@@ -211,11 +221,7 @@
    "count": 2
   },
   {
-   "name": "本",
-   "count": 2
-  },
-  {
-   "name": "無印良品",
+   "name": "暖炉",
    "count": 2
   }
  ],
@@ -258,7 +264,6 @@
   "Sacramento Bee",
   "Simple Lionheart Life",
   "Southern Living",
-  "T3",
   "TRILL",
   "The Guardian（暮らし）",
   "The Minimal Mom",
@@ -280,6 +285,7 @@
   "YouTube",
   "au Webポータル",
   "autoevolution",
+  "mai minimalism",
   "note #ミニマリスト",
   "note #少ない服で暮らす",
   "note #持たない暮らし",
@@ -312,6 +318,281 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "3f4f82bb90a163f2",
+   "url": "https://note.com/clever_pothos867/n/na36135ef77d8",
+   "title_original": "５年前にテレビを手放した私がいまテレビがほしい理由",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/330251686/rectangle_large_type_2_508e71a4644007ac4e1fcae220b1693a.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-30T12:08:43+00:00",
+   "title_ja": "5年前にテレビを手放した人が、いま感じていること",
+   "summary_ja": "5年前にテレビを手放し、しばらくは快適な生活を送っていた筆者ですが、現在は再びテレビが欲しくなっている心境を綴っています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "テレビ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4b361133c0c93992",
+   "url": "https://note.com/up_me_88/n/n739f40987dd9",
+   "title_original": "コスメを手放したら、クレープを作りたくなった。",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/img/1793361815-rctIN2WH1JBEYDfglMh9vSeZ.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-30T12:06:35+00:00",
+   "title_ja": "コスメを手放したことで、外に頼らない欲求に気づいた話",
+   "summary_ja": "引き出しにたまっていたコスメを手放したところ、足りない自分を外から補うクセが消え、自分でクレープを作りたいという内発的な欲求が生まれた体験談です。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "コスメ"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "7f386da62b1566f5",
+   "url": "https://www.roomie.jp/2026/10/1914129",
+   "title_original": "山崎実業の新作「つばを差し込むキャップホルダー」。次にかぶるときも綺麗なままで、身支度までラクになりそう",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/20261029_yamajitsukore_top.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-30T12:00:17+00:00",
+   "title_ja": "山崎実業のキャップホルダーで身支度をラクにする方法",
+   "summary_ja": "家で過ごす時間を好むライターが、慎重なモノ選びの一環として山崎実業の新作キャップホルダーを紹介しています。キャップを綺麗な状態で保ち身支度を楽にするアイテムです。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "キャップホルダー",
+    "キャップ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d5ec617445623035",
+   "url": "https://www.lifehacker.jp/article/2610-tiny-hack-porter-bag",
+   "title_original": "15年使ったPORTERの旅バッグ。買い替えようと思っても、結局これが手放せなかった理由",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/10/28/7ee378b8-00b0-4cb3-8254-c1e86c5f1ccf/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-30T12:00:00+00:00",
+   "title_ja": "15年使い続けても手放せなかったPORTERの旅バッグ",
+   "summary_ja": "15年間にわたり愛用し続けているPORTERの旅バッグについて、長く相棒であり続けた理由を振り返っています。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "PORTERの旅バッグ"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "a8e9d0ad1abe634c",
+   "url": "https://www.roomie.jp/2026/10/1917286",
+   "title_original": "イケアの「収納になるスツール」が便利すぎ！安いし何個でも買い足したい名作だった",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/20261028_KJUGE_05.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-30T11:30:52+00:00",
+   "title_ja": "イケアの収納になるスツールを使った限られた空間の活用法",
+   "summary_ja": "ヴィンテージマンションで暮らすライターが、安くて便利なイケアの収納になるスツールを紹介しています。限られた空間を使い切るための一石二鳥のアイテムです。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "スツール"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "9b6611f54253d0e2",
+   "url": "https://tinyhousetalk.com/capri-retreat-hard-sided-truck-camper",
+   "title_original": "Capri Retreat: A Lightweight Hard-Sided Truck Camper with a Cab-Over Bed",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/capri-retreat-truck-camper-mountain-sunset.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-30T11:30:00+00:00",
+   "title_ja": "立ち上がれる広さとベッドを備えた軽量トラックキャンパー「Capri Retreat」",
+   "summary_ja": "フルサイズやミッドサイズのトラックに対応する軽量なハードサイド型のトラックキャンパーです。60×80インチのキャブオーバーベッドをはじめ、簡易キッチンやダイネット、立ったまま過ごせる空間を備えており、移動しながら快適に暮らせます。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "トラックキャンパー",
+    "ベッド",
+    "簡易キッチン",
+    "ダイネット"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "50b58d8a495d6833",
+   "url": "https://tinyhousetalk.com/oliver-legacy-elite-ii-fiberglass-travel-trailer",
+   "title_original": "Oliver Legacy Elite II: A 24-Foot Double-Hull Fiberglass Trailer Built for Four Seasons",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/oliver-legacy-elite-ii-twin-axle-aurora-snow.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-30T11:15:00+00:00",
+   "title_ja": "四季を通じて快適に過ごせる24フィートのトラベルトレーラー",
+   "summary_ja": "テネシー州で手作業で作られている24フィートのトラベルトレーラーです。グラスファイバーの二重構造やダクト式ヒーターなどの防寒・通年設備を備え、最大3人が就寝できるコンパクトで機能的な空間を実現しています。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "トラベルトレーラー",
+    "ダクト式ヒーター"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "73e75630816331dc",
+   "url": "https://news.livedoor.com/topics/detail/32695420",
+   "title_original": "19時帰宅から眠るまで。50代ひとり暮らしの静かな日常",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-30T11:15:00+00:00",
+   "title_ja": "19時に帰宅してから就寝するまでの50代ひとり暮らしの静かな夜の日常",
+   "summary_ja": "仕事から19時に帰宅したあと就寝するまでの時間をどのように過ごしているか、50代ひとり暮らしの静かな夜のルーティンを紹介しています。過剰な刺激を避け、自分らしい時間を大切にする暮らしの参考になります。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "7aede90bbfd58b0d",
+   "url": "https://www.youtube.com/watch?v=RiCxRypKSHo",
+   "title_original": "【ミニマリスト】80着からワンピ1着になるまで",
+   "source": "ミニマリスト Nozomi",
+   "image": "https://i3.ytimg.com/vi/RiCxRypKSHo/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-10-30T11:00:39+00:00",
+   "title_ja": "80着あった服を1着のワンピースまで減らしたミニマリストの体験談",
+   "summary_ja": "かつて80着所有していた服を1着のワンピースにまで減らした過程を紹介する動画。持ち物を全体で40個まで減らし、小さな子供がいても暮らしや家事を最小限に抑えてスマートに生活するための考え方や手放し方が語られている。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "ワンピース",
+    "服"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "986872a65e6c2874",
+   "url": "https://www.youtube.com/watch?v=uCYh4YoKgrQ",
+   "title_original": "【元汚部屋・超ズボラ】ミニマリストを目指して、捨て続けた結果が衝撃でした。【Mochi】",
+   "source": "ミニマリストsin",
+   "image": "https://i2.ytimg.com/vi/uCYh4YoKgrQ/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-10-30T11:00:39+00:00",
+   "title_ja": "元汚部屋でズボラな人がミニマリストを目指して物を捨て続けた結果",
+   "summary_ja": "部屋が散らかっていた状態からミニマリストを目指し、不用品を捨て続けた結果や変化を伝える動画。ズボラな性格であっても手放しを重ねることで暮らしがどのように変化していったのか、実体験に基づいた様子が語られている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "6a02bc66c850ccc3",
+   "url": "https://www.youtube.com/watch?v=pt5f9Mfhjrw",
+   "title_original": "【老後不安】50代からのリアルなお金との付き合い方＜ゲスト：青木さやかさん＞",
+   "source": "やましたひでこ断捨離",
+   "image": "https://i1.ytimg.com/vi/pt5f9Mfhjrw/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-10-30T11:00:37+00:00",
+   "title_ja": "50代からの老後不安をやわらげるお金とのリアルな付き合い方",
+   "summary_ja": "やましたひでこ氏とゲストの青木さやか氏が、50代からの老後不安とお金との付き合い方について語る動画。モノの片付けだけでなく、心やお金の捉え方をシンプルに整えて無理なく暮らしていくためのヒントが明かされている。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "2c4eaa5504ce2393",
+   "url": "https://www.roomie.jp/2026/10/1916203",
+   "title_original": "達成したらシールをペタッ。無印良品の「スケジュール付箋紙」で、続かなかった運動を習慣にできた",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/shiro_261027_mujifreehusen_top.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-30T11:00:08+00:00",
+   "title_ja": "無印良品のスケジュール付箋紙を活用して運動を習慣化した話",
+   "summary_ja": "デスクワーク中心で運動不足だった著者が、無印良品の「スケジュール付箋紙」を使って運動習慣を身につけた方法を紹介。目標達成時にシールを貼る仕組みを作ることで、続かなかった運動を楽しく継続できるようになった過程を綴る。",
+   "category": "心・習慣",
+   "axis": "own",
+   "things": [
+    "スケジュール付箋紙",
+    "シール"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ba0eed74df405428",
+   "url": "https://www.youtube.com/watch?v=2G9lWicmK4c",
+   "title_original": "デジタルデトックスで人生が変わる｜ミニマリスト流スマホとの付き合い方",
+   "source": "mai minimalism",
+   "image": "https://i3.ytimg.com/vi/2G9lWicmK4c/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-10-30T11:00:07+00:00",
+   "title_ja": "ミニマリストが実践するデジタルデトックス",
+   "summary_ja": "スマートフォンの過剰使用を減らすため、通知の整理や使用時間の制限などミニマリストが実践するデジタルデトックスの方法を解説。動画制作に使用しているSONY α7CIIとSIGMA 28‑70mmも紹介。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "SONY α7CII",
+    "SIGMA 28-70mm"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "1bbca2deec67b1e7",
+   "url": "https://tinyhousetalk.com/pleasure-way-plateau-ts-sprinter-class-b",
+   "title_original": "Pleasure-Way Plateau TS: A Sprinter Class B with a Big Bathroom and Off-Grid Lithium Power",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/pleasure-way-plateau-ts-passenger-side.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-30T11:00:00+00:00",
+   "title_ja": "大バスルーム搭載のミニマルキャンパーVan",
+   "summary_ja": "22フィート9インチのMercedes SprinterクラスBキャンパーバンPlateau TSは広いバスルームと拡張キッチン、後部ラウンジがクイーンサイズベッドに変形し、リチウムバッテリー・ソーラーパネル・発電機を標準装備している。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "Mercedes Sprinter",
+    "リチウムバッテリー",
+    "ソーラーパネル",
+    "ジェネレーター"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "f5cabfcf4682ca25",
+   "url": "https://monomax.jp/archives/366053",
+   "title_original": "【ヌルッと切れる快感】オルファ18年ぶりの新作ハサミも！プロが選んだ「切る系」感動文具3選",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2026/10/260814-155737_11zon-scaled.jpeg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-30T10:00:29+00:00",
+   "title_ja": "プロが選ぶ感動文具3選と新作オルファハサミ",
+   "summary_ja": "プロが厳選した切れ味抜群の文具3点と、18年ぶりに登場したオルファの新作ハサミを取り上げ、使い心地やおすすめポイントを詳しく解説している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "オルファハサミ"
+   ],
+   "importance": 3
+  },
   {
    "id": "1701ad0d92a9a33b",
    "url": "https://note.com/gay_curlew3242/n/nbc4a1b85e1d2",
@@ -5750,22 +6031,6 @@
    "importance": 3
   },
   {
-   "id": "4c8d67d270a02c5c",
-   "url": "https://note.com/kenjyou/n/n9dfcb9c10411",
-   "title_original": "ミニマリストのたった1つの悩みがこれである。",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/327309119/rectangle_large_type_2_486c04dfcabe47bfb0719a7bfe34d943.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-22T14:17:52+00:00",
-   "title_ja": "ミニマリストが抱える「たった1つの悩み」についての話",
-   "summary_ja": "仙人のようだと周囲から言われるミニマリストの日常や、持ち物を減らした生活の中で直面する独特の悩みについて綴ったブログ記事。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
    "id": "932f2873b895adc3",
    "url": "https://nosidebar.com/how-to-trade-your-grief-for-love",
    "title_original": "How to Trade Your Grief for Love",
@@ -7077,256 +7342,6 @@
    "things": [
     "収納ケース"
    ],
-   "importance": 3
-  },
-  {
-   "id": "f71d55d86b44a7b3",
-   "url": "https://tinyhousetalk.com/tiny-life-urban-two-bedroom-franklin-nc",
-   "title_original": "Tiny Life Urban: A 713 Sq Ft Two-Bedroom Small Home in the North Carolina Mountains",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/tiny-life-urban-49478a-kitchen-living.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-20T11:00:00+00:00",
-   "title_ja": "2つのベッドルームと暖炉を備えた約66平米のコンパクト住宅",
-   "summary_ja": "2つのベッドルームに加え、暖炉のあるリビングやオープンキッチン、ガラス張りのシャワールームなどを備えたコンパクトな住宅。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "キッチン",
-    "暖炉",
-    "シャワー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "961e16e496182dbc",
-   "url": "https://www.lifehacker.jp/article/2610-costorypo-lumoair-review1-1964238331",
-   "title_original": "サーキュレーターの「出す・しまう」から解放される。ファン付き照明という選択",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/10/13/bd0f7bf6-3124-4bc4-a5a5-ba271f23e9b9/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-20T10:45:00+00:00",
-   "title_ja": "LumoAir：羽根が出るシーリングファンライトでサーキュレーターも兼ねる",
-   "summary_ja": "薄型シーリングファンライト『LumoAir』は、使用時に羽根が開き直径109cmの大型ファンに変形し、調光や音声操作も可能。夏は扇風機、冬はサーキュレーターとして一年中活躍し、照明と換気を一体化できる点がミニマリストに好評です。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "LumoAir"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c239d572e849ee45",
-   "url": "https://www.roomie.jp/2026/10/1901286",
-   "title_original": "掃除嫌いな私が手放せなくなったスポンジ。ホコリがごっそり取れて、水回りもピカピカになった！",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/261008_morikawa_dump-duster_9.jpeg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-20T10:00:28+00:00",
-   "title_ja": "掃除嫌いでも水回りが綺麗になるダンプダスター",
-   "summary_ja": "掃除嫌いな筆者が愛用しているダンプダスターを紹介。軽い汚れの段階で手軽に掃除でき、ホコリがよく取れて水回りもピカピカに保てる便利な掃除道具として手放せなくなっている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ダンプダスター"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "09aecb6903ddaf9f",
-   "url": "https://www.lifehacker.jp/article/2610-lht-kingjim-file",
-   "title_original": "確定申告に向けて。キングジムの「領収書に特化」したファイルで管理・整理がスイスイ進む",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/03/02/d00e2c7a-18c3-4b7c-ae19-3224b1668ee4/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-20T10:00:00+00:00",
-   "title_ja": "キングジムの領収書ファイルでする書類整理",
-   "summary_ja": "確定申告の時期に向けて、キングジムの「スキットマン」という領収書に特化したファイルを活用している。事務所の書類整理や管理が簡単に進むようになった実例。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "領収書ファイル"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "6a8ab32a7518e6d1",
-   "url": "https://limo.media/articles/-/142524",
-   "title_original": "3COINSの『フラグメントケース』を購入したらお出かけが身軽になる！必要なものを手のひらサイズに！大人のミニ財布",
-   "source": "LIMO | くらしとお金の経済メディア",
-   "image": "https://limo.ismcdn.jp/mwimgs/6/8/1200w/img_68d751c90d3ee4db1706037077915279220346.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-20T09:30:00+00:00",
-   "title_ja": "3COINSのフラグメントケースで身軽に",
-   "summary_ja": "3COINSのフラグメントケースを導入し、必要なものを手のひらサイズにまとめてお出かけを身軽にした大人のミニ財布について紹介しています。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "フラグメントケース"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2337d440e254aa23",
-   "url": "https://www.lifehacker.jp/article/machi-ya-flexy-start-984155",
-   "title_original": "バッグを開けばそこがクローゼット。吊るして使える拡張バックパック",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/10/19/81be04bb-7509-4c9e-9691-0bf7e38455b2/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-20T09:15:00+00:00",
-   "title_ja": "旅先でクローゼットになる拡張式バックパック",
-   "summary_ja": "通勤から旅行まで容量を4段階で変えられるバックパック「FLEXY PRO」を紹介。ホテルでは吊るして簡易クローゼットとして使え、多数のポケットやシューズボックスも備えている。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "バックパック"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "08ef651e7ceaccc9",
-   "url": "https://www.roomie.jp/2026/10/1909729",
-   "title_original": "“元から手がきれいな人”みたいに。スキンコットンの「おしろいクリーム」なら保湿・UVカット・補正がひとつで叶う",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/kanro2026101702.jpeg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-20T09:00:07+00:00",
-   "title_ja": "1本3役で乾燥と紫外線対策をこなすおしろいクリーム",
-   "summary_ja": "スキンコットンの手のおしろいUVクリームを取り上げている。保湿、日焼け止め、肌補正の3役を1本でこなし、秋の乾燥や紫外線が気になる季節の時短ケアに愛用している。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "ハンドクリーム"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c1105f71bd3f1055",
-   "url": "https://monomax.jp/archives/365528",
-   "title_original": "【無印良品でデッドスペース撲滅】ちょっとした隙間が収納に化ける！名作ボックスと合体するファイルや吊るせる薄型ケースなど傑作アイテム5選",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2026/10/260813-155289_11zon-scaled.jpeg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-20T09:00:00+00:00",
-   "title_ja": "無印で隙間活用　おすすめ収納アイテム5選",
-   "summary_ja": "無印良品のボックスやファイル、薄型吊るしケースなど5点を紹介。ちょっとしたデッドスペースを有効活用できる収納アイテムです。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "無印のボックス",
-    "無印のファイル",
-    "無印の薄型ケース"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f55717b910437158",
-   "url": "https://www.roomie.jp/2026/10/1912233",
-   "title_original": "ベッドサイドに置いておきたい。寝る前1時間だけ掛ける、鯖江製の軽いメガネ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/soma3.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-20T08:45:21+00:00",
-   "title_ja": "鯖江の職人が手がけた軽い夜用メガネ",
-   "summary_ja": "鯖江で作られた、寝る前のくつろぎ時間に掛けるための軽いメガネです。ブルーライトやグリーンライトをカットするレンズを備えています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "メガネ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "488d4a53bac72bc4",
-   "url": "https://news.livedoor.com/article/detail/32612014",
-   "title_original": "「家に帰っても疲れる」「おもちゃで激狭」片付けプロが明かす、リビングの賢い収納術",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-20T07:00:03+00:00",
-   "title_ja": "片付けのプロが教えるリビングの賢い収納術",
-   "summary_ja": "家に帰っても疲れてしまうリビングや、おもちゃで狭くなった空間をすっきりとさせるための収納術を紹介しています。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "c6536507c11d3a11",
-   "url": "https://www.t3.com/home-living/travel/why-did-nobody-tell-me-about-compressible-packing-cubes",
-   "title_original": "Why did nobody tell me about compressible packing cubes?!",
-   "source": "T3",
-   "image": "https://cdn.mos.cms.futurecdn.net/yyNwhdEUfDznSC77o9v82Q-1920-80.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-20T07:00:00+00:00",
-   "title_ja": "圧縮パッキングキューブの魅力と活用法",
-   "summary_ja": "圧縮可能なパッキングキューブの存在を紹介し、荷物をコンパクトにまとめられる点や旅行・収納での活用例を説明している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "パッキングキューブ"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "7499a88e383f787a",
-   "url": "https://news.livedoor.com/article/detail/32611853",
-   "title_original": "【ルームツアー】子供4人でも生活感ゼロ！整理収納プロのリノベキッチン",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-20T06:48:47+00:00",
-   "title_ja": "子ども4人でも生活感のないリノベキッチン",
-   "summary_ja": "4人の子どもがいても生活感を感じさせない、整理収納のプロが手がけたリノベーションキッチンのルームツアー。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "d72c102034c578e9",
-   "url": "https://www.asahi.com/and/w/article/16978230",
-   "title_original": "「もう握らない！」スリーピーの『330円のおにぎりメーカー』時短で大量生産できる優れもの《使用レビュー》",
-   "source": "朝日新聞",
-   "image": "https://p.potaufeu.asahi.com/e5d3-p/picture/31462488/e354ff0f187de610c436002670602358.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-20T04:40:00+00:00",
-   "title_ja": "330円の安価なおにぎりメーカーを試すレビュー",
-   "summary_ja": "330円で購入できるおにぎりメーカーを実際に使い、時短で大量におにぎりを作れる点を評価したレビューです。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "おにぎりメーカー"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "e85aae9faad2ca19",
-   "url": "https://www.bhg.com/what-professional-organizers-actually-use-12139065",
-   "title_original": "6 Must-Have Items Pro Organizers Trust for Busy and Cluttered Homes",
-   "source": "Better Homes & Gardens",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-20T03:12:07+00:00",
-   "title_ja": "プロの整理収納士が信頼する6つの必需品",
-   "summary_ja": "忙しく散らかりがちな家を整えるため、プロの整理収納士が信頼して使っている6つの必須アイテムを紹介している。部屋の片付けや収納に役立つ道具を知ることができる。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [],
    "importance": 3
   }
  ]
