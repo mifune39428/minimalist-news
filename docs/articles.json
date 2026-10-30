@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T07:35:32.310071+09:00",
+ "updated_at": "2026-10-30T13:56:43.992452+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,52 +27,51 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-30T07:36:26.688937+09:00",
+  "generated_at": "2026-10-30T13:57:44.102905+09:00",
   "days": 3,
-  "period": "10月28日〜10月30日",
+  "period": "10月29日〜10月30日",
   "count": 45,
-  "reduce_count": 28,
-  "own_count": 17,
-  "overview": "衣類やクローゼットの収納を見直すプチ断捨離の実例や、日常の道具やガジェットを厳選して快適に暮らす工夫が多方面から語られています。",
-  "reduce": "季節外れの衣類や紙類を手放す具体的な断捨離のコツや、物を減らして心や時間にゆとりを生む考え方が多数紹介されています。",
-  "own": "靴下やハンガーなどの身の回りの道具を慎重に選び抜き、日々の暮らしのプチストレスを解消する実例が語られています。",
+  "reduce_count": 24,
+  "own_count": 21,
+  "overview": "持ち物の見直しや収納の工夫を通じて、日々の暮らしを快適にするためのアイデアや体験談が45件寄せられています。",
+  "reduce": "クローゼットや食品庫の整理をはじめ、物やデジタルデータを手放して心や時間にゆとりを生む方法が多数語られています。",
+  "own": "無印良品や100均の収納術、厳選された冬服やバックパックなど、限られたアイテムで心地よく暮らす実例が紹介されています。",
   "points": [
    {
-    "title": "衣類と収納の断捨離",
-    "body": "数年使わなかった秋冬物の衣類を処分してクローゼットや心をすっきりさせた実例や、服を減らしたことで衣替えが不要になった体験談が語られています。"
+    "title": "衣類や持ち物の見直し",
+    "body": "元アパレル店員が下着からバッグまで総数20着で冬を乗り切る工夫や、秋冬物のプチ断捨離で収納と心をすっきりさせた体験談が語られています。"
    },
    {
-    "title": "便利な道具やガジェット",
-    "body": "ステンレスチェーンの洗浄スクラバーや逆折りたたみ傘など、日々の家事や移動時のストレスを軽減する実用的なアイテムの選び方が紹介されています。"
+    "title": "収納スペースの活用法",
+    "body": "大きなスーツケースを空のまま放置せずに家の中の収納として有効活用するアイデアや、無印や100均を活かした賃貸キッチンの収納術が紹介されています。"
    },
    {
-    "title": "心と暮らしの習慣見直し",
-    "body": "早起きして掃除をする朝の習慣や、無意識な悪習慣を見直して日々の暮らしを整えるための具体的な考え方やルールが解説されています。"
+    "title": "デジタルや紙類の整理",
+    "body": "スマートフォンやクラウドに溜まる大量の写真を削除基準や手順と共に整理するデジタル断捨離や、日常の重要書類をストレスフリーに片付けるコツが解説されています。"
    }
   ],
   "keywords": [
    "断捨離",
+   "ミニマリスト",
    "収納",
-   "ハンガー",
-   "服",
-   "ストレス"
+   "片付け"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 11
+   "count": 12
   },
   {
    "name": "ベッド",
    "count": 6
   },
   {
-   "name": "スマホ",
+   "name": "モバイルバッテリー",
    "count": 5
   },
   {
-   "name": "モバイルバッテリー",
+   "name": "靴",
    "count": 5
   },
   {
@@ -84,7 +83,15 @@
    "count": 4
   },
   {
+   "name": "スマホ",
+   "count": 4
+  },
+  {
    "name": "タイニーハウス",
+   "count": 4
+  },
+  {
+   "name": "バッグ",
    "count": 4
   },
   {
@@ -92,27 +99,19 @@
    "count": 4
   },
   {
+   "name": "下着",
+   "count": 4
+  },
+  {
    "name": "財布",
    "count": 4
-  },
-  {
-   "name": "靴",
-   "count": 4
-  },
-  {
-   "name": "イヤホン",
-   "count": 3
   },
   {
    "name": "シャワー",
    "count": 3
   },
   {
-   "name": "バッグ",
-   "count": 3
-  },
-  {
-   "name": "下着",
+   "name": "バックパック",
    "count": 3
   },
   {
@@ -124,8 +123,8 @@
    "count": 3
   },
   {
-   "name": "本",
-   "count": 3
+   "name": "100均アイテム",
+   "count": 2
   },
   {
    "name": "Apple Watch",
@@ -133,6 +132,14 @@
   },
   {
    "name": "iPad",
+   "count": 2
+  },
+  {
+   "name": "イヤホン",
+   "count": 2
+  },
+  {
+   "name": "カーテン",
    "count": 2
   },
   {
@@ -152,10 +159,6 @@
    "count": 2
   },
   {
-   "name": "スマートフォン",
-   "count": 2
-  },
-  {
    "name": "トレーラー",
    "count": 2
   },
@@ -164,15 +167,15 @@
    "count": 2
   },
   {
-   "name": "バックパック",
-   "count": 2
-  },
-  {
    "name": "ヒートテック",
    "count": 2
   },
   {
    "name": "ヘッドホン",
+   "count": 2
+  },
+  {
+   "name": "ミニテーブル",
    "count": 2
   },
   {
@@ -192,6 +195,10 @@
    "count": 2
   },
   {
+   "name": "家具",
+   "count": 2
+  },
+  {
    "name": "寝袋",
    "count": 2
   },
@@ -204,25 +211,16 @@
    "count": 2
   },
   {
-   "name": "無印良品のアイテム",
+   "name": "本",
    "count": 2
   },
   {
-   "name": "簡易キッチン",
-   "count": 2
-  },
-  {
-   "name": "米",
-   "count": 2
-  },
-  {
-   "name": "雑貨",
+   "name": "無印良品",
    "count": 2
   }
  ],
  "sources": [
   "A Slob Comes Clean",
-  "AERA DIGITAL",
   "AOL.com",
   "All About（オールアバウト）",
   "Apartment Therapy",
@@ -243,8 +241,8 @@
   "Glam",
   "Good Housekeeping",
   "GoodsPress Web",
+  "How-To Geek",
   "Ideal Home",
-  "InStyle",
   "Infoseek",
   "LIMO | くらしとお金の経済メディア",
   "Lifehacker",
@@ -282,7 +280,6 @@
   "YouTube",
   "au Webポータル",
   "autoevolution",
-  "note",
   "note #ミニマリスト",
   "note #少ない服で暮らす",
   "note #持たない暮らし",
@@ -294,7 +291,6 @@
   "やましたひでこ断捨離",
   "オリコンニュース",
   "ニコニコニュース",
-  "マイナビ子育て",
   "ミニマリスト Nozomi",
   "ミニマリストK",
   "ミニマリストsin",
@@ -307,7 +303,6 @@
   "リンネル.jp",
   "千葉テレビ放送",
   "千葉テレビ放送株式会社",
-  "婦人公論.jp",
   "小さな暮らしノート",
   "山陽新聞",
   "朝日新聞",
@@ -317,6 +312,203 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "1701ad0d92a9a33b",
+   "url": "https://note.com/gay_curlew3242/n/nbc4a1b85e1d2",
+   "title_original": "スーツケースの活用術！空っぽのまま放置は絶対NG！",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/330112023/rectangle_large_type_2_bfb7ff91f63036ccabc5969d467f9c2e.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-30T04:46:29+00:00",
+   "title_ja": "大きなスーツケースを空のまま放置せず有効活用するアイデア",
+   "summary_ja": "大きな場所をとるスーツケースを、クローゼットや押入れで空っぽのまま保管しておくのはもったいないとし、家の中の収納として賢く有効活用する考え方を提案している。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "スーツケース"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "72c5ce9d4fb2d4a7",
+   "url": "https://note.com/kiujitsu/n/n1b3669c55f5a",
+   "title_original": "映画『PERFECT DAYS』を見た40代無職の感想",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/325322200/rectangle_large_type_2_430a0bc5aa94d3b03a5c675369309b8b.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-30T04:44:04+00:00",
+   "title_ja": "映画『PERFECT DAYS』を鑑賞した40代無職のリアルな感想",
+   "summary_ja": "ヴィム・ヴェンダース監督、役所広司主演で話題となりカンヌ国際映画祭でも賞を受賞した映画『PERFECT DAYS』を観た40代無職の筆者が、作品から受け取った印象や感想を語っている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "f27fb680448a63e3",
+   "url": "https://www.lifehacker.jp/article/2610how-to-set-up-your-bedroom-like-a-hotel-room-vgf",
+   "title_original": "ぐっすり寝られるホテルの秘密。自宅に取り入れる4つのコツ",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2024/10/25/ed6a7426-209f-45e9-bc18-72783b054251/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-30T03:45:00+00:00",
+   "title_ja": "ホテルの寝室を自宅で再現する4つのコツ",
+   "summary_ja": "ホテルのようにぐっすり眠るための自宅の寝室を快適にするコツを解説。寝具の選び方や室温の調整など、環境を見直す方法を紹介しています。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "efa24cd390bea517",
+   "url": "https://news.livedoor.com/article/detail/32691576",
+   "title_original": "【ルームツアー】プロの「秒で片付く」賃貸キッチン収納術！無印良品・100均活用法",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-30T03:31:34+00:00",
+   "title_ja": "無印や100均を活用する賃貸キッチンの収納術",
+   "summary_ja": "プロが実践する「秒で片付く」賃貸キッチンの収納術を紹介するルームツアー記事。無印良品や100円ショップのアイテムを活用した整理方法を取り上げています。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "無印良品",
+    "100均アイテム"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "aa4ca58015ec9999",
+   "url": "https://note.com/20chaku/n/ne77002703b96",
+   "title_original": "冬になっても、服は20着のまま",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/330088515/rectangle_large_type_2_d2789091b958d03d0f556528b8dabd06.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-30T03:26:35+00:00",
+   "title_ja": "服を増やさず冬を乗り切る20着の暮らし",
+   "summary_ja": "下着からバッグまで総数20着で暮らす元アパレル店員のライフスタイル。冬場でも服を買い足すのではなく、今あるアイテムの重ね着で工夫して過ごしています。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "服",
+    "下着",
+    "靴",
+    "バッグ"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "96b327d8426ba704",
+   "url": "https://www.bhg.com/fifo-pro-organizing-method-12139132",
+   "title_original": "How the FIFO Organizing Method Can Help Streamline Your Pantry and Reduce Waste at Home",
+   "source": "Better Homes & Gardens",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-30T03:15:00+00:00",
+   "title_ja": "食品庫をすっきりさせて無駄を減らすFIFO整理術",
+   "summary_ja": "食品庫の整理整頓と家庭での廃棄を減らすのに役立つ、FIFOを活用した収納方法についての解説記事。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "536c943b166e614f",
+   "url": "https://www.roomie.jp/2026/10/1918788",
+   "title_original": "金曜は会社からそのまま旅へ。17Lが42Lに育つバックパックが頼もしい",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/flexy1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-30T02:45:43+00:00",
+   "title_ja": "週末の旅を身軽にする容量が可変するバックパック",
+   "summary_ja": "金曜日の旅行へそのまま出かけられる、荷物の量に合わせて17Lから42Lへサイズを変えられるバックパックを紹介している。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "バックパック"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "cdf59d1df7e6ed89",
+   "url": "https://youtu.be/mwohrg8dN2k?si=pg7UH41ncu5-4gaw",
+   "title_original": "【What's in my 防災バッグ？】ミニマリストの防災リュックの中身｜一人暮らし",
+   "source": "YouTube",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-30T02:14:50+00:00",
+   "title_ja": "一人暮らしミニマリストの防災リュックの中身紹介",
+   "summary_ja": "一人暮らしのミニマリストが備えている、防災リュックの中身を紹介している動画の概要。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "防災リュック"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "dabdedfb30405383",
+   "url": "https://www.roomie.jp/2026/10/1917988",
+   "title_original": "キャンプに行かない日は、部屋の飾り台に。カメラや時計が映えるカーボンのミニテーブルなんです",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/3ktable1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-30T00:45:18+00:00",
+   "title_ja": "キャンプや部屋で使えるカーボンのミニテーブル",
+   "summary_ja": "荷物を増やさずに小さな置き場所を作れる、カーボン素材のミニテーブルの紹介。キャンプだけでなく室内でも時計やカメラの飾り台として活用できる。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ミニテーブル"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "13d28bfbb369f366",
+   "url": "https://minimalist-fudeko.com/how-to-know-what-you-like",
+   "title_original": "自分の好みがわからない人へ～条件で絞って、最後は気持ちで選ぶ",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/10/select-drapes.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-30T00:10:06+00:00",
+   "title_ja": "自分の好みがわからないときの物選びの基準",
+   "summary_ja": "家具やカーテンなどの持ち物を選ぶ際、条件で絞り込んで最後は自分の気持ちで決めるという、買い物の考え方について解説している。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [
+    "家具",
+    "カーテン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c33001ae44198e42",
+   "url": "https://www.chiba-tv.com/plus/detail/2026102175143",
+   "title_original": "そのスペース無駄にしてない！？整理収納アドバイザーが実践する保存容器の手放し＆収納テク",
+   "source": "千葉テレビ放送株式会社",
+   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1488670828584830067/origin_1.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-29T22:46:27+00:00",
+   "title_ja": "保存容器を手放してすっきりさせる収納のコツ",
+   "summary_ja": "整理収納アドバイザーが実践している、無駄なスペースをなくすための保存容器の手放し方や収納テクニックを紹介する記事。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "保存容器"
+   ],
+   "importance": 3
+  },
   {
    "id": "039b28f650e41fa7",
    "url": "https://www.roomie.jp/2026/10/1917658",
@@ -447,6 +639,24 @@
     "雑貨"
    ],
    "importance": 4
+  },
+  {
+   "id": "2c4f45c0ef292bc3",
+   "url": "https://www.howtogeek.com/these-3-windows-utilities-can-tame-a-desktop-thats-messy-beyond-belief",
+   "title_original": "These 3 free Microsoft apps will completely declutter your Windows PC",
+   "source": "How-To Geek",
+   "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/lenovo-yoga-9i-oled-display.jpg?w=1600&h=900&fit=crop",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-29T20:00:15+00:00",
+   "title_ja": "Windows PCをすっきり整理できる無料アプリ3選",
+   "summary_ja": "パソコン内部の不要なデータを整理し、Windows PCの環境をすっきりとした状態に整えることができる、マイクロソフト製の無料アプリケーション3選を紹介する記事です。",
+   "category": "道具・ガジェット",
+   "axis": "reduce",
+   "things": [
+    "Windows PC"
+   ],
+   "importance": 3
   },
   {
    "id": "f72205e464ce80c0",
@@ -747,6 +957,25 @@
    "axis": "own",
    "things": [
     "ハンガー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "1e6c66084d07453b",
+   "url": "https://tinyhousetalk.com/nyth-y-barcud-mid-wales-oak-treehouse",
+   "title_original": "Nyth y Barcud: A Level-Access Oak Treehouse Above a Stream in Mid Wales",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/nyth-y-barcud-exterior-oak-canopy.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-29T11:00:00+00:00",
+   "title_ja": "自然の中で暮らすタイニーハウスの設備",
+   "summary_ja": "イギリスの川辺にあるオフグリッドのツリーハウス。薪ストーブやガラス床を備えた、最小限の空間での暮らし。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "薪ストーブ",
+    "ダブルベッド"
    ],
    "importance": 3
   },
@@ -5823,45 +6052,6 @@
    "importance": 3
   },
   {
-   "id": "1f384f18e6c4dcb4",
-   "url": "https://note.com/lively_marten340/n/n999b0e5e6f57",
-   "title_original": "スマホの\"なんとなく\"を、図書館の1冊に置きかえてみた",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/327243076/rectangle_large_type_2_7c1c534f75b476aff3e179757f30f875.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-22T10:56:41+00:00",
-   "title_ja": "スマホのゲームやSNSを手放し図書館の本を読む習慣に変えた話",
-   "summary_ja": "スマホのゲームアプリを消去し、SNSも目につかない場所へ隠した後に感じた違和感と向き合った体験談。なんとなく画面を眺める時間を、図書館で借りてきた1冊の本を読む時間に置き換える試みです。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "スマホ",
-    "本"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2df78351420b0cb5",
-   "url": "https://note.com/just_orchid8686/n/n0e010ee4cbd2",
-   "title_original": "テレビがないと、NHKとの関係はどうなる？ 持たない暮らしで見えてくる",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/327234394/rectangle_large_type_2_d447e58e802cbead6085bfe446eb14ac.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-22T10:19:56+00:00",
-   "title_ja": "テレビを手放すとNHKとの契約関係はどうなるのか",
-   "summary_ja": "自宅にテレビがない人はNHK受信契約の対象外となります。スマホやパソコンを持っているだけでは契約対象になりませんが、特定の配信サービスを自分で見始めた場合は契約が必要になります。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "テレビ",
-    "スマートフォン",
-    "パソコン"
-   ],
-   "importance": 3
-  },
-  {
    "id": "880626a283fdcf3a",
    "url": "https://www.roomie.jp/2026/10/1902739",
    "title_original": "ダイソー「手のひらサイズの電子メモ」。絶妙な不便さもあるけど、買ってよかった",
@@ -6054,24 +6244,6 @@
    "importance": 3
   },
   {
-   "id": "f5c398f0eb8f1e5d",
-   "url": "https://note.com/shinkouya_1453/n/n7e40d22e37c2",
-   "title_original": "【GMKtec M8 (16GB/512GB) レビュー】Ryzen 5 PRO搭載の超小型ミニPC！デスクを広くスッキリ使える実力を徹底解説",
-   "source": "note",
-   "image": "https://assets.st-note.com/production/uploads/images/326998804/rectangle_large_type_2_6ca68e74eb0ae52db6755d02f0fa6dfc.png?fit=bounds&quality=85&width=1280",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-21T23:00:00+00:00",
-   "title_ja": "超小型ミニPC「GMKtec M8」でデスク周りを広くスッキリ使う",
-   "summary_ja": "Ryzen 5 PROを搭載した超小型ミニPC「GMKtec M8」を導入することで、デスクのスペースを広くスッキリと片づけられることを解説しています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "GMKtec M8"
-   ],
-   "importance": 3
-  },
-  {
    "id": "e3515f915f60f6e4",
    "url": "https://www.roomie.jp/2026/10/1908684",
    "title_original": "モンベルの「WIC.カーディガン」があれば1日中快適に過ごせる。秋の気温差ストレスを解決できた",
@@ -6087,22 +6259,6 @@
    "things": [
     "WIC.カーディガン"
    ],
-   "importance": 3
-  },
-  {
-   "id": "00d1bc88066d4daf",
-   "url": "https://note.com/mori_3_note/n/n5db0a86e57a7",
-   "title_original": "終わっていないことが、頭の中を散らかしている。 「ツァイガルニク効果」",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/326558902/rectangle_large_type_2_c99eda6cb93e3607b7f6eb9c153d5e5c.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-21T21:20:37+00:00",
-   "title_ja": "仕事後も頭が散らかる原因と「ツァイガルニク効果」に関する考察",
-   "summary_ja": "仕事が終わっても頭の中で仕事が続いてしまう悩みに対し、やり残したことが強く記憶に残るツァイガルニク効果の視点から解説する記事。部屋の物だけでなく、頭の中の散らかりを整理して思考をすっきりさせる考え方が語られている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
    "importance": 3
   },
   {
@@ -7172,159 +7328,6 @@
    "axis": "own",
    "things": [],
    "importance": 3
-  },
-  {
-   "id": "1dbe50521c230a2c",
-   "url": "https://www.roomie.jp/2026/10/1903169",
-   "title_original": "Nothingの新作「Headphone (1) Pro」をピアニストが2週間使ってみたら、好きな曲をもっと好きになった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/37A6547-2-1.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-20T03:00:52+00:00",
-   "title_ja": "ピアニストが2週間使ったNothingヘッドホンの感想",
-   "summary_ja": "2LDKで妻と暮らすピアニストが、Nothing社のHeadphone (1) Proを2週間試用。音楽がより鮮明に聞こえ、好きな曲への没入感が高まったと評価し、長く愛用したいと語っている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "イヤホン"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "c5da444bef74094e",
-   "url": "https://fujinkoron.jp/articles/-/24473",
-   "title_original": "断捨離の第一人者・やましたひでこ流、キッチンでストレスを減らすコツ。「最初のひと手間」で、作業がラクに【2026編集部セレクション】",
-   "source": "婦人公論.jp",
-   "image": "https://fujinkoron.jp/mwimgs/0/c/-/img_0c1f3a1524d14f403d7f837beeec2a9435823.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-20T03:00:00+00:00",
-   "title_ja": "やましたひでこ流 キッチンでストレス減らすコツ",
-   "summary_ja": "断捨離の第一人者・やましたひでこが、キッチン作業を楽にするための「最初のひと手間」テクニックを紹介。調理道具の配置や小さな整理で、作業ストレスと片付け時間を大幅に削減できる。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "94a3b94045da9bb1",
-   "url": "https://dot.asahi.com/articles/-/295348",
-   "title_original": "〈きょう48歳〉「平野ノラ」がママタレとして人気急上昇 隠れ美形で高齢出産、断捨離のプロの顔も",
-   "source": "AERA DIGITAL",
-   "image": "https://aeradot.ismcdn.jp/mwimgs/d/6/1200xm/img_d6ea6466182c63b6cbb89d81953ff7e1120255.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-20T03:00:00+00:00",
-   "title_ja": "48歳平野ノラが語る断捨離とママタレント生活",
-   "summary_ja": "48歳の平野ノラが、ママタレントとしての活動と並行し、断捨離プロとして実践している片付けのコツや持ち物の見直し方を語り、シンプルな暮らしの重要性を強調している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "56e2bc25933ac3f2",
-   "url": "https://www.instyle.com/hailey-bieber-straight-leg-jeans-heels-12182785",
-   "title_original": "Hailey Bieber’s Straight-Leg Jeans and Black Heels Are Key to Any Rich-Looking Fall Capsule Wardrobe",
-   "source": "InStyle",
-   "image": "https://www.instyle.com/thmb/-NpYFDewt3LNYaTpUwE8ddux55Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/101627-hailey-bieber-soc-4c6a24d45e8c45689752eaa0fc183c15.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-20T02:00:00+00:00",
-   "title_ja": "ハイリー・ビーバーが提案する秋のカプセルワードローブ",
-   "summary_ja": "ストレートレッグジーンズと黒のヒールを組み合わせるだけで、リッチに見える秋のカプセルワードローブを作れると紹介しています。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "ストレートレッグジーンズ",
-    "黒ヒール"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "7fa2fb20527d6634",
-   "url": "https://kosodate.mynavi.jp/articles/46334",
-   "title_original": "小学5年生の娘が自分でラベル作り！ 整理収納のプロが実践する片づけ育児術",
-   "source": "マイナビ子育て",
-   "image": "https://kosodate.mynavi.jp/uploads/article/image/46334/thum.png",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-20T01:31:00+00:00",
-   "title_ja": "5年生の娘が自作ラベルで学ぶ整理術",
-   "summary_ja": "整理収納のプロが、5年生の娘が自分でラベルを作り、片づけを通じて子どもの整理習慣を育てる方法を紹介しています。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "ラベル"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "eef6f18af6e2e923",
-   "url": "https://www.lifehacker.jp/article/machi-ya-15pocketscanvasbag-start-987852",
-   "title_original": "あれこれ入れてもすっきり。15ポケットもある帆布ショルダーバッグ",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/10/13/47dabb0d-6121-4b15-a258-5f1480df6888/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-20T01:30:00+00:00",
-   "title_ja": "15ポケット帆布ショルダーバッグで荷物をすっきり整理",
-   "summary_ja": "15個のポケットと3層構造を持つ帆布ショルダーバッグは約700gと軽く、スマホや通帳など小物を整理できる。脱着式ボトルホルダーや可動ベルトで長時間の外出も快適にサポートする。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "帆布ショルダーバッグ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "23f246a0ea3d2faa",
-   "url": "https://minimalist-fudeko.com/find-things-faster",
-   "title_original": "探しものが多い人へ。置き場所は、メモを取ると見つかります",
-   "source": "筆子ジャーナル",
-   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/08/looking-for-something.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-20T00:10:52+00:00",
-   "title_ja": "置き場所をメモで管理し探し物を減らす方法",
-   "summary_ja": "置き場所を決めたら、実際に置いたときにメモを取る習慣をつけると、同じものを探す回数が減る。メモを見返すだけで場所がすぐ分かり、探し物のストレスが軽減できる。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "3e043bc5b84af772",
-   "url": "https://www.youtube.com/shorts/Ugh55zPcTmA",
-   "title_original": "🌿 ミニマリストが手放した無駄遣い5選 #ミニマリスト #シングルマザー #片付けられない",
-   "source": "小さな暮らしノート",
-   "image": "https://i2.ytimg.com/vi/Ugh55zPcTmA/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-10-19T23:51:23+00:00",
-   "title_ja": "ミニマリストがやめた無駄遣い5選",
-   "summary_ja": "安さやストレス発散で増えていた不要な買い物をやめ、物より心の余白が大切だと実感したミニマリストが、手放した無駄遣い5つを語る。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "6d28ec06a03f7e99",
-   "url": "https://bemorewithless.com/clothes-challenge/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
-   "title_original": "4 Clothes Challenges to Help You Declutter Your Wardrobe",
-   "source": "Be More with Less",
-   "image": "https://bemorewithless.com/wp-content/uploads/2026/10/clothes-challenge-image.png",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-19T23:35:53+00:00",
-   "title_ja": "衣類を減らす4つのチャレンジ紹介",
-   "summary_ja": "英語ブログBe More with Lessが提案する4つの服チャレンジは、1年間で全服を見直す、季節ごとに必要最低限に絞る、1日1枚だけ着る、不要品を即売る、という手順でクローゼットをすっきりさせる方法を紹介している。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
   }
  ]
 }
