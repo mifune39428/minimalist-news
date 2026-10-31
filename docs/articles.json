@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T13:42:22.233320+09:00",
+ "updated_at": "2026-10-31T20:54:40.214905+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,40 +27,41 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-10-31T13:43:42.717416+09:00",
+  "generated_at": "2026-10-31T20:55:27.727925+09:00",
   "days": 3,
   "period": "10月30日〜10月31日",
   "count": 45,
-  "reduce_count": 24,
-  "own_count": 21,
-  "overview": "10月30日〜31日に集まった45件の記事では、不要なものを手放して暮らしを整える方法や、厳選した道具や服を活用するミニマルなライフスタイルが語られています。",
-  "reduce": "物をため込まないための片付けのステップや、不要な服やコスメを手放して心や空間を整える実践的な方法が多く語られています。",
-  "own": "手ぶらで外出できるバッグやポケット付き衣類、限られた空間を有効活用する収納ツールやコンパクトな住まいが紹介されています。",
+  "reduce_count": 23,
+  "own_count": 22,
+  "overview": "物や情報の減らし方と、日々の暮らしを快適にする持ち物の工夫が語られている。片付けの習慣や身軽な衣食住の実例が多く取り上げられている。",
+  "reduce": "他人の評価や不要な服・コスメを見直し、今ある物を壊れるまで使い切るなど心と環境を整える方法が語られている。",
+  "own": "限られた空間を活かす収納グッズや、手ぶら外出を叶えるポーチや多機能ジャケットなどの愛用品が紹介されている。",
   "points": [
    {
-    "title": "手ぶらで出かける工夫",
-    "body": "バッグを持たずにスマホや傘、上着などを外付けできる本革ベルトや、5つの大型ポケットを備えたジャケットなど、身軽に外出するための便利な持ち物が紹介されています。"
+    "title": "手放すモチベーション",
+    "body": "SNSや動画で他人の断捨離の様子を観察することで、自分も不要な物を手放したくなる心理が働くと語られている。"
    },
    {
     "title": "ワードローブの見直し",
-    "body": "元アパレル店員が20着だけで暮らす実例や、80着あった服を1着のワンピースまで減らした体験談を通じ、本当に必要な服だけを選ぶクローゼットの整理術が語られています。"
+    "body": "不要で低品質な服が溢れる状態を脱却し、冷え性対策や少ない枚数で自分らしく身軽に暮らすための冬服選びが紹介されている。"
    },
    {
-    "title": "限られた空間の活用術",
-    "body": "イケアの収納になるスツールや厚さ3.5cmに畳めるテーブルなど、狭い室内やアウトドアでも場所を取らず快適に使えるコンパクトな道具や収納が提案されています。"
+    "title": "手ぶらで出かける工夫",
+    "body": "大型ポケット付きのジャケットや本革ぶら下げベルト、縦型ポーチなどを活用し、バッグを持たずに外出する工夫が提案されている。"
    }
   ],
   "keywords": [
-   "持ち物",
    "ミニマリスト",
+   "断捨離",
    "収納",
-   "片付け"
+   "持ち物",
+   "服"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 14
+   "count": 13
   },
   {
    "name": "靴",
@@ -79,6 +80,10 @@
    "count": 5
   },
   {
+   "name": "モバイルバッテリー",
+   "count": 5
+  },
+  {
    "name": "下着",
    "count": 5
   },
@@ -87,15 +92,7 @@
    "count": 5
   },
   {
-   "name": "iPhone",
-   "count": 4
-  },
-  {
    "name": "タイニーハウス",
-   "count": 4
-  },
-  {
-   "name": "モバイルバッテリー",
    "count": 4
   },
   {
@@ -103,15 +100,15 @@
    "count": 4
   },
   {
+   "name": "iPhone",
+   "count": 3
+  },
+  {
    "name": "イヤホン",
    "count": 3
   },
   {
    "name": "家",
-   "count": 3
-  },
-  {
-   "name": "簡易キッチン",
    "count": 3
   },
   {
@@ -147,6 +144,22 @@
    "count": 2
   },
   {
+   "name": "スタンディングテーブル",
+   "count": 2
+  },
+  {
+   "name": "スマホスタンド",
+   "count": 2
+  },
+  {
+   "name": "ソファ",
+   "count": 2
+  },
+  {
+   "name": "ソーラーパネル",
+   "count": 2
+  },
+  {
    "name": "デスク",
    "count": 2
   },
@@ -159,11 +172,11 @@
    "count": 2
   },
   {
-   "name": "バックパック",
+   "name": "ドリップケトル",
    "count": 2
   },
   {
-   "name": "ヒートテック",
+   "name": "バックパック",
    "count": 2
   },
   {
@@ -191,6 +204,10 @@
    "count": 2
   },
   {
+   "name": "小型冷蔵庫",
+   "count": 2
+  },
+  {
    "name": "手帳",
    "count": 2
   },
@@ -199,15 +216,7 @@
    "count": 2
   },
   {
-   "name": "無印良品",
-   "count": 2
-  },
-  {
-   "name": "無印良品のアイテム",
-   "count": 2
-  },
-  {
-   "name": "米",
+   "name": "炊飯器",
    "count": 2
   }
  ],
@@ -233,7 +242,6 @@
   "FinancialContent",
   "Glam",
   "Good Housekeeping",
-  "GoodsPress Web",
   "How-To Geek",
   "Ideal Home",
   "Infoseek",
@@ -253,6 +261,7 @@
   "Simple Lionheart Life",
   "Southern Living",
   "TRILL",
+  "The Crypto Times",
   "The Guardian（暮らし）",
   "The Minimal Mom",
   "The Minimalists",
@@ -284,6 +293,7 @@
   "ねとらぼ",
   "ぴーこ｜ゆるっとミニマルな日常",
   "やましたひでこ断捨離",
+  "りくと｜ミニマリスト",
   "オリコンニュース",
   "ニコニコニュース",
   "ミニマリスト Nozomi",
@@ -307,6 +317,280 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "fa0421df3709d851",
+   "url": "https://note.com/nokuseni2026/n/n68d7e173a718",
+   "title_original": "Q.「好きな服を着ておしゃれな人はなぜおしゃれなの？」A.それを「おしゃれだ」と評価したのは、あなた（他人）です。",
+   "source": "note #ミニマリスト",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/a18d92e5ad5340880bb6d1f227a4617f5b39d41b.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-31T11:51:56+00:00",
+   "title_ja": "他人の目を基準にした「おしゃれ」を見つめ直す",
+   "summary_ja": "おしゃれとは何かという疑問に向き合い、他人の評価に依存している価値観について考えた人の記録です。自分にとっての心地よさを探るためのヒントになります。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "30520c9ec9233518",
+   "url": "https://note.com/hot_impala7939/n/n6b66bdced394",
+   "title_original": "他人の「断捨離」を見ると、自分も捨てられるようになる理由",
+   "source": "note #断捨離",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/2787c8aeb7e834c3707b3763e6cea2c9080c041a.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-31T11:50:02+00:00",
+   "title_ja": "他人の断捨離を見ることで自分の手放しが進む理由",
+   "summary_ja": "SNSや動画で他人が断捨離をしている様子を観察すると、自分も不要な物を手放したくなる心理について語られています。他者の行動が刺激となり、片付けのモチベーションを高めてくれます。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "dc7d0b84c4ac643f",
+   "url": "https://www.roomie.jp/2026/10/1917088",
+   "title_original": "ベッド・ソファ下のデッドスペースを有効活用！ 山崎実業の台車があれば掃除もラクだよ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/261027_daisha_top-scaled.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-31T11:30:02+00:00",
+   "title_ja": "ベッドやソファ下の収納と掃除をラクにする山崎実業の台車",
+   "summary_ja": "デッドスペースになりがちなベッドやソファの下を有効活用できる、山崎実業の台車を紹介しています。物を取り出しやすくするだけでなく、日々の掃除の手間を減らす工夫として取り入れられています。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "山崎実業の台車",
+    "ベッド",
+    "ソファ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "94c11c10b2d53354",
+   "url": "https://tinyhousetalk.com/ivan-self-built-off-grid-studio-bulgaria",
+   "title_original": "Ivan’s Self-Built 420 Sq. Ft. Off-Grid Studio in Bulgaria",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/exploring-alternatives-ivan-exterior.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-31T11:30:00+00:00",
+   "title_ja": "ブルガリアで自作したオフグリッドなミニマルスタジオ",
+   "summary_ja": "ブルガリアで自身が設計し建てた約420平方フィートのオフグリッドなスタジオで暮らす人の話です。ソーラーパネルや井戸などを備えた最小限の設備で、3年間生活を続けています。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "ソーラーパネル"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "792f3434d62c9d5f",
+   "url": "https://www.lifehacker.jp/article/machi-ya-cleanx-review-962718",
+   "title_original": "洗濯機を回すほどじゃない「1枚だけ」をどうする？ 水と塩で洗える超小型洗浄機を試してみた",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/10/09/08face1f-25e8-43f8-ab32-142a82ef4f70/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-31T11:30:00+00:00",
+   "title_ja": "水と塩だけで洗えるコンパクトな充電式超小型洗浄機",
+   "summary_ja": "少量の衣類を手軽に洗える、水と塩を用いた超小型充電式洗浄機を試したレビューです。約780gと軽量で持ち運びしやすく、旅先やちょっとした洗濯の負担を減らす道具として紹介されています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "CLEAN-X",
+    "USB Type-C充電器"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b501e0b89e3e6d1e",
+   "url": "https://tinyhousetalk.com/destination-trailer-instead-of-tiny-house-forest-river-puma",
+   "title_original": "She Skipped a $150K Tiny House for an $80K Destination Trailer",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/tiny-home-tours-forest-river-puma-exterior.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-31T11:15:00+00:00",
+   "title_ja": "150万のタイニーハウスを放棄、8万のトレーラーハウスへ",
+   "summary_ja": "退職した看護師が、南カリフォルニアの砂漠コミュニティで、150,000ドルのタイニーハウスではなく、約70,000ドル安いForest River PUMAのデスティネーショントレーラーを選択。キングサイズベッドやロフトを備え、所有する住まいを大幅に減らした。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "214bab3bbcadb80f",
+   "url": "https://www.youtube.com/watch?v=OFH0oXS3w4U",
+   "title_original": "【ルームツアー】暮らしに合わせて、間取りが動く。ミニマリストが手がけた築52年のワンルーム",
+   "source": "りくと｜ミニマリスト",
+   "image": "https://i4.ytimg.com/vi/OFH0oXS3w4U/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-10-31T11:01:39+00:00",
+   "title_ja": "ミニマリストが手がけた46㎡ワンルームのルームツアー",
+   "summary_ja": "熊本市中央区新町にある築52年・46㎡のワンルームを、ミニマリストがリノベーション。間取りが可動式で暮らしに合わせて変えられる様子を紹介する。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "アパート",
+    "可動式間取り"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d5f7a3524d13faea",
+   "url": "https://news.yahoo.co.jp/articles/33b26da9df379c33b5530bbb1cedc11a0e850842",
+   "title_original": "「お茶碗は炊飯器の横に」。取り出しやすくしまいやすい、キッチンが散らからない収納の工夫3つ（ESSE-online）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-00038161-esse-000-1-view.jpg?exp=10800",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-10-31T11:00:38+00:00",
+   "title_ja": "お茶碗を炊飯器横に置く収納術と3つの工夫",
+   "summary_ja": "キッチンが散らからないように、お茶碗を炊飯器の横に置くなど、取り出しやすく片付けやすい収納アイデアを3つ紹介。日常の小さな工夫で整理整頓を実現できる。",
+   "category": "キッチン・食",
+   "axis": "reduce",
+   "things": [
+    "お茶碗",
+    "炊飯器"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "7e59b531afdbee4b",
+   "url": "https://www.roomie.jp/2026/10/1916376",
+   "title_original": "面倒なメイクオフが、リラックスタイムに。「無印良品のクレンジングバーム」のじんわり感がお気に入りです",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/shiro_260330_cleansing-balm_7-scaled-1.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-31T11:00:30+00:00",
+   "title_ja": "無印良品のクレンジングバームでリラックスする日",
+   "summary_ja": "無印良品のクレンジングバームを使ったスキンケアの記録。肌にじんわりとなじむ使い心地と、しっとりとした洗い上がりがお気に入りのアイテムです。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "クレンジングバーム"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "0307ed13f28626f6",
+   "url": "https://www.youtube.com/watch?v=cygdV2FjDac",
+   "title_original": "vlog | やることリストで動く休日📝 1円も使わない日をつくる、26歳ミニマリストの2日間",
+   "source": "ミニマリストじゅん",
+   "image": "https://i4.ytimg.com/vi/cygdV2FjDac/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-10-31T11:00:10+00:00",
+   "title_ja": "26歳ミニマリストの休日と愛用家具・家電",
+   "summary_ja": "1円も使わない休日を過ごすミニマリストの日常。部屋で使っている弁当箱型炊飯器やスタンディングテーブル、ドリップケトルなどの愛用品を紹介しています。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "弁当箱型炊飯器",
+    "ドリップケトル",
+    "スタンディングテーブル",
+    "小型冷蔵庫"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "6c390b7f5e81f9f4",
+   "url": "https://www.youtube.com/watch?v=YzZyeAnC8U4",
+   "title_original": "ミニマリストの冬服6着｜40代｜冷え性の私が冬を快適に過ごす方法",
+   "source": "私だけミニマリスト｜南さやか",
+   "image": "https://i2.ytimg.com/vi/YzZyeAnC8U4/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-10-31T10:00:14+00:00",
+   "title_ja": "40代冷え性ミニマリストが選ぶ冬服6着",
+   "summary_ja": "アメリカ在住の40代アラフォーママが、冷え性でも快適に過ごすための冬服6着を紹介。少ない服で自分らしく身軽に暮らすためのアイデアを語っています。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "冬服"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d4ed587bab72f1f8",
+   "url": "https://www.roomie.jp/2026/10/1916455",
+   "title_original": "動画視聴中に「あと◯%」が気になる…。無印良品のモバイルバッテリーを“スマホスタンドにする”のが快適だった",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/original-2.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-10-31T09:00:46+00:00",
+   "title_ja": "無印良品のモバイルバッテリーをスタンドにする快適さ",
+   "summary_ja": "外出先の必需品であるモバイルバッテリーをスマホスタンドとして活用し、動画視聴時のストレスを解消する便利な使い方を紹介しています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "モバイルバッテリー",
+    "スマホスタンド"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c29ec89463cf4451",
+   "url": "https://nosidebar.com/declutter-before-the-holidays",
+   "title_original": "10 Things to Declutter Before the Holidays Arrive",
+   "source": "No Sidebar",
+   "image": "https://nosidebar.com/wp-content/uploads/declutter-before-holidays.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-10-31T09:00:00+00:00",
+   "title_ja": "ホリデーシーズンを迎える前に手放したい10の物",
+   "summary_ja": "年末のイベントや買い物が続く時期を前に、家の中をすっきりと整えるために見直して手放すべき10のアイテムについて解説しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "69b5829dbcfc5f3c",
+   "url": "https://www.cryptotimes.io/2026/10/31/vitalik-ditches-xs-native-interface-for-firefly-in-digital-minimalism-push",
+   "title_original": "Vitalik Buterin Ditches X’s Native Interface for Firefly in Digital Minimalism Push",
+   "source": "The Crypto Times",
+   "image": "https://www.cryptotimes.io/wp-content/uploads/2026/10/Vitalik-Buterin-Ditches-Xs-Native-Interface-for-Firefly-in-Digital-Minimalism-Push.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-31T07:48:00+00:00",
+   "title_ja": "Vitalik Buterin、デジタルミニマリズムのためX UIをやめFireflyへ",
+   "summary_ja": "イーサリアム創設者のVitalikは、情報過多を減らす目的でXのネイティブインターフェースを廃止し、Fireflyを使用し始めた。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "Firefly",
+    "X"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "d264fa71fb1d6542",
+   "url": "https://www.realsimple.com/amazon-home-organizer-deals-under-30-october-2026-12150117",
+   "title_original": "If Your Home Has Been Begging for a Decluttering Session—Check Out These Amazon Organizers for Under $30",
+   "source": "Real Simple",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-10-31T05:00:00+00:00",
+   "title_ja": "30ドル以下で揃えるAmazonの整理グッズ特集",
+   "summary_ja": "30ドル未満で購入できるAmazonの収納ボックスや仕切りなど、部屋の片付けに役立つアイテムを紹介する。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "収納ボックス",
+    "仕切り",
+    "棚"
+   ],
+   "importance": 3
+  },
   {
    "id": "4a8cb9baf0c211f8",
    "url": "https://note.com/milk_seirisuru/n/n82073fd6700c",
@@ -6384,27 +6668,6 @@
    "importance": 4
   },
   {
-   "id": "181465b2bfc47a46",
-   "url": "https://note.com/yohakurashi/n/n0e9c56b02c8f",
-   "title_original": "持たない暮らしなのに歯ブラシをストックする",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/327543845/rectangle_large_type_2_7e63cd8737a4c09cca706fa8746eb957.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-23T07:50:56+00:00",
-   "title_ja": "ミニマリストでも歯ブラシは15本ストックした理由",
-   "summary_ja": "ミニマリストの筆者が、価格上昇や在庫切れに備えて歯ブラシを15本まとめ買いした経緯と、ヨドバシでの購入体験、ストックの基準を語る。必要最低限と判断したものの、ストックは生活の手間を減らすと主張する。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "歯ブラシ",
-    "ヨドバシカメラ",
-    "Amazon",
-    "ペット用ウエットティッシュ"
-   ],
-   "importance": 3
-  },
-  {
    "id": "0f89f7f9ca2ef64c",
    "url": "https://www.realsimple.com/amazon-professional-organizer-recommended-decluttering-hacks-for-fall-october-2026-12187724",
    "title_original": "16 Genius Storage Solutions Straight From the Pros to Refresh Your Home for Fall",
@@ -7064,250 +7327,6 @@
    "things": [
     "WIC.カーディガン"
    ],
-   "importance": 3
-  },
-  {
-   "id": "68b229c201e49b26",
-   "url": "https://www.goodspress.jp/news/750355",
-   "title_original": "iPhone Airより薄い。\"あとちょっと\"にぴったりな厚さ4.8mmの超薄型MagSafeバッテリー",
-   "source": "GoodsPress Web",
-   "image": "https://static.andgp.net/cms/wp-content/uploads/2026/10/261013_magonair_01-720x720.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-21T21:00:00+00:00",
-   "title_ja": "厚さ4.8mmでiPhoneより薄い超薄型MagSafeバッテリー",
-   "summary_ja": "厚さわずか4.8mmの超薄型MagSafe対応モバイルバッテリーの紹介記事。iPhone本体よりも薄くコンパクトな仕様で、荷物を増やしたくない場面でのちょっとした充電に役立つ道具として取り上げられている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "MagSafeバッテリー",
-    "iPhone"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "5476bdc73528feb5",
-   "url": "https://bemorewithless.com/decluttering-methods/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
-   "title_original": "5 Decluttering Methods to Create a Clutter-Free Home",
-   "source": "Be More with Less",
-   "image": "https://bemorewithless.com/wp-content/uploads/2023/09/decluttering-methods-image.png",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-21T20:50:22+00:00",
-   "title_ja": "スッキリした家をつくるための効果的な片づけ手法5選",
-   "summary_ja": "ミニマルな暮らしを目指しつつも物の整理に苦戦している人に向けて、5つの片づけ方法を紹介した記事。自身の目標や使える時間、関心の度合いに合わせてカスタマイズしながら実践するための具体的なアプローチを提案している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "7a957530008aec65",
-   "url": "https://www.thespruce.com/how-i-moved-200-miles-with-a-newborn-12161525",
-   "title_original": "I Moved Over 200 Miles With a Newborn—What I’d Do Again to Make Packing and Household Setup Easier",
-   "source": "The Spruce",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-21T18:37:00+00:00",
-   "title_ja": "新生児を連れた遠方への引越しを効率的に進めた方法",
-   "summary_ja": "新生児を連れて200マイル以上の距離を引越しした体験談です。荷造りと新居のセットアップをスムーズに進めるために実践して良かった工夫を振り返っています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "1bf1743f5cffc86b",
-   "url": "https://www.thespruce.com/minimalist-living-room-decor-regrets-12172543",
-   "title_original": "We Asked Minimalists About the Living Room Decor Purchases They Regret Most, and They Did Not Hold Back",
-   "source": "The Spruce",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-21T16:42:00+00:00",
-   "title_ja": "ミニマリストが後悔したリビングの装飾品",
-   "summary_ja": "ミニマリストたちに、リビングルームの装飾品の買い物のうち何をもっとも後悔しているか尋ねた海外ニュース記事。購入時の失敗談や不要だったインテリアについて語られている。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "40f70750d5f2c606",
-   "url": "https://www.theguardian.com/fashion/2026/oct/21/jess-cartner-morley-fashion-onion-dressing",
-   "title_original": "Jess Cartner-Morley on fashion: don’t want to get your Big Winter Coat out just yet? Try ‘onion dressing’",
-   "source": "The Guardian（暮らし）",
-   "image": "https://i.guim.co.uk/img/media/73c2f157fe93b5f44a1477e9a3c9958cf202c665/0_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=2f0078c471b56d710a200a7e07adb4c7",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-21T15:32:54+00:00",
-   "title_ja": "本格的な冬の前に取り入れたい重ね着の工夫",
-   "summary_ja": "厚手のコートを出す前に、薄手の服を重ねるレイヤリングで寒さに備える方法。ユニクロのヒートテックやカシミヤのクルーネックなどを組み合わせたコーディネートを紹介している。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "ヒートテック",
-    "カシミヤクルーネック",
-    "Tシャツ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "0f4cd0256834f375",
-   "url": "https://www.realsimple.com/kitchen-cabinet-space-saving-hack-12166028",
-   "title_original": "I Tried Treating My Kitchen Cabinets Like My Closet—and It Made Decluttering So Much Easier",
-   "source": "Real Simple",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-21T15:30:00+00:00",
-   "title_ja": "キッチンの戸棚をクローゼットのように片付ける方法",
-   "summary_ja": "キッチンの戸棚の整理に、クローゼットと同じようなアプローチを取り入れて片付けをぐっと楽にした人の体験談。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "d4dafece91dac936",
-   "url": "https://www.whowhatwear.com/fashion/shopping/wardrobe-staples-fall-2026",
-   "title_original": "The Best Staples to Buy to Never Have a \"Nothing to Wear\" Day Again",
-   "source": "Who What Wear",
-   "image": "https://cdn.mos.cms.futurecdn.net/v9ZdaBfsTet8foUiEZSU7Y.gif",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-21T15:00:00+00:00",
-   "title_ja": "服選びに迷わないために持っておきたい定番アイテム",
-   "summary_ja": "「着る服がない」と悩む日をなくすために、ワードローブに揃えておきたい定番のファッションアイテムについて紹介している。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "6cc2f4f50b2cd094",
-   "url": "https://news.livedoor.com/article/detail/32623805",
-   "title_original": "【秋服全14着】シンプルに暮らす40代OLの着回しコーデ公開",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-21T13:00:00+00:00",
-   "title_ja": "40代OLが秋服全14着ですごす着回しコーデ",
-   "summary_ja": "40代の会社員が、秋服を全14着に絞ってシンプルに暮らす着回しコーディネートを紹介しています。少ない服で工夫して装いを楽しむ実例です。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "服"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2e5ad7015e0f8731",
-   "url": "https://tinyhousetalk.com/schuyler-yacht-basin-container-cabins",
-   "title_original": "Shipping Container Cabins on Fish Creek: A Tiny Hotel Near Saratoga, New York",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/schuyler-container-cabin-exterior.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-21T12:05:56+00:00",
-   "title_ja": "リサイクルコンテナを活用した小さな宿泊キャビン",
-   "summary_ja": "リサイクルされた海上コンテナを利用した小さな宿泊キャビンの紹介。クイーンベッドや簡易キッチン、バスルームを備え、限られた空間を効率よく活用しています。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "ベッド",
-    "簡易キッチン"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "d030cbf5a8e11d00",
-   "url": "https://www.roomie.jp/2026/10/1907650",
-   "title_original": "「汚れたらクリーニングへ出す」以外の選択肢。布団乾燥機＋αで、ダウンジャケットのお手入れに使えるとはね…",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/261015_kore_cado_downjacketcare_01.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-21T12:00:14+00:00",
-   "title_ja": "布団乾燥機を活用してダウンジャケットを自宅でケアする方法",
-   "summary_ja": "北海道で冬に毎日ダウンジャケットを着る著者が、クリーニングに出す以外の選択肢として布団乾燥機を使ったお手入れ方法を紹介。特別な道具を増やさず手持ちの家電を活用して衣類を清潔に保っている。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "ダウンジャケット",
-    "布団乾燥機"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "499f47e60ce2a8d7",
-   "url": "https://www.theminimalists.com/dumb",
-   "title_original": "Dumb Question",
-   "source": "The Minimalists",
-   "image": "https://www.theminimalists.com/wp-content/uploads/2026/10/getty-images-kdFo251_HAY-unsplash-500x333.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-21T12:00:00+00:00",
-   "title_ja": "愚かな質問を恐れないことの重要性",
-   "summary_ja": "物事を深く理解するためには、愚かに思われることを恐れずに問いかける姿勢が大切であると説くミニマリズムの考え方に関する記事。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "f39e8b58e0deb0b5",
-   "url": "https://www.goodhousekeeping.com/home/organizing/a74169636/storage-bins-decluttering-tips",
-   "title_original": "Don’t Buy Storage Bins Until You Do This, Professional Organizers Say",
-   "source": "Good Housekeeping",
-   "image": "https://hips.hearstapps.com/hmg-prod/images/70c93e80-a875-4e02-aa06-6e72adf4d4ac.jpeg?crop=0.853xw:0.959xh;0.136xw,0.041xh&resize=1200:*",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-21T11:30:10+00:00",
-   "title_ja": "収納ボックスを買う前に整理のプロが勧める確認事項",
-   "summary_ja": "整理整頓のプロが、収納用品を買う前に必ず行うべきステップを解説する記事。収納ケースを安易に増やすのではなく、まずは手持ちの物を見直すことの大切さを提案している。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "収納ボックス"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "946fe070c09936b8",
-   "url": "https://www.roomie.jp/2026/10/1911651",
-   "title_original": "自転車チェーンのお手入れ、オイルの代わりにコレ。固形だからベタつかず、汚れにくい",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/cha_TOP16-9.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-21T10:45:06+00:00",
-   "title_ja": "自転車チェーンを固形オイルで手入れする話",
-   "summary_ja": "自転車チェーンのメンテナンスを圧倒的にラクにし、汚れにくくしてくれる固形タイプのオイルを紹介している。ベタつかず手入れのハードルを下げる便利なアイテム。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "自転車チェーン",
-    "固形オイル"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "510f2006bf5b4c14",
-   "url": "https://www.youtube.com/watch?v=bkQmM1zMBlQ",
-   "title_original": "結婚したミニマリストKさんに、気になること全部聞いてみた｜出会い・お金・暮らし",
-   "source": "ミニマリストじゅん",
-   "image": "https://i3.ytimg.com/vi/bkQmM1zMBlQ/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-10-21T10:00:23+00:00",
-   "title_ja": "モノを9割減らしたミニマリストの結婚と暮らし",
-   "summary_ja": "3年前に一気にモノを9割減らした26歳のミニマリストKさんを迎え、出会いやお金、余白を作る暮らしについて語り合っています。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
    "importance": 3
   }
  ]
