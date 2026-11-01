@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T21:54:11.603654+09:00",
+ "updated_at": "2026-11-02T06:51:29.714220+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,34 +27,35 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-01T21:55:02.077481+09:00",
+  "generated_at": "2026-11-02T06:51:54.891891+09:00",
   "days": 3,
-  "period": "10月31日〜11月1日",
+  "period": "10月31日〜11月2日",
   "count": 45,
-  "reduce_count": 19,
-  "own_count": 26,
-  "overview": "10月31日〜11月1日に集まった記事では、持ち物の見直しや手放し方、タイニーハウスでの暮らしなどが様々な視点から語られています。",
-  "reduce": "収納を増やす前に不用品を手放すことや、日常の習慣や服選びを見直す体験談が多く語られています。",
-  "own": "無印良品のアイテムやガジェットを活用した工夫や、タイニーハウスでのコンパクトな暮らしの実例が紹介されています。",
+  "reduce_count": 22,
+  "own_count": 23,
+  "overview": "年末や季節の変わり目を控え、不用品の処分や日々の習慣、手持ちのアイテムを見直すライフスタイルが広く語られています。",
+  "reduce": "年末に向けた不用品の処分方法や、収納用品を増やす前に持ち物を見直す重要性が様々な視点から語られています。",
+  "own": "限られた空間を快適にするガレージやトレーラーハウスなどの実例や、暮らしを身軽にする道具選びが紹介されています。",
   "points": [
    {
-    "title": "手放す基準と片付け",
-    "body": "整理のプロが不用品を売るか寄付するかの判断基準を解説しているほか、メルカリで80点処分した体験からブランド別の手放しやすさが語られています。"
+    "title": "年末に向けた不用品の整理",
+    "body": "年末の休日シーズンや祝祭期に向けて、家庭内から処分すべきアイテムや溜まりやすい場所の整理術が複数提案されています。"
    },
    {
-    "title": "タイニーハウス実例",
-    "body": "車輪付きやオフグリッド仕様の小さな住まいで暮らす様子や、ガレイジを改装したスタジオなど、身軽な住まいの実例が複数紹介されています。"
+    "title": "収納グッズを増やす前の見直し",
+    "body": "透明な収納ボックスがかえって片付けの手間を増やす理由など、収納を買い足す前に整理の考え方を見直す重要性が語られています。"
    },
    {
-    "title": "無印良品アイテム活用",
-    "body": "ノートケースやIHクッキングプレート、インナーやモバイルバッテリーなど、日々の暮らしを快適にする無印良品の製品活用術が多く取り上げられています。"
+    "title": "コンパクトな住まいと工夫",
+    "body": "ガレージを改装したADUやタイニーハウスなど、最小限の設備や限られた空間で工夫して暮らす実例が紹介されています。"
    }
   ],
   "keywords": [
-   "無印良品",
-   "タイニーハウス",
+   "ミニマリスト",
    "手放す",
-   "収納"
+   "収納",
+   "タイニーハウス",
+   "断捨離"
   ]
  },
  "things": [
@@ -67,6 +68,10 @@
    "count": 6
   },
   {
+   "name": "スマホ",
+   "count": 5
+  },
+  {
    "name": "タイニーハウス",
    "count": 5
   },
@@ -77,10 +82,6 @@
   {
    "name": "下着",
    "count": 5
-  },
-  {
-   "name": "スマホ",
-   "count": 4
   },
   {
    "name": "ベッド",
@@ -232,7 +233,6 @@
   "BurlingtonToday.com",
   "CSP Times",
   "Carryology",
-  "Cat Country 107.3 and 94.9",
   "Chattanooga Times Free Press",
   "Dezeen",
   "ELLE",
@@ -245,7 +245,6 @@
   "Halstead Gazette",
   "Hercircle",
   "How-To Geek",
-  "Ideal Home",
   "IndulgExpress",
   "Infoseek",
   "Lifehacker",
@@ -318,6 +317,72 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "16bba1ea5ff51b52",
+   "url": "https://www.goodhousekeeping.com/home/organizing/a74295541/what-to-declutter-november",
+   "title_original": "The Common Household Item Organizers Say You Should Definitely Toss In November",
+   "source": "Good Housekeeping",
+   "image": "https://hips.hearstapps.com/hmg-prod/images/0c6b5024-60cd-44f8-91de-55c0b5978628.jpeg?crop=0.889xw:1xh;0xw,0xh&resize=1200:*",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-01T19:00:32+00:00",
+   "title_ja": "11月に家庭で手放すべき身の回りのアイテム",
+   "summary_ja": "整理収納の専門家が、11月のタイミングで家庭内から処分すべきだと推奨する一般的なアイテムについて解説している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "0c364aa2ec4456b7",
+   "url": "https://thesimplicityhabit.com/16-common-things-minimalists-dont-buy-or-own",
+   "title_original": "16 Common Things Minimalists Don’t Buy or Own (for a Simpler Life)",
+   "source": "The Simplicity Habit",
+   "image": "https://thesimplicityhabit.com/wp-content/uploads/2024/03/horizontal-blog-post-2024-03-11T130737.172-1024x683.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-01T16:11:55+00:00",
+   "title_ja": "ミニマリストが買わない・持たない16の物",
+   "summary_ja": "広告の誘惑に負けず、暮らしをシンプルにするためにミニマリストが持たないようにしている一般的な16の物について解説しています。必需品を優先し、不要な物への依存を手放す考え方を紹介しています。",
+   "category": "心・習慣",
+   "axis": "own",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "76bbadfac7b6179c",
+   "url": "https://www.realsimple.com/things-to-get-rid-of-in-november-12196941",
+   "title_original": "7 Things You Should Get Rid of in November for a Calmer Holiday Season",
+   "source": "Real Simple",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-01T14:45:00+00:00",
+   "title_ja": "穏やかな祝祭期を迎えるために手放すべき物",
+   "summary_ja": "年末の穏やかな休日シーズンに向けて、この時期に自宅から手放すと効果的な7つの物について提案している海外のニュース記事です。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "8ae32282f73b6351",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/01/if-i-get-a-dumbphone-how-will-i-cope-in-a-smartphone-world",
+   "title_original": "If I get a dumbphone, how will I cope in a smartphone world?",
+   "source": "The Guardian（暮らし）",
+   "image": "https://i.guim.co.uk/img/media/698796da0ecebc9c17a5109ef2be9e331400ac9c/772_0_2785_2229/master/2785.jpg?width=140&quality=85&auto=format&fit=max&s=4c589f4c890b41f34cc0c7859218db97",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-01T14:00:15+00:00",
+   "title_ja": "スマホを手放してガラケーに移行するか悩む人の話",
+   "summary_ja": "スマホの仕組みに疑問を感じ、通話専用の端末であるガラケーへ移行したいと考えている人の悩み。現代の生活やサービスへの依存度が高いため、実際に切り替えた際の生活への影響を心配している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "スマホ"
+   ],
+   "importance": 3
+  },
   {
    "id": "b88c68392a8f76a8",
    "url": "https://note.com/witty_elk2357/n/nb2671de2b5e2",
@@ -459,6 +524,24 @@
    "importance": 3
   },
   {
+   "id": "2aa77410d374c7ab",
+   "url": "https://www.roomie.jp/2026/11/1920003",
+   "title_original": "箱もデザインも昭和っぽさ全開！ 知らない時代なのになぜか懐かしい、レトロなレコードプレーヤーが楽しい",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/261030_GPN3BTR_sam2.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-01T10:00:06+00:00",
+   "title_ja": "レトロなレコードプレーヤーで音楽を楽しむ暮らし",
+   "summary_ja": "機能性やトレンドよりも自分の「好き」を優先し、レトロなデザインのレコードプレーヤーを使って日々の音楽鑑賞を楽しんでいる人の話。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "レコードプレーヤー"
+   ],
+   "importance": 2
+  },
+  {
    "id": "c0b55482f16a6ff8",
    "url": "https://www.roomie.jp/2026/11/1918893",
    "title_original": "睡眠にこだわる私が、「コアラピロー第2世代」を使って約3ヶ月。どれだけでも眠れちゃいそう…",
@@ -531,6 +614,22 @@
     "ショルダー",
     "リュック"
    ],
+   "importance": 3
+  },
+  {
+   "id": "54b5bceb68ad0248",
+   "url": "https://note.com/ripe_gecko3744/n/n7fb5f883f5f4",
+   "title_original": "季節のかざりつけ、しない家です",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/330898578/rectangle_large_type_2_c070c1ed038b050655fba95a3e724d0b.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-01T06:19:16+00:00",
+   "title_ja": "季節の飾りつけや行事のイベントをしない暮らし",
+   "summary_ja": "ハロウィンなどの季節の飾りつけをあえてせず、日常の食事もシンプルに済ませることでイベントの負担を手放した暮らしの実例。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -5883,38 +5982,6 @@
    "importance": 2
   },
   {
-   "id": "8e11e887387aa3a2",
-   "url": "https://note.com/flambon/n/n2080d872bc39",
-   "title_original": "【実家リノベ】持ち出しゼロで叶える親のダウンサイジング。50平米をスイートルームに変える3つの挑戦",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/328092543/rectangle_large_type_2_c9548b0c4d6ed2d5471ccb8de1271493.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-24T15:29:41+00:00",
-   "title_ja": "実家リノベで持ち出しゼロのダウンサイジング挑戦",
-   "summary_ja": "著者は母の老後住まいとして小さな中古マンションを購入し、実家の荷物を一切持ち込まずに50平米をスイートルームへ改装する3つの挑戦を紹介する。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "07f9e5d5602c801a",
-   "url": "https://note.com/project_kafka/n/n3b878234fdda",
-   "title_original": "『問いだけを鞄に入れて』",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/328087896/rectangle_large_type_2_049aa9ff90f8ced44c5ca31cfa4bb98e.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-24T14:48:05+00:00",
-   "title_ja": "問いだけを鞄に入れて　持たない暮らしの提案",
-   "summary_ja": "『問いだけを鞄に入れて』は、物を持たずに質問だけを携える暮らしを提案し、常に問い続ける姿勢で執着を手放す考え方を示す。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
    "id": "ce38130d51dccceb",
    "url": "https://www.southernliving.com/uses-for-old-sheets-12160933",
    "title_original": "10 Clever Uses For Old Sheets You’ll Wish You Tried Sooner",
@@ -7267,70 +7334,6 @@
    "title_ja": "プロの整理アドバイザーが退職後の人に手放すことを勧める9つの持ち物",
    "summary_ja": "プロの整理アドバイザーが、定年後の生活に向けて手放すことを推奨する9つのアイテムについてまとめた記事。退職後の新しい暮らしをシンプルで快適なものにするために整理すべき持ち物の基準が提案されている。",
    "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "bd870f9dc0abe02e",
-   "url": "https://www.realsimple.com/things-to-declutter-from-kitchen-before-november-12166080",
-   "title_original": "6 Things to Declutter From Your Kitchen to Prep for Holiday Hosting",
-   "source": "Real Simple",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-22T15:30:00+00:00",
-   "title_ja": "ホリデーシーズンに向けてキッチンを片付ける方法",
-   "summary_ja": "ホリデーシーズンの来客に備えて、キッチンの片付けや不要なものを整理するためのポイントを紹介している。",
-   "category": "キッチン・食",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "1bfaf70e088f6d1a",
-   "url": "https://catcountryutah.com/social-media-time-trap",
-   "title_original": "Stop Scrolling, Start Living: Simple Ways to Reclaim Your Day",
-   "source": "Cat Country 107.3 and 94.9",
-   "image": "https://townsquare.media/site/1123/files/2026/10/attachment-untitled-design-2026-10-21t223428-015.jpg?w=1200&q=75&format=natural",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-22T14:30:58+00:00",
-   "title_ja": "スマホのスクロールを止めて日常を取り戻す方法",
-   "summary_ja": "デジタル機器の使用を見直し、日々の暮らしを取り戻すためのシンプルな方法を提案している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "932f2873b895adc3",
-   "url": "https://nosidebar.com/how-to-trade-your-grief-for-love",
-   "title_original": "How to Trade Your Grief for Love",
-   "source": "No Sidebar",
-   "image": "https://nosidebar.com/wp-content/uploads/roman-kraft-7sPg5OLfExc-unsplash-scaled.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-22T14:00:00+00:00",
-   "title_ja": "父親の死をきっかけに悲しみを手放した経験談",
-   "summary_ja": "突然の父親の死に向き合い、悲しみを愛に変えていく過程や、残された遺品と向き合った心境をつづっている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "5fa4f907e9d34654",
-   "url": "https://www.idealhome.co.uk/house-manual/storage-organisation-decluttering/overfilling-clothes-storage-damp-warning",
-   "title_original": "‘Your bedroom will appear organised while damp develops unnoticed’ – the clothes storage mistake we’re all making, and why it’s even more dangerous in autumn",
-   "source": "Ideal Home",
-   "image": "https://cdn.mos.cms.futurecdn.net/HZjUedvsVWy8HM8bTnYJTo-2400-80.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-22T14:00:00+00:00",
-   "title_ja": "湿気やカビの原因になりやすい服の収納の失敗談",
-   "summary_ja": "寝室がすっきりと片付いて見えても、湿気やカビの発生を見逃してしまう衣類収納の間違いについて解説している。",
-   "category": "部屋・収納",
    "axis": "reduce",
    "things": [],
    "importance": 3
