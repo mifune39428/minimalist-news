@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T22:51:32.835336+09:00",
+ "updated_at": "2026-11-04T08:02:06.499369+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,40 +27,45 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-03T22:52:06.001149+09:00",
+  "generated_at": "2026-11-04T08:02:43.163184+09:00",
   "days": 3,
-  "period": "11月2日〜11月3日",
+  "period": "11月2日〜11月4日",
   "count": 45,
-  "reduce_count": 25,
-  "own_count": 20,
-  "overview": "不要な物を手放す断捨離の工夫や、身軽に暮らすための持ち物の選び方に関する話題が多く集まっています。",
-  "reduce": "物を減らすための具体的な片付けルールや、後悔しないための手放し方の基準が多く語られています。",
-  "own": "無印良品やアウトドア用品など、日常生活や旅を快適にする便利な道具や小さな住まいが紹介されています。",
+  "reduce_count": 29,
+  "own_count": 16,
+  "overview": "無印良品のアイテム活用や服の枚数を絞る工夫など、持ち物の見直しや手放し方に関する実践的な記事が多数語られています。",
+  "reduce": "決断疲れを防ぐ片付け法や日々のこまめな処分など、無理なく物を減らす習慣や手放す基準について多くの体験談が語られています。",
+  "own": "オールシーズン20着での暮らしや無印良品のグッズを使ったオーラルケアなど、厳選したアイテムで快適に過ごす工夫が紹介されています。",
   "points": [
    {
-    "title": "手放す基準と物の見直し",
-    "body": "10年後も一緒に過ごしたいお気に入りの物だけを残す基準や、実家の片付けを通じて掃除が苦手だった理由に気づいた体験談が語られています。"
+    "title": "服の枚数を絞る工夫",
+    "body": "オールシーズン20着の洋服だけで暮らすスタイルや、冬の1軍ワードローブ作り、サイズや長く着られる条件を考慮した服選びが紹介されている。"
    },
    {
-    "title": "服の枚数を絞る暮らし",
-    "body": "オールシーズン20着や服3着など、少ないワードローブで暮らす工夫や、無駄な買い物を防ぐためのリスト作りのコツが紹介されています。"
+    "title": "デジタルや生活の習慣",
+    "body": "スマートフォンを100日間機内モードに設定する実験や、冷蔵庫を手放した生活、1日1食生活を続けた変化など、暮らし方を見直す試みが語られている。"
    },
    {
-    "title": "小さな住まいと収納術",
-    "body": "タイニーハウスでの暮らしの実例や、旅やデスク周りの荷物をすっきりまとめる便利なポーチなどのアイテムが取り上げられています。"
+    "title": "無印良品の活用術",
+    "body": "無印良品週間での買い物記録をはじめ、小さくなるボストンバッグや新作ハンドソープ、ミニマルなオーラルケアセットの作成などが紹介されている。"
+   },
+   {
+    "title": "こまめな片付けと手放し",
+    "body": "休日にまとめて捨てるのではなく毎日の習慣として不要なものを手放す方法や、タンスや引き出し、デスク上の断捨離を進める体験談が綴られている。"
    }
   ],
   "keywords": [
-   "断捨離",
-   "タイニーハウス",
    "無印良品",
-   "手放す"
+   "断捨離",
+   "片付け",
+   "ミニマリスト",
+   "洋服"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 14
+   "count": 13
   },
   {
    "name": "タイニーハウス",
@@ -68,15 +73,19 @@
   },
   {
    "name": "バッグ",
-   "count": 7
+   "count": 6
   },
   {
    "name": "下着",
-   "count": 7
+   "count": 6
   },
   {
    "name": "靴",
-   "count": 7
+   "count": 6
+  },
+  {
+   "name": "スマートフォン",
+   "count": 4
   },
   {
    "name": "イヤホン",
@@ -91,7 +100,7 @@
    "count": 3
   },
   {
-   "name": "スマートフォン",
+   "name": "バスタブ",
    "count": 3
   },
   {
@@ -100,6 +109,10 @@
   },
   {
    "name": "リュック",
+   "count": 3
+  },
+  {
+   "name": "冷蔵庫",
    "count": 3
   },
   {
@@ -116,6 +129,10 @@
   },
   {
    "name": "iPhone",
+   "count": 2
+  },
+  {
+   "name": "キッチン",
    "count": 2
   },
   {
@@ -139,11 +156,11 @@
    "count": 2
   },
   {
-   "name": "ドリップケトル",
+   "name": "タンス",
    "count": 2
   },
   {
-   "name": "バスタブ",
+   "name": "ドリップケトル",
    "count": 2
   },
   {
@@ -168,10 +185,6 @@
   },
   {
    "name": "モバイルバッテリー",
-   "count": 2
-  },
-  {
-   "name": "冷蔵庫",
    "count": 2
   },
   {
@@ -201,10 +214,15 @@
   {
    "name": "薪ストーブ",
    "count": 2
+  },
+  {
+   "name": "靴下",
+   "count": 2
   }
  ],
  "sources": [
   "A Slob Comes Clean",
+  "ACT Government",
   "AOL.com",
   "All About（オールアバウト）",
   "Apartment Therapy",
@@ -230,6 +248,7 @@
   "Howl.Link",
   "IndulgExpress",
   "Infoseek",
+  "J-CAST ニュース",
   "Lifehacker",
   "Magzter",
   "Matt D'Avella",
@@ -245,7 +264,7 @@
   "Realtor.com",
   "Simple Lionheart Life",
   "Southern Living",
-  "TRILL",
+  "The Canberra Times",
   "The Crypto Times",
   "The Economic Times",
   "The Guardian（暮らし）",
@@ -256,12 +275,13 @@
   "The Spruce",
   "The Sun",
   "Tiny House Talk",
+  "Tokuno | Minimalist",
   "TradingView",
+  "UA.NEWS",
   "Unisba Media",
   "Upworthy",
   "WNEM",
   "WTNH.com",
-  "Who What Wear",
   "Yahoo",
   "Yahoo News Singapore",
   "Yahoo News UK",
@@ -304,6 +324,129 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "a11b13f38090bf29",
+   "url": "https://note.com/lovely_daphne202/n/n26c89874e85c",
+   "title_original": "【暮らし】祝日をひとつ挟んで。残りの秋支度と、靴下の引き際🧦",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/331853260/rectangle_large_type_2_bfe7fc925514691a467fc3f99e8dfd9b.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-03T22:56:21+00:00",
+   "title_ja": "祝日の連休を利用してタンスの引き出しを整理した話",
+   "summary_ja": "11月3日の祝日を利用して、タンスの引き出しの整理整頓を行った。秋支度を進めながら靴下の見直しなどを行い、持ち物を整えている様子がつづられている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "靴下",
+    "タンス"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "ad0c2354fb81574d",
+   "url": "https://note.com/hirono_ml/n/n907ca5d8846a",
+   "title_original": "買ったのは、これだけ",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/331488277/rectangle_large_type_2_367669799794c2b46f0cac3d829e1e8c.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-03T22:43:00+00:00",
+   "title_ja": "無印良品週間で購入したアイテムを紹介した記録",
+   "summary_ja": "無印良品週間を利用して買い物をした記録。メンバーではないものの、期間中に気になったアイテムをいくつか手に入れた様子がシンプルに紹介されている。",
+   "category": "お金・買い方",
+   "axis": "own",
+   "things": [
+    "無印良品の購入品"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "4e01c469522e9df6",
+   "url": "https://news.livedoor.com/topics/detail/32725717/?_clicked=echoes_list",
+   "title_original": "【シニアライフ】ライフさん、部屋を綺麗に保つ！「吊るす」「浮かす」を活かした空間収納術紹介",
+   "source": "ライブドアニュース",
+   "image": "https://image.news.livedoor.com/newsimage/stf/a/c/ac41e_1845_e5940e92_185b2a90.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-03T22:20:00+00:00",
+   "title_ja": "部屋を綺麗に保つための「吊るす」「浮かす」空間収納術",
+   "summary_ja": "部屋をすっきりと綺麗に保つための工夫として、「吊るす」「浮かす」収納テクニックを紹介している。限られた空間を有効活用するアイデアがわかる内容。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "1a7dba1fb9c4901f",
+   "url": "https://note.com/chiisana_hana/n/n9f017f49b3f2",
+   "title_original": "パンツ選びに悩む152cmの私が、COHINAで感動した話",
+   "source": "note #少ない服で暮らす",
+   "image": "https://assets.st-note.com/production/uploads/images/328813498/rectangle_large_type_2_dd898439a91cfd30fc7a7de933c5608f.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-03T20:34:43+00:00",
+   "title_ja": "低身長の筆者がCOHINAのパンツで感じたこと",
+   "summary_ja": "身長152cmの筆者が、一般的な人気アイテムではサイズが合わず悩んだ経験と、自分に合う服選びの大切さを綴った記事です。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "パンツ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "7c2d6ecbd1efcd58",
+   "url": "https://www.yahoo.com/lifestyle/articles/decluttering-approach-antidote-decision-fatigue-170000225.html",
+   "title_original": "This Decluttering Approach Is the Antidote to Decision Fatigue",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/62e4a78071b6ee3dd9cbefd41331f08d6ff64e3b97fd287b10a76435e4b8861f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdomino_669%2Ffa7bdfccf120592073788d0b61b70f83.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-03T17:00:00+00:00",
+   "title_ja": "決断疲れを防ぐ片付け法が話題に",
+   "summary_ja": "決断疲れを和らげるとされる片付け手法が紹介されている。何を手放すかの判断基準や具体的なステップが示され、実践者の体験談も含まれる。日常の選択負荷を減らし、シンプルな暮らしへ導くポイントが解説されている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "0f792e8a84ba1054",
+   "url": "https://note.com/teacher_mama/n/n04685c385add",
+   "title_original": "便利＝幸せじゃない？冷蔵庫を手放した稲垣えみ子さんの暮らしから「本当の豊かさ」を考えてみた",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/img/1793721962-E5wc9velbfUQs42rdPnxIAT3.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-03T16:09:20+00:00",
+   "title_ja": "冷蔵庫を手放した稲垣えみ子さんの暮らし",
+   "summary_ja": "便利さが必ずしも幸せとは限らないという視点から、冷蔵庫を手放した稲垣えみ子さんのライフスタイルを通じて本当の豊かさについて考える。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "冷蔵庫"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "6e3a59ab0499337b",
+   "url": "https://ua.news/en/technologies/spivzasnovnik-ethereum-buterin-koristuvavsia-telefonom-v-aviarezhimi-100-dniv-rezultati",
+   "title_original": "Ethereum Co-Founder Buterin Used His Phone in Airplane Mode for 100 Days: The Results",
+   "source": "UA.NEWS",
+   "image": "https://cdn-cabinet.ua.news/uploads/images/no-image.webp",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-03T13:42:20+00:00",
+   "title_ja": "スマホを100日間機内モードで使った結果",
+   "summary_ja": "イーサリアムの共同創設者がスマートフォンを100日間機内モードに設定して生活し、その結果どうなったのかを伝える海外の記事。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "スマートフォン"
+   ],
+   "importance": 3
+  },
   {
    "id": "d7ab7be557db4800",
    "url": "https://note.com/arc_tech/n/n309bd0f74020",
@@ -374,6 +517,22 @@
    "importance": 3
   },
   {
+   "id": "a4a8337d837934e3",
+   "url": "https://www.act.gov.au/our-canberra/latest-news/2026/november/spring-cleaning-declutter-the-sustainable-way",
+   "title_original": "Spring cleaning? Declutter the sustainable way",
+   "source": "ACT Government",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-03T12:13:15+00:00",
+   "title_ja": "環境に配慮したサステナブルな断捨離の方法",
+   "summary_ja": "春の掃除の季節に合わせて、環境負荷を抑えながら持続可能な方法で不要な物を手放し、部屋をすっきりと片付けるためのヒントをまとめた行政ニュース。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "2a168ac79c99909d",
    "url": "https://note.com/honest_quoll7150/n/nc1260a9ba56d",
    "title_original": "50代、持たない暮らしが心地よくなっていた。",
@@ -388,6 +547,25 @@
    "axis": "reduce",
    "things": [],
    "importance": 4
+  },
+  {
+   "id": "40a2b58282651376",
+   "url": "https://tinyhousetalk.com/classic-casa-timber-ridge-lake-of-the-ozarks-tiny-home",
+   "title_original": "Classic Casa: A One-Bedroom Display Tiny Home in a Lake of the Ozarks Community",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/classic-casa-timber-ridge-rocky-mount-mo-exterior-porch.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-03T12:00:00+00:00",
+   "title_ja": "湖畔コミュニティに登場した1ベッドルームのタイニーハウス",
+   "summary_ja": "ミズーリ州のコミュニティで公開された新しいタイニーハウス。屋根付きポーチ、フルサイズのキッチン、バスタブ付きの浴室を備えている。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "キッチン",
+    "バスタブ"
+   ],
+   "importance": 3
   },
   {
    "id": "c50f3b067545f666",
@@ -438,6 +616,25 @@
    "axis": "reduce",
    "things": [],
    "importance": 4
+  },
+  {
+   "id": "4ea6ac2518880c96",
+   "url": "https://monomax.jp/archives/370507",
+   "title_original": "「まるで高級スパ気分…」無印良品マニア激推し！新作ハンドソープ＆頭皮スクラブの実力をレビュー",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2027/11/4DSC05049-1-scaled.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-03T11:00:00+00:00",
+   "title_ja": "無印良品のマニアが推す新作ハンドソープと頭皮スクラブ",
+   "summary_ja": "無印良品の愛好家が手放せないと絶賛する、新作のハンドソープと頭皮スクラブの使用感をレビューしている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ハンドソープ",
+    "頭皮スクラブ"
+   ],
+   "importance": 2
   },
   {
    "id": "cc1cb220e04a6260",
@@ -513,6 +710,22 @@
    "importance": 3
   },
   {
+   "id": "7eeb8010605e8857",
+   "url": "https://www.youtube.com/watch?v=TpROEHZ6zxg",
+   "title_original": "1日1食生活を6年間。体に起きた変化を全て話します【ミニマリスト】",
+   "source": "Tokuno | Minimalist",
+   "image": "https://i1.ytimg.com/vi/TpROEHZ6zxg/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-03T09:00:07+00:00",
+   "title_ja": "1日1食生活を6年間続けたミニマリストの変化",
+   "summary_ja": "30個の持ち物だけで暮らすミニマリストが、6年間1日1食を続けて体に起きた変化について語っている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
    "id": "b2c17a377215ae91",
    "url": "https://www.irishtimes.com/opinion/letters/2026/11/03/a-different-kind-of-declutter",
    "title_original": "A different kind of declutter",
@@ -548,6 +761,22 @@
     "服"
    ],
    "importance": 4
+  },
+  {
+   "id": "46cc736cae57c8b4",
+   "url": "https://www.canberratimes.com.au/story/9356953/melissa-freasier-canberra-expert-reveals-top-declutter-tips",
+   "title_original": "'I couldn't face it': the everyday burden of too much stuff",
+   "source": "The Canberra Times",
+   "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/9gmjQxX8MpSQh6J68NHMnY/f6b4818e-64ce-4fdd-94f4-eb2fb8c4c392.jpg/r0_429_5412_3270_w1200_h630_fmax.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-03T01:39:28+00:00",
+   "title_ja": "多すぎるモノに直面して圧倒された人の話",
+   "summary_ja": "日常生活におけるたくさんのモノに囲まれる負担や、それに直面したときの心理について述べられています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
   },
   {
    "id": "9dc6867210b78b07",
@@ -628,6 +857,22 @@
    "title_ja": "数分でできる簡単な3アイテム片付けルール",
    "summary_ja": "プロのオーガナイザーが推奨する、週に数分で実践できるシンプルな「3アイテム」の片付けルールを紹介した記事です。部屋の整理やモノを減らすための手軽なアプローチが学べます。",
    "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "969532e6b5405f43",
+   "url": "https://www.j-cast.com/news/provider/atPress_news/646365",
+   "title_original": "ミニマリストの源流ともいえる哲学者の教え『手放す幸せ』が11月25日に発売",
+   "source": "J-CAST ニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-02T22:30:00+00:00",
+   "title_ja": "ミニマリストの源流である哲学者の教えを取り上げた書籍",
+   "summary_ja": "ミニマリズムの源流とも言える哲学者たちの考え方や、モノを手放すことに関する教えをまとめた書籍の発売情報です。",
+   "category": "心・習慣",
    "axis": "reduce",
    "things": [],
    "importance": 3
@@ -5831,44 +6076,6 @@
    "importance": 3
   },
   {
-   "id": "aac40d96fd5fb89c",
-   "url": "https://note.com/hena_cho/n/n59cb7cd756fd",
-   "title_original": "今日の整え。今年着なかった夏服を見直そう",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/328832980/rectangle_large_type_2_f2b76adb719db6a88b35d5bac1eaea52.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-26T12:24:30+00:00",
-   "title_ja": "衣替えの前に今年着なかった夏服を見直す5分間の整理習慣",
-   "summary_ja": "気温が下がり長袖の季節になったことをきっかけに、クローゼットの衣替えを行う前段階として夏服の整理に取り組む。毎日5分間の整え作業の一環として、この夏に一回も着用しなかった服を見直し、手放すかどうかを判断している実践記録。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "夏服",
-    "長袖"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "689d5e20a48cd3eb",
-   "url": "https://note.com/kouritsu_k/n/n2487ffd1e966",
-   "title_original": "【効率厨のおうち紹介 #7】床に物を置かなくなった。ロボット掃除機DEEBOT X1 OMNIを3年使った正直レビュー",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/328828047/rectangle_large_type_2_04e576e50b7a6dd80cded98fb65fa0e3.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-26T12:09:32+00:00",
-   "title_ja": "床に物を置かない暮らしとロボット掃除機を3年使った感想",
-   "summary_ja": "床に物を置かない生活の中で、吸引と水拭きを自動で行うロボット掃除機「DEEBOT X1 OMNI」を3年間導入した使用レビュー。段差の少ないワンフロアの住環境で、掃除の手間を極力減らしたい人におすすめの家電として紹介している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "DEEBOT X1 OMNI",
-    "ロボット掃除機"
-   ],
-   "importance": 3
-  },
-  {
    "id": "f47a08dc64ead12c",
    "url": "https://www.roomie.jp/2026/10/1901629",
    "title_original": "角度を変えれば「大さじ」にもなる。「山崎実業の500mL計量カップ」で鍋のスープ作りも洗いものもラクになる",
@@ -6200,43 +6407,6 @@
    "importance": 4
   },
   {
-   "id": "f9b2d8c0add85555",
-   "url": "https://note.com/migalu_minimal/n/n3ba03c29c19d",
-   "title_original": "部屋は片付いた。でも、ネットに置いたものは覚えていますか。",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/327679733/rectangle_large_type_2_7f734ba687e24826edd5a1db27e715e6.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-26T03:17:40+00:00",
-   "title_ja": "ミニマリスト歴12年の30代パパの暮らし",
-   "summary_ja": "ミニマリスト歴12年で妻と娘2人と暮らす30代パパが、部屋の片付けやデジタル上の管理について振り返るブログ記事の導入部分。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "4972db888ff47ea6",
-   "url": "https://note.com/20chaku/n/nb92444f9e965",
-   "title_original": "迷った服は、一度「捨てたこと」にする",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/328392721/rectangle_large_type_2_54d1ad927ebef7d9f7a83d793d954fbf.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-26T02:58:40+00:00",
-   "title_ja": "下着から靴まで20着で暮らす元アパレル店員の服の減らし方",
-   "summary_ja": "下着や靴を含めて総数20着で暮らす元アパレル店員が、迷った服を一時保管するボックスを使った手放し方や、着回しやすい服の選び方を紹介。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "服",
-    "下着",
-    "靴",
-    "バッグ"
-   ],
-   "importance": 5
-  },
-  {
    "id": "727de42e05594c95",
    "url": "https://minimalist-fudeko.com/let-go-of-busyness",
    "title_original": "休んでも疲れが取れない人へ。忙しさという重荷を下ろす3つの方法（TED）",
@@ -6303,22 +6473,6 @@
    "things": [
     "衣類用ケース"
    ],
-   "importance": 3
-  },
-  {
-   "id": "44c9f774fc7873b3",
-   "url": "https://note.com/mild_wren2165/n/nbd87b07ba352",
-   "title_original": "8割捨てたいんだよいっそ誰か捨ててくれ！",
-   "source": "note #断捨離",
-   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/e34a9438ad7b8cd38f79c01170c8d55491bb8173.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-25T17:09:46+00:00",
-   "title_ja": "80％捨てたい！散らかさない工夫",
-   "summary_ja": "散らかさない環境を作ることを目標に、全持ち物の8割を手放したいと宣言。読者に論破や喝を求め、感情的に『誰かが捨ててくれ』と叫んでいる。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
    "importance": 3
   },
   {
@@ -7171,138 +7325,6 @@
    "summary_ja": "家賃3万5000円の築50年団地をフルリノベーションした事例。無駄を削ぎ落としたシンプルで居心地の良い空間に仕上げられており、限られた古い物件を自分らしく整えて暮らす工夫が垣間見える。",
    "category": "部屋・収納",
    "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "63d30ab916c2cd92",
-   "url": "https://www.roomie.jp/2026/10/1897609",
-   "title_original": "山崎実業の新作「かける傘立て」で玄関がスッキリ！収納としても大活躍の名作だった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/261002_yamazakizitsugyou_in-shoebox-hanging-umbrella-stand_1.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-24T10:30:28+00:00",
-   "title_ja": "山崎実業のハンギング傘立てで玄関をすっきりさせる方法",
-   "summary_ja": "床に置く傘立てを避けたい悩みを、山崎実業の下駄箱中ハンギング傘立てを使って解決した話。シューズクロークの棚を活用して玄関に物を増やさずに傘を収納している。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "傘立て"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "da1647bd3c58bbad",
-   "url": "https://www.southernliving.com/things-declutter-before-monday-12189515",
-   "title_original": "7 Decluttering Projects Organizers Recommend Doing Every Sunday",
-   "source": "Southern Living",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-24T10:25:00+00:00",
-   "title_ja": "毎週日曜にやるべき7つの片付けプロジェクト",
-   "summary_ja": "整理のプロが提案する、毎週日曜に実践できる7つのデクラッタリング作業を紹介。不要品の処分や収納見直しなど、生活をシンプルに保つ具体的な手順が分かります。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "f04efd17abf1b816",
-   "url": "https://www.youtube.com/watch?v=PCk_u00g-kM",
-   "title_original": "家計がラクになる10の習慣｜ミニマリストのお金の貯め方︱節約術",
-   "source": "私だけミニマリスト｜南さやか",
-   "image": "https://i1.ytimg.com/vi/PCk_u00g-kM/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-10-24T10:00:33+00:00",
-   "title_ja": "40代ミニマリストが実践するお金が貯まる10の習慣",
-   "summary_ja": "暮らしをシンプルに整えることでお金の使い方が自然と変わったという40代のミニマリストが、無理な節約や我慢をせずに家計をラクにする10の習慣を紹介している。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "7c9edcabf99b0d54",
-   "url": "https://tinyhousetalk.com/selling-the-big-house-to-downsize",
-   "title_original": "Selling the Big House to Downsize: The Real Math",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/going-tiny-series-part-06.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-24T09:00:00+00:00",
-   "title_ja": "大きな家を売って小さく住む実際の計算",
-   "summary_ja": "多くの人にとって住宅は最大の資産。小さな住まいへダウンサイジングする際の売却金額や費用を具体的に示し、減らすための金銭的視点を解説している。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [
-    "住宅"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "1c095fd12f71c264",
-   "url": "https://trilltrill.jp/articles/5062047",
-   "title_original": "『物欲が止まらない人』『消える人』には“違い”があった。1,000万円貯めた主婦が明かす、お金が貯まる「買い物の仕方」とは？",
-   "source": "TRILL",
-   "image": "https://media.trilltrill.jp/articles/5062047/cover-image.2e9d8825f57b9d4a9f2e9666cdbd4bcd?w=1200",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-24T08:20:00+00:00",
-   "title_ja": "物欲が止まらない人と消える人の違い、1,000万円貯めた主婦が語る買い物術",
-   "summary_ja": "物欲が止まらない人と消える人の特徴を比較し、1,000万円を貯めた主婦が実践した、無駄を減らす買い物の方法を紹介しています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "d440e8ffbfe97548",
-   "url": "https://nosidebar.com/things-youll-never-regret-letting-go-of",
-   "title_original": "12 Things You’ll Never Regret Letting Go Of",
-   "source": "No Sidebar",
-   "image": "https://nosidebar.com/wp-content/uploads/stuff-to-declutter.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-24T08:00:00+00:00",
-   "title_ja": "手放した後で後悔しないための物の減らし方",
-   "summary_ja": "多くの人が恐れる「手放した後の後悔」はほとんど起きず、むしろもっと早く始めればよかったという声が圧倒的です。長年の片づけサポートの経験から、本当に手放して後悔しない物についての気づきを紹介しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "5e35758d12b8babd",
-   "url": "https://www.roomie.jp/2026/10/1910870",
-   "title_original": "わずか数センチが頼れる収納に！山崎実業のアイテムで賃貸の部屋もすっきりして見違えるよ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/20260903-mio-yamajitsu-bathroomsink-tray-09.jpeg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-24T07:00:46+00:00",
-   "title_ja": "数センチの隙間を活用した山崎実業の収納アイテム",
-   "summary_ja": "山崎実業のマグネット式スライドパネルを使い、冷蔵庫横の数センチの隙間に紙類を隠す収納法を紹介。賃貸でも生活感を減らし部屋をすっきりさせる。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "b7bc3e3d48026ec5",
-   "url": "https://www.whowhatwear.com/fashion/winter/winter-capsule-wardrobe-2026",
-   "title_original": "I Just Built a Polished Winter Capsule With These 7 Elegant Staples",
-   "source": "Who What Wear",
-   "image": "https://cdn.mos.cms.futurecdn.net/WkrUQv9UuR7VVekqmMrMbA-1280-80.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-24T06:41:52+00:00",
-   "title_ja": "冬のカプセルワードローブ7点の作り方",
-   "summary_ja": "7つのエレガントな定番アイテムで、シンプルかつ洗練された冬のカプセルワードローブを構築した例を紹介。",
-   "category": "服・ファッション",
-   "axis": "own",
    "things": [],
    "importance": 4
   }
