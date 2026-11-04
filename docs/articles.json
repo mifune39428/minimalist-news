@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T08:02:06.499369+09:00",
+ "updated_at": "2026-11-04T14:26:45.615088+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,45 +27,45 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-04T08:02:43.163184+09:00",
+  "generated_at": "2026-11-04T14:28:11.217411+09:00",
   "days": 3,
-  "period": "11月2日〜11月4日",
+  "period": "11月3日〜11月4日",
   "count": 45,
-  "reduce_count": 29,
-  "own_count": 16,
-  "overview": "無印良品のアイテム活用や服の枚数を絞る工夫など、持ち物の見直しや手放し方に関する実践的な記事が多数語られています。",
-  "reduce": "決断疲れを防ぐ片付け法や日々のこまめな処分など、無理なく物を減らす習慣や手放す基準について多くの体験談が語られています。",
-  "own": "オールシーズン20着での暮らしや無印良品のグッズを使ったオーラルケアなど、厳選したアイテムで快適に過ごす工夫が紹介されています。",
+  "reduce_count": 28,
+  "own_count": 17,
+  "overview": "衣類の枚数や本、収納などの持ち物を見直して暮らしを整える実践談や、タイニーハウスなどの小さな住まいに関する記事が語られています。",
+  "reduce": "元アパレル店員の服の枚数見直しや、タンスの引き出し・在庫管理の整理など、持ち物を減らす工夫や体験談が多く語られています。",
+  "own": "無印良品やIKEAなどの便利な収納アイテムや、チタン製プレート、寝ホンなどのこだわりの道具類が紹介されています。",
   "points": [
    {
-    "title": "服の枚数を絞る工夫",
-    "body": "オールシーズン20着の洋服だけで暮らすスタイルや、冬の1軍ワードローブ作り、サイズや長く着られる条件を考慮した服選びが紹介されている。"
+    "title": "衣替えと服の見直し",
+    "body": "元アパレル店員による下着やバッグを含めた20着での暮らしや、無印良品やユニクロを活用した冬のワードローブの選び方、整理収納アドバイザーによる衣替えのアイデアが語られています。"
    },
    {
-    "title": "デジタルや生活の習慣",
-    "body": "スマートフォンを100日間機内モードに設定する実験や、冷蔵庫を手放した生活、1日1食生活を続けた変化など、暮らし方を見直す試みが語られている。"
+    "title": "収納と在庫管理の工夫",
+    "body": "目隠し収納をやめて家族全員が分かりやすい在庫管理にする方法や、吊るす・浮かす空間収納、古い賃貸の床を整えるジョイントマットの導入など、部屋をすっきり保つ工夫が紹介されています。"
    },
    {
-    "title": "無印良品の活用術",
-    "body": "無印良品週間での買い物記録をはじめ、小さくなるボストンバッグや新作ハンドソープ、ミニマルなオーラルケアセットの作成などが紹介されている。"
+    "title": "デジタルデトックスと習慣",
+    "body": "スマートフォンを100日間機内モードに設定して生活した実験や、6年間1日1食を続けた変化など、デジタル機器との距離感を見直す暮らしの習慣が取り上げられています。"
    },
    {
-    "title": "こまめな片付けと手放し",
-    "body": "休日にまとめて捨てるのではなく毎日の習慣として不要なものを手放す方法や、タンスや引き出し、デスク上の断捨離を進める体験談が綴られている。"
+    "title": "タイニーハウスの事例",
+    "body": "ロフトやパティオドア、フルサイズのキッチンを備えた小さな住まいや、湖畔コミュニティに登場したタイニーハウスなど、様々なコンパクトな暮らしの実例が紹介されています。"
    }
   ],
   "keywords": [
    "無印良品",
+   "タイニーハウス",
    "断捨離",
-   "片付け",
-   "ミニマリスト",
-   "洋服"
+   "収納",
+   "ミニマリスト"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 13
+   "count": 12
   },
   {
    "name": "タイニーハウス",
@@ -73,23 +73,23 @@
   },
   {
    "name": "バッグ",
-   "count": 6
+   "count": 7
   },
   {
    "name": "下着",
-   "count": 6
+   "count": 7
   },
   {
    "name": "靴",
-   "count": 6
+   "count": 7
+  },
+  {
+   "name": "イヤホン",
+   "count": 4
   },
   {
    "name": "スマートフォン",
    "count": 4
-  },
-  {
-   "name": "イヤホン",
-   "count": 3
   },
   {
    "name": "キャビン",
@@ -113,6 +113,10 @@
   },
   {
    "name": "冷蔵庫",
+   "count": 3
+  },
+  {
+   "name": "収納ボックス",
    "count": 3
   },
   {
@@ -188,15 +192,19 @@
    "count": 2
   },
   {
-   "name": "収納ボックス",
-   "count": 2
-  },
-  {
    "name": "家具",
    "count": 2
   },
   {
    "name": "小型冷蔵庫",
+   "count": 2
+  },
+  {
+   "name": "引き出し",
+   "count": 2
+  },
+  {
+   "name": "本",
    "count": 2
   },
   {
@@ -213,10 +221,6 @@
   },
   {
    "name": "薪ストーブ",
-   "count": 2
-  },
-  {
-   "name": "靴下",
    "count": 2
   }
  ],
@@ -325,6 +329,103 @@
  "count": 400,
  "items": [
   {
+   "id": "0e97a39fdfc16aa5",
+   "url": "https://note.com/peg3789/n/n2eae705d5a1a",
+   "title_original": "本が好きすぎる私が、400冊から30冊に減らして気づいた10のこと",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/332079514/rectangle_large_type_2_fc909672b352477a629477c30e991a52.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-04T05:08:23+00:00",
+   "title_ja": "本を400冊から30冊に減らした人の話",
+   "summary_ja": "本好きの筆者が400冊あった本を30冊まで絞り込み、減らすことで一冊一冊を大切にできるようになった気づきをつづっている。本が多い人に参考になる内容。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "本"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "a1e54bafb5f88690",
+   "url": "https://note.com/hobopart_mama/n/n522f135c2724",
+   "title_original": "目隠し収納やめたら、在庫管理がらくちんになった｜生活感より家族全員がわかるシンプル収納へ",
+   "source": "note #ミニマリスト",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/32fbfb52d127509fea4407793a7c876e9120882e.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-04T05:02:46+00:00",
+   "title_ja": "目隠し収納をやめて在庫管理をラクにした話",
+   "summary_ja": "生活感を消すためのボックス収納をやめたところ、家族全員が分かりやすいシンプルな在庫管理ができるようになった暮らしの工夫。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "ボックス",
+    "引き出し",
+    "タンス"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "156b7d5f20544ab6",
+   "url": "https://www.lifehacker.jp/article/machi-ya-airchill-start-990265",
+   "title_original": "凍らせれば氷点下、湯せんすればカイロにも！？夏も冬も出番がある純チタンの保冷剤",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/11/01/234cb539-6876-4bf8-a91a-67d31274f3d3/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-04T05:00:00+00:00",
+   "title_ja": "夏も冬も使える純チタン製の薄型保冷プレート",
+   "summary_ja": "燕三条の職人技術で作られた超軽量な純チタン製保冷プレートは、冷凍でマイナス21度になり夏は保冷、冬は保温に一年中使えるアイテム。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "保冷プレート"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "2b7e19b92e67ec71",
+   "url": "https://note.com/20chaku/n/nf6faec75d48f",
+   "title_original": "不便になるまで、減らしてみる",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/331387488/rectangle_large_type_2_609f2b87797e66d28edff4978982fcd5.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-04T02:32:21+00:00",
+   "title_ja": "元アパレル店員が20着からさらに減らす挑戦",
+   "summary_ja": "元アパレル店員の筆者は、現在下着・靴・バッグを含め20着の服で暮らしているが、さらに減らす実験を開始。不要感が出るまで減らす過程と課題を共有する。具体的には、季節ごとに着回しを見直し、使わないものはリサイクルに回す方針です。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "下着",
+    "靴",
+    "バッグ"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "f5e3becbca50678c",
+   "url": "https://news.yahoo.co.jp/articles/fc7794388ef7e0693bcfcf8d06576688d7572c0f",
+   "title_original": "IKEA、セリア、ニトリetc.｜衣替えをラクにする！整理収納アドバイザーもおすすめの収納アイデア4選（たまひよONLINE）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00100516-tamahiyo-000-1-view.jpg?exp=10800",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-04T01:55:00+00:00",
+   "title_ja": "整理収納アドバイザーが提案する衣替え収納アイデア4選",
+   "summary_ja": "整理収納アドバイザーがIKEA、セリア、ニトリのアイテムを活用した衣替えの収納アイデア4つを提案。季節ごとの衣類整理が楽になる具体的な方法とおすすめ商品を紹介。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "IKEA",
+    "セリア",
+    "ニトリ",
+    "収納ボックス"
+   ],
+   "importance": 3
+  },
+  {
    "id": "a11b13f38090bf29",
    "url": "https://note.com/lovely_daphne202/n/n26c89874e85c",
    "title_original": "【暮らし】祝日をひとつ挟んで。残りの秋支度と、靴下の引き際🧦",
@@ -375,6 +476,42 @@
    "category": "部屋・収納",
    "axis": "reduce",
    "things": [],
+   "importance": 3
+  },
+  {
+   "id": "5ea1a994644462d7",
+   "url": "https://www.roomie.jp/2026/11/1918717",
+   "title_original": "今年のベストバイに入るほど気に入った。1杯で約8gのたんぱく質が摂れる「味の素のスープ＆味噌汁」が朝食やお弁当の定番に",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/261029_ajinomoto_proteinsoup_01.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-03T22:00:23+00:00",
+   "title_ja": "味の素のスープ＆味噌汁を愛用する理由",
+   "summary_ja": "コンパクトな暮らしを送るフリーライターが、朝食やお弁当の定番として愛用している味の素のスープ＆味噌汁を紹介。1杯で約8gのたんぱく質が摂れる実用的なアイテム。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "スープ＆味噌汁"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4f56fce20b22ec7a",
+   "url": "https://www.roomie.jp/2026/11/1919436",
+   "title_original": "横向きで寝ても快適。Ankerの「寝ホン」が睡眠時間を変えてくれそうだ",
+   "source": "ROOMIE",
+   "image": "https://www.roomie.jp/wp-content/uploads/2025/10/8ec6a9c9f17f674d2b5aa83ddff080e1.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-03T21:15:24+00:00",
+   "title_ja": "横向きでも快適に使えるAnkerの寝ホン",
+   "summary_ja": "良質な睡眠をサポートするために開発された、Ankerの睡眠特化型イヤホンを紹介。横向きで寝ても快適に使える設計が特徴のアイテム。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "イヤホン"
+   ],
    "importance": 3
   },
   {
@@ -5678,24 +5815,6 @@
    "importance": 4
   },
   {
-   "id": "6dabb16fdfeb4a31",
-   "url": "https://note.com/tender_otter9149/n/n722d205a1dcb",
-   "title_original": "空き家の庭も断捨離が必要？伸びすぎた庭木を整理するという選択",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/329040436/rectangle_large_type_2_6ebafaa2852fffe0e8b22bcf5c967da0.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-27T04:10:37+00:00",
-   "title_ja": "空き家の庭も断捨離：伸びすぎた庭木を整理",
-   "summary_ja": "著者は空き家の庭でも断捨離が必要だと指摘し、伸びすぎた庭木を剪定して不要な枝を取り除くことで、見た目をすっきりさせ、管理を楽にする手順を紹介している。家全体の雰囲気も改善できる。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [
-    "庭木"
-   ],
-   "importance": 3
-  },
-  {
    "id": "cdddcb03382f123e",
    "url": "https://www.roomie.jp/2026/10/1916352",
    "title_original": "ポケットにあれこれ詰め込むの、もうやめない？財布もスマホも1つにまとめよう",
@@ -5817,22 +5936,6 @@
    "importance": 3
   },
   {
-   "id": "18b24070c6073dba",
-   "url": "https://note.com/shibatyon/n/n7c4b9dfca050",
-   "title_original": "買う前に、家の中を見てみよう～持っているものを活かす暮らし～",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/327680590/rectangle_large_type_2_356a4906d220729d7712d22a579859e0.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-26T22:54:32+00:00",
-   "title_ja": "新しい物を買う前に自宅の持ち物を活かす工夫",
-   "summary_ja": "新しい物を購入する前に、まず自宅の中を見渡して今ある持ち物を活かした暮らしを送るための心構えについて綴っている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
    "id": "04169d2a6ae02fdf",
    "url": "https://article.auone.jp/7ae6939a-0113-447f-8ae5-4c1e80a46ce4",
    "title_original": "整理収納アドバイザーが「洗面台にゼッタイ置かないモノ」3つ。これだけは徹底しています！",
@@ -5902,25 +6005,6 @@
    "importance": 3
   },
   {
-   "id": "2ceee27064d334a0",
-   "url": "https://note.com/soukeigoudou/n/n72a17ebeb166",
-   "title_original": "【社会人】軽音部で買ったヤマハのベース、4弦の買取は定価の2割台。BB234は1万円、BBP34は6.5万円",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/328939953/rectangle_large_type_2_7b3f8392268d1bacee6c5647cf3d0fd7.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-26T21:58:19+00:00",
-   "title_ja": "軽音部のヤマハベース、定価の2割で売却",
-   "summary_ja": "高校軽音部で購入したヤマハベースを、社会人になっても押し入れに放置していたが、定価の約20%で買取り、手放した事例を紹介しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "ヤマハ BB234",
-    "ヤマハ BBP34"
-   ],
-   "importance": 3
-  },
-  {
    "id": "cb5d80fc4a52857f",
    "url": "https://www.autoevolution.com/news/this-single-level-tiny-house-is-a-charming-personal-oasis-for-minimalist-living-277598.html",
    "title_original": "This Single-Level Tiny House Is a Charming Personal Oasis for Minimalist Living",
@@ -5935,26 +6019,6 @@
    "axis": "own",
    "things": [],
    "importance": 4
-  },
-  {
-   "id": "353fb7673fe02ec0",
-   "url": "https://note.com/chiisana_hana/n/n744801d1f977",
-   "title_original": "タンスを捨てるつもりなんてなかった",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/328708695/rectangle_large_type_2_92ef851545432ccdddcfcfb2b3275f13.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-26T20:37:58+00:00",
-   "title_ja": "タンスを処分し、服の持ち方を見直した話",
-   "summary_ja": "以前はタンスや段ボールに服を詰め込んでいましたが、衣替えや収納の多さに追われていました。服をすべて見直したことで、これまでの暮らしや収納の手間について気づきを得た体験談です。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "服",
-    "タンス",
-    "段ボール箱"
-   ],
-   "importance": 3
   },
   {
    "id": "3c21b11296ef42c4",
@@ -7271,62 +7335,6 @@
     "引き出し"
    ],
    "importance": 3
-  },
-  {
-   "id": "5b6dec407b82b7c5",
-   "url": "https://www.roomie.jp/2026/10/1914860",
-   "title_original": "シャンプー2回でも頭皮のニオイが気になっていた私が、「無印良品のヘッドスクラブ」を使ってみた結果",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/05/260501_headscrub_eye.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-24T11:00:41+00:00",
-   "title_ja": "無印良品のヘッドスクラブで頭皮ケアを試した話",
-   "summary_ja": "シャンプーを2回しても頭皮のニオイやベタつきが気になっていた筆者が、無印良品のヘッドスクラブを取り入れて頭皮のすっきり感を試した体験談。季節の変わり目に感じやすい頭皮の汚れや重たさへのアプローチを紹介している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "無印良品のヘッドスクラブ",
-    "シャンプー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "cff5654fcdb13015",
-   "url": "https://www.youtube.com/watch?v=gsLb0xMgEY4",
-   "title_original": "vlog | 5:40起床☀️平日はほぼ0円で暮らす、26歳派遣社員ミニマリストの2日間 | フレンチトースト、作り置き、たまのビール",
-   "source": "ミニマリストじゅん",
-   "image": "https://i4.ytimg.com/vi/gsLb0xMgEY4/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-10-24T11:00:37+00:00",
-   "title_ja": "0円生活のミニマリストが選んだお気に入りアイテム紹介",
-   "summary_ja": "26歳派遣社員ミニマリストが、2日間の生活で実際に使っているエペイオスのドリップケトルやE‑Winスタンディングテーブル、SwitchBotハブミニ、SunRuck小型冷蔵庫など、おすすめの便利アイテムを紹介しています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "エペイオス ドリップケトル",
-    "E‑Win スタンディングテーブル",
-    "SwitchBot ハブミニ",
-    "SunRuck 小型冷蔵庫"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "d4bc4052bfeff06a",
-   "url": "https://nlab.itmedia.co.jp/cont/articles/4050475",
-   "title_original": "築50年、家賃3万5000円の団地→フルでリノベすると…… シンプルでおしゃれな光景に「居心地の良さが伝わる」「憧れます」（1/2） | リフォーム・リノベーション・DIY ねとらぼ",
-   "source": "ねとらぼ",
-   "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/10/1792642869_12.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-24T10:45:00+00:00",
-   "title_ja": "築50年の団地をフルリノベーションしたシンプルな暮らし",
-   "summary_ja": "家賃3万5000円の築50年団地をフルリノベーションした事例。無駄を削ぎ落としたシンプルで居心地の良い空間に仕上げられており、限られた古い物件を自分らしく整えて暮らす工夫が垣間見える。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
   }
  ]
 }
