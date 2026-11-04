@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T14:26:45.615088+09:00",
+ "updated_at": "2026-11-04T22:59:15.527761+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,39 +27,35 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-04T14:28:11.217411+09:00",
+  "generated_at": "2026-11-04T23:02:25.864621+09:00",
   "days": 3,
   "period": "11月3日〜11月4日",
   "count": 45,
-  "reduce_count": 28,
-  "own_count": 17,
-  "overview": "衣類の枚数や本、収納などの持ち物を見直して暮らしを整える実践談や、タイニーハウスなどの小さな住まいに関する記事が語られています。",
-  "reduce": "元アパレル店員の服の枚数見直しや、タンスの引き出し・在庫管理の整理など、持ち物を減らす工夫や体験談が多く語られています。",
-  "own": "無印良品やIKEAなどの便利な収納アイテムや、チタン製プレート、寝ホンなどのこだわりの道具類が紹介されています。",
+  "reduce_count": 26,
+  "own_count": 19,
+  "overview": "11月3日から4日に集まった45件の記事では、服や本、引き出しの物を減らして心身の余裕を生み出す実践例や、バッグやガジェットなど身軽な外出を支える定番アイテムの工夫が幅広く語られています。",
+  "reduce": "物を減らすことで本や服を大切に扱えるようになったり、在庫管理や部屋の片づけの負担を軽くしたりする具体的な手放し方が紹介されています。",
+  "own": "バックパックや保冷プレート、スープなど、日々の暮らしや移動をコンパクトで快適にするこだわりが詰まった愛用品が多数紹介されています。",
   "points": [
    {
-    "title": "衣替えと服の見直し",
-    "body": "元アパレル店員による下着やバッグを含めた20着での暮らしや、無印良品やユニクロを活用した冬のワードローブの選び方、整理収納アドバイザーによる衣替えのアイデアが語られています。"
+    "title": "服や本の減らし方",
+    "body": "本を400冊から30冊に絞って一冊を大切にするようになった体験や、元アパレル店員が下着やバッグを含めて20着の服で暮らす挑戦などが語られています。"
    },
    {
-    "title": "収納と在庫管理の工夫",
-    "body": "目隠し収納をやめて家族全員が分かりやすい在庫管理にする方法や、吊るす・浮かす空間収納、古い賃貸の床を整えるジョイントマットの導入など、部屋をすっきり保つ工夫が紹介されています。"
+    "title": "収納と在庫の工夫",
+    "body": "生活感を消すための目隠しボックス収納をやめて分かりやすい在庫管理に変えた話や、吊るす・浮かす空間収納で部屋をすっきり保つアイデアが紹介されています。"
    },
    {
-    "title": "デジタルデトックスと習慣",
-    "body": "スマートフォンを100日間機内モードに設定して生活した実験や、6年間1日1食を続けた変化など、デジタル機器との距離感を見直す暮らしの習慣が取り上げられています。"
-   },
-   {
-    "title": "タイニーハウスの事例",
-    "body": "ロフトやパティオドア、フルサイズのキッチンを備えた小さな住まいや、湖畔コミュニティに登場したタイニーハウスなど、様々なコンパクトな暮らしの実例が紹介されています。"
+    "title": "身軽な移動と持ち物",
+    "body": "拡張ポーチ付きのマルチストラップやバックパックを活用して必需品をコンパクトにまとめ、旅先や日常の外出を身軽にする工夫が語られています。"
    }
   ],
   "keywords": [
-   "無印良品",
-   "タイニーハウス",
    "断捨離",
    "収納",
-   "ミニマリスト"
+   "無印良品",
+   "バックパック",
+   "服"
   ]
  },
  "things": [
@@ -200,10 +196,6 @@
    "count": 2
   },
   {
-   "name": "引き出し",
-   "count": 2
-  },
-  {
    "name": "本",
    "count": 2
   },
@@ -221,6 +213,10 @@
   },
   {
    "name": "薪ストーブ",
+   "count": 2
+  },
+  {
+   "name": "靴下",
    "count": 2
   }
  ],
@@ -254,9 +250,11 @@
   "Infoseek",
   "J-CAST ニュース",
   "Lifehacker",
+  "London TV",
   "Magzter",
   "Matt D'Avella",
   "Mindful",
+  "Moneycontrol.com",
   "MonoMax",
   "NPR",
   "News.com.au",
@@ -281,6 +279,7 @@
   "Tiny House Talk",
   "Tokuno | Minimalist",
   "TradingView",
+  "Travel + Leisure",
   "UA.NEWS",
   "Unisba Media",
   "Upworthy",
@@ -328,6 +327,162 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "25fd175d66c0c8ad",
+   "url": "https://www.lifehacker.jp/article/2610-lht-moft-packable-multi-strap",
+   "title_original": "スマホストラップにもサコッシュにも早変わり！MOFTの新作で必需品だけまとめて身軽になれた",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/11/04/51203718-c5c8-48b3-bd4a-cf4ba8c19ef4/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-04T13:15:00+00:00",
+   "title_ja": "MOFTの新作マルチストラップで身軽に外出する話",
+   "summary_ja": "MOFTのパッカブルマルチストラップの使用レビュー。肩紐部分に拡張ポーチが収納されており、ストラップやサコッシュとして必需品をコンパクトにまとめて身軽に移動できるようになる。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "スマホストラップ",
+    "サコッシュ",
+    "拡張ポーチ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "58571e956c78f0ea",
+   "url": "https://www.roomie.jp/2026/11/1921210",
+   "title_original": "「ロボット掃除機はちょっとお高い、フロアワイパーは面倒…」をちょうどよく解消する掃除道具を見つけた",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/20261104_ccp_02.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-04T12:00:03+00:00",
+   "title_ja": "面倒な床拭きをちょうどよく解消する掃除道具",
+   "summary_ja": "ロボット掃除機ほど高価でなく、フロアワイパーほど手間がかからない、日々の床掃除をラクにしてくれる実用的な掃除道具を紹介している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ロボット掃除機",
+    "フロアワイパー",
+    "掃除道具"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "3a557c10af060a17",
+   "url": "https://www.travelandleisure.com/minimalist-wardrobe-carry-on-travel-outfits-fashion-writer-picks-amazon-november-2026-12230263",
+   "title_original": "I Used to Overpack for Every Trip—Now, These 5 Minimalist Wardrobe Tricks Help Me Fit Everything in a Carry-on",
+   "source": "Travel + Leisure",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-04T12:00:00+00:00",
+   "title_ja": "旅行の荷物を機内持ち込みに収めた5つのコツ",
+   "summary_ja": "荷物のパッキングを減らし、機内持ち込みサイズにすっきりとまとめるための5つの工夫を紹介しています。",
+   "category": "旅・持ち歩き",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "906408a265db0347",
+   "url": "https://news.yahoo.co.jp/expert/articles/dc9b49c061a61aabc4b0613921f1ba3847cb2e96",
+   "title_original": "年末に大掃除したくない！整理収納アドバイザーが11月に済ませること3つ。（おだけみよ） - エキスパート",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/odakemiyo/02758838/title-1793788925090.jpeg?exp=10800",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-04T11:01:34+00:00",
+   "title_ja": "年末の大掃除を避けるために11月に片づけること",
+   "summary_ja": "年末の負担を減らすため、整理収納アドバイザーが11月のうちに済ませている3つの整理整頓の習慣を紹介しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "e9b252f97832b846",
+   "url": "https://www.youtube.com/shorts/10EhjVicjuE",
+   "title_original": "『収納の断捨離』 #断捨離 #やましたひでこ #片づけ",
+   "source": "やましたひでこ断捨離",
+   "image": "https://i2.ytimg.com/vi/10EhjVicjuE/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-04T11:00:14+00:00",
+   "title_ja": "やましたひでこの収納断捨離講座紹介",
+   "summary_ja": "やましたひでこが自ら提唱する断捨離の手法と、オンラインサロンで提供する1日断捨離サポートを紹介。部屋だけでなく心も整理する具体的なステップが示される。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "cb69b24e6cc3231b",
+   "url": "https://note.com/suu_minimuscle/n/n75ca424474f7",
+   "title_original": "所有しなくても、使えればいい。僕が「物より環境」を選ぶ理由",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/331056026/rectangle_large_type_2_0345b2cb4732c8bacfb531b6a7cbe3a1.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-04T10:44:28+00:00",
+   "title_ja": "所有しなくても良い理由と環境への配慮",
+   "summary_ja": "ミニマリストの筆者が、所有せずに必要時だけ利用する暮らしを選んだ背景と、環境負荷を抑えるための考え方を具体例と共に語る。さらに、物を減らすことで得られる精神的余裕についても触れる。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "c8d39b2fe1504f84",
+   "url": "https://www.roomie.jp/2026/11/1916685",
+   "title_original": "私だけのカラーリングって特別。カラフルなのに意外とコーデを選ばない「コトパクシ」のバックパック",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/20261104_cotopaxi_01.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-04T10:00:57+00:00",
+   "title_ja": "コトパクシのバックパックで実践するミニマリストの持ち物",
+   "summary_ja": "フリーライターが週の半分以上使用するコトパクシ製バックパックを紹介。カラーリングと多機能性で日常の持ち物を絞り、シーン別に使い分けるミニマリスト的な活用法を語る。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "コトパクシのバックパック"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5bbbbcbe8b82f14e",
+   "url": "https://topics.smt.docomo.ne.jp/article/lettuceclub/life/lettuceclub-1447746",
+   "title_original": "「ラップ使うのやめました」整理収納プロが買って正解だった“脱・使い捨て”キッチン名品3選（レタスクラブ）",
+   "source": "ｄメニューニュース",
+   "image": "https://img.topics.smt.news.goo.ne.jp/picture/lettuceclub/m_lettuceclub-1447746.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-04T06:20:09+00:00",
+   "title_ja": "整理収納のプロが選んだ使い捨てをやめるキッチン道具",
+   "summary_ja": "整理収納のプロがキッチンで使い捨てをやめて導入し、買って正解だと感じている愛用の名品を紹介しています。日々の調理や保存で役立つ便利なアイテムを厳選しているのが特徴です。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "ラップ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4ca5e6a03970be2d",
+   "url": "https://www.moneycontrol.com/lifestyle/quote-of-the-day-by-sudha-murty-if-i-buy-a-saree-of-rs-7-000-will-i-wear-it-7-000-times-no-article-14068791.html",
+   "title_original": "Quote of the day by Sudha Murty: \"If I buy a saree of Rs 7,000, will I wear it 7,000 times?...",
+   "source": "Moneycontrol.com",
+   "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260718065844_aa.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-04T05:52:27+00:00",
+   "title_ja": "買い物における基準と価値観についての言葉",
+   "summary_ja": "物を買うときの価格と使用頻度を見つめ直す考え方について述べた名言です。一つの物をどれだけ長く大切に使うかという、買い物に対するシビアな基準や価値観を示唆しています。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
   {
    "id": "0e97a39fdfc16aa5",
    "url": "https://note.com/peg3789/n/n2eae705d5a1a",
@@ -531,6 +686,38 @@
     "パンツ"
    ],
    "importance": 3
+  },
+  {
+   "id": "d0ef5d32a5898fd4",
+   "url": "https://london-tv.co.uk/south-london-experts-host-free-event-for-later-life-movers-looking-to-downsize-to-their-forever-home",
+   "title_original": "SOUTH LONDON EXPERTS HOST FREE EVENT FOR LATER LIFE MOVERS LOOKING TO DOWNSIZE TO THEIR FOREVER HOME",
+   "source": "London TV",
+   "image": "https://london-tv.co.uk/wp-content/uploads/2026/11/Brio-Downsizing-Socials-V2.jpeg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-03T20:13:14+00:00",
+   "title_ja": "南ロンドンでの終活・ダウンサイジング講座",
+   "summary_ja": "南ロンドンの専門家が、終活やより適した住まいへのサイズダウンを検討している人向けに無料のイベントを開催します。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "48971e4f0029d928",
+   "url": "https://www.southernliving.com/best-organizers-from-dollar-tree-12201099",
+   "title_original": "8 Dollar Tree Organizing Finds That Make Your Home Feel More Put Together",
+   "source": "Southern Living",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-03T19:00:00+00:00",
+   "title_ja": "家の中をすっきり見せる収納グッズ8選",
+   "summary_ja": "手頃な価格で購入できる収納アイテムを活用して、家の中をより整った印象にまとめる方法を紹介しています。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
   },
   {
    "id": "7c2d6ecbd1efcd58",
@@ -7134,206 +7321,6 @@
    "category": "心・習慣",
    "axis": "reduce",
    "things": [],
-   "importance": 3
-  },
-  {
-   "id": "01160b7e13e6bfcc",
-   "url": "https://www.realsimple.com/why-october-is-the-perfect-time-to-wash-your-windows-12166173",
-   "title_original": "Why Cleaning Your Windows in October Offers Better Results and Easier Maintenance",
-   "source": "Real Simple",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-24T13:30:00+00:00",
-   "title_ja": "10月に窓掃除をすると仕上がりが良く手入れも楽になる理由",
-   "summary_ja": "10月の秋の時期に窓の掃除を行っておくことで、綺麗な仕上がりになり、その後の手入れや状態の維持が簡単になる理由を解説した記事。効率よく暮らしの環境を整えるための清掃タイミングについて紹介している。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "窓"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "084e77b16b019188",
-   "url": "https://www.lifehacker.jp/article/2610-lht-mujirushi-mattress",
-   "title_original": "仕事の合間にサクッと出せる。無印良品のマットレスは「ごろ寝休憩」にもちょうどよかった！",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/05/29/8f8e9865-dc15-4fb1-879c-ff11be79b6ae/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-24T13:15:00+00:00",
-   "title_ja": "無印良品の空気でできたマットレスの使い心地",
-   "summary_ja": "無印良品の足踏みポンプ式空気でできたマットレスを使用し、仕事の合間の休憩やごろ寝に活用しているレビュー。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "マットレス"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "683dafb5a8ef1c0b",
-   "url": "https://www.roomie.jp/2026/10/1900524",
-   "title_original": "2,500円で買えちゃうワークマンの「ステップインハイクシューズ」には、玄関に一足置いておきたい理由がたくさん",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/7IV07695.jpeg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-24T12:30:36+00:00",
-   "title_ja": "手を使わずに履けるワークマンのハイキングシューズ",
-   "summary_ja": "玄関でサッと脱ぎ履きができるワークマンのステップインハイクシューズ。荷物で手がふさがっているときや急いでいるときに活躍する、玄関に置いておきたい一足。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "ステップインハイクシューズ",
-    "アクティブハイクハーディ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "acae547cb2ff6052",
-   "url": "https://news.infoseek.co.jp/article/itmedia_nlab_4060876",
-   "title_original": "「何故か家中片付きます」 無印良品の“990円やわらか収納ケース”に集まった声 「ポンポン入れるだけで見た目スッキリ」「軽くて傷つかない」｜Infoseekニュース",
-   "source": "Infoseek",
-   "image": "https://media.image.infoseek.co.jp/isnews/photos/itmedia_nlab/itmedia_nlab_4060876_0-enlarge.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-24T12:20:00+00:00",
-   "title_ja": "無印良品のケースを使った手軽な片付け術",
-   "summary_ja": "無印良品のやわらか収納ケースを使うことで、家中が簡単に片付くという話題。物をポンポンと入れるだけで見た目がすっきりと整う、軽くて扱いやすい収納アイテム。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "やわらか収納ケース"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "af6d3b9061683298",
-   "url": "https://tinyhousetalk.com/diy-foam-teardrop-trailer-bathroom-48000-miles",
-   "title_original": "This DIY Foam Teardrop Trailer Fits a Bathroom and Has Logged 48,000 Miles",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/diy-foam-teardrop-trailer-my-way-galley-open.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-24T12:15:29+00:00",
-   "title_ja": "トイレ付き自作トレーラーハウスでの旅の工夫",
-   "summary_ja": "木製フレームを使わずに自作したコンパクトなトレーラーハウス。コンポスタブルトイレや収納ベッド、床の工夫を取り入れ、長距離の移動にも耐える仕様で快適な旅を実現している。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "コンポスタブルトイレ",
-    "トレーラー"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "509951218777d0f5",
-   "url": "https://www.roomie.jp/2026/10/1902150",
-   "title_original": "トリュフにうに、蟹まで…！成城石井の新作パスタソースが「レトルトの域」を超えてきそう",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/f81fd2e4c52864042852c112ce927ae2.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-24T12:00:37+00:00",
-   "title_ja": "成城石井新作パスタソースで無駄なく使い切るコツ",
-   "summary_ja": "コストコで大量購入した食材を無駄なく使い切る工夫と、成城石井の新作パスタソースを活用した時短料理法を紹介。家事の手間を減らすために冷凍保存や小分け活用も提案している。",
-   "category": "キッチン・食",
-   "axis": "reduce",
-   "things": [
-    "成城石井 パスタソース",
-    "コストコ 食材"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "a29d63471bf46b35",
-   "url": "https://www.roomie.jp/2026/10/1912551",
-   "title_original": "スタプロのペン用クリップで、もう「書くものお借りできますか？」を言わなくて済む！",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/P1030281_16_9-scaled.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-24T11:30:33+00:00",
-   "title_ja": "ペン用クリップで書くものを持ち歩く工夫",
-   "summary_ja": "外出先で筆記用具を借りずに済むよう、ペン用クリップを活用してスマートに持ち歩く工夫を紹介している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ペン用クリップ"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "d70c13080610da3b",
-   "url": "https://tinyhousetalk.com/portland-garage-conversion-adu-becca-anthony",
-   "title_original": "They Turned Their Garage Into a 370 Sq Ft Home and Rent Out the Main House",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/the-becca-anthony-portland-adu-exterior.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-24T11:30:00+00:00",
-   "title_ja": "ガレージを改装した約34平米のタイニーハウス",
-   "summary_ja": "自宅のガレージを天井の高い明るい約34平米の住居へと改装し、母屋を貸し出しながらコンパクトに暮らす実例。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "64f466d9b5a2e042",
-   "url": "https://tinyhousetalk.com/cordwood-bottle-home-missouri-ozarks-kirsten-dirksen",
-   "title_original": "He Quit His Job at 50 and Built a $50K Cordwood Home Lit by Colorful Bottles in the Missouri Ozarks",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/dirksen-jason-sunni-cordwood-ozarks-exterior.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-24T11:15:00+00:00",
-   "title_ja": "50歳で退職、ボトル照明の小屋を$5万で建てた話",
-   "summary_ja": "ジェイソン・ファインさんは50歳で鍛冶職を辞め、妻と共に自分の土地で木材と瓶を使い、約5万ドルでコルドウッドハウスを6年かけて建設した。シンプルな暮らしと低コストが特徴だ。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "コルドウッドハウス",
-    "ガラス瓶",
-    "木材"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "20e7ab0434627527",
-   "url": "https://news.infoseek.co.jp/article/itmedia_nlab_4044018",
-   "title_original": "2年9カ月かけて物置部屋を子ども部屋に！ 3児ママの捨て活に「諦めずに素晴らしい」「凄すぎます！」｜Infoseekニュース",
-   "source": "Infoseek",
-   "image": "https://media.image.infoseek.co.jp/isnews/photos/itmedia_nlab/itmedia_nlab_4044018_0-enlarge.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-24T11:15:00+00:00",
-   "title_ja": "2年9か月で物置を子ども部屋に改装したママの捨て活",
-   "summary_ja": "3児のママが2年9か月かけて物置部屋を子ども部屋に改装し、不要品を捨て続けた過程が話題に。諦めずに続けた捨て活が「凄すぎる」と称賛されている。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "087dbc864d451e20",
-   "url": "https://monomax.jp/archives/365804",
-   "title_original": "【無印良品】20年愛用のマニアが本気で選んだ「お悩み解決グッズ」BEST5！高い棚の引き出しにくさ、風呂場の“シャンプー詰め替え問題”を一発解決する便利グッズとは？",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2026/10/260813-155423_11zon-scaled.jpeg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-24T11:00:56+00:00",
-   "title_ja": "無印良品マニアが選ぶ暮らしの悩み解決グッズ",
-   "summary_ja": "長年無印良品を愛用するマニアが、収納の引き出しや浴室の詰め替え問題など、日々の不便を解消する便利グッズを紹介している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "シャンプー詰め替え",
-    "引き出し"
-   ],
    "importance": 3
   }
  ]
