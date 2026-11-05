@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T08:24:45.056350+09:00",
+ "updated_at": "2026-11-05T14:45:58.594987+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,35 +27,35 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-05T08:25:39.391004+09:00",
+  "generated_at": "2026-11-05T14:47:12.717249+09:00",
   "days": 3,
-  "period": "11月3日〜11月5日",
+  "period": "11月4日〜11月5日",
   "count": 45,
-  "reduce_count": 26,
-  "own_count": 19,
-  "overview": "11月3日から11月5日までの45件の記事では、季節の変わり目に合わせた片付けのコツや、持ち物を絞る工夫が語られています。",
-  "reduce": "年末を見据えた早めの片付けや収納見直し、持ち物を減らす断捨離の工夫を実践する話題が多く見られます。",
-  "own": "バッグやガジェットなど日常の持ち物を厳選し、快適で身軽な使い方や収納スタイルを工夫する事例が語られています。",
+  "reduce_count": 22,
+  "own_count": 23,
+  "overview": "全45件の記事では、季節の変わり目を見据えた片付けや、日常の持ち物を快適にするコンパクトなガジェット・収納術が幅広く紹介されています。",
+  "reduce": "年末を見据えた早めの片付けや、日用品や本の数を大胆に絞り込む具体的な工夫や心構えが多く語られています。",
+  "own": "バックパックや財布など身軽に移動するための持ち物選びや、部屋を快適にするインテリアの工夫が紹介されています。",
   "points": [
    {
-    "title": "年末に向けた片付け",
-    "body": "11月のうちに自宅をすっきりと整えるため、収納アドバイザーらが季節の変わり目に進める片付けの場所や、年末の大掃除を避けるための整理整頓の習慣を紹介しています。"
+    "title": "早めの片付けと習慣",
+    "body": "11月のうちに自宅を整理して年末の大掃除の負担を減らす方法や、朝のルーティンを見直してストレスを減らすコツが紹介されています。"
    },
    {
-    "title": "カプセルワードローブ",
-    "body": "9着のアイテムで冬のワードローブを作る提案や、20着からさらに服を減らす挑戦をする元アパレル店員の記事など、衣服を厳選して暮らす工夫が語られています。"
+    "title": "ガジェットとバッグ",
+    "body": "バックパックや財布、充電器など、日常の持ち物をスッキリとまとめて身軽に移動するためのアイテムや活用法が多数取り上げられています。"
    },
    {
-    "title": "収納や在庫の管理",
-    "body": "生活感を消すための目隠し収納をやめて在庫管理をラクにする工夫や、「吊るす」「浮かす」空間収納術を活用して部屋を綺麗に保つアイデアが紹介されています。"
+    "title": "持たない暮らしの実践",
+    "body": "ワードローブを少数に絞ったり、本を大幅に減らしたりする具体的な体験談を通じて、所有を見直すメリットが語られています。"
    }
   ],
   "keywords": [
    "断捨離",
-   "片付け",
-   "収納",
+   "ミニマリスト",
    "バックパック",
-   "バッグ"
+   "収納",
+   "片付け"
   ]
  },
  "things": [
@@ -64,35 +64,35 @@
    "count": 12
   },
   {
+   "name": "バッグ",
+   "count": 9
+  },
+  {
    "name": "タイニーハウス",
    "count": 8
   },
   {
-   "name": "バッグ",
+   "name": "下着",
    "count": 8
   },
   {
-   "name": "下着",
-   "count": 7
-  },
-  {
    "name": "靴",
-   "count": 7
+   "count": 8
   },
   {
    "name": "バックパック",
-   "count": 5
+   "count": 6
   },
   {
    "name": "スマートフォン",
    "count": 4
   },
   {
-   "name": "イヤホン",
-   "count": 3
+   "name": "ベッド",
+   "count": 4
   },
   {
-   "name": "キャビン",
+   "name": "イヤホン",
    "count": 3
   },
   {
@@ -101,10 +101,6 @@
   },
   {
    "name": "バスタブ",
-   "count": 3
-  },
-  {
-   "name": "ベッド",
    "count": 3
   },
   {
@@ -136,15 +132,15 @@
    "count": 2
   },
   {
+   "name": "キャビン",
+   "count": 2
+  },
+  {
    "name": "クローゼット",
    "count": 2
   },
   {
    "name": "ショルダーバッグ",
-   "count": 2
-  },
-  {
-   "name": "シール",
    "count": 2
   },
   {
@@ -161,6 +157,10 @@
   },
   {
    "name": "タンス",
+   "count": 2
+  },
+  {
+   "name": "テレビ",
    "count": 2
   },
   {
@@ -237,6 +237,7 @@
   "Dezeen",
   "EatingWell",
   "Editorialge",
+  "GearLab",
   "Glam",
   "Good Housekeeping",
   "Halstead Gazette",
@@ -325,6 +326,234 @@
  "count": 400,
  "items": [
   {
+   "id": "ea9bc270d906d550",
+   "url": "https://note.com/y_yasiro/n/n940e0944fd52",
+   "title_original": "今日も断捨離( *´艸｀)",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/332462693/rectangle_large_type_2_d5e99346cee54b3349337d3b0ca87c93.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-05T05:34:49+00:00",
+   "title_ja": "今日も断捨離を続けている様子",
+   "summary_ja": "筆者は日々の断捨離を続けており、不要なものを手放すプロセスを継続中であることを報告している。具体的な手放し対象は記載されていないが、物を減らす姿勢が示されている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "87b31882e859d847",
+   "url": "https://note.com/love2022/n/n08b83b375545",
+   "title_original": "全ては無駄でできている",
+   "source": "note #ミニマリスト",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/5d3df872f4cd69e482158299142b2737fa069eec.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-05T04:57:43+00:00",
+   "title_ja": "ミニマリストへの思いと自問自答",
+   "summary_ja": "ミニリストになることを考えつつ、自分は多くの好きなものを持ち続けたいと感じていると自問し、少ない方が良いという考えが必ずしも正しくないと結論付けている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "69287e2d9c93a52a",
+   "url": "https://nlab.itmedia.co.jp/research/articles/4085426",
+   "title_original": "「何度もリピしてます」 ニトリの“799円シンプルな収納バスケット”が人気！ 「カップボードにピッタリ」「見た目もおしゃれですっきり収納！」の声（1/2） | ライフ ねとらぼリサーチ",
+   "source": "ねとらぼ",
+   "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/10/1792027837_1759132239_pixta_127468356_M-min-1024x682-1.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-05T04:48:57+00:00",
+   "title_ja": "ニトリの799円収納バスケットが好評",
+   "summary_ja": "ニトリの799円のシンプルな収納バスケットが、カップボードにぴったり合い、見た目もすっきりとしていると好評で、リピート購入が続く様子が紹介されている。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "収納バスケット"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "6f93885b3dbe1d79",
+   "url": "https://thesimplicityhabit.com/10-minimalist-ways-to-make-your-home-cozy",
+   "title_original": "10 Minimalist Ways to Take Your Home From Cold to Cozy",
+   "source": "The Simplicity Habit",
+   "image": "https://thesimplicityhabit.com/wp-content/uploads/2024/10/horizontal-blog-post-2024-10-23T115620.036-1024x683.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-05T03:55:24+00:00",
+   "title_ja": "ミニマリスト向け　部屋を暖かくする10の方法",
+   "summary_ja": "ミニマリストでも快適さを損なわないよう、テクスチャーや照明、植物などを取り入れた10のシンプルなインテリアアイデアを提案し、部屋を暖かく居心地よくする方法を紹介している。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "5af603401f3cd6b0",
+   "url": "https://www.outdoorgearlab.com/reviews/travel/travel-backpack/tortuga-travel-backpack-pro-40l",
+   "title_original": "Tortuga Travel Backpack Pro 40L Review",
+   "source": "GearLab",
+   "image": "https://outdoorgearlab.b-cdn.net/photos/35/12/472740_7869_XXL.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-05T03:16:58+00:00",
+   "title_ja": "大容量バックパック「Tortuga Travel Backpack Pro 40L」のレビュー",
+   "summary_ja": "旅行用の大容量バックパックであるTortuga Travel Backpack Pro 40Lの使用感を検証した海外の製品レビュー記事。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "バックパック"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "7ff027b12dead174",
+   "url": "https://www.roomie.jp/2026/11/1922279",
+   "title_original": "「ノートの罫線って、こんなに薄くていいんだ」。15年ぶりにリニューアルしたキャンパスノートがいい感じ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/261104_campusnote_00-scaled.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-05T03:00:18+00:00",
+   "title_ja": "15年ぶりに刷新された薄い罫線のキャンパスノート",
+   "summary_ja": "15年ぶりにリニューアルされ、罫線がより薄くなって使いやすくなったキャンパスノートの紹介。機能性と佇まいの美しさを重視するライターが選んだ文房具。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "キャンパスノート"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "c93cd30c09a950eb",
+   "url": "https://www.roomie.jp/2026/11/1922353",
+   "title_original": "ヘルメットがなくてもOK！キャップのつばに挟むだけで、ゴルフや釣りでも仲間と話せる28gのインカム",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/amasteryactiveintercom1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-05T02:45:47+00:00",
+   "title_ja": "キャップに挟むだけの軽量インカム「Active Intercom」",
+   "summary_ja": "キャップのつばに挟むだけで使える、重量28gのオープンイヤー型イヤホンインカムの紹介。アウトドアや移動中に仲間と手軽に会話できる道具。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "イヤホンインカム"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "856d53b3beec3fb0",
+   "url": "https://www.lifehacker.jp/article/2611-costorypo-metalwallet-end-1218899641",
+   "title_original": "その動きに誰もが二度見。カード類が0.5秒で取り出せる財布",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/11/04/6f13a302-af46-4d1e-b522-5be7485702be/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-05T02:30:00+00:00",
+   "title_ja": "カードを0.5秒で取り出せるコンパクト財布の紹介",
+   "summary_ja": "ベルギー発のGARZINIコンパクト財布は、ワンプッシュでカードを素早く取り出せ、最大10枚のカードと紙幣・小銭を収納でき、RFIDブロック機能も備えている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "コンパクト財布",
+    "アルミケース"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "f0f7cb1e555d48d0",
+   "url": "https://note.com/20chaku/n/n436c8a203f46",
+   "title_original": "20着のワードローブは、乾く速さで回っている",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/332041134/rectangle_large_type_2_213ac1153b7cdf89dff679b289de32e5.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-05T02:14:20+00:00",
+   "title_ja": "20点だけのワードローブで暮らす元店員の実例",
+   "summary_ja": "元アパレル店員が下着・靴・バッグを含む計20点だけで暮らし、少ない服でも洗濯が追いつき、毎日のコーデがシンプルになる実体験を語る。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "下着",
+    "靴",
+    "バッグ"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "9db9795981dad6a4",
+   "url": "https://article.auone.jp/be1dc9b0-0b16-48f9-aa18-f471d0fdd2d8",
+   "title_original": "20キロも断捨離したのに、あれ？家族は気づかなかった話",
+   "source": "au Webポータル",
+   "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/11/05/https___news_jp_i_1490890611703382288_w768.webp",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-05T01:47:00+00:00",
+   "title_ja": "20kgの断捨離をしたが家族は気付かなかった話",
+   "summary_ja": "20kgの荷物を断捨離したが、家族は変化に気づかず、本人の生活感覚の変化や手放しの実感を語るエピソード。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "5a9e5e36782e902d",
+   "url": "https://news.nicovideo.jp/watch/nw19957671?news_ref=search_search",
+   "title_original": "「今年の秋冬はこれ」ミニマリスト女性がコーデを組んだら…… 厳選11着の着こなしに「参考になりました」",
+   "source": "ニコニコニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-05T01:06:51+00:00",
+   "title_ja": "ミニマリスト女性が組む厳選11着の秋冬コーデ",
+   "summary_ja": "ミニマリストの女性が今年の秋冬に向けて厳選した、11着の服を使ったコーディネートや着こなしの工夫を紹介している記事です。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "服"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "6879a1d135d1d6b5",
+   "url": "https://minimalist-fudeko.com/make-tools-last-longer",
+   "title_original": "少ない道具を長持ちさせる、傷めない使い方と手入れのタイミング",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/11/Washing-a-frying-pan.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-05T00:10:18+00:00",
+   "title_ja": "少ない道具を長持ちさせる使い方と手入れのコツ",
+   "summary_ja": "断捨離して残した少ない台所道具やパソコンなどの持ち物を、できるだけ長く大切に使い続けるための心がけや手入れのタイミングについて紹介しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "台所道具",
+    "パソコン"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "5a09ba7456af2c69",
+   "url": "https://bemorewithless.com/simplify-your-mornings/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
+   "title_original": "Simplify Your Mornings: Create a Stress-Free Start to Your Day",
+   "source": "Be More with Less",
+   "image": "https://bemorewithless.com/wp-content/uploads/2024/03/simplify-mornings-image.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-05T00:05:41+00:00",
+   "title_ja": "ストレスのない朝を迎えるためのルーティン作り",
+   "summary_ja": "シンプルなヒントを取り入れて、毎日の朝のルーティンを改善し、ストレスを減らしてスムーズに一日をスタートさせる方法を紹介しています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "5bcbf2b70c0fffda",
    "url": "https://note.com/js2iam/n/n58953862fc59",
    "title_original": "数えてみた バッグ編 のんびりミニマリストの持ち物リスト",
@@ -359,6 +588,27 @@
    "things": [
     "アイラップ",
     "冷凍庫"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "082153248cec6ba7",
+   "url": "https://tinyhousetalk.com/grand-tiki-floating-bungalow-key-west",
+   "title_original": "The Grand Tiki: A Thatched Floating Bungalow Anchored Off Key West",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/2026/11/grand-tiki-floating-bungalow-key-west-exterior.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-04T22:48:32+00:00",
+   "title_ja": "水上に浮かぶタイニーハウスの設備",
+   "summary_ja": "キーウェスト沖に浮かぶ水上バンガローで、キングサイズのベッドや温水シャワー、パドルボードなどが備えられているコンパクトな住まいを紹介している。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "ベッド",
+    "シャワー",
+    "テレビ",
+    "パドルボード"
    ],
    "importance": 3
   },
@@ -5824,22 +6074,6 @@
    "importance": 3
   },
   {
-   "id": "fcccef400992e2dd",
-   "url": "https://note.com/brainy_dill788/n/ne371ca3bb914",
-   "title_original": "「思い出」を溜めても人生は豊かにならない。私が『今の状態』を最優先する理由",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/319039216/rectangle_large_type_2_d7f0f870f11fe612f2f89f2de476c43c.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-27T19:01:44+00:00",
-   "title_ja": "「思い出」を溜めても人生は豊かにならない",
-   "summary_ja": "20代から節約と投資で資産を築いた知人は、1億円の貯蓄を手にしたものの旅行や趣味を犠牲にし、友人関係も希薄に。筆者は「今の状態」を最優先し、物や思い出に執着しない暮らしの価値を語る。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
    "id": "dadff97037bd53a4",
    "url": "https://news.nicovideo.jp/watch/nw19925932?news_ref=watch_20_nw19780912",
    "title_original": "SNS総フォロワー数19万人超、整理収納アドバイザーひでまるによる新刊『自分らしさは、部屋に出る』2026年12月4日（金）発売",
@@ -5872,40 +6106,6 @@
     "JBL Tour One M3ヘッドホン"
    ],
    "importance": 2
-  },
-  {
-   "id": "09f3b4d175b42929",
-   "url": "https://note.com/mainichi_3ko/n/n0535a4ee4310",
-   "title_original": "「使えること」と「使うこと」",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/328125885/rectangle_large_type_2_1dcd46200e869dbec397ecb1328f9b1e.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-27T18:43:20+00:00",
-   "title_ja": "「使える」だけで残すのはNG　包装紙1枚を手放した体験",
-   "summary_ja": "見た目は綺麗でも実際に使わない包装紙を手放すことで、必要性の判断基準が変わり、無駄な物を減らすきっかけとなった体験談を紹介する。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "包装紙"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "31b2d799411801ab",
-   "url": "https://note.com/urudays/n/n7054a6fba2a1",
-   "title_original": "「ちゃんとしなきゃ」をやめたら、暮らしが少しラクになった。",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/329279253/rectangle_large_type_2_abe813af9d2d30b4db4a4414b09b039c.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-27T17:24:25+00:00",
-   "title_ja": "「ちゃんとしなきゃ」を手放してラクになった暮らし",
-   "summary_ja": "子どもや猫がいるからと「家をきれいにしなきゃ」「すぐに片付けなきゃ」と思い込んでいたルールを手放した体験談。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
   },
   {
    "id": "4077167adc30f5f2",
@@ -6060,24 +6260,6 @@
     "マグネット収納"
    ],
    "importance": 3
-  },
-  {
-   "id": "686a2265c715a962",
-   "url": "https://note.com/jazzy_broom4748/n/n579d8d3e6235",
-   "title_original": "迷う迷う",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/329194673/rectangle_large_type_2_ac5e424e05f03059098096d072144c89.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-27T11:44:47+00:00",
-   "title_ja": "予算オーバーでも厳選して買った服の話",
-   "summary_ja": "コムデギャルソンのゲリラストアで買い物をした際、予算を大きく超えてしまった。しかし、迷って選んだ厳選されたアイテムであるため、大切に使おうと思える。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "服"
-   ],
-   "importance": 2
   },
   {
    "id": "0a0a2fafcd852177",
@@ -7134,190 +7316,6 @@
     "マッサージツール"
    ],
    "importance": 2
-  },
-  {
-   "id": "8e3ecacc13f51637",
-   "url": "https://tinyhousetalk.com/camp-v-naturita-colorado-art-getaway",
-   "title_original": "Camp V: A 1940s Mining Camp in Colorado Reborn as an Art-Filled Getaway",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/camp-v-colorado-prairie-wind-chapel-aerial.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-25T11:45:02+00:00",
-   "title_ja": "コロラド旧鉱山キャンプがアート満載のミニリトリートに",
-   "summary_ja": "コロラド州の1942年築ウラン鉱山キャンプが改装され、キャビンやヨガスタジオ、スイミングポンドなどを備えた小規模なアートリトリート『Camp V』として公開され、宿泊予約が可能になっています。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "キャビン",
-    "ヨガスタジオ",
-    "スイミングポンド"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "410a655832fb965b",
-   "url": "https://www.roomie.jp/2026/10/1913155",
-   "title_original": "文房具好きな私の新たな相棒は、Amazonベストセラーの「先曲がりピンセット」。小さなシールも自由自在です",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/IMG_0424-scaled.jpeg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-25T11:30:25+00:00",
-   "title_ja": "「先曲がりピンセット」でシール貼りを快適に",
-   "summary_ja": "田中青紗さんは、シール貼りの手間を減らすためにAmazonベストセラーの先曲がりピンセットを活用。小さなシールも正確に置け、ステーショナリー整理が楽になったと紹介している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "先曲がりピンセット",
-    "シール"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "ce9c06737f17b8df",
-   "url": "https://tinyhousetalk.com/creek-walk-cottages-travelers-rest-swamp-rabbit-trail",
-   "title_original": "Creek Walk Cottages: A Wooded Tiny Home Community on South Carolina’s Swamp Rabbit Trail",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/cw-06-spring-web-52.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-25T11:30:00+00:00",
-   "title_ja": "南カロライナの400sqft以下ティンハウス集落",
-   "summary_ja": "サウスカロライナ州Travelers RestにあるCreek Walk Cottagesは、20エーカー以上の森林に点在する400平方フィート未満のパークモデル・ティンハウス。小川沿いの散策路や庭があり、ミニマルな暮らしを体験できるコミュニティとして注目されている。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [
-    "ティンハウス",
-    "Creek Walk Cottages"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "6186f1d45700ef26",
-   "url": "https://nlab.itmedia.co.jp/cont/articles/4044641/image",
-   "title_original": "古い団地で一人暮らしする50代女性 大事なものを残した“持たない暮らし”に「素敵なものばかり」「押し入れの使い方がオシャレ」",
-   "source": "ねとらぼ",
-   "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/10/1791904912_311389dbb8a7e2872f56be161f223578.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-25T11:15:00+00:00",
-   "title_ja": "50代女性が語る「持たない暮らし」押し入れのオシャレ活用術",
-   "summary_ja": "50代の女性が古い団地で一人暮らしを始め、必要最低限のものだけを残す“持たない暮らし”を実践。押し入れをオシャレに収納し、空間を有効活用するアイデアが紹介され、シンプルながらも心地よい生活が伝わる。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "押し入れ"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "6d3ce9953ce35fe6",
-   "url": "https://monomax.jp/archives/368743",
-   "title_original": "プロが選んだカバン大賞！BEAMS×ブリーフィング「肩掛けを省く英断」3WAYの究極バッグ、撥水レザーのATTITU、防御力のスーリー…ほか【バックパックの人気記事ランキングベスト3】（2026年9月版）",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2026/10/111260716-152017_11zon-scaled-e1789098589867.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-25T11:00:49+00:00",
-   "title_ja": "プロが選ぶ3WAYバッグ「肩掛け不要」ベスト3",
-   "summary_ja": "プロが選んだ3つの3WAYバッグを紹介。BEAMS×ブリーフィングの撥水レザーは肩掛けとリュックを兼ね、ATTITUは防水性、スーリーは防御力に優れ、1つで複数の使い方ができるため荷物を減らしたい人におすすめだ。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "BEAMS×ブリーフィング 3WAYバッグ",
-    "ATTITU 撥水レザー",
-    "スーリー 防御力バッグ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "3d9cfc134b3b8cd3",
-   "url": "https://www.lifehacker.jp/article/2610-amazon-philips-dlk3530g",
-   "title_original": "三脚も自撮り棒もこれ1つでOK。フィリップスの4WAYスマホスタンド",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/10/25/0397e5ac-4942-4a9e-9215-83043c278003/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-25T10:30:00+00:00",
-   "title_ja": "4つの使い方ができるフィリップスの折りたたみスマホスタンド",
-   "summary_ja": "卓上スタンド、ミニ三脚、自撮り棒、デスククリップの4通りに使えるフィリップスのスマホスタンド。MagSafe対応で重さ約213gの折りたたみ式です。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "スマホ三脚 DLK3530G"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f64820b069f4ba13",
-   "url": "https://www.roomie.jp/2026/10/1910082",
-   "title_original": "山崎実業のスライドテーブルで「朝のキッチンの渋滞」が解消！ 家族が準備に参加しやすくなったよ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/f57853d4185d133c0bd0f5d9b8fd3748.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-25T10:00:56+00:00",
-   "title_ja": "山崎実業のスライドテーブルでキッチンの混雑を解消した話",
-   "summary_ja": "山崎実業のスライドテーブルを導入し、朝のキッチンの渋滞を解消して家族が準備に参加しやすくなった工夫を紹介している。",
-   "category": "キッチン・食",
-   "axis": "reduce",
-   "things": [
-    "スライドテーブル"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "9333f7a0935027e9",
-   "url": "https://www.youtube.com/watch?v=rtEVQx9lhqk",
-   "title_original": "【筋トレ始めた】31歳ミニマリスト 家賃4万円 毎朝7時コメダ珈琲 3日間ルーティン",
-   "source": "ミニマリストK",
-   "image": "https://i3.ytimg.com/vi/rtEVQx9lhqk/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-10-25T10:00:01+00:00",
-   "title_ja": "31歳ミニマリストの家賃4万円の部屋での3日間ルーティン",
-   "summary_ja": "家賃4万円の部屋に暮らす31歳のミニマリストが、毎朝のコメダ珈琲や筋トレを取り入れた3日間の日常を公開している。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "a8e92b6fac4826c4",
-   "url": "https://youtu.be/qiPYDoUax9I?si=oyq4qonsU_qmSfYK",
-   "title_original": "【30代独身男性】食欲の秋で満たす暮らし|三角チョコパイで一服|ミニマリスト|日常（vlog/日本語字幕付）",
-   "source": "YouTube",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-25T09:30:01+00:00",
-   "title_ja": "30代独身ミニマリストが語る秋のシンプル食生活",
-   "summary_ja": "30代独身ミニマリストが秋の食欲を満たすため、三角チョコパイなどシンプルな食事を取り入れた日常をVlogで公開。ミニマルな暮らしの中で、必要最低限の調理器具と食材で満足感を得る様子が映し出されている。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "三角チョコパイ"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "055bddc2bfcae922",
-   "url": "https://www.roomie.jp/2026/10/1914000",
-   "title_original": "愛用し始めて約3年半。睡眠にこだわる私が、無印良品の「ガーゼパジャマ」を選んだワケ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/261023_muji_pajamas_-17-1.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-25T09:00:48+00:00",
-   "title_ja": "暮らしをシンプルにしたい筆者が3年半愛用する無印良品のパジャマの話",
-   "summary_ja": "暮らしをシンプルに整えたい筆者が、約3年半愛用し続けている無印良品のガーゼパジャマについて語る記事です。睡眠にこだわる中で日常の無駄な動作を減らす工夫をしつつ、お気に入りのアイテムを長く使い続ける理由を紹介しています。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "ガーゼパジャマ"
-   ],
-   "importance": 3
   }
  ]
 }
