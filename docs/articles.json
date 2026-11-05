@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T23:17:35.888260+09:00",
+ "updated_at": "2026-11-06T08:27:08.775592+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,35 +27,39 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-05T23:23:10.816244+09:00",
+  "generated_at": "2026-11-06T08:28:48.334792+09:00",
   "days": 3,
-  "period": "11月4日〜11月5日",
+  "period": "11月5日〜11月6日",
   "count": 45,
   "reduce_count": 20,
   "own_count": 25,
-  "overview": "年末や季節の変わり目を控え、今のうちから少しずつ断捨離を進めて日常や家の中を整える話題と、厳選した持ち物で身軽に暮らす実例が多数語られています。",
-  "reduce": "年末の大掃除を避けるための段階的な断捨離や、家族との片付けのコツ、買い物の癖を知る工夫など、無理なく手放す方法が紹介されています。",
-  "own": "衣類やバッグ、文房具やアウトドア用品において、数を絞りつつ機能性やレイヤードで快適さを保つ工夫や持ち物が取り上げられています。",
+  "overview": "11月5日〜6日にかけて、持ち物の厳選や収納の工夫、少ない服でのコーディネート、日常の片付けや手放し方に関する実践的な記事が多数寄せられています。",
+  "reduce": "物を手放す際の心理的葛藤への寄り添いや、家族を巻き込まない片付けのコツ、年末に向けた段階的な断捨離の実践話が語られています。",
+  "own": "ニトリの収納ボックスや文房具、薄型ケーブルなどのコンパクトな道具選びのほか、数点を着回すカプセルワードローブの実例が多く紹介されています。",
   "points": [
    {
-    "title": "年末に向けた断捨離",
-    "body": "年末に慌てて大掃除をしなくて済むように、今のうちから少しずつ断捨離と掃除を始めている様子や、季節の変わり目に自宅をすっきりと整える片付けのコツが紹介されています。"
+    "title": "手放す際の心理的ケア",
+    "body": "ウェールズの家庭で片づけ中に涙を流す母親にステイシー・ソロモンが寄り添い励ます様子や、喪失後の品物を整理するステップが紹介されています。"
    },
    {
-    "title": "少数精鋭のワードローブ",
-    "body": "元アパレル店員が下着などを含めて20点だけで暮らす実例や、9〜11着のアイテムで作る冬のカプセルワードローブ、定番シャツの重ね着による着回し術が語られています。"
+    "title": "収納と動線の工夫",
+    "body": "整理収納アドバイザーが家事がラクになる回遊動線や収納の仕組みを紹介しているほか、ニトリの整理ボックスやバスケットを使った実例が挙がっています。"
    },
    {
-    "title": "身軽な移動と収納の工夫",
-    "body": "ニトリの整理ボックスや収納バスケットを使ったすっきりとした部屋づくりのほか、機内持ち込みに荷物を収めるパッキングのコツや拡張ポーチ付きのストラップなどが紹介されています。"
+    "title": "少数の服での着回し",
+    "body": "20点のワードローブで暮らす元アパレル店員の実例や、9着〜11着のアイテムで作る秋冬のカプセルワードローブのコーディネート術が語られています。"
+   },
+   {
+    "title": "軽量で便利な道具",
+    "body": "バッグにぶら下げられる13cmのUSB-Cケーブルや、重量0.9kgのチタン製ミニストーブなど、荷物を減らすためのアイテムが紹介されています。"
    }
   ],
   "keywords": [
    "断捨離",
-   "整理",
+   "収納",
+   "ミニマリスト",
    "カプセルワードローブ",
-   "ニトリ",
-   "バックパック"
+   "ルームツアー"
   ]
  },
  "things": [
@@ -104,6 +108,10 @@
    "count": 3
   },
   {
+   "name": "モバイルバッテリー",
+   "count": 3
+  },
+  {
    "name": "リュック",
    "count": 3
   },
@@ -113,10 +121,6 @@
   },
   {
    "name": "収納ボックス",
-   "count": 3
-  },
-  {
-   "name": "無印良品",
    "count": 3
   },
   {
@@ -133,10 +137,6 @@
   },
   {
    "name": "キッチン",
-   "count": 2
-  },
-  {
-   "name": "キャビン",
    "count": 2
   },
   {
@@ -184,11 +184,7 @@
    "count": 2
   },
   {
-   "name": "モバイルバッテリー",
-   "count": 2
-  },
-  {
-   "name": "家具",
+   "name": "充電器",
    "count": 2
   },
   {
@@ -208,6 +204,10 @@
    "count": 2
   },
   {
+   "name": "無印良品",
+   "count": 2
+  },
+  {
    "name": "簡易キッチン",
    "count": 2
   },
@@ -217,6 +217,10 @@
   },
   {
    "name": "薪ストーブ",
+   "count": 2
+  },
+  {
+   "name": "財布",
    "count": 2
   }
  ],
@@ -281,6 +285,7 @@
   "Upworthy",
   "WNEM",
   "WTNH.com",
+  "Wales Online",
   "Yahoo",
   "Yahoo News Singapore",
   "Yahoo News UK",
@@ -306,7 +311,6 @@
   "ミニマリスト Nozomi",
   "ミニマリストK",
   "ミニマリストsin",
-  "ミニマリストさよ",
   "ミニマリストじゅん",
   "ライフハッカー・ジャパン",
   "ライブドアニュース",
@@ -323,6 +327,108 @@
  "count": 400,
  "items": [
   {
+   "id": "d2a454e905416db9",
+   "url": "https://news.livedoor.com/topics/detail/32744591/?_clicked=echoes_list",
+   "title_original": "【ルームツアー】整理収納アドバイザーが考え抜いた家｜家事がラクになる収納と回遊動線のつくり方",
+   "source": "ライブドアニュース",
+   "image": "https://image.news.livedoor.com/newsimage/stf/d/8/d859b_1845_cfa055a0_ec82f75a.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-05T23:08:00+00:00",
+   "title_ja": "整理収納アドバイザーが考え抜いた家のルームツアー",
+   "summary_ja": "整理収納アドバイザーが家事がラクになる収納と回遊動線をつくりあげた自宅を紹介するルームツアー記事。実際の住まいの工夫や収納の仕組みが確認できる。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "312aabf3b735e9c0",
+   "url": "https://www.roomie.jp/2026/11/1920092",
+   "title_original": "ケーブル入れたっけ？を考えなくてよくなった。バッグにぶら下げておける「13cmのUSB-Cケーブル」が心強い",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/261025_luxxio_01.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-05T23:01:35+00:00",
+   "title_ja": "バッグにぶら下げておける13cmのUSB-Cケーブル",
+   "summary_ja": "持ち物を小さく軽くしたいライターが愛用する、バッグにぶら下げておける13センチメートルのUSB-Cケーブル。ケーブルの持ち運びに関する工夫を紹介している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "USB-Cケーブル",
+    "モバイルバッテリー",
+    "充電器"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b816f82f572591cc",
+   "url": "https://www.walesonline.co.uk/lifestyle/tv/stacey-solomon-comforts-tearful-mum-34870270",
+   "title_original": "Stacey Solomon comforts tearful mum in Welsh home declutter 'it's so hard'",
+   "source": "Wales Online",
+   "image": "https://i2-prod.walesonline.co.uk/article34870301.ece/ALTERNATES/s1200d/0_Stacey-2.png",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-05T22:47:21+00:00",
+   "title_ja": "片づけで涙する母親に寄り添うステイシー・ソロモンの話",
+   "summary_ja": "ウェールズの家庭で片づけを行う際、物を手放す難しさに涙を流す母親にステイシー・ソロモンが寄り添い、励ます様子を伝えるニュース。片づけに伴う心理的な葛藤や手放す際のエピソードが描かれている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "8a8d9d4d253b0809",
+   "url": "https://www.goodhousekeeping.com/home/organizing/a74338996/decluttering-before-holidays",
+   "title_original": "I'm Decluttering Before the Holidays—Here’s Everything I’m Getting Rid of ASAP",
+   "source": "Good Housekeeping",
+   "image": "https://hips.hearstapps.com/hmg-prod/images/things-im-throwing-away-691ca11c175e3.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-05T22:16:14+00:00",
+   "title_ja": "ホリデー前に急いで手放す物をまとめた片づけの実践記",
+   "summary_ja": "休暇シーズンを迎える前に家の中を片づけ、すぐに手放すべきアイテムを整理して紹介する記事。年末年始などのイベント前に物を減らし、すっきりした空間で過ごすための手放し方のヒントを提案している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "62c36a2551e87f27",
+   "url": "https://note.com/thanks_777/n/nc771addf5dc6",
+   "title_original": "断捨離で処分する基準の目安は「2年使っていないモノ」。モノを手放すと、本当に好きな暮らしが見えてくる。",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/332702650/rectangle_large_type_2_3f3a9c3bce8e794b6a2a4dcc347aff8f.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-05T21:06:51+00:00",
+   "title_ja": "2年使っていない物を手放して見えてきた暮らし",
+   "summary_ja": "2年間着ていない服や使っていない物を処分した経験から、持ち物を減らすことで本当に好きな世界が見えてきたという話。物を手放す基準として「2年使っていないこと」を挙げており、シンプルな暮らしが心豊かにつながると語っている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b43bd2615f597bb5",
+   "url": "https://nosidebar.com/the-secret-habit-that-brings-victory-to-every-circumstance",
+   "title_original": "The Secret Habit That Brings Victory to Every Circumstance",
+   "source": "No Sidebar",
+   "image": "https://nosidebar.com/wp-content/uploads/engin-akyurt-PMpl3mfMIc4-unsplash1-scaled.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-05T15:00:00+00:00",
+   "title_ja": "どんな状況でも感謝する習慣が暮らしと心にもたらす変化",
+   "summary_ja": "落ち込んでいるときや辛い状況のときこそ「感謝する」という秘密の習慣について紹介されています。現実逃避のように思える行動ですが、どんな状況でも前向きな変化を生み出し、心と生活をシンプルに整える助けになります。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "cd871edb96a1d368",
    "url": "https://note.com/aki_days_life/n/n526a909106e1",
    "title_original": "【３行日記】旅をしていたら、もう１１月",
@@ -337,6 +443,24 @@
    "axis": "reduce",
    "things": [],
    "importance": 2
+  },
+  {
+   "id": "82be9d3da5da51bc",
+   "url": "https://www.roomie.jp/2026/11/1920489",
+   "title_original": "アナログだけど、結局これがいちばん。コクヨの文鎮が“勉強の小さなストレス”を減らしてくれました",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/kokuyopaperweight1.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-05T13:45:02+00:00",
+   "title_ja": "資格勉強のストレスを減らしてくれたコクヨのアナログな文鎮",
+   "summary_ja": "簿記3級の資格勉強を始めた際、開いたテキストを押さえるためにコクヨの文鎮を導入したレビューです。アナログな道具でありながら、本が勝手に閉じるストレスをなくし、デスク上の学習環境を快適にしてくれた実例を紹介しています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "文鎮"
+   ],
+   "importance": 3
   },
   {
    "id": "ab469db17f95a8c3",
@@ -395,6 +519,22 @@
    "importance": 3
   },
   {
+   "id": "5f612d613bd19a13",
+   "url": "https://tinyhousetalk.com/tokoeka-purepod-glass-cabin-stewart-island",
+   "title_original": "Tokoeka PurePod: A Glass Cabin in a Kiwi Sanctuary on Stewart Island",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/tokoeka-purepod-aerial.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-05T12:45:00+00:00",
+   "title_ja": "ニュージーランドのガラス張りの小さなキャビン",
+   "summary_ja": "ニュージーランドの保護区内にある、宿泊客が鳥を観察できるように設計されたガラス張りのキャビンを紹介しています。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "2c25688826d8f6c0",
    "url": "https://www.roomie.jp/2026/11/1899173",
    "title_original": "押入れに眠っていた文庫本160冊。「文庫本専用本棚」に並べたら、積読にも手が伸びるようになった",
@@ -410,6 +550,24 @@
    "things": [
     "本棚",
     "文庫本"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "bf9f358b09bb57fd",
+   "url": "https://tinyhousetalk.com/inshriach-loghouse-scots-pine-cabin",
+   "title_original": "Inshriach Loghouse: A Hand-Hewn Scots Pine Cabin Above the River Spey",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/inshriach-loghouse-exterior.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-05T12:30:00+00:00",
+   "title_ja": "手斧で作られたスコットランドの丸太小屋",
+   "summary_ja": "スコットランドの国立公園内に建てられた、木を切り出して手作業で作られたオフグリッドの丸太小屋。自然の中でミニマルな生活を送るための住まいとして紹介されている。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "丸太小屋"
    ],
    "importance": 3
   },
@@ -5993,25 +6151,6 @@
    "importance": 3
   },
   {
-   "id": "138d7513cd9a91aa",
-   "url": "https://note.com/light_jacana444/n/n48d53576ffd6",
-   "title_original": "【無印良品週間】妻と娘のフランネルパジャマが、予想外に良かった話",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/329407080/rectangle_large_type_2_bea2394316652ab40b9d3c1b85c458b8.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-28T03:59:06+00:00",
-   "title_ja": "年間10着で暮らすミニマリストが買った無印良品のフランネルパジャマ",
-   "summary_ja": "年間10着ほどの少ない服で暮らす著者が、無印良品週間で購入した家族用のフランネルパジャマについて紹介。限られたワードローブの中で、服を心地よく買い替えるための気づきを解説している。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "フランネルパジャマ",
-    "服"
-   ],
-   "importance": 3
-  },
-  {
    "id": "672faccd23c3583a",
    "url": "https://news.nicovideo.jp/watch/nw19927197?news_ref=dic_topics_topic",
    "title_original": "来客に「異常」と言われる1LDK→玄関を開けると…… 3歳児と母が暮らす“まさかの光景”に「こんな生活がしたい」「憧れます！」",
@@ -7174,144 +7313,6 @@
     "小型冷蔵庫"
    ],
    "importance": 4
-  },
-  {
-   "id": "a5332f540a9983a4",
-   "url": "https://www.youtube.com/watch?v=3DMKDVwxmhg",
-   "title_original": "Good at Life | The Minimalists Ep. 561",
-   "source": "The Minimalists",
-   "image": "https://i4.ytimg.com/vi/3DMKDVwxmhg/hqdefault.jpg",
-   "media": "youtube",
-   "region": "海外",
-   "published": "2026-10-26T11:00:24+00:00",
-   "title_ja": "スピード社会でスローな生き方を選ぶ方法",
-   "summary_ja": "著者ベン・ミールを迎え、スピード感のある社会であえてスローな生き方を選ぶ重要性について語っています。日々のルーティンから距離を置く方法や手放しの視点を取り上げています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "4c1794a5942d40fc",
-   "url": "https://www.youtube.com/shorts/9yP-gzzmqr4",
-   "title_original": "【ミニマリスト】なくても困らなかったもの",
-   "source": "ミニマリスト Nozomi",
-   "image": "https://i2.ytimg.com/vi/9yP-gzzmqr4/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-10-26T11:00:22+00:00",
-   "title_ja": "ミニマリスト歴12年の人が手放して困らなかったもの",
-   "summary_ja": "ミニマリスト歴12年で子どもと暮らす投稿者が、これまでに手放して生活に支障がなかったものについて語っています。持ち物を最小限にして暮らす工夫が分かります。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "5faf7d96b3d6189a",
-   "url": "https://www.roomie.jp/2026/10/1915083",
-   "title_original": "無印良品”二重編みシリーズ”の「ジップジャケット」は使いやすさ抜群！外出時、室内の肌寒い時にもサッと羽織れる1着",
-   "source": "ROOMIE",
-   "image": "https://www.roomie.jp/wp-content/uploads/2026/10/20261024_ogmax_12.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-26T11:00:05+00:00",
-   "title_ja": "無印良品の二重編みジップジャケットの使い勝手",
-   "summary_ja": "無印良品の二重編みシリーズのジップジャケットを紹介。外出時や室内の肌寒い場面でサッと羽織れる、使い勝手の良いアイテムです。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "ジップジャケット"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "57cdcff96b6c0087",
-   "url": "https://tinyhousetalk.com/wheelhaus-wedge-400-sq-ft-park-model",
-   "title_original": "Wheelhaus Wedge: A 400 Sq Ft Rolling Cabin Clad in Reclaimed Wyoming Snow Fencing",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/wheelhaus-wedge-exterior-view01.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-26T11:00:00+00:00",
-   "title_ja": "古材を使った約400平方フィートのタイニーハウス",
-   "summary_ja": "ワイオミング州の雪除けフェンスの古材を外壁に使用し、高い天井や大きな窓を備えた約400平方フィートの可動式キャビンを紹介している。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "キャビン"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "bb2cf0f385ee480c",
-   "url": "https://www.roomie.jp/2026/10/1899131",
-   "title_original": "高価な最新スマホじゃなくてもよかった。3万円台の「CMF Phone 1」を1カ月半使って、これがちょうどいいと思えました",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/2610_koidesayaka_cmfphone_3.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-26T10:30:41+00:00",
-   "title_ja": "3万円台のスマホを1ヶ月半使ってみた感想",
-   "summary_ja": "高価な最新機種ではなく、3万円台のスマートフォンを1ヶ月半ほど使用した執筆者が、ちょうどよさを実感した実体験を紹介しています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "CMF Phone 1"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "5c1f45a582c54fce",
-   "url": "https://youtu.be/RzeioEhQjdI?si=r5RjInbzaRDH7m9d",
-   "title_original": "【8品】【合計1853円】【無印大好き芸人】【無印週間購入品紹介】【貧乏でも無印週間は楽しめる】【限界ミニマリスト】【夫婦芸人】",
-   "source": "YouTube",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-26T10:19:42+00:00",
-   "title_ja": "限界ミニマリストの夫婦が選んだ無印良品の購入品8選",
-   "summary_ja": "無印良品週間で購入した8品を紹介する動画。限られた予算の中で選んだアイテムや、夫婦での暮らしに役立つ具体的な購入品が分かる。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "無印良品"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "faf831aa747ceec8",
-   "url": "https://www.youtube.com/watch?v=q2dce8E9OKo",
-   "title_original": "【ルームツアー】家賃3,7万円・都内ロフト付きワンルーム！40代ミニマリスト",
-   "source": "ミニマリストさよ",
-   "image": "https://i2.ytimg.com/vi/q2dce8E9OKo/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-10-26T09:00:51+00:00",
-   "title_ja": "家賃3.7万円のロフト付きワンルームで暮らすミニマリスト",
-   "summary_ja": "東京都在住の40代フリーランス女性が暮らす、家賃3.7万円のワンルームとロフトのある部屋を紹介するルームツアー動画。ジモティーで集めた家具を配置している。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "家具"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "727de42e05594c95",
-   "url": "https://minimalist-fudeko.com/let-go-of-busyness",
-   "title_original": "休んでも疲れが取れない人へ。忙しさという重荷を下ろす3つの方法（TED）",
-   "source": "筆子ジャーナル",
-   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/09/relax-time.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-26T00:10:48+00:00",
-   "title_ja": "忙しさの重荷を下ろす3つの方法（TED紹介）",
-   "summary_ja": "TEDトーク『The Burden of Busyness』から、忙しさを減らす具体的な3つのアプローチを紹介し、心の軽減を提案している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
   }
  ]
 }
