@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T14:43:22.720691+09:00",
+ "updated_at": "2026-11-06T22:57:13.862984+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,36 +27,34 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-06T14:44:13.771401+09:00",
+  "generated_at": "2026-11-06T22:57:51.741185+09:00",
   "days": 3,
   "period": "11月5日〜11月6日",
   "count": 45,
-  "reduce_count": 18,
-  "own_count": 27,
-  "overview": "「20点だけの服」や「2年使っていない物」など手放す基準や収納の工夫、厳選したガジェットの活用法が語られています。",
-  "reduce": "「なくても困ったか」という基準や、年末を避けて少しずつ断捨離を進める実践的な手放し方の工夫が語られています。",
-  "own": "元アパレル店員の20着の服や、文庫本棚、1本で洗えるソープなど、厳選した愛用品やコンパクトな道具が紹介されています。",
+  "reduce_count": 22,
+  "own_count": 23,
+  "overview": "不要になった日用品や服を手放して時間や空間の余白を作る工夫や、暮らしを快適にする厳選された持ち物の活用術が多方面で語られています。",
+  "reduce": "使っていない物や細かなアイテムを手放して時間や空間的余裕を確保する基準や、日々の少しずつの片付け術が語られています。",
+  "own": "身の回りを快適にするためのガジェットや文房具、収納アイテムの活用実例や、少ない衣類を着回す工夫が紹介されています。",
   "points": [
    {
-    "title": "20点だけの服で暮らす",
-    "body": "元アパレル店員が下着からバッグまで計20点の衣類で生活し、洗濯が追いつく実体験や少ない服でおしゃれを楽しむ工夫を語っています。"
+    "title": "手放す基準と工夫",
+    "body": "長年使っていない物や細かなアイテムを整理する際、「なくて困ったか」という基準や「2年使っていないこと」を意識して手放すことで時間的余裕を確保する実践が語られています。"
    },
    {
-    "title": "手放す基準と断捨離",
-    "body": "押し入れの片づけで「なくて困ったか」と自分に問いかけたり、2年使っていない物を処分するなど、具体的な判断基準が紹介されています。"
+    "title": "快適なガジェット活用",
+    "body": "サンワサプライのLEDデスクライトやラムダッシュパームインなど、日々の仕事や身だしなみを快適にするための道具を取り入れ、暮らしの質を高める工夫が紹介されています。"
    },
    {
-    "title": "収納と暮らしの工夫",
-    "body": "ニトリの整理ボックスや収納バスケットを使い、探しものを減らしたり家事がラクになる収納の仕組みをつくりあげる実例が語られています。"
+    "title": "収納とスペースの工夫",
+    "body": "ダイニングテーブルの散らかりを防ぐため小物をひとまとめにする仕組みや、ニトリの整理ボックスを使った文庫本の収納など、すっきりと暮らすための実例が取り上げられています。"
    }
   ],
   "keywords": [
-   "断捨離",
-   "整理",
+   "手放す",
    "収納",
-   "服",
-   "ノート",
-   "バッグ"
+   "断捨離",
+   "服"
   ]
  },
  "things": [
@@ -66,18 +64,18 @@
   },
   {
    "name": "バッグ",
-   "count": 9
-  },
-  {
-   "name": "下着",
-   "count": 8
-  },
-  {
-   "name": "靴",
    "count": 8
   },
   {
    "name": "タイニーハウス",
+   "count": 7
+  },
+  {
+   "name": "下着",
+   "count": 7
+  },
+  {
+   "name": "靴",
    "count": 7
   },
   {
@@ -93,11 +91,15 @@
    "count": 4
   },
   {
+   "name": "冷蔵庫",
+   "count": 4
+  },
+  {
    "name": "イヤホン",
    "count": 3
   },
   {
-   "name": "スマホ",
+   "name": "テレビ",
    "count": 3
   },
   {
@@ -105,15 +107,7 @@
    "count": 3
   },
   {
-   "name": "モバイルバッテリー",
-   "count": 3
-  },
-  {
    "name": "リュック",
-   "count": 3
-  },
-  {
-   "name": "冷蔵庫",
    "count": 3
   },
   {
@@ -145,6 +139,10 @@
    "count": 2
   },
   {
+   "name": "スマホ",
+   "count": 2
+  },
+  {
    "name": "ソーラーパネル",
    "count": 2
   },
@@ -153,7 +151,11 @@
    "count": 2
   },
   {
-   "name": "テレビ",
+   "name": "トラックキャンパー",
+   "count": 2
+  },
+  {
+   "name": "パジャマ",
    "count": 2
   },
   {
@@ -169,7 +171,15 @@
    "count": 2
   },
   {
+   "name": "モバイルバッテリー",
+   "count": 2
+  },
+  {
    "name": "充電器",
+   "count": 2
+  },
+  {
+   "name": "家具",
    "count": 2
   },
   {
@@ -197,10 +207,6 @@
    "count": 2
   },
   {
-   "name": "米",
-   "count": 2
-  },
-  {
    "name": "薪ストーブ",
    "count": 2
   },
@@ -218,7 +224,6 @@
   "ACT Government",
   "AOL.com",
   "All About（オールアバウト）",
-  "Apartment Therapy",
   "AsiaOne.com",
   "Balance Through Simplicity",
   "Be More with Less",
@@ -227,7 +232,6 @@
   "Carryology",
   "Country Living Magazine",
   "Dezeen",
-  "EatingWell",
   "Editorialge",
   "GearLab",
   "Glam",
@@ -316,6 +320,238 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "d72cb42fb92686e3",
+   "url": "https://note.com/hena_cho/n/n3d91df0ba136",
+   "title_original": "今日の整え。子どものパジャマを見直そう",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/333012690/rectangle_large_type_2_e89570dd2d11a70ccad71a4f707c6930.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-06T13:50:53+00:00",
+   "title_ja": "子どものパジャマを見直した日々の整え",
+   "summary_ja": "季節の変わり目にあわせて、子どものパジャマを半袖から長袖へと入れ替えた。さらに本格的な寒さに備えて、真冬用のパジャマもすぐ出せるように準備して快適に過ごせるよう整えている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "パジャマ"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "0b4bc2a38fb77458",
+   "url": "https://www.roomie.jp/2026/11/1921675",
+   "title_original": "仕事から寝る前の読書まで。リビングもベッドサイドも照らすサンワサプライ「LEDデスクライト」",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/sanwasupplyleddesklight1.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-06T13:45:24+00:00",
+   "title_ja": "サンワサプライのLEDデスクライトを活用",
+   "summary_ja": "夜間の仕事やベッドサイドでの読書時、暗さによる眼精疲労やつらさを解消するためにサンワサプライのLEDデスクライトを導入。リビングやダイニングなど場所を問わず手元を明るく照らして活用している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "LEDデスクライト"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "0afd0cdf92c5d99e",
+   "url": "https://www.lifehacker.jp/article/2611-amazon-newbalance-insole-kty",
+   "title_original": "ベストセラーのニューバランス「インソール」。秋のウォーキングをサポート",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2025/10/28/5e68f174-ccef-4be9-befd-fb01b60e3ca4/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-06T13:45:00+00:00",
+   "title_ja": "ニューバランスのインソールで歩行を快適に",
+   "summary_ja": "安定感や衝撃吸収性に優れたニューバランスのサポーティブリバウンドインソールを使用。スポーツだけでなく日常のスニーカーに入れて、足の疲労感を軽減させながら快適なウォーキングを支えている。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "インソール",
+    "スニーカー"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "b53c7c117a5de5b1",
+   "url": "https://note.com/minimal_life5929/n/n4de06334911b",
+   "title_original": "ミニマリストはゴミも少ない",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/332553234/rectangle_large_type_2_4bb98e74c9c5a8cf765509a3a1594ca7.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-06T13:42:28+00:00",
+   "title_ja": "物を買わないことでゴミを減らす暮らし",
+   "summary_ja": "ものを買わなければ包装や段ボールも家に入らず、結果として捨てるゴミも自然と減っていく。過去の大型家具の処分に苦労した経験から、いつか手放す手間や処分費用まで考えて本当に必要なものだけを選ぶようになった。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "家具",
+    "テレビ",
+    "冷蔵庫",
+    "洗濯機"
+   ],
+   "importance": 5
+  },
+  {
+   "id": "54bb7cee0f03ba90",
+   "url": "https://www.roomie.jp/2026/11/1923738",
+   "title_original": "運転中のまぶしい照り返し問題。1,000円台のコールマン偏光サングラスで解決",
+   "source": "ROOMIE",
+   "image": "https://www.roomie.jp/wp-content/uploads/2024/09/2.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-06T13:15:38+00:00",
+   "title_ja": "コールマンの偏光サングラスでまぶしさを軽減",
+   "summary_ja": "犬の散歩や車を運転する際のまぶしい乱反射光や照り返し対策として、コールマンの偏光サングラスを導入。コストパフォーマンスを重視しながら、日々の屋外での視界を快適に保っている。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "偏光サングラス"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "3de6725c0c8b0a5c",
+   "url": "https://tinyhousetalk.com/sundown-station-brayden-griffith-diy-truck-camper",
+   "title_original": "Sundown Station: Brayden Griffith’s DIY Truck Camper",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/sundown-station-diy-truck-camper-side.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-06T12:15:00+00:00",
+   "title_ja": "自作トラックキャンパーで暮らす人の話",
+   "summary_ja": "木材とアルミで自作したトラックキャンパーの内装や外観を紹介している記事。木目の温かみがある車内が特徴。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "トラックキャンパー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d7bbcb106863535f",
+   "url": "https://news.livedoor.com/article/detail/32752224",
+   "title_original": "ライフさんの空間と時間に余白を作るシンプルライフ4つの実践術",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-06T12:00:00+00:00",
+   "title_ja": "空間と時間に余白を作るシンプルライフの4つの実践術",
+   "summary_ja": "暮らしの中に余白を生み出すためのシンプルライフの実践方法について解説している記事。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "5dd887f19811f06a",
+   "url": "https://www.roomie.jp/2026/11/1917299",
+   "title_original": "ダイニングテーブルがもので埋め尽くされていく問題。解決してくれたのは「イケアでスルーしかけたこれ」だった！",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/20261028_YXSTABY_02.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-06T11:30:47+00:00",
+   "title_ja": "ダイニングテーブルの散らかりを防ぐ収納の工夫",
+   "summary_ja": "ダイニングテーブルがもので埋まる問題を解決するため、細々としたアイテムをひとまとめにして使うときだけ広げる仕組みを作った人の話。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "6e481a97f4316935",
+   "url": "https://www.youtube.com/watch?v=5v9wgRBxhV0",
+   "title_original": "【ミニマリスト】実は掃除していません/掃除しなくていい環境づくり",
+   "source": "ミニマリスト Nozomi",
+   "image": "https://i2.ytimg.com/vi/5v9wgRBxhV0/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-06T11:00:07+00:00",
+   "title_ja": "掃除をしない環境をつくるミニマリストの工夫",
+   "summary_ja": "ミニマリスト歴12年の投稿者が、乳幼児がいてもスマートに暮らすために実践している、そもそも掃除をしなくてよい環境づくりの考え方。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "a67c343acfee1c86",
+   "url": "https://www.youtube.com/watch?v=Gj6qaAojOLg",
+   "title_original": "【断捨離】\"なんとなく\"溜め込む暮らしを、もうやめたい。【ミニマリスト】",
+   "source": "ミニマリストsin",
+   "image": "https://i4.ytimg.com/vi/Gj6qaAojOLg/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-06T11:00:06+00:00",
+   "title_ja": "「なんとなく」溜め込む生活をやめたミニマリストの挑戦",
+   "summary_ja": "無意識に物が増えていく生活をやめるべく、断捨離の具体的なステップと1軍ワードローブの作り方を解説し、同じ志向の人向けにサポート参加者を募集している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "SONY VLOGCAM ZV‑E10L",
+    "RODE VideoMicro II"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "dd8e5755e117daba",
+   "url": "https://www.youtube.com/watch?v=4k1iQO07F_M",
+   "title_original": "【自宅公開】元汚部屋がここまで変わる！自然を楽しむ開放空間のビフォーアフター（断捨離トレーナー・ふじもとかな）",
+   "source": "やましたひでこ断捨離",
+   "image": "https://i1.ytimg.com/vi/4k1iQO07F_M/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-06T11:00:05+00:00",
+   "title_ja": "元汚部屋が変わったビフォーアフターと断捨離トレーナーへの誘い",
+   "summary_ja": "汚部屋だった自宅が自然を取り入れた開放的な空間へと変わる様子をビフォーアフターで紹介し、断捨離トレーナー養成プログラムへの参加を呼びかけている。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "8b65eeb659dd0234",
+   "url": "https://www.youtube.com/watch?v=9b5DgjX5rek",
+   "title_original": "【捨て活】自由な時間を増やしたい。手間のかかる物を手放す｜ネイル用品・排水口・パッケージ｜30代一人暮らし",
+   "source": "うにのゆるシンプルな暮らし",
+   "image": "https://i2.ytimg.com/vi/9b5DgjX5rek/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-06T10:00:00+00:00",
+   "title_ja": "手間がかかる物を手放し自由時間を増やした30代一人暮らしの実践",
+   "summary_ja": "ネイル用品、薬、洗剤容器、排水口部品、ケーブルなど日常で使わなくなったものを整理し、手放すことで時間的余裕を確保し、シンプルな暮らしを目指す過程を語っている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "ネイル用品",
+    "薬",
+    "洗剤のパッケージ",
+    "排水口周りの部品"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "914aff6dfa1d1814",
+   "url": "https://news.infoseek.co.jp/article/fudge_406751",
+   "title_original": "7畳1K、「好きなもの」「好きな色」だけに囲まれた自分に馴染む空間。一人暮らしのインテリア【私らしく暮らす】",
+   "source": "Infoseek",
+   "image": "https://media.image.infoseek.co.jp/isnews/photos/fudge/fudge_406751_0.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-06T06:30:03+00:00",
+   "title_ja": "7畳1K、好きなものと色だけで作る自分空間",
+   "summary_ja": "7畳1Kの一人暮らし部屋を、好きなものと好きな色だけでコーディネートした実例で、ミニマルなインテリアの参考になります。余計な家具を省き、シンプルながら個性を出す工夫が紹介されています。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [],
+   "importance": 4
+  },
   {
    "id": "349bbcb438666acd",
    "url": "https://note.com/legal_heron9906/n/n419dfee9ee23",
@@ -544,6 +780,27 @@
    "axis": "reduce",
    "things": [
     "服"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "1e25798a65683a19",
+   "url": "https://www.youtube.com/watch?v=8435uqK7u2A",
+   "title_original": "Gift Ideas That Won't Become Clutter (or Break the Budget!)",
+   "source": "The Minimal Mom",
+   "image": "https://i1.ytimg.com/vi/8435uqK7u2A/hqdefault.jpg",
+   "media": "youtube",
+   "region": "海外",
+   "published": "2026-11-05T20:26:39+00:00",
+   "title_ja": "散らからない贈り物や実用的なアイテムの紹介",
+   "summary_ja": "贈り物として選ばれる実用的なアイテムや、暮らしで使える道具について紹介している動画です。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ハンディ掃除機",
+    "マグカップ",
+    "温度計",
+    "エアフライヤー"
    ],
    "importance": 3
   },
@@ -5702,26 +5959,6 @@
    "importance": 3
   },
   {
-   "id": "3410a28bb166db92",
-   "url": "https://note.com/20chaku/n/nb44db769ed24",
-   "title_original": "「これ、どう合わせればいいですか？」の答え",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/329392230/rectangle_large_type_2_14f80a2adf81a01ddc51fbe5b8b30d08.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-29T02:30:25+00:00",
-   "title_ja": "元アパレル店員が下着から靴まで20着で暮らす理由",
-   "summary_ja": "元高級アパレルブランド勤務の経験を持つ筆者が、下着や靴、バッグを含めて総数20着のワードローブで暮らすスタイルの魅力を語る。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "下着",
-    "靴",
-    "バッグ"
-   ],
-   "importance": 4
-  },
-  {
    "id": "d304157f4c70f9e6",
    "url": "https://youtu.be/ophEtQVDeqk?si=RmwdmPrxyzPgw5zo",
    "title_original": "【冬支度】冷え性ミニマリストの冬の必需品",
@@ -5773,22 +6010,6 @@
     "食品"
    ],
    "importance": 3
-  },
-  {
-   "id": "21275708c6bb95ab",
-   "url": "https://note.com/shin_mini_ryou/n/nacededcc7c07",
-   "title_original": "綺麗な青空と白い雲の朝",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/329653419/rectangle_large_type_2_32b0edd266340456099e4022083ba529.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-28T22:18:03+00:00",
-   "title_ja": "毎朝4時半に起きて床や鏡を掃除する朝の習慣の話",
-   "summary_ja": "毎朝4時半頃に起床し、鏡や床の掃除、早朝のウォーキングといった朝活を1つずつ丁寧に行う人の体験談。朝の規則正しい習慣を通して達成感や充実感を味わい、心身ともに健康でウェルビーイングな状態を保つ暮らしの実践が語られている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
   },
   {
    "id": "4f120e2e087aac67",
@@ -7101,212 +7322,6 @@
    "axis": "own",
    "things": [],
    "importance": 4
-  },
-  {
-   "id": "3c21b11296ef42c4",
-   "url": "https://lifehacker.com/tech/marshall-monitor-iii-anc-headphones-sale-october-2026",
-   "title_original": "These High-End Marshall Headphones Are Under $200 Right Now",
-   "source": "Lifehacker",
-   "image": "https://lifehacker.com/imagery/articles/01KJQQ6NK7D20KC1YJPGC4GXDQ/hero-image.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-26T20:30:45+00:00",
-   "title_ja": "200ドル以下で買える高音質Marshallヘッドホン",
-   "summary_ja": "Marshall Monitor IIIがデザイン性と迫力あるサウンドを備えながら、現在200ドル以下で購入可能な価格で販売されていることを紹介しています。ガジェット好きにおすすめです。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "Marshall Monitor III"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "8edc6410a5167f31",
-   "url": "https://www.southernliving.com/declutter-start-of-every-month-12183314",
-   "title_original": "5 Things To Declutter At The Start Of Every Month For A Tidier Home",
-   "source": "Southern Living",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-26T15:55:00+00:00",
-   "title_ja": "毎月月初めに片づけておきたい5つのこと",
-   "summary_ja": "すっきりとした家を保つために、毎月の初めに整理整頓しておくとよい5つの項目についての解説記事です。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "d26f0b4a336b72a2",
-   "url": "https://www.youtube.com/shorts/xqHCZjvjp_E",
-   "title_original": "You don’t have the power to uptend me.",
-   "source": "The Minimalists",
-   "image": "https://i1.ytimg.com/vi/xqHCZjvjp_E/hqdefault.jpg",
-   "media": "youtube",
-   "region": "海外",
-   "published": "2026-10-26T15:02:52+00:00",
-   "title_ja": "他人に振り回されないための考え方",
-   "summary_ja": "ミニマリストによる、他者からの影響や介入に惑わされないための心の持ちようについて語ったコンテンツ。心の習慣や暮らしの整え方をテーマにしている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "5fe6ca15c12d41a9",
-   "url": "https://nosidebar.com/simplify-digital-clutter",
-   "title_original": "The Key to Simplifying Your Digital Clutter",
-   "source": "No Sidebar",
-   "image": "https://nosidebar.com/wp-content/uploads/simplify-digital-clutter.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-26T14:00:00+00:00",
-   "title_ja": "デジタルデータの散らかりを整理して集中力を取り戻す方法",
-   "summary_ja": "デジタル上の散らかりは時間をかけて蓄積し、放置すると集中力を低下させる原因になります。視覚的な情報過多が脳に与える影響を知り、デジタル環境をシンプルに整えるための考え方を解説しています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "5cf1b0016a444c6a",
-   "url": "https://www.theguardian.com/food/2026/oct/26/quick-easy-crab-spring-onion-fried-rice-recipe-georgina-hayden",
-   "title_original": "Georgina Hayden’s quick and easy recipe for crab and spring onion fried rice | Quick and easy",
-   "source": "The Guardian（暮らし）",
-   "image": "https://i.guim.co.uk/img/media/394668d3ec1a4ecc83431d2fcbf5b4e4358eee5d/242_1546_4827_3860/master/4827.jpg?width=140&quality=85&auto=format&fit=max&s=79edfa9ab0c709c8c7fc444227d58757",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-26T13:00:42+00:00",
-   "title_ja": "カニとネギの簡単フライドライスレシピ",
-   "summary_ja": "ジャスミン米を事前に炊いて冷ますと、香味野菜とチリクリスプオイルでさっと炒めるだけの、優しい味わいのカニとネギのフライドライスが完成する。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "米",
-    "カニ",
-    "ネギ",
-    "チリクリスプオイル"
-   ],
-   "importance": 1
-  },
-  {
-   "id": "7d2af66220dc5bfa",
-   "url": "https://www.eatingwell.com/things-making-your-kitchen-look-cluttered-12186046",
-   "title_original": "4 Things Making Your Kitchen Look Cluttered",
-   "source": "EatingWell",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-26T13:00:00+00:00",
-   "title_ja": "キッチンが散らかって見える4つの原因",
-   "summary_ja": "キッチンの見た目が散らかってしまう要因を取り上げ、すっきりと整えるためのヒントを解説しています。物が多い場所を見直し、快適な空間を作るための見直しポイントが分かります。",
-   "category": "キッチン・食",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "eb5c73a648b25af9",
-   "url": "https://www.apartmenttherapy.com/ai-advice-organize-storage-closet-37696165",
-   "title_original": "I Asked AI How to Declutter My Chaotic Storage Closet, and It Actually Fixed It",
-   "source": "Apartment Therapy",
-   "image": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/at%2Forganize-clean%2F2026%2F2026-10%2Fai-messy-storage-closet-transformation%2Fmessy-closet-before-tagged",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-26T12:30:00+00:00",
-   "title_ja": "AIを活用して散らかった収納クローゼットを片付けた話",
-   "summary_ja": "AIに片付けの方法を相談し、ごちゃごちゃになっていた収納スペースの整理を実際に行った体験談です。AIの提案を頼りに効率よく物を仕分けて、使いやすい空間を取り戻しています。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "f47a08dc64ead12c",
-   "url": "https://www.roomie.jp/2026/10/1901629",
-   "title_original": "角度を変えれば「大さじ」にもなる。「山崎実業の500mL計量カップ」で鍋のスープ作りも洗いものもラクになる",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/yamajitsu_kore_top_20261026.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-26T12:00:39+00:00",
-   "title_ja": "大さじ計量も兼ねる山崎実業の500mL計量カップの使用感",
-   "summary_ja": "角度を変えることで大さじの計量もこなせる山崎実業の500mL計量カップを紹介。限られたキッチンスペースで使いやすく、鍋料理などのスープ作りや調理後の洗い物の手間を減らしてくれる、実用性を吟味したキッチングッズのレビュー。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "山崎実業の500mL計量カップ",
-    "計量カップ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "852c0a9688393a82",
-   "url": "https://www.theminimalists.com/p561",
-   "title_original": "Podcast Ep. 561 | Good at Life",
-   "source": "The Minimalists",
-   "image": "",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-26T12:00:00+00:00",
-   "title_ja": "回復に追われない生き方を考えるミニマリストのポッドキャスト",
-   "summary_ja": "海外サイト「The Minimalists」によるポッドキャストエピソード。「回復することに追われる人生は、生きるための時間を奪ってしまう」という視点から、日々をより良く生きるための考え方や生活習慣の見直しについて議論している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "aa3e0fc9b915ab4b",
-   "url": "https://news.livedoor.com/article/detail/32662341",
-   "title_original": "実家の片付けに悩む人必見！「どう安心して暮らしていくかを選ぶ」キッチンのお片付け術",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-26T12:00:00+00:00",
-   "title_ja": "実家のキッチンを片付ける手順と安心して暮らすコツ",
-   "summary_ja": "実家の片付けに悩む人に向けて、これからの暮らしを安心して選ぶためのキッチンのお片付け術について解説しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "c7661ea60f123fb6",
-   "url": "https://news.livedoor.com/article/detail/32662337",
-   "title_original": "真似したい！ライフさんのお金をかけずに「幸せになる5つの習慣」",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-26T11:57:59+00:00",
-   "title_ja": "お金をかけずに幸せに暮らす5つの習慣",
-   "summary_ja": "お金をかけずとも日々の暮らしを豊かにする、ライフさん直伝の5つの習慣を紹介しています。身の回りのものを増やさずに心を満たす、日々の心構えや行動パターンを学べます。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "f205663ee85b5564",
-   "url": "https://www.roomie.jp/2026/10/1906545",
-   "title_original": "スマホを「数cm浮かせる」だけでこんなに違う。充電の不便も、うつむく姿勢もラクになりました",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/20261014-ulanzim38-01.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-26T11:30:49+00:00",
-   "title_ja": "スマホを数センチ浮かせて充電と姿勢の負担を軽快に",
-   "summary_ja": "白で統一したガジェット環境を好み、持ち物を小さく軽くすっきりとさせたいライターが、スマホを数cm浮かせる工夫を紹介しています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "スマホ",
-    "充電ケーブル",
-    "モバイルバッテリー"
-   ],
-   "importance": 3
   }
  ]
 }
