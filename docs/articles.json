@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T08:27:08.775592+09:00",
+ "updated_at": "2026-11-06T14:43:22.720691+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,60 +27,57 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-06T08:28:48.334792+09:00",
+  "generated_at": "2026-11-06T14:44:13.771401+09:00",
   "days": 3,
   "period": "11月5日〜11月6日",
   "count": 45,
-  "reduce_count": 20,
-  "own_count": 25,
-  "overview": "11月5日〜6日にかけて、持ち物の厳選や収納の工夫、少ない服でのコーディネート、日常の片付けや手放し方に関する実践的な記事が多数寄せられています。",
-  "reduce": "物を手放す際の心理的葛藤への寄り添いや、家族を巻き込まない片付けのコツ、年末に向けた段階的な断捨離の実践話が語られています。",
-  "own": "ニトリの収納ボックスや文房具、薄型ケーブルなどのコンパクトな道具選びのほか、数点を着回すカプセルワードローブの実例が多く紹介されています。",
+  "reduce_count": 18,
+  "own_count": 27,
+  "overview": "「20点だけの服」や「2年使っていない物」など手放す基準や収納の工夫、厳選したガジェットの活用法が語られています。",
+  "reduce": "「なくても困ったか」という基準や、年末を避けて少しずつ断捨離を進める実践的な手放し方の工夫が語られています。",
+  "own": "元アパレル店員の20着の服や、文庫本棚、1本で洗えるソープなど、厳選した愛用品やコンパクトな道具が紹介されています。",
   "points": [
    {
-    "title": "手放す際の心理的ケア",
-    "body": "ウェールズの家庭で片づけ中に涙を流す母親にステイシー・ソロモンが寄り添い励ます様子や、喪失後の品物を整理するステップが紹介されています。"
+    "title": "20点だけの服で暮らす",
+    "body": "元アパレル店員が下着からバッグまで計20点の衣類で生活し、洗濯が追いつく実体験や少ない服でおしゃれを楽しむ工夫を語っています。"
    },
    {
-    "title": "収納と動線の工夫",
-    "body": "整理収納アドバイザーが家事がラクになる回遊動線や収納の仕組みを紹介しているほか、ニトリの整理ボックスやバスケットを使った実例が挙がっています。"
+    "title": "手放す基準と断捨離",
+    "body": "押し入れの片づけで「なくて困ったか」と自分に問いかけたり、2年使っていない物を処分するなど、具体的な判断基準が紹介されています。"
    },
    {
-    "title": "少数の服での着回し",
-    "body": "20点のワードローブで暮らす元アパレル店員の実例や、9着〜11着のアイテムで作る秋冬のカプセルワードローブのコーディネート術が語られています。"
-   },
-   {
-    "title": "軽量で便利な道具",
-    "body": "バッグにぶら下げられる13cmのUSB-Cケーブルや、重量0.9kgのチタン製ミニストーブなど、荷物を減らすためのアイテムが紹介されています。"
+    "title": "収納と暮らしの工夫",
+    "body": "ニトリの整理ボックスや収納バスケットを使い、探しものを減らしたり家事がラクになる収納の仕組みをつくりあげる実例が語られています。"
    }
   ],
   "keywords": [
    "断捨離",
+   "整理",
    "収納",
-   "ミニマリスト",
-   "カプセルワードローブ",
-   "ルームツアー"
+   "服",
+   "ノート",
+   "バッグ"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 11
+   "count": 12
   },
   {
    "name": "バッグ",
+   "count": 9
+  },
+  {
+   "name": "下着",
+   "count": 8
+  },
+  {
+   "name": "靴",
    "count": 8
   },
   {
    "name": "タイニーハウス",
-   "count": 7
-  },
-  {
-   "name": "下着",
-   "count": 7
-  },
-  {
-   "name": "靴",
    "count": 7
   },
   {
@@ -148,14 +145,6 @@
    "count": 2
   },
   {
-   "name": "スタンディングテーブル",
-   "count": 2
-  },
-  {
-   "name": "スマホスタンド",
-   "count": 2
-  },
-  {
    "name": "ソーラーパネル",
    "count": 2
   },
@@ -165,10 +154,6 @@
   },
   {
    "name": "テレビ",
-   "count": 2
-  },
-  {
-   "name": "ドリップケトル",
    "count": 2
   },
   {
@@ -188,7 +173,7 @@
    "count": 2
   },
   {
-   "name": "小型冷蔵庫",
+   "name": "手帳",
    "count": 2
   },
   {
@@ -221,6 +206,10 @@
   },
   {
    "name": "財布",
+   "count": 2
+  },
+  {
+   "name": "靴下",
    "count": 2
   }
  ],
@@ -293,6 +282,7 @@
   "YouTube",
   "au Webポータル",
   "autoevolution",
+  "loveproperty.com",
   "mai minimalism",
   "note #ミニマリスト",
   "note #少ない服で暮らす",
@@ -326,6 +316,151 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "349bbcb438666acd",
+   "url": "https://note.com/legal_heron9906/n/n419dfee9ee23",
+   "title_original": "ミニマリスト的シェイバー【ラムダッシュパームイン、2年レビュー】",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/332848705/rectangle_large_type_2_62f550033308fb8474a650db095d712a.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-06T05:39:38+00:00",
+   "title_ja": "ラムダッシュパームインを2年使って分かったこと",
+   "summary_ja": "パナソニックのシェーバー「ラムダッシュ パームイン」を2年間使い続けた経験から、ミニマリストの視点で良かった点と気になる点を振り返っています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ラムダッシュ パームイン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "49cf63a98a415814",
+   "url": "https://note.com/ya0wa_ya0wa/n/n30a5eceaf50a",
+   "title_original": "てばなしたもの",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/332740060/rectangle_large_type_2_c212a11a0aa4ecefb0caa576fdf3aa5a.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-06T05:35:54+00:00",
+   "title_ja": "手帳の再開に伴い手放した細かなアイテム",
+   "summary_ja": "手帳を再び使い始めることに伴い、道具箱の中身を見直しました。スマホで写真を印刷するフィルムの個別包装の外箱を手放した事例です。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "手帳",
+    "フィルムの外箱"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "798915dc37549d8d",
+   "url": "https://news.livedoor.com/article/detail/32747990",
+   "title_original": "真似したい！ライフさん「探しものは格段に減りました」すっきり暮らす収納術",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-06T04:46:23+00:00",
+   "title_ja": "探しものが格段に減るすっきり暮らす収納術",
+   "summary_ja": "物を減らしてすっきりと暮らすための収納術を紹介しています。工夫を取り入れることで、日常の探しものが劇的に減ったライフさんの実例です。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "95227edda8c26e4b",
+   "url": "https://note.com/20chaku/n/nd52a4b626db1",
+   "title_original": "買った服より、次に買う服のことばかり考えていた",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/332626759/rectangle_large_type_2_bfa7c534d9634b388c7040085336a0fb.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-06T02:43:47+00:00",
+   "title_ja": "元アパレル店員が20点だけで暮らす服の話",
+   "summary_ja": "元アパレル店員の筆者は、下着から靴、バッグまで計20点の衣類で生活しており、次に何を買うかばかり考えてしまうミニマリズムの実践と悩みを語ります。新しい服を買うとすぐ次の服を探すサイクルに気づき、所有と欲求のバランスを考えています。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "下着",
+    "靴",
+    "バッグ",
+    "服"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "dfaeb9e1aa8d659b",
+   "url": "https://news.infoseek.co.jp/article/allabout_166801",
+   "title_original": "「何度もリピートしています」無印良品の“シリコーン調理スプーン”が台所の定番に。炒める・すくう・盛り付けるを1本で",
+   "source": "Infoseek",
+   "image": "https://media.image.infoseek.co.jp/isnews/photos/allabout/allabout_166801_0.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-06T02:40:00+00:00",
+   "title_ja": "無印シリコーン調理スプーンが台所の定番に",
+   "summary_ja": "無印良品のシリコーン調理スプーンは、炒め・すくい・盛り付けが1本ででき、複数の道具を減らせると評判で、キッチンの必需品として注目されています。軽量で洗いやすく、シリコーン特有の柔らかさが食材を傷めません。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "シリコーン調理スプーン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5cd77fecbd11927d",
+   "url": "https://www.roomie.jp/2026/11/1912873",
+   "title_original": "たまにしか行かない別荘の防犯対策。Wi-Fiの契約も電源工事も不要なセキュリティカメラ「Tapo C665G KIT」が最適だった",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/be908e6080e1ce76e7ba4f04b9a2c33d-scaled.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-06T02:00:28+00:00",
+   "title_ja": "別荘に最適な電源不要のTapo C665Gセキュリティカメラ",
+   "summary_ja": "別荘の防犯対策として、Wi‑Fi契約や電源工事が不要なTapo C665G KITを導入した建築デザイナーの事例を紹介。手軽に設置できる点が評価されています。遠隔監視が可能で、訪問頻度が少ない別荘に最適です。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "Tapo C665G KIT",
+    "セキュリティカメラ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "340aedbb46433038",
+   "url": "https://minimalist-fudeko.com/declutter-closet-by-need",
+   "title_original": "押し入れの片づけで迷ったら、なくて困ったかで決める",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2023/03/in-the-closet.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-06T00:10:40+00:00",
+   "title_ja": "押し入れの片づけで手放すものに迷ったときの基準",
+   "summary_ja": "長年開けていない物置や押し入れの整理で手が止まったときは、「なくて困ったか」という基準で判断すると手放しやすくなるという考え方を紹介しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "14f4015400f1af5c",
+   "url": "https://www.roomie.jp/2026/11/1922503",
+   "title_original": "SOTOの「ガス抜きツール」を1本持っておくと安心！キャンプや登山後の“ガス缶の処理”がスムーズになるよ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/20261105_SOTOGAS.1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-06T00:00:42+00:00",
+   "title_ja": "ガス缶の処理をスムーズにするSOTOの道具",
+   "summary_ja": "キャンプや登山で使ったガスボンベやスプレー缶を、安全かつスムーズに処分するために役立つツールを取り入れている実例です。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ガス抜きツール"
+   ],
+   "importance": 3
+  },
   {
    "id": "d2a454e905416db9",
    "url": "https://news.livedoor.com/topics/detail/32744591/?_clicked=echoes_list",
@@ -411,6 +546,38 @@
     "服"
    ],
    "importance": 3
+  },
+  {
+   "id": "c5444c65e8ff3e5d",
+   "url": "https://www.loveproperty.com/galleryextended/583170/19-simple-ways-to-banish-clutter-and-bring-calm-to-your-home",
+   "title_original": "19 simple ways to banish clutter and bring calm to your home | loveproperty.com",
+   "source": "loveproperty.com",
+   "image": "https://loveincorporated.blob.core.windows.net/contentimages/main/f73b971f-1330-40ff-b206-fb3118b58463-drawers-shutterstock2261400829.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-05T18:47:45+00:00",
+   "title_ja": "自宅の散らかりをなくして平穏を取り戻す19の方法",
+   "summary_ja": "自宅の散らかりを解消し、落ち着いた空間を作り出すための19のシンプルな方法を紹介する記事。物の減らし方や暮らしの整え方を学べる。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "5d199c41f27c102e",
+   "url": "https://www.theguardian.com/society/2026/nov/05/charity-shops-have-value-in-the-community",
+   "title_original": "Charity shops have value in the community | Letter",
+   "source": "The Guardian（暮らし）",
+   "image": "https://i.guim.co.uk/img/media/57a188d11d51c63821c084f9bd836b0be43cecc3/629_0_4080_3264/master/4080.jpg?width=140&quality=85&auto=format&fit=max&s=c915b7536b7c046601f66a6a1e04ef88",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-05T16:33:16+00:00",
+   "title_ja": "地域社会におけるチャリティーショップの価値と役割",
+   "summary_ja": "中古品を扱うチャリティーショップが利益面だけでなく、ボランティアのスキル向上や地域住民のつながり作りにおいて果たす重要な役割を伝える。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
   },
   {
    "id": "b43bd2615f597bb5",
@@ -5678,25 +5845,6 @@
    "importance": 3
   },
   {
-   "id": "97d2197b8c265501",
-   "url": "https://note.com/chiisana_hana/n/n324417d52c4c",
-   "title_original": "服を減らしたら、衣替えをしなくてよくなった",
-   "source": "note #少ない服で暮らす",
-   "image": "https://assets.st-note.com/production/uploads/images/329557282/rectangle_large_type_2_6df75b867b7ef34b542b15d000196ed9.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-28T20:50:54+00:00",
-   "title_ja": "服を減らしたことで衣替えが不要になった話",
-   "summary_ja": "気温が下がった日にヒートテックやダウンジャケットを着た際、同僚の言葉から自分が衣替えをしていないことに気づく。日常的に服の数を絞り込んでおくことで、季節の変わり目における衣替えの手間をなくした実例。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "ヒートテック",
-    "ウルトラライトダウン"
-   ],
-   "importance": 3
-  },
-  {
    "id": "a776f6fbffb956a0",
    "url": "https://thesimplicityhabit.com/best-decluttering-methods",
    "title_original": "The 10 Best Decluttering Methods (According to a Professional Declutterer)",
@@ -5852,22 +6000,6 @@
    "title_ja": "来客時に備える持ち物を見直すヒント",
    "summary_ja": "よりスムーズなおもてなしを実現するために、来客用のアイテムを見直して手放すべきものについて解説している。",
    "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "f0f9cad72eb15b4b",
-   "url": "https://note.com/milk_seirisuru/n/n348c8d5a7364",
-   "title_original": "人間が管理できるモノの量には限界があると思う",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/329555646/rectangle_large_type_2_314d09c2f52c6e8f9b1300971b626113.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-28T12:18:39+00:00",
-   "title_ja": "管理できるモノの上限を考える",
-   "summary_ja": "著者は自分の持ち物を数えてみたくなるが、実際には管理できる量には限界があると結論付けている。",
-   "category": "心・習慣",
    "axis": "reduce",
    "things": [],
    "importance": 3
@@ -6130,22 +6262,6 @@
    "title_ja": "デジタルデータの整理に役立つ10のツールの特徴と違い",
    "summary_ja": "デジタル上のデータをすっきりと片付けるために役立つ10個の整理ツールの機能や、それぞれで掃除できる範囲について解説している。",
    "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "981ffc328069338c",
-   "url": "https://note.com/natsuki_minimal/n/ne7484082528b",
-   "title_original": "【ﾐﾆﾏﾘｽﾞﾑﾉｽｽﾒ】",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/329390249/rectangle_large_type_2_9f6efc310daf58fd3d9557a34a8ec8bc.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-28T04:06:53+00:00",
-   "title_ja": "汚部屋脱出から1年、断捨離を重ねて暮らしが変わった人の体験談",
-   "summary_ja": "汚部屋に住んでいた著者が、ミニマリズムを知ってから約1年間断捨離を繰り返した経験を紹介。不要な物を手放して部屋を整えたことで、自身の暮らしが大きく変化した様子を綴っている。",
-   "category": "暮らしの実例",
    "axis": "reduce",
    "things": [],
    "importance": 3
@@ -7191,128 +7307,6 @@
     "モバイルバッテリー"
    ],
    "importance": 3
-  },
-  {
-   "id": "339d3af8aa239bee",
-   "url": "https://tinyhousetalk.com/curved-off-grid-tiny-house-nsw-almost-all-kitchen",
-   "title_original": "This Curved Off-Grid Tiny House in New South Wales Is Almost All Kitchen",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/elly-charlie-curved-nsw-tiny-house-deck.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-26T11:30:00+00:00",
-   "title_ja": "水回りを別棟にしてキッチンを広く使ったタイニーハウス",
-   "summary_ja": "バスルームやランドリーを別棟にすることで、家の中をほぼキッチンとして広く使っているオフグリッドなタイニーハウスの実例です。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "30ff3f8bf52bfed9",
-   "url": "https://uk.news.yahoo.com/people-sharing-home-features-theyll-111602283.html",
-   "title_original": "People Are Sharing The Home Features They'll Never Use Again",
-   "source": "Yahoo News UK",
-   "image": "https://s.yimg.com/lo/mysterio/api/1546b51651c00749b354806bbe54ca947e6fd09897b55b95b1c90d6fc8d8771c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F24acfd6f352c63f4d59bf89f104409c9.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-26T11:16:02+00:00",
-   "title_ja": "もう二度と使わないと感じる家の設備について",
-   "summary_ja": "多くの人が自宅の中で「二度と使わない」と感じている設備やアイテムについて語っている記事です。本当に必要なものを見極めるためのヒントが得られます。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "51c8e869cd509a97",
-   "url": "https://www.roomie.jp/2026/10/1915507",
-   "title_original": "UGREENの薄型スマホスタンド。財布いらずで身軽にお出かけできる",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/ugreen-scaled.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-26T11:15:52+00:00",
-   "title_ja": "財布を持たずに身軽に出かけるための薄型スマホスタンド",
-   "summary_ja": "スマホひとつで身軽に外出したい人に向けて、カード収納とスタンドが一体化したMagSafe対応の薄型スマホスタンドを紹介している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "スマホスタンド",
-    "カード"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "7b2d7675d329a1bb",
-   "url": "https://tinyhousetalk.com/california-tiny-house-element-20-modular",
-   "title_original": "California Tiny House Element 20: A Modular 8×18 Shell You Build Up From",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/california-tiny-house-element-20-elevation.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-26T11:15:00+00:00",
-   "title_ja": "最小限の構造から始めるタイニーハウス",
-   "summary_ja": "カリフォルニアのタイニーハウスは、バーチ材の内装とスチール屋根を備えた160平方フィートのシェルです。キッチンやバスルームは必要に応じて後から追加する設計になっています。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "a3a1abd7b0ef29d5",
-   "url": "https://www.yahoo.com/lifestyle/articles/9-things-may-regret-throwing-111000471.html",
-   "title_original": "9 Things You May Regret Throwing Away",
-   "source": "Yahoo",
-   "image": "https://s.yimg.com/lo/mysterio/api/298cfe5ce6a0de4f49fc4b70f2585ffe53d6303883bd9d35a08722e5f469ad6f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsouthern_living_806%2Fb49105cd25fe7f544d89a925f7a59f78.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-26T11:10:00+00:00",
-   "title_ja": "手放して後悔するかもしれない9つのもの",
-   "summary_ja": "勢いで捨ててしまい後から後悔する可能性のあるアイテムについて挙げられています。物を減らす際の判断基準を見直すきっかけになる内容です。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "585073a1a719308a",
-   "url": "https://monomax.jp/archives/368228",
-   "title_original": "【ワークマンにも負けない!?】室内の暖房服としても優秀！コメリの2,980円「着るアウトドアブランケット」の実力をガチ検証",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2026/10/IMG_7244_result.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-26T11:00:33+00:00",
-   "title_ja": "室内の暖房服にも使えるコメリのアウトドア服",
-   "summary_ja": "コメリの着るアウトドアブランケットを検証した記事。高機能でコスパが良いとされるウェアの使い勝手を紹介しています。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "着るアウトドアブランケット"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "1e4c51294c90d5d2",
-   "url": "https://www.youtube.com/watch?v=tw4uLxc_NdM",
-   "title_original": "【無印良品週間】月10万で暮らす26歳ミニマリストが買い続ける愛用品12選 | ミスドの朝活、防災リュック、豆から挽くコーヒー",
-   "source": "ミニマリストじゅん",
-   "image": "https://i1.ytimg.com/vi/tw4uLxc_NdM/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-10-26T11:00:33+00:00",
-   "title_ja": "月10万で暮らすミニマリストが使い続ける愛用品",
-   "summary_ja": "月10万円で暮らす26歳のミニマリストが愛用する無印良品のアイテムや家電を紹介。ドリップケトルやテーブルランプなどを使い続けています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ドリップケトル",
-    "テーブルランプ",
-    "スタンディングテーブル",
-    "小型冷蔵庫"
-   ],
-   "importance": 4
   }
  ]
 }
