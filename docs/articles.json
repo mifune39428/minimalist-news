@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T21:41:47.209033+09:00",
+ "updated_at": "2026-11-08T06:37:38.909802+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,53 +27,54 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-07T21:43:00.264402+09:00",
+  "generated_at": "2026-11-08T06:41:12.992449+09:00",
   "days": 3,
-  "period": "11月6日〜11月7日",
+  "period": "11月7日〜11月8日",
   "count": 45,
-  "reduce_count": 22,
-  "own_count": 23,
-  "overview": "物を減らす片付けのコツや手放す基準、所有コストを見直すお金の工夫から、限られた空間を快適にするガジェットやルームツアーまで、身軽で心地よい暮らしのアイデアが広く語られています。",
-  "reduce": "物を無理に捨てずに空間を整えるリセット術や、衝動買いや自動支払いを防いで無駄な出費を減らす仕組み作りの話題が多く見られます。",
-  "own": "ミニマリストの部屋づくりやカプセルワードローブの実例に加え、バッテリー交換式ガジェットや車内空間を活かすアイテムの紹介が目立ちます。",
+  "reduce_count": 25,
+  "own_count": 20,
+  "overview": "ミニマリスト関連の45件の記事では、部屋やクローゼットの具体的な片づけ術をはじめ、持ち物を減らす工夫や身軽な暮らしの実例が多彩に語られています。",
+  "reduce": "物を捨てるだけでなく、所有コストの考え方を取り入れたり、床に物を置かないルールを作ったりして無駄な出費や散らかりを防ぐ工夫が多く見られます。",
+  "own": "限られた空間を心地よく整えるため、家具や家電、衣類やバックパックなど、本当に必要な厳選した愛用品でシンプルに暮らす実例が紹介されています。",
   "points": [
    {
-    "title": "所有コストの考え方",
-    "body": "年に数回しか使わない物について、購入するか借りるか、あるいは持たないでおくかを判断する所有コストの考え方が紹介されています。物との付き合い方を見直すヒントとして語られています。"
+    "title": "部屋を広く見せる工夫",
+    "body": "専門家や整理収納のプロが、自宅をより広く感じさせるための片づけ術や、ものを減らして空間をすっきりと保つための実用的なアプローチを解説しています。"
    },
    {
-    "title": "床に物を置かない工夫",
-    "body": "ミニマリズムを始める第一歩として、家具以外の物を床に置かないことを目標にするやり方が提案されています。足元から物を減らしてすっきりとした空間を作るための考え方です。"
+    "title": "旅や移動の荷物削減",
+    "body": "機内持ち込み用バッグ一つでの2週間の旅行や、容量が拡張するバックパックの活用など、荷物を極限まで絞り込んで身軽に移動するコツが紹介されています。"
    },
    {
-    "title": "バッテリー交換式製品",
-    "body": "バッテリーの劣化で本体ごと買い替える必要があったフィットネストラッカーの不満に応え、電池がヘタったら交換して長く使い続けられる仕様の製品が紹介されています。"
+    "title": "服や持ち物の見直し",
+    "body": "元アパレル店員が全身20着で暮らすようになった体験談や、美容アイテムなどの無駄な買い物や時間を減らすための考え方が提案されています。"
    }
   ],
   "keywords": [
-   "減らし方",
-   "持ち物",
-   "片付け",
+   "ミニマリスト",
+   "片づけ",
    "収納",
-   "ミニマリスト"
+   "部屋",
+   "持ち物",
+   "旅行"
   ]
  },
  "things": [
-  {
-   "name": "服",
-   "count": 13
-  },
   {
    "name": "バッグ",
    "count": 11
   },
   {
+   "name": "服",
+   "count": 11
+  },
+  {
    "name": "下着",
-   "count": 8
+   "count": 7
   },
   {
    "name": "靴",
-   "count": 8
+   "count": 7
   },
   {
    "name": "バックパック",
@@ -121,10 +122,6 @@
   },
   {
    "name": "エコバッグ",
-   "count": 2
-  },
-  {
-   "name": "クローゼット",
    "count": 2
   },
   {
@@ -200,7 +197,6 @@
   "A Slob Comes Clean",
   "ACT Government",
   "AOL.com",
-  "All About（オールアバウト）",
   "AsiaOne.com",
   "Balance Through Simplicity",
   "Be More with Less",
@@ -211,7 +207,6 @@
   "Dezeen",
   "Editorialge",
   "GearLab",
-  "Glam",
   "Good Housekeeping",
   "Halstead Gazette",
   "Hercircle",
@@ -234,7 +229,6 @@
   "PANews",
   "Parade Magazine",
   "ROOMIE",
-  "Real Estate",
   "Real Simple",
   "Realtor.com",
   "Sarah Therese",
@@ -243,6 +237,7 @@
   "The Canberra Times",
   "The Crypto Times",
   "The Economic Times",
+  "The Guardian（住まい）",
   "The Guardian（暮らし）",
   "The Irish Times",
   "The Minimal Mom",
@@ -254,7 +249,6 @@
   "TradingView",
   "Travel + Leisure",
   "UA.NEWS",
-  "Upworthy",
   "WNEM",
   "WTNH.com",
   "Wales Online",
@@ -267,6 +261,7 @@
   "YouTube",
   "au Webポータル",
   "autoevolution",
+  "https://www.thetraveler.org/",
   "loveproperty.com",
   "mai minimalism",
   "note #ミニマリスト",
@@ -302,6 +297,91 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "03526f5b4362b4e7",
+   "url": "https://note.com/chiisana_hana/n/n6a6ccc7e3f69",
+   "title_original": "ミニマリストになって、旅行も身軽になった",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/328826641/rectangle_large_type_2_8c52dd34d84d63cee865f737087ab7cc.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-07T21:01:49+00:00",
+   "title_ja": "ミニマリストになって旅行の荷物が軽くなった話",
+   "summary_ja": "持ち物を減らしてミニマリストになったことで、旅行時の荷物も身軽になり快適になったことを振り返るエッセイ。",
+   "category": "旅・持ち歩き",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "8bf4bf6b18e19d2d",
+   "url": "https://note.com/tateching/n/nd7a1d4ffc626",
+   "title_original": "【思いつき】三日坊主の4日目。おかえりなさい、何日ぶりでも、何年ぶりでも。",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/333476535/rectangle_large_type_2_1aeb922208ea00956dad409fb1a23e7e.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-07T19:59:15+00:00",
+   "title_ja": "三日坊主で使わなくなった物についての振り返り",
+   "summary_ja": "ランニングシューズや日記帳、ギターなど、買ってはみたものの続かずに部屋の隅で眠っている物について振り返る。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "ランニングシューズ",
+    "日記帳",
+    "ギター",
+    "参考書"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "73fa7ffa01d0f3e8",
+   "url": "https://www.aol.com/articles/6-decluttering-tips-instantly-home-192900000.html",
+   "title_original": "6 Decluttering Tips That Will Instantly Make Your Home Feel Bigger, Organizing Pros Share",
+   "source": "AOL.com",
+   "image": "https://hermes.media.static.aol.com/media/2026/11/07/76031916-4840-348c-b00b-ab0bc43f941a/45791335-ca69-459c-a29c-87a7e6be7448.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-07T19:29:00+00:00",
+   "title_ja": "部屋を広く見せる片づけのコツ",
+   "summary_ja": "専門家が語る、部屋を即座に広く感じさせるための6つの片づけのコツについての解説。ものを減らして空間を広く見せるための具体的なアプローチを知ることができる。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "fa3cddf00681d1a3",
+   "url": "https://www.thespruce.com/decluttering-tips-to-make-home-feel-bigger-12194225",
+   "title_original": "We Asked Organizing Pros How to Make a Home Feel Bigger and They Gave Us These 6 Decluttering Tips",
+   "source": "The Spruce",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-07T19:29:00+00:00",
+   "title_ja": "部屋を広く見せる6つの片づけ術",
+   "summary_ja": "整理収納のプロが明かす、自宅をより広く感じさせるための6つの片づけのコツ。空間をすっきりと保つための実用的なアプローチが紹介されている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "f648d08a8ce9a753",
+   "url": "https://topics.smt.docomo.ne.jp/amp/article/liniere/life/liniere-119453",
+   "title_original": "【整理収納アドバイザーの冬支度】 小物をひとつ足すだけで部屋が見違える。心地よい冬のおうち時間が叶う愛用品4選",
+   "source": "ｄメニューニュース",
+   "image": "https://img.topics.smt.news.goo.ne.jp/picture/liniere/m_liniere-119453.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-07T12:30:00+00:00",
+   "title_ja": "整理収納アドバイザーが選ぶ冬の愛用品4選",
+   "summary_ja": "整理収納アドバイザーが、部屋の雰囲気を変えて心地よい冬の時間を過ごすための愛用品を4つ紹介している。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "cb0377abb993da16",
    "url": "https://tinyhousetalk.com/orca-lgs-jay-steel-frame-tiny-house",
@@ -369,6 +449,40 @@
    "importance": 4
   },
   {
+   "id": "d6041703da6b43b1",
+   "url": "https://www.roomie.jp/2026/11/1922357",
+   "title_original": "トースターなのに「焼き魚」にも本気！ アラジン×タニタの新作は、冷凍魚もそのまま焼けるらしい",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/20261104_tanitatoaster_top.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-07T12:00:03+00:00",
+   "title_ja": "アラジンとタニタの新作トースターで魚を焼く",
+   "summary_ja": "家の中のキッチンスペースを好みとする執筆者が、冷凍魚をそのまま焼けるアラジンとタニタの新作トースターに注目している。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "トースター"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "22a47a197aa03065",
+   "url": "https://tinyhousetalk.com/six-van-life-tours-sprinters-vintage-vw",
+   "title_original": "Six Ways to Live on the Road: Sprinters, a Cargo Van, and Two Vintage VWs",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/wanderfulrevolution_exterior-2.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-07T12:00:00+00:00",
+   "title_ja": "スプリンターや古いVWなど車上生活の6つの方法",
+   "summary_ja": "シャワー付きのDIYスプリンターや1986年式ウェストファリアなど、車中泊や車上生活の異なる6つの車両を紹介している。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "d98e799d3987a9dd",
    "url": "https://www.lifehacker.jp/article/2611-machi-ya-flexypro-lh-editorialreview",
    "title_original": "荷物が増えてもバッグ1つで動ける。17Lから42Lに広がるバックパック",
@@ -385,6 +499,40 @@
     "バックパック",
     "PC"
    ],
+   "importance": 3
+  },
+  {
+   "id": "c972b536cb13bab9",
+   "url": "https://www.thetraveler.org/one-bag-travel-for-two-weeks-how-to-pack-a-carry-on",
+   "title_original": "One-Bag Travel for Two Weeks: How to Pack a Carry-On",
+   "source": "https://www.thetraveler.org/",
+   "image": "https://thetraveler.s3.amazonaws.com/images/hero/one-bag-travel-carry-on-backpack_1200x675.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-07T11:46:18+00:00",
+   "title_ja": "機内持ち込み手荷物だけで2週間旅するパッキング術",
+   "summary_ja": "機内持ち込み用バッグ一つだけで、2週間の旅行を快適に乗り切るためのパッキング方法を紹介。荷物を極限まで絞り込む工夫が学べる。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "バッグ"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "a1faf994eea3e619",
+   "url": "https://news.livedoor.com/article/detail/32758824",
+   "title_original": "真似したい！ライフさんが教える「掃除が楽しくなる」部屋作りと暮らしのコツ",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-07T11:44:00+00:00",
+   "title_ja": "掃除が楽しくなる部屋作りと暮らしの工夫",
+   "summary_ja": "ライフさんが実践する、掃除をラクにして楽しくするための部屋作りと暮らしのコツを紹介。心地よい空間を整えるためのアイデアが満載。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -533,6 +681,41 @@
    "importance": 3
   },
   {
+   "id": "d8923a685d918316",
+   "url": "https://tinyhousetalk.com/right-sizing-tiny-or-small-honestly",
+   "title_original": "Tiny, Small, or Somewhere Between? How to Right-Size Honestly",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/going-tiny-series-part-20.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-07T10:00:00+00:00",
+   "title_ja": "自分にとって適正な家の広さを見極める方法",
+   "summary_ja": "住まいのサイズダウンを考える際、設備選びよりもまず必要な床面積を正直に見極めることが最も重要であると説く、タイニーハウスに関する記事。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "8644c50858310a50",
+   "url": "https://www.youtube.com/watch?v=DvTpPhmNiU8",
+   "title_original": "8年間洗剤・柔軟剤を使わない理由。やめて良かったこと・困ったこと",
+   "source": "Tokuno | Minimalist",
+   "image": "https://i1.ytimg.com/vi/DvTpPhmNiU8/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-07T09:15:47+00:00",
+   "title_ja": "洗剤・柔軟剤を使わない8年の実践",
+   "summary_ja": "Tokunoは8年間洗剤・柔軟剤を使わずに生活し、その理由とメリット・デメリットを語る。洗濯は重曹と酢だけで行い、肌トラブルが減り環境負荷も低減できたと実感している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "洗剤",
+    "柔軟剤"
+   ],
+   "importance": 4
+  },
+  {
    "id": "ef337fa44181bf44",
    "url": "https://nosidebar.com/small-upgrades-everyday-life-free",
    "title_original": "15 Small Upgrades to Your Everyday Life That Cost Nothing",
@@ -547,6 +730,22 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
+  },
+  {
+   "id": "47e48c247a15adfa",
+   "url": "https://news.yahoo.co.jp/articles/4a11a4df907b8a531ed6e16d1fdc5adf11252383",
+   "title_original": "人気インフルエンサー山岡まさえさん、シンプルな暮らしの原点は義母の最期、親の介護経験から学んだ「手放し活」",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261107-00000001-kpseven-000-1-view.jpg?exp=10800",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-07T07:15:00+00:00",
+   "title_ja": "山岡まさえさんが語る介護経験から学んだ手放し術",
+   "summary_ja": "山岡まさえさんは、義母の最期と親の介護を経験し、不要な物を手放す基準や手順を見直すことでシンプルな暮らしを実践した経緯を語る。具体的な捨て方や失敗談も披露している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
   },
   {
    "id": "40f6de1d9de93a06",
@@ -700,6 +899,24 @@
    "axis": "own",
    "things": [
     "Google Fitbit Edge"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d51cafd8e2423449",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/07/letting-lawns-grow-can-help-back-yard-biodiversity",
+   "title_original": "No-mow-vember: letting lawns grow longer can help pollinators and back yard biodiversity",
+   "source": "The Guardian（住まい）",
+   "image": "https://i.guim.co.uk/img/media/8283c453d1d20d37526d4c5a02169fcb682d0ff7/873_0_6141_4912/master/6141.jpg?width=140&quality=85&auto=format&fit=max&s=0dceca3293df162e803ef3bb31f4047d",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-06T23:00:54+00:00",
+   "title_ja": "ノーモウ・ベンバー：芝刈りをやめて生物多様性とCO2削減",
+   "summary_ja": "芝刈り機を使わずに芝を伸ばす『ノーモウ・ベンバー』を実践することで、ミツバチや蝶などの花粉媒介者を守り、家庭のCO2排出を削減できると提案されている。具体的な始め方も解説。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [
+    "芝刈り機"
    ],
    "importance": 3
   },
@@ -5943,27 +6160,6 @@
    "importance": 3
   },
   {
-   "id": "aa4ca58015ec9999",
-   "url": "https://note.com/20chaku/n/ne77002703b96",
-   "title_original": "冬になっても、服は20着のまま",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/330088515/rectangle_large_type_2_d2789091b958d03d0f556528b8dabd06.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-30T03:26:35+00:00",
-   "title_ja": "服を増やさず冬を乗り切る20着の暮らし",
-   "summary_ja": "下着からバッグまで総数20着で暮らす元アパレル店員のライフスタイル。冬場でも服を買い足すのではなく、今あるアイテムの重ね着で工夫して過ごしています。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "服",
-    "下着",
-    "靴",
-    "バッグ"
-   ],
-   "importance": 4
-  },
-  {
    "id": "96b327d8426ba704",
    "url": "https://www.bhg.com/fifo-pro-organizing-method-12139132",
    "title_original": "How the FIFO Organizing Method Can Help Streamline Your Pantry and Reduce Waste at Home",
@@ -6091,25 +6287,6 @@
    "importance": 3
   },
   {
-   "id": "e685ca2cfcfd9155",
-   "url": "https://note.com/dandy_moraea3504/n/nf6e95883619d",
-   "title_original": "断捨離とうたた寝",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/330004450/rectangle_large_type_2_b0bc64dcd9a0cbdb4611214dc25709ba.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-29T22:28:04+00:00",
-   "title_ja": "秋冬物のプチ断捨離で収納と心がすっきり",
-   "summary_ja": "筆者は季節外れの衣類を中心に数年使わなかったものを処分し、クローゼットの収納スペースと精神的な負担が軽くなったと実感したプチ断捨離の様子を紹介する。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "秋冬物の衣類",
-    "クローゼット"
-   ],
-   "importance": 2
-  },
-  {
    "id": "89df4b40b169957e",
    "url": "https://news.livedoor.com/topics/detail/32689281/?_clicked=echoes_list",
    "title_original": "【シニアライフ】琥珀糖を作りながら語る、ライフさん流「心地よい小さな暮らし」",
@@ -6181,25 +6358,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 2
-  },
-  {
-   "id": "d4b32f646a09d9cc",
-   "url": "https://note.com/chiisana_hana/n/nd32025a27398",
-   "title_original": "モノを減らしたら、お金が貯まるようになった",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/328720298/rectangle_large_type_2_88a4b07734bdf73352f4e2c75b304ac9.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-29T20:27:28+00:00",
-   "title_ja": "物を減らしたらお金が貯まるようになった人の話",
-   "summary_ja": "安さや新作に釣られて服や雑貨を買っていた過去から一転、持ち物を見直して手放したことで、買い物への執着が消え自然とお金が貯まるようになった変化をつづる。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [
-    "服",
-    "雑貨"
-   ],
-   "importance": 4
   },
   {
    "id": "2c4f45c0ef292bc3",
@@ -7125,171 +7283,6 @@
    "things": [
     "ジェットフロッサー"
    ],
-   "importance": 3
-  },
-  {
-   "id": "5af881e0384f7258",
-   "url": "https://nlab.itmedia.co.jp/cont/articles/4050276/amp",
-   "title_original": "1人暮らしの30代女性、ダイニングテーブルをやめてみた→2.4mデスクを“1台5役”で使って「開放感が段違い」（1/3） | 住まい ねとらぼ",
-   "source": "ねとらぼ",
-   "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/10/1792732130_cover.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-28T01:05:00+00:00",
-   "title_ja": "ダイニングテーブルを手放し大型デスクを活用した話",
-   "summary_ja": "1人暮らしの30代女性がダイニングテーブルをやめ、2.4メートルのデスクを1台5役で活用して部屋の開放感を高めた事例。家具の役割を見直して空間を広く使っている。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "デスク",
-    "ダイニングテーブル"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "05946be83d0860bd",
-   "url": "https://news.infoseek.co.jp/article/itmedia_nlab_4050276",
-   "title_original": "1人暮らしの30代女性、ダイニングテーブルをやめたら…… 驚きの光景に「開放感が段違い」「とても参考になりました」",
-   "source": "Infoseek",
-   "image": "https://media.image.infoseek.co.jp/isnews/photos/itmedia_nlab/itmedia_nlab_4050276_0-enlarge.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-28T01:05:00+00:00",
-   "title_ja": "1人暮らしの30代女性がダイニングテーブルを手放した話",
-   "summary_ja": "ダイニングテーブルをやめたところ、部屋に圧倒的な開放感が生まれた事例。大きな家具をなくすことで暮らしの空間を広げる工夫が紹介されている。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "152b00561fbcb2dd",
-   "url": "https://www.upworthy.com/overwhelmed-by-all-the-sentimental-objects-youre-saving-a-new-study-reveals-a-better-way",
-   "title_original": "Overwhelmed by all the 'sentimental' objects you're saving? A new study reveals a better way.",
-   "source": "Upworthy",
-   "image": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/10/sentimental-clutter.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-28T01:02:06+00:00",
-   "title_ja": "思い出の品に圧倒されたときの新しい向き合い方",
-   "summary_ja": "捨てられずに残している思い出の品に気持ちが圧倒されてしまう人に向けて、新しい対処法や考え方を研究結果から紐解いて紹介しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "041e0f77fc100456",
-   "url": "https://www.thespruce.com/quick-morning-decluttering-habits-12181897",
-   "title_original": "We Asked Minimalists How They Keep Their Homes Tidy—5 Quick Decluttering Tasks They Do Every Morning",
-   "source": "The Spruce",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-27T22:05:00+00:00",
-   "title_ja": "ミニマリストが実践する毎朝の短い片付け習慣",
-   "summary_ja": "ミニマリストたちが自宅をすっきりと保つために、毎朝行っている5つの短い片付け作業について解説している。日々の習慣で散らかりを防ぐ方法が分かる。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "af0336c9da315404",
-   "url": "https://simplelionheartlife.com/decluttering-questions",
-   "title_original": "Decluttering Questions: Questions to help you declutter more effectively",
-   "source": "Simple Lionheart Life",
-   "image": "https://simplelionheartlife.com/wp-content/uploads/2022/07/Decluttering-Questions-Questions-to-Help-You-Declutter-More-Effectively-2.png",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-27T21:52:21+00:00",
-   "title_ja": "片付けを効果的に進める質問リスト",
-   "summary_ja": "自宅の片付けで迷うときに使える質問集を紹介。何を残し何を手放すかを具体的に考え、自信を持って整理できるようになる。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "24e062b1e6ff7538",
-   "url": "https://allabout.co.jp/gm/gc/522554",
-   "title_original": "「上の子2人は私より食べる。米が1週間で5kg持たない」41歳女性の非課税生活",
-   "source": "All About（オールアバウト）",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-27T21:30:05+00:00",
-   "title_ja": "米が1週間で5kg未満の非課税生活",
-   "summary_ja": "41歳の女性が、子ども二人が自分より多く食べても1週間で米を5kg未満に抑える非課税生活を実践。食費を減らしシンプルに暮らす例が紹介されている。",
-   "category": "キッチン・食",
-   "axis": "reduce",
-   "things": [
-    "米"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "287b3fc0c20b0261",
-   "url": "https://news.livedoor.com/topics/detail/32673168",
-   "title_original": "意外と知らない「片付けて！」は逆効果。家族が自ら動くようになる3つの収納の仕組み",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-27T21:30:00+00:00",
-   "title_ja": "片付けを指示すると逆効果　家族が動く収納3策",
-   "summary_ja": "「片付けて！」と指示すると逆効果になると指摘し、家族が自ら整理したくなるような収納の仕組みを3つ提示。部屋の片付けが自然に進む方法を解説。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "9a193ef41cabe6b6",
-   "url": "https://www.realestate.com.au/news/mum-of-seven-ditches-30m-mansion-for-simple-life",
-   "title_original": "Mum of seven ditches $30m mansion for simple life",
-   "source": "Real Estate",
-   "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/10/capi_6adec705a0f4c3189937ed8549d0e5ac_d111640e39dd7f34b760eff2325258fb.jpeg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-27T20:03:45+00:00",
-   "title_ja": "大家族の母親が大きな豪邸を手放してシンプルな生活へ",
-   "summary_ja": "多数の子供を持つ母親が、価値の高い大邸宅を手放してシンプルな生活へと移行したことを伝えています。持ち物を大きく減らして暮らしの規模を見直した実例です。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "00a9f013f13e368a",
-   "url": "https://www.realestate.com.au/news/contestant-rick-peroomal-offloads-luxury-home-ahead-of-the-block-auctions",
-   "title_original": "Contestant Rick Peroomal offloads luxury home ahead of The Block auctions",
-   "source": "Real Estate",
-   "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/10/capi_884fcadc6aef4114feb687bc4e0e00f7_887c4b17fb29ac65c6719ed52506006d.jpeg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-27T20:03:45+00:00",
-   "title_ja": "番組出場者がオークションを前に高級住宅を手放した話",
-   "summary_ja": "テレビ番組の出場者が、オークションの開催を前に自身の高級住宅を手放したというニュースです。住まいを売却して身軽になる選択をした事例を伝えています。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "3a25da51ec3a745e",
-   "url": "https://www.glam.com/2286916/celebs-who-make-the-most-out-of-their-capsule-wardrobes",
-   "title_original": "8 Celebs Who Know How To Make The Most Of Their Capsule Wardrobes",
-   "source": "Glam",
-   "image": "https://www.glam.com/img/gallery/8-celebs-who-know-how-to-make-the-most-of-their-capsule-wardrobes/l-intro-1792003663.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-27T20:00:00+00:00",
-   "title_ja": "有名人8人のカプセルワードローブ活用例",
-   "summary_ja": "有名人8人が実践するカプセルワードローブの選び方や活用法を紹介し、最小限の服で多彩なコーデを実現するポイントを解説します。季節ごとの組み合わせや、仕事とプライベートでの使い分け例も掲載しています。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [],
    "importance": 3
   }
  ]
