@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T14:13:38.868547+09:00",
+ "updated_at": "2026-11-07T21:41:47.209033+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,30 +27,36 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-07T14:16:52.618473+09:00",
+  "generated_at": "2026-11-07T21:43:00.264402+09:00",
   "days": 3,
   "period": "11月6日〜11月7日",
   "count": 45,
-  "reduce_count": 25,
-  "own_count": 20,
-  "overview": "物や空間を減らして暮らしに余白を作る工夫や、厳選した持ち物で快適に暮らす実例が多数語られています。",
-  "reduce": "物を無理に捨てず空間を整えるリセット術や、仕組みで出費や手間を減らす工夫が紹介されています。",
-  "own": "衣類を全身20着に絞った体験談や、道具を減らしたり長く使ったりする持ち物の工夫が語られています。",
+  "reduce_count": 22,
+  "own_count": 23,
+  "overview": "物を減らす片付けのコツや手放す基準、所有コストを見直すお金の工夫から、限られた空間を快適にするガジェットやルームツアーまで、身軽で心地よい暮らしのアイデアが広く語られています。",
+  "reduce": "物を無理に捨てずに空間を整えるリセット術や、衝動買いや自動支払いを防いで無駄な出費を減らす仕組み作りの話題が多く見られます。",
+  "own": "ミニマリストの部屋づくりやカプセルワードローブの実例に加え、バッテリー交換式ガジェットや車内空間を活かすアイテムの紹介が目立ちます。",
   "points": [
    {
-    "title": "服を20着に絞った暮らし",
-    "body": "元アパレル店員の筆者が、下着や靴、バッグを含めて全身20着で暮らす体験談を語り、次に何を買うか悩むミニマリズムのリアルな心境を明かしている。"
+    "title": "所有コストの考え方",
+    "body": "年に数回しか使わない物について、購入するか借りるか、あるいは持たないでおくかを判断する所有コストの考え方が紹介されています。物との付き合い方を見直すヒントとして語られています。"
    },
    {
-    "title": "空間と手間を減らす工夫",
-    "body": "ネイル用品や充電式カイロへの統合などでバッグの荷物を減らす一方、掃除をしなくてよい環境づくりや洗濯日をなくす整理術で日々の手間を省いている。"
+    "title": "床に物を置かない工夫",
+    "body": "ミニマリズムを始める第一歩として、家具以外の物を床に置かないことを目標にするやり方が提案されています。足元から物を減らしてすっきりとした空間を作るための考え方です。"
    },
    {
-    "title": "道具やガジェットの活用",
-    "body": "バッテリーが交換できるフィットネストラッカーや、1本で複数の役割を果たす無印良品の調理スプーンなど、長く使い道具を減らす工夫が紹介されている。"
+    "title": "バッテリー交換式製品",
+    "body": "バッテリーの劣化で本体ごと買い替える必要があったフィットネストラッカーの不満に応え、電池がヘタったら交換して長く使い続けられる仕様の製品が紹介されています。"
    }
   ],
-  "keywords": []
+  "keywords": [
+   "減らし方",
+   "持ち物",
+   "片付け",
+   "収納",
+   "ミニマリスト"
+  ]
  },
  "things": [
   {
@@ -59,7 +65,7 @@
   },
   {
    "name": "バッグ",
-   "count": 10
+   "count": 11
   },
   {
    "name": "下着",
@@ -70,11 +76,11 @@
    "count": 8
   },
   {
-   "name": "タイニーハウス",
-   "count": 7
+   "name": "バックパック",
+   "count": 6
   },
   {
-   "name": "バックパック",
+   "name": "タイニーハウス",
    "count": 5
   },
   {
@@ -82,11 +88,11 @@
    "count": 5
   },
   {
-   "name": "テレビ",
+   "name": "スマートフォン",
    "count": 4
   },
   {
-   "name": "冷蔵庫",
+   "name": "テレビ",
    "count": 4
   },
   {
@@ -94,11 +100,11 @@
    "count": 3
   },
   {
-   "name": "スマートフォン",
+   "name": "バスタブ",
    "count": 3
   },
   {
-   "name": "バスタブ",
+   "name": "ポーチ",
    "count": 3
   },
   {
@@ -106,23 +112,15 @@
    "count": 3
   },
   {
+   "name": "冷蔵庫",
+   "count": 3
+  },
+  {
    "name": "収納ボックス",
    "count": 3
   },
   {
-   "name": "100均アイテム",
-   "count": 2
-  },
-  {
-   "name": "iPhone",
-   "count": 2
-  },
-  {
    "name": "エコバッグ",
-   "count": 2
-  },
-  {
-   "name": "キッチン",
    "count": 2
   },
   {
@@ -130,7 +128,7 @@
    "count": 2
   },
   {
-   "name": "ショルダーバッグ",
+   "name": "スタンディングテーブル",
    "count": 2
   },
   {
@@ -150,11 +148,11 @@
    "count": 2
   },
   {
-   "name": "パジャマ",
+   "name": "ドリップケトル",
    "count": 2
   },
   {
-   "name": "ポーチ",
+   "name": "パジャマ",
    "count": 2
   },
   {
@@ -162,15 +160,7 @@
    "count": 2
   },
   {
-   "name": "ミニテーブル",
-   "count": 2
-  },
-  {
    "name": "リュック",
-   "count": 2
-  },
-  {
-   "name": "充電器",
    "count": 2
   },
   {
@@ -178,7 +168,11 @@
    "count": 2
   },
   {
-   "name": "手帳",
+   "name": "小型冷蔵庫",
+   "count": 2
+  },
+  {
+   "name": "弁当箱型炊飯器",
    "count": 2
   },
   {
@@ -191,10 +185,6 @@
   },
   {
    "name": "無印良品",
-   "count": 2
-  },
-  {
-   "name": "簡易キッチン",
    "count": 2
   },
   {
@@ -242,6 +232,7 @@
   "News.com.au",
   "No Sidebar",
   "PANews",
+  "Parade Magazine",
   "ROOMIE",
   "Real Estate",
   "Real Simple",
@@ -258,7 +249,6 @@
   "The Minimalists",
   "The Simplicity Habit",
   "The Spruce",
-  "The Sun",
   "Tiny House Talk",
   "Tokuno | Minimalist",
   "TradingView",
@@ -268,6 +258,7 @@
   "WNEM",
   "WTNH.com",
   "Wales Online",
+  "Woman & Home",
   "Women's Health",
   "Yahoo",
   "Yahoo News Singapore",
@@ -311,6 +302,268 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "cb0377abb993da16",
+   "url": "https://tinyhousetalk.com/orca-lgs-jay-steel-frame-tiny-house",
+   "title_original": "The Jay by ORCA LGS: A Steel-Framed Garden Suite Built to Outlast Wood",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/orca-steel-frame-tiny-house-thumbnail.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-07T12:30:00+00:00",
+   "title_ja": "軽量スチールフレームで作られた耐久性の高いガーデン離れ",
+   "summary_ja": "腐食や歪みに強い亜鉛メッキの軽量スチールを骨組みに採用した、床面積435平方フィートの1ベッドルームの離れ。外断熱を備え、効率的な居住空間を実現しています。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "24b9f77f9ca5b273",
+   "url": "https://www.realsimple.com/household-tasks-for-holiday-season-12189558",
+   "title_original": "7 Things to Clean, Declutter, and Stock Up on Now Before the Holiday Rush Begins",
+   "source": "Real Simple",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-07T12:30:00+00:00",
+   "title_ja": "ホリデーシーズンの繁忙期に向けて片づけと備蓄を進める方法",
+   "summary_ja": "本格的な繁忙期が始まる前に、家の中の掃除や不要品の整理、必要な物品の備蓄をあらかじめ済ませておくためのポイントを紹介しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "5d4bc4704c1b3038",
+   "url": "https://note.com/takuwan8181/n/neba48f13cad6",
+   "title_original": "夫4,000円、妻310円。不用品を売りに行ったら格差社会を目の当たりにした",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/333384510/rectangle_large_type_2_ae779d74ecaada805d478723b4ea9499.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-07T12:29:41+00:00",
+   "title_ja": "クローゼットの片づけで不用品を売りに行った日の記録",
+   "summary_ja": "部屋の片づけを進める中でクローゼットをターゲットにし、不要になった品物を売りに出かけたちょっとした出来事を綴っています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "e6c7f7ad76132624",
+   "url": "https://tinyhousetalk.com/4x4-sprinter-full-time-van-life-this-is-van-life",
+   "title_original": "A Factory 4×4 Sprinter, Made Their Own for Full-Time Van Life",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/this-is-van-life-4x4-sprinter-front.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-07T12:15:00+00:00",
+   "title_ja": "フルタイムのバンライフ仕様にカスタムされた4WDスプリンター",
+   "summary_ja": "メルセデス・ベンツのスプリンターをベースに、オフロード装備やリアの収納ガレージ、テラコッタ調の内装をしつらえてフルタイムのバンライフ仕様に仕上げています。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "メルセデス・ベンツ スプリンター"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "d98e799d3987a9dd",
+   "url": "https://www.lifehacker.jp/article/2611-machi-ya-flexypro-lh-editorialreview",
+   "title_original": "荷物が増えてもバッグ1つで動ける。17Lから42Lに広がるバックパック",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/11/06/90186ec7-1f96-4d3e-ba3c-9c3dc8b46ba0/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-07T12:00:00+00:00",
+   "title_ja": "17Lから42Lに広がる拡張型バックパック",
+   "summary_ja": "薄型17Lからスーツケース並みの42Lへ拡張できるバックパックを紹介。16インチのPC収納や吊り下げ収納機能を備え、これ1つで通勤から旅行まで対応できる。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "バックパック",
+    "PC"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d5bbcc56743fdfcc",
+   "url": "https://www.roomie.jp/2026/11/1921692",
+   "title_original": "車で待機する時間が「本を読む時間」に。Amazonで見つけた読書灯で、ダラダラスマホが減ったよ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/20261103_readinglight_00-scaled.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-07T11:30:16+00:00",
+   "title_ja": "車内の待ち時間を読書時間に。買い足した読書灯",
+   "summary_ja": "子どもの迎えなどの車内待機時間を活用するため、Amazonで読書灯を購入した人の話。ダラダラとスマートフォンを見る時間を減らし、読書をする習慣へと生活をシフトさせている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "読書灯",
+    "スマートフォン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "f7d4eb5784d4ed07",
+   "url": "https://www.roomie.jp/2026/11/1924029",
+   "title_original": "パスタと野菜を鍋ひとつでゆで分け。このハーフざる気が利いてます",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/35690P002.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-07T11:15:30+00:00",
+   "title_ja": "鍋ひとつで食材をゆで分けられるハーフざる",
+   "summary_ja": "パスタと付け合わせの野菜をひとつの鍋で同時にゆで分けられる、下村企販のハーフストレーナーを紹介している記事。調理器具を減らしながら効率よく料理をするためのキッチンツール。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "ハーフストレーナー",
+    "鍋"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d915e62343cb3c04",
+   "url": "https://note.com/sonshinai_life/n/nfb80b7e7d103",
+   "title_original": "買う・借りる・持たない。必要な物を使うための「所有コスト」の考え方！",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/333353421/rectangle_large_type_2_d8909560c56180f54390a4255ae8ff74.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-07T11:14:54+00:00",
+   "title_ja": "買う、借りる、持たない。所有コストの考え方",
+   "summary_ja": "年に数しか使わない物の扱いについて、購入するか借りるか、あるいは持たないでおくかを判断するための所有コストの考え方について綴った記事。物との付き合い方を見直すヒントになる。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "82e6fa683d943c38",
+   "url": "https://www.roomie.jp/2026/11/1916790",
+   "title_original": "準備に追われる日、ポーチは全部置いていく。毎日バッグを変える私が「時間がない日」に頼る隠し玉",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/hbb_20261027_top.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-07T11:00:09+00:00",
+   "title_ja": "毎日バッグを変える編集部員が実践する時間の節約術",
+   "summary_ja": "直感で物を選ぶ服好きの編集部員が、時間のない忙しい日に実践しているバッグの中身の減らし方を紹介。小物用のポーチをすべて置いていくことで、準備の手間を省いてスムーズに出かける工夫を語っています。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "バッグ",
+    "ポーチ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "05c60f141f81bf88",
+   "url": "https://www.youtube.com/watch?v=P6uzPsWdmaY",
+   "title_original": "vlog | 月10万で暮らす26歳ミニマリストの日常 | 好きなものに浸る休日 | 一人暮らし 【Vol.63】",
+   "source": "ミニマリストじゅん",
+   "image": "https://i1.ytimg.com/vi/P6uzPsWdmaY/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-07T11:00:08+00:00",
+   "title_ja": "月10万円で暮らす26歳ミニマリストの愛用品",
+   "summary_ja": "月10万円で暮らす26歳のミニマリストが、休日を心地よく過ごすために愛用している部屋の家具や家電を紹介。弁当箱型炊飯器やドリップケトル、電動コーヒーミルなど、暮らしを快適にするお気に入りの道具が揃っています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "弁当箱型炊飯器",
+    "ドリップケトル",
+    "スタンディングテーブル",
+    "小型冷蔵庫"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "6a815b3d6efb7194",
+   "url": "https://liniere.jp/column/lifestyle/115835",
+   "title_original": "【ルームツアー】 ミニマリストますみさんの部屋づくり｜家族4人で心豊かに暮らす、物が少なくても居心地がいい空間",
+   "source": "リンネル.jp",
+   "image": "https://liniere.jp/wp/wp-content/uploads/2026/10/DSC00815_45-1024x1280.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-07T10:02:35+00:00",
+   "title_ja": "家族4人で心地よく暮らすミニマリストの部屋づくり",
+   "summary_ja": "家族4人で暮らすミニマリストが、物が少なくても居心地の良さを感じられる空間の工夫や部屋づくりの実例を紹介。限られた空間をすっきりと整えながら豊かに暮らすヒントが詰まったルームツアーです。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "0074f21cc1be1f1f",
+   "url": "https://www.youtube.com/watch?v=l0kSGeBqYHk",
+   "title_original": "買う前に見てほしい！ミニマリストが買わないモノ30選",
+   "source": "私だけミニマリスト｜南さやか",
+   "image": "https://i1.ytimg.com/vi/l0kSGeBqYHk/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-07T10:00:29+00:00",
+   "title_ja": "お金と時間を守るためミニマリストが買わない30選",
+   "summary_ja": "美容アイテムや日用品など、暮らしの負担になるとしてミニマリストが買い控えている30のモノを紹介。本当に必要な物だけを見極めて、無駄な買い物や時間を減らすための考え方を提案しています。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "3ac11d5557b9d7bc",
+   "url": "https://www.roomie.jp/2026/11/1915703",
+   "title_original": "調味料ボトルの注ぎ口、外しづらすぎる！この「万能アイテム」でゴミ分別のストレスが一気に解消した",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/261026_SUN-STAR_bannnoubunnbetsuhasami_19.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-07T10:00:26+00:00",
+   "title_ja": "調味料ボトルの注ぎ口が外せない人へ、万能分別はさみで解決",
+   "summary_ja": "調味料ボトルの注ぎ口が外せず分別に苦戦していた筆者は、サンスター文具の『万能分別はさみ』(1,320円)を使い、ハサミとしてだけでなくキャップも簡単に外せるようになり、ゴミ分別の手間が一気に減った。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "万能分別はさみ",
+    "調味料ボトル"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ef337fa44181bf44",
+   "url": "https://nosidebar.com/small-upgrades-everyday-life-free",
+   "title_original": "15 Small Upgrades to Your Everyday Life That Cost Nothing",
+   "source": "No Sidebar",
+   "image": "https://nosidebar.com/wp-content/uploads/life-upgrades.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-07T09:00:00+00:00",
+   "title_ja": "お金をかけずにできる日常の15の小さな改善",
+   "summary_ja": "購入せずに生活を向上させる15のアイデアを提示。不要なものを手放す代わりに、整理整頓や時間管理、既存アイテムの再活用など、無料でできる小さな工夫で日常が快適になる。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "40f6de1d9de93a06",
+   "url": "https://www.womanandhome.com/homes/cleaning--decluttering/professional-tips-to-declutter-fast-before-moving-house",
+   "title_original": "Professional organisers share 8 time-saving tricks to declutter fast before moving house",
+   "source": "Woman & Home",
+   "image": "https://cdn.mos.cms.futurecdn.net/fDGLEMDUSvWqmGqMtN7qVV-1920-80.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-07T07:00:00+00:00",
+   "title_ja": "引っ越し前に素早く片付けるプロの時短テクニック",
+   "summary_ja": "プロの整理収納アドバイザーが教える、引っ越し前の片付けを素早く終わらせるための8つの時短テクニックを紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "968292131726afc1",
    "url": "https://note.com/yopi_m/n/ne777e75b4bcb",
@@ -816,6 +1069,24 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
+  },
+  {
+   "id": "497704f7141a0ed2",
+   "url": "https://parade.com/shopping/walmart-homfa-tall-8-drawer-dresser-flash-sale-november-2026",
+   "title_original": "Walmart's $130 8-Drawer Dresser Is a 'Beautiful' Way to Declutter Small Bedrooms and Closets",
+   "source": "Parade Magazine",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-06T11:30:00+00:00",
+   "title_ja": "Walmartの130ドル8段ドレッサーで小部屋をすっきり整理",
+   "summary_ja": "Walmartが130ドルで販売する8段ドレッサーは、コンパクトなサイズながら多層の収納スペースを提供し、狭い寝室やクローゼットの整理に最適と評価された。組み立てが簡単で、デザインもシンプルなため、ミニマリストにも好評だ。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "8段ドレッサー"
+   ],
+   "importance": 2
   },
   {
    "id": "6e481a97f4316935",
@@ -2182,6 +2453,24 @@
     "バックパック"
    ],
    "importance": 2
+  },
+  {
+   "id": "4282589a65c25021",
+   "url": "https://www.outdoorgearlab.com/topics/travel/best-travel-backpack",
+   "title_original": "Best Travel Backpacks | Tested & Ranked",
+   "source": "GearLab",
+   "image": "https://outdoorgearlab.b-cdn.net/photos/35/14/472898_8297_XXL.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-04T08:00:00+00:00",
+   "title_ja": "GearLabが選ぶベスト旅行バックパック10選",
+   "summary_ja": "GearLabは実際に使用テストを行い、重量、耐久性、収納容量などを比較してベスト旅行バックパックをランキング化した。軽量で防水性が高く、内部ポケットが充実したモデルが上位に選ばれ、長期旅行や出張に適している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "旅行バックパック"
+   ],
+   "importance": 3
   },
   {
    "id": "5bbbbcbe8b82f14e",
@@ -6033,27 +6322,6 @@
    "importance": 3
   },
   {
-   "id": "35a02499af25faaf",
-   "url": "https://note.com/shumidori/n/nd2c6ba8ac27c",
-   "title_original": "写真の整理は断捨離だけじゃない、せっかく撮った写真だから大事に見てあげよう",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/img/1793275708-HlYaIo0PUF1pXcC7QTG8DyiE.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-29T12:29:14+00:00",
-   "title_ja": "写真整理の断捨離術：容量を減らすポイント",
-   "summary_ja": "iPhoneやクラウド、PC、外付けHDDに溜まる大量の写真。容量圧迫を防ぐため、削除基準や整理手順を具体例と共に紹介し、デジタル断捨離のコツを解説する。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "iPhone",
-    "クラウド",
-    "Mac",
-    "HDD"
-   ],
-   "importance": 3
-  },
-  {
    "id": "4e616886556b60d4",
    "url": "https://www.roomie.jp/2026/10/1911927",
    "title_original": "コールマンの新作「デュアルガスバーナーストーブ」がかっこよすぎる。売り切れ続出なのも納得です",
@@ -7021,302 +7289,6 @@
    "summary_ja": "有名人8人が実践するカプセルワードローブの選び方や活用法を紹介し、最小限の服で多彩なコーデを実現するポイントを解説します。季節ごとの組み合わせや、仕事とプライベートでの使い分け例も掲載しています。",
    "category": "服・ファッション",
    "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "dadff97037bd53a4",
-   "url": "https://news.nicovideo.jp/watch/nw19925932?news_ref=watch_20_nw19780912",
-   "title_original": "SNS総フォロワー数19万人超、整理収納アドバイザーひでまるによる新刊『自分らしさは、部屋に出る』2026年12月4日（金）発売",
-   "source": "ニコニコニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-27T19:00:42+00:00",
-   "title_ja": "整理収納アドバイザーひでまるの新刊『自分らしさは、部屋に出る』発売",
-   "summary_ja": "整理収納のプロが、自分らしい暮らしを実現するための部屋作りのヒントと実践例をまとめた新刊が2026年12月4日に発売される。具体的な収納テクニックや心理的な整理のコツも紹介し、読者が部屋を通じて自己表現できるよう導く。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "b28d0dc8de92ca7b",
-   "url": "https://lifehacker.com/tech/jbl-tour-one-m3-headphones-sale-october-2026",
-   "title_original": "My Favorite Travel Headphones Are $250 Off Right Now",
-   "source": "Lifehacker",
-   "image": "https://lifehacker.com/imagery/articles/01KQWR732JFBMPKQJTF1YFGJHB/hero-image.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-27T19:00:12+00:00",
-   "title_ja": "旅行に最適なJBL Tour One M3ヘッドホンが250ドル割引",
-   "summary_ja": "JBLのTour One M3ヘッドホンは軽量でノイズキャンセル機能を備え、機内や長距離移動で快適に音楽や通話ができ、現在250ドルオフで購入できる。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "JBL Tour One M3ヘッドホン"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "4077167adc30f5f2",
-   "url": "https://tinyhousetalk.com/1976-vw-westfalia-berlin-deluxe-henderson-nv",
-   "title_original": "A Sage Green 1976 VW Westfalia “Berlin Deluxe” With a New Pop-Top Canvas in Nevada",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/2026/10/1976-vw-westfalia-berlin-deluxe-exterior.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-27T15:30:00+00:00",
-   "title_ja": "ネバダ州で見つかった改装済みの古いキャンピングカー",
-   "summary_ja": "ヨーロッパ製のインテリアパーツや新しいポップトップキャンバスを備えた、1976年式のフォルクスワーゲンのキャンピングカーを紹介している。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "キャンピングカー"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "b0a2ea598520fd9d",
-   "url": "https://tinyhousetalk.com/ford-e450-shuttle-bus-skoolie-vancouver-wa",
-   "title_original": "A Ford E450 Shuttle Bus With a 7.3 Powerstroke, Ready for a Skoolie Build",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/2026/10/ford-e450-shuttle-bus-exterior.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-27T15:00:00+00:00",
-   "title_ja": "改造用に販売されている元スクールバスのシャトルバス",
-   "summary_ja": "高い天井や車椅子用リフトを備えた、フォードのディーゼルエンジン搭載のシャトルバスが販売されていることを伝えている。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "シャトルバス"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "b56861a913081e99",
-   "url": "https://www.roomie.jp/2026/10/1917230",
-   "title_original": "扇風機の「出す・しまう」から解放される。冬の暖房効率もアップするファン付きLED照明",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/lumoair2.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-27T14:45:42+00:00",
-   "title_ja": "扇風機の出し入れが不要になる薄型のファン付きLED照明",
-   "summary_ja": "天井の低い住まいでも圧迫感を軽減する薄型設計で、必要な時だけ羽根が開くファン付きのLED照明を紹介している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "LED照明",
-    "扇風機"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2e804806e9e41a60",
-   "url": "https://tinyhousetalk.com/forest-river-campsite-reserve-16sw-marshall-nc",
-   "title_original": "A Never-Used Forest River Campsite Reserve Tiny House With Two Lofts in North Carolina",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/2026/10/forest-river-campsite-reserve-16sw-exterior.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-27T14:30:00+00:00",
-   "title_ja": "北カロライナ州の2ロフト付きフォレストリバー・タイニーハウス販売",
-   "summary_ja": "2025年モデルのForest River Campsite Reserve 16SWは、2つのロフト、食器洗い機、セントラルエア、温水タンクを備え、転売保証付きでノースカロライナ州マーシャルで販売中です。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "タイニーハウス",
-    "食器洗い機",
-    "セントラルエア",
-    "温水タンク"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "4b1406966eb271cd",
-   "url": "https://tinyhousetalk.com/rustic-log-cabin-loft-porch-ontario-wisconsin",
-   "title_original": "A Rustic Log Cabin With a Loft and Covered Porch in Wisconsin (Buyer Moves It)",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/2026/10/rustic-log-cabin-wisconsin-exterior.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-27T14:00:00+00:00",
-   "title_ja": "ロフトとポーチ付きの小さな丸太小屋",
-   "summary_ja": "ウィスコンシン州で販売されている、吹き抜けやロフト、簡易キッチン、屋根付きポーチを備えた小さな丸太小屋の紹介。購入者が自分で運搬する条件となっています。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "ロフト",
-    "簡易キッチン"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "3646c5ab2e485a21",
-   "url": "https://liniere.jp/column/lifestyle/120701",
-   "title_original": "【無印良品で揃える手帳＆読書グッズ】 文具好きが「良品週間」で推す愛用品4選",
-   "source": "リンネル.jp",
-   "image": "https://liniere.jp/wp/wp-content/uploads/2026/10/shiro_261030_mujibungu_top-1.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-27T13:47:26+00:00",
-   "title_ja": "無印良品の良品週間で文具好きが推す愛用品4選",
-   "summary_ja": "無印良品のセール期間に合わせて、文具好きの愛好家が実際に選んだ手帳や読書を快適にするための便利なグッズを紹介しています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "手帳",
-    "読書グッズ",
-    "文房具"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "4e9c1b5322926fc7",
-   "url": "https://www.lifehacker.jp/article/2610-lht-cio-mug-warmer2",
-   "title_original": "最後の一口までずっと温かい。「スマホ充電」もできる2in1ツールが寒い日のデスクワークにぴったり",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2025/11/18/657474dd-d563-43cf-a94e-1b5a35e6aa94/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-27T13:15:00+00:00",
-   "title_ja": "マグウォーマーと充電器を兼ねるCIOの2in1ツール",
-   "summary_ja": "飲み物の保温とスマホのワイヤレス充電を1台でこなすCIOのマグウォーマー2を紹介している。季節を問わずデスクまわりで活躍するアイテム。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "マグウォーマー2",
-    "充電器"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "e63f98c2adfa1b2d",
-   "url": "https://www.roomie.jp/2026/10/1914463",
-   "title_original": "山崎実業の新作パネルで、ついに洗面所の壁がマグネット対応に！付属トレーで小物もスッキリ収納できるよ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/261023_yamajitsu_washroom_magnet_01.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-27T12:00:35+00:00",
-   "title_ja": "山崎実業のパネルで洗面所の壁をマグネット収納化",
-   "summary_ja": "山崎実業の新作パネルを使って洗面所の壁をマグネット対応にし、付属トレーで小物をすっきりと浮かせて収納している事例。限られた空間を有効活用する工夫。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "パネル",
-    "トレー",
-    "マグネット収納"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "0a0a2fafcd852177",
-   "url": "https://www.southernliving.com/things-making-living-room-cluttered-12195880",
-   "title_original": "5 Things Making Your Living Room Look Cluttered—Even When It’s Clean",
-   "source": "Southern Living",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-27T11:34:00+00:00",
-   "title_ja": "掃除してもリビングが散らかって見える5つの原因",
-   "summary_ja": "部屋を綺麗に片付けても、なぜか雑然とした印象を与えてしまう原因や、インテリアの配置について解説している記事です。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "0d241f21562198e4",
-   "url": "https://tinyhousetalk.com/14x44-gsx-tiny-home-finished-one-bedroom-spray-foam-corner-kitchen",
-   "title_original": "14×44 GSX Tiny Home: A Finished One-Bedroom with Spray-Foam Walls and a Corner Kitchen",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/fob-14x44-gsx-240588-exterior.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-27T11:30:00+00:00",
-   "title_ja": "ウレタン断熱と角型キッチンを備えたタイニーハウス",
-   "summary_ja": "ミシシッピ州のメーカーが手がけた、1ベッドルーム・1バスルーム仕様のポータブルなタイニーハウス。壁と天井にウレタン断熱が施され、コーナーキッチンを備えている。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "タイニーハウス",
-    "キッチン"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f4b4fefb09060052",
-   "url": "https://www.lifehacker.jp/article/machi-ya-3ktable-review-983957",
-   "title_original": "いつものショルダーバッグにすっぽり。コンパクトなミニテーブルでおうちキャンプを楽しんでみた",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/10/18/2b658242-d87c-4860-bd91-669c8ecef372/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-27T11:30:00+00:00",
-   "title_ja": "ショルダーバッグに入る約430gの軽量ミニテーブル「3K TABLE」のレビュー",
-   "summary_ja": "約430gと超軽量なカーボン製ミニテーブル「3K TABLE」の使用感を解説。工具不要で簡単に組み立てられ、ショルダーバッグに収まるサイズながら拡張ギミックを備えています。おうちキャンプやテラスでの使用に最適なアイテムです。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ミニテーブル",
-    "3K TABLE",
-    "ショルダーバッグ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "5b22b48b6ec86eae",
-   "url": "https://www.thesun.co.uk/fabulous/40776686/next-cotton-cardigan-sale",
-   "title_original": "Shoppers rave over Next's £9 cotton cardigans — they are perfect capsule wardrobe staples and 'go with ANY outfit'",
-   "source": "The Sun",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-27T11:16:00+00:00",
-   "title_ja": "着回し力が高くカプセルワードローブに最適な綿カーディガンの評判",
-   "summary_ja": "どんな服装にも合わせやすいと評価されているNextの9ポンドのコットンカーディガンを紹介。優れた着回し力により、最小限の服で回すカプセルワードローブの定番アイテムとして買い物客から人気を集めています。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "コットンカーディガン"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "26bcbaaabcef9a90",
-   "url": "https://news.nicovideo.jp/watch/nw19924657?news_ref=search_search",
-   "title_original": "“人には見せられない”冷蔵庫、100均アイテムで整理すると…… 見違える結果に「見ててとてもスッキリな気分」「やる気ス",
-   "source": "ニコニコニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-27T11:15:42+00:00",
-   "title_ja": "散らかった冷蔵庫を100均アイテムでスッキリ整理した実践例",
-   "summary_ja": "人に見せられない状態だった冷蔵庫を、100円ショップのアイテムを使ってスッキリと整理整頓した事例。見違えるようにきれいになった結果に対して、見ていて気持ちがよくやる気が出ると話題を集めています。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "100均アイテム",
-    "冷蔵庫"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "dfaf0e98754f5802",
-   "url": "https://www.southernliving.com/things-toss-kitchen-12173528",
-   "title_original": "10 Things Experts Say To Toss From Your Kitchen Right Now",
-   "source": "Southern Living",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-27T11:15:28+00:00",
-   "title_ja": "専門家が教えるキッチンから今すぐ手放すべき10個のアイテム",
-   "summary_ja": "専門家が提案する、キッチンから今すぐ処分すべき10のアイテムについての解説。物が溜まりやすいキッチン周りをスッキリと整理し、使いやすい空間を作るための手放し方のヒントを紹介しています。",
-   "category": "キッチン・食",
-   "axis": "reduce",
    "things": [],
    "importance": 3
   }
