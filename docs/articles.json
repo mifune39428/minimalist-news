@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T14:07:56.945600+09:00",
+ "updated_at": "2026-11-08T21:58:46.195228+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,35 +27,35 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-08T14:08:52.952245+09:00",
+  "generated_at": "2026-11-08T21:59:18.770764+09:00",
   "days": 3,
   "period": "11月7日〜11月8日",
   "count": 45,
-  "reduce_count": 24,
-  "own_count": 21,
-  "overview": "11月7日〜8日は、持ち物を手放す具体的な工夫や、少数精鋭のワードローブ、限られた空間を快適にする部屋づくりの事例が多く語られています。",
-  "reduce": "物を手放すコツや失敗談、極端な片づけを見直す考え方、家の中をすっきりと見せる空間リセット術についての話題が多く見られます。",
-  "own": "服や靴の枚数を絞ったワードローブの実例や、限られたスペースを快適にする家具やガジェットなどの愛用品が紹介されています。",
+  "reduce_count": 22,
+  "own_count": 23,
+  "overview": "11月7日から8日に集まった45件の記事では、タイニーハウスや限られた部屋での暮らしの実例をはじめ、片付けのコツや手放す基準、日々の暮らしを快適にする愛用品や効率的な道具について多様な視点で語られています。",
+  "reduce": "物を減らすコツや収納の見直し、年齢や心境の変化に伴って習慣や持ち物を手放す具体的な工夫についての話題が多く見られます。",
+  "own": "限られた空間やワードローブですっきりと暮らす実例や、調理器具・ガジェットなど日々の生活を快適にする愛用品の紹介が語られています。",
   "points": [
    {
-    "title": "服や持ち物の枚数を絞る",
-    "body": "元アパレル店員が服を20着に絞った経験や、服8着・靴3足でコーディネートを楽しむミニマリストの事例が語られています。"
+    "title": "小さな家や部屋の実例",
+    "body": "大きな家を手放してタイニーハウスや3畳の部屋で暮らす生活の実例が紹介され、限られた空間でも心地よく身軽に暮らすためのヒントが語られています。"
    },
    {
-    "title": "手放し方と片づけのコツ",
-    "body": "完璧を目指す極端な片づけが失敗する理由や、介護経験から学んだ手放し基準、部屋を広く見せる具体的なコツが解説されています。"
+    "title": "片付けのコツと注意点",
+    "body": "極端な片づけが逆効果になる理由や、性格タイプに応じた整理整頓のテクニック、玄関に置いてはいけないモノの具体例など、無理なく部屋を広く見せる片づけ術が解説されています。"
    },
    {
-    "title": "限られた空間の工夫",
-    "body": "テレビを置かない選択や、イケアのアイテムを活用したユニットバスの収納問題の解決など、狭い空間を快適にする実例が紹介されています。"
+    "title": "調理器具の工夫",
+    "body": "二段蒸し器を鍋としても使う方法や、ひとつの鍋でゆで分けられるハーフざるなど、キッチンの道具を減らしながら効率よく調理する工夫が紹介されています。"
    }
   ],
   "keywords": [
    "ミニマリスト",
    "片づけ",
    "収納",
-   "持ち物",
-   "服"
+   "部屋",
+   "道具"
   ]
  },
  "things": [
@@ -92,11 +92,11 @@
    "count": 4
   },
   {
-   "name": "テレビ",
-   "count": 4
+   "name": "イヤホン",
+   "count": 3
   },
   {
-   "name": "イヤホン",
+   "name": "テレビ",
    "count": 3
   },
   {
@@ -160,10 +160,6 @@
    "count": 2
   },
   {
-   "name": "リュック",
-   "count": 2
-  },
-  {
    "name": "家具",
    "count": 2
   },
@@ -173,6 +169,10 @@
   },
   {
    "name": "弁当箱型炊飯器",
+   "count": 2
+  },
+  {
+   "name": "手帳",
    "count": 2
   },
   {
@@ -299,6 +299,195 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "c16bca01fb20970d",
+   "url": "https://note.com/atom_naotaka/n/n0594d869b490",
+   "title_original": "出かけない事",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/333798175/rectangle_large_type_2_47120dc932b36965e585c801584339af.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-08T12:55:46+00:00",
+   "title_ja": "休日にお出かけをしない選択で疲労と出費を減らす",
+   "summary_ja": "休日に無理して用事を作ったり繁華街へ出かけたりするのをやめた人の話。無駄な疲労や出費を防ぐための暮らしの工夫について語られています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "06bc3d7d6c3cef11",
+   "url": "https://note.com/chami_sekai/n/n58ae9a11682e",
+   "title_original": "一生物は自分自身だけ。",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/img/1794142202-J6dSgRThpZUm0GBfMD9EcWtK.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-08T12:54:45+00:00",
+   "title_ja": "持ち物と向き合う中で見つけたお気に入りの腕時計",
+   "summary_ja": "自分の持ち物と向き合う日々のなかで、身につけるものについて紹介している記事。デジタルよりも直感的に理解しやすいアナログ時計にこだわっています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "腕時計",
+    "アナログ時計"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5eeac9ea9f2f6714",
+   "url": "https://tinyhousetalk.com/no-loft-tiny-house-mortgage-free-social-security",
+   "title_original": "She Paid $84K Cash for a No-Loft Tiny House — and Lives Mortgage-Free on Social Security",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/sarah-no-loft-tiny-house-exterior-porch.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-08T12:15:00+00:00",
+   "title_ja": "大きな家を手放し、タイニーハウスでローンなしの暮らし",
+   "summary_ja": "大きな家を売却して現金で購入した小さな家で、社会保障を頼りに住宅ローンなしの生活を送っている人の話。手術を機に住まいをダウンサイジングし、身軽な暮らしを実現しています。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "8a71912bc5778cd3",
+   "url": "https://www.roomie.jp/2026/11/1922216",
+   "title_original": "アナログ派の私が、手帳とは別に「週間プランナー」を使う理由。TODOも日記のタネも1枚に記録できるんです",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/20261104_knoopworks_10-scaled.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-08T11:30:46+00:00",
+   "title_ja": "手帳とは別に「週間プランナー」を取り入れる理由",
+   "summary_ja": "日々のタスク管理にアナログのアイテムを活用している人が、手帳とは別に週間プランナーを取り入れてTODOや日記の記録に使っている実例。紙の文房具で暮らしの記録を整える工夫を紹介しています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "手帳",
+    "週間プランナー",
+    "ノート"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "955b1e91f392772a",
+   "url": "https://www.roomie.jp/2026/11/1924424",
+   "title_original": "おこわ1升も蒸せる二段蒸し器。蒸さない日は両手鍋になるので無駄がない",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/71rmi3ANz.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-08T11:15:32+00:00",
+   "title_ja": "二段蒸し器で蒸すも鍋に変身、無駄なく活用",
+   "summary_ja": "和平フレイズの二段蒸し器は30cmのステンレス製で、1升のおこわも蒸せる。蒸さない日は鍋として使えるので、調理器具を減らせる点が魅力だ。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "二段蒸し器"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5870bba94d48734c",
+   "url": "https://www.roomie.jp/2026/11/1916517",
+   "title_original": "下村企販「880円の茶漉し」なら1杯だけ淹れるのも楽ちん。気づけばお茶を飲む習慣がついていた",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/20261027-kogu-chakoshi-01.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-08T11:00:41+00:00",
+   "title_ja": "880円の茶漉しで1杯だけでも手軽にお茶を楽しむ",
+   "summary_ja": "下村企販の880円茶漉しは、1杯分の茶葉を簡単に濾げるシンプル設計で、手軽にお茶を淹れやすくし、自然とお茶を飲む習慣ができたと紹介されている。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "茶漉し"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "81b10b2f401ae4d0",
+   "url": "https://www.youtube.com/shorts/wrc7k8584Mo",
+   "title_original": "【断捨離】捨てられないモノは不安の証拠品？ #断捨離 #やましたひでこ #不安",
+   "source": "やましたひでこ断捨離",
+   "image": "https://i4.ytimg.com/vi/wrc7k8584Mo/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-08T11:00:24+00:00",
+   "title_ja": "捨てられないものは不安のサイン？やましたひでこの断捨離講座",
+   "summary_ja": "やましたひでこが、捨てられない物は不安の証拠品と指摘し、心理的な整理と具体的な片付け手順を解説。部屋だけでなく心もすっきりさせる方法を提案する。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "c18c99905fac4307",
+   "url": "https://news.infoseek.co.jp/amp/article/otonanswer_407343",
+   "title_original": "天井まで積み上がったダンボールで物置状態→“お片付け”で劇的大改造！ ビフォーアフターに「同じ部屋！？」",
+   "source": "Infoseek",
+   "image": "https://media.image.infoseek.co.jp/isnews/photos/otonanswer/otonanswer_407343_0-enlarge.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-08T10:15:00+00:00",
+   "title_ja": "物置状態だった部屋を片付けて劇的に変えた事例",
+   "summary_ja": "天井までダンボールが積み上げられて物置状態になっていた部屋を、片付けによって劇的に大改造したビフォーアフターを紹介しています。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "ダンボール"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "542b495ac4cec2a7",
+   "url": "https://www.youtube.com/watch?v=QKa1282_NTo",
+   "title_original": "【家計簿公開】家賃4万円で暮らす夫婦。お金の管理、こうしてます。",
+   "source": "ミニマリストK",
+   "image": "https://i2.ytimg.com/vi/QKa1282_NTo/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-08T10:00:11+00:00",
+   "title_ja": "家賃4万円で暮らす夫婦の家計管理と暮らし",
+   "summary_ja": "家賃4万円の部屋で暮らすミニマリスト夫婦が、日々の家計管理の方法やお金のやりくりについて公開している動画です。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "d16f711e4ccad26f",
+   "url": "https://note.com/mild_seal5117/n/na81877ed3b1f",
+   "title_original": "暮らしを小さくすると、楽しみが残る。3畳の部屋で心地よく暮らす祐成陽子さんに学ぶこと",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/332059710/rectangle_large_type_2_557212c62e4a88e3410d0e0fff15a743.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-08T09:00:00+00:00",
+   "title_ja": "3畳の部屋で心地よく暮らす祐成陽子さんの暮らし方",
+   "summary_ja": "3畳という限られた空間で暮らす祐成陽子さんの生活から、ものを減らして小さく暮らすことで楽しみを残すライフスタイルのヒントを学ぶ。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "3816ca0abc5e52f6",
+   "url": "https://news.livedoor.com/article/detail/32763560",
+   "title_original": "「後で後悔したくない」60代ライフさんが年齢に合わせてやめた、5つの習慣と暮らしの見直し",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-08T08:05:00+00:00",
+   "title_ja": "60代ライフさんが年齢に合わせてやめた5つの習慣",
+   "summary_ja": "後で後悔しないために、60代のライフさんが自身の年齢の変化に合わせて見直した、暮らしや習慣を手放した方法についての記録。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "110503df3d1e98c7",
    "url": "https://note.com/toa_iwano/n/n9432da1a44af",
@@ -5871,42 +6060,6 @@
    "importance": 3
   },
   {
-   "id": "3f4f82bb90a163f2",
-   "url": "https://note.com/clever_pothos867/n/na36135ef77d8",
-   "title_original": "５年前にテレビを手放した私がいまテレビがほしい理由",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/330251686/rectangle_large_type_2_508e71a4644007ac4e1fcae220b1693a.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-30T12:08:43+00:00",
-   "title_ja": "5年前にテレビを手放した人が、いま感じていること",
-   "summary_ja": "5年前にテレビを手放し、しばらくは快適な生活を送っていた筆者ですが、現在は再びテレビが欲しくなっている心境を綴っています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "テレビ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "4b361133c0c93992",
-   "url": "https://note.com/up_me_88/n/n739f40987dd9",
-   "title_original": "コスメを手放したら、クレープを作りたくなった。",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/img/1793361815-rctIN2WH1JBEYDfglMh9vSeZ.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-30T12:06:35+00:00",
-   "title_ja": "コスメを手放したことで、外に頼らない欲求に気づいた話",
-   "summary_ja": "引き出しにたまっていたコスメを手放したところ、足りない自分を外から補うクセが消え、自分でクレープを作りたいという内発的な欲求が生まれた体験談です。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "コスメ"
-   ],
-   "importance": 4
-  },
-  {
    "id": "7f386da62b1566f5",
    "url": "https://www.roomie.jp/2026/10/1914129",
    "title_original": "山崎実業の新作「つばを差し込むキャップホルダー」。次にかぶるときも綺麗なままで、身支度までラクになりそう",
@@ -6248,22 +6401,6 @@
     "家"
    ],
    "importance": 4
-  },
-  {
-   "id": "54c8c1150d93ad77",
-   "url": "https://note.com/mokari730/n/n0b6a2f78257e",
-   "title_original": "クレカの請求40万円。元銀行員なのに、何にいくら使ったか分からなかった私の話💸",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/330174079/rectangle_large_type_2_9de05c292eae60b2dc7d91d8fa252b47.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-30T08:20:42+00:00",
-   "title_ja": "元銀行員FPがお金の使い道を見直した話",
-   "summary_ja": "クレジットカードの請求が40万円に達したものの、何にいくら使ったか把握できていなかった元銀行員のシングルマザーが、自身の家計や支出の管理を見直したエピソードです。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
   },
   {
    "id": "4f42aeeb3e5617e9",
@@ -7148,149 +7285,6 @@
     "ノートパソコン"
    ],
    "importance": 2
-  },
-  {
-   "id": "5423cf27fd2d4427",
-   "url": "https://www.theminimalists.com/wanting",
-   "title_original": "Want the Wanting",
-   "source": "The Minimalists",
-   "image": "https://www.theminimalists.com/wp-content/uploads/2026/10/david-werbrouck-5GwLlb-_UYk-unsplash-500x333.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-28T12:00:00+00:00",
-   "title_ja": "欲しいのは“欲求”だったと気付いた話",
-   "summary_ja": "ジョシュア・ミルバーンは、物を手に入れる過程そのものに惹かれていたと悟り、実際の所有欲は欲求そのものだと結論付けた。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "2eb15bb9c35b5a0e",
-   "url": "https://www.lifehacker.jp/article/2610-skip-apple-homeview-own-these-devices",
-   "title_original": "Appleのスマートディスプレイ「HomeView」を今あるデバイスで代用する4つの構築術",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/10/27/f0df1aea-5207-4b0b-bb72-d0aef7b03ab9/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-28T12:00:00+00:00",
-   "title_ja": "既存AppleデバイスでHomeViewを代用する方法",
-   "summary_ja": "Appleのスマートディスプレイを買わず、iPhone・iPad・Apple Watchを組み合わせてスマートホーム操作環境を構築する4つの手順を解説している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "iPhone",
-    "iPad",
-    "Apple Watch"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "30b5870153103821",
-   "url": "https://www.roomie.jp/2026/10/1915725",
-   "title_original": "顔を拭くときの雑菌が心配…。無印良品の「使い捨てフェイスタオル」で肌に優しく解決できました",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/20260220-mio-muji-facetowel-01.jpeg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-28T11:30:09+00:00",
-   "title_ja": "無印良品の使い捨てフェイスタオルで洗顔後の衛生面を解決",
-   "summary_ja": "洗面台のタオルの雑菌が気になっていた筆者が、無印良品の「使い捨てフェイスタオル」を導入して肌への優しさと衛生面を改善した話。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "使い捨てフェイスタオル",
-    "ティッシュペーパー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "87069e7b40462f07",
-   "url": "https://tinyhousetalk.com/family-of-four-20-ft-shipping-container-queensland",
-   "title_original": "A Family of Four Lives Mortgage-Free in a 20-Ft Shipping Container in Queensland",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/ryan-lorena-20ft-container-queensland-exterior.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-28T11:30:00+00:00",
-   "title_ja": "20フィートのコンテナハウスで4人家族が暮らす家",
-   "summary_ja": "オーストラリアの広大な敷地で、4人家族が20フィートの海上コンテナを改装した小さな家でローンを組まずに暮らしている事例。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "コンテナハウス"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "9e1be7fa28e4fccb",
-   "url": "https://www.roomie.jp/2026/10/1912810",
-   "title_original": "いかにもなカメラバッグは苦手。普段の服になじむ「巾着バッグ」がちょうどよかった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/20261022_OneGo_01.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-28T11:00:38+00:00",
-   "title_ja": "普段着になじむ巾着型のカメラバッグを選んだ話",
-   "summary_ja": "いかにもなカメラバッグが苦手な人が、普段の服装に自然になじむ「巾着バッグ」を取り入れて良かったと感じている話。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "巾着バッグ",
-    "カメラバッグ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "974823ee9fde8fb9",
-   "url": "https://www.aol.com/articles/home-always-mess-professional-organizers-110019000.html",
-   "title_original": "If Your Home Is Always A Mess, Professional Organizers Swear By These 4 Simple Steps",
-   "source": "AOL.com",
-   "image": "https://hermes.media.transform.aol.com/35bb3732720b1ae48a38d5f9eb47c4b8f54ca76f/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/28/0de25784-2572-353d-8e40-1b7796dde9e1/68cf035e-a9ad-4765-a5cc-2eb3a2ad7778.jpeg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-28T11:00:19+00:00",
-   "title_ja": "プロの整理収納アドバイザーが勧める4つの手順",
-   "summary_ja": "家がいつも散らかってしまう人に向けて、プロの整理収納アドバイザーが実践している4つのシンプルな片づけ手順を紹介する記事。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "31c642acac103e8a",
-   "url": "https://www.youtube.com/watch?v=njfzi7HTtqE",
-   "title_original": "節約するほど60歳からお金の不安が増える理由【10月31日(土)まで】",
-   "source": "やましたひでこ断捨離",
-   "image": "https://i3.ytimg.com/vi/njfzi7HTtqE/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-10-28T11:00:11+00:00",
-   "title_ja": "60歳からのお金の不安と暮らしの向き合い方",
-   "summary_ja": "物価高や収入の悩みがある中で、老後の不安を減らして60歳からの人生を軽やかに生きるためのヒントについて語っている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "20474c51ef973851",
-   "url": "https://www.roomie.jp/2026/10/1912055",
-   "title_original": "無印良品でみつけた「軽くて丈夫」なリュック。PCを入れてほぼ毎日背負う道具として最適な選択肢だった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/IMG_1639.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-28T10:30:28+00:00",
-   "title_ja": "無印良品の軽くて丈夫なリュックを愛用する理由",
-   "summary_ja": "京都の2SLDKで暮らすライターが、仕事のノートPCを入れてほぼ毎日背負っている愛用のリュックを紹介。機能性と心が躍るかを基準に選んだ、世界観を作る持ち物の一つ。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "リュック",
-    "ノートPC"
-   ],
-   "importance": 3
   }
  ]
 }
