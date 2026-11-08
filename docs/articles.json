@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T21:58:46.195228+09:00",
+ "updated_at": "2026-11-09T06:51:35.233491+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,56 +27,56 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-08T21:59:18.770764+09:00",
+  "generated_at": "2026-11-09T06:52:03.713454+09:00",
   "days": 3,
-  "period": "11月7日〜11月8日",
+  "period": "11月7日〜11月9日",
   "count": 45,
-  "reduce_count": 22,
-  "own_count": 23,
-  "overview": "11月7日から8日に集まった45件の記事では、タイニーハウスや限られた部屋での暮らしの実例をはじめ、片付けのコツや手放す基準、日々の暮らしを快適にする愛用品や効率的な道具について多様な視点で語られています。",
-  "reduce": "物を減らすコツや収納の見直し、年齢や心境の変化に伴って習慣や持ち物を手放す具体的な工夫についての話題が多く見られます。",
-  "own": "限られた空間やワードローブですっきりと暮らす実例や、調理器具・ガジェットなど日々の生活を快適にする愛用品の紹介が語られています。",
+  "reduce_count": 24,
+  "own_count": 21,
+  "overview": "ミニマリスト関連の45件の記事では、暮らしのダウンサイジングや収納術、手放すための具体的な工夫が幅広く語られています。",
+  "reduce": "物を減らす実践として、生活費や支出の見直し、一極集中せず無理のない断捨離を続けるコツが語られています。",
+  "own": "持ち物に関しては、ガジェットや防寒衣類、機能的な調理器具やバッグなど身軽に暮らすための愛用品が紹介されています。",
   "points": [
    {
-    "title": "小さな家や部屋の実例",
-    "body": "大きな家を手放してタイニーハウスや3畳の部屋で暮らす生活の実例が紹介され、限られた空間でも心地よく身軽に暮らすためのヒントが語られています。"
+    "title": "小さな住まいと暮らし方",
+    "body": "大きな家を手放してタイニーハウスや3畳の部屋で暮らす実例が紹介され、空間を小さくして身軽に生きるヒントが語られています。"
    },
    {
-    "title": "片付けのコツと注意点",
-    "body": "極端な片づけが逆効果になる理由や、性格タイプに応じた整理整頓のテクニック、玄関に置いてはいけないモノの具体例など、無理なく部屋を広く見せる片づけ術が解説されています。"
+    "title": "旅行や外出の荷物を軽く",
+    "body": "旅行中の財布を百均のメッシュポーチに変えたり、機内持ち込みバッグだけで旅をするパッキング術や拡張型バックパックの活用法が紹介されています。"
    },
    {
-    "title": "調理器具の工夫",
-    "body": "二段蒸し器を鍋としても使う方法や、ひとつの鍋でゆで分けられるハーフざるなど、キッチンの道具を減らしながら効率よく調理する工夫が紹介されています。"
+    "title": "調理器具の多機能化",
+    "body": "1台3役の保温タンブラーや、鍋としても使える二段蒸し器など、アイテムを減らしてキッチンを効率的に使う工夫が語られています。"
    }
   ],
   "keywords": [
    "ミニマリスト",
-   "片づけ",
+   "断捨離",
    "収納",
-   "部屋",
-   "道具"
+   "旅行",
+   "タンブラー"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 12
-  },
-  {
-   "name": "バッグ",
    "count": 11
   },
   {
-   "name": "靴",
-   "count": 8
+   "name": "バッグ",
+   "count": 10
   },
   {
-   "name": "下着",
+   "name": "靴",
    "count": 7
   },
   {
    "name": "バックパック",
+   "count": 6
+  },
+  {
+   "name": "下着",
    "count": 6
   },
   {
@@ -121,6 +121,10 @@
   },
   {
    "name": "エコバッグ",
+   "count": 2
+  },
+  {
+   "name": "サコッシュ",
    "count": 2
   },
   {
@@ -192,6 +196,10 @@
    "count": 2
   },
   {
+   "name": "財布",
+   "count": 2
+  },
+  {
    "name": "靴下",
    "count": 2
   }
@@ -201,12 +209,12 @@
   "ACT Government",
   "AOL.com",
   "AsiaOne.com",
-  "Balance Through Simplicity",
   "Be More with Less",
   "Better Homes & Gardens",
   "CSP Times",
   "Carryology",
   "Country Living Magazine",
+  "Designboom",
   "Dezeen",
   "GearLab",
   "Good Housekeeping",
@@ -280,6 +288,7 @@
   "やましたひでこ断捨離",
   "りくと｜ミニマリスト",
   "アットプレス",
+  "オリコンニュース",
   "ニコニコニュース",
   "ミニマリスト Nozomi",
   "ミニマリストK",
@@ -299,6 +308,163 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "a07b75fe91124a80",
+   "url": "https://note.com/nakata_lim/n/n97cfe241df3f",
+   "title_original": "生活費を月3万円上げて1年、見えてきたこと",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/333204321/rectangle_large_type_2_e9501320f9d361d0a36c635a64472156.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-08T21:47:09+00:00",
+   "title_ja": "生活費を月3万円増やして1年で見えたこと",
+   "summary_ja": "ナカタさんは、ものを減らしながら生活費を月3万円増やす実験を1年続け、支出の見直しや暮らしのシンプル化で得た気づきや具体的な整理術を語ります。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "8bba303224973b1b",
+   "url": "https://www.roomie.jp/2026/11/1924660",
+   "title_original": "ストロー・直飲み・フタ外しの1台3役！ティファールの保温タンブラー",
+   "source": "ROOMIE",
+   "image": "https://www.roomie.jp/wp-content/uploads/2026/03/5-1.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-08T21:15:06+00:00",
+   "title_ja": "ティファールの1台3役保温タンブラーを紹介",
+   "summary_ja": "T‑FALの450ml保温タンブラーは、ストロー、直飲み、フタ外しの3機能が1つに集約。デスクワークやリップ汚れを防ぎたい人に最適な多機能アイテムです。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ティファール保温タンブラー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e1a58b221f29eebd",
+   "url": "https://www.lifehacker.jp/article/fiio-snowsky-echo-nano-player-2611",
+   "title_original": "ミュージックプレーヤーってやっぱりいい。あの頃のiPodを思い出す「ECHO NANO」",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/08/18/9dbe2b23-e96b-47f1-971e-0e4d59a9f310/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-08T21:15:00+00:00",
+   "title_ja": "SnowSkyのECHO NANOミュージックプレーヤーの紹介",
+   "summary_ja": "SnowSkyのECHO NANOは、スマホのバッテリー節約やシンプル操作を求める人向けのミニ音楽プレーヤー。余計な機能がなく音質にこだわり、音楽に没入できます。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ECHO NANO"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "457ac8bdbaaf1f88",
+   "url": "https://news.yahoo.co.jp/articles/8273176464cd8bd3b77aa489da0f63753f37d274",
+   "title_original": "食事、掃除から家電まで… シニアにおすすめの「便利過ぎるサブスク」 終活にもなる「持たない生活」（デイリー新潮）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261109-01517322-shincho-000-1-view.jpg?exp=10800",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-08T21:06:04+00:00",
+   "title_ja": "シニア向け便利サブスクで持たない生活を提案",
+   "summary_ja": "食事・掃除・家電まで利用できるサブスクを紹介し、所有を減らす『持たない生活』や終活に役立つポイントを解説しています。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "f6ce8eddd5a39b03",
+   "url": "https://www.youtube.com/shorts/5JKLEAhFKkQ",
+   "title_original": "【冬支度】少ない服で暖かく暮らす｜UNIQLOとお気に入りの防寒アイテム",
+   "source": "小さな暮らしノート",
+   "image": "https://i2.ytimg.com/vi/5JKLEAhFKkQ/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-08T21:00:12+00:00",
+   "title_ja": "少ない服で暖かく過ごす冬支度とおすすめ防寒アイテム",
+   "summary_ja": "ユニクロのミニT、スウェット、ヒートテックに加え、RestnatureのAIスマート電気毛布を組み合わせ、最小限の服でも快適に冬を過ごす方法を紹介しています。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "ユニクロ ミニT",
+    "ユニクロ スウェット",
+    "ユニクロ ヒートテック",
+    "Restnature AIスマート電気毛布"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "187564d156938906",
+   "url": "https://note.com/chiisana_hana/n/n11a7444e9f5d",
+   "title_original": "旅行のお財布は、百均のメッシュポーチで十分だった",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/331032502/rectangle_large_type_2_e9433498687b29418c30c80f743df356.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-08T20:43:20+00:00",
+   "title_ja": "旅行の財布を百均のメッシュポーチに変えた話",
+   "summary_ja": "旅行時の荷物を軽くするため、普段使っている二つ折り財布の代わりに百均のメッシュポーチを活用している。サコッシュの容量を圧迫していた財布を小型化し、身軽に動ける工夫をしている。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "メッシュポーチ",
+    "財布",
+    "サコッシュ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e7d46f5c9daa21ae",
+   "url": "https://www.oricon.co.jp/news/2491215/full",
+   "title_original": "櫻井翔、今年中にやっておきたいことは“断捨離”「一気にスッキリさせたいです」",
+   "source": "オリコンニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-08T19:00:00+00:00",
+   "title_ja": "今年中に断捨離をしてスッキリさせたいと語った話",
+   "summary_ja": "今年中にやっておきたいこととして断捨離を挙げ、一気に部屋をスッキリさせたいと意気込んでいる人の話題です。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 1
+  },
+  {
+   "id": "cf9b21f11fad313a",
+   "url": "https://www.designboom.com/architecture/raw-concrete-steel-stripped-back-1960s-apartment-zagreb-simple-architecture",
+   "title_original": "raw concrete and steel anchor stripped-back 1960’s apartment in zagreb",
+   "source": "Designboom",
+   "image": "https://www.designboom.com/twitterimages/uploads/2026/11/zagreb-raw-apartment-simple-architecture-interior-renovation-designboom-1200.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-08T16:34:30+00:00",
+   "title_ja": "コンクリートと鉄骨で装飾を削ぎ落としたアパート",
+   "summary_ja": "むき出しのコンクリートとスチールを基調に、無駄な装飾を削ぎ落として仕上げられたアパートの空間を紹介しています。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "918b683d1a9892ec",
+   "url": "https://www.realsimple.com/things-to-toss-from-your-freezer-12196959",
+   "title_original": "6 Things You Should Toss From Your Freezer Before the Holidays",
+   "source": "Real Simple",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-08T14:32:09+00:00",
+   "title_ja": "ホリデーシーズン前に冷凍庫から手放すべき6つの物",
+   "summary_ja": "年末のホリデーシーズンを迎える前に、自宅の冷凍庫の中から整理して処分しておくべき6つのアイテムについて解説しています。",
+   "category": "キッチン・食",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "c16bca01fb20970d",
    "url": "https://note.com/atom_naotaka/n/n0594d869b490",
@@ -5599,27 +5765,6 @@
    "importance": 3
   },
   {
-   "id": "38adc441d3bf476d",
-   "url": "https://note.com/20chaku/n/n9839703f8932",
-   "title_original": "世の中は、大きなクローゼットである",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/330453845/rectangle_large_type_2_4db6bf7bf2ab8b4ef672dcb8f9376d38.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-31T03:12:07+00:00",
-   "title_ja": "20着だけで暮らす元アパレル店員のミニマリズム",
-   "summary_ja": "元アパレル店員の著者は、下着・靴・バッグなど計20点だけで生活し、必要なものは必要な時に買えると考える『世の中は大きなクローゼット』というミニマリズムを実践しています。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "下着",
-    "靴",
-    "バッグ",
-    "服"
-   ],
-   "importance": 4
-  },
-  {
    "id": "26ebdbd58761535f",
    "url": "https://www.chiba-tv.com/plus/detail/2026102179506",
    "title_original": "片づけのリバウンドを卒業！整理収納アドバイザーが教える「ものをため込まない3つのヤメ習慣」",
@@ -5843,22 +5988,6 @@
     "TOKYO CRAFTSのテント"
    ],
    "importance": 3
-  },
-  {
-   "id": "1688ac2cbb9dab8d",
-   "url": "https://note.com/norith_tabi/n/nea4bc98ed3f7",
-   "title_original": "今あるモノを、壊れるまで使う",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/330358692/rectangle_large_type_2_88c4a3d0f458f2251d5b111f0548fc53.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-30T21:56:04+00:00",
-   "title_ja": "新しい物を買い直す沼から抜け出す。今ある物を壊れるまで使い倒す考え方",
-   "summary_ja": "次々と新しい物を買って古い物を捨てる行動を「最適化の罠」と表現し、それにとらわれない真のミニマリズムを提案する記事。手持ちの物を大切に壊れるまで使い尽くしてから新しい物を迎えるという、持続的な物の選び方について語られている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
   },
   {
    "id": "777bd6a8456fdf03",
@@ -7170,121 +7299,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
-  },
-  {
-   "id": "3ee29e23fc0a59fb",
-   "url": "https://www.youtube.com/shorts/xATXxih2UTo",
-   "title_original": "We found hidden clutter in our studio.",
-   "source": "The Minimalists",
-   "image": "https://i1.ytimg.com/vi/xATXxih2UTo/hqdefault.jpg",
-   "media": "youtube",
-   "region": "海外",
-   "published": "2026-10-28T15:41:04+00:00",
-   "title_ja": "スタジオで見つかった隠れた不用品について",
-   "summary_ja": "ミニマリストたちが自分たちのスタジオ内で見つけた、普段気づかない隠れた不要品について語る動画。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "8682697e5594ba14",
-   "url": "https://www.goodhousekeeping.com/uk/house-and-home/household-advice/a74262616/soft-decluttering-method",
-   "title_original": "The soft decluttering method is the easiest way to tidy when you’re already stressed out",
-   "source": "Good Housekeeping",
-   "image": "https://hips.hearstapps.com/hmg-prod/images/2e9ee53f-f945-47a6-a287-908ad304ee59.jpg?crop=1.00xw:0.753xh;0,0.247xh&resize=1200:*",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-28T13:53:56+00:00",
-   "title_ja": "ストレスが少ない「ソフト・デクラター」の手法",
-   "summary_ja": "ストレスを感じているときでも無理なく実践できる、優しい片づけや手放しの方法について紹介している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "2a0125259db57664",
-   "url": "https://balancethroughsimplicity.com/ta-da-list",
-   "title_original": "5 Reasons to Write a Ta-Da List Instead of a To-Do List",
-   "source": "Balance Through Simplicity",
-   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2026/10/Ta-Da-List-2-683x1024.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-28T13:40:20+00:00",
-   "title_ja": "「やったことリスト」を活用する5つの理由",
-   "summary_ja": "タスクを管理する「やることリスト」ではなく、自分が完了した行動を書き出すリストを使って日々の達成感を認める方法。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "983d284ca5bdc1b2",
-   "url": "https://balancethroughsimplicity.com/done-is-better-than-perfect",
-   "title_original": "Why Done is Better Than Perfect: 7 Ways to Stop Holding Yourself Back",
-   "source": "Balance Through Simplicity",
-   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2026/10/Done-is-Better-Than-Perfect-1-683x1024.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-28T13:40:04+00:00",
-   "title_ja": "完璧を目指さず「完了」させることの重要性",
-   "summary_ja": "完璧にこだわって行動が止まってしまうのを防ぎ、まずやり終えることの大切さとそのアプローチについて解説している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "b639f6a885fddcac",
-   "url": "https://balancethroughsimplicity.com/stop-overwhelming-to-do-list",
-   "title_original": "8 Ways to Stop Your To-Do List Overwhelming You (and Finally Get Things Done)",
-   "source": "Balance Through Simplicity",
-   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2026/10/How-to-Stop-Your-To-Do-List-Overwhelming-You-4-683x1024.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-28T13:39:45+00:00",
-   "title_ja": "終わらないタスクリストに圧迫されないための8つの方法",
-   "summary_ja": "終わらないタスクリストに追われて圧倒されてしまう状態を防ぎ、未完了の古いタスクを整理して心を軽くするコツ。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "e94f7046df7e939a",
-   "url": "https://www.bhg.com/declutter-hosting-items-12197342",
-   "title_original": "6 Hosting Items You Should Get Rid of Now to Make Entertaining Easier",
-   "source": "Better Homes & Gardens",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-28T13:20:00+00:00",
-   "title_ja": "来客時に備える持ち物を見直すヒント",
-   "summary_ja": "よりスムーズなおもてなしを実現するために、来客用のアイテムを見直して手放すべきものについて解説している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "e3d6ae6edba46a9f",
-   "url": "https://www.roomie.jp/2026/10/1915461",
-   "title_original": "移動のたびにモタモタ…を解消！ コクヨの新作ガジェットポーチは、PCに貼れちゃうんです",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/261026_harupouch_top.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-28T12:00:02+00:00",
-   "title_ja": "PCに貼れるコクヨのガジェットポーチで整理",
-   "summary_ja": "川瀬アヤさんは忘れ物防止に、PC裏に貼り付けられるコクヨ製ガジェットポーチを活用し、持ち物を最小限に抑える工夫を紹介している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ガジェットポーチ",
-    "ノートパソコン"
-   ],
-   "importance": 2
   }
  ]
 }
