@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T14:19:08.164841+09:00",
+ "updated_at": "2026-11-11T22:48:34.047969+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,41 +27,41 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-11T14:20:37.893027+09:00",
+  "generated_at": "2026-11-11T22:49:57.756295+09:00",
   "days": 3,
-  "period": "11月9日〜11月11日",
+  "period": "11月10日〜11月11日",
   "count": 45,
-  "reduce_count": 24,
-  "own_count": 21,
-  "overview": "不要な予定やモノを削ぎ落として心や暮らしの負担を軽くする減らし方の話題と、厳選したアイテムで日常を快適にする工夫が語られています。",
-  "reduce": "マットや予定など不要なものを手放して家事や管理の手間を減らす実践的な工夫や考え方が多く語られています。",
-  "own": "薄型のモバイルバッテリーや多機能なキャンパーバンなど、日常や旅を軽やかにする持ち物が紹介されています。",
+  "reduce_count": 22,
+  "own_count": 23,
+  "overview": "不要な習慣や物を見直して手放す減らし方の工夫と、日々の暮らしを快適にする便利な持ち物の選び方が幅広く語られています。",
+  "reduce": "暮らしのルールや収納、不要な習慣を見直して、心や家事の負担を軽くするための具体的な体験談や断捨離のアイデアが多く語られています。",
+  "own": "限られたスペースで快適に暮らすタイニーハウスの実例や、移動時や日々の生活を身軽にする便利なガジェットや道具の紹介が目立ちます。",
   "points": [
    {
-    "title": "予定や時間の見直し",
-    "body": "子連れ外出をきっかけに1日の予定を目的地1つに絞るようになった話や、スマートフォンの使用時間を減らして自由な時間を増やすための15の工夫などが語られています。"
+    "title": "マット類の手放し",
+    "body": "家中のマットやシート類を全て手放し、バスマットをタオルで代用することで、洗濯や床掃除の手間を大幅に削減した体験談が語られています。"
    },
    {
-    "title": "手放す・捨て方の工夫",
-    "body": "マットやシート類を全て手放して洗濯の手間を無くした事例や、玄関や冷蔵庫など場所を絞って少しずつ捨て活を行いフリマアプリを活用した記録などが紹介されています。"
+    "title": "服の見直しと習慣",
+    "body": "引き出しに収まる少ない服で暮らしていても着ていない服があることに気づき、手放すことで洗濯の負担が軽くなったエピソードが紹介されています。"
    },
    {
-    "title": "厳選された持ち物",
-    "body": "厚さ約5.5mmの薄型モバイルバッテリーや、広げると毛布になり閉じて寝袋になるエアーマットセットなど、機能的で荷物を軽やかにするアイテムが取り上げられています。"
+    "title": "薄型ガジェットの活用",
+    "body": "重い充電器の負担を減らすため、厚さ約5.5mmの薄型モバイルバッテリーや、厚さ1mmのドリンクホルダーを使って荷物を軽やかにする工夫が述べられています。"
    }
   ],
   "keywords": [
    "断捨離",
-   "ミニマリスト",
-   "キャンパーバン",
-   "カプセルワードローブ",
+   "手放す",
+   "持ち物",
+   "タイニーハウス",
    "モバイルバッテリー"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 15
+   "count": 16
   },
   {
    "name": "バッグ",
@@ -76,15 +76,15 @@
    "count": 6
   },
   {
-   "name": "ベッド",
-   "count": 6
-  },
-  {
    "name": "靴",
    "count": 6
   },
   {
    "name": "タイニーハウス",
+   "count": 5
+  },
+  {
+   "name": "ベッド",
    "count": 5
   },
   {
@@ -152,15 +152,11 @@
    "count": 2
   },
   {
+   "name": "タオル",
+   "count": 2
+  },
+  {
    "name": "タンス",
-   "count": 2
-  },
-  {
-   "name": "ダイネット",
-   "count": 2
-  },
-  {
-   "name": "トラックキャンパー",
    "count": 2
   },
   {
@@ -218,6 +214,10 @@
   {
    "name": "毛布",
    "count": 2
+  },
+  {
+   "name": "洗濯機",
+   "count": 2
   }
  ],
  "sources": [
@@ -244,12 +244,10 @@
   "J-CAST ニュース",
   "Lifehacker",
   "London TV",
-  "Magzter",
   "Martha Stewart",
   "Matt D'Avella",
   "Moneycontrol.com",
   "MonoMax",
-  "News.com.au",
   "No Sidebar",
   "PANews",
   "Parade Magazine",
@@ -280,7 +278,6 @@
   "Women's Health",
   "Yahoo",
   "Yahoo News Singapore",
-  "Yahoo News UK",
   "Yahoo!ニュース",
   "au Webポータル",
   "autoevolution",
@@ -293,7 +290,6 @@
   "openPR.com",
   "qz.com",
   "thegloss.ie",
-  "www.bobvila.com",
   "www.tokenpost.com",
   "うにのゆるシンプルな暮らし",
   "ねとらぼ",
@@ -322,6 +318,324 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "7db9d1105170062f",
+   "url": "https://note.com/yohaku_money_lab/n/ne62f0a3ae3c6",
+   "title_original": "お金を使わないことが目的じゃない。ミニマリストの私がお金をかけるもの",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/334995631/rectangle_large_type_2_99c04a27fa88f063f9f699f363608563.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-11T13:37:47+00:00",
+   "title_ja": "節約が目的ではない。ミニマリストがお金をかけるもの",
+   "summary_ja": "ミニマリストといえばお金を使わないイメージがありますが、筆者にとってミニマリズムは節約そのものが目的ではありません。お金を使わないことではなく、何に価値を置くかという考え方について語られています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "9bcf01d9b6330281",
+   "url": "https://www.roomie.jp/2026/11/1926301",
+   "title_original": "リファのシャンプーブラシはなでるだけ。摩擦レスで髪ツヤサラ",
+   "source": "ROOMIE",
+   "image": "https://www.roomie.jp/wp-content/uploads/2025/07/14.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-11T13:15:10+00:00",
+   "title_ja": "リファのシャンプーブラシを使った摩擦レスな頭皮ケア",
+   "summary_ja": "シャワーだけで済ませがちだったバスタイムの見直しとして、リファのシャンプーブラシを導入。なでるだけで摩擦を抑えながら洗えるため、頭皮のベタつきや洗い残しを防ぎ、ツヤサラな髪へと導く愛用品です。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "シャンプーブラシ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e1e207399e864f08",
+   "url": "https://www.lifehacker.jp/article/2611-lht-mimpicreation-color-codes",
+   "title_original": "コーヒー片手の街歩きが、こんなにラクに。厚さ1mmのドリンクホルダーで両手が自由になった",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/11/09/1bf8ea41-043e-4b32-a6f3-8dee81746a44/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-11T13:15:00+00:00",
+   "title_ja": "厚さ1mmのドリンクホルダーで街歩きの両手を自由に",
+   "summary_ja": "厚さ1mmという非常に薄いドリンクホルダーを使うことで、テイクアウトのコーヒーを持った街歩きでも両手が自由に使えるようになります。ポケットに入るほどの携帯性で、移動時の快適さを高めてくれるアイテムです。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "ドリンクホルダー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "79c1ed2f89355f87",
+   "url": "https://monomax.jp/archives/371491",
+   "title_original": "【着るだけで血行促進】上下1万円切りの本格疲労回復ウェア「リカバリープロラボ」の快眠ギアが冬の室内や旅先で手放せない理由",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2026/11/11zon_260714-151670-scaled-e1794328958341.jpeg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-11T13:00:03+00:00",
+   "title_ja": "上下1万円切りの疲労回復ウェアが冬の室内や旅で手放せない",
+   "summary_ja": "日々のデスクワークや出張の疲れを癒やすため、着るだけで血行促進効果がある「リカバリープロラボ」の快眠ギアを愛用しています。上下で1万円を切る手頃な価格でありながら、冬の室内や旅先で欠かせない持ち物となっています。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "リカバリープロラボ（ウェア）"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4c7edb91c546d831",
+   "url": "https://www.theminimalists.com/the-resistance",
+   "title_original": "The Resistance",
+   "source": "The Minimalists",
+   "image": "https://www.theminimalists.com/wp-content/uploads/2026/11/paris-bilal-yrRLV33ZKAE-unsplash-500x333.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-11T13:00:00+00:00",
+   "title_ja": "執着の裏側にあるものについて考えた記録",
+   "summary_ja": "物に対する執着には二面性があるというテーマについて、自身の経験や視点から掘り下げています。手放すことへの抵抗感や、それに向き合うことで得られる心境の変化について語られている記事です。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "82a81398f2491dcb",
+   "url": "https://note.com/makimura1/n/n67884c53ca21",
+   "title_original": "迷った服を手放すときの最後の1問",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/334979912/rectangle_large_type_2_90ca792eabcb43de7054082fb1f1f3dd.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-11T12:57:23+00:00",
+   "title_ja": "服を手放す前の最後の質問",
+   "summary_ja": "迷っている服を手放す前に、5秒で答える『最後の1問』を自分に問いかける方法を紹介。答えが『捨てる』なら手放し、残すか悩むときの基準になる。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4dd620188c8660f1",
+   "url": "https://tinyhousetalk.com/coslor-cove-off-grid-village-arizona-family",
+   "title_original": "Family of Five Starts Over in an Off-Grid Cob Village in the Arizona Desert",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/coslor-cove-off-grid-village-thumbnail-1.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-11T12:30:00+00:00",
+   "title_ja": "アリゾナ砂漠のオフグリッド・コブハウスで家族5人が新生活",
+   "summary_ja": "サラ一家5人がアリゾナ北部の1,298エーカーの土地に、コブ住宅や土のドーム、温室を備えたオフグリッド共同体『Coslor Cove』で新生活を始めた様子をレポート。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "コブハウス",
+    "土のドーム",
+    "温室"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "78c1f7559a2a57a0",
+   "url": "https://tinyhousetalk.com/13-life-changing-tiny-house-transformations",
+   "title_original": "13 Life-Changing Tiny House Transformations: Sheds, Skoolies, and DIY Builds",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/11700864_10204766626192262_3789919009467524343_n.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-11T12:15:00+00:00",
+   "title_ja": "13件のミニハウス改造で暮らしが変わった例",
+   "summary_ja": "73歳が7,000ドルの納屋シェッドを改装した例や、5人家族がスクールバスでホームスクーリングしながら暮らす例など、13件の小さな住宅改造が生活に与えた変化を紹介。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "納屋シェッド",
+    "スクールバス",
+    "ミニハウス"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "992992b8a28b7703",
+   "url": "https://nlab.itmedia.co.jp/cont/articles/4080181",
+   "title_original": "62歳女性の団地暮らし、“断捨離“でクローゼットがすっきり 無駄のない光景に「すごく参考になります」（1/3） | ライフスタイル ねとらぼ",
+   "source": "ねとらぼ",
+   "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/11/1793860039_cropped_resized_image-3.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-11T11:30:00+00:00",
+   "title_ja": "62歳女性、団地のクローゼットを断捨離で整理",
+   "summary_ja": "62歳の女性が団地で断捨離を実践し、クローゼットを無駄なものを全部処分してすっきりさせた様子が紹介され、同じような暮らしを目指す人の参考になると評価された。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "56a36704b6174735",
+   "url": "https://www.roomie.jp/2026/11/1926143",
+   "title_original": "大事な書類の避難先。Gooder耐火バッグが過去最安のセール",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/81ZLaPPNTcL.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-11T11:15:56+00:00",
+   "title_ja": "耐火バッグ「万事富士」過去最安でセール",
+   "summary_ja": "AmazonスマイルセールでGooderの耐火バッグ「万事富士」が47％オフの過去最安値になり、火災や水害から通帳や重要書類を守る保管袋としておすすめされている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "Gooder 万事富士 耐火バッグ"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "8636652590dd5c8a",
+   "url": "https://www.roomie.jp/2026/11/1921685",
+   "title_original": "アクションカメラや一眼レフをガッツリ愛用する僕が、撮影に必ず持っていく「お守り」",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/261104_CreateMate_37-1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-11T11:00:45+00:00",
+   "title_ja": "撮影必携の「お守り」アイテムを紹介",
+   "summary_ja": "アクションカメラや一眼レフを多用する筆者が、撮影時に必ず持ち歩く「お守り」と呼ぶアイテムを紹介し、撮影現場での安心感を高めるポイントを語っている。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "d23257ca41955c4c",
+   "url": "https://monomax.jp/archives/370261",
+   "title_original": "【大人が選ぶべきUSA製】ニューバランス「990v4」極上のホールド感が凄い！圧倒的な安定感を誇る上品スニーカーをエディターが試し履きレポ",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2026/11/IMG_1716.jpeg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-11T11:00:42+00:00",
+   "title_ja": "ニューバランス990v4を試し履きした感想",
+   "summary_ja": "エディターがUSA製ニューバランス「990v4」を試し履きし、抜群のホールド感と圧倒的な安定性、上品なデザインを評価したレビュー記事。ミニマリストの靴選びの参考になる。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "ニューバランス 990v4"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "db3ae04d59cf9e58",
+   "url": "https://www.youtube.com/watch?v=55P_Losavz4",
+   "title_original": "【今日まで】「断捨離」をあなたの生き方にしませんか？",
+   "source": "やましたひでこ断捨離",
+   "image": "https://i2.ytimg.com/vi/55P_Losavz4/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-11T11:00:38+00:00",
+   "title_ja": "断捨離を生き方に取り入れる動画紹介",
+   "summary_ja": "動画では、やましたひでこ氏が自らの断捨離体験をもとに、日常生活に断捨離を取り入れる意義と具体的な始め方を語り、視聴者にシンプルな暮らしへの転換を促す。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "2ed5ffa52558f764",
+   "url": "https://note.com/holy_mole1734/n/n02dffffdee79",
+   "title_original": "5人家族でも、物を増やさないために意識していること。",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/330466783/rectangle_large_type_2_fb52ab6ce0680c0a80f40d6d8cd40fbc.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-11T11:00:02+00:00",
+   "title_ja": "5人家族で物を増やさないために実践しているルール",
+   "summary_ja": "5人家族で暮らす中、物の数を決めておきストックは原則1つまでにすることで買い物を制限しています。洗濯乾燥機や食洗機などの便利な家電を活用し、必要最低限のタオルや食器で暮らす工夫を紹介しています。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [
+    "洗濯乾燥機",
+    "食洗機",
+    "タオル",
+    "食器"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "a87c776f79f3c556",
+   "url": "https://www.youtube.com/shorts/buXOqfYO71M",
+   "title_original": "【ミニマリスト主婦】ベッドを手放してマットレスに変えた日",
+   "source": "ぴーこ｜ゆるっとミニマルな日常",
+   "image": "https://i3.ytimg.com/vi/buXOqfYO71M/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-11T10:00:09+00:00",
+   "title_ja": "ベッドを手放し、三つ折りマットレスに変えた主婦の話",
+   "summary_ja": "家族の成長や暮らし方の変化に合わせて7年使ったセミダブルのベッドを手放し、三つ折りマットレスに変更しました。コンパクトに収納できて部屋を広く使えるようになったほか、カバーを洗える点も気に入っています。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "セミダブルのベッド",
+    "三つ折りマットレス"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "4f2f31eab2fd2f1e",
+   "url": "https://nosidebar.com/create-your-own-holiday-traditions",
+   "title_original": "Here’s Your Permission to Create Your Own Holiday Traditions",
+   "source": "No Sidebar",
+   "image": "https://nosidebar.com/wp-content/uploads/new-christmas-tradition.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-11T09:00:00+00:00",
+   "title_ja": "義務感を見直し、自分たちの休日の伝統を作る考え方",
+   "summary_ja": "家計を圧迫し負担になるようなこれまでの習慣や休日の伝統を無理に続ける必要はないと説いています。若い親が周囲からのプレッシャーに縛られず、自分たちに合った新しい家族の過ごし方を作る大切さを伝えています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "36b74fa1fc98018f",
+   "url": "https://news.infoseek.co.jp/article/fudge_409978",
+   "title_original": "ミニマリスト5人のルームツアー。余白をつくり心地よく暮らす工夫【軽やかな暮らしのヒント】",
+   "source": "Infoseek",
+   "image": "https://media.image.infoseek.co.jp/isnews/photos/fudge/fudge_409978_0.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-11T06:30:07+00:00",
+   "title_ja": "ミニマリスト5人のルームツアーと心地よく暮らす工夫",
+   "summary_ja": "5人のミニマリストの部屋を巡り、余白を作って心地よく暮らすための工夫や実際の空間を紹介しているルームツアー記事。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "e5ae2ad81c18792a",
+   "url": "https://monomax.jp/archives/371328",
+   "title_original": "【日本刀の切れ味を台所に】これぞメイド・イン・ジャパンの真骨頂！一生モノ確定の最高峰包丁「関孫六」の凄みに迫る",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2027/11/260904-159616_11zon-scaled.jpeg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-11T06:00:58+00:00",
+   "title_ja": "一生モノの包丁「関孫六」の切れ味と魅力",
+   "summary_ja": "日本刀の技術を活かした最高峰の包丁「関孫六」について紹介する記事。長く使える道具に厳選して暮らすミニマリストの持ち物選びの参考になる内容。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "関孫六"
+   ],
+   "importance": 3
+  },
   {
    "id": "9a962d08ce6ae8eb",
    "url": "https://note.com/tomo5485/n/n5a7453626457",
@@ -5528,22 +5842,6 @@
    "importance": 3
   },
   {
-   "id": "bb9e3d8d1069c80b",
-   "url": "https://note.com/gay_curlew3242/n/nce81fa5f0643",
-   "title_original": "ママがご機嫌で『捨て活』したら、なぜか子どもが自分で動き出した理由✨",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/331453761/rectangle_large_type_2_05c273a74a2daf3c9c8880d76e53d1d8.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-02T13:31:34+00:00",
-   "title_ja": "母親が機嫌よく「捨て活」に取り組むことで子供の行動が変わった体験談",
-   "summary_ja": "「片付けなさい」と小言を言うのをやめ、母親自身が楽しく物の削減や片付けに取り組むことで、子供が指示されなくても自発的に動き出すようになった理由や変化について綴った体験談です。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
    "id": "c5d6d4b286c5468e",
    "url": "https://tinyhousetalk.com/tiny-house-builders-ontario-canada",
    "title_original": "7 Tiny House Builders in Ontario, Canada Worth Knowing",
@@ -5770,22 +6068,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 4
-  },
-  {
-   "id": "55317f01b65c8862",
-   "url": "https://note.com/nice_plover381/n/ne9fd8cd2c7ec",
-   "title_original": "手放すことで身軽になる。モノも人間関係も、面倒なことも断捨離",
-   "source": "note #断捨離",
-   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/66596e1854179c64f403ef2452f8354a6f07ba1c.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-02T04:56:20+00:00",
-   "title_ja": "断捨離で身軽になる考えを再確認",
-   "summary_ja": "著者は最近、モノや人間関係、面倒なことを手放す断捨離の意義について改めて考えている。それにより身軽さを実感できると期待している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
   },
   {
    "id": "10bc392eb19a260f",
@@ -7070,282 +7352,6 @@
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
-   "importance": 3
-  },
-  {
-   "id": "92c8d547a428bb45",
-   "url": "https://news.livedoor.com/topics/detail/32696735",
-   "title_original": "【ルームツアー】自炊は「外注してます」！ミニマリストしづきが公開する家賃4万円・1Kの新居",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-30T18:49:02+00:00",
-   "title_ja": "家賃4万円の1Kで暮らすミニマリストのルームツアー",
-   "summary_ja": "自炊をあえて外注しているというミニマリストしづき氏が、家賃4万円の1Kの新居を公開したルームツアー記事。コンパクトな空間での独自の暮らし方や持ち物の工夫を見ることができる。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "ee44d35799eee8f7",
-   "url": "https://www.youtube.com/watch?v=FyycRmiMNgk",
-   "title_original": "5 Things I Do ONCE to Make the Holidays So Much Easier!",
-   "source": "The Minimal Mom",
-   "image": "https://i3.ytimg.com/vi/FyycRmiMNgk/hqdefault.jpg",
-   "media": "youtube",
-   "region": "海外",
-   "published": "2026-10-30T18:11:26+00:00",
-   "title_ja": "ホリデーシーズンを楽にするために一度だけやっておくこと",
-   "summary_ja": "慌ただしいホリデーシーズンを心穏やかに過ごすために、事前に済ませておくべき習慣や片付けの工夫を紹介。日々の暮らしやイベントの準備をスムーズにするためのアイデアが語られている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "f91ef0288e47d9d6",
-   "url": "https://uk.news.yahoo.com/simple-decluttering-trick-experts-recommend-171003936.html",
-   "title_original": "The simple decluttering trick experts recommend to maximise natural light in winter",
-   "source": "Yahoo News UK",
-   "image": "https://s.yimg.com/lo/mysterio/api/1966c611b8a84c861942b1ea5ea69130ffe8b48fc6620e19abc7ce6e455548b1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwoman_home_579%2F672548cc7b4f5b06055e503e6c4fdb64.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-30T17:10:03+00:00",
-   "title_ja": "冬の自然光を取り入れる片付けのコツ",
-   "summary_ja": "冬場に部屋の自然光を最大限に取り入れるため、専門家が推奨するシンプルな片付け術について紹介している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "c596c544d3023f70",
-   "url": "https://www.youtube.com/shorts/nQ11ccl4Bpk",
-   "title_original": "What does generosity mean to you?",
-   "source": "The Minimalists",
-   "image": "https://i3.ytimg.com/vi/nQ11ccl4Bpk/hqdefault.jpg",
-   "media": "youtube",
-   "region": "海外",
-   "published": "2026-10-30T15:29:54+00:00",
-   "title_ja": "寛大さの意味について考える対談",
-   "summary_ja": "モノを手放すだけでなく、他者への寛大さや心のあり方について問いかけ、見つめ直すきっかけを提供する内容。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "110e3e9401f160a6",
-   "url": "https://www.magzter.com/stories/womens-interest/Womans-World/DECLUTTER-IN-5-EASY-STEPS",
-   "title_original": "Declutter in 5 easy steps | Woman's World - womens-interest",
-   "source": "Magzter",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-30T15:15:34+00:00",
-   "title_ja": "5つの簡単なステップでする片付け方法",
-   "summary_ja": "誰でも実践しやすい5つのステップに沿って、効率的に自宅の不要な物を整理し減らしていく方法を解説している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "de8ce13dc8e4ac53",
-   "url": "https://www.bobvila.com/diy/garage-organization-tips",
-   "title_original": "Declutter Your Garage Space With These Smarter Solutions",
-   "source": "www.bobvila.com",
-   "image": "https://www.bobvila.com/wp-content/uploads/2026/10/Atlas-Shelving-7304K-in-garage.jpg?w=1200",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-30T15:12:24+00:00",
-   "title_ja": "ガレージのスペースを賢く片付ける方法",
-   "summary_ja": "物であふれがちなガレージの空間を有効活用するため、スマートな収納や整理のソリューションを提案している。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "efd18f3a46f8fa4b",
-   "url": "https://www.goodhousekeeping.com/uk/house-and-home/household-advice/a74285857/top-things-to-declutter-in-november",
-   "title_original": "7 things to declutter in November, so you can clear the chaos in your home before Christmas",
-   "source": "Good Housekeeping",
-   "image": "https://hips.hearstapps.com/hmg-prod/images/74ff3ad8-92bf-4599-a78a-a0604ee36df3.jpg?crop=1.00xw:0.753xh;0,0.103xh&resize=1200:*",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-30T14:50:34+00:00",
-   "title_ja": "年末に向けて11月に片づけておきたい7つの場所",
-   "summary_ja": "クリスマスを迎える前に家のなかの混乱を解消するため、11月のうちに片づけておくべき7つの対象について紹介している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "2059dc1279436603",
-   "url": "https://www.roomie.jp/2026/10/1907199",
-   "title_original": "深さ3.6cmの「お皿になるマルチグリドル」を冬キャンプの相棒にしたい",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/91b21350440e60b55f7b4b3a3915c6c2-1.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-30T13:00:55+00:00",
-   "title_ja": "冬キャンプの相棒に選びたいお皿になるマルチグリドル",
-   "summary_ja": "機能的な道具選びを大切にする筆者が、冬のキャンプに向けて深さのあるマルチグリドルに注目している記事。長く使えるキャンプギアを紹介している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "マルチグリドル",
-    "三菱Jeep"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "eead2361c0707266",
-   "url": "https://www.news.com.au/branded-content/how-to-declutter-your-wardrobe-like-a-pro/news-story/d47f09224631e5c17b58d5e00e0b56ae",
-   "title_original": "How to declutter your wardrobe like a pro",
-   "source": "News.com.au",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-30T12:44:22+00:00",
-   "title_ja": "プロのようにワードローブを整理整頓する方法",
-   "summary_ja": "ワードローブをすっきりと片づけるための手順やコツを紹介している見出し記事。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "7bf25cbb0ead6022",
-   "url": "https://www.roomie.jp/2026/10/1919612",
-   "title_original": "スケルトンボディがかわいいトラックボール「Nape Pro SE」ならPC作業の集中力がグッと上がる",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/3angled-scaled.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-30T12:30:57+00:00",
-   "title_ja": "スケルトンボディのトラックボール「Nape Pro SE」",
-   "summary_ja": "Keychronとギズモード・ジャパンが共同開発した、スケルトンボディが特徴のトラックボールデバイス。PC作業で愛用できるアイテムとして紹介されている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "トラックボール"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "7f386da62b1566f5",
-   "url": "https://www.roomie.jp/2026/10/1914129",
-   "title_original": "山崎実業の新作「つばを差し込むキャップホルダー」。次にかぶるときも綺麗なままで、身支度までラクになりそう",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/20261029_yamajitsukore_top.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-30T12:00:17+00:00",
-   "title_ja": "山崎実業のキャップホルダーで身支度をラクにする方法",
-   "summary_ja": "家で過ごす時間を好むライターが、慎重なモノ選びの一環として山崎実業の新作キャップホルダーを紹介しています。キャップを綺麗な状態で保ち身支度を楽にするアイテムです。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "キャップホルダー",
-    "キャップ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "1afac030a0212be2",
-   "url": "https://www.theminimalists.com/zoom",
-   "title_original": "Friday Afternoon Minimalist Zoom",
-   "source": "The Minimalists",
-   "image": "https://www.theminimalists.com/wp-content/uploads/2025/11/FAMZ-500x281.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-30T12:00:00+00:00",
-   "title_ja": "ミニマリストたちによるオンライン通話の案内",
-   "summary_ja": "ジョシュアやライアンらとZoomでつながるイベントの告知。ミニマリストの考え方に触れられる内容となっている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "d5ec617445623035",
-   "url": "https://www.lifehacker.jp/article/2610-tiny-hack-porter-bag",
-   "title_original": "15年使ったPORTERの旅バッグ。買い替えようと思っても、結局これが手放せなかった理由",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/10/28/7ee378b8-00b0-4cb3-8254-c1e86c5f1ccf/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-30T12:00:00+00:00",
-   "title_ja": "15年使い続けても手放せなかったPORTERの旅バッグ",
-   "summary_ja": "15年間にわたり愛用し続けているPORTERの旅バッグについて、長く相棒であり続けた理由を振り返っています。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "PORTERの旅バッグ"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "a8e9d0ad1abe634c",
-   "url": "https://www.roomie.jp/2026/10/1917286",
-   "title_original": "イケアの「収納になるスツール」が便利すぎ！安いし何個でも買い足したい名作だった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/20261028_KJUGE_05.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-30T11:30:52+00:00",
-   "title_ja": "イケアの収納になるスツールを使った限られた空間の活用法",
-   "summary_ja": "ヴィンテージマンションで暮らすライターが、安くて便利なイケアの収納になるスツールを紹介しています。限られた空間を使い切るための一石二鳥のアイテムです。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "スツール"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "9b6611f54253d0e2",
-   "url": "https://tinyhousetalk.com/capri-retreat-hard-sided-truck-camper",
-   "title_original": "Capri Retreat: A Lightweight Hard-Sided Truck Camper with a Cab-Over Bed",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/capri-retreat-truck-camper-mountain-sunset.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-30T11:30:00+00:00",
-   "title_ja": "立ち上がれる広さとベッドを備えた軽量トラックキャンパー「Capri Retreat」",
-   "summary_ja": "フルサイズやミッドサイズのトラックに対応する軽量なハードサイド型のトラックキャンパーです。60×80インチのキャブオーバーベッドをはじめ、簡易キッチンやダイネット、立ったまま過ごせる空間を備えており、移動しながら快適に暮らせます。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "トラックキャンパー",
-    "ベッド",
-    "簡易キッチン",
-    "ダイネット"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "50b58d8a495d6833",
-   "url": "https://tinyhousetalk.com/oliver-legacy-elite-ii-fiberglass-travel-trailer",
-   "title_original": "Oliver Legacy Elite II: A 24-Foot Double-Hull Fiberglass Trailer Built for Four Seasons",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/oliver-legacy-elite-ii-twin-axle-aurora-snow.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-30T11:15:00+00:00",
-   "title_ja": "四季を通じて快適に過ごせる24フィートのトラベルトレーラー",
-   "summary_ja": "テネシー州で手作業で作られている24フィートのトラベルトレーラーです。グラスファイバーの二重構造やダクト式ヒーターなどの防寒・通年設備を備え、最大3人が就寝できるコンパクトで機能的な空間を実現しています。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "トラベルトレーラー",
-    "ダクト式ヒーター"
-   ],
    "importance": 3
   }
  ]
