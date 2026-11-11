@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T08:00:01.241191+09:00",
+ "updated_at": "2026-11-11T14:19:08.164841+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,49 +27,45 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-11T08:02:35.639051+09:00",
+  "generated_at": "2026-11-11T14:20:37.893027+09:00",
   "days": 3,
   "period": "11月9日〜11月11日",
   "count": 45,
-  "reduce_count": 22,
-  "own_count": 23,
-  "overview": "不要なものを手放して暮らしを軽くする減らし方の工夫と、限られた空間や移動を快適にする持ち物の実例が多数語られています。",
-  "reduce": "引き出しや食器の全体見直し、スマホ時間の削減など、日常の習慣や不要品を手放して負担を軽くする具体的な方法が紹介されています。",
-  "own": "リュックや薄型モバイルバッテリー、タイニーハウスなど、コンパクトで機能性に優れた持ち物や生活空間の工夫が提案されています。",
+  "reduce_count": 24,
+  "own_count": 21,
+  "overview": "不要な予定やモノを削ぎ落として心や暮らしの負担を軽くする減らし方の話題と、厳選したアイテムで日常を快適にする工夫が語られています。",
+  "reduce": "マットや予定など不要なものを手放して家事や管理の手間を減らす実践的な工夫や考え方が多く語られています。",
+  "own": "薄型のモバイルバッテリーや多機能なキャンパーバンなど、日常や旅を軽やかにする持ち物が紹介されています。",
   "points": [
    {
-    "title": "服や引き出しの見直し",
-    "body": "服の数が少なくても出番のない服があることに気づき、半年から1年着ていない服を手放す引き出しの見直しや、冬コーデで色を取り入れる工夫が語られています。"
+    "title": "予定や時間の見直し",
+    "body": "子連れ外出をきっかけに1日の予定を目的地1つに絞るようになった話や、スマートフォンの使用時間を減らして自由な時間を増やすための15の工夫などが語られています。"
    },
    {
-    "title": "薄型・多機能ガジェット",
-    "body": "厚さ5.5mmの薄型モバイルバッテリーや、iPhoneに密着するCIOの充電器、Ankerの変換プラグなど、日常の荷物を軽やかにするアイテムが紹介されています。"
+    "title": "手放す・捨て方の工夫",
+    "body": "マットやシート類を全て手放して洗濯の手間を無くした事例や、玄関や冷蔵庫など場所を絞って少しずつ捨て活を行いフリマアプリを活用した記録などが紹介されています。"
    },
    {
-    "title": "タイニーハウスと収納",
-    "body": "ベッドルームや多目的室を備えたタイニーハウスの事例や、文字隠し収納、保冷剤を使った消臭剤作りなど、コンパクトな空間を快適に保つ工夫が取り上げられています。"
+    "title": "厳選された持ち物",
+    "body": "厚さ約5.5mmの薄型モバイルバッテリーや、広げると毛布になり閉じて寝袋になるエアーマットセットなど、機能的で荷物を軽やかにするアイテムが取り上げられています。"
    }
   ],
   "keywords": [
-   "減らし方",
    "断捨離",
-   "持ち物",
-   "服",
-   "収納"
+   "ミニマリスト",
+   "キャンパーバン",
+   "カプセルワードローブ",
+   "モバイルバッテリー"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 17
+   "count": 15
   },
   {
    "name": "バッグ",
-   "count": 10
-  },
-  {
-   "name": "靴",
-   "count": 7
+   "count": 9
   },
   {
    "name": "スマートフォン",
@@ -80,7 +76,11 @@
    "count": 6
   },
   {
-   "name": "下着",
+   "name": "ベッド",
+   "count": 6
+  },
+  {
+   "name": "靴",
    "count": 6
   },
   {
@@ -88,11 +88,15 @@
    "count": 5
   },
   {
-   "name": "ベッド",
+   "name": "下着",
    "count": 5
   },
   {
    "name": "モバイルバッテリー",
+   "count": 4
+  },
+  {
+   "name": "冷蔵庫",
    "count": 4
   },
   {
@@ -109,10 +113,6 @@
   },
   {
    "name": "ポーチ",
-   "count": 3
-  },
-  {
-   "name": "冷蔵庫",
    "count": 3
   },
   {
@@ -152,10 +152,6 @@
    "count": 2
   },
   {
-   "name": "ソーラーパネル",
-   "count": 2
-  },
-  {
    "name": "タンス",
    "count": 2
   },
@@ -188,6 +184,14 @@
    "count": 2
   },
   {
+   "name": "冷凍庫",
+   "count": 2
+  },
+  {
+   "name": "太陽光パネル",
+   "count": 2
+  },
+  {
    "name": "家具",
    "count": 2
   },
@@ -213,10 +217,6 @@
   },
   {
    "name": "毛布",
-   "count": 2
-  },
-  {
-   "name": "洗濯機",
    "count": 2
   }
  ],
@@ -286,11 +286,11 @@
   "autoevolution",
   "https://www.thetraveler.org/",
   "loveproperty.com",
-  "mai minimalism",
   "note #ミニマリスト",
   "note #少ない服で暮らす",
   "note #持たない暮らし",
   "note #断捨離",
+  "openPR.com",
   "qz.com",
   "thegloss.ie",
   "www.bobvila.com",
@@ -323,6 +323,151 @@
  "count": 400,
  "items": [
   {
+   "id": "9a962d08ce6ae8eb",
+   "url": "https://note.com/tomo5485/n/n5a7453626457",
+   "title_original": "予定の断捨離",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/334821048/rectangle_large_type_2_d686c24be19086b6a598ae089ea4c802.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-11T05:14:29+00:00",
+   "title_ja": "子連れ外出をきっかけに予定の詰め込みをやめ、行き先を絞るようになった話",
+   "summary_ja": "子連れでの外出の大変さをきっかけに、1日にいくつも予定を入れていた暮らしを見直し、目的地を1つに絞るようになった体験談。予定を削ぎ落として大切なことに集中する姿勢を、心の断捨離として捉えている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "チャイルドシート"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ed97b41fac5c8c95",
+   "url": "https://www.openpr.com/news/4686967/zeagoo-unveils-2026-winter-capsule-wardrobe-fresh-layering",
+   "title_original": "Zeagoo Unveils 2026 Winter Capsule Wardrobe: Fresh Layering Inspirations for Early Winter",
+   "source": "openPR.com",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-11T04:16:08+00:00",
+   "title_ja": "ブランドが冬向けのカプセルワードローブを発表したニュース",
+   "summary_ja": "ファッションブランドのZeagooが、初冬に向けた重ね着の提案を含む2026年冬のカプセルワードローブを発表したニュース記事。最小限のアイテムで着回すワードローブの提案がなされている。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "b23b21548bc9fc29",
+   "url": "https://note.com/minimal_life5929/n/n24426de9c1d7",
+   "title_original": "ミニマリスト宅には、マットはない。敷かない暮らし。",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/334791719/rectangle_large_type_2_cb1697104679b0522c79537747e33adf.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-11T03:37:28+00:00",
+   "title_ja": "家中のマットやシート類を手放し管理の手間を減らした体験談",
+   "summary_ja": "トイレやキッチンなどのマット類やシート類を全て手放した体験談。バスマットはタオルで代用し、何も敷かないことで汚れてもすぐに床を拭けるようになり、洗濯や管理の手間を大幅に削減している。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [
+    "バスマット",
+    "タオル",
+    "トイレマット",
+    "絨毯"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "9146456c08973c96",
+   "url": "https://note.com/ogumakeisuke/n/n3bdd2de115ff",
+   "title_original": "ミニマリストなのに、急須を買った",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/334425161/rectangle_large_type_2_e9a51d77e1e7b707e3eb2a5ef219fd72.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-11T03:08:31+00:00",
+   "title_ja": "ミニマリストが急須を購入した理由",
+   "summary_ja": "ミニリストである筆者が、生活を極力シンプルに保つ中で、和風の急須を新たに買い、必要性と満足感を語っている。持ち物の選択基準が垣間見える。購入に至ったエピソードや、他の持ち物とのバランスについても触れている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "急須"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "7c8d3b5c4574cf9b",
+   "url": "https://www.lifehacker.jp/article/2611android-has-a-built-in-storage-trick-most-people-never-use-jrv",
+   "title_original": "Androidの容量不足、自力で頑張らなくていい。OSにお任せが快適だった",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/02/07/f27a6566-2f09-4331-b8dd-94b5a0064d26/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-11T03:00:00+00:00",
+   "title_ja": "Androidの容量不足をOSに任せて手間削減",
+   "summary_ja": "Android端末のストレージ不足に悩むユーザー向けに、OSが自動でキャッシュを管理する仕組みを紹介し、手動での削除作業をやめて快適に使える方法を解説している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "86dab2ea13b0186b",
+   "url": "https://www.roomie.jp/2026/11/1926399",
+   "title_original": "広げて毛布、閉めれば寝袋に。自宅や車中泊で至福の包まれ感を味わえるよ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/nebukuro4.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-11T02:45:26+00:00",
+   "title_ja": "広げて毛布、閉じて寝袋の多機能セット",
+   "summary_ja": "広げると毛布、折りたたむと寝袋になるエアーマットセットを紹介。自宅や車中泊、災害時にも活躍し、1点で複数シーンに対応できる便利さが魅力だ。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "寝袋",
+    "エアーマット"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e03f67de291811e7",
+   "url": "https://www.yahoo.com/lifestyle/articles/easy-ways-declutter-donate-sell-012800840.html",
+   "title_original": "Easy Ways to Declutter, Donate, and Sell Old Kids' Clothes",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/787836be8bdb841cd0466c05cd90e42e8ae5cc4fa837d89b8280723e2f03c584/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgood_housekeeping_561%2F3b4297755794caee93e0ddd1504b09b9.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-11T01:28:00+00:00",
+   "title_ja": "子ども服を整理して手放し寄付や売却をする方法",
+   "summary_ja": "増えやすい子ども服を上手に整理し、不要になった衣類を寄付したり売却したりして手放すための簡単な方法を紹介しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "子ども服"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5c17e818fec72087",
+   "url": "https://minimalist-fudeko.com/create-a-place-for-his-stuff",
+   "title_original": "夫の出しっぱなしには、片づけてと言うより置き場所を作る",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/10/messy-table.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-11T00:10:46+00:00",
+   "title_ja": "夫の出しっぱなしを防ぐために専用の置き場所を作る",
+   "summary_ja": "ダイニングテーブルの端に物が出しっぱなしになる悩みに対し、片づけを強要するのではなく夫専用の置き場所をあらかじめ作ることで日々のストレスを解消した事例です。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "郵便物",
+    "雑誌"
+   ],
+   "importance": 3
+  },
+  {
    "id": "1b17a4634548c1e1",
    "url": "https://www.roomie.jp/2026/11/1921082",
    "title_original": "普段使いには「黒リュック」一択。Y-3のバックパックが僕の理想にドンピシャでした",
@@ -340,6 +485,25 @@
     "バックパック"
    ],
    "importance": 3
+  },
+  {
+   "id": "7d93ec73ba059454",
+   "url": "https://nlab.itmedia.co.jp/cont/articles/4085149",
+   "title_original": "断捨離中のマダムから譲り受けた着物→“総絞りの振袖”だった！ 職人技光る圧巻の文様に驚きの声（1/2） | 着物 ねとらぼ",
+   "source": "ねとらぼ",
+   "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/11/1794214932_cropped_resized_image-2.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-10T22:30:00+00:00",
+   "title_ja": "断捨離で譲り受けた総絞りの振袖に驚きの声",
+   "summary_ja": "断捨離を進めるマダムから譲り受けた着物が職人技の光る総絞りの振袖であり、その圧巻の文様に驚きの声が集まったという話題です。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "着物",
+    "振袖"
+   ],
+   "importance": 2
   },
   {
    "id": "18d113c397e19813",
@@ -501,6 +665,46 @@
    "category": "部屋・収納",
    "axis": "reduce",
    "things": [],
+   "importance": 3
+  },
+  {
+   "id": "471df874d6d060bf",
+   "url": "https://tinyhousetalk.com/vandoit-do-transit-camper-van-houston",
+   "title_original": "This Versatile Vandoit Transit Camper Folds Its Bed Away to Become a Gear Hauler",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/2026/11/Vandoit-Transit-Camper-Awning-Field.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-10T16:59:18+00:00",
+   "title_ja": "ベッドを収納して荷物運搬にも使えるキャンパーバン",
+   "summary_ja": "アルミニウム製のグリッド内装を採用し、ベッドを持ち上げて荷物運搬用スペースに変えられるキャンピングカーです。300Ahのソーラー電源システムも備えています。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "ソーラー電源システム",
+    "ベッド"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "2e4b9c4c6d6b5b08",
+   "url": "https://tinyhousetalk.com/2017-sprinter-camper-van-motorized-bed-idaho",
+   "title_original": "A Retired Couple’s Sprinter Camper Van with a Motorized Bed",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/2026/11/2017-sprinter-camper-van-desert-canyon.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-10T16:58:03+00:00",
+   "title_ja": "電動ベッドや太陽光パネルを備えた引退夫婦のバン",
+   "summary_ja": "電動ベッドや冷蔵冷凍庫、500Wの太陽光パネル、屋外のプロパンキッチンを備えたキャンピングカーで暮らすリタイア夫婦の車両を紹介しています。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "電動ベッド",
+    "冷蔵庫",
+    "冷凍庫",
+    "太陽光パネル"
+   ],
    "importance": 3
   },
   {
@@ -5584,24 +5788,6 @@
    "importance": 2
   },
   {
-   "id": "7e44d6dff339a7b4",
-   "url": "https://note.com/niyari_bunko/n/nfcc990720a83",
-   "title_original": "AIに『毎日同じ服を着るアニメキャラ方式』の良さを100%緻密に論文風に書かせたら、引くほどガチな8,000文字の狂気的な結晶が返ってきたんだけどwww",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/331257040/rectangle_large_type_2_a3f5750d7b5b848da1f0275d2ca573da.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-02T04:42:37+00:00",
-   "title_ja": "AIが分析した“毎日同じ服”の合理性と節約効果",
-   "summary_ja": "著者は毎朝の服選びが面倒で同じ服を着るループにし、AIに合理性を尋ねた結果、選択疲れの削減や自己表現の一貫性、年間1300万円の節約になる数式まで示された。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "服"
-   ],
-   "importance": 3
-  },
-  {
    "id": "10bc392eb19a260f",
    "url": "https://www.carryology.com/liking/scouted-october-2026s-most-interesting-carry",
    "title_original": "Scouted: October 2026’s Most Interesting Carry",
@@ -5620,26 +5806,6 @@
     "クリーンしやすい装備"
    ],
    "importance": 3
-  },
-  {
-   "id": "ce479c6355e9268b",
-   "url": "https://note.com/20chaku/n/n436412b1c0d9",
-   "title_original": "「お洒落かどうか」は４番目の条件",
-   "source": "note #少ない服で暮らす",
-   "image": "https://assets.st-note.com/production/uploads/images/330457164/rectangle_large_type_2_491ef11e7b95ab9769d64f380f96a8f6.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-02T02:42:56+00:00",
-   "title_ja": "下着や靴を含めて20着で暮らす元アパレル店員の服選び",
-   "summary_ja": "元アパレル店員が下着からバッグまで全20着で暮らしている実例。服を選ぶ際は、気温対応、洗濯への強さ、乾きの早さを重視し、おしゃれさは4番目の条件にしています。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "下着",
-    "靴",
-    "バッグ"
-   ],
-   "importance": 4
   },
   {
    "id": "21abc044a8070c47",
@@ -5824,22 +5990,6 @@
    "published": "2026-11-01T12:49:07+00:00",
    "title_ja": "増えすぎた投資信託や株式のポートフォリオを整理する方法",
    "summary_ja": "ホリデーシーズンの片づけに合わせて、所有している投資信託や株式のポートフォリオを整理しシンプルに整える方法を解説した記事。物理的な物だけでなく、増えすぎて複雑化した金融資産を減らして管理しやすくする手順を紹介しています。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "b88c68392a8f76a8",
-   "url": "https://note.com/witty_elk2357/n/nb2671de2b5e2",
-   "title_original": "【50代60代の支出見直し】アラ還おひとり様がやめた5つの事 ～アラ還おひとり様 #50",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/329512337/rectangle_large_type_2_bef5ff450a3ba843c304d566928d1ec8.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-01T12:47:33+00:00",
-   "title_ja": "50代・60代がやめた5つの習慣と支出見直し",
-   "summary_ja": "アラ還の一人暮らしが身辺整理を始め、モノや人間関係を軽くした体験を語る。老後の生活とお金を真剣に見直す中で、やめた5つの習慣とその苦労を紹介する。",
    "category": "お金・買い方",
    "axis": "reduce",
    "things": [],
@@ -7195,150 +7345,6 @@
    "things": [
     "トラベルトレーラー",
     "ダクト式ヒーター"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "73e75630816331dc",
-   "url": "https://news.livedoor.com/topics/detail/32695420",
-   "title_original": "19時帰宅から眠るまで。50代ひとり暮らしの静かな日常",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-30T11:15:00+00:00",
-   "title_ja": "19時に帰宅してから就寝するまでの50代ひとり暮らしの静かな夜の日常",
-   "summary_ja": "仕事から19時に帰宅したあと就寝するまでの時間をどのように過ごしているか、50代ひとり暮らしの静かな夜のルーティンを紹介しています。過剰な刺激を避け、自分らしい時間を大切にする暮らしの参考になります。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "7aede90bbfd58b0d",
-   "url": "https://www.youtube.com/watch?v=RiCxRypKSHo",
-   "title_original": "【ミニマリスト】80着からワンピ1着になるまで",
-   "source": "ミニマリスト Nozomi",
-   "image": "https://i3.ytimg.com/vi/RiCxRypKSHo/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-10-30T11:00:39+00:00",
-   "title_ja": "80着あった服を1着のワンピースまで減らしたミニマリストの体験談",
-   "summary_ja": "かつて80着所有していた服を1着のワンピースにまで減らした過程を紹介する動画。持ち物を全体で40個まで減らし、小さな子供がいても暮らしや家事を最小限に抑えてスマートに生活するための考え方や手放し方が語られている。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "ワンピース",
-    "服"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "986872a65e6c2874",
-   "url": "https://www.youtube.com/watch?v=uCYh4YoKgrQ",
-   "title_original": "【元汚部屋・超ズボラ】ミニマリストを目指して、捨て続けた結果が衝撃でした。【Mochi】",
-   "source": "ミニマリストsin",
-   "image": "https://i2.ytimg.com/vi/uCYh4YoKgrQ/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-10-30T11:00:39+00:00",
-   "title_ja": "元汚部屋でズボラな人がミニマリストを目指して物を捨て続けた結果",
-   "summary_ja": "部屋が散らかっていた状態からミニマリストを目指し、不用品を捨て続けた結果や変化を伝える動画。ズボラな性格であっても手放しを重ねることで暮らしがどのように変化していったのか、実体験に基づいた様子が語られている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "0408e74d5854a554",
-   "url": "https://monomax.jp/archives/369602",
-   "title_original": "【充電しながらSDカード転送】背面にピタッと密着「スマホの容量不足を一発解消」する6in1カードリーダーの実力を検証",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2026/10/0DSC04990-1-scaled.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-30T11:00:37+00:00",
-   "title_ja": "スマホの容量不足を解消する6in1カードリーダー",
-   "summary_ja": "背面に密着させて充電しながらSDカードの転送ができる、スマホの容量不足を解消する6in1カードリーダーの実力を検証している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "カードリーダー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "6a02bc66c850ccc3",
-   "url": "https://www.youtube.com/watch?v=pt5f9Mfhjrw",
-   "title_original": "【老後不安】50代からのリアルなお金との付き合い方＜ゲスト：青木さやかさん＞",
-   "source": "やましたひでこ断捨離",
-   "image": "https://i1.ytimg.com/vi/pt5f9Mfhjrw/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-10-30T11:00:37+00:00",
-   "title_ja": "50代からの老後不安をやわらげるお金とのリアルな付き合い方",
-   "summary_ja": "やましたひでこ氏とゲストの青木さやか氏が、50代からの老後不安とお金との付き合い方について語る動画。モノの片付けだけでなく、心やお金の捉え方をシンプルに整えて無理なく暮らしていくためのヒントが明かされている。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "2c4eaa5504ce2393",
-   "url": "https://www.roomie.jp/2026/10/1916203",
-   "title_original": "達成したらシールをペタッ。無印良品の「スケジュール付箋紙」で、続かなかった運動を習慣にできた",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/shiro_261027_mujifreehusen_top.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-30T11:00:08+00:00",
-   "title_ja": "無印良品のスケジュール付箋紙を活用して運動を習慣化した話",
-   "summary_ja": "デスクワーク中心で運動不足だった著者が、無印良品の「スケジュール付箋紙」を使って運動習慣を身につけた方法を紹介。目標達成時にシールを貼る仕組みを作ることで、続かなかった運動を楽しく継続できるようになった過程を綴る。",
-   "category": "心・習慣",
-   "axis": "own",
-   "things": [
-    "スケジュール付箋紙",
-    "シール"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ba0eed74df405428",
-   "url": "https://www.youtube.com/watch?v=2G9lWicmK4c",
-   "title_original": "デジタルデトックスで人生が変わる｜ミニマリスト流スマホとの付き合い方",
-   "source": "mai minimalism",
-   "image": "https://i3.ytimg.com/vi/2G9lWicmK4c/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-10-30T11:00:07+00:00",
-   "title_ja": "ミニマリストが実践するデジタルデトックス",
-   "summary_ja": "スマートフォンの過剰使用を減らすため、通知の整理や使用時間の制限などミニマリストが実践するデジタルデトックスの方法を解説。動画制作に使用しているSONY α7CIIとSIGMA 28‑70mmも紹介。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "SONY α7CII",
-    "SIGMA 28-70mm"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "1bbca2deec67b1e7",
-   "url": "https://tinyhousetalk.com/pleasure-way-plateau-ts-sprinter-class-b",
-   "title_original": "Pleasure-Way Plateau TS: A Sprinter Class B with a Big Bathroom and Off-Grid Lithium Power",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/pleasure-way-plateau-ts-passenger-side.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-30T11:00:00+00:00",
-   "title_ja": "大バスルーム搭載のミニマルキャンパーVan",
-   "summary_ja": "22フィート9インチのMercedes SprinterクラスBキャンパーバンPlateau TSは広いバスルームと拡張キッチン、後部ラウンジがクイーンサイズベッドに変形し、リチウムバッテリー・ソーラーパネル・発電機を標準装備している。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "Mercedes Sprinter",
-    "リチウムバッテリー",
-    "ソーラーパネル",
-    "ジェネレーター"
    ],
    "importance": 3
   }
