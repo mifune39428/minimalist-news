@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T23:51:38.338663+09:00",
+ "updated_at": "2026-11-13T08:21:14.026833+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,65 +27,70 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-12T23:54:33.139527+09:00",
+  "generated_at": "2026-11-13T08:22:42.283981+09:00",
   "days": 3,
-  "period": "11月11日〜11月12日",
+  "period": "11月12日〜11月13日",
   "count": 45,
-  "reduce_count": 24,
-  "own_count": 21,
-  "overview": "年末やホリデーシーズンを前にした片付けや持ち物の見直しに関する話題が多数見られ、手放し方や心・習慣の整え方、厳選した服やガジェットの活用法が語られています。",
-  "reduce": "年末やホリデーシーズンに向けた片付けや、服や不要な物を手放すための具体的な基準や考え方が多数紹介されています。",
-  "own": "冬を快適に過ごすためのカプセルワードローブや、ガジェット、バッグ、調理・ケア道具など厳選された持ち物が紹介されています。",
+  "reduce_count": 26,
+  "own_count": 19,
+  "overview": "片付けや物の手放し方に関する実践的な工夫から、ガジェットやカプセルワードローブといった厳選した持ち物の紹介まで、暮らしをシンプルにする多様なアプローチが語られています。",
+  "reduce": "年末や季節の変わり目を前にして、長年悩んだ物や不要なアイテムを手放し、生活環境を整える具体的な手順や心の持ち様についての話題が多く見られます。",
+  "own": "ダウンマフラーやカプセルワードローブなど最小限の服で冬を快適に過ごす工夫や、充電ケーブルやバックパックなどの便利なガジェット類が紹介されています。",
   "points": [
    {
-    "title": "年末前の手放し方",
-    "body": "ホリデーシーズンを迎える前に、収納や片付けの専門家が不要なアイテムの処分を勧める記事や、秋の終わりや年末に向けた家の中の整理整頓術が複数の書き手によって語られています。"
+    "title": "手放す基準と工夫",
+    "body": "長年捨てられずにいた物や親の遺品、秋やホリデーシーズンに向けた不要なアイテムをどのように見極めて手放すか、具体的な基準やアドバイスが語られています。"
    },
    {
-    "title": "服や物の取捨選択",
-    "body": "色が褪せたTシャツをウエスにして減らした事例や、迷ったときの最後の質問、親の遺品整理で形見を1、2点に絞るアプローチなど、手放す基準や思考法が具体的に紹介されています。"
+    "title": "冬のワードローブ",
+    "body": "数を絞ったお気に入りの服だけで冬を快適に乗り切るカプセルワードローブの作り方や、コンパクトに収納できるアウターやマフラーの活用法が紹介されています。"
    },
    {
-    "title": "カプセルワードローブ",
-    "body": "数を絞ったお気に入りの服だけで冬を過ごすカプセルワードローブの構築方法や、冬服を6着や年間15着に抑えて着回すミニマリスト生活の実例が複数取り上げられています。"
+    "title": "充電まわりの整理",
+    "body": "巻き取り式のケーブルやマグネット式のUSB-Cケーブルを導入し、外出時や日々のデジタルデバイスの充電周りをすっきりと整える工夫が取り上げられています。"
    }
   ],
   "keywords": [
    "減らし方",
+   "持ち物",
    "断捨離",
-   "カプセルワードローブ",
+   "収納",
    "ガジェット",
-   "ホリデーシーズン"
+   "カプセルワードローブ"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 17
+   "count": 16
   },
   {
    "name": "バッグ",
    "count": 9
   },
   {
+   "name": "スマートフォン",
+   "count": 7
+  },
+  {
    "name": "バックパック",
    "count": 7
   },
   {
-   "name": "スマートフォン",
-   "count": 6
+   "name": "靴",
+   "count": 5
   },
   {
    "name": "タイニーハウス",
-   "count": 5
+   "count": 4
   },
   {
    "name": "ベッド",
-   "count": 5
+   "count": 4
   },
   {
-   "name": "靴",
-   "count": 5
+   "name": "モバイルバッテリー",
+   "count": 4
   },
   {
    "name": "下着",
@@ -108,11 +113,15 @@
    "count": 3
   },
   {
-   "name": "モバイルバッテリー",
+   "name": "ポーチ",
    "count": 3
   },
   {
    "name": "CIOの充電器",
+   "count": 2
+  },
+  {
+   "name": "USB-Cケーブル",
    "count": 2
   },
   {
@@ -164,11 +173,11 @@
    "count": 2
   },
   {
-   "name": "ポーチ",
+   "name": "マウス",
    "count": 2
   },
   {
-   "name": "マウス",
+   "name": "マグカップ",
    "count": 2
   },
   {
@@ -184,7 +193,7 @@
    "count": 2
   },
   {
-   "name": "収納ボックス",
+   "name": "収納バスケット",
    "count": 2
   },
   {
@@ -210,14 +219,6 @@
   {
    "name": "着物",
    "count": 2
-  },
-  {
-   "name": "羽毛布団",
-   "count": 2
-  },
-  {
-   "name": "腕時計",
-   "count": 2
   }
  ],
  "sources": [
@@ -239,13 +240,13 @@
   "House Beautiful",
   "Howl.Link",
   "Ideal Home",
-  "IndulgExpress",
+  "IndexBox",
   "Infoseek",
   "J-CAST ニュース",
+  "Koubo",
   "Lifehacker",
   "London TV",
   "Martha Stewart",
-  "Matt D'Avella",
   "Moneycontrol.com",
   "MonoMax",
   "No Sidebar",
@@ -257,6 +258,7 @@
   "Sarah Therese",
   "Simple Lionheart Life",
   "Southern Living",
+  "TRILL",
   "The Canberra Times",
   "The Economic Times",
   "The Gadgeteer",
@@ -320,6 +322,196 @@
  "count": 400,
  "items": [
   {
+   "id": "4c012b9da230de38",
+   "url": "https://www.roomie.jp/2026/11/1924365",
+   "title_original": "スマホの時代にあえて液晶なし。18gの超小型カメラが日常を楽しくしてくれそう",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/20261109camera.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-12T23:15:43+00:00",
+   "title_ja": "液晶なし・18gの超小型トイカメラ",
+   "summary_ja": "スマートフォンが普及する現代にあえて持ち歩きたい、重さ約18gの超小型トイデジタルカメラを紹介しています。首から下げて手軽に持ち運べるミニチュアサイズです。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "カメラ",
+    "ストラップ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "eb512d711903712c",
+   "url": "https://news.livedoor.com/topics/detail/32805694/?_clicked=echoes_list",
+   "title_original": "【おうち丸ごと片付け #1】赤ちゃんが生まれる前に家を変えたい！家族で挑む3ヶ月の整理収納｜大阪",
+   "source": "ライブドアニュース",
+   "image": "https://image.news.livedoor.com/newsimage/stf/4/c/4c49e_1845_cf32c4cb_bdea3381.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-12T23:08:00+00:00",
+   "title_ja": "家族で挑む3ヶ月の整理収納計画",
+   "summary_ja": "赤ちゃんが生まれるのを控え、家の中の環境を大きく変えるために家族で3ヶ月間取り組む整理収納の様子を伝えています。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "7c2b6b9e9e02b80c",
+   "url": "https://note.com/gakuwariblog/n/n5680fa6366a8",
+   "title_original": "【雑記】実家暮らし準備！22年振りの子ども部屋復活！",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/331854500/rectangle_large_type_2_ae8332934bcaed72c2013c1f2dc0890d.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-12T23:04:15+00:00",
+   "title_ja": "退職と有給消化を経て実家暮らしへ移行する話",
+   "summary_ja": "40代独身の会社員が退職と有給消化のタイミングで賃貸マンションを引き払い、22年ぶりに実家へ戻って新しい生活を始める準備について綴っています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "3bff6f412f6d968c",
+   "url": "https://www.roomie.jp/2026/11/1920113",
+   "title_original": "これが330円でいいの…？ダイソーの「巻き取り式ケーブル」で、外出時の充電まわりがスッキリした",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/261101_makitori_04.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-12T23:00:46+00:00",
+   "title_ja": "ダイソーの巻き取り式ケーブルで充電周りをスッキリ",
+   "summary_ja": "持ち物を小さく軽くしたいライターが、外出時の充電ケーブルにダイソーの巻き取り式を採用しています。ポーチの中で絡まりやすいコード類をすっきりと整理しています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "充電ケーブル",
+    "モバイルバッテリー",
+    "ポーチ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "3c11b3fee32cd415",
+   "url": "https://note.com/fit_swan6830/n/na5fd2f35c980",
+   "title_original": "５年以上、悩んで捨てられなかった物を発表します！",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/335226706/rectangle_large_type_2_5640624ff42515f25d0564e5e6daea47.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-12T23:00:12+00:00",
+   "title_ja": "5年以上悩んで手放せなかった物についての話",
+   "summary_ja": "片付け計画の一環として、5年以上もの間ずっと悩み続けてどうしても捨てられずにいた物について振り返り、手放すまでの葛藤を明かしています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "fdcdd31fc82f2d75",
+   "url": "https://www.indexbox.io/blog/clear-woven-storage-basket-market-forecast-to-2035-driven-by-visual-organization-and-design-led-home-storage-demand",
+   "title_original": "Clear Woven Storage Basket Market To 2035: Visual Organization and Design Demand Drive Growth - News and Statistics",
+   "source": "IndexBox",
+   "image": "https://www.indexbox.io/landing/img/blog/custom-report-v2/world-kw-clear-woven-storage-basket-840-market-analysis-forecast-size-trends-and-insights-1794523882.webp",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-12T22:51:03+00:00",
+   "title_ja": "編み込み収納バスケットの需要が2035年まで伸長",
+   "summary_ja": "市場調査によると、見た目のすっきり感とデザイン性が評価され、編み込み収納バスケットの売上が今後10年で大幅に拡大すると予測されている。ミニマリストの整理術でも注目される商品だ。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "収納バスケット"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "8ed4c7dd1a4db866",
+   "url": "https://note.com/chiisana_hana/n/nd50c423ee923",
+   "title_original": "食器を減らしたら、食器洗いをためなくなった",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/330626107/rectangle_large_type_2_ff03f0958fd2914c9ab4a2f379cfd56c.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-12T20:53:05+00:00",
+   "title_ja": "食器を減らして洗い物をためなくなった人の話",
+   "summary_ja": "たくさんのマグカップやグラス、食器類を手放したところ、シンクに食器をため込んでしまう悪循環から抜け出せました。物が減ったことで、日々の食器洗いがスムーズになった体験談です。",
+   "category": "キッチン・食",
+   "axis": "reduce",
+   "things": [
+    "マグカップ",
+    "グラス",
+    "スプーン",
+    "箸置き"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "31fc0b8113f80c79",
+   "url": "https://www.youtube.com/watch?v=cKmBEHSStWs",
+   "title_original": "Why I got rid of all of my stuff",
+   "source": "The Minimal Mom",
+   "image": "https://i4.ytimg.com/vi/cKmBEHSStWs/hqdefault.jpg",
+   "media": "youtube",
+   "region": "海外",
+   "published": "2026-11-12T19:04:08+00:00",
+   "title_ja": "持ち物をすべて手放した理由を語る動画",
+   "summary_ja": "多くの物を手放す決断をした経緯について語っている動画。自宅の片付けや家事管理をサポートするための取り組みについても触れられている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "2b9df47d312230d2",
+   "url": "https://www.goodhousekeeping.com/uk/house-and-home/household-advice/a74413364/how-to-make-home-feel-tidy-after-decluttering",
+   "title_original": "‘It looks exactly the same': Why decluttering hasn't made your home feel tidier – and what will",
+   "source": "Good Housekeeping",
+   "image": "https://hips.hearstapps.com/hmg-prod/images/f7030176-0d83-4615-9ad9-7d2b60d1f06b.jpg?crop=1xw:0.7496463932107497xh;center,top&resize=1200:*",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-12T18:39:22+00:00",
+   "title_ja": "片付けをしても部屋がすっきり片付かない理由",
+   "summary_ja": "物を減らしたにもかかわらず部屋がすっきりと感じられない原因と、本当に効果のある部屋の整え方について解説している。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "617f0d2a863fabd9",
+   "url": "https://koubo.jp/press-release/prtimes/c129409_r475",
+   "title_original": "SNS総フォロワー数19万人超、整理収納アドバイザーひでまるによる新刊『自分らしさは、部屋に出る』2026年12月4日（金）発売",
+   "source": "Koubo",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-12T15:32:15+00:00",
+   "title_ja": "整理収納アドバイザーひでまるの新刊書籍の発売",
+   "summary_ja": "SNSで人気の整理収納アドバイザーひでまる氏による新刊書籍『自分らしさは、部屋に出る』の発売情報。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "94277982cd694098",
+   "url": "https://nosidebar.com/simplify-weekend",
+   "title_original": "5 Ways to Simplify Your Weekend",
+   "source": "No Sidebar",
+   "image": "https://nosidebar.com/wp-content/uploads/simplify-weekend.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-12T15:00:00+00:00",
+   "title_ja": "週末の過ごし方をシンプルにする5つの方法",
+   "summary_ja": "休日に対する過度な期待や予定の詰め込みを見直し、リフレッシュするための時間と空間を確保して週末をシンプルにする方法について解説している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "dfd68535ced3682a",
    "url": "https://note.com/totonoeru_/n/nc36f1716987f",
    "title_original": "訳あって30万円を稼ぐ記録（残160,000円）Tシャツをウエスに",
@@ -357,6 +549,27 @@
     "ノート"
    ],
    "importance": 3
+  },
+  {
+   "id": "6cd0d6c6ba067a14",
+   "url": "https://www.roomie.jp/2026/11/1926306",
+   "title_original": "磁石で「カチッ」で充電開始。USB-Cケーブル全部これにしたい",
+   "source": "ROOMIE",
+   "image": "https://www.roomie.jp/wp-content/uploads/2025/05/8.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-12T13:15:29+00:00",
+   "title_ja": "マグネット式でスムーズに接続できる充電ケーブル",
+   "summary_ja": "日々のデジタルデバイスの充電で、端子の位置合わせやケーブルを挿す手間にストレスを感じている人の体験談。マグネットでカチッと接続できるUSB-Cケーブルを導入し、毎日の小さな負担を軽減している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "USB-Cケーブル",
+    "スマートフォン",
+    "ラップトップ",
+    "タブレット"
+   ],
+   "importance": 2
   },
   {
    "id": "b80f309fb9140ba7",
@@ -563,6 +776,22 @@
    "axis": "reduce",
    "things": [],
    "importance": 4
+  },
+  {
+   "id": "b386a04ab60e51fb",
+   "url": "https://trilltrill.jp/articles/5178148",
+   "title_original": "元カレとの思い出、古びた下着…。失恋をきっかけに捨ててみたら、気持ちがいい！",
+   "source": "TRILL",
+   "image": "https://media.trilltrill.jp/articles/5178148/featured-image.1f7d39e0624c1bee1385212e28c9fb78?w=1200",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-12T07:05:00+00:00",
+   "title_ja": "失恋をきっかけに不要な物を手放した体験談",
+   "summary_ja": "失恋を転機として、古びた下着や元恋人との思い出の品を思い切って処分したところ、すっきりと気持ちの良い状態になったという話。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
   },
   {
    "id": "b912089194b7946d",
@@ -5797,25 +6026,6 @@
    "importance": 3
   },
   {
-   "id": "d7ab7be557db4800",
-   "url": "https://note.com/arc_tech/n/n309bd0f74020",
-   "title_original": "ミラネーゼループを手放す",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/331693477/rectangle_large_type_2_98b348aff9ac890aacee620122cc5d75.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-03T13:33:07+00:00",
-   "title_ja": "Apple Watchのミラネーゼループを手放した話",
-   "summary_ja": "デスク上の断捨離を進める中で、使用頻度の少ないApple Watchのバンドを見直し、ミラネーゼループを手放した。現在はスポーツバンドや非純正バンドなど3本を使用している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "Apple Watchのバンド",
-    "スポーツバンド"
-   ],
-   "importance": 3
-  },
-  {
    "id": "4f633bcc5d620cd7",
    "url": "https://www.roomie.jp/2026/11/1916274",
    "title_original": "「ここだけ照らしたい」にちょうどいい。コールマンのハンズフリーライトで探し物",
@@ -5880,22 +6090,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
-  },
-  {
-   "id": "2a168ac79c99909d",
-   "url": "https://note.com/honest_quoll7150/n/nc1260a9ba56d",
-   "title_original": "50代、持たない暮らしが心地よくなっていた。",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/329032545/rectangle_large_type_2_d8831db7a7178318bf1bafed30ca4c0b.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-03T12:09:20+00:00",
-   "title_ja": "50代でインテリアを見直し、物を減らして心地よく暮らす",
-   "summary_ja": "40代からの断捨離を経て、現在は物がほとんどないすっきりした家で暮らす人の話。部屋が整ったことで自炊が増え、投資にお金を回すなど考え方や時間の使い方も変わっていった。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
   },
   {
    "id": "40a2b58282651376",
@@ -5984,24 +6178,6 @@
     "頭皮スクラブ"
    ],
    "importance": 2
-  },
-  {
-   "id": "cc1cb220e04a6260",
-   "url": "https://note.com/tegeume/n/n230900eefa08",
-   "title_original": "安いという理由で買う服",
-   "source": "note #少ない服で暮らす",
-   "image": "https://assets.st-note.com/production/uploads/images/331787094/rectangle_large_type_2_3869c321a79fa12bb30cf6941933f286.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-03T10:42:35+00:00",
-   "title_ja": "安さ優先で服を買って手放す失敗と長く着る服の共通点",
-   "summary_ja": "価格の安さだけで服を選んでワンシーズンで処分してしまう失敗を振り返り、長く愛用できる服の条件を考察している。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "服"
-   ],
-   "importance": 4
   },
   {
    "id": "8a463047b9bbb82d",
@@ -7149,187 +7325,6 @@
    "axis": "reduce",
    "things": [
     "もらい物"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "554ff0ccd8b73cae",
-   "url": "https://www.youtube.com/watch?v=XrZ4Vozni3o",
-   "title_original": "They sold us a lie (and it’s still working)",
-   "source": "Matt D'Avella",
-   "image": "https://i1.ytimg.com/vi/XrZ4Vozni3o/hqdefault.jpg",
-   "media": "youtube",
-   "region": "海外",
-   "published": "2026-10-31T21:35:30+00:00",
-   "title_ja": "彼らが私たちに嘘を売った（今も続く）",
-   "summary_ja": "動画では現代の消費文化が抱える誤情報や、無駄な購買を促す仕組みを批判し、ミニマリスト的視点から本当の必要性を見極める方法を提案している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "311821dba9193a11",
-   "url": "https://www.autoevolution.com/news/this-20-foot-tiny-home-on-wheels-has-everything-two-people-need-and-a-price-tag-under-50k-277816.html",
-   "title_original": "This 20-Foot Tiny Home on Wheels Has Everything Two People Need and a Price Tag Under $50K",
-   "source": "autoevolution",
-   "image": "https://s1.cdn.autoevolution.com/images/news/this-20-foot-tiny-home-on-wheels-has-everything-two-people-need-and-a-price-tag-under-50k-277816_1.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-31T19:06:26+00:00",
-   "title_ja": "5万ドル以下で二人暮らしに必要な物が揃う20フィートの移動式タイニーハウス",
-   "summary_ja": "価格が5万ドル以下に抑えられた、全長20フィートの車輪付きタイニーハウスが紹介されています。コンパクトな空間の中に、二人での生活に必要な機能や装備がすべて収められており、簡素で無駄のない住まい方の例となっています。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "a9025ee5c553f0bf",
-   "url": "https://thesimplicityhabit.com/clear-organizing-bins",
-   "title_original": "How Clear Organizing Bins Are Actually Creating More Work for You",
-   "source": "The Simplicity Habit",
-   "image": "https://thesimplicityhabit.com/wp-content/uploads/2026/10/horizontal-blog-post-2026-10-31T101031.200-1024x683.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-31T18:53:11+00:00",
-   "title_ja": "透明な収納ボックスが部屋を片づけづらくし手間を増やしてしまう理由",
-   "summary_ja": "部屋を整えるために透明な収納ボックスを使って仕分けをしても、収納の根本的な解決にならず余計な手間が増える理由を解説した記事です。収納グッズを買い足す前に見直すべき整理の考え方や代替案を紹介しています。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "収納ボックス"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "ebd316adcb6f2861",
-   "url": "https://www.indulgexpress.com/ampstories/web-stories/2026/Oct/31/declutter-these-5-hotspots-from-your-home-before-the-festive-season",
-   "title_original": "Declutter these 5 hotspots from your home before the festive season",
-   "source": "IndulgExpress",
-   "image": "https://cf-images.assettype.com/indulgexpress%2F2026-10-29%2Fqaxzew7x%2Fpexels-karlsolano-5317149.jpg?rect=0%2C460%2C1936%2C1016&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-10-31T17:26:12+00:00",
-   "title_ja": "祝祭シーズン前に片付けたい家の中の5箇所",
-   "summary_ja": "イベントや祝祭の時期を迎える前に、自宅の中で特に物が溜まりやすい5箇所のエリアを整理・片付けすることが推奨されている。不用品を減らして部屋をすっきりと整えることで、心地よい住空間を作ることができる。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "7755c85544b6ca1e",
-   "url": "https://tinyhousetalk.com/halloween-tiny-homes",
-   "title_original": "Halloween Tiny Homes: Cabins in the Dark Woods, Gothic Castles, Caves and Storybook Cottages",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/cec689fbf0e99c268b07a157dfe260b8.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-10-31T16:39:20+00:00",
-   "title_ja": "ハロウィン風の様々なタイニーハウスの事例",
-   "summary_ja": "黒い外観のAフレームハウスや森奥のキャビン、洞窟や灯台などを活用した個性的なタイニーハウスが紹介されている。ハロウィンの季節に合わせたユニークな小さな住まいのスタイルや建築の事例を集めた内容となっている。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "タイニーハウス",
-    "キャビン",
-    "コテージ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "075c0f0594efca86",
-   "url": "https://www.roomie.jp/2026/10/1919334",
-   "title_original": "大型テレビやプロジェクターはいらない。800インチの大画面を映し出す映像視聴ガジェット",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/cornmi1.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-31T14:45:45+00:00",
-   "title_ja": "大型テレビの代わりに導入したいヘッドマウントディスプレイ",
-   "summary_ja": "大きなテレビやプロジェクターを置くスペースがない課題を解決するため、ヘッドマウントディスプレイを活用している事例。限られた空間の中でも大画面で映像を楽しむための、省スペースな視聴環境の作り方を紹介している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ヘッドマウントディスプレイ",
-    "CORNMI X7 Lite"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "4d70e5eab65c78ee",
-   "url": "https://www.lifehacker.jp/article/2610-lht-clamp-monitor-stand",
-   "title_original": "「しまう」でも「置く」でもなく。「挟んで浮かす」モニター台の合理性",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/10/27/0b873bf3-ae40-48a0-b62f-8742b8245dd9/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-31T13:15:00+00:00",
-   "title_ja": "クランプ式モニター台でデスク周りを浮かす工夫",
-   "summary_ja": "サンワサプライのクランプ式モニター台を使って、デスクの収納スペースを広げ快適な作業環境を整える方法を紹介している。脚が邪魔にならない設計で、机の上をすっきりと見せる工夫が語られている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "モニター台"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "781927c2c788c603",
-   "url": "https://www.roomie.jp/2026/10/1916911",
-   "title_original": "体の厚みに悩む仲間へ。「好きな服を凛として着たい」を叶えてくれた無印良品のインナー",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/20261027_mujitanktop_16.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-31T12:30:50+00:00",
-   "title_ja": "無印良品のインナーで好きな服を着こなす人の話",
-   "summary_ja": "体の厚みに悩むライターが、自分のスタイルに合わせて選んだ無印良品のインナーを紹介し、お気に入りの服を着る工夫を語る。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "インナー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "78f98dc058816349",
-   "url": "https://www.roomie.jp/2026/10/1914473",
-   "title_original": "キッチンワゴンは便利だけど、生活感が気になる。ALNOAの「木目×シルバー」なら収納とインテリアを両立できそう",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/261023_alnoa_wirebasketwagon_01.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-31T12:00:49+00:00",
-   "title_ja": "ALNOA木目×シルバーのキッチンワゴンで収納とインテリアを両立",
-   "summary_ja": "札幌在住のフリーライターが2LDKのキッチンスペースにキャスター付きのALNOA木目×シルバー ワゴンを導入し、収納力を増やしつつインテリア感を保った実例を紹介。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "キッチンワゴン",
-    "ALNOA",
-    "キャスター付きワゴン"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "dc7d0b84c4ac643f",
-   "url": "https://www.roomie.jp/2026/10/1917088",
-   "title_original": "ベッド・ソファ下のデッドスペースを有効活用！ 山崎実業の台車があれば掃除もラクだよ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/261027_daisha_top-scaled.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-10-31T11:30:02+00:00",
-   "title_ja": "ベッドやソファ下の収納と掃除をラクにする山崎実業の台車",
-   "summary_ja": "デッドスペースになりがちなベッドやソファの下を有効活用できる、山崎実業の台車を紹介しています。物を取り出しやすくするだけでなく、日々の掃除の手間を減らす工夫として取り入れられています。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "山崎実業の台車",
-    "ベッド",
-    "ソファ"
    ],
    "importance": 3
   }
