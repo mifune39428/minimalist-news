@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T08:21:14.026833+09:00",
+ "updated_at": "2026-11-13T14:43:28.869477+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,36 +27,35 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-13T08:22:42.283981+09:00",
+  "generated_at": "2026-11-13T14:44:37.303940+09:00",
   "days": 3,
   "period": "11月12日〜11月13日",
   "count": 45,
   "reduce_count": 26,
   "own_count": 19,
-  "overview": "片付けや物の手放し方に関する実践的な工夫から、ガジェットやカプセルワードローブといった厳選した持ち物の紹介まで、暮らしをシンプルにする多様なアプローチが語られています。",
-  "reduce": "年末や季節の変わり目を前にして、長年悩んだ物や不要なアイテムを手放し、生活環境を整える具体的な手順や心の持ち様についての話題が多く見られます。",
-  "own": "ダウンマフラーやカプセルワードローブなど最小限の服で冬を快適に過ごす工夫や、充電ケーブルやバックパックなどの便利なガジェット類が紹介されています。",
+  "overview": "不用品や服を手放す具体的な工夫や、持ち物を減らすための考え方が語られる一方、マグネットクリップやコンパクトなガジェットなど日常の負担を軽くする便利なアイテムも多数紹介されています。",
+  "reduce": "メルカリやAIを活用した手放し方、食器や服の具体的な減らし方のほか、片付けのメンタル面や暮らしを整える習慣に焦点を当てた記事が多く見られます。",
+  "own": "コード類をすっきりとまとめる充電アイテムや、薄型・軽量でかさばらないスマートウォッチやダウンマフラーなど、日常を快適にする持ち物が取り上げられています。",
   "points": [
    {
     "title": "手放す基準と工夫",
-    "body": "長年捨てられずにいた物や親の遺品、秋やホリデーシーズンに向けた不要なアイテムをどのように見極めて手放すか、具体的な基準やアドバイスが語られています。"
+    "body": "メルカリでの不用品売買にChatGPTを活用する方法や、5年以上悩んだ物や未来の引っ越し用に保管していたインテリアを見直して手放す基準について語られています。"
    },
    {
-    "title": "冬のワードローブ",
-    "body": "数を絞ったお気に入りの服だけで冬を快適に乗り切るカプセルワードローブの作り方や、コンパクトに収納できるアウターやマフラーの活用法が紹介されています。"
+    "title": "収納とすっきり暮らす工夫",
+    "body": "マグネットがつかない場所でも吊るせる磁気クリップやセリアのアウター掛け、ダイソーの巻き取り式ケーブルなど、小物を整理して空間をすっきり保つアイテムが紹介されています。"
    },
    {
-    "title": "充電まわりの整理",
-    "body": "巻き取り式のケーブルやマグネット式のUSB-Cケーブルを導入し、外出時や日々のデジタルデバイスの充電周りをすっきりと整える工夫が取り上げられています。"
+    "title": "デジタルや服の軽量化",
+    "body": "重さ約18gの超小型トイカメラやポケットに入るモンベルのダウンマフラーなど、荷物を小さく軽くして外出時や日々の持ち運びを快適にする工夫が提案されています。"
    }
   ],
   "keywords": [
-   "減らし方",
-   "持ち物",
-   "断捨離",
-   "収納",
-   "ガジェット",
-   "カプセルワードローブ"
+   "メルカリ",
+   "整理収納アドバイザー",
+   "ダウンマフラー",
+   "スマートウォッチ",
+   "断捨離"
   ]
  },
  "things": [
@@ -70,7 +69,7 @@
   },
   {
    "name": "スマートフォン",
-   "count": 7
+   "count": 8
   },
   {
    "name": "バックパック",
@@ -97,10 +96,6 @@
    "count": 4
   },
   {
-   "name": "冷蔵庫",
-   "count": 4
-  },
-  {
    "name": "Tシャツ",
    "count": 3
   },
@@ -114,6 +109,14 @@
   },
   {
    "name": "ポーチ",
+   "count": 3
+  },
+  {
+   "name": "冷蔵庫",
+   "count": 3
+  },
+  {
+   "name": "腕時計",
    "count": 3
   },
   {
@@ -149,6 +152,10 @@
    "count": 2
   },
   {
+   "name": "スマートウォッチ",
+   "count": 2
+  },
+  {
    "name": "スーツケース",
    "count": 2
   },
@@ -181,11 +188,7 @@
    "count": 2
   },
   {
-   "name": "リュック",
-   "count": 2
-  },
-  {
-   "name": "レコードプレーヤー",
+   "name": "ランタン",
    "count": 2
   },
   {
@@ -209,10 +212,6 @@
    "count": 2
   },
   {
-   "name": "毛布",
-   "count": 2
-  },
-  {
    "name": "洗濯機",
    "count": 2
   },
@@ -228,7 +227,6 @@
   "Be More with Less",
   "Better Homes & Gardens",
   "CBS News",
-  "CSP Times",
   "Carryology",
   "Country Living Magazine",
   "Designboom",
@@ -321,6 +319,132 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "bc25c73bb85011b2",
+   "url": "https://note.com/ai_saikyo_copipe/n/n76de67950539",
+   "title_original": "メルカリでの売り方【初心者向け】ChatGPTで値付け・出品文・売れない時の改善をするAIテンプレ12選",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/331664327/rectangle_large_type_2_ffc50abf133f7a442043f9c9c250e6ce.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-13T05:29:05+00:00",
+   "title_ja": "ChatGPTを活用してメルカリで不用品をスムーズに売る方法",
+   "summary_ja": "着なくなった服など家にある不用品をメルカリで手放す際、AIを活用する手法を紹介した記事。ChatGPTを使った値付けや出品文の作成、売れない時の改善に役立つ具体的なテンプレートについてまとめている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b53cc668e1b41f28",
+   "url": "https://www.roomie.jp/2026/11/1927302",
+   "title_original": "ランタン用の「挟むマグネットフック」に目からウロコ！室内、車内でも場所を選ばずひっかけ収納が作れるぞ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/rm261111_11.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-13T05:00:34+00:00",
+   "title_ja": "マグネットがつかない場所でも挟んで吊るせる強力磁気クリップ",
+   "summary_ja": "マグネットフックが使えない場所でも挟んで設置できるSoomloomの超強力磁気クリップを紹介する記事。室内や車内など場所を選ばずにひっかけ収納を作り出すことができ、ランタンなどの吊り下げに活用できる道具を取り上げている。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "マグネットフック",
+    "超強力磁気クリップ",
+    "ランタン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c89a2b463d14f3d4",
+   "url": "https://note.com/creat_and/n/nca5b10c42063",
+   "title_original": "東京で成功した気でいたけど、ノイズは消えなかった｜元テレビマンが、東京を降りるまで",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/329081428/rectangle_large_type_2_00cd5794dedb88306bddc877ff6fd7e4.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-13T04:30:48+00:00",
+   "title_ja": "都会のノイズを手放し東京を離れる決断をした元テレビマンの手記",
+   "summary_ja": "東京での仕事や暮らしに区切りをつけ、会社を辞めて東京を降りる決断をした元テレビマンのエッセイ。成功を感じつつも消えなかった都市のノイズと向き合い、自らの生き方を見直して手放すまでの経緯を綴っている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "2508a84bbcff51ad",
+   "url": "https://topics.smt.docomo.ne.jp/article/tamahiyo/life/tamahiyo-100593",
+   "title_original": "セリアetc.｜脱ぎっぱなしはもう卒業！整理収納アドバイザーもおすすめのアウターかけ4選（たまひよONLINE）",
+   "source": "ｄメニューニュース",
+   "image": "https://img.topics.smt.news.goo.ne.jp/picture/tamahiyo/m_tamahiyo-100593.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-13T02:55:00+00:00",
+   "title_ja": "脱ぎっぱなしを防ぐ整理収納アドバイザーおすすめのアウター掛け",
+   "summary_ja": "服の脱ぎっぱなしを防ぎ、室内をすっきりと整理するために役立つアウター掛けを紹介する記事。整理収納アドバイザーがおすすめするセリアなどの便利な収納用アウター掛け4選を取り上げている。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "アウター掛け"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "dd3cf413e3ae6dd1",
+   "url": "https://www.sanyonews.jp/article/1988269?kw=%E7%A6%8F%E7%A5%88",
+   "title_original": "綾瀬はるか、真っ赤なバブル時代風スーツ着こなす 断捨離できない自分を反省「“いつか使うかも軍団”の壁が超えられない」",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/8/8/a/6/88a691e906f7e0acd80f9dde9eb2e2ee_1.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-13T01:17:30+00:00",
+   "title_ja": "綾瀬はるかさんが語る断捨離の悩み",
+   "summary_ja": "断捨離ができない自身を振り返り、いつか使うかもしれない物の壁をなかなか超えられないと語っている記事です。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "c48585fd271a8abf",
+   "url": "https://www.roomie.jp/2026/11/1927517",
+   "title_original": "フルメタルの質感がドンピシャに好みだ。高級感たっぷりのスマートウォッチ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/futuregopro22.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-13T00:45:10+00:00",
+   "title_ja": "アナログ好きに刺さるフルメタルのスマートウォッチ",
+   "summary_ja": "アナログ時計の見た目を好みつつも便利さを求めて選んだ、高級感のあるフルメタルボディのスマートウォッチを紹介しています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "スマートウォッチ",
+    "腕時計"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4743f2c3c130ebba",
+   "url": "https://minimalist-fudeko.com/dont-store-for-future-home",
+   "title_original": "次の家用に取ってあるカーテンや照明で、今の収納をふさがない",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2021/06/inside-of-the-oshiire.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-13T00:10:56+00:00",
+   "title_ja": "未来の引っ越し用に保管しているインテリアを手放す考え方",
+   "summary_ja": "前の家で使っていたカーテンや照明を「いつかまた引っ越したら使うかも」と保管し続けていませんか。引っ越しの予定が決まっていないのであれば、現在の収納場所は今使うもののために開けておくべきだという手放しの視点を提案しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "カーテン",
+    "照明"
+   ],
+   "importance": 4
+  },
   {
    "id": "4c012b9da230de38",
    "url": "https://www.roomie.jp/2026/11/1924365",
@@ -448,6 +572,22 @@
    "importance": 4
   },
   {
+   "id": "2caf8123eb961f27",
+   "url": "https://www.thespruce.com/things-to-get-rid-of-before-2027-12200583",
+   "title_original": "If You’re Tired of Clutter, Getting Rid of These 5 Things Could Make Your Home Feel More Organized in 2027",
+   "source": "The Spruce",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-12T19:26:00+00:00",
+   "title_ja": "部屋をすっきりさせるために手放すとよい5つの物",
+   "summary_ja": "散らかった部屋を片付けるために、手放すべき5つのアイテムについて解説している。家の中を整理整頓するためのヒントがわかる。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "31fc0b8113f80c79",
    "url": "https://www.youtube.com/watch?v=cKmBEHSStWs",
    "title_original": "Why I got rid of all of my stuff",
@@ -461,6 +601,24 @@
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
+   "importance": 3
+  },
+  {
+   "id": "59f645240a457ff1",
+   "url": "https://lifehacker.com/tech/what-i-wish-i-knew-before-getting-a-foldable-phone",
+   "title_original": "Five Things I Wish I'd Known Before Getting a Foldable Phone",
+   "source": "Lifehacker",
+   "image": "https://lifehacker.com/imagery/articles/01M76F9JQH0VKPG6EK3TGA43Y0/hero-image.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-12T19:00:00+00:00",
+   "title_ja": "折りたたみ式スマートフォンを実際に使って分かったこと",
+   "summary_ja": "折りたたみ式スマートフォンを使う中で見えてきた、一見すると分かりにくい長所と短所について実体験をもとに振り返る。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "スマートフォン"
+   ],
    "importance": 3
   },
   {
@@ -572,6 +730,22 @@
    "importance": 2
   },
   {
+   "id": "8e4e7cfecd6d8e3c",
+   "url": "https://tinyhousetalk.com/bensfield-treehouse",
+   "title_original": "Bensfield Treehouse: A Round Treehouse Built Around an Oak in East Sussex",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/Bensfield-Treehouse-Yurt-Cabin-0014.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-12T12:30:00+00:00",
+   "title_ja": "大きなオークの木を囲む円形のツリーハウス",
+   "summary_ja": "イギリスの農地にある、中央をオークの幹が貫通するサファリスタイルの円形ツリーハウスの紹介。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "b80f309fb9140ba7",
    "url": "https://tinyhousetalk.com/man-builds-tiny-house",
    "title_original": "An Alaska Builder’s 8×12 Tiny Cabin on 35 Acres in Colorado",
@@ -634,6 +808,22 @@
    "summary_ja": "年末を迎える前に、家計や持ち物だけでなく、お金に関する契約や管理をすっきりと整理するためのヒントを紹介しています。",
    "category": "お金・買い方",
    "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "fa8a8ac16912c0a1",
+   "url": "https://tinyhousetalk.com/cozy-a-frame-cabin-ocala-florida",
+   "title_original": "A Black A-Frame Under the Live Oaks in Ocala, Florida, With Two Downstairs Bedrooms",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/A-frame-Cabin-in-Ocala-002.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-12T12:00:00+00:00",
+   "title_ja": "フロリダの森に佇む黒いAフレームの家",
+   "summary_ja": "アメリカ・フロリダの木立の中に建てられた、急勾配の屋根とロフトを持つシンプルなAフレームの建物。",
+   "category": "暮らしの実例",
+   "axis": "own",
    "things": [],
    "importance": 3
   },
@@ -804,6 +994,22 @@
    "published": "2026-11-12T03:29:47+00:00",
    "title_ja": "「コンテナのルール」で部屋の片づけを進める5つのメリット",
    "summary_ja": "物を残すか手放すか迷ったときに役立つ「コンテナのルール」を取り入れ、自宅のスペースをすっきりと整理整頓するメリットを解説している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "46e529662fb88b94",
+   "url": "https://bemorewithless.com/declutter-before-the-holidays/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
+   "title_original": "8 Things to Declutter Before The Holidays",
+   "source": "Be More with Less",
+   "image": "https://bemorewithless.com/wp-content/uploads/2026/11/declutter-before-the-holidays-image.png",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-12T01:33:28+00:00",
+   "title_ja": "ホリデーシーズンを迎える前に手放したい8つのこと",
+   "summary_ja": "忙しい時期を迎える前に家の中をすっきりと整えるため、事前に手放しておくと良い8つのものについて解説しています。",
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
@@ -5924,24 +6130,6 @@
    "importance": 3
   },
   {
-   "id": "1a7dba1fb9c4901f",
-   "url": "https://note.com/chiisana_hana/n/n9f017f49b3f2",
-   "title_original": "パンツ選びに悩む152cmの私が、COHINAで感動した話",
-   "source": "note #少ない服で暮らす",
-   "image": "https://assets.st-note.com/production/uploads/images/328813498/rectangle_large_type_2_dd898439a91cfd30fc7a7de933c5608f.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-03T20:34:43+00:00",
-   "title_ja": "低身長の筆者がCOHINAのパンツで感じたこと",
-   "summary_ja": "身長152cmの筆者が、一般的な人気アイテムではサイズが合わず悩んだ経験と、自分に合う服選びの大切さを綴った記事です。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "パンツ"
-   ],
-   "importance": 3
-  },
-  {
    "id": "d0ef5d32a5898fd4",
    "url": "https://london-tv.co.uk/south-london-experts-host-free-event-for-later-life-movers-looking-to-downsize-to-their-forever-home",
    "title_original": "SOUTH LONDON EXPERTS HOST FREE EVENT FOR LATER LIFE MOVERS LOOKING TO DOWNSIZE TO THEIR FOREVER HOME",
@@ -5987,24 +6175,6 @@
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
-   "importance": 4
-  },
-  {
-   "id": "0f792e8a84ba1054",
-   "url": "https://note.com/teacher_mama/n/n04685c385add",
-   "title_original": "便利＝幸せじゃない？冷蔵庫を手放した稲垣えみ子さんの暮らしから「本当の豊かさ」を考えてみた",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/img/1793721962-E5wc9velbfUQs42rdPnxIAT3.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-03T16:09:20+00:00",
-   "title_ja": "冷蔵庫を手放した稲垣えみ子さんの暮らし",
-   "summary_ja": "便利さが必ずしも幸せとは限らないという視点から、冷蔵庫を手放した稲垣えみ子さんのライフスタイルを通じて本当の豊かさについて考える。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "冷蔵庫"
-   ],
    "importance": 4
   },
   {
@@ -7141,190 +7311,6 @@
    "things": [
     "IHクッキングプレート",
     "カセットコンロ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "d3c202d07f59b937",
-   "url": "https://www.youtube.com/watch?v=oOfbowKHDPs",
-   "title_original": "【マイク購入】31歳ミニマリスト 家賃4万円 マイブームは大富豪 私のプレイリスト",
-   "source": "ミニマリストK",
-   "image": "https://i4.ytimg.com/vi/oOfbowKHDPs/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-11-01T10:00:30+00:00",
-   "title_ja": "31歳ミニマリストの購入したマイクと日常の記録",
-   "summary_ja": "家賃4万円の部屋で暮らす31歳ミニマリストが、新しく購入したShureのゲーミングマイクやグラスを紹介している動画。自分の空間を整えながら、日々の暮らしやマイブームを楽しんでいる様子を語っている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "Shure USB-C ゲーミングマイク",
-    "nichi cold glass"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2aa77410d374c7ab",
-   "url": "https://www.roomie.jp/2026/11/1920003",
-   "title_original": "箱もデザインも昭和っぽさ全開！ 知らない時代なのになぜか懐かしい、レトロなレコードプレーヤーが楽しい",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/261030_GPN3BTR_sam2.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-01T10:00:06+00:00",
-   "title_ja": "レトロなレコードプレーヤーで音楽を楽しむ暮らし",
-   "summary_ja": "機能性やトレンドよりも自分の「好き」を優先し、レトロなデザインのレコードプレーヤーを使って日々の音楽鑑賞を楽しんでいる人の話。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "レコードプレーヤー"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "c0b55482f16a6ff8",
-   "url": "https://www.roomie.jp/2026/11/1918893",
-   "title_original": "睡眠にこだわる私が、「コアラピロー第2世代」を使って約3ヶ月。どれだけでも眠れちゃいそう…",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/261030_koala_23.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-01T09:00:45+00:00",
-   "title_ja": "コアラピロー2世代を3ヶ月使った感想",
-   "summary_ja": "寝るのが好きな筆者が、2026年にコアラの「コアラピロー 2nd Gen」（税込16,000円）に枕を買い替え、約3ヶ月使用して睡眠の質が向上したと実感した様子を紹介しています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "コアラピロー 2nd Gen",
-    "枕"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "717fa2d2b66eda0a",
-   "url": "https://monomax.jp/archives/369993",
-   "title_original": "【約20万円の“大人ランドセル”】土屋鞄が誇る職人技の防水レザー！13型ノートPCも美しく収まる「通勤バッグの最適解」を徹底解説",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2026/10/img38.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-01T09:00:16+00:00",
-   "title_ja": "約20万円の大人ランドセル、土屋鞄の防水レザー通勤バッグを紹介",
-   "summary_ja": "土屋鞄の約20万円の防水レザー製『大人ランドセル』を取り上げ、13型ノートPCがすっきり収まり、職人技とデザイン性を評価した通勤バッグの実用性と魅力を解説しています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "土屋鞄の大人ランドセル",
-    "13型ノートPC"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ba5dddd8faca81ac",
-   "url": "https://monomax.jp/archives/370058",
-   "title_original": "【MonoMax12月号付録】紀ノ国屋の「3WAYバッグ」が優秀すぎ！トート・ショルダー・リュックで毎日のお出かけが快適に！",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2026/10/260911-161089-1-scaled.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-01T08:00:25+00:00",
-   "title_ja": "紀ノ国屋3WAYバッグ、トート・ショルダー・リュックの3形態で便利",
-   "summary_ja": "MonoMax12月号の特別付録として、紀ノ国屋とコラボした3WAYバッグを紹介。トート、ショルダー、リュックの3形態に変形でき、日常の外出が快適になる点をレポートしています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "紀ノ国屋 3WAYバッグ",
-    "トート",
-    "ショルダー",
-    "リュック"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "4b358c0efb06946b",
-   "url": "https://www.roomie.jp/2026/11/1920274",
-   "title_original": "面倒なカバー掛けをやめたら快適に。自宅の洗濯機で丸洗いできる冬用布団の話",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/infinitywarm1.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-01T02:45:11+00:00",
-   "title_ja": "布団カバーを掛ける手間を減らせる丸洗い可能な冬用布団の活用術",
-   "summary_ja": "季節の変わり目に発生する面倒な布団カバー掛けや羽毛布団・毛布の収納場所問題を解消する提案。カバー不要で自宅の洗濯機で丸洗いできる冬用布団を取り入れ、手入れの負担と収納スペースを減らす暮らしの工夫を紹介している。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "布団",
-    "羽毛布団",
-    "毛布"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "3db661620f63cc7b",
-   "url": "https://www.csptimes.com/post/buy-less-wear-more-the-capsule-wardrobe-leading-fashion-s-sustainable-shift-and-4-luxury-brands",
-   "title_original": "Buy Less, Wear More: The “Capsule Wardrobe” Leading Fashion’s Sustainable Shift and 4 Luxury Brands to Get You Started",
-   "source": "CSP Times",
-   "image": "https://static.wixstatic.com/media/d0543a_be315a7c1ef546c8b1f30c66a743cabf~mv2.jpeg/v1/fill/w_582,h_816,al_c,q_85/d0543a_be315a7c1ef546c8b1f30c66a743cabf~mv2.jpeg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-01T01:31:43+00:00",
-   "title_ja": "少ない服で着回すカプセルワードローブの魅力と注目ブランドの話",
-   "summary_ja": "服の購入量を減らし、少数の服を着回す「カプセルワードローブ」による持続可能な暮らしの提案。必要最小限の服で洗練されたスタイルを作るために役立つ、おすすめのブランドについて解説している。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "210cb7c8f461543c",
-   "url": "https://nlab.itmedia.co.jp/cont/articles/4073504",
-   "title_original": "「オシャレですね」着回しをやめた女性→“服選びに迷わない”コーデに「似合っててかわいい」「欲しくなりました」（1/3） | 女性 ねとらぼ",
-   "source": "ねとらぼ",
-   "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/10/1793167972_cover.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-01T00:30:00+00:00",
-   "title_ja": "着回しをやめて服選びに迷わなくなった女性の話",
-   "summary_ja": "着回すことをやめた結果、毎日の服選びに迷わなくなった女性のスタイルを紹介する記事。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "服"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "aeb1d4ddc2c84008",
-   "url": "https://minimalist-fudeko.com/your-own-way-of-living",
-   "title_original": "掃除が娯楽という人もいる。暮らし方は自分流でいい～読者のお便り",
-   "source": "筆子ジャーナル",
-   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/11/mop.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-01T00:10:55+00:00",
-   "title_ja": "掃除の頻度を見直した読者のお便り紹介",
-   "summary_ja": "読者から寄せられたお便りを紹介し、毎日の掃除を週1回に減らすといった暮らしの頻度の見直しについて触れています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "2874e9812f3ef1fd",
-   "url": "https://www.chiba-tv.com/plus/detail/2026112181291",
-   "title_original": "整理収納アドバイザーが「家にあったらゼッタイ捨てるモノ」5つ。とくに〈もらい物〉は、早く思い切りましょう♪",
-   "source": "千葉テレビ放送株式会社",
-   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1489396117736539531/origin_1.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-10-31T22:48:29+00:00",
-   "title_ja": "整理収納アドバイザーが提案する家から処分すべき5つのアイテムと手放し方",
-   "summary_ja": "整理収納アドバイザーが、家に置いたままにしておきたくないものを5つ紹介する記事。特に思い切って手放すべき対象として、使う機会がないもらい物を挙げており、部屋をすっきりさせるための処分と片づけの考え方を解説している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "もらい物"
    ],
    "importance": 3
   }
