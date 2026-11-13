@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T14:43:28.869477+09:00",
+ "updated_at": "2026-11-13T23:12:18.364619+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,35 +27,39 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-13T14:44:37.303940+09:00",
+  "generated_at": "2026-11-13T23:14:21.061258+09:00",
   "days": 3,
   "period": "11月12日〜11月13日",
   "count": 45,
-  "reduce_count": 26,
-  "own_count": 19,
-  "overview": "不用品や服を手放す具体的な工夫や、持ち物を減らすための考え方が語られる一方、マグネットクリップやコンパクトなガジェットなど日常の負担を軽くする便利なアイテムも多数紹介されています。",
-  "reduce": "メルカリやAIを活用した手放し方、食器や服の具体的な減らし方のほか、片付けのメンタル面や暮らしを整える習慣に焦点を当てた記事が多く見られます。",
-  "own": "コード類をすっきりとまとめる充電アイテムや、薄型・軽量でかさばらないスマートウォッチやダウンマフラーなど、日常を快適にする持ち物が取り上げられています。",
+  "reduce_count": 28,
+  "own_count": 17,
+  "overview": "年末の大掃除に向けた事前準備や「とりあえず置き場」の廃止といった片付けの手順に加え、超小型トイカメラや巻き取り式ケーブルなど、日々の暮らしのストレスを減らすコンパクトな道具や工夫が数多く紹介されています。",
+  "reduce": "大掃除や定年退職を見据え、移動式ワゴンの全廃やAIを使ったメルカリ出品など、物が増えない工夫や手放し方が語られています。",
+  "own": "巻き取り式ケーブルや強力な磁気クリップなど、省スペースで日々の家事や持ち運ぶ際の負担を軽減する実用的なアイテムが選ばれています。",
   "points": [
    {
-    "title": "手放す基準と工夫",
-    "body": "メルカリでの不用品売買にChatGPTを活用する方法や、5年以上悩んだ物や未来の引っ越し用に保管していたインテリアを見直して手放す基準について語られています。"
+    "title": "不用なとりあえず置き場廃止",
+    "body": "移動式ワゴンなどの「とりあえず置き場」を廃止し、不要な物を溜め込まない仕組みを作ることで、部屋が散らかるのを防げると解説されています。"
    },
    {
-    "title": "収納とすっきり暮らす工夫",
-    "body": "マグネットがつかない場所でも吊るせる磁気クリップやセリアのアウター掛け、ダイソーの巻き取り式ケーブルなど、小物を整理して空間をすっきり保つアイテムが紹介されています。"
+    "title": "メルカリ出品でのAI活用",
+    "body": "不要な服などを手放す際に、ChatGPTを活用して値付けや出品文作成を行うことで、スムーズに不用品を処分できる手法が紹介されています。"
    },
    {
-    "title": "デジタルや服の軽量化",
-    "body": "重さ約18gの超小型トイカメラやポケットに入るモンベルのダウンマフラーなど、荷物を小さく軽くして外出時や日々の持ち運びを快適にする工夫が提案されています。"
+    "title": "靴下整理に冷蔵庫用ケース",
+    "body": "専用の収納用品にとらわれず、IKEAの冷蔵庫用収納ケースを靴下の整理整頓に応用することで、ごちゃつく小物をすっきり整える工夫が提案されています。"
+   },
+   {
+    "title": "セールでの散財防止策",
+    "body": "整理収納アドバイザーが、ブラックフライデーなどのセールで衝動買いを防ぎ、本当に必要なものだけを選ぶための3つのポイントを解説しています。"
    }
   ],
   "keywords": [
-   "メルカリ",
+   "とりあえず置き場",
+   "ChatGPT",
+   "ブラックフライデー",
    "整理収納アドバイザー",
-   "ダウンマフラー",
-   "スマートウォッチ",
-   "断捨離"
+   "トイカメラ"
   ]
  },
  "things": [
@@ -69,7 +73,7 @@
   },
   {
    "name": "スマートフォン",
-   "count": 8
+   "count": 7
   },
   {
    "name": "バックパック",
@@ -78,10 +82,6 @@
   {
    "name": "靴",
    "count": 5
-  },
-  {
-   "name": "タイニーハウス",
-   "count": 4
   },
   {
    "name": "ベッド",
@@ -105,6 +105,10 @@
   },
   {
    "name": "テレビ",
+   "count": 3
+  },
+  {
+   "name": "ノート",
    "count": 3
   },
   {
@@ -148,10 +152,6 @@
    "count": 2
   },
   {
-   "name": "スマホ",
-   "count": 2
-  },
-  {
    "name": "スマートウォッチ",
    "count": 2
   },
@@ -160,15 +160,15 @@
    "count": 2
   },
   {
+   "name": "タイニーハウス",
+   "count": 2
+  },
+  {
    "name": "タオル",
    "count": 2
   },
   {
    "name": "タンス",
-   "count": 2
-  },
-  {
-   "name": "ノート",
    "count": 2
   },
   {
@@ -218,6 +218,10 @@
   {
    "name": "着物",
    "count": 2
+  },
+  {
+   "name": "靴下",
+   "count": 2
   }
  ],
  "sources": [
@@ -229,6 +233,7 @@
   "CBS News",
   "Carryology",
   "Country Living Magazine",
+  "Dengarden",
   "Designboom",
   "Fast Company（働き方）",
   "GearLab",
@@ -252,7 +257,6 @@
   "Parade Magazine",
   "ROOMIE",
   "Real Simple",
-  "Realtor.com",
   "Sarah Therese",
   "Simple Lionheart Life",
   "Southern Living",
@@ -270,7 +274,6 @@
   "The Spruce",
   "Tiny House Talk",
   "Tokuno | Minimalist",
-  "TradingView",
   "Travel + Leisure",
   "UA.NEWS",
   "Wales Online",
@@ -282,6 +285,8 @@
   "autoevolution",
   "https://www.thetraveler.org/",
   "loveproperty.com",
+  "mai minimalism",
+  "mamagirl",
   "note #ミニマリスト",
   "note #少ない服で暮らす",
   "note #持たない暮らし",
@@ -319,6 +324,277 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "44b8b21860c5d224",
+   "url": "https://note.com/yourtechjourney6/n/n6bb51b29c210",
+   "title_original": "【生活を小さくする vol.1】服を減らす、選ぶ手間を減らす",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/330983122/rectangle_large_type_2_dc9da05da0313e83375fa4ec99bac8d1.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-13T14:06:18+00:00",
+   "title_ja": "定年退職に向けて服を減らし選ぶ手間を省く暮らしの実践",
+   "summary_ja": "会社の服装自由化や経営者の習慣をきっかけに、服を選ぶ手間を省こうと考えた男性の手記。現在は平日に黒や紺のポロシャツを中心に着用しており、今後は定年退職に向けて仕事着や普段着をシンプルにし、服の所持数を減らしていく取り組みを綴っている。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "ポロシャツ",
+    "スーツ",
+    "ワイシャツ",
+    "ジーンズ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d8f8d9ff6751f7ea",
+   "url": "https://trilltrill.jp/articles/5181923",
+   "title_original": "11月にやっておけば大掃除がラクになる！プロが教える「今やるべき片付けの仕込み」5選",
+   "source": "TRILL",
+   "image": "https://media.trilltrill.jp/articles/5181923/featured-image.d20e50ab6c980d32c46f5f97edebcd28?w=1200",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-13T14:05:00+00:00",
+   "title_ja": "大掃除を楽にするためにプロが教える11月の片付け準備",
+   "summary_ja": "11月のうちに事前準備をしておくことで、年末の大掃除を効率的かつ楽に進めるための片付け術をプロが解説する記事。事前の仕込みとして取り組むべき5つの片付けポイントについて紹介している。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "f391753678e3082e",
+   "url": "https://tinyhousetalk.com/westfalia-nansen-600l-bunk-bed-camper-van",
+   "title_original": "Westfalia’s Nansen 600L Fits Bunk Beds and a Full Bathroom in Under 20 Feet",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/Westfalia-Nansen-600L-Camper-Van-Exterior.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-13T12:30:00+00:00",
+   "title_ja": "Westfalia Nansen 600L、20尺未満で二段ベッドと浴室を実装",
+   "summary_ja": "WestfaliaのNansen 600Lは全長19.6フィートのFiat Ducatoに全幅二段ベッド2台と分割型ドライバスを組み込み、後部は貨物ガレージに変えられるコンパクトなレイアウトです。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "Westfalia Nansen 600L",
+    "Fiat Ducato"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d54a0da32ca266b8",
+   "url": "https://note.com/lofty_vole1290/n/nc5a876b5c453",
+   "title_original": "28_「無関心」になる技術──感情の揺らぎを消し、ストレスを手放す「心のミニマリズム」2つの条件",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/335705169/rectangle_large_type_2_6589e9dacb3f50248eb76bb6ca677350.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-13T12:20:55+00:00",
+   "title_ja": "感情の揺らぎを消す「心のミニマリズム」実践法",
+   "summary_ja": "著者は、他人の言動や職場のトラブルに振り回されず「無関心」になるための技術と、心のミニマリズムを成立させる2つの条件を提示しています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "d02a34f76321d323",
+   "url": "https://tinyhousetalk.com/27north-vx-awd-sprinter-camper-van",
+   "title_original": "27North’s VX: A Missouri-Built AWD Sprinter With an Indoor Shower",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/27north-2026-vx-arctic-white-grille.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-13T12:15:00+00:00",
+   "title_ja": "27North VX、屋内シャワー付きAWDスプリンター",
+   "summary_ja": "ミズーリ州で手作りされた27North VXは、AWDスプリンター2500にクイルトレザーのシート、フルインドアシャワー、ダイネットベッドへの変形席、48V電源でエアコンを駆動できる2人用キャンピングバンです。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "27North VX",
+    "Sprinter 2500"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ed9bc597f8d7cb00",
+   "url": "https://news.yahoo.co.jp/expert/articles/32e5ca885cedeb581e495994ed8b476c603f53cc",
+   "title_original": "「ブラックフライデー」どう活用するのが正解？セールで散財しない3つのコツを整理収納アドバイザーが解説",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/kawasakimisa/02764904/title-1794543652358.jpeg?exp=10800",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-13T12:00:55+00:00",
+   "title_ja": "ブラックフライデーで散財しない3つのコツを整理収納アドバイザーが解説",
+   "summary_ja": "整理収納アドバイザーが、ブラックフライデーのセールで衝動買いを防ぎ、必要なものだけを選ぶための3つのポイントを具体的に紹介しています。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "b639ef3a1e4de14b",
+   "url": "https://www.roomie.jp/2026/11/1922588",
+   "title_original": "山崎実業で防寒具の置き場所を「玄関扉」につくってみたら、賃貸の玄関がもっと使いやすくなった",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/261104_yamajitsu_glovesholder_01.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-13T12:00:11+00:00",
+   "title_ja": "玄関扉に防寒具を掛けて賃貸の入口を広くした工夫",
+   "summary_ja": "フリーライターの山崎舞さんは、賃貸2LDKの玄関扉に防寒具を取り付け、限られたスペースを有効活用し、入口をすっきりさせました。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "防寒具",
+    "キーフック"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "86fcb0065153b14a",
+   "url": "https://dengarden.com/home-projects/what-to-declutter-before-holidays",
+   "title_original": "Professional Organizers Say You're Not Guest-Ready Until You Declutter These Areas of Your Home",
+   "source": "Dengarden",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-13T12:00:00+00:00",
+   "title_ja": "プロの整理収納アドバイザーが教える来客前の片付けポイント",
+   "summary_ja": "自宅に客を迎える準備を整えるため、事前に散らかりを解消しておくべき自宅のエリアについて、プロの整理収納アドバイザーがアドバイスする記事。すっきりとした空間でゲストを迎えるための片付け手順がまとめられています。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "0b8f34006b764f2d",
+   "url": "https://news.livedoor.com/article/detail/32813294",
+   "title_original": "【片付けのコツ】何でも入れたワゴンの末路…「とりあえず置き場」をなくす整理収納術",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-13T12:00:00+00:00",
+   "title_ja": "「とりあえず置き場」を無くして部屋の散らかりを防ぐ整理収納術",
+   "summary_ja": "ついつい物を詰め込んでしまいがちな移動式ワゴンなどの「とりあえず置き場」を廃止し、部屋を整った状態に保つための整理収納術。不要な物を溜め込まないための工夫や片付けの手順について解説しています。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "ワゴン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "1e4547a8ac66dd51",
+   "url": "https://mamagirl.jp/0000332084",
+   "title_original": "「もっと早く買えばよかった！」【無印良品】収納マニアが本気で推す小物収納14選",
+   "source": "mamagirl",
+   "image": "https://cdn.mamagirl.jp/images/03/54/31/33/jpg/bn5ebnu7tllezhhbij8k4ke9zyencb.webp",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-13T12:00:00+00:00",
+   "title_ja": "収納マニアが買ってよかったと絶賛する無印良品の小物収納14選",
+   "summary_ja": "散らかりがちな小物をすっきり整理整頓するために役立つ無印良品の収納グッズを、収納マニアが14点厳選して紹介する記事。部屋の収納力を高め、暮らしを整える便利な整理用アイテムがまとめられています。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "1389d9235dc30fc6",
+   "url": "https://www.youtube.com/watch?v=tu-493rWLd8",
+   "title_original": "「それどこの？」よく聞かれるアイテムをまとめて紹介！",
+   "source": "mai minimalism",
+   "image": "https://i1.ytimg.com/vi/tu-493rWLd8/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-13T11:00:33+00:00",
+   "title_ja": "よく尋ねられる愛用アイテムや暮らしの道具についての紹介",
+   "summary_ja": "ミニマリストが日常で愛用しているお気に入りの生活雑貨や家具を紹介。KEYUCAの計量スプーンや無印良品のスプレーボトル、ソフトボックス、子ども用デスクなど、よく質問を受ける持ち物をまとめて取り上げている。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "計量スプーン",
+    "スプレーボトル",
+    "食器棚",
+    "ソフトボックス"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e5f737c352c96d99",
+   "url": "https://www.youtube.com/watch?v=hb4_xWmREco",
+   "title_original": "【アラフィフから一人暮らし】軽トラ2台分の物を手放して辿り着いた、物が増えない暮らし。",
+   "source": "ミニマリストsin",
+   "image": "https://i1.ytimg.com/vi/hb4_xWmREco/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-13T11:00:19+00:00",
+   "title_ja": "軽トラ2台分の物を手放して到達した物が増えない一人暮らしの話",
+   "summary_ja": "アラフィフで一人暮らしを始めた人が、軽トラ2台分に及ぶ大量の不用品を手放すことで行き着いた、物が増えない暮らしの工夫や考え方を紹介する。収納にはバンカーズボックスなども活用し、すっきりとした生活スタイルを維持している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "バンカーズボックス"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "98bdea78647a16ae",
+   "url": "https://www.roomie.jp/2026/11/1923882",
+   "title_original": "小さなロルバーン、わたしならこう使う。「やりたいことノート」を作ったら休みの日がもっと楽しみになった",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/shiro_261108_Rollbahn_top.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-13T11:00:00+00:00",
+   "title_ja": "小型ノート「ロルバーン」を「やりたいことノート」として使う方法",
+   "summary_ja": "人気のノート「ロルバーン」の小型サイズを活用し、休日の楽しみを増やす「やりたいことノート」として使うアイデアを紹介。お気に入りの文房具を取り入れることで、日々の暮らしや休日をよりご機嫌に過ごすための工夫が語られている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ロルバーン",
+    "ノート"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "0d7ef0992d35211d",
+   "url": "https://www.roomie.jp/2026/11/1916246",
+   "title_original": "ごちゃつく靴下が、IKEAの冷蔵庫収納にシンデレラフィット！ 家中の整理整頓に役立ってます",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/20261110_ikea-1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-13T10:30:21+00:00",
+   "title_ja": "IKEAの冷蔵庫用収納を活用してごちゃつく靴下を整える整理術",
+   "summary_ja": "ごちゃつきがちな靴下の収納に、IKEAの冷蔵庫用収納ケースを活用するアイデアを紹介。専用の収納用品にとらわれず、家の中のさまざまな場所や小物の整理整頓に応用して暮らしをすっきりと整える方法を提案している。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "IKEAの冷蔵庫収納",
+    "靴下"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "0eb35a3413ca7724",
+   "url": "https://www.roomie.jp/2026/11/1924439",
+   "title_original": "賃貸でも食洗機は導入できます。工事不要で使える「ラクア Plus」",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/sub5.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-13T10:15:23+00:00",
+   "title_ja": "賃貸でも工事不要で使えるサンコーの食洗機",
+   "summary_ja": "毎日の食器洗いの負担を減らすため、賃貸住宅でも工事なしで導入できる食器洗い乾燥機「ラクア Plus」を紹介している。日々の家事を効率化する便利なアイテムの選択肢として役立つ。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "食洗機"
+   ],
+   "importance": 3
+  },
   {
    "id": "bc25c73bb85011b2",
    "url": "https://note.com/ai_saikyo_copipe/n/n76de67950539",
@@ -649,6 +925,22 @@
    "title_ja": "整理収納アドバイザーひでまるの新刊書籍の発売",
    "summary_ja": "SNSで人気の整理収納アドバイザーひでまる氏による新刊書籍『自分らしさは、部屋に出る』の発売情報。",
    "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "92c3ec14dc520457",
+   "url": "https://www.walesonline.co.uk/lifestyle/tv/itv-confirms-future-josie-gibsons-34902852",
+   "title_original": "ITV confirms future of Josie Gibson's decluttering show How To Clean Up For Cash",
+   "source": "Wales Online",
+   "image": "https://i2-prod.walesonline.co.uk/article34902849.ece/ALTERNATES/s1200d/1_BAFTA-Television-Awards-With-PO-Cruises-2026-Arrivals.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-12T15:29:00+00:00",
+   "title_ja": "テレビの断捨離番組の今後について",
+   "summary_ja": "テレビ局が片付けや断捨離をテーマにした番組の今後の放送予定について確認したことを伝えている。",
+   "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
    "importance": 2
@@ -6060,24 +6352,6 @@
    "importance": 2
   },
   {
-   "id": "ad0c2354fb81574d",
-   "url": "https://note.com/hirono_ml/n/n907ca5d8846a",
-   "title_original": "買ったのは、これだけ",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/331488277/rectangle_large_type_2_367669799794c2b46f0cac3d829e1e8c.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-03T22:43:00+00:00",
-   "title_ja": "無印良品週間で購入したアイテムを紹介した記録",
-   "summary_ja": "無印良品週間を利用して買い物をした記録。メンバーではないものの、期間中に気になったアイテムをいくつか手に入れた様子がシンプルに紹介されている。",
-   "category": "お金・買い方",
-   "axis": "own",
-   "things": [
-    "無印良品の購入品"
-   ],
-   "importance": 2
-  },
-  {
    "id": "4e01c469522e9df6",
    "url": "https://news.livedoor.com/topics/detail/32725717/?_clicked=echoes_list",
    "title_original": "【シニアライフ】ライフさん、部屋を綺麗に保つ！「吊るす」「浮かす」を活かした空間収納術紹介",
@@ -7053,265 +7327,6 @@
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
-   "importance": 3
-  },
-  {
-   "id": "4f295a042e157e19",
-   "url": "https://www.realsimple.com/cozy-versatile-travel-wardrobe-staples-amazon-november-2026-12150085",
-   "title_original": "These 10 Mix-and-Match Amazon Wardrobe Finds Might Just Turn You Into a Carry-on-Only Traveler for the Holidays",
-   "source": "Real Simple",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-01T17:30:00+00:00",
-   "title_ja": "機内持ち込みバッグだけで旅行するための着回し服10選",
-   "summary_ja": "Amazonで購入できる組み合わせやすい服10選を活用し、休日の旅行荷物を機内持ち込みバッグだけに抑える方法を紹介した記事。持ち物を厳選して旅の荷物を減らしたい人に向けて、着回しやすいワードローブを提案しています。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "0c364aa2ec4456b7",
-   "url": "https://thesimplicityhabit.com/16-common-things-minimalists-dont-buy-or-own",
-   "title_original": "16 Common Things Minimalists Don’t Buy or Own (for a Simpler Life)",
-   "source": "The Simplicity Habit",
-   "image": "https://thesimplicityhabit.com/wp-content/uploads/2024/03/horizontal-blog-post-2024-03-11T130737.172-1024x683.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-01T16:11:55+00:00",
-   "title_ja": "ミニマリストが買わない・持たない16の物",
-   "summary_ja": "広告の誘惑に負けず、暮らしをシンプルにするためにミニマリストが持たないようにしている一般的な16の物について解説しています。必需品を優先し、不要な物への依存を手放す考え方を紹介しています。",
-   "category": "心・習慣",
-   "axis": "own",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "76bbadfac7b6179c",
-   "url": "https://www.realsimple.com/things-to-get-rid-of-in-november-12196941",
-   "title_original": "7 Things You Should Get Rid of in November for a Calmer Holiday Season",
-   "source": "Real Simple",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-01T14:45:00+00:00",
-   "title_ja": "穏やかな祝祭期を迎えるために手放すべき物",
-   "summary_ja": "年末の穏やかな休日シーズンに向けて、この時期に自宅から手放すと効果的な7つの物について提案している海外のニュース記事です。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "8ae32282f73b6351",
-   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/01/if-i-get-a-dumbphone-how-will-i-cope-in-a-smartphone-world",
-   "title_original": "If I get a dumbphone, how will I cope in a smartphone world?",
-   "source": "The Guardian（暮らし）",
-   "image": "https://i.guim.co.uk/img/media/698796da0ecebc9c17a5109ef2be9e331400ac9c/772_0_2785_2229/master/2785.jpg?width=140&quality=85&auto=format&fit=max&s=4c589f4c890b41f34cc0c7859218db97",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-01T14:00:15+00:00",
-   "title_ja": "スマホを手放してガラケーに移行するか悩む人の話",
-   "summary_ja": "スマホの仕組みに疑問を感じ、通話専用の端末であるガラケーへ移行したいと考えている人の悩み。現代の生活やサービスへの依存度が高いため、実際に切り替えた際の生活への影響を心配している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "スマホ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c3aba1885deeed59",
-   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/01/readers-reply-with-governments-asking-us-to-stockpile-can-we-learn-anything-from-disaster-films",
-   "title_original": "Readers reply: with governments asking us to stockpile, can we learn anything from disaster films?",
-   "source": "The Guardian（暮らし）",
-   "image": "https://i.guim.co.uk/img/media/a21851f7fa70df1bb0fb8e6e5b6434bc29529a35/810_0_2826_2261/master/2826.jpg?width=140&quality=85&auto=format&fit=max&s=056f37155960c1b68bd5d1e3c0292704",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-01T14:00:14+00:00",
-   "title_ja": "脱スマホでシンプルな携帯電話を選んだ人の疑問と対処法",
-   "summary_ja": "機能を限定したシンプルな携帯電話（ダムフォン）へ切り替えた際、スマートフォン前提の現代社会でどのように対応すべきかという読者の疑問に答える記事。デジタル機器を減らし、暮らしをシンプルに整える際の注意点や工夫について議論しています。",
-   "category": "道具・ガジェット",
-   "axis": "reduce",
-   "things": [
-    "スマートフォン",
-    "ダムフォン"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "0cf845b5ff2cb432",
-   "url": "https://www.tradingview.com/news/moodys:c5ff07d95e3f6:0-festive-season-clean-up-how-to-declutter-your-mutual-fund-and-stock-portfolio",
-   "title_original": "Festive-season clean-up: how to declutter your mutual fund and stock portfolio",
-   "source": "TradingView",
-   "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-01T12:49:07+00:00",
-   "title_ja": "増えすぎた投資信託や株式のポートフォリオを整理する方法",
-   "summary_ja": "ホリデーシーズンの片づけに合わせて、所有している投資信託や株式のポートフォリオを整理しシンプルに整える方法を解説した記事。物理的な物だけでなく、増えすぎて複雑化した金融資産を減らして管理しやすくする手順を紹介しています。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "c07f756a623fcd56",
-   "url": "https://tinyhousetalk.com/her-live-work-cottage",
-   "title_original": "Knitwear Designer Lives and Works in a 280 Sq Ft Oakland Garage ADU",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/Knitwear-designers-280-Sq.-Ft.-Cali-Tiny-Home-4.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-01T12:30:00+00:00",
-   "title_ja": "編み物デザイナーが280sqftガレージADUで暮らす",
-   "summary_ja": "編み物とパターンデザインを手掛けるデザイナーが、オークランドの280平方フィートのガレージADUを住居・スタジオ・庭リビングとして改装し、ミニマルな生活空間を実現した様子を紹介。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "44e31524826b3e89",
-   "url": "https://www.realtor.com/living/pro-tips/what-to-sell-vs-donate",
-   "title_original": "Decluttering Guide: What’s Worth Selling vs. Donating, According to Organizers",
-   "source": "Realtor.com",
-   "image": "https://na.rdcpix.com/5525abe4f58e716d5241a764959e1ddew-c53483526srd_w1200_q80.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-01T12:23:00+00:00",
-   "title_ja": "整理術ガイド：売るか寄付かの判断基準",
-   "summary_ja": "整理のプロが、不要品を売却すべきか寄付すべきかを判断するポイントを解説。価値や状態、再利用の可能性などを基に、効果的な片付け方法を提示する。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "2c3ed46031600872",
-   "url": "https://tinyhousetalk.com/how-to-get-land-for-tiny-house-or-camper",
-   "title_original": "How Do I Get Land for a Tiny House or Camper? 5 Paths That Work",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/best-tiny-house-communities-us.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-01T12:15:00+00:00",
-   "title_ja": "タイニーハウスの土地取得5つの方法",
-   "summary_ja": "タイニーハウスやキャンパーを合法的に置く方法を、コミュニティやRVパーク、私有地、裏庭ADU、HOAの確認事項など5つに分けて紹介します。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "タイニーハウス",
-    "キャンパー",
-    "テアドロップトレーラー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "3a027f5473c6cad2",
-   "url": "https://tinyhousetalk.com/birches-creek-village-jacksonville-texas-tiny-home-community",
-   "title_original": "Birches Creek Village: A Quiet RV and Tiny Home Community in the East Texas Woods",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/bc-01-village-sunset-pads.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-01T12:00:00+00:00",
-   "title_ja": "東テキサスの静かなRV・タイニーハウスコミュニティ",
-   "summary_ja": "東テキサスの森にあるBirches Creek Villageは、フルフックアップや光ファイバー、池、現地のタイニーハウス建築業者を備えた静かなRV・タイニーハウス用コミュニティです。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "RV",
-    "タイニーハウス"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "4ab7f2217e5a3814",
-   "url": "https://www.roomie.jp/2026/11/1913230",
-   "title_original": "無印良品の「ノートケース」をブックポーチとして使ったら、家族にも褒められました",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/261029_mujibookpouch_top.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-01T11:30:46+00:00",
-   "title_ja": "無印良品のノートケースをブックポーチに活用",
-   "summary_ja": "無印良品のノートケースをブックポーチとして使っている人の話。家族にも褒められた機能的なアイテムを取り入れています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ノートケース"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2ae2e85680cc4db0",
-   "url": "https://news.infoseek.co.jp/article/itmedia_nlab_4045429",
-   "title_original": "「部屋が狭くて、置きたい家具が置けない」1人暮らし女性の8畳1K、プロがコーディネートすると…… 印象ガラリの空間に「素敵すぎます」「希望が持てました」",
-   "source": "Infoseek",
-   "image": "https://media.image.infoseek.co.jp/isnews/photos/itmedia_nlab/itmedia_nlab_4045429_0-enlarge.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-01T11:15:00+00:00",
-   "title_ja": "1K女子の8畳部屋がプロコーデで大変身",
-   "summary_ja": "狭い8畳1Kの部屋にプロが家具配置を提案し、広々とした印象に変える実例を紹介します。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "944cab4b45666efe",
-   "url": "https://www.roomie.jp/2026/11/1913954",
-   "title_original": "山崎実業の新作「横長カレンダー」は視野に入っても思考を邪魔しないのが好き。モニター下の隙間にフィットしてます",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/20261023-yamajitsu-monitor-shita-calendar-01.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-01T11:00:29+00:00",
-   "title_ja": "山崎実業の横長カレンダーでデスク周りを整える",
-   "summary_ja": "モニター下の隙間にフィットする山崎実業の横長カレンダーを紹介しています。視野に入っても思考を邪魔しないデザインです。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "カレンダー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "51f1f092a21a2160",
-   "url": "https://news.livedoor.com/article/detail/32707901",
-   "title_original": "「面倒くさい」は「ご機嫌」に変わる！ライフさんの毎日を心地よく小さな工夫",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-01T11:00:00+00:00",
-   "title_ja": "「面倒くさい」をご機嫌に変える小さな工夫",
-   "summary_ja": "日常の面倒な作業を簡単にし、気分を上げるための小さな工夫や習慣を紹介し、暮らしを心地よくするヒントを提供します。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "9f179b062b113c0d",
-   "url": "https://www.roomie.jp/2026/11/1916779",
-   "title_original": "カセットコンロより操作が簡単＆コンパクト。「無印良品のIHクッキングプレート」で鍋料理のハードルが下がった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/top-45.jpeg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-01T10:30:26+00:00",
-   "title_ja": "カセットコンロを辞めて無印良品のIHクッキングプレートにした話",
-   "summary_ja": "かさばるカセットコンロを手放し、コンパクトで手軽に使える無印良品のIHクッキングプレートを導入した話。ガス缶の準備や火を扱う緊張感のハードルが下がり、快適に鍋料理を楽しめるようになった。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "IHクッキングプレート",
-    "カセットコンロ"
-   ],
    "importance": 3
   }
  ]
