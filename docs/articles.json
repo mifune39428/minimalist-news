@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T08:24:25.969851+09:00",
+ "updated_at": "2026-11-14T14:33:27.739051+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,45 +27,41 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-14T08:24:55.904523+09:00",
+  "generated_at": "2026-11-14T14:35:43.769216+09:00",
   "days": 3,
   "period": "11月13日〜11月14日",
   "count": 45,
-  "reduce_count": 27,
-  "own_count": 18,
-  "overview": "物や家事、仕事や心の負担を減らす具体的な工夫から、身の回りを整えるガジェットや収納の実例まで幅広く語られています。",
-  "reduce": "不用品を手放す基準や、家事・服選びの負担を減らして暮らしをシンプルにする具体的な工夫が多数語られています。",
-  "own": "ケーブルの整理や賃貸でも使える家電、タイニーハウスやアウトドアでの機能的な道具選びが紹介されています。",
+  "reduce_count": 26,
+  "own_count": 19,
+  "overview": "11月13日から14日にかけて配信された記事では、不用品の処分や片付けによる暮らしの減らし方と、厳選された便利な持ち物や収納術に関する話題が多く見られました。",
+  "reduce": "年末の大掃除や片付けに向けた準備、ネット通販でのついで買いや衝動買いを防ぐ工夫、物や習慣を手放す体験談が語られています。",
+  "own": "Apple Payやキャッシュレス化を活かした財布代わりのカードホルダー、キャンピングカーや無印良品の小物収納など実用的な道具が紹介されています。",
   "points": [
    {
-    "title": "手放せない物との葛藤",
-    "body": "5年以上悩み続けて捨てられなかった物の話や、いつか使うかもと保管しがちなインテリアの手放し方が語られています。"
+    "title": "年末に向けた片付け術",
+    "body": "プロの整理収納アドバイザーによる1月の片付け準備や、移動式ワゴンなどの「とりあえず置き場」を無くすことで大掃除を楽にする整理収納術が紹介されています。"
    },
    {
-    "title": "身の回りの徹底した効率化",
-    "body": "1日5分の片付けルールや、とりあえず置き場の廃止、服を選ぶ手間を減らす工夫など日常の負担を軽くする実例が出ています。"
+    "title": "不用品の手放しと工夫",
+    "body": "病気や定年退職、引っ越しを機に大量の物や保管していたインテリアを手放した体験談や、ChatGPTを活用してメルカリでスムーズに出品する手法が語られています。"
    },
    {
-    "title": "コンパクトな収納とアイテム",
-    "body": "100均のカードホルダーやダイソーの巻き取り式ケーブルなど、小物をすっきり整理して持ち歩く工夫が紹介されています。"
-   },
-   {
-    "title": "大きな環境の変化と決断",
-    "body": "定年退職に向けた準備や東京を離れる決断など、暮らしのあり方を大きく見直すライフスタイルの変化が綴られています。"
+    "title": "厳選された便利な持ち物",
+    "body": "キャッシュレス化に伴うApple Payへの集約や100均カードホルダーの活用、工事不要の食洗機や超小型トイカメラなど暮らしを快適にするアイテムが登場しています。"
    }
   ],
   "keywords": [
    "断捨離",
    "ミニマリスト",
    "整理収納",
-   "手放す",
-   "収納"
+   "メルカリ",
+   "無印良品"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 16
+   "count": 15
   },
   {
    "name": "スマートフォン",
@@ -88,12 +84,12 @@
    "count": 4
   },
   {
-   "name": "靴",
+   "name": "冷蔵庫",
    "count": 4
   },
   {
-   "name": "Tシャツ",
-   "count": 3
+   "name": "靴",
+   "count": 4
   },
   {
    "name": "サコッシュ",
@@ -112,15 +108,7 @@
    "count": 3
   },
   {
-   "name": "ポーチ",
-   "count": 3
-  },
-  {
    "name": "下着",
-   "count": 3
-  },
-  {
-   "name": "冷蔵庫",
    "count": 3
   },
   {
@@ -129,6 +117,10 @@
   },
   {
    "name": "CIOの充電器",
+   "count": 2
+  },
+  {
+   "name": "Tシャツ",
    "count": 2
   },
   {
@@ -145,6 +137,10 @@
   },
   {
    "name": "キッチン",
+   "count": 2
+  },
+  {
+   "name": "キャンピングカー",
    "count": 2
   },
   {
@@ -173,6 +169,10 @@
   },
   {
    "name": "プロジェクター",
+   "count": 2
+  },
+  {
+   "name": "ポーチ",
    "count": 2
   },
   {
@@ -218,16 +218,13 @@
   {
    "name": "洗濯機",
    "count": 2
-  },
-  {
-   "name": "着物",
-   "count": 2
   }
  ],
  "sources": [
   "A Slob Comes Clean",
   "ACT Government",
   "AOL.com",
+  "Ameba News [アメーバニュース]",
   "Be More with Less",
   "Better Homes & Gardens",
   "CBS News",
@@ -254,7 +251,6 @@
   "Moneycontrol.com",
   "MonoMax",
   "No Sidebar",
-  "PANews",
   "Parade Magazine",
   "ROOMIE",
   "Real Simple",
@@ -312,6 +308,7 @@
   "ライフハッカー・ジャパン",
   "ライブドアニュース",
   "リンネル.jp",
+  "千葉テレビ放送",
   "千葉テレビ放送株式会社",
   "小さな暮らしノート",
   "山陽新聞",
@@ -323,6 +320,126 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "e806737844df7d28",
+   "url": "https://note.com/happanomori/n/n9b9bfbbb98d7",
+   "title_original": "修行という名のﾞ舌がん29ﾞ～無駄を楽しむ♪～",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/img/1794633994-VLdiejU3TtoYDBRQZ9Pr5X0A.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-14T05:28:22+00:00",
+   "title_ja": "病気を機に思い出の品や趣味の物をすべて手放した人の話",
+   "summary_ja": "舌がんの診断を機に身辺整理を開始し、家族の思い出の品や興味を失った観葉植物などを次々と廃棄した。のちに娘との買い物や買い物の迷いを通じて、自身の「無駄」という価値観を見つめ直すきっかけを得た体験談。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "ジグソーパズル",
+    "観葉植物"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "6b0eab6f9448b757",
+   "url": "https://note.com/saiteki_2024/n/n9a4e7691211a",
+   "title_original": "ミニマリストの財布「Apple Pay」の中身",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/335919748/rectangle_large_type_2_ff2afa6efe4e2c79f3460d4415421e7f.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-14T03:53:16+00:00",
+   "title_ja": "財布を手放し日常の決済をApple Payに集約した人の話",
+   "summary_ja": "キャッシュレス化が進む中、財布を使う機会が激減したため現代の財布はApple Payだと語る。日常決済の9割以上をスマホ決済で済ませているミニマリストの財布の中身について述べている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "財布",
+    "Apple Pay"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d5354e07b9174dd7",
+   "url": "https://news.livedoor.com/article/detail/32816199",
+   "title_original": "浪費家から貯金350万円へ！元浪費家が実践した「お金が貯まる」7つの理由",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-14T01:54:45+00:00",
+   "title_ja": "元浪費家が貯金350万円を達成した7つの理由",
+   "summary_ja": "浪費を重ねていた状態から、お金が貯まる生活習慣へシフトして350万円を貯蓄できるようになった背景を紹介している。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "a6a99ff428906fdc",
+   "url": "https://bemorewithless.com/weekend-favorites-november-14-2026/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
+   "title_original": "8 little habits that will make you happier + financial security",
+   "source": "Be More with Less",
+   "image": "https://bemorewithless.com/wp-content/uploads/2026/11/financial-security-image.png",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-14T01:19:24+00:00",
+   "title_ja": "幸福度と経済的な安定を高める小さな8つの習慣",
+   "summary_ja": "日々の暮らしの中で少しずつ実践できる小さな習慣を通じて、心のゆとりと経済的な安定を同時に手に入れる方法を解説している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "4ecf37d00ee669ec",
+   "url": "https://www.chiba-tv.com/plus/detail/2026112222518",
+   "title_original": "志尊淳、3年ぶり断捨離を告白 今年のクリスマスは撮影の予備日「僕のものになるか確定していない」",
+   "source": "千葉テレビ放送",
+   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1494135631407744857/origin_1.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-14T00:41:39+00:00",
+   "title_ja": "志尊淳さんが3年ぶりに断捨離を行った話",
+   "summary_ja": "俳優の志尊淳さんが3年ぶりとなる断捨離を実行したことを明かした話題。クリスマスシーズンの過ごし方についても触れている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "a5a7dd3d07f8e1c8",
+   "url": "https://minimalist-fudeko.com/avoid-online-impulse-buys",
+   "title_original": "ネット通販で余計なものを買ってしまう人へ。ついで買いを防ぐ4つのコツ",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/10/online-shop.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-14T00:10:40+00:00",
+   "title_ja": "ネット通販のついで買いを防ぐための4つのコツ",
+   "summary_ja": "ネット通販で余計なものを買ってしまう人へ向けて、ついで買いを防ぐための具体的な4つのコツを紹介している。決済直前までの誘惑に負けない考え方や対策を解説。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "334a20a68bb9c246",
+   "url": "https://www.roomie.jp/2026/11/1928848",
+   "title_original": "コゲ落とし、やめました。「グラタンが圧倒的に楽になる器」でオーブン料理が大好きになった",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2025/12/20251222_cerabake_thumbnail.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-13T23:30:20+00:00",
+   "title_ja": "コゲ落としのストレスをなくしたグラタン皿",
+   "summary_ja": "チーズの焦げやこびりつきを落とす手入れが面倒で避けていたオーブン料理を、こびりつかない不思議なお皿を導入することで快適に楽しめるようになった体験談。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "グラタン皿"
+   ],
+   "importance": 3
+  },
   {
    "id": "47daceaad2bd507b",
    "url": "https://note.com/clean_badger912/n/n494542a4bbed",
@@ -436,6 +553,22 @@
    "importance": 3
   },
   {
+   "id": "379a3e8350bfaddd",
+   "url": "https://article.auone.jp/8a5c7dcd-6a89-4cf4-b537-637ccf64c874",
+   "title_original": "「金を貯めても結局不安は無くならないが…」「“いつか”に備えて貯金なんかしなくても…」50歳で会社を辞めた元朝日新聞記者（61）が実践する“最強の老後対策”",
+   "source": "au Webポータル",
+   "image": "https://portal.auone.jp/media/thumbnails/2026/11/13/https___bunshun_jp_articles_-_93224_w1280.webp",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-13T21:10:00+00:00",
+   "title_ja": "50歳で退職した元記者が実践する老後対策の話",
+   "summary_ja": "50歳で会社を辞めた元朝日新聞記者が、お金を貯めることだけに頼らない老後の暮らし方や考え方を実践している。貯金への不安を手放し、別の形で備える生き方を紹介する記事。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "73eee943c21d0175",
    "url": "https://tinyhousetalk.com/retiree-escape-traveler-xl-fixed-income",
    "title_original": "Lois’s Six-Year-Old Escape Traveler XL: A Retiree’s 250 Sq Ft Home on a Fixed Income",
@@ -467,6 +600,61 @@
    "category": "服・ファッション",
    "axis": "reduce",
    "things": [],
+   "importance": 3
+  },
+  {
+   "id": "3a792d0a0c0d290a",
+   "url": "https://news.ameba.jp/entry/20261113-63135359",
+   "title_original": "「もったいない人」と「捨てたい人」の越えられない壁。衝突が絶えなかった実家での日々",
+   "source": "Ameba News [アメーバニュース]",
+   "image": "https://image.ext-news.ameba.jp/22bda990/OTU2MTIzMjYtMWZkNS00N2VmLWJkYmMtYzNlNDY2YjU5NTg4",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-13T15:38:06+00:00",
+   "title_ja": "「もったいない」家族と「捨てたい」自分との片づけを巡る葛藤",
+   "summary_ja": "物を「もったいない」と残したがる親と「減らしたい」と考える自身との間で繰り広げられた片づけの対立。価値観の違う家族と実家で暮らす中で生じた衝突や、手放し方に対する考え方の違いが描かれている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "332e2eedf8681a09",
+   "url": "https://tinyhousetalk.com/1955-greyhound-scenicruiser-motorhome-west-bend-wi",
+   "title_original": "A 1955 Greyhound Scenicruiser Converted Into a 40-Foot Motorhome",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/2026/11/1955-greyhound-scenicruiser-motorhome-01-exterior-crop.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-13T15:05:00+00:00",
+   "title_ja": "1955年製の大型バスを改装した約12メートルの移動式住居",
+   "summary_ja": "1955年製のGMCグレイハウンドバスをベースに、約12メートルのモーターホーム（キャンピングカー）へとリノベーションした車両の売却事例。ヴィンテージの大型車を活用したユニークな住居スタイルを紹介している。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "バス",
+    "キャンピングカー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "50062805646fd47d",
+   "url": "https://tinyhousetalk.com/1977-dodge-xplorer-212-camper-van-encinitas",
+   "title_original": "A 1977 Dodge B200 Tradesman Xplorer 212 Camper Van in Encinitas, California",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/2026/10/01-exterior-beach.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-13T15:00:00+00:00",
+   "title_ja": "1977年製ダッジを改装したレトロなキャンピングカーの全貌",
+   "summary_ja": "1977年製のダッジB200をベースにしたキャンピングカーの紹介。車内には3WAY冷蔵庫やルーフエアコン、オリジナルのシート類が備わっており、レトロな内装と実用的な設備を備えたバンライフの所有スタイルがわかる。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "キャンピングカー",
+    "冷蔵庫",
+    "エアコン"
+   ],
    "importance": 3
   },
   {
@@ -6103,22 +6291,6 @@
    "importance": 4
   },
   {
-   "id": "8d1b7273b11ea272",
-   "url": "https://note.com/pechka234/n/n46ed2b919ba0",
-   "title_original": "‘26年10月断捨離記録",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/322892525/rectangle_large_type_2_55c01c5107ee97027263097a43ce90d0.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-04T20:15:05+00:00",
-   "title_ja": "2026年10月の断捨離記録",
-   "summary_ja": "2026年10月に実践した断捨離の様子をまとめ、手放した品目とその判断基準を紹介しています。具体的な数は示されていませんが、シンプルな暮らしへのステップが分かります。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
    "id": "e55e8c829258ae9f",
    "url": "https://www.sanyonews.jp/photo/detail?article_id=1977487",
    "title_original": "Matt、断捨離した自宅をルームツアーで公開 父・桑田真澄が立つ“バーカウンター”も「お金持ちってこういうことなんですね」",
@@ -6305,22 +6477,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
-  },
-  {
-   "id": "cb69b24e6cc3231b",
-   "url": "https://note.com/suu_minimuscle/n/n75ca424474f7",
-   "title_original": "所有しなくても、使えればいい。僕が「物より環境」を選ぶ理由",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/331056026/rectangle_large_type_2_0345b2cb4732c8bacfb531b6a7cbe3a1.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-04T10:44:28+00:00",
-   "title_ja": "所有しなくても良い理由と環境への配慮",
-   "summary_ja": "ミニマリストの筆者が、所有せずに必要時だけ利用する暮らしを選んだ背景と、環境負荷を抑えるための考え方を具体例と共に語る。さらに、物を減らすことで得られる精神的余裕についても触れる。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
   },
   {
    "id": "c8d39b2fe1504f84",
@@ -7167,160 +7323,6 @@
     "マウス"
    ],
    "importance": 3
-  },
-  {
-   "id": "1d7acfed3da5267d",
-   "url": "https://www.thespruce.com/minimalist-thanksgiving-prep-12197309",
-   "title_original": "Minimalists Don’t Wait Until Thanksgiving Week to Get Ready—These 5 Tasks Are Already on Their To-Do Lists",
-   "source": "The Spruce",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-02T11:44:00+00:00",
-   "title_ja": "ミニマリストが取り組む事前の準備タスク",
-   "summary_ja": "ミニマリストたちがイベントの時期に慌てないために、あらかじめリストアップして進めている5つのタスクについて解説している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "c601b7d4421cd052",
-   "url": "https://www.roomie.jp/2026/11/1898006",
-   "title_original": "3分でこの仕上がり。パナソニックの新型スチーマーで、服のシワ伸ばしが習慣化した",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/20261005_panasonic.iron_00b.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-02T11:30:58+00:00",
-   "title_ja": "パナソニックの新型スチーマーで服のシワ伸ばしが習慣化した話",
-   "summary_ja": "パナソニックの新型スチーマーを導入したことで、お気に入りのTシャツや服のシワ伸ばしを毎日手軽に行う習慣が身についたという実体験。北欧家具や旅先の器など厳選した愛用品と暮らす日常のひとコマ。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "スチーマー",
-    "Tシャツ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "0d4ddd6a77519377",
-   "url": "https://www.roomie.jp/2026/11/1919771",
-   "title_original": "ノースフェイスの新作「フィーカスショルダー」の18Lというサイズが抜群に使いやすい！ PCスリーブ、サイドポケットも優秀だ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/20261029_ogmax-4.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-02T11:10:46+00:00",
-   "title_ja": "ノースフェイスの新作ショルダーバッグの使い勝手を試した話",
-   "summary_ja": "荷物を小さくまとめたいインドア派の執筆者が、18LサイズでPCスリーブやサイドポケットを備えたノースフェイスの新作フィーカスショルダーの使いやすさをレビューしている記事。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "ショルダーバッグ",
-    "PCスリーブ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ef655b36de9146a9",
-   "url": "https://monomax.jp/archives/369217",
-   "title_original": "大規模停電、スマホが使えなくなったら？プロが教える「電源不要のアナログ文房具」が非常時の命綱に『防災文房具 大賞2026』",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2027/10/260717-152387_11zon-scaled.jpeg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-02T11:00:41+00:00",
-   "title_ja": "停電時に役立つ電源不要のアナログ文房具",
-   "summary_ja": "大規模停電でスマホが使えなくなる状況を想定し、プロが推奨する電源不要のアナログ文房具が防災文房具大賞2026で選ばれた。スケジュール管理や連絡手段として活用できる。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "693aafb6b9baa1d5",
-   "url": "https://www.youtube.com/shorts/uDGjXMf-RHA",
-   "title_original": "【ミニマリスト】大掃除しない我が家の掃除法",
-   "source": "ミニマリスト Nozomi",
-   "image": "https://i2.ytimg.com/vi/uDGjXMf-RHA/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-11-02T11:00:36+00:00",
-   "title_ja": "ミニマリストNozomiが実践する大掃除不要の暮らし",
-   "summary_ja": "ミニマリスト歴12年のNozomiさんは、服3着・持ち物40個で、掃除を大掛かりにしなくても暮らしを整える方法を紹介。子どもがいてもミニマルに生活するコツが分かる。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "服"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "9d9351af793cbc44",
-   "url": "https://www.youtube.com/shorts/2lCVcg_XkTU",
-   "title_original": "【断捨離】捨てるようになったら人生がうまくいくようになった #shorts #danshari #断捨離 #やましたひでこ",
-   "source": "やましたひでこ断捨離",
-   "image": "https://i3.ytimg.com/vi/2lCVcg_XkTU/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-11-02T11:00:27+00:00",
-   "title_ja": "断捨離で人生が好転した体験談",
-   "summary_ja": "やましたひでこさんは、捨てることを始めると部屋も心もスッキリし、人生がうまくいくようになったと語る。オンラインサロンや書籍で実践を支援している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "c8e1edac1c132c8f",
-   "url": "https://news.yahoo.co.jp/articles/d8f9ebd3370398270c19e08f5d1f7b656fdb1251",
-   "title_original": "中村アン、断捨離中と告白 30代最後の年を意識「10年後も一緒に過ごしたいものだけ残して」（ENCOUNT）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-01092002-encount-000-1-view.jpg?exp=10800",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-02T10:57:55+00:00",
-   "title_ja": "中村アンが断捨離中と告白",
-   "summary_ja": "女優の中村アンさんが、30代最後の年を意識し、10年後も一緒に過ごすものだけを残すという考えで、断捨離を進めていることを告白した。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "8d88bd54cf2f2ba7",
-   "url": "https://monomax.jp/archives/369805",
-   "title_original": "【予約時点でAmazon1位】ガバッと開いてスッキリ！紀ノ国屋の「じゃばら式ポーチ」が旅行・デスク整理の最適解だった／MonoMax12月号増刊付録",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2026/10/12zicon.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-02T08:00:29+00:00",
-   "title_ja": "紀ノ国屋のじゃばら式ポーチで旅行やデスクを整理する",
-   "summary_ja": "旅行やデスク周りの整理整頓に役立つ、じゃばら式でガバッと開く紀ノ国屋のポーチを紹介している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ポーチ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f256346800c92eaa",
-   "url": "https://www.panewslab.com/en/articles/01a19a6d-0b0a-7690-9fa3-92c0f06e7134",
-   "title_original": "Vitalik's Latest Thoughts: We Need a Digital Minimalism Movement",
-   "source": "PANews",
-   "image": "https://uploads.panewslab.com/e39dd975-d62a-41b2-a99f-4f27a09956bc",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-02T06:35:00+00:00",
-   "title_ja": "デジタルミニマリズム運動の必要性",
-   "summary_ja": "テクノロジーやデジタル社会との付き合い方を見直し、新たなデジタルミニマリズムのムーブメントが必要であるという考え方について述べている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
   }
  ]
 }
