@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T14:33:27.739051+09:00",
+ "updated_at": "2026-11-14T22:12:30.631036+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,48 +27,44 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-14T14:35:43.769216+09:00",
+  "generated_at": "2026-11-14T22:12:52.840643+09:00",
   "days": 3,
   "period": "11月13日〜11月14日",
   "count": 45,
   "reduce_count": 26,
   "own_count": 19,
-  "overview": "11月13日から14日にかけて配信された記事では、不用品の処分や片付けによる暮らしの減らし方と、厳選された便利な持ち物や収納術に関する話題が多く見られました。",
-  "reduce": "年末の大掃除や片付けに向けた準備、ネット通販でのついで買いや衝動買いを防ぐ工夫、物や習慣を手放す体験談が語られています。",
-  "own": "Apple Payやキャッシュレス化を活かした財布代わりのカードホルダー、キャンピングカーや無印良品の小物収納など実用的な道具が紹介されています。",
+  "overview": "タイニーハウスや車中泊といった小さな住まいでの暮らしをはじめ、年末に向けた手放し方や日々の持ち物選びについて様々な工夫が語られています。",
+  "reduce": "年末に向けた捨て活のリスト作成や、ネット通販やセールでの衝動買いを防ぐ具体的なコツの紹介が目立っています。",
+  "own": "アクセサリーや家具、アウトドアギアから、キャッシュレス決済を前提としたカードホルダーや財布代わりの実例が紹介されています。",
   "points": [
    {
-    "title": "年末に向けた片付け術",
-    "body": "プロの整理収納アドバイザーによる1月の片付け準備や、移動式ワゴンなどの「とりあえず置き場」を無くすことで大掃除を楽にする整理収納術が紹介されています。"
+    "title": "小さな住まいと工夫",
+    "body": "タイニーハウスや車中泊、古いバスやキャンピングカーを改装した移動式住居など、限られた空間で快適に暮らすための具体的な工夫や住まいの実例が多数紹介されています。"
    },
    {
-    "title": "不用品の手放しと工夫",
-    "body": "病気や定年退職、引っ越しを機に大量の物や保管していたインテリアを手放した体験談や、ChatGPTを活用してメルカリでスムーズに出品する手法が語られています。"
+    "title": "手放す基準と断捨離",
+    "body": "年末へ向けた100個の捨て活リストや、病気を機に思い出の品を手放した体験談、家族との片付けを巡る葛藤を通じて、自分に必要な物を見極める姿勢が語られています。"
    },
    {
-    "title": "厳選された便利な持ち物",
-    "body": "キャッシュレス化に伴うApple Payへの集約や100均カードホルダーの活用、工事不要の食洗機や超小型トイカメラなど暮らしを快適にするアイテムが登場しています。"
+    "title": "買い物の見直しと対策",
+    "body": "ネット通販でのついで買いや、ブラックフライデーのセールでの衝動買いを防ぐための具体的なコツや、浪費癖から貯金へと生活習慣をシフトした背景が解説されています。"
    }
   ],
   "keywords": [
-   "断捨離",
    "ミニマリスト",
-   "整理収納",
-   "メルカリ",
-   "無印良品"
+   "断捨離",
+   "片付け",
+   "持ち物",
+   "タイニーハウス"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 15
+   "count": 16
   },
   {
    "name": "スマートフォン",
-   "count": 8
-  },
-  {
-   "name": "バッグ",
    "count": 8
   },
   {
@@ -76,12 +72,12 @@
    "count": 7
   },
   {
-   "name": "モバイルバッテリー",
-   "count": 5
+   "name": "バッグ",
+   "count": 7
   },
   {
-   "name": "ベッド",
-   "count": 4
+   "name": "モバイルバッテリー",
+   "count": 5
   },
   {
    "name": "冷蔵庫",
@@ -96,15 +92,15 @@
    "count": 3
   },
   {
-   "name": "タイニーハウス",
-   "count": 3
-  },
-  {
    "name": "テレビ",
    "count": 3
   },
   {
    "name": "ノート",
+   "count": 3
+  },
+  {
+   "name": "ベッド",
    "count": 3
   },
   {
@@ -128,14 +124,6 @@
    "count": 2
   },
   {
-   "name": "イヤホン",
-   "count": 2
-  },
-  {
-   "name": "エコバッグ",
-   "count": 2
-  },
-  {
    "name": "キッチン",
    "count": 2
   },
@@ -145,6 +133,10 @@
   },
   {
    "name": "シャワー",
+   "count": 2
+  },
+  {
+   "name": "スタンディングテーブル",
    "count": 2
   },
   {
@@ -164,7 +156,11 @@
    "count": 2
   },
   {
-   "name": "バスタブ",
+   "name": "ドリップケトル",
+   "count": 2
+  },
+  {
+   "name": "バスマット",
    "count": 2
   },
   {
@@ -173,10 +169,6 @@
   },
   {
    "name": "ポーチ",
-   "count": 2
-  },
-  {
-   "name": "マウス",
    "count": 2
   },
   {
@@ -204,6 +196,14 @@
    "count": 2
   },
   {
+   "name": "小型冷蔵庫",
+   "count": 2
+  },
+  {
+   "name": "弁当箱型炊飯器",
+   "count": 2
+  },
+  {
    "name": "手帳",
    "count": 2
   },
@@ -212,11 +212,11 @@
    "count": 2
   },
   {
-   "name": "歯ブラシ",
+   "name": "洗濯機",
    "count": 2
   },
   {
-   "name": "洗濯機",
+   "name": "着物",
    "count": 2
   }
  ],
@@ -225,6 +225,7 @@
   "ACT Government",
   "AOL.com",
   "Ameba News [アメーバニュース]",
+  "Balance Through Simplicity",
   "Be More with Less",
   "Better Homes & Gardens",
   "CBS News",
@@ -238,12 +239,10 @@
   "Global News",
   "Good Housekeeping",
   "Homes and Gardens",
-  "House Beautiful",
   "Howl.Link",
   "Ideal Home",
   "IndexBox",
   "Infoseek",
-  "J-CAST ニュース",
   "Koubo",
   "Lifehacker",
   "London TV",
@@ -258,7 +257,6 @@
   "Simple Lionheart Life",
   "Southern Living",
   "TRILL",
-  "The Canberra Times",
   "The Gadgeteer",
   "The Guardian（住まい）",
   "The Guardian（暮らし）",
@@ -298,7 +296,6 @@
   "ぴーこ｜ゆるっとミニマルな日常",
   "むぎの頑張らない暮らし",
   "やましたひでこ断捨離",
-  "アットプレス",
   "オリコンニュース",
   "ニコニコニュース",
   "ミニマリスト Nozomi",
@@ -308,11 +305,11 @@
   "ライフハッカー・ジャパン",
   "ライブドアニュース",
   "リンネル.jp",
+  "レイの小さな暮らし",
   "千葉テレビ放送",
   "千葉テレビ放送株式会社",
   "小さな暮らしノート",
   "山陽新聞",
-  "毎日キレイ",
   "私だけミニマリスト｜南さやか",
   "筆子ジャーナル",
   "联合早报",
@@ -320,6 +317,221 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "80dbc9e264ff5400",
+   "url": "https://note.com/mikoma7339/n/n6abbc1077ca0",
+   "title_original": "ゆるミニマリスト、毎日アクセを増やしたい。",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/336096880/rectangle_large_type_2_e63333a016e3535c825ccaa24864dee5.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-14T13:09:14+00:00",
+   "title_ja": "ゆるミニマリストが紹介する毎日のアクセサリー",
+   "summary_ja": "ゆるミニマリストとして暮らす筆者が、現在のアクセサリーのスタメンを紹介している。毎日のコーディネートに取り入れているお気に入りのアイテムを明かしている。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "アクセサリー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "337a7b1b749619a4",
+   "url": "https://tinyhousetalk.com/a-self-built-off-grid-a-frame-in-the-ontario-woods-with-a-sliding-loft-ladder",
+   "title_original": "A Self-Built Off-Grid A-Frame in the Ontario Woods with a Sliding Loft Ladder",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/2026/10/off-grid-a-frame-cabin-ontario-front-deck.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-14T12:30:00+00:00",
+   "title_ja": "オンタリオの森に家族が建てたオフグリッドな小屋",
+   "summary_ja": "カナダ・オンタリオ州の森の中で、家族が自ら建てた小さなAフレームのタイニーハウス。1階には簡易キッチンや薪ストーブ、リビングがあり、ロフトへ続くスライド式梯子を備える。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "薪ストーブ",
+    "梯子"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "e05982f5094a40ea",
+   "url": "https://tinyhousetalk.com/rosa-9-years-living-in-honda-element-elrond",
+   "title_original": "Rosa Has Lived in Her Honda Element for 9 Years and Nearly 300,000 Miles",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/rosa-honda-element-elrond-bed-platform-build.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-14T12:15:00+00:00",
+   "title_ja": "ホンダの車で9年間暮らす女性の生活の工夫",
+   "summary_ja": "ホンダの車に9年間住み続けている女性が、薄いフォームでの睡眠や金銭面、恐怖心について語ったインタビュー。車中泊でのミニマルな暮らしを続ける理由や考え方が紹介されている。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [
+    "ホンダの車"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "f26daae1f1e8aec3",
+   "url": "https://note.com/lusiell/n/n8cfcfd2c1fd8",
+   "title_original": "いつの日かのために 14",
+   "source": "note #ミニマリスト",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/4d574b149a31b894015a9583f4c81979b08b54e9.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-14T12:10:37+00:00",
+   "title_ja": "キャラクターのカードコレクションを手放した話",
+   "summary_ja": "サンリオのウエハースにおまけで付いてくるキャラクターカードを集めていたが、悩んだ末にカードコレクションブックごと手放したというエピソード。なんとなく集めていたものを整理した体験談。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "カードコレクションブック"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "25e81f68a5b9bdde",
+   "url": "https://tinyhousetalk.com/lance-two-side-by-side-tiny-homes-vancouver-island",
+   "title_original": "Why He Lives in Two Side-by-Side Tiny Homes on Vancouver Island",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/lance-side-by-side-tiny-home-pods-1.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-14T12:00:00+00:00",
+   "title_ja": "2棟の小さな家を並べて暮らす男性の住まい",
+   "summary_ja": "バンクーバー島で、150平方フィートの黒いスチールとシダー材でできた小さな家と、隣り合う120平方フィートのリビング用キャビンを組み合わせて暮らしている男性の住まい。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "0d1fe5af462fa5e9",
+   "url": "https://www.roomie.jp/2026/11/1927178",
+   "title_original": "毎朝おにぎりを量産する私が2年間愛用する「おにぎり型」。ラップ不要 & 10秒で完成するんです",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/261111_onigiri_00-scaled.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-14T11:30:24+00:00",
+   "title_ja": "毎朝のおにぎり作りで愛用しているおにぎり型",
+   "summary_ja": "食べ盛りの子供たちのために毎朝おにぎりを大量生産するライターが、2年間愛用しているおにぎり型。ラップを使わず10秒で完成するという、家事の手間を減らすための便利な道具。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "おにぎり型"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "853006f59bc7e228",
+   "url": "https://www.youtube.com/watch?v=Dn1ktfT4SPY",
+   "title_original": "vlog | 小さな幸せを集める休日 | 月10万で暮らす26歳ミニマリストの日常 | 一人暮らし【Vol.64】",
+   "source": "ミニマリストじゅん",
+   "image": "https://i1.ytimg.com/vi/Dn1ktfT4SPY/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-14T11:00:14+00:00",
+   "title_ja": "月10万で暮らすミニマリストの愛用品",
+   "summary_ja": "弁当箱型炊飯器やドリップケトル、スタンディングテーブルなど、部屋で使っているお気に入りの家具や家電を紹介している。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "弁当箱型炊飯器",
+    "ドリップケトル",
+    "スタンディングテーブル",
+    "小型冷蔵庫"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "e368b4f6383346a5",
+   "url": "https://www.roomie.jp/2026/11/1924983",
+   "title_original": "家のあちこちにお気に入りを飾れるようになったのは、この「フック」のおかげ。賃貸でも使いやすい秘密も",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/berukufook1114.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-14T10:21:55+00:00",
+   "title_ja": "賃貸の家でもお気に入りの雑貨を飾れるフック",
+   "summary_ja": "賃貸住宅の壁面を活用して、あちこちにお気に入りのアイテムを飾ることができる便利なフックについての紹介です。穴が目立ちにくい工夫があるため、傷を気にせずインテリアを楽しめる工夫として役立ちます。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "フック"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "b105132d19650590",
+   "url": "https://www.youtube.com/watch?v=Ds-dvtXti1o",
+   "title_original": "年末までに捨てるべき100個のモノ｜家中スッキリ！ミニマリストの捨て活リスト",
+   "source": "私だけミニマリスト｜南さやか",
+   "image": "https://i1.ytimg.com/vi/Ds-dvtXti1o/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-14T10:00:09+00:00",
+   "title_ja": "年末までに家の中をスッキリさせる100個の捨て活",
+   "summary_ja": "キッチンやクローゼット、リビングなど家中の場所ごとに、年末へ向けて手放すべきアイテムのアイデアをまとめたリストです。合計100個のリストを参考にしながら、自分に必要な物を見極めてすっきりと年を越すための方法が分かります。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "コーヒーミル",
+    "電気ポット",
+    "保存容器",
+    "バスマット"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "56e7fb0b7efba216",
+   "url": "https://tinyhousetalk.com/when-you-want-smaller-and-they-dont",
+   "title_original": "When You Want Smaller and They Don’t: Start Here",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/going-tiny-series-part-27.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-14T10:00:00+00:00",
+   "title_ja": "小さな暮らしやダウンサイジングに踏み切れない悩み",
+   "summary_ja": "ミニマリストのように住まいを小さくしたり、持ち物を減らしてシンプルに暮らしたいと考えていながらも、踏み出せずにいる読者のリアルな障壁や悩みについて取り上げています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "8daaa2d46c03f255",
+   "url": "https://nosidebar.com/benefits-small-simple-quiet",
+   "title_original": "The Benefits of Small, Simple, Quiet",
+   "source": "No Sidebar",
+   "image": "https://nosidebar.com/wp-content/uploads/small-simple-quiet.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-14T09:00:00+00:00",
+   "title_ja": "小さく静かな暮らしを選ぶメリット",
+   "summary_ja": "世の中はより大きく多くのものを求めていますが、小さくシンプルで静かな生活こそが必要十分であるという考え方について綴られています。穏やかな日常に満足することの大切さを伝えています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "84766e8e13b251b1",
+   "url": "https://note.com/minimal_life5929/n/na5e63f5d65b6",
+   "title_original": "ミニマリストは頂き物をどうする？ありがたく受け取って、その先は自由",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/335640483/rectangle_large_type_2_225774220b6d4f2fd84ef6ec1cc5513f.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-14T07:27:32+00:00",
+   "title_ja": "ミニマリストが人から頂いた物と向き合う方法",
+   "summary_ja": "贈り物をもらったときの受け取り方や、その後の手放し方についての考え方です。相手の好意はありがたく受け取りつつ、自分に合わない物は無理に残さず手放す姿勢について紹介しています。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
   {
    "id": "e806737844df7d28",
    "url": "https://note.com/happanomori/n/n9b9bfbbb98d7",
@@ -603,6 +815,22 @@
    "importance": 3
   },
   {
+   "id": "2667785d4fd08dbd",
+   "url": "https://www.youtube.com/shorts/1Z9G692iz1k",
+   "title_original": "Apartments are just modern caves.",
+   "source": "The Minimalists",
+   "image": "https://i2.ytimg.com/vi/1Z9G692iz1k/hqdefault.jpg",
+   "media": "youtube",
+   "region": "海外",
+   "published": "2026-11-13T16:54:42+00:00",
+   "title_ja": "アパートは現代の洞窟であるという視点",
+   "summary_ja": "アパートを現代の洞窟に例えたミニマリズムに関する動画です。暮らしのあり方について考えさせられる内容となっています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "3a792d0a0c0d290a",
    "url": "https://news.ameba.jp/entry/20261113-63135359",
    "title_original": "「もったいない人」と「捨てたい人」の越えられない壁。衝突が絶えなかった実家での日々",
@@ -692,6 +920,27 @@
    "category": "部屋・収納",
    "axis": "reduce",
    "things": [],
+   "importance": 2
+  },
+  {
+   "id": "db8e67fe570dcf21",
+   "url": "https://www.youtube.com/watch?v=UfuWfv_FhUA",
+   "title_original": "Our New PET, 4 Years Post Baby... (chit chatty vlog)",
+   "source": "Sarah Therese",
+   "image": "https://i2.ytimg.com/vi/UfuWfv_FhUA/hqdefault.jpg",
+   "media": "youtube",
+   "region": "海外",
+   "published": "2026-11-13T14:00:13+00:00",
+   "title_ja": "パン作りで愛用している道具と衣服の紹介",
+   "summary_ja": "オーガニックコットンのセーターやレギンスなどの衣服のほか、ゼロからパン作りを可能にする製パン機を愛用していることについて語っている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "セーター",
+    "ブラタンク",
+    "レギンス",
+    "製パン機"
+   ],
    "importance": 2
   },
   {
@@ -905,6 +1154,40 @@
    "importance": 4
   },
   {
+   "id": "8478b7cf8c3651df",
+   "url": "https://www.youtube.com/watch?v=dSWwy7LAh0Y",
+   "title_original": "【ミニマリスト】人間関係をラクにする/私も昔は悩んでいました",
+   "source": "ミニマリスト Nozomi",
+   "image": "https://i1.ytimg.com/vi/dSWwy7LAh0Y/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-13T11:00:08+00:00",
+   "title_ja": "持ち物40個で暮らすミニマリストの考え方",
+   "summary_ja": "ミニマリスト歴12年で服3着、持ち物40個で暮らす投稿者が、人間関係をラクにする方法や部屋の片付け方、思考の整理について語っている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "d5bbf0d2739c884c",
+   "url": "https://www.youtube.com/watch?v=yNV9FFu3Xvs",
+   "title_original": "【家計簿】無職、月11万で暮らす。10月の家計簿公開/一人暮らし",
+   "source": "レイの小さな暮らし",
+   "image": "https://i2.ytimg.com/vi/yNV9FFu3Xvs/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-13T11:00:04+00:00",
+   "title_ja": "無職の一人暮らし、月11万円で暮らす家計簿",
+   "summary_ja": "正社員を退職した26歳の一人暮らしが、月11万円で暮らす1月の家計簿を公開し、シンプルでのんびりとした日々の暮らしを紹介している。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "98bdea78647a16ae",
    "url": "https://www.roomie.jp/2026/11/1923882",
    "title_original": "小さなロルバーン、わたしならこう使う。「やりたいことノート」を作ったら休みの日がもっと楽しみになった",
@@ -959,6 +1242,41 @@
     "食洗機"
    ],
    "importance": 3
+  },
+  {
+   "id": "1f51bb361c41fac3",
+   "url": "https://www.youtube.com/watch?v=vQKNI0MsjHU",
+   "title_original": "【モーニングルーティン】ミニマリストを目指す30代の朝｜お菓子置き場の見直しと捨て活｜一人暮らし",
+   "source": "うにのゆるシンプルな暮らし",
+   "image": "https://i3.ytimg.com/vi/vQKNI0MsjHU/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-13T10:00:16+00:00",
+   "title_ja": "30代一人暮らしミニマリストの朝と、お菓子置き場の見直し",
+   "summary_ja": "物を減らし始めて4年になる30代一人暮らしの朝のルーティン。体重増加の誘惑になっていた電子レンジの上のお菓子置き場を見直し、うまくいかないことも含めた暮らしの記録を紹介している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "電子レンジ",
+    "アレクサ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "368d6fc6acc167a8",
+   "url": "https://www.youtube.com/watch?v=MHd4tV0tZaM",
+   "title_original": "「人生何周目？」と言われる私の、2年半前の話。",
+   "source": "小さな暮らしノート",
+   "image": "https://i2.ytimg.com/vi/MHd4tV0tZaM/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-13T08:30:04+00:00",
+   "title_ja": "離婚と心に余裕のない日々から、ミニマリストになって変わった話",
+   "summary_ja": "つらい経験や自信を失っていた状態から、ミニマリズムを通じて暮らしを整え、自分を取り戻していった変化の過程を振り返る。物を減らし心を整えることで、ひとりでも生きていける自信がついた道のりを語る。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
   },
   {
    "id": "df24443d5af654d3",
@@ -3579,6 +3897,22 @@
    "importance": 3
   },
   {
+   "id": "a407a4ed9e73430a",
+   "url": "https://balancethroughsimplicity.com/minimalism-and-hygge-how-to-make-your-home-cosy-without-adding-clutter",
+   "title_original": "Minimalism and Hygge: Cosy Without Clutter",
+   "source": "Balance Through Simplicity",
+   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2022/10/2-683x1024.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-08T23:59:00+00:00",
+   "title_ja": "ミニマリズムとヒュッゲを両立させて居心地の良い空間を作る方法",
+   "summary_ja": "物を増やさずに家を温かく心地よい空間にするためのコツを紹介しています。すっきりとした暮らしを保ちながらヒュッゲを取り入れるヒントがわかります。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
    "id": "981e4729db289ab7",
    "url": "https://news.yahoo.co.jp/articles/0888e19514577b7de2d33a9d034032cd385d0d12/images/000",
    "title_original": "中村アン、30代最後の今年「断捨離」実行中 カーゴディテール効く黒オールインワン (vois ヴォイス)",
@@ -4324,6 +4658,22 @@
    "importance": 2
   },
   {
+   "id": "4108a0a48838add6",
+   "url": "https://balancethroughsimplicity.com/autumn-decluttering-projects",
+   "title_original": "10 Autumn Decluttering Projects for a Cosier, Calmer Home",
+   "source": "Balance Through Simplicity",
+   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2024/09/Autumn-decluttering-projects-2-683x1024.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-07T12:15:00+00:00",
+   "title_ja": "秋に実践したい家をすっきり整える10の片づけプロジェクト",
+   "summary_ja": "木の葉が落ちるように、季節の変わり目に不要な物を手放すための10のアイデアを紹介しています。秋に向けて家の中を落ち着いた空間に整える方法がわかります。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
    "id": "e6c7f7ad76132624",
    "url": "https://tinyhousetalk.com/4x4-sprinter-full-time-van-life-this-is-van-life",
    "title_original": "A Factory 4×4 Sprinter, Made Their Own for Full-Time Van Life",
@@ -4671,6 +5021,22 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
+  },
+  {
+   "id": "d955cea759d25649",
+   "url": "https://balancethroughsimplicity.com/things-to-declutter-in-november",
+   "title_original": "30 Things to Declutter in November for a Simpler Home",
+   "source": "Balance Through Simplicity",
+   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2018/10/1-683x1024.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-07T04:00:00+00:00",
+   "title_ja": "11月に手放すと家がすっきり片づく30のアイテム",
+   "summary_ja": "11月に取り組める簡単な片づけプロジェクトを紹介しています。短時間でできるものから少し時間のかかるものまで、家の中を管理しやすくするためのヒントが満載です。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
   },
   {
    "id": "87ba8a4f2b83ab86",
@@ -6080,25 +6446,6 @@
    "importance": 3
   },
   {
-   "id": "5bcbf2b70c0fffda",
-   "url": "https://note.com/js2iam/n/n58953862fc59",
-   "title_original": "数えてみた バッグ編 のんびりミニマリストの持ち物リスト",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/332349140/rectangle_large_type_2_65fcb5243177034f84a7c45960fa3c85.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-04T23:17:49+00:00",
-   "title_ja": "ブランドバッグはゼロ。のんびりミニマリストのバッグ編リスト",
-   "summary_ja": "ブランドバッグを持たないのんびりミニマリストが、外出用のバッグを紹介している持ち物リストの記事。これまでの累計所持数は74個で、日常使いのバッグ事情を綴っている。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "バッグ",
-    "エコバッグ"
-   ],
-   "importance": 3
-  },
-  {
    "id": "7949c2dc561f38a7",
    "url": "https://www.roomie.jp/2026/11/1889533",
    "title_original": "「コストコ楽しかった〜」のあとに待つ、小分け地獄。アイラップとちょっとの工夫で楽になるよ",
@@ -6980,348 +7327,6 @@
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
-   "importance": 3
-  },
-  {
-   "id": "46cc736cae57c8b4",
-   "url": "https://www.canberratimes.com.au/story/9356953/melissa-freasier-canberra-expert-reveals-top-declutter-tips",
-   "title_original": "'I couldn't face it': the everyday burden of too much stuff",
-   "source": "The Canberra Times",
-   "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/9gmjQxX8MpSQh6J68NHMnY/f6b4818e-64ce-4fdd-94f4-eb2fb8c4c392.jpg/r0_429_5412_3270_w1200_h630_fmax.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-03T01:39:28+00:00",
-   "title_ja": "多すぎるモノに直面して圧倒された人の話",
-   "summary_ja": "日常生活におけるたくさんのモノに囲まれる負担や、それに直面したときの心理について述べられています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "c3da54c4b86a9713",
-   "url": "https://bemorewithless.com/things-you-shouldnt-declutter/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
-   "title_original": "7 Special Things You Shouldn’t Declutter",
-   "source": "Be More with Less",
-   "image": "https://bemorewithless.com/wp-content/uploads/2026/11/things-you-shouldnt-declutter-image.png",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-03T00:18:18+00:00",
-   "title_ja": "何でも手放すミニマリストが残すべき7つの特別な物",
-   "summary_ja": "普段はほとんどの物を手放すことを勧める筆者が、それにもかかわらず残しておいたほうがよいと推奨する7つの特別な物についての話。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "f15712517ef5e340",
-   "url": "https://minimalist-fudeko.com/reduce-food-waste",
-   "title_original": "生ゴミを減らす買い方としまい方。いつも余らせる食材に気づく",
-   "source": "筆子ジャーナル",
-   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/11/food-garbage.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-03T00:10:09+00:00",
-   "title_ja": "生ゴミを減らすための食材の買い方としまい方",
-   "summary_ja": "生ゴミを減らすため、使い切れずに傷ませてしまった食材がないかを見直し、適切な買い方やしまい方を工夫する暮らしのコツ。",
-   "category": "キッチン・食",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "8ef4e52a1658fcaf",
-   "url": "https://www.realsimple.com/3-item-decluttering-rule-12207471",
-   "title_original": "This Simple “3 Item” Decluttering Rule Takes Just Minutes a Week—and Organizers Swear by It",
-   "source": "Real Simple",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-02T22:45:00+00:00",
-   "title_ja": "数分でできる簡単な3アイテム片付けルール",
-   "summary_ja": "プロのオーガナイザーが推奨する、週に数分で実践できるシンプルな「3アイテム」の片付けルールを紹介した記事です。部屋の整理やモノを減らすための手軽なアプローチが学べます。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "969532e6b5405f43",
-   "url": "https://www.j-cast.com/news/provider/atPress_news/646365",
-   "title_original": "ミニマリストの源流ともいえる哲学者の教え『手放す幸せ』が11月25日に発売",
-   "source": "J-CAST ニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-02T22:30:00+00:00",
-   "title_ja": "ミニマリストの源流である哲学者の教えを取り上げた書籍",
-   "summary_ja": "ミニマリズムの源流とも言える哲学者たちの考え方や、モノを手放すことに関する教えをまとめた書籍の発売情報です。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "a846a869b59e8f39",
-   "url": "https://www.atpress.ne.jp/news/4101391",
-   "title_original": "【ミニマリストの源流】『手放す幸せ ～世界一自由な哲学者ディオゲネスの言葉～』2026年11月25日（水）発売",
-   "source": "アットプレス",
-   "image": "https://www.atpress.ne.jp/attachments/GDz8wF3wZKfGqGbruJfz.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-02T22:30:00+00:00",
-   "title_ja": "ミニマリストの源流を描いた書籍の発売情報",
-   "summary_ja": "古代の哲学者ディオゲネスの言葉を通じて、モノを手放す生き方の原点に迫る書籍の紹介です。ミニマリズムの思想や考え方を深めるためのヒントが得られます。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "9cc65d46c44d8780",
-   "url": "https://www.roomie.jp/2026/11/1920879",
-   "title_original": "無印良品の組み合わせで「ミニマルなオーラルケアセット」が完成。食後のケアはこれだけ持てば十分でした",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/2611_muji_etiquette10.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-02T22:00:36+00:00",
-   "title_ja": "無印良品のアイテムで作るミニマルなオーラルケアセット",
-   "summary_ja": "休日の外出を身軽にするため、無印良品のアイテムを組み合わせてミニマルなオーラルケアセットを完成させたライターの記事。食後のケアに必要な最小限の道具を持ち歩く工夫を紹介している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "無印良品のケース",
-    "歯ブラシ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "dbfecb1b111d06d0",
-   "url": "https://www.housebeautiful.com/lifestyle/organizing-tips/a74286542/decluttering-home-after-five-years",
-   "title_original": "13 Things You Should Toss ASAP If You’ve Lived in Your Home for More Than 5 Years",
-   "source": "House Beautiful",
-   "image": "https://hips.hearstapps.com/hmg-prod/images/2cc21540-d0d1-4741-95a7-5244e41b9cb3.jpeg?crop=1xw:0.658xh;0xw,0.236xh&resize=1200:*",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-02T18:16:05+00:00",
-   "title_ja": "5年以上住んだ家ですぐに手放すべき13の物",
-   "summary_ja": "5年以上同じ家で暮らしている場合に、すぐに処分したほうがよい13の物について紹介している記事。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "e6d243bb66056887",
-   "url": "https://www.goodhousekeeping.com/uk/house-and-home/household-advice/a74311688/the-three-outfit-decluttering-test",
-   "title_original": "The ‘three-outfit’ test is the clever shortcut to a hassle-free winter wardrobe swap",
-   "source": "Good Housekeeping",
-   "image": "https://hips.hearstapps.com/hmg-prod/images/1f4813cf-d102-4152-bd15-64eeb0dacd5e.jpg?crop=1.00xw:0.752xh;0,0.0240xh&resize=1200:*",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-02T17:51:26+00:00",
-   "title_ja": "冬の衣替えを楽にするスリーアウトフィットテスト",
-   "summary_ja": "冬のワードローブの入れ替えをスムーズにするための、3つのコーディネートに絞るテスト手法を紹介しています。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "63190b9401363bc4",
-   "url": "https://www.youtube.com/shorts/-dCO74wvbGg",
-   "title_original": "Don’t call it “sale price.” Call it “fool price.”",
-   "source": "The Minimalists",
-   "image": "https://i2.ytimg.com/vi/-dCO74wvbGg/hqdefault.jpg",
-   "media": "youtube",
-   "region": "海外",
-   "published": "2026-11-02T17:08:03+00:00",
-   "title_ja": "セール品への意識を変える考え方",
-   "summary_ja": "「セール価格」ではなく「愚か者の価格」と言い換えることで、不要な衝動買いを防ぐための買い物の捉え方について考える。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "93d3be4fc09d1832",
-   "url": "https://www.southernliving.com/things-experts-say-stop-saving-for-kids-12197419",
-   "title_original": "6 Things Decluttering Experts Say You Should Stop Saving for Your Kids",
-   "source": "Southern Living",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-02T16:15:00+00:00",
-   "title_ja": "子どもへ残すために保管しなくてよい物6選",
-   "summary_ja": "片付けの専門家が指摘する、子どものために取っておくべきではない物についての解説。親世代の善意が物であふれる原因になるため、判断基準を見直すヒントになる。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "9de921f77939e769",
-   "url": "https://mainichikirei.jp/movie/muc2HbsaD6Y.html",
-   "title_original": "【動画】中村アン、今年の目標は断捨離 「10年後も一緒に過ごしたいと思えるものだけ残して」",
-   "source": "毎日キレイ",
-   "image": "https://i.ytimg.com/vi/muc2HbsaD6Y/hqdefault.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-02T15:00:00+00:00",
-   "title_ja": "中村アンが語る今年の目標とモノの残し方",
-   "summary_ja": "俳優の中村アンが今年の目標として断捨離を挙げた。10年後も一緒に過ごしたいと思えるお気に入りの物だけを手元に残すという、厳選する基準について語っている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "2138841d441b3297",
-   "url": "https://news.livedoor.com/topics/detail/32717237/?_clicked=echoes_list",
-   "title_original": "真似したい！27歳実家暮らしミニマリストに学ぶ、手放しても後悔しないもの7選",
-   "source": "ライブドアニュース",
-   "image": "https://image.news.livedoor.com/newsimage/stf/2/3/23f79_1845_5360594f_a25f11f0.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-02T14:49:58+00:00",
-   "title_ja": "27歳の実家暮らしミニマリストが教える手放しても後悔しない7つのもの",
-   "summary_ja": "実家で暮らす27歳のミニマリストが、手放しても後悔しなかった7つのものについて紹介する記事。物を減らす際に何を残し何を処分すべきか、後悔しないための選択基準や考え方がまとめられている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "48ec613d96f10b3e",
-   "url": "https://www.roomie.jp/2026/11/1921355",
-   "title_original": "夕方に灯して、夜までぼんやりできる炎を眺められるアイロンストーブ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/panoramaironstove2.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-02T14:45:22+00:00",
-   "title_ja": "360度どこからでも炎を眺めて楽しめるアイロンストーブ",
-   "summary_ja": "アウトドアでのヒーリングタイムに使えるアイロンストーブを紹介。前・後・左・右の4面すべてに耐熱ガラスが配置されており、どこからでも炎を眺めて楽しむことができる。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "アイロンストーブ"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "9ddc5b153d412c0c",
-   "url": "https://nosidebar.com/peace-or-popularity",
-   "title_original": "Peace or Popularity?",
-   "source": "No Sidebar",
-   "image": "https://nosidebar.com/wp-content/uploads/ohlucinda-Gg8vnQlBfNo-unsplash-scaled.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-02T14:00:00+00:00",
-   "title_ja": "スリフトショップで気に入ったビンテージ調理器具を集め始めた人の話",
-   "summary_ja": "古着の販売員をしている筆者が、仕事で古着屋やエステートセールを巡るなかで、お気に入りのビンテージキッチンウェアを少しずつ集め始めたエピソード。収集の難しさと、理想の道具を見つけたときの喜びや満足感について綴られています。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "ビンテージキッチンウェア"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "6a5125388739ceee",
-   "url": "https://www.lifehacker.jp/article/2611-amazon-tplinkub6a",
-   "title_original": "古いPCを、ワイヤレスで使いやすく。Bluetooth 6.0を追加できるTP-Linkの超小型アダプタ",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/11/01/df489a41-ad65-4425-9870-8cc286f24ae7/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-02T14:00:00+00:00",
-   "title_ja": "古いPCをワイヤレス化してデスク周りを整える超小型アダプタの活用例",
-   "summary_ja": "PCにBluetooth機能を追加できるTP-Linkの超小型USBアダプタ。マウスやキーボード、イヤホンなど最大7台の機器を同時にワイヤレス接続できます。ケーブルを減らしてデスク周りをすっきりさせたい人に役立つアイテムです。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "USBアダプタ",
-    "マウス",
-    "キーボード",
-    "イヤホン"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f0a58a573c6013ec",
-   "url": "https://www.countryliving.com/uk/out-and-about/a74295605/meet-dilly-carter-at-country-living-christmas-market-november-decluttering",
-   "title_original": "Meet Dilly Carter this November and hear the one 'crucial' question to ask before decluttering",
-   "source": "Country Living Magazine",
-   "image": "https://hips.hearstapps.com/hmg-prod/images/356670fe-1440-44d1-b06c-ff3e7ddf4ede.jpeg?crop=1xw:0.75006xh;center,top&resize=1200:*",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-02T13:45:15+00:00",
-   "title_ja": "片付けを始める前に自分へ投げかけるべき重要な質問についての記事",
-   "summary_ja": "整理整頓の専門家であるディリー・カーター氏が提唱する、物を減らす作業に取りかかる前に自分自身へ問いかけるべき最も重要な質問について紹介。不要な物を見極め、手放す基準をクリアにしたい人に適した内容です。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "c5d6d4b286c5468e",
-   "url": "https://tinyhousetalk.com/tiny-house-builders-ontario-canada",
-   "title_original": "7 Tiny House Builders in Ontario, Canada Worth Knowing",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/Crawford-Compact-Homes-Tiny-House-On-Wheels.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-02T12:30:00+00:00",
-   "title_ja": "カナダ・オンタリオ州で注目のタイニーハウスビルダー7選",
-   "summary_ja": "オフグリッドコミュニティや移動式住宅、モジュール式の小型住宅などを手掛けるカナダ・オンタリオ州のタイニーハウス建築業者7社と、建築基準に関する知識を紹介している。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "タイニーハウス",
-    "小型住宅"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c34eee0f3611e15f",
-   "url": "https://tinyhousetalk.com/nordic-abode-176-sq-ft-tiny-house-soaking-tub",
-   "title_original": "The Nordic Abode: A 176 Sq. Ft. Scandinavian Tiny House with a Soaking Tub",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/Nordic-Abode-Tiny-House-Exterior-Deck.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-02T12:15:00+00:00",
-   "title_ja": "バスタブを備えた約16平米の北欧風タイニーハウス",
-   "summary_ja": "黒い外壁と温かみのあるパイン材の内装が特徴的な約16平方メートルのタイニーハウス。高床式ベッドやIH簡易キッチン、独立型バスタブ、屋外シャワーを備えている。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "タイニーハウス",
-    "ベッド",
-    "IH簡易キッチン",
-    "バスタブ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "b9fe9051dd35814f",
-   "url": "https://www.roomie.jp/2026/11/1920904",
-   "title_original": "サンワサプライの新作マウスは「奥行き約7cm」に収納できる。スライドするだけで電源もOFFに",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/20261102_sanwamouse_1.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-02T12:00:28+00:00",
-   "title_ja": "持ち運びに便利なサンワサプライの小型マウス",
-   "summary_ja": "ノートPCと一緒に持ち歩く際の片付けの面倒さを減らす、奥行き約7cmに収納できてスライドで電源オフになるマウスを紹介している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "マウス"
-   ],
    "importance": 3
   }
  ]
