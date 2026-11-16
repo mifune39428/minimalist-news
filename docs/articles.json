@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T14:29:43.641141+09:00",
+ "updated_at": "2026-11-17T00:12:46.478603+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,49 +27,43 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-16T14:32:28.490362+09:00",
+  "generated_at": "2026-11-17T00:15:05.835466+09:00",
   "days": 3,
-  "period": "11月15日〜11月16日",
+  "period": "11月15日〜11月17日",
   "count": 45,
-  "reduce_count": 30,
-  "own_count": 15,
-  "overview": "暮らしや心の余白を作るため、手放し方や日々の習慣を見直す実践例が多数語られています。また、デスクまわりや収納をすっきり保つための愛用品も紹介されています。",
-  "reduce": "母の介護や衣替えをきっかけにした衣類の断捨離や、衝動的な処分を防ぐための手放し方の工夫が数多く紹介されている。",
-  "own": "スリングバッグや本革ショルダー、薄型長財布など、身軽さを保ちつつ実用性を兼ね備えたアイテムが注目されている。",
+  "reduce_count": 29,
+  "own_count": 16,
+  "overview": "物理的なモノやデジタル情報の減らし方、日々の習慣や暮らしの実例、厳選された持ち物に関する話題が幅広く語られています。",
+  "reduce": "物を手放す基準や衣類の整理術、ため込み癖に悩む心理面の克服など、日々の暮らしを見直す具体的な工夫が語られています。",
+  "own": "バックパックや長財布など身軽な移動を支えるアイテムや、空間を圧迫しない省スペースなガジェットの活用事例が紹介されています。",
   "points": [
    {
-    "title": "手放す際の心理的負担",
-    "body": "ため込み癖や散らかった環境に恥ずかしさを感じていた女性が、片付けられない葛藤を抱えながら前へ進もうとする体験談が語られている。"
+    "title": "デジタルと時間の見直し",
+    "body": "Ethereum共同創設者のVitalikや各メディアが、物理的な断捨離だけでなく情報やデジタル機器との関わりも最小化するデジタル・ミニマリズムの重要性を語っています。"
    },
    {
-    "title": "家事や掃除の手間を減らす工夫",
-    "body": "洗濯乾燥機の導入や網戸の水洗い、浴室の小まめな微掃除など、日常の家事や手入れの負担を軽くする具体的な手法が提案されている。"
+    "title": "衣類の整理と手放し方",
+    "body": "衣替えをきっかけに服の過剰感に気づき手放す方法や、クローゼットから不要な7つのアイテムを見直して毎日の身支度を楽にする工夫が紹介されています。"
    },
    {
-    "title": "購入時の罠と習慣化のコツ",
-    "body": "1つの購入が連鎖的な散財を招くディドロ効果への注意喚起や、目標を声に出して続ける30日チャレンジの習慣が紹介されている。"
+    "title": "省スペースな愛用品の活用",
+    "body": "ロジクールの1台2役キーボードや山崎実業のバンドなど、デスク周りや部屋のスペースを確保して余白を作る便利なアイテムの実例が挙げられています。"
    }
   ],
   "keywords": [
+   "持ち物",
    "断捨離",
-   "ミニマリスト",
-   "収納",
-   "バッグ",
-   "手放す"
+   "ミニマリスト"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 16
+   "count": 14
   },
   {
    "name": "スマートフォン",
    "count": 7
-  },
-  {
-   "name": "バッグ",
-   "count": 6
   },
   {
    "name": "モバイルバッテリー",
@@ -77,6 +71,14 @@
   },
   {
    "name": "バックパック",
+   "count": 4
+  },
+  {
+   "name": "バッグ",
+   "count": 4
+  },
+  {
+   "name": "腕時計",
    "count": 4
   },
   {
@@ -108,14 +110,6 @@
    "count": 3
   },
   {
-   "name": "腕時計",
-   "count": 3
-  },
-  {
-   "name": "靴",
-   "count": 3
-  },
-  {
    "name": "食器",
    "count": 3
   },
@@ -125,10 +119,6 @@
   },
   {
    "name": "USB-Cケーブル",
-   "count": 2
-  },
-  {
-   "name": "キャンパスノート",
    "count": 2
   },
   {
@@ -180,10 +170,6 @@
    "count": 2
   },
   {
-   "name": "冷凍庫",
-   "count": 2
-  },
-  {
    "name": "収納バスケット",
    "count": 2
   },
@@ -218,6 +204,18 @@
   {
    "name": "製パン機",
    "count": 2
+  },
+  {
+   "name": "財布",
+   "count": 2
+  },
+  {
+   "name": "靴",
+   "count": 2
+  },
+  {
+   "name": "食洗機",
+   "count": 2
   }
  ],
  "sources": [
@@ -237,7 +235,6 @@
   "FOX6 News Milwaukee",
   "Facebook",
   "Fast Company（働き方）",
-  "GearLab",
   "Global News",
   "Good Housekeeping",
   "Homes and Gardens",
@@ -249,6 +246,7 @@
   "Koubo",
   "Lifehacker",
   "Martha Stewart",
+  "Mashable",
   "MonoMax",
   "No Sidebar",
   "Parade Magazine",
@@ -270,6 +268,7 @@
   "Tokuno | Minimalist",
   "Travel + Leisure",
   "Unisba Media",
+  "Vogue Scandinavia",
   "Wales Online",
   "Woman & Home",
   "Women's Health",
@@ -298,7 +297,6 @@
   "やましたひでこ断捨離",
   "ウレぴあ総研",
   "オリコンニュース",
-  "ニコニコニュース",
   "ハフポスト",
   "ミニマリスト Nozomi",
   "ミニマリストK",
@@ -319,6 +317,196 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "c0ffa7b34bc5074f",
+   "url": "https://note.com/tsukinomichi82/n/n805b5a93e45c",
+   "title_original": "三行日記 こんなに可愛い部屋だったのか、私の部屋",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/337001416/rectangle_large_type_2_2560bb67ca040f83c7c0737edccaed86.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-16T15:05:48+00:00",
+   "title_ja": "片付いた床が見える部屋の変化と感想",
+   "summary_ja": "部屋を整理し床が見えるようになると、壁紙や床材の魅力に気づき、以前の放置をもったいないと感じた。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "e73e9fad0852eef7",
+   "url": "https://note.com/yutomini/n/n4f497e0b81e8",
+   "title_original": "ETH創設者によるDigital Detoxのすすめ",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/337000835/rectangle_large_type_2_ce6bd2e6df959333e6a74b546b82a175.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-16T15:03:17+00:00",
+   "title_ja": "Vitalikが語るデジタル・ミニマリズムの実践",
+   "summary_ja": "Ethereum共同創設者Vitalikがデジタル・ミニマリズムを提唱し、物理的だけでなく情報との関わりも最小化する考え方を紹介した。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "82d3c97794e6b3e3",
+   "url": "https://www.roomie.jp/2026/11/1930634",
+   "title_original": "本物の炎で暖房・調理・灯りetc. 今年の冬はミニサイズのストーブが活躍しそう",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/brahman2.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-16T14:45:52+00:00",
+   "title_ja": "チタン製ミニストーブ『Brahman』を実際に試す",
+   "summary_ja": "チタン製ミニアイロンストーブBrahmanを使い、炎で暖房・調理・照明ができる手軽さと実用性をレポートしている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "Brahman"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "f7440835eded4546",
+   "url": "https://www.roomie.jp/2026/11/1930624",
+   "title_original": "靴は下部の防水シューズボックスへ。キャリーケースで分けていた荷物も背中にまとまる42Lバックパック",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/flexy3.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-16T13:45:39+00:00",
+   "title_ja": "キャリーケースから42Lバックパックに変えた話",
+   "summary_ja": "移動時の負担を減らすため、キャリーケースから背中にまとまる42Lのバックパックに荷物を移行した。下部には防水シューズボックスを備えており、旅の荷物をすっきりと収めることができる。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "バックパック",
+    "キャリーケース",
+    "防水シューズボックス"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "003dc563523764b7",
+   "url": "https://www.voguescandinavia.com/articles/declutter-your-bedroom",
+   "title_original": "5 expert tips to declutter your bedroom",
+   "source": "Vogue Scandinavia",
+   "image": "https://images.vs-static.com/pjJ3he9Go82FUAx7hdJ3gKc3jFY=/0x1734:2999x3420/1900x0/and_tradition_declutter_your_bedroom_vogue_scandinavia_2644308d4b/and_tradition_declutter_your_bedroom_vogue_scandinavia_2644308d4b.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-16T13:23:53+00:00",
+   "title_ja": "寝室をすっきりと片づける5つの専門家のコツ",
+   "summary_ja": "寝室の空間を心地よく整え、不要なものを整理するための5つの専門家のアドバイスを紹介している。部屋の余白を増やしてリラックスできる環境を作るための考え方が学べる。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "2d70612ce2310997",
+   "url": "https://www.roomie.jp/2026/11/1925365",
+   "title_original": "ガス缶はもう卒業！充電式で何度でも使える、サンワダイレクトの電動エアダスター",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/1-6.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-16T13:15:19+00:00",
+   "title_ja": "ガス缶を卒業して充電式電動エアダスターを使う話",
+   "summary_ja": "使い捨てのガス缶タイプを避け、充電式で繰り返し使えるサンワダイレクトの電動エアダスターを導入した話。キーボードやPC内部、エアコン吹き出し口のホコリ掃除に活用している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "電動エアダスター"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "0dccda1bd3d93688",
+   "url": "https://monomax.jp/archives/372175",
+   "title_original": "「この洗練されたレトロ感がたまらない」1万円台で買えるA.P.C.×カシオのコラボ時計！“デジアナ”の名機がミニマルに進化",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2026/11/d6e1b43e4b3e033042141421caf2cbdc.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-16T13:00:19+00:00",
+   "title_ja": "1万円台で買えるA.P.C.とカシオのコラボ時計",
+   "summary_ja": "レトロでクリーンなデザインが特徴的な、A.P.C.とカシオによるコラボレーションのデジアナ時計を紹介する記事。ミニマルな進化を遂げた洗練された腕時計について触れている。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "腕時計"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "52bc53bcad1f9f73",
+   "url": "https://www.theminimalists.com/p563",
+   "title_original": "Podcast Ep. 563 | Golden Handcuffs",
+   "source": "The Minimalists",
+   "image": "",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-16T13:00:00+00:00",
+   "title_ja": "安全への執着が牢獄になることを語るポッドキャスト",
+   "summary_ja": "変化を恐れて安定にしがみつくことが、かえって自分を縛り付ける牢獄になってしまうというテーマについて語るミニマリストのポッドキャスト。物質的な執着を見直すきっかけになる内容。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "f1d0d2a50a4112fc",
+   "url": "https://tinyhousetalk.com/new-orleans-inspired-family-tiny-house-british-columbia",
+   "title_original": "A New Orleans-Inspired 34-Foot Family Tiny House with Bunk Rooms on BC’s West Coast",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/living-big-juliette-jason-34ft-exterior-1.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-16T12:30:00+00:00",
+   "title_ja": "工夫が詰まった家族のためのタイニーハウス",
+   "summary_ja": "ニューオーリンズ風のデザインを取り入れた34フィートのタイニーハウス。銅製シンクのキッチンや bunk rooms、床暖房付きの浴室を備え、家族で暮らしている。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "銅製シンク"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "feb83f403329ccb3",
+   "url": "https://www.youtube.com/watch?v=HJ0BYFP5Udw",
+   "title_original": "Golden Handcuffs | The Minimalists Ep. 563",
+   "source": "The Minimalists",
+   "image": "https://i1.ytimg.com/vi/HJ0BYFP5Udw/hqdefault.jpg",
+   "media": "youtube",
+   "region": "海外",
+   "published": "2026-11-16T12:00:07+00:00",
+   "title_ja": "金の手錠に囚われた感覚と片付けの壁",
+   "summary_ja": "The Minimalistsは、日常の小物が『金の手錠』のように自由を奪う感覚と、片付けで最も苦しい瞬間について語り、何が本当に手放す価値があるかを問いかける。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "c71b65e537cf2da3",
+   "url": "https://monomax.jp/archives/371502",
+   "title_original": "【見えない部分まで誠実な靴】マムートのゴアテックス靴は語れる背景も一級品だ。製造環境に配慮、過酷な自然と共存する“本物のギア”『SDGsモノ』",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2027/11/SDGSKKKKK-2-scaled-e1794806387448.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-16T11:00:13+00:00",
+   "title_ja": "マムートのゴアテックスシューズは環境配慮と高機能が両立",
+   "summary_ja": "マムートのゴアテックスシューズは、製造過程で環境配慮を徹底し、過酷な自然でも耐える高機能性を備える。本格的なアウトドアギアとして、長く使える点がミニマリストに評価されている。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "マムート ゴアテックス靴"
+   ],
+   "importance": 3
+  },
   {
    "id": "27f5fa8cde29f86a",
    "url": "https://note.com/hanitan_note/n/nf43d61ce314b",
@@ -853,6 +1041,22 @@
     "軽タンス"
    ],
    "importance": 4
+  },
+  {
+   "id": "c2117ddd3403feee",
+   "url": "https://mashable.com/article/digital-minimalism-cal-newport-guide-attention-economy",
+   "title_original": "What is digital minimalism and how can it help you reclaim your time",
+   "source": "Mashable",
+   "image": "https://helios-i.mashable.com/imagery/articles/04YgXjIaS3fXzobBfiZOExm/hero-image.fill.size_1200x675.v1655324045.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-15T10:00:00+00:00",
+   "title_ja": "デジタルミニマリズムで自分の時間を取り戻す方法",
+   "summary_ja": "デジタル機器や情報との付き合い方を見直し、デジタルミニマリズムを取り入れることで、日々の生活の中で自分の時間を取り戻すための考え方について解説しています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
   },
   {
    "id": "335a48d18935b8eb",
@@ -6105,27 +6309,6 @@
    "importance": 4
   },
   {
-   "id": "87ba8a4f2b83ab86",
-   "url": "https://note.com/20chaku/n/n828528de7e1b",
-   "title_original": "100着あっても、着ていたのはいつもの服だった",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/332765355/rectangle_large_type_2_501f5fd09e8026c152d009cf3deb20e6.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-07T02:50:12+00:00",
-   "title_ja": "服を100着持っていた元アパレル店員が全身20着で暮らすようになった話",
-   "summary_ja": "たくさんの服を抱えながら着る服に悩んでいた元アパレル店員が、下着や靴、バッグを含めて全身20着で暮らすようになった体験談。100着所有していた過去の失敗を経て、自分に必要な枚数まで絞り込んだ持ち物の実例を紹介する。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "服",
-    "下着",
-    "靴",
-    "バッグ"
-   ],
-   "importance": 4
-  },
-  {
    "id": "e8195abfce0ef3d7",
    "url": "https://news.infoseek.co.jp/amp/article/otonanswer_407418",
    "title_original": "「捨てなくても」部屋はすっきり片付く！ 片付けのプロが教える5つの“空間リセット術”",
@@ -6242,27 +6425,6 @@
    "axis": "reduce",
    "things": [
     "芝刈り機"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ced2c2a12c1c43f2",
-   "url": "https://note.com/norith_tabi/n/ncbdb484d612c",
-   "title_original": "理想は敵かもしれない",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/333112290/rectangle_large_type_2_1e90affae18ecc78ffed789b13184bc7.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-06T22:35:24+00:00",
-   "title_ja": "理想の軽量自転車旅を追求して装備リストを作った話",
-   "summary_ja": "自転車旅の装備として、軽量で頑丈な一生モノの道具をAIと相談しながら検討し、理想のULバイクパッキングの装備リストを完成させた人の話です。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "修理道具",
-    "フレーム",
-    "衣服",
-    "バッグ"
    ],
    "importance": 3
   },
@@ -6411,24 +6573,6 @@
    "axis": "reduce",
    "things": [
     "製パン機"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "d72cb42fb92686e3",
-   "url": "https://note.com/hena_cho/n/n3d91df0ba136",
-   "title_original": "今日の整え。子どものパジャマを見直そう",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/333012690/rectangle_large_type_2_e89570dd2d11a70ccad71a4f707c6930.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-06T13:50:53+00:00",
-   "title_ja": "子どものパジャマを見直した日々の整え",
-   "summary_ja": "季節の変わり目にあわせて、子どものパジャマを半袖から長袖へと入れ替えた。さらに本格的な寒さに備えて、真冬用のパジャマもすぐ出せるように準備して快適に過ごせるよう整えている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "パジャマ"
    ],
    "importance": 2
   },
@@ -7168,167 +7312,6 @@
    "category": "暮らしの実例",
    "axis": "own",
    "things": [],
-   "importance": 3
-  },
-  {
-   "id": "5af603401f3cd6b0",
-   "url": "https://www.outdoorgearlab.com/reviews/travel/travel-backpack/tortuga-travel-backpack-pro-40l",
-   "title_original": "Tortuga Travel Backpack Pro 40L Review",
-   "source": "GearLab",
-   "image": "https://outdoorgearlab.b-cdn.net/photos/35/12/472740_7869_XXL.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-05T03:16:58+00:00",
-   "title_ja": "大容量バックパック「Tortuga Travel Backpack Pro 40L」のレビュー",
-   "summary_ja": "旅行用の大容量バックパックであるTortuga Travel Backpack Pro 40Lの使用感を検証した海外の製品レビュー記事。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "バックパック"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "7ff027b12dead174",
-   "url": "https://www.roomie.jp/2026/11/1922279",
-   "title_original": "「ノートの罫線って、こんなに薄くていいんだ」。15年ぶりにリニューアルしたキャンパスノートがいい感じ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/261104_campusnote_00-scaled.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-05T03:00:18+00:00",
-   "title_ja": "15年ぶりに刷新された薄い罫線のキャンパスノート",
-   "summary_ja": "15年ぶりにリニューアルされ、罫線がより薄くなって使いやすくなったキャンパスノートの紹介。機能性と佇まいの美しさを重視するライターが選んだ文房具。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "キャンパスノート"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "c93cd30c09a950eb",
-   "url": "https://www.roomie.jp/2026/11/1922353",
-   "title_original": "ヘルメットがなくてもOK！キャップのつばに挟むだけで、ゴルフや釣りでも仲間と話せる28gのインカム",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/amasteryactiveintercom1.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-05T02:45:47+00:00",
-   "title_ja": "キャップに挟むだけの軽量インカム「Active Intercom」",
-   "summary_ja": "キャップのつばに挟むだけで使える、重量28gのオープンイヤー型イヤホンインカムの紹介。アウトドアや移動中に仲間と手軽に会話できる道具。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "イヤホンインカム"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "856d53b3beec3fb0",
-   "url": "https://www.lifehacker.jp/article/2611-costorypo-metalwallet-end-1218899641",
-   "title_original": "その動きに誰もが二度見。カード類が0.5秒で取り出せる財布",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/11/04/6f13a302-af46-4d1e-b522-5be7485702be/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-05T02:30:00+00:00",
-   "title_ja": "カードを0.5秒で取り出せるコンパクト財布の紹介",
-   "summary_ja": "ベルギー発のGARZINIコンパクト財布は、ワンプッシュでカードを素早く取り出せ、最大10枚のカードと紙幣・小銭を収納でき、RFIDブロック機能も備えている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "コンパクト財布",
-    "アルミケース"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "9db9795981dad6a4",
-   "url": "https://article.auone.jp/be1dc9b0-0b16-48f9-aa18-f471d0fdd2d8",
-   "title_original": "20キロも断捨離したのに、あれ？家族は気づかなかった話",
-   "source": "au Webポータル",
-   "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/11/05/https___news_jp_i_1490890611703382288_w768.webp",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-05T01:47:00+00:00",
-   "title_ja": "20kgの断捨離をしたが家族は気付かなかった話",
-   "summary_ja": "20kgの荷物を断捨離したが、家族は変化に気づかず、本人の生活感覚の変化や手放しの実感を語るエピソード。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "5a9e5e36782e902d",
-   "url": "https://news.nicovideo.jp/watch/nw19957671?news_ref=search_search",
-   "title_original": "「今年の秋冬はこれ」ミニマリスト女性がコーデを組んだら…… 厳選11着の着こなしに「参考になりました」",
-   "source": "ニコニコニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-05T01:06:51+00:00",
-   "title_ja": "ミニマリスト女性が組む厳選11着の秋冬コーデ",
-   "summary_ja": "ミニマリストの女性が今年の秋冬に向けて厳選した、11着の服を使ったコーディネートや着こなしの工夫を紹介している記事です。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "服"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "6879a1d135d1d6b5",
-   "url": "https://minimalist-fudeko.com/make-tools-last-longer",
-   "title_original": "少ない道具を長持ちさせる、傷めない使い方と手入れのタイミング",
-   "source": "筆子ジャーナル",
-   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/11/Washing-a-frying-pan.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-05T00:10:18+00:00",
-   "title_ja": "少ない道具を長持ちさせる使い方と手入れのコツ",
-   "summary_ja": "断捨離して残した少ない台所道具やパソコンなどの持ち物を、できるだけ長く大切に使い続けるための心がけや手入れのタイミングについて紹介しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "台所道具",
-    "パソコン"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "5a09ba7456af2c69",
-   "url": "https://bemorewithless.com/simplify-your-mornings/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
-   "title_original": "Simplify Your Mornings: Create a Stress-Free Start to Your Day",
-   "source": "Be More with Less",
-   "image": "https://bemorewithless.com/wp-content/uploads/2024/03/simplify-mornings-image.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-05T00:05:41+00:00",
-   "title_ja": "ストレスのない朝を迎えるためのルーティン作り",
-   "summary_ja": "シンプルなヒントを取り入れて、毎日の朝のルーティンを改善し、ストレスを減らしてスムーズに一日をスタートさせる方法を紹介しています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "7949c2dc561f38a7",
-   "url": "https://www.roomie.jp/2026/11/1889533",
-   "title_original": "「コストコ楽しかった〜」のあとに待つ、小分け地獄。アイラップとちょっとの工夫で楽になるよ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/09/IMG_0270.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-04T23:00:49+00:00",
-   "title_ja": "コストコの大量買い、帰宅後の片付けと小分けの工夫",
-   "summary_ja": "コストコでの大量の買い物から帰宅したあと、げんなりしてしまう片付けの負担を軽くする工夫を紹介。冷凍品を最優先で片付けるなど、スムーズに小分けして家事を楽にする実例をまとめている。",
-   "category": "キッチン・食",
-   "axis": "reduce",
-   "things": [
-    "アイラップ",
-    "冷凍庫"
-   ],
    "importance": 3
   }
  ]
