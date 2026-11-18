@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T00:42:21.170824+09:00",
+ "updated_at": "2026-11-18T09:45:01.476118+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,35 +27,31 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-18T00:44:42.672631+09:00",
+  "generated_at": "2026-11-18T09:48:26.042251+09:00",
   "days": 3,
-  "period": "11月16日〜11月17日",
+  "period": "11月16日〜11月18日",
   "count": 45,
   "reduce_count": 25,
   "own_count": 20,
-  "overview": "11月16日〜11月17日のミニマリスト関連ニュースでは、衣服や遺品などの手放し方に関する体験談や、タイニーハウスでのコンパクトな暮らしの実例が多く語られています。",
-  "reduce": "衣類や遺品の整理、固定費やサブスクの見直しを通じて不要なものや習慣を手放す体験談が多数語られています。",
-  "own": "タイニーハウスでのコンパクトな暮らしや、ガジェットやバッグなどの厳選された持ち物の紹介が目立ちます。",
+  "overview": "11月16日から11月18日に集まった45件の記事では、持ち物の具体的な手放し方や減らす際の心構えに加え、日常を快適にする厳選されたアイテムや収納の工夫が多方面から語られています。",
+  "reduce": "物の手放し方として、卒業アルバムの処分手順や季節ごとの服の仕分け、さらには片付けの動機を見つめ直す心の変化について語られています。",
+  "own": "限られた空間を有効活用するタイニーハウスの実例をはじめ、充電式の洗浄機やマグネット収納など、日々の家事を楽にする道具が紹介されています。",
   "points": [
    {
-    "title": "手放す心理と暮らしの習慣",
-    "body": "ジョシュア・フィールズ・ミルバーンらが、困難な年を振り返りつつ、物質への執着や安心への過度な執着が自由を奪う牢獄になるという心理的な側面について語っています。"
+    "title": "手放しの心理と基準",
+    "body": "大量の持ち物を手放した経験から恐怖心や安定への執着に気づく様子や、生活必需品を「一軍」として残す具体的な基準について語られています。"
    },
    {
-    "title": "タイニーハウスでの小さな暮らし",
-    "body": "テネシーやワシントン州などにおけるタイニーハウスの具体的な設計や実例が紹介され、限られた空間で必要なものだけを揃えて暮らす工夫が示されています。"
+    "title": "空間を活かす収納術",
+    "body": "山崎実業のシートやマグネットを使った浮かせる収納のほか、玄関での冬小物整理や、アルミコンテナをテーブルと兼用する工夫が紹介されています。"
    },
    {
-    "title": "身軽さを支える厳選アイテム",
-    "body": "ガジェットや財布、充電式の洗浄機や清掃道具など、日々の暮らしや移動時の負担を減らすための便利な道具や選び方が多数紹介されています。"
+    "title": "効率的な旅の持ち物",
+    "body": "キャリーケースから容量が可変する42Lのバックパックへ移行し、荷物管理を効率化して移動時の負担を減らす実例が挙げられています。"
    }
   ],
   "keywords": [
-   "ミニマリスト",
-   "断捨離",
-   "持ち物",
-   "手放す",
-   "暮らし"
+   "持ち物"
   ]
  },
  "things": [
@@ -69,7 +65,11 @@
   },
   {
    "name": "洋服",
-   "count": 5
+   "count": 6
+  },
+  {
+   "name": "スーツケース",
+   "count": 4
   },
   {
    "name": "バックパック",
@@ -80,16 +80,8 @@
    "count": 4
   },
   {
-   "name": "モバイルバッテリー",
-   "count": 4
-  },
-  {
    "name": "腕時計",
    "count": 4
-  },
-  {
-   "name": "スーツケース",
-   "count": 3
   },
   {
    "name": "タイニーハウス",
@@ -101,6 +93,10 @@
   },
   {
    "name": "プロジェクター",
+   "count": 3
+  },
+  {
+   "name": "モバイルバッテリー",
    "count": 3
   },
   {
@@ -165,6 +161,10 @@
   },
   {
    "name": "ポーチ",
+   "count": 2
+  },
+  {
+   "name": "リュック",
    "count": 2
   },
   {
@@ -261,6 +261,7 @@
   "The Minimal Mom",
   "The Minimalists",
   "The Mirror",
+  "The Scottish Sun",
   "The Simplicity Habit",
   "The Spokesman-Review",
   "The Spruce",
@@ -310,6 +311,7 @@
   "千葉テレビ放送株式会社",
   "小さな暮らしノート",
   "山陽新聞",
+  "朝日新聞",
   "私だけミニマリスト｜南さやか",
   "筆子ジャーナル",
   "联合早报",
@@ -317,6 +319,179 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "0bcf7ce94767ed94",
+   "url": "https://note.com/minimal_jinsei/n/n20959aced85e",
+   "title_original": "イナバウアーで取れと？",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/336021085/rectangle_large_type_2_49a2a41e5939ddb69b2d97c4d5ef9faf.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-18T00:41:34+00:00",
+   "title_ja": "少しだけ残すのをやめる、中途半端な手放しの話",
+   "summary_ja": "「あると見せかけて少しだけ残す」ような中途半端な物の持ち方をやめてほしいという、片付けに関する気づきをつづった文章。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "daf1b3d2b2a21b63",
+   "url": "https://minimalist-fudeko.com/live-lighter-with-less",
+   "title_original": "断捨離すると何がいいの？ ものを減らして身軽になるとは、こういうこと",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/10/knitting-time.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-18T00:10:28+00:00",
+   "title_ja": "断捨離をして身軽になった暮らしのメリットとは",
+   "summary_ja": "ものを減らして身軽になるとはどういうことか、断捨離の最大のメリットについて執筆者が自身の経験をもとに解説している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "9afa56855b897fc5",
+   "url": "https://www.lifehacker.jp/article/2611-pairdrop-simple-file-sharing-without-app",
+   "title_original": "WindowsもAndroidも、ファイル共有はこれがいい。いろいろ試してたどり着いた最適解",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/11/17/cb6f7b57-2239-4a34-b4ad-425426acacb0/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-18T00:00:00+00:00",
+   "title_ja": "デバイス間のファイル共有にたどり着いたツール",
+   "summary_ja": "WindowsやAndroidなどの異なるデバイス間で、アプリを入れずにファイルを共有できる「PairDrop」の活用法。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "Windows",
+    "Android",
+    "PairDrop"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "3a545437560bc880",
+   "url": "https://www.roomie.jp/2026/11/1930642",
+   "title_original": "スーツケースのように大きく開いて吊るせる。YKK AquaGuard採用、17Lから42Lまで広がるリュック",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/flexy4.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-17T22:45:19+00:00",
+   "title_ja": "スーツケースのように大きく開いて吊るせるリュック",
+   "summary_ja": "バッグの中身を出さずにそのまま吊るして使える、容量が17Lから42Lまで広がるリュックの紹介。旅行や移動時の荷物管理を効率化するアイテム。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "リュック",
+    "スーツケース"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "778687cc50f8215b",
+   "url": "https://www.roomie.jp/2026/11/1927746",
+   "title_original": "「ここにマグネットがつけば…」を385円で解決。山崎実業の小さなシートで、シンクに浮かせる収納ができた",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/261112_yamajitsu_magbase_01.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-17T22:01:44+00:00",
+   "title_ja": "山崎実業のシートでシンクを浮かせる収納に",
+   "summary_ja": "山崎実業の小さなシートを活用し、キッチンのシンクまわりにマグネット収納を導入した事例です。限られたスペースを有効活用し、浮かせる収納で日常の家事を快適にしています。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "マグネットシート"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "2dd8dc758b105931",
+   "url": "https://www.asahi.com/and/w/article/17057076",
+   "title_original": "「邪魔なんだよな……」【ダイソー】『白いクリップ』が台所のプチストレスを解消",
+   "source": "朝日新聞",
+   "image": "https://p.potaufeu.asahi.com/9313-p/picture/31574802/eec08dce2bb3871b9e013c2e75e9b41b.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-17T21:40:00+00:00",
+   "title_ja": "ダイソーの白いクリップで台所のプチストレスを解消",
+   "summary_ja": "ダイソーの白いクリップを使って、台所のちょっとした不便やストレスを解消している事例です。身近なプチプラアイテムを取り入れて、日々の暮らしを整える工夫を紹介しています。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "クリップ"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "7b022ef787334dd3",
+   "url": "https://www.openpr.com/news/4692661/capsule-wardrobe-app-market-sustainable-fashion-ai-styling",
+   "title_original": "Capsule Wardrobe App Market: Sustainable Fashion & AI Styling Driving Growth by 2033",
+   "source": "openPR.com",
+   "image": "https://cdn.open-pr.com/L/b/Lb17396006_g.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-17T18:14:01+00:00",
+   "title_ja": "カプセルワードローブ向けアプリ市場、AIとサステナで成長予測",
+   "summary_ja": "カプセルワードローブを支援するアプリ市場は、持続可能なファッションとAIスタイリングが牽引し、2033年までに大きく成長すると予測されている。業界は、ユーザーが衣類を減らしながら最適なコーディネートを提案できるサービスに期待している。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "4b682a0415b628fd",
+   "url": "https://note.com/ank33/n/n8925954be5d0",
+   "title_original": "10年以上のミニマリスト生活で気づいたこと ものを減らして見つけた、自分らしい暮らし",
+   "source": "note #持たない暮らし",
+   "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/0fd9c9d08533b83095ef2a92c5fb2926b139e404.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-17T16:00:05+00:00",
+   "title_ja": "10年のミニマリスト生活でたどり着いた心の変化",
+   "summary_ja": "10年以上ミニマリズムを続ける女性が、過去の大量の服の購入を振り返り、今では既存の持ち物に満足できるようになった経験を語っています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "洋服"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "25f979594fc4ed09",
+   "url": "https://www.thescottishsun.co.uk/fabulous/17079804/professional-declutterer-christmas-jobs-do-now",
+   "title_original": "I’m a professional declutterer, here’s 7 simple jobs you must tackle before Xmas",
+   "source": "The Scottish Sun",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-17T15:35:00+00:00",
+   "title_ja": "プロの片づけ士がクリスマス前に進めるべき7つの作業",
+   "summary_ja": "クリスマスの時期を迎える前に、家の中をすっきりと整えておくためのシンプルな7つの片づけ作業について紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "7b579eb2d5e9c997",
+   "url": "https://www.chiba-tv.com/plus/detail/2026112233324",
+   "title_original": "整理収納アドバイザー3級が実践！家族の冬小物が散らからない「玄関収納」3つの工夫",
+   "source": "千葉テレビ放送",
+   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1495503838709417417/origin_1.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-17T15:18:39+00:00",
+   "title_ja": "整理収納アドバイザーが実践する玄関の冬小物収納のコツ",
+   "summary_ja": "散らかりがちな冬の家族の小物をすっきりと整理するため、玄関収納で取り入れた3つの具体的な工夫について紹介している。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "66287eac3f1c0bc4",
    "url": "https://www.roomie.jp/2026/11/1931541",
@@ -6081,22 +6256,6 @@
    "importance": 3
   },
   {
-   "id": "110503df3d1e98c7",
-   "url": "https://note.com/toa_iwano/n/n9432da1a44af",
-   "title_original": "「最先端」自炊でまだコンロ使ってるんですか！？_タイパ世代の考えはこう",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/333621659/rectangle_large_type_2_34865f348854440452f0f9b65f28c4a1.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-08T05:00:36+00:00",
-   "title_ja": "コンロを手放し、油汚れと時間を削減した自炊生活",
-   "summary_ja": "タイパを重視してコンロを使わない生活を選択し、油汚れと格闘する時間をゼロにした人の話。キッチンに空きスペースが生まれ、効率的な自炊を実現しています。",
-   "category": "キッチン・食",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
    "id": "a44b364565c4dce5",
    "url": "https://www.roomie.jp/2026/11/1924294",
    "title_original": "ナノバブルを使いたい。でもシャワーヘッドは替えたくない。そんな人にぴったりの選択肢",
@@ -6233,38 +6392,6 @@
    "title_ja": "整理収納アドバイザーが玄関にゼッタイ置かないモノ3選",
    "summary_ja": "整理収納アドバイザーが、玄関には絶対に置かないべきだと考える3つのモノについて解説しています。思い切って処分することで、すっきりとした玄関を保つためのヒントが得られます。",
    "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "6bcf805d406c211a",
-   "url": "https://note.com/moral_worm1228/n/nee175b54e331",
-   "title_original": "本日のワンインワンアウト。欲しいものを買うまでの1年間。",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/333500393/rectangle_large_type_2_8932f4d571d5d23a6ee985fbbb0e53aa.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-07T22:30:32+00:00",
-   "title_ja": "1つ買ったら1つ手放すルールで1年間吟味して物を購入した話",
-   "summary_ja": "欲しいものを購入するまでに1年間の検討期間を設け、1つ買ったら1つ手放す「ワンインワンアウト」のルールを実践した記録。じっくり選んで新しく暮らしに迎えた持ち物を紹介している。",
-   "category": "お金・買い方",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "03526f5b4362b4e7",
-   "url": "https://note.com/chiisana_hana/n/n6a6ccc7e3f69",
-   "title_original": "ミニマリストになって、旅行も身軽になった",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/328826641/rectangle_large_type_2_8c52dd34d84d63cee865f737087ab7cc.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-07T21:01:49+00:00",
-   "title_ja": "ミニマリストになって旅行の荷物が軽くなった話",
-   "summary_ja": "持ち物を減らしてミニマリストになったことで、旅行時の荷物も身軽になり快適になったことを振り返るエッセイ。",
-   "category": "旅・持ち歩き",
    "axis": "reduce",
    "things": [],
    "importance": 3
@@ -7193,132 +7320,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 4
-  },
-  {
-   "id": "c1649209a6a372e5",
-   "url": "https://tinyhousetalk.com/a-small-home-you-can-grow-old-in",
-   "title_original": "Tiny Without the Ladder: A Small Home You Can Grow Old In",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/going-tiny-series-part-19.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-06T10:00:00+00:00",
-   "title_ja": "小さく暮らすことのハードルについて読者に問いかけた話",
-   "summary_ja": "過去にタイニーハウス読者へ向けて、ダウンサイジングや暮らしの簡素化を進める上での障害についてアンケートを取ったことを振り返る記事。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "8b65eeb659dd0234",
-   "url": "https://www.youtube.com/watch?v=9b5DgjX5rek",
-   "title_original": "【捨て活】自由な時間を増やしたい。手間のかかる物を手放す｜ネイル用品・排水口・パッケージ｜30代一人暮らし",
-   "source": "うにのゆるシンプルな暮らし",
-   "image": "https://i2.ytimg.com/vi/9b5DgjX5rek/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-11-06T10:00:00+00:00",
-   "title_ja": "手間がかかる物を手放し自由時間を増やした30代一人暮らしの実践",
-   "summary_ja": "ネイル用品、薬、洗剤容器、排水口部品、ケーブルなど日常で使わなくなったものを整理し、手放すことで時間的余裕を確保し、シンプルな暮らしを目指す過程を語っている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "ネイル用品",
-    "薬",
-    "洗剤のパッケージ",
-    "排水口周りの部品"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "da28ab9bf9149abf",
-   "url": "https://www.youtube.com/shorts/5WWr_-nD67c",
-   "title_original": "バッグの中身が、ひとつ減った。｜ミニマリストの冬支度【PR】 #ミニマリスト #シングルマザー",
-   "source": "小さな暮らしノート",
-   "image": "https://i2.ytimg.com/vi/5WWr_-nD67c/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-11-06T09:18:36+00:00",
-   "title_ja": "バッグの中身を1つ減らした冬支度",
-   "summary_ja": "寒い冬に持ち歩いていたカイロとモバイルバッテリーを、充電式カイロOT-96H1台に統合し、バッグの荷物を減らした。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "充電式カイロ OT-96H",
-    "カイロ",
-    "モバイルバッテリー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "914aff6dfa1d1814",
-   "url": "https://news.infoseek.co.jp/article/fudge_406751",
-   "title_original": "7畳1K、「好きなもの」「好きな色」だけに囲まれた自分に馴染む空間。一人暮らしのインテリア【私らしく暮らす】",
-   "source": "Infoseek",
-   "image": "https://media.image.infoseek.co.jp/isnews/photos/fudge/fudge_406751_0.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-06T06:30:03+00:00",
-   "title_ja": "7畳1K、好きなものと色だけで作る自分空間",
-   "summary_ja": "7畳1Kの一人暮らし部屋を、好きなものと好きな色だけでコーディネートした実例で、ミニマルなインテリアの参考になります。余計な家具を省き、シンプルながら個性を出す工夫が紹介されています。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "798915dc37549d8d",
-   "url": "https://news.livedoor.com/article/detail/32747990",
-   "title_original": "真似したい！ライフさん「探しものは格段に減りました」すっきり暮らす収納術",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-06T04:46:23+00:00",
-   "title_ja": "探しものが格段に減るすっきり暮らす収納術",
-   "summary_ja": "物を減らしてすっきりと暮らすための収納術を紹介しています。工夫を取り入れることで、日常の探しものが劇的に減ったライフさんの実例です。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "dfaeb9e1aa8d659b",
-   "url": "https://news.infoseek.co.jp/article/allabout_166801",
-   "title_original": "「何度もリピートしています」無印良品の“シリコーン調理スプーン”が台所の定番に。炒める・すくう・盛り付けるを1本で",
-   "source": "Infoseek",
-   "image": "https://media.image.infoseek.co.jp/isnews/photos/allabout/allabout_166801_0.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-06T02:40:00+00:00",
-   "title_ja": "無印シリコーン調理スプーンが台所の定番に",
-   "summary_ja": "無印良品のシリコーン調理スプーンは、炒め・すくい・盛り付けが1本ででき、複数の道具を減らせると評判で、キッチンの必需品として注目されています。軽量で洗いやすく、シリコーン特有の柔らかさが食材を傷めません。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "シリコーン調理スプーン"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "5cd77fecbd11927d",
-   "url": "https://www.roomie.jp/2026/11/1912873",
-   "title_original": "たまにしか行かない別荘の防犯対策。Wi-Fiの契約も電源工事も不要なセキュリティカメラ「Tapo C665G KIT」が最適だった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/10/be908e6080e1ce76e7ba4f04b9a2c33d-scaled.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-06T02:00:28+00:00",
-   "title_ja": "別荘に最適な電源不要のTapo C665Gセキュリティカメラ",
-   "summary_ja": "別荘の防犯対策として、Wi‑Fi契約や電源工事が不要なTapo C665G KITを導入した建築デザイナーの事例を紹介。手軽に設置できる点が評価されています。遠隔監視が可能で、訪問頻度が少ない別荘に最適です。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "Tapo C665G KIT",
-    "セキュリティカメラ"
-   ],
-   "importance": 3
   }
  ]
 }
