@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T00:21:08.580839+09:00",
+ "updated_at": "2026-11-19T09:02:36.590604+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,41 +27,41 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-19T00:24:38.111907+09:00",
+  "generated_at": "2026-11-19T09:07:55.207211+09:00",
   "days": 3,
   "period": "11月17日〜11月19日",
   "count": 45,
-  "reduce_count": 24,
-  "own_count": 21,
-  "overview": "11月17日〜19日に寄せられた45件の記事では、年末に向けた具体的な手放し方や片づけ術に加え、厳選した道具や服を長く大切に使う工夫が多方面から語られています。",
-  "reduce": "年末の大掃除や冬支度に向けた具体的な手放し方や、心の習慣を見つめ直す記事が多数見られます。",
-  "own": "限られた空間を有効活用する収納アイデアや、日々の暮らしを快適にする愛用ガジェットが紹介されています。",
+  "reduce_count": 29,
+  "own_count": 16,
+  "overview": "持ち物の減らし方や収納の工夫に関する体験談のほか、厳選したガジェットや日常を快適にする愛用品についての記事が寄せられています。",
+  "reduce": "収納を増やすのではなく所有量を減らす考え方や、衣類や不要品を仕分けて手放す具体的な基準についての話題が多く見られます。",
+  "own": "長く使える耐久性やデザイン性を重視した眼鏡やキーボード、生活を効率化する収納グッズなどのアイテムが紹介されています。",
   "points": [
    {
-    "title": "年末に向けた片づけ",
-    "body": "年末の大掃除を前に、売る・譲る・処分するの3つの箱に分ける整理法や、プロが教える手放すべきアイテムが紹介されています。また、冬の玄関収納や衣類の仕分けなど、具体的な片づけのコツが語られています。"
+    "title": "収納の工夫と手放す基準",
+    "body": "カインズの戸棚下ラックや山崎実業のシートを活用した浮かせる収納で家事の手間を減らす工夫や、不要品を「売る・譲る・処分」の3箱に分ける具体的な手放し方が紹介されています。"
    },
    {
-    "title": "少数精鋭のワードローブ",
-    "body": "上限の数を決めて本当に好きな服だけを残す方法や、9つのクラシックな定番服で冬の上品なカプセルワードローブを組み立てる実践例が紹介されています。アプリの活用や買取サービスの体験談も含まれています。"
+    "title": "心と暮らしを見直す習慣",
+    "body": "物の断捨離をきっかけに人間関係やトラウマを見直す体験談や、物質的な比較競争をやめて身軽になった暮らしのメリットを伝える文章が複数寄せられています。"
    },
    {
-    "title": "空間を活かす収納と道具",
-    "body": "山崎実業のシートを活用したキッチンのマグネット収納や、調理台と箱を兼ねるアルミコンテナなど、限られたスペースや日常の家事を快適にするための具体的な工夫や愛用品が取り上げられています。"
+    "title": "こだわりの愛用品とガジェット",
+    "body": "レトロデザインで耐久性のあるキーボードや鯖江の一生モノ眼鏡、デバイス間のファイル共有ツールなど、日々の仕事や生活を快適にする道具が取り上げられています。"
    }
   ],
   "keywords": [
-   "年末の大掃除",
-   "カプセルワードローブ",
-   "山崎実業",
+   "収納",
+   "断捨離",
    "手放す",
-   "収納"
+   "不要品",
+   "ミニマリスト"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 16
+   "count": 18
   },
   {
    "name": "スマートフォン",
@@ -81,6 +81,10 @@
   },
   {
    "name": "バッグ",
+   "count": 4
+  },
+  {
+   "name": "食器",
    "count": 4
   },
   {
@@ -108,7 +112,7 @@
    "count": 3
   },
   {
-   "name": "食器",
+   "name": "靴下",
    "count": 3
   },
   {
@@ -128,19 +132,11 @@
    "count": 2
   },
   {
-   "name": "サコッシュ",
-   "count": 2
-  },
-  {
    "name": "シャワー",
    "count": 2
   },
   {
    "name": "スタンディングテーブル",
-   "count": 2
-  },
-  {
-   "name": "スニーカー",
    "count": 2
   },
   {
@@ -188,6 +184,14 @@
    "count": 2
   },
   {
+   "name": "本",
+   "count": 2
+  },
+  {
+   "name": "洗剤",
+   "count": 2
+  },
+  {
    "name": "洗濯乾燥機",
    "count": 2
   },
@@ -200,19 +204,7 @@
    "count": 2
   },
   {
-   "name": "製パン機",
-   "count": 2
-  },
-  {
-   "name": "財布",
-   "count": 2
-  },
-  {
    "name": "靴",
-   "count": 2
-  },
-  {
-   "name": "靴下",
    "count": 2
   },
   {
@@ -229,6 +221,7 @@
   "Be More with Less",
   "Better Homes & Gardens",
   "CBS News",
+  "CTV News",
   "CairoScene",
   "Country Living Magazine",
   "Dengarden",
@@ -247,7 +240,6 @@
   "JournalArta",
   "Koubo",
   "Lifehacker",
-  "Martha Stewart",
   "Mashable",
   "MonoMax",
   "NewsBreak: Local News & Alerts",
@@ -263,6 +255,7 @@
   "The Gadgeteer",
   "The Guardian（住まい）",
   "The Guardian（暮らし）",
+  "The Hans India",
   "The Minimal Mom",
   "The Minimalists",
   "The Mirror",
@@ -278,7 +271,6 @@
   "Wales Online",
   "Who What Wear",
   "Woman & Home",
-  "Women's Health",
   "Yahoo",
   "Yahoo!ニュース",
   "au Webポータル",
@@ -292,7 +284,6 @@
   "note #持たない暮らし",
   "note #断捨離",
   "openPR.com",
-  "qz.com",
   "thegloss.ie",
   "veranda.com",
   "www.womanandhomemagazine.co.za",
@@ -325,6 +316,218 @@
  "count": 400,
  "items": [
   {
+   "id": "beca1d4df6430fe5",
+   "url": "https://note.com/kinokonokono/n/n207989f279da",
+   "title_original": "断捨離してたら、自分が断捨離された話。",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/337884781/rectangle_large_type_2_6eb47a28ecb3fb0b9d7889e7ca802172.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-18T23:56:28+00:00",
+   "title_ja": "物の断捨離から過去や人間関係の整理へと向かった40代の体験談",
+   "summary_ja": "着なくなった服や食器などの不要品を手放すことで部屋と頭の中が整ったのをきっかけに、長年のコンプレックスや幼少期のトラウマ、我慢していた人間関係といった人生の重荷まで見直そうと考えた40代筆者の心境の変化。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "服",
+    "食器",
+    "雑貨"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "d4bf581f50af5f05",
+   "url": "https://note.com/nifty_mint9730/n/n08a26f032f8b",
+   "title_original": "片付けは才能じゃなかった。物だらけだった私を変えた5冊。",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/326253146/rectangle_large_type_2_ea0a18201102b9bb87c396398054aab1.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-18T23:10:18+00:00",
+   "title_ja": "物を減らして所有量を決める暮らしへ変わるきっかけとなったおすすめ本",
+   "summary_ja": "服や文房具を集めるのが好きで収納方法に悩んでいた筆者が、収納を増やすのではなく所有量を減らす大切さに気づき、箱に入る分だけ持つスタイルへと変化するきっかけとなった本を紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "服",
+    "文房具",
+    "収納ボックス",
+    "本"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "f2530a4bba8f6751",
+   "url": "https://www.roomie.jp/2026/11/1927549",
+   "title_original": "コストコの巨大ラップ、どこにしまう？カインズで見つけた「戸棚下ラック」が大正解だった",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/20261112_costcostretchtite_syuno_08.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-18T23:00:47+00:00",
+   "title_ja": "コストコの巨大ラップの収納にカインズのラックを活用した話",
+   "summary_ja": "コストコの大容量ラップの収納場所に悩み、カインズで見つけた戸棚下ラックを導入してすっきりと収めた事例。家事の手間を減らす工夫として取り入れています。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "戸棚下ラック",
+    "ラップ"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "7b49cba9a0166399",
+   "url": "https://news.livedoor.com/article/detail/32850548",
+   "title_original": "家事のイライラを解消！ライフさんの心にゆとりを作る身の丈暮らし術",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-18T22:20:00+00:00",
+   "title_ja": "身の丈に合った暮らしで家事のイライラを解消する方法",
+   "summary_ja": "日々の家事におけるイライラを解消し、心にゆとりを持つための身の丈に合った暮らしの工夫について紹介しています。等身大の生活を見直すヒントが得られます。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "6e6641ff3dc14249",
+   "url": "https://www.roomie.jp/2026/11/1929368",
+   "title_original": "Amazonで見つけた隠れた逸品が、出張・旅行の忘れ物対策にぴったりでした",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/261115_fogman_04-1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-18T22:00:42+00:00",
+   "title_ja": "出張や旅行の忘れ物防止に役立つAmazonで見つけた便利グッズ",
+   "summary_ja": "旅行や出張先でのホテルで役立つ、忘れ物対策にぴったりのアイテムをAmazonで発見した話。携帯性や多機能性に優れた持ち物を紹介しています。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "b7513a7de5918cfc",
+   "url": "https://thesimplicityhabit.com/declutter-your-laundry-room",
+   "title_original": "6 Steps to Declutter Your Laundry Room for a Clean and Efficient Space",
+   "source": "The Simplicity Habit",
+   "image": "https://thesimplicityhabit.com/wp-content/uploads/2026/11/horizontal-blog-post-2026-11-18T105502.132-1024x683.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-18T21:28:27+00:00",
+   "title_ja": "洗濯室をすっきり片付ける6つのステップ",
+   "summary_ja": "Cora Goldが提案する6段階の手順で、洗剤や掃除用品、失くした靴下、洗濯物の山などを整理し、洗濯室を清潔で効率的な空間に変える方法を紹介。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "洗剤",
+    "掃除用品",
+    "靴下",
+    "洗濯物"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5888badcfa2f9348",
+   "url": "https://www.thehansindia.com/hans/opinion/news-analysis/everyone-should-swear-by-simple-living-and-high-thinking-1143389",
+   "title_original": "Everyone should swear by simple living and high thinking",
+   "source": "The Hans India",
+   "image": "https://assets.thehansindia.com/h-upload/2026/11/18/1726025-na.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-18T20:22:46+00:00",
+   "title_ja": "シンプルな暮らしと高い志を掲げるべきだと主張",
+   "summary_ja": "The Hans Indiaは、シンプルな生活を実践し高い思考を持つことが幸福につながると主張し、ミニマリズム的な暮らし方の重要性を説く記事を掲載した。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "58fd23a76ea7b8fa",
+   "url": "https://www.bhg.com/questions-before-donating-household-items-12250965",
+   "title_original": "4 Questions to Consider Before Donating Household Items, According to an Organizing Expert",
+   "source": "Better Homes & Gardens",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-18T20:10:00+00:00",
+   "title_ja": "整理の専門家が教える、不要品を寄付する前に考える4つの質問",
+   "summary_ja": "整理整頓の専門家が、家庭の不要品を寄付する際に検討すべきポイントを4つの質問で提示し、無駄を減らしながら適切に手放す方法を解説している。",
+   "category": "その他",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "5f8bed083a8bcf46",
+   "url": "https://www.yahoo.com/lifestyle/videos/hgtv-star-hilary-farrs-tips-194500621.html",
+   "title_original": "HGTV Star Hilary Farr's Tips For Decluttering Your Home",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/70bd3fbce8b0b63806d6e5e22349aa13f6e0de4f660f876fc43f7a3f3c733fa0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhouse_digest_videos_949%2Fd2f62f1720db4531946bf72a78e17696.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-18T18:45:00+00:00",
+   "title_ja": "HGTVのスター、ヒラリー・ファー氏が語る自宅の片づけ術",
+   "summary_ja": "テレビ番組の出演者が自宅の不用品を整理するための具体的なコツや考え方を語っている。部屋をすっきりと整えたい人に役立つ内容。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "3154849c48175fce",
+   "url": "https://www.sanyonews.jp/article/2011886?rct=oricon_geino&kw=%E7%A6%8F%E7%A5%88",
+   "title_original": "元おニャン子・渡辺美奈代、スタイリッシュな自宅バスルームの整理術を公開 “整理収納アドバイザーの神ワザ”に絶賛の声",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/7/4/d/4/74d4d5df0a4d50b5508859f981c465e5_1.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-18T17:31:01+00:00",
+   "title_ja": "渡辺美奈代のバスルーム整理術を公開",
+   "summary_ja": "元おニャン子の渡辺美奈代さんが、自宅バスルームをすっきり整理する手順と不要品の手放し基準を公開。収納アイテムの選び方や見た目を保つコツも紹介され、実践的なミニマリズムのヒントが得られます。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "2965c2121b5a7ef1",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/18/instant-gratification-is-ruining-our-lives-and-for-me-it-started-with-my-cd-players-shuffle-button",
+   "title_original": "Instant gratification is ruining our lives – and for me it started with my CD player’s shuffle button | Adrian Chiles",
+   "source": "The Guardian（暮らし）",
+   "image": "https://i.guim.co.uk/img/media/abc956028c53b7754566ee75fefc97de060f2932/19_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=f42b4ee4a2937ebd237cf2fc1449c2aa",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-18T16:35:47+00:00",
+   "title_ja": "現代人の散らばった注意力を振り返る人の話",
+   "summary_ja": "スマホや音楽プレーヤーのシャッフル機能など、便利な機能が原因で集中力が削がれてきた体験を語る。かつてのように本や映画、音楽にじっくり向き合えなくなった暮らしを振り返る。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "CDプレーヤー",
+    "携帯電話"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "81c22b1acfeb898b",
+   "url": "https://www.youtube.com/shorts/99VGB9Jzf5c",
+   "title_original": "The hardest part of decluttering.",
+   "source": "The Minimalists",
+   "image": "https://i2.ytimg.com/vi/99VGB9Jzf5c/hqdefault.jpg",
+   "media": "youtube",
+   "region": "海外",
+   "published": "2026-11-18T16:20:39+00:00",
+   "title_ja": "片づけの最も難しい部分について語る動画",
+   "summary_ja": "物置や家の中をすっきりさせる片づけの過程において、何が最も困難であるかについて語る。具体的な持ち物の削減や手放す基準についての解説が深掘りされている内容。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "7bc1ce11b8fa29ec",
    "url": "https://note.com/modern_human7084/n/n4084bf13ccfe",
    "title_original": "年末の大掃除で、捨てる前に分ける「3つの箱」｜売る・譲る・処分する",
@@ -340,6 +543,22 @@
    "things": [
     "箱"
    ],
+   "importance": 3
+  },
+  {
+   "id": "54e8cd31036acf49",
+   "url": "https://www.ctvnews.ca/vancouver/video/2026/11/18/get-your-home-holiday-ready-declutter-before-december",
+   "title_original": "Get your home holiday-ready: declutter before December",
+   "source": "CTV News",
+   "image": "https://www.ctvnews.ca/resizer/v2/https%3A%2F%2Fd3g70guqh4mw9g.cloudfront.net%2F11-18-2026%2Ft_3919dc1d45a7428a83c97f3b9e762468_name_BCEX1118_IGOTJUNK06_frame_496.jpeg?smart=true&auth=c58a382ee189e795db4a207562cd50ee7d242a468c0fc90d64dd504bc57c6a57&width=1200&height=630",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-18T14:57:41+00:00",
+   "title_ja": "年末に向けて家の中をすっきりさせる片づけのコツ",
+   "summary_ja": "ホリデーシーズンを迎える12月を前に、家の中の不要な物を整理して整えるためのヒントを紹介する。早めの段階で持ち物を見直し、快適な空間を作るための心構えを伝える。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -390,6 +609,24 @@
    "things": [
     "リップクリーム",
     "リップバームホルダー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4f7a377ea93c1257",
+   "url": "https://news.yahoo.co.jp/articles/9350c31c88982c8c8198c9f85c78935974fee597/images/000",
+   "title_original": "衣装ケースは最低限、収納は余白を重視。「ラクに戻せる」を基準にしたら片付けがスムーズに (ESSE-online)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26hJwthSJsGaYLRPpHTt8FxqhyEnXLe74vTWg3CqfWx9j2afo4slxXiQceyG3BuGyoNoFyN11iNrOwAQPf2z_lZZ7spkiPdFCga4588qKcETi",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-18T12:19:46+00:00",
+   "title_ja": "衣装ケースを減らし「ラクに戻す」収納の工夫",
+   "summary_ja": "衣装ケースを最低限にして余白を重視し、戻しやすさを基準に片付けをスムーズにした人の話。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "衣装ケース"
    ],
    "importance": 3
   },
@@ -6128,22 +6365,6 @@
    "importance": 3
   },
   {
-   "id": "a07b75fe91124a80",
-   "url": "https://note.com/nakata_lim/n/n97cfe241df3f",
-   "title_original": "生活費を月3万円上げて1年、見えてきたこと",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/333204321/rectangle_large_type_2_e9501320f9d361d0a36c635a64472156.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-08T21:47:09+00:00",
-   "title_ja": "生活費を月3万円増やして1年で見えたこと",
-   "summary_ja": "ナカタさんは、ものを減らしながら生活費を月3万円増やす実験を1年続け、支出の見直しや暮らしのシンプル化で得た気づきや具体的な整理術を語ります。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
    "id": "8bba303224973b1b",
    "url": "https://www.roomie.jp/2026/11/1924660",
    "title_original": "ストロー・直飲み・フタ外しの1台3役！ティファールの保温タンブラー",
@@ -6213,26 +6434,6 @@
     "ユニクロ スウェット",
     "ユニクロ ヒートテック",
     "Restnature AIスマート電気毛布"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "187564d156938906",
-   "url": "https://note.com/chiisana_hana/n/n11a7444e9f5d",
-   "title_original": "旅行のお財布は、百均のメッシュポーチで十分だった",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/331032502/rectangle_large_type_2_e9433498687b29418c30c80f743df356.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-08T20:43:20+00:00",
-   "title_ja": "旅行の財布を百均のメッシュポーチに変えた話",
-   "summary_ja": "旅行時の荷物を軽くするため、普段使っている二つ折り財布の代わりに百均のメッシュポーチを活用している。サコッシュの容量を圧迫していた財布を小型化し、身軽に動ける工夫をしている。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "メッシュポーチ",
-    "財布",
-    "サコッシュ"
    ],
    "importance": 3
   },
@@ -7130,209 +7331,6 @@
     "Google Fitbit Edge"
    ],
    "importance": 3
-  },
-  {
-   "id": "d51cafd8e2423449",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/07/letting-lawns-grow-can-help-back-yard-biodiversity",
-   "title_original": "No-mow-vember: letting lawns grow longer can help pollinators and back yard biodiversity",
-   "source": "The Guardian（住まい）",
-   "image": "https://i.guim.co.uk/img/media/8283c453d1d20d37526d4c5a02169fcb682d0ff7/873_0_6141_4912/master/6141.jpg?width=140&quality=85&auto=format&fit=max&s=0dceca3293df162e803ef3bb31f4047d",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-06T23:00:54+00:00",
-   "title_ja": "ノーモウ・ベンバー：芝刈りをやめて生物多様性とCO2削減",
-   "summary_ja": "芝刈り機を使わずに芝を伸ばす『ノーモウ・ベンバー』を実践することで、ミツバチや蝶などの花粉媒介者を守り、家庭のCO2排出を削減できると提案されている。具体的な始め方も解説。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [
-    "芝刈り機"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "dc2a0b542374ffb8",
-   "url": "https://news.livedoor.com/topics/detail/32754405/?_clicked=echoes_list",
-   "title_original": "ライフさん、断捨離疲れを防ぐコツ。「衝動買いには気をつけています」と語るマイルール",
-   "source": "ライブドアニュース",
-   "image": "https://image.news.livedoor.com/newsimage/stf/f/3/f3330_1845_dff5de97_b3287354.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-06T22:20:00+00:00",
-   "title_ja": "断捨離疲れを防ぐために衝動買いに気をつけるマイルール",
-   "summary_ja": "モノを減らす作業で疲れてしまわないための工夫として、衝動買いに気をつけるというマイルールを実践している人のライフスタイルについて紹介しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "76f51666975dde7c",
-   "url": "https://news.livedoor.com/article/detail/32754387",
-   "title_original": "【真似したい】シングルマザーが現金一括で家を購入！無意識の出費を減らす家計管理術",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-06T22:18:13+00:00",
-   "title_ja": "シングルマザーが実践する現金一括での住宅購入と家計管理術",
-   "summary_ja": "シングルマザーが現金一括でマイホームを購入し、無意識の出費を減らすために実践している独自の家計管理のコツを紹介している。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "8aa9b9e6b785226b",
-   "url": "https://www.youtube.com/shorts/4xYjch1y7wU",
-   "title_original": "Do you keep a lot of small things and tchotchke in your space?",
-   "source": "The Minimalists",
-   "image": "https://i1.ytimg.com/vi/4xYjch1y7wU/hqdefault.jpg",
-   "media": "youtube",
-   "region": "海外",
-   "published": "2026-11-06T21:17:04+00:00",
-   "title_ja": "小物や雑貨が多い人への質問",
-   "summary_ja": "動画では、部屋に散らばる小さな雑貨や置物が多い人向けに、手放す基準や整理のコツ、実際に減らす手順を具体的に解説しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "88c8710aeeaa5c69",
-   "url": "https://qz.com/decluttering-methods-ski-slope-konmari-good-housekeeping",
-   "title_original": "7 decluttering methods, from the ski slope to KonMari, and who each suits",
-   "source": "qz.com",
-   "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/quartz-run-2076-hero-0-16399-300x201.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-06T20:37:37+00:00",
-   "title_ja": "7つの片付け法と適した人",
-   "summary_ja": "記事では、スキー場の片付け術から近藤麻理子流まで、7つの整理方法とそれぞれに合う生活スタイルを詳しく比較しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "96fdf952c6c2736e",
-   "url": "https://www.womenshealthmag.com/style/a74350434/iceland-capsule-wardrobe",
-   "title_original": "After a Week in Iceland, Here’s the Cold-Weather Capsule Wardrobe I’d Pack Again",
-   "source": "Women's Health",
-   "image": "https://hips.hearstapps.com/hmg-prod/images/e1025682-fd8b-47d5-bbdc-c5224c089320.png?crop=1xw:1.0xh;center,top&resize=1200:*",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-06T19:59:00+00:00",
-   "title_ja": "アイスランド旅行で選んだ寒冷地カプセルワードローブ",
-   "summary_ja": "著者はアイスランドでの1週間の旅を通じ、寒さに対応できる最低限の防寒アイテムだけで構成したカプセルワードローブを提案し、再度選びたいポイントを紹介しています。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "28a6f7c792bb770c",
-   "url": "https://lifehacker.com/tech/apple-wont-make-a-small-phone-so-this-company-is-stepping-in",
-   "title_original": "Apple Won't Make a Small Phone so This Company Is Stepping In",
-   "source": "Lifehacker",
-   "image": "https://lifehacker.com/imagery/articles/01M6RZC74TX8QCTFGCW57Y22JA/hero-image.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-06T19:00:00+00:00",
-   "title_ja": "Appleが小型スマホを出さず、代わりに「Enough Phone」登場",
-   "summary_ja": "Appleが小型スマートフォンを開発しない代わりに、Enough Phone社がミニサイズのスマホを発売し、持ち物を減らしたい人向けに機能と価格を比較しながら紹介しています。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "Enough Phone"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "a98a307244e01799",
-   "url": "https://www.marthastewart.com/what-to-keep-when-decluttering-12240120",
-   "title_original": "11 Things You Should Definitely KEEP When Decluttering (You’ll Thank Yourself Later)",
-   "source": "Martha Stewart",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-06T19:00:00+00:00",
-   "title_ja": "整理で残すべき11アイテム",
-   "summary_ja": "整理の際に残すべき11のアイテムを具体的に紹介し、後で役立つ理由や選び方のポイントを解説しています。また、不要なものとの比較や、長期的に使えるかどうかの判断基準も提示しています。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "c5428554af0f46e6",
-   "url": "https://www.realsimple.com/the-decluttering-hack-that-starts-with-not-doing-laundry-12189551",
-   "title_original": "Skipping Laundry Day Might Be the Smartest Closet Decluttering Trick You Haven’t Tried",
-   "source": "Real Simple",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-06T16:30:00+00:00",
-   "title_ja": "洗濯日をなくすとクローゼットがすっきりする整理術",
-   "summary_ja": "洗濯日を設けないことで服の出し入れを減らし、自然に不要な服が見えてくる整理術を提案。実践例や心理的効果、始め方のコツを具体的に紹介しています。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "4919e27f4ef059aa",
-   "url": "https://www.youtube.com/watch?v=1kZeXQ5516o",
-   "title_original": "House Build UPDATE!! spend the day with me, organize, declutter...",
-   "source": "Sarah Therese",
-   "image": "https://i2.ytimg.com/vi/1kZeXQ5516o/hqdefault.jpg",
-   "media": "youtube",
-   "region": "海外",
-   "published": "2026-11-06T14:00:39+00:00",
-   "title_ja": "家づくりの進捗と日々の片付けを行った人の話",
-   "summary_ja": "家づくりの進捗を追いつつ、日常の片付けや整理整頓に取り組んだ様子を記録した動画。手作りのパン作りに関する言及もあります。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [
-    "製パン機"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "0b4bc2a38fb77458",
-   "url": "https://www.roomie.jp/2026/11/1921675",
-   "title_original": "仕事から寝る前の読書まで。リビングもベッドサイドも照らすサンワサプライ「LEDデスクライト」",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/sanwasupplyleddesklight1.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-06T13:45:24+00:00",
-   "title_ja": "サンワサプライのLEDデスクライトを活用",
-   "summary_ja": "夜間の仕事やベッドサイドでの読書時、暗さによる眼精疲労やつらさを解消するためにサンワサプライのLEDデスクライトを導入。リビングやダイニングなど場所を問わず手元を明るく照らして活用している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "LEDデスクライト"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "0afd0cdf92c5d99e",
-   "url": "https://www.lifehacker.jp/article/2611-amazon-newbalance-insole-kty",
-   "title_original": "ベストセラーのニューバランス「インソール」。秋のウォーキングをサポート",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2025/10/28/5e68f174-ccef-4be9-befd-fb01b60e3ca4/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-06T13:45:00+00:00",
-   "title_ja": "ニューバランスのインソールで歩行を快適に",
-   "summary_ja": "安定感や衝撃吸収性に優れたニューバランスのサポーティブリバウンドインソールを使用。スポーツだけでなく日常のスニーカーに入れて、足の疲労感を軽減させながら快適なウォーキングを支えている。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "インソール",
-    "スニーカー"
-   ],
-   "importance": 2
   }
  ]
 }
