@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T00:28:06.606092+09:00",
+ "updated_at": "2026-11-20T09:25:33.626204+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,53 +27,52 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-20T00:43:17.112116+09:00",
+  "generated_at": "2026-11-20T09:29:29.973254+09:00",
   "days": 3,
-  "period": "11月18日〜11月20日",
+  "period": "11月19日〜11月20日",
   "count": 45,
-  "reduce_count": 29,
-  "own_count": 16,
-  "overview": "11月18日〜20日に集まった45件の記事では、持ち物を減らして心身のゆとりや生活の質を高める工夫や、長く愛用できる道具選びの実例が多方面から語られています。",
-  "reduce": "物を減らして所有量を見直す大切さや、収納を増やすのではなく片づけのハードルを下げる具体的な手法や心の整え方が多く語られています。",
-  "own": "家でもキャンプでも使える機能的な道具や、長く使える耐久性に優れたファッションアイテム、効率よく整理できるガジェットが紹介されています。",
+  "reduce_count": 31,
+  "own_count": 14,
+  "overview": "45件の記事では、不用品の手放し方や収納の工夫に加え、デジタル環境の整理や心と習慣を整えるシンプルな暮らしのヒントが幅広く語られています。",
+  "reduce": "物を減らすために収納を増やすのではなく所有量を見直し、不要な消費や散らかりを手放す実践的な工夫が多く語られています。",
+  "own": "容量を変えられるバックパックや、日常やキャンプで快適に使える機能的な道具やガジェットの活用法が紹介されています。",
   "points": [
    {
-    "title": "デジタルと注意力の整理",
-    "body": "スマホのアプリを減らしてブラウザ利用に切り替えたり、通知を制限して現代人の散らばった注意力を取り戻すシンプルな習慣や考え方が複数の書き手によって提案されています。"
+    "title": "不用品の手放しとフリマ活用",
+    "body": "メルカリでの不用品売却や、寄付する前に検討すべき4つの質問など、家の中にある不要な物を適切に手放して現金化や整理を進める方法が具体的に紹介されています。"
    },
    {
-    "title": "年末に向けた片づけと手放す基準",
-    "body": "不要品を「売る箱」「譲る箱」「処分箱」の3つに分けて整理する方法や、まだ着られるかではなくこれから着たいかで服を選ぶ基準など、年末に向けた実践的な手放し方が紹介されています。"
+    "title": "収納を増やす前の所有量見直し",
+    "body": "収納スペースを広げる前に持つべき物の量自体を見直し、箱に入る分だけにするスタイルや、キッチンや衣類収納を大改造する実践的な片づけ術が語られています。"
    },
    {
-    "title": "収納を増やさない工夫",
-    "body": "収納スペースや衣装ケースを最低限にして余白を重視し、コストコのラップにラックを活用するなど、戻しやすさを基準にして家事の手間や部屋の視覚的な散らかりを減らす事例が見られます。"
-   },
-   {
-    "title": "長く愛用できる持ち物選び",
-    "body": "室内外で使える回転式チェアや、デザイン性と耐久性を兼ね備えた鯖江の眼鏡、レトロデザインのキーボードなど、長く大切に使い続けられるアイテムや便利なガジェットが紹介されています。"
+    "title": "デジタル環境とアプリの整理",
+    "body": "スマートフォンに入れすぎたアプリを減らしてブラウザ利用に切り替えたり、通知を制限して情報の多さによるストレスや散らばった注意力を和らげる工夫が提案されています。"
    }
   ],
   "keywords": [
-   "断捨離",
-   "片づけ",
+   "手放す",
    "収納",
-   "アプリ",
-   "ストーブ"
+   "片づけ",
+   "アイテム"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 19
+   "count": 18
   },
   {
    "name": "スマートフォン",
-   "count": 8
+   "count": 7
   },
   {
    "name": "洋服",
    "count": 6
+  },
+  {
+   "name": "バックパック",
+   "count": 5
   },
   {
    "name": "スーツケース",
@@ -84,19 +83,15 @@
    "count": 4
   },
   {
-   "name": "バックパック",
-   "count": 4
-  },
-  {
    "name": "食器",
    "count": 4
   },
   {
-   "name": "ノート",
+   "name": "スマートウォッチ",
    "count": 3
   },
   {
-   "name": "バッグ",
+   "name": "ノート",
    "count": 3
   },
   {
@@ -105,6 +100,10 @@
   },
   {
    "name": "ランタン",
+   "count": 3
+  },
+  {
+   "name": "リュック",
    "count": 3
   },
   {
@@ -118,6 +117,10 @@
   {
    "name": "靴下",
    "count": 3
+  },
+  {
+   "name": "LEDランタン",
+   "count": 2
   },
   {
    "name": "Tシャツ",
@@ -140,10 +143,6 @@
    "count": 2
   },
   {
-   "name": "スマートウォッチ",
-   "count": 2
-  },
-  {
    "name": "タオル",
    "count": 2
   },
@@ -152,15 +151,15 @@
    "count": 2
   },
   {
+   "name": "バッグ",
+   "count": 2
+  },
+  {
    "name": "プロジェクター",
    "count": 2
   },
   {
    "name": "ベスト",
-   "count": 2
-  },
-  {
-   "name": "リュック",
    "count": 2
   },
   {
@@ -222,6 +221,8 @@
   "FOX6 News Milwaukee",
   "Facebook",
   "Fast Company（働き方）",
+  "Gadget Review",
+  "GearJunkie",
   "Global News",
   "Good Housekeeping",
   "Homes and Gardens",
@@ -245,6 +246,7 @@
   "TRILL",
   "TVer",
   "The Cut",
+  "The Des Moines Register",
   "The Gadgeteer",
   "The Guardian（住まい）",
   "The Guardian（暮らし）",
@@ -267,7 +269,6 @@
   "au Webポータル",
   "autoevolution",
   "freeyork",
-  "https://www.thetraveler.org/",
   "mai minimalism",
   "mamagirl",
   "note #ミニマリスト",
@@ -306,6 +307,185 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "35061426383dcaec",
+   "url": "https://note.com/suterumae_kiroku/n/n981596da75ce",
+   "title_original": "壊れたiPodが8,000円になった。メルカリで捨てるはずの不用品35点を約3ヶ月で売って、手数料・送料後75,000円にした方法",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/img/1795084514-fnSiyBqP8KDN2lZVmM0OLhUw.png",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-20T00:19:20+00:00",
+   "title_ja": "メルカリで不用品35点を売却し7万5千円を得た体験談",
+   "summary_ja": "壊れたiPodを含む不用品35点をメルカリで約3か月かけて処分し、手数料や送料を差し引いて75,000円を得た事例。処分するはずだった不要な物でも、フリマアプリを活用することで現金化しながら手放す工夫が紹介されている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "iPod"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "8629689e70118cf0",
+   "url": "https://minimalist-fudeko.com/wait-before-sending-angry-messages",
+   "title_original": "カッとなって書いたLINEは、送らずにひと晩寝かせる",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/10/line-app.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-20T00:10:56+00:00",
+   "title_ja": "カッとなって書いたLINEを送信せず一晩寝かせる心の整え方",
+   "summary_ja": "感情的になった勢いで家族などに書き上げたLINEメッセージを送らず、一晩寝かせる習慣を提案する記事。時間をおくことで送る必要のない文章だと気づき、不要な衝突や感情の乱れを手放して人間関係と心を整える方法を解説している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "LINE"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d7a0fd1327ae8c4b",
+   "url": "https://note.com/nakata_lim/n/nb2d6963d4fc6",
+   "title_original": "「低消費」という考え方",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/338280671/rectangle_large_type_2_cb61eadb32e588fd5a13c038155325d2.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-20T00:05:33+00:00",
+   "title_ja": "物を減らして暮らしを整える「低消費」という生き方の提案",
+   "summary_ja": "人生の折り返しを意識して物を減らし、暮らしを整えるなかで行き着いた「低消費」の考え方を紹介。消費を抑えながら所有する物の量をコントロールし、シンプルで心地よい暮らしを目指す視点について綴られている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "73f3d8d4e3d70e93",
+   "url": "https://www.roomie.jp/2026/11/1929998",
+   "title_original": "もう手首に巻かない。アレクサの置くだけ目覚まし時計「Echo Time」",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/Amazon.co_.jp_.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-19T23:15:20+00:00",
+   "title_ja": "スマートウォッチの充電や着用感を解消する置くだけの時計「Echo Time」",
+   "summary_ja": "スマートウォッチを手首に巻いて寝る邪魔さや毎晩の充電に煩わしさを感じて使わなくなった人向けに、枕元に置くだけで使えるAmazonのスマートクロック「Echo Time」を紹介。睡眠管理や手間の削減を狙う道具としての選択肢。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "Echo Time",
+    "スマートウォッチ",
+    "スマートクロック"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "24cd641dbf6da02a",
+   "url": "https://news.livedoor.com/article/detail/32859135",
+   "title_original": "【おうち丸ごと片付け#2】家が変わり始めた！大量のモノと向き合うキッチン・衣類収納の大改造",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-19T23:08:00+00:00",
+   "title_ja": "大量のモノと向き合いキッチンや衣類収納を大改造する片づけの実践記",
+   "summary_ja": "家全体を丸ごと片付ける取り組みの中で、大量のモノと向き合いながらキッチンや衣類収納の改造を進める様子を伝える記事。空間を整理して暮らしを変化させていく片づけの実践プロセスが紹介されている。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "1781301c818d16b2",
+   "url": "https://www.roomie.jp/2026/11/1930661",
+   "title_original": "17Lが42Lに!「FLEXY PRO」で荷物の増減に悩まなくなりました",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/flexy5.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-19T22:45:20+00:00",
+   "title_ja": "17Lから42Lへ容量を変えられる可変式バックパック「FLEXY PRO」",
+   "summary_ja": "日常使いのスリムな17Lから、長期出張にも対応する42Lまで容量を広げられる可変式バックパック「FLEXY PRO」の使用感をレポート。荷物の増減に合わせてバッグを使い分けず、1つのリュックで兼用できる特長を説明している。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "FLEXY PRO",
+    "バックパック",
+    "リュック"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "a564be6ce49a57ca",
+   "url": "https://www.youtube.com/watch?v=xQgsW4eC-w8",
+   "title_original": "13 Things I'm Not Buying at Target this Holiday Season",
+   "source": "The Minimal Mom",
+   "image": "https://i1.ytimg.com/vi/xQgsW4eC-w8/hqdefault.jpg",
+   "media": "youtube",
+   "region": "海外",
+   "published": "2026-11-19T22:05:26+00:00",
+   "title_ja": "ホリデーシーズンにターゲットで購入するのをやめた13個のアイテム",
+   "summary_ja": "年末のホリデーシーズンにスーパーのターゲットで「買わない」と決めた13個のものを紹介する動画。ステッカーキットやレゴのクラフトキットなど、不要なモノを買い込まないための買い物基準や手放す考え方を伝えている。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [
+    "ステッカーキット",
+    "レゴ"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "68196f96a231a3b9",
+   "url": "https://www.roomie.jp/2026/11/1932756",
+   "title_original": "コンパクトだけど光量もバッテリーもパワフル！緊急用の赤色灯にもなる「持ち運びやすいメインランタン」を見つけたよ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/rm261119_13.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-19T22:00:29+00:00",
+   "title_ja": "軽量で光量も十分なSoomloomのコンパクトLEDランタン",
+   "summary_ja": "キャンプで暗さに後悔しがちな問題を、重さ僅か150gのSoomloom製LEDランタン一台で解決した話。大きなランタンを複数持つ面倒さやコストを抑えつつ、コンパクトながら強力な光量とバッテリーを備えた道具として紹介している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "LEDランタン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "017c47fe33d8fa29",
+   "url": "https://www.thespruce.com/make-kitchen-drawers-and-cabinets-feel-larger-12246715",
+   "title_original": "Make Your Kitchen Cabinets and Drawers Feel Twice as Big With These Clever Tips From Organizing Pros",
+   "source": "The Spruce",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-19T20:53:00+00:00",
+   "title_ja": "キッチンのキャビネットや引き出しを広く使うための整理収納術",
+   "summary_ja": "整理収納のプロが教える、キッチンのキャビネットや引き出しを賢く活用するテクニックについての記事。無駄なスペースをなくして整理整頓を行うことで、収納スペースが2倍に感じられるような工夫を紹介している。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "7660d8b47a22d2a1",
+   "url": "https://tinyhousetalk.com/rosa-solo-abandoned-fire-lookout-restoration",
+   "title_original": "She Restored an Abandoned Fire Lookout by Herself in 8 Days, Without Power Tools",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/2026/11/restored-fire-lookout-white-teal-exterior.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-19T18:31:58+00:00",
+   "title_ja": "電動工具を使わず山頂の放置小屋を8日間で一人修復した女性の話",
+   "summary_ja": "カナダの山頂にある放置された火の見張り小屋を、電動工具を使わず8日間で単身修復した女性の実例。アクリル窓の設置や手作業での塗装、害獣対策を行い、山奥での簡素な拠点を自力で整えた経緯を報告している。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [
+    "アクリル窓"
+   ],
+   "importance": 4
+  },
   {
    "id": "5bc391e8a6b2792a",
    "url": "https://note.com/ample_harte9346/n/n944c56dc689a",
@@ -429,6 +609,25 @@
     "屋外浴槽"
    ],
    "importance": 5
+  },
+  {
+   "id": "2628512e218d7cc5",
+   "url": "https://tinyhousetalk.com/greenhouse-cabin-silverton-oregon",
+   "title_original": "Sleep in a Converted Cedar Greenhouse With a Loft Bed Under the Glass Roof",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/Silverton-Greenhouse-Cabin-Exterior-Tulips.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-19T12:30:01+00:00",
+   "title_ja": "ガラス屋根の下にロフトベッドがある温室のタイニーハウス",
+   "summary_ja": "オレゴン州の農場にある杉の温室を改築した約300平方フィートの住まい。ガラス屋根の下のロフトベッドや薪式のホットタブを備えた、簡素でユニークな暮らしの空間。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "ロフトベッド",
+    "ホットタブ"
+   ],
+   "importance": 4
   },
   {
    "id": "2d5b32fb5d7a46cb",
@@ -624,6 +823,22 @@
    "importance": 3
   },
   {
+   "id": "0c8d8855c30bc7af",
+   "url": "https://thesimplicityhabit.com/how-to-be-happy-fight-discontent",
+   "title_original": "How to Be Happy: 10 Ways to Fight Discontent & Find Joy in Your Life",
+   "source": "The Simplicity Habit",
+   "image": "https://thesimplicityhabit.com/wp-content/uploads/2019/09/AdobeStock_215646289-1024x684.jpeg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-19T01:57:06+00:00",
+   "title_ja": "日常の不満を和らげ喜びを見出すための10の習慣",
+   "summary_ja": "悪いニュースや消費を煽る広告があふれる現代において、幸せを感じるための考え方や具体的なアプローチを提案する記事。日常にある不満と上手に向き合い、自分自身の暮らしの中に喜びを見出すための10個のヒントを紹介している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "c2c1ded66e991d63",
    "url": "https://bemorewithless.com/simplify-your-home/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
    "title_original": "10 Minimalist Tips To Help You Simplify Your Home",
@@ -658,6 +873,22 @@
     "雑貨"
    ],
    "importance": 4
+  },
+  {
+   "id": "00bbe30b6930616e",
+   "url": "https://www.desmoinesregister.com/press-release/story/155722/living-with-less-loving-it-more-payam-mohseni-shares-a-warm-practical-guide-to-minimalism-in-the-intentional-life",
+   "title_original": "Living With Less, Loving It More: Payam Mohseni Shares a Warm, Practical Guide to Minimalism in The Intentional Life",
+   "source": "The Des Moines Register",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-18T23:46:04+00:00",
+   "title_ja": "少ない物で豊かに暮らす実用的なミニマリズムガイド",
+   "summary_ja": "パヤム・モフセニ氏が著書を通じて、持たない暮らしを楽しみながら実践するための温かいアドバイスを解説する記事。物を減らし、意図を持ったライフスタイルを送るための具体的なアプローチと心構えを紹介している。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
   },
   {
    "id": "d4bf581f50af5f05",
@@ -799,6 +1030,22 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
+  },
+  {
+   "id": "c2d0aea497a37917",
+   "url": "https://www.gadgetreview.com/travel-essentials-you-should-bring-on-every-excursion",
+   "title_original": "18 Travel Essentials You Should Bring on Every Excursion",
+   "source": "Gadget Review",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-18T18:15:00+00:00",
+   "title_ja": "旅行や外出時に持っていくべき18の旅の必需品",
+   "summary_ja": "旅行やちょっとしたお出かけの際に携帯しておきたい、おすすめの必需品18選を紹介する記事。移動や滞在をより快適かつスマートに過ごすために、旅先へ持参すべき厳選されたアイテムリストを提案している。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [],
+   "importance": 2
   },
   {
    "id": "3154849c48175fce",
@@ -1681,6 +1928,25 @@
     "まな板"
    ],
    "importance": 3
+  },
+  {
+   "id": "0890f7678b5ef6c0",
+   "url": "https://gearjunkie.com/packs/new-bagsmart-blast-x-travel-bags-2027",
+   "title_original": "Travel Backpack Upgrades: New BAGSMART BLAST X Travel Bags for 2027",
+   "source": "GearJunkie",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-16T17:19:40+00:00",
+   "title_ja": "機能性を高めた新作トラベルバックパックの紹介",
+   "summary_ja": "BAGSMARTが展開する新作トラベルバッグ「BLAST X」シリーズを紹介する記事。旅や移動の利便性を高めるためにアップデートされたバックパックの特徴や魅力について取り上げている。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "トラベルバッグ",
+    "バックパック"
+   ],
+   "importance": 2
   },
   {
    "id": "28dcefb04b4bbb56",
@@ -4511,7 +4777,7 @@
    "url": "https://www.womanandhomemagazine.co.za/today-on-woman-and-home/declutter-your-finances-before-year-end",
    "title_original": "How to Declutter Your Finances Before the End of the Year",
    "source": "www.womanandhomemagazine.co.za",
-   "image": "",
+   "image": "https://www.womanandhomemagazine.co.za/wp-content/uploads/2026/11/pexels-karola-g-5900029.jpg",
    "media": "news",
    "region": "海外",
    "published": "2026-11-12T12:00:16+00:00",
@@ -6165,22 +6431,6 @@
    "importance": 3
   },
   {
-   "id": "9fe466095a768cac",
-   "url": "https://note.com/nakavoice/n/n9dd1ec4a2ba9",
-   "title_original": "親の家の古いアルバム。捨てたくない親と、整理したい子が一緒に進むために",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/334261134/rectangle_large_type_2_117721285fa4eff6cdab5dc5126eaf30.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-09T15:26:46+00:00",
-   "title_ja": "実家の古いアルバムを親と無理なく整理する方法",
-   "summary_ja": "実家の古いアルバムの処遇を巡り、残したい親と整理したい子の間で意見が食い違うことがあります。双方の気持ちのズレを理解し、今後の負担を減らすための話し合いの始め方を振り返ります。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
    "id": "cb9e76226fb58cd4",
    "url": "https://nosidebar.com/5-truths-about-minimalism-to-remind-yourself-often",
    "title_original": "5 Truths About Minimalism to Remind Yourself Often",
@@ -6195,22 +6445,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
-  },
-  {
-   "id": "3c4402c8006c461d",
-   "url": "https://note.com/le_ssrisa/n/n0c9344e11c27",
-   "title_original": "【日々捨て活】最近手放したもの9",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/334240735/rectangle_large_type_2_4f8dfd737054de451318130640494ed9.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-09T14:39:59+00:00",
-   "title_ja": "玄関や冷蔵庫など日々少しずつ進める捨て活の記録",
-   "summary_ja": "玄関や冷蔵庫など場所を絞って少しずつ捨て活を行い、フリマアプリを使って直近で3点の手放しを実行した様子をつづっています。日々の小さな積み重ねで部屋をすっきりさせる方法です。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
   },
   {
    "id": "e3c0f91ff3e1db0c",
@@ -6530,24 +6764,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
-  },
-  {
-   "id": "07ad3bbedf0fa9f9",
-   "url": "https://note.com/kaiteki_life15/n/nd7b65d48acfa",
-   "title_original": "クローゼットの「全出し」で服を厳選。私が手放した6着の基準",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/326853097/rectangle_large_type_2_ac9a1623582dc9f414e719b7e70b62c5.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-09T04:48:30+00:00",
-   "title_ja": "クローゼットを全出しして服を厳選し6着を手放した話",
-   "summary_ja": "季節の変わり目にクローゼットの服をすべて出し、次のシーズンも着たい服を吟味して6着を手放した人の体験談。手放す基準を設けて厳選し、手持ちの服を合計29着まで絞り込んでいる。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "服"
-   ],
-   "importance": 4
   },
   {
    "id": "c4f9e0d0a2d60299",
@@ -7115,213 +7331,6 @@
    "category": "部屋・収納",
    "axis": "reduce",
    "things": [],
-   "importance": 3
-  },
-  {
-   "id": "f648d08a8ce9a753",
-   "url": "https://topics.smt.docomo.ne.jp/amp/article/liniere/life/liniere-119453",
-   "title_original": "【整理収納アドバイザーの冬支度】 小物をひとつ足すだけで部屋が見違える。心地よい冬のおうち時間が叶う愛用品4選",
-   "source": "ｄメニューニュース",
-   "image": "https://img.topics.smt.news.goo.ne.jp/picture/liniere/m_liniere-119453.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-07T12:30:00+00:00",
-   "title_ja": "整理収納アドバイザーが選ぶ冬の愛用品4選",
-   "summary_ja": "整理収納アドバイザーが、部屋の雰囲気を変えて心地よい冬の時間を過ごすための愛用品を4つ紹介している。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "cb0377abb993da16",
-   "url": "https://tinyhousetalk.com/orca-lgs-jay-steel-frame-tiny-house",
-   "title_original": "The Jay by ORCA LGS: A Steel-Framed Garden Suite Built to Outlast Wood",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/orca-steel-frame-tiny-house-thumbnail.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-07T12:30:00+00:00",
-   "title_ja": "軽量スチールフレームで作られた耐久性の高いガーデン離れ",
-   "summary_ja": "腐食や歪みに強い亜鉛メッキの軽量スチールを骨組みに採用した、床面積435平方フィートの1ベッドルームの離れ。外断熱を備え、効率的な居住空間を実現しています。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "24b9f77f9ca5b273",
-   "url": "https://www.realsimple.com/household-tasks-for-holiday-season-12189558",
-   "title_original": "7 Things to Clean, Declutter, and Stock Up on Now Before the Holiday Rush Begins",
-   "source": "Real Simple",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-07T12:30:00+00:00",
-   "title_ja": "ホリデーシーズンの繁忙期に向けて片づけと備蓄を進める方法",
-   "summary_ja": "本格的な繁忙期が始まる前に、家の中の掃除や不要品の整理、必要な物品の備蓄をあらかじめ済ませておくためのポイントを紹介しています。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "4108a0a48838add6",
-   "url": "https://balancethroughsimplicity.com/autumn-decluttering-projects",
-   "title_original": "10 Autumn Decluttering Projects for a Cosier, Calmer Home",
-   "source": "Balance Through Simplicity",
-   "image": "https://balancethroughsimplicity.com/wp-content/uploads/2024/09/Autumn-decluttering-projects-2-683x1024.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-07T12:15:00+00:00",
-   "title_ja": "秋に実践したい家をすっきり整える10の片づけプロジェクト",
-   "summary_ja": "木の葉が落ちるように、季節の変わり目に不要な物を手放すための10のアイデアを紹介しています。秋に向けて家の中を落ち着いた空間に整える方法がわかります。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "e6c7f7ad76132624",
-   "url": "https://tinyhousetalk.com/4x4-sprinter-full-time-van-life-this-is-van-life",
-   "title_original": "A Factory 4×4 Sprinter, Made Their Own for Full-Time Van Life",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/this-is-van-life-4x4-sprinter-front.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-07T12:15:00+00:00",
-   "title_ja": "フルタイムのバンライフ仕様にカスタムされた4WDスプリンター",
-   "summary_ja": "メルセデス・ベンツのスプリンターをベースに、オフロード装備やリアの収納ガレージ、テラコッタ調の内装をしつらえてフルタイムのバンライフ仕様に仕上げています。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "メルセデス・ベンツ スプリンター"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "d6041703da6b43b1",
-   "url": "https://www.roomie.jp/2026/11/1922357",
-   "title_original": "トースターなのに「焼き魚」にも本気！ アラジン×タニタの新作は、冷凍魚もそのまま焼けるらしい",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/20261104_tanitatoaster_top.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-07T12:00:03+00:00",
-   "title_ja": "アラジンとタニタの新作トースターで魚を焼く",
-   "summary_ja": "家の中のキッチンスペースを好みとする執筆者が、冷凍魚をそのまま焼けるアラジンとタニタの新作トースターに注目している。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "トースター"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "22a47a197aa03065",
-   "url": "https://tinyhousetalk.com/six-van-life-tours-sprinters-vintage-vw",
-   "title_original": "Six Ways to Live on the Road: Sprinters, a Cargo Van, and Two Vintage VWs",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/wanderfulrevolution_exterior-2.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-07T12:00:00+00:00",
-   "title_ja": "スプリンターや古いVWなど車上生活の6つの方法",
-   "summary_ja": "シャワー付きのDIYスプリンターや1986年式ウェストファリアなど、車中泊や車上生活の異なる6つの車両を紹介している。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "d98e799d3987a9dd",
-   "url": "https://www.lifehacker.jp/article/2611-machi-ya-flexypro-lh-editorialreview",
-   "title_original": "荷物が増えてもバッグ1つで動ける。17Lから42Lに広がるバックパック",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/11/06/90186ec7-1f96-4d3e-ba3c-9c3dc8b46ba0/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-07T12:00:00+00:00",
-   "title_ja": "17Lから42Lに広がる拡張型バックパック",
-   "summary_ja": "薄型17Lからスーツケース並みの42Lへ拡張できるバックパックを紹介。16インチのPC収納や吊り下げ収納機能を備え、これ1つで通勤から旅行まで対応できる。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "バックパック",
-    "PC"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c972b536cb13bab9",
-   "url": "https://www.thetraveler.org/one-bag-travel-for-two-weeks-how-to-pack-a-carry-on",
-   "title_original": "One-Bag Travel for Two Weeks: How to Pack a Carry-On",
-   "source": "https://www.thetraveler.org/",
-   "image": "https://thetraveler.s3.amazonaws.com/images/hero/one-bag-travel-carry-on-backpack_1200x675.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-07T11:46:18+00:00",
-   "title_ja": "機内持ち込み手荷物だけで2週間旅するパッキング術",
-   "summary_ja": "機内持ち込み用バッグ一つだけで、2週間の旅行を快適に乗り切るためのパッキング方法を紹介。荷物を極限まで絞り込む工夫が学べる。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "バッグ"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "a1faf994eea3e619",
-   "url": "https://news.livedoor.com/article/detail/32758824",
-   "title_original": "真似したい！ライフさんが教える「掃除が楽しくなる」部屋作りと暮らしのコツ",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-07T11:44:00+00:00",
-   "title_ja": "掃除が楽しくなる部屋作りと暮らしの工夫",
-   "summary_ja": "ライフさんが実践する、掃除をラクにして楽しくするための部屋作りと暮らしのコツを紹介。心地よい空間を整えるためのアイデアが満載。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "d5bbcc56743fdfcc",
-   "url": "https://www.roomie.jp/2026/11/1921692",
-   "title_original": "車で待機する時間が「本を読む時間」に。Amazonで見つけた読書灯で、ダラダラスマホが減ったよ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/20261103_readinglight_00-scaled.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-07T11:30:16+00:00",
-   "title_ja": "車内の待ち時間を読書時間に。買い足した読書灯",
-   "summary_ja": "子どもの迎えなどの車内待機時間を活用するため、Amazonで読書灯を購入した人の話。ダラダラとスマートフォンを見る時間を減らし、読書をする習慣へと生活をシフトさせている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "読書灯",
-    "スマートフォン"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f7d4eb5784d4ed07",
-   "url": "https://www.roomie.jp/2026/11/1924029",
-   "title_original": "パスタと野菜を鍋ひとつでゆで分け。このハーフざる気が利いてます",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/35690P002.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-07T11:15:30+00:00",
-   "title_ja": "鍋ひとつで食材をゆで分けられるハーフざる",
-   "summary_ja": "パスタと付け合わせの野菜をひとつの鍋で同時にゆで分けられる、下村企販のハーフストレーナーを紹介している記事。調理器具を減らしながら効率よく料理をするためのキッチンツール。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "ハーフストレーナー",
-    "鍋"
-   ],
    "importance": 3
   }
  ]
