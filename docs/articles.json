@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T08:48:33.585643+09:00",
+ "updated_at": "2026-11-21T15:10:51.275032+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,40 +27,37 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-21T08:50:13.451355+09:00",
+  "generated_at": "2026-11-21T15:11:27.319715+09:00",
   "days": 3,
   "period": "11月20日〜11月21日",
   "count": 45,
-  "reduce_count": 26,
-  "own_count": 19,
-  "overview": "物の手放し方やデジタル機器から離れる工夫に加え、PC周辺の収納グッズや容量可変式のバッグなど身軽な移動を助けるアイテムの活用法が語られています。",
-  "reduce": "メルカリを活用した不用品の処分や、ストックを1つに絞るルールづくりなど、具体的な手放し方や習慣の工夫が多く語られています。",
-  "own": "パソコンに直接取り付ける収納ポーチや、1台で何役もこなす多機能な道具など、荷物をコンパクトにまとめる便利なアイテムが紹介されています。",
+  "reduce_count": 24,
+  "own_count": 21,
+  "overview": "サブスクやデジタル断捨離を活用した暮らしの見直しや、持ち物を減らして空間を整える工夫に関する45件の記事が公開されています。",
+  "reduce": "サブスクの活用やデジタル機器から離れる時間を作ることで、物や情報といった過剰な負担を減らして暮らしを整える手法が語られています。",
+  "own": "パソコン周りの小物をまとめて忘れ物を防ぐ便利グッズや、旅行・防災など1台で複数の役割をこなす多機能なアイテムが紹介されています。",
   "points": [
    {
-    "title": "メルカリの活用法",
-    "body": "メルカリを始めて十数点を出品した経験や、壊れたiPodを含む不用品35点を約3か月かけて売却し75,000円を得た体験談など、フリマアプリを手放すためのツールとして活用する方法が語られています。"
+    "title": "デジタル断捨離",
+    "body": "スマホやパソコンの画面を見る時間から意識的に離れてデジタル上の散らかりや情報量を減らし、メンタルヘルスを守り生活を取り戻す考え方が複数の記事で提案されています。"
    },
    {
-    "title": "デジタル断捨離の提案",
-    "body": "スマホやパソコンを見ない時間を作って生活から不要な情報量を減らしていく考え方や、デジタル画面中心の生活から離れるために水彩画やレコードといったアナログな道具を活用する提案がなされています。"
+    "title": "メルカリの活用",
+    "body": "メルカリなどのフリマアプリを使って不要な品物を手放し、不用品35点を処分して現金を得た体験や、モノを手放す記録の残し方について実例を交えて解説されています。"
    },
    {
-    "title": "収納と忘れ物防止",
-    "body": "コクヨの「PCに貼れるポーチ」などパソコンに直接収納を取り付けて忘れ物を防ぐ便利グッズや、立てる傘立てを手放して出し入れのストレスをなくした収納見直しの事例が紹介されています。"
+    "title": "一体型ガジェット",
+    "body": "パソコン自体や専用ポーチに小物をまとめて忘れ物を激減させるコクヨの便利グッズや、1つの道具で複数の役割をこなす多機能な持ち物が紹介されています。"
    }
   ],
   "keywords": [
-   "手放す",
-   "収納",
-   "デジタル",
-   "メルカリ"
+   "持ち物"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 18
+   "count": 16
   },
   {
    "name": "スマートフォン",
@@ -76,6 +73,10 @@
   },
   {
    "name": "バックパック",
+   "count": 5
+  },
+  {
+   "name": "腕時計",
    "count": 5
   },
   {
@@ -112,14 +113,6 @@
   },
   {
    "name": "冷蔵庫",
-   "count": 3
-  },
-  {
-   "name": "洗濯機",
-   "count": 3
-  },
-  {
-   "name": "腕時計",
    "count": 3
   },
   {
@@ -207,6 +200,10 @@
    "count": 2
   },
   {
+   "name": "洗濯機",
+   "count": 2
+  },
+  {
    "name": "照明",
    "count": 2
   },
@@ -215,7 +212,7 @@
    "count": 2
   },
   {
-   "name": "食洗機",
+   "name": "靴",
    "count": 2
   }
  ],
@@ -302,6 +299,7 @@
   "ぴーこ｜ゆるっとミニマルな日常",
   "むぎの頑張らない暮らし",
   "やましたひでこ断捨離",
+  "ウチコミ！",
   "ウレぴあ総研",
   "ハフポスト",
   "ミニマリスト Nozomi",
@@ -322,6 +320,110 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "efcddd0f40325c4b",
+   "url": "https://uchicomi.com/uchicomi-times/category/rent/main/15431",
+   "title_original": "「持たない暮らし」の深層心理――サブスクとミニマリズムが変える住まい観",
+   "source": "ウチコミ！",
+   "image": "https://uchicomi.com/assets/img_blog_article/202611/03dc732ab8463af94a05064e642104f6.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-21T03:59:30+00:00",
+   "title_ja": "サブスクとミニマリズムが変える「持たない暮らし」の心理",
+   "summary_ja": "所有を減らす背景にある心理を解説し、サブスクリプションサービスが物を持たない生活を支える仕組みと、住まいへの影響を紹介している。また、実際にサブスクを活用している事例や、物を持たないことで得られる精神的余裕についても触れている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "045e5a9d524f7b2a",
+   "url": "https://www.roomie.jp/2026/11/1934131",
+   "title_original": "洗濯機のホース下、ホコリが溜まる問題。山崎実業の浮かせるフックで、掃除しやすい仕組みを作れました",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/07/09b45206b6d4403bcf2248a2c864a661.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-21T03:00:42+00:00",
+   "title_ja": "洗濯機ホースを浮かせるフックでホコリ対策",
+   "summary_ja": "山崎実業のフックで洗濯機ホースを床から浮かせ、ホコリや害虫の蓄積を防ぎ、掃除がしやすくなる実装例を紹介している。さらに、同梱の排水トラップカバーと併用することで、汚れの付着をさらに減らし、メンテナンス頻度を低減できる点も解説している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "洗濯機ホースフック",
+    "排水トラップカバー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "12e317f2902ed092",
+   "url": "https://www.roomie.jp/2026/11/1933886",
+   "title_original": "スマートウォッチっぽさを完全に排除。高級感たっぷりのAI搭載腕時計",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/futuregopro23.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-21T00:45:46+00:00",
+   "title_ja": "アナログ時計の見た目とスマート機能を両立した腕時計",
+   "summary_ja": "スマートウォッチの便利さは欲しいけれどアナログ時計の見た目が好きという人に向けて、メタルボディを採用したAI搭載腕時計を紹介している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "腕時計"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d45784bc487d7fa5",
+   "url": "https://bemorewithless.com/weekend-favorites-november-21-2026/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
+   "title_original": "simple cleaning hacks + decluttering after loss or divorce",
+   "source": "Be More with Less",
+   "image": "https://bemorewithless.com/wp-content/uploads/2026/11/simple-cleaning-hacks-image.png",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-21T00:29:20+00:00",
+   "title_ja": "喪失や離婚を乗り越えて部屋を片づける方法",
+   "summary_ja": "人生の大きな変化や喪失のあとに、簡単な掃除のコツを取り入れながら気持ちと空間を整理して片づけていく週末の過ごし方について綴っている。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "255fbfe42be94d74",
+   "url": "https://minimalist-fudeko.com/enjoy-life-without-spending",
+   "title_original": "お金を使わない生活でも楽しく暮らせる。外食や旅行の代わりの見つけ方",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/11/drawing.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-21T00:10:00+00:00",
+   "title_ja": "お金を使わない生活で物足りなさを感じたときの代わりの見つけ方",
+   "summary_ja": "収入減少や身軽な暮らしを目指してお金をかけない生活を始めたものの、外食や旅行をやめて物足りなさを感じている人に向けた代わりの楽しみ方の提案。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "b4b21930079d3e32",
+   "url": "https://note.com/zeronositenn/n/n4fee2e8f7fcc",
+   "title_original": "１０００万円の時計と履きつぶした靴ーー億り人であっても使い道がない男の、究極のミニマリスト",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/338654258/rectangle_large_type_2_778a88f53d9137d7845387cf2d61dc0c.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-20T23:46:27+00:00",
+   "title_ja": "高級時計と履きつぶした靴から考える究極のミニマリスト",
+   "summary_ja": "億り人であっても高級腕時計に関心を持たず、自身の価値観に忠実にお金を使わない暮らしを貫く人物の姿勢から究極のミニマリスト像を描き出す。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "腕時計",
+    "靴"
+   ],
+   "importance": 4
+  },
   {
    "id": "076d168b92ccc465",
    "url": "https://www.roomie.jp/2026/11/1934425",
@@ -702,6 +804,26 @@
     "幌馬車"
    ],
    "importance": 2
+  },
+  {
+   "id": "bc7875c0660ae7e2",
+   "url": "https://tinyhousetalk.com/play-kitchen-van-life",
+   "title_original": "Tanya’s $75 Play Kitchen Minivan: Budget Van Life in a Dodge Grand Caravan",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/2586-uper-CHEAP-Minivan-Living-With-a-TWIST-You-Wont-BELIEVE.jpeg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-20T12:15:00+00:00",
+   "title_ja": "ミニバンを改装して作り上げたコンパクトな車中生活の工夫",
+   "summary_ja": "ミニバンを改造し、子ども用のおもちゃのキッチンや図書館で充電する電源ステーションを活用して快適な移動式住居を作り上げた事例。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "ミニバン",
+    "おもちゃのキッチン",
+    "電源ステーション"
+   ],
+   "importance": 4
   },
   {
    "id": "db7aa4de3446aa53",
@@ -6534,24 +6656,6 @@
    "importance": 3
   },
   {
-   "id": "b6653b6038715ecb",
-   "url": "https://note.com/waraj/n/n1b7d3b00156b",
-   "title_original": "少ない服で暮らしていても、着ていない服はある",
-   "source": "note #少ない服で暮らす",
-   "image": "https://assets.st-note.com/production/uploads/images/332112915/rectangle_large_type_2_a1f8c7e6d870106df995514f69c33beb.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-10T22:00:00+00:00",
-   "title_ja": "服が少なくても着ていない服はある、引き出しの見直し",
-   "summary_ja": "引き出し2段に収まるほど少ない服で暮らしていても、過去にお気に入りだった出番のない服があることに気づく。半年から1年着ていない服を中心に、ゴミ出しのタイミングに合わせて少しずつ手放す見直しを進めている話。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "服"
-   ],
-   "importance": 4
-  },
-  {
    "id": "eca31fd7da256a5f",
    "url": "https://tinyhousetalk.com/canoe-bay-village-two-bedroom-lot-30",
    "title_original": "A One-of-a-Kind Two-Bedroom Escape Home at Canoe Bay Village (Lot 30)",
@@ -6588,25 +6692,6 @@
     "スプリンターバン",
     "クイーンベッド",
     "ダイネット"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "9f0374524be5c6e3",
-   "url": "https://note.com/chiisana_hana/n/n79a6792352d6",
-   "title_original": "服を減らしたら、洗濯がラクになった",
-   "source": "note #少ない服で暮らす",
-   "image": "https://assets.st-note.com/production/uploads/images/330619368/rectangle_large_type_2_7e444a24edec604b282377ec6299b66b.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-10T20:59:23+00:00",
-   "title_ja": "服を減らしたことで洗濯の負担が軽くなり習慣が変わった人の話",
-   "summary_ja": "持ち物の服を減らしたことで、洗濯物を溜め込まずに洗う習慣がついた体験談。以前はまとめて洗うことで重く大量の洗濯物を干す作業に苦労していましたが、服の数を減らしたことで日々の家事の負担が大きく軽減しました。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "服",
-    "洗濯機"
    ],
    "importance": 3
   },
@@ -7288,86 +7373,6 @@
    "axis": "own",
    "things": [],
    "importance": 4
-  },
-  {
-   "id": "a6f7cfb81b99193d",
-   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/09/new-start-after-60-burnt-out-redundancy-bee-farm-simple-life",
-   "title_original": "A new start after 60: I was burnt out and facing redundancy. So I set up a bee farm – and learned the joys of a simple life",
-   "source": "The Guardian（暮らし）",
-   "image": "https://i.guim.co.uk/img/media/5ea622343ea614816aaadd2f9b7217dcd6f33d46/0_348_2400_1920/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=21058414e73c0b62159332cca20502b4",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-09T06:30:01+00:00",
-   "title_ja": "人生の転機に仕事を辞め、シンプルな農村生活へ移った男性の話",
-   "summary_ja": "長年ジャーナリストとして働いて燃え尽き症候群を経験した男性が、妻と共にカナダの田舎へ移住。養蜂を始めたことをきっかけに、都市を離れて物や情報をそぎ落としたシンプルな暮らしの喜びを見出した経験を語っています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "8dfed864dde1045d",
-   "url": "https://www.homesandgardens.com/household/pre-holiday-decluttering",
-   "title_original": "5 Clutter Hotspots to Clear Ahead of Hosting for the Holidays: According to Professional Organizers",
-   "source": "Homes and Gardens",
-   "image": "https://cdn.mos.cms.futurecdn.net/EfTTAqqXyrjDTTe4vterjG-2560-80.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-09T05:00:00+00:00",
-   "title_ja": "来客前に片付けるべき5つの「散らかりスポット」",
-   "summary_ja": "プロのオーガナイザーが提案する、ホリデーシーズンに来客を迎える前に優先して整理しておくべき5つの散らかりやすい場所を紹介。イベント直前に慌てないための片付けポイントや空間の整え方をまとめている。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "c4f9e0d0a2d60299",
-   "url": "https://article.auone.jp/7f2b3e05-0294-45d9-a46f-0ab1f80dffd3",
-   "title_original": "「また買っちゃった…」の後悔ゼロへ！気づけばモノが増える人のための買い方3つのコツ",
-   "source": "au Webポータル",
-   "image": "https://portal.auone.jp/media/thumbnails/2026/11/09/https___news_jp_i_1492355374053769786_w1280.webp",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-09T02:47:27+00:00",
-   "title_ja": "モノが増える人のための買い方のコツ",
-   "summary_ja": "買った後の後悔を無くすために、気づかないうちに持ち物が増えてしまう人のための買い方のコツを紹介している。無駄な買い物を防ぐための考え方を学べる。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "7b540439a59eb042",
-   "url": "https://www.goodhousekeeping.com/home/organizing/a74209008/pre-holiday-organizing-projects",
-   "title_original": "9 Pre-Holiday Organizing Projects to Check Off Your List Now",
-   "source": "Good Housekeeping",
-   "image": "https://hips.hearstapps.com/hmg-prod/images/39ee2600-950f-47e0-85c5-eb9566d07df9.jpg?crop=1xw:0.75xh;0xw,0.055xh&resize=1200:*",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-09T01:09:05+00:00",
-   "title_ja": "ホリデーシーズン前にやっておきたい片づけの計画",
-   "summary_ja": "本格的な休日のシーズンが訪れる前に、自宅の整理整頓を進めておくための片づけプロジェクトを提案している。事前に計画を立てて家の中をすっきりと整えるためのヒント。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "6ec33f07f3989a89",
-   "url": "https://minimalist-fudeko.com/ai-and-the-end-of-loneliness",
-   "title_original": "AIの話し相手は、いずれ卒業するくらいがいい（TED）",
-   "source": "筆子ジャーナル",
-   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/11/ai.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-09T00:10:48+00:00",
-   "title_ja": "AI依存から卒業する。心理学者が語る孤独との付き合い方",
-   "summary_ja": "人との対話が減りAIと話す時間が増えた人に向けて、心理学者のTEDトークを紹介。孤独を解消するためのAIとの距離感や、自分の暮らし・人間関係の整え方について考えさせる内容となっている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
   }
  ]
 }
