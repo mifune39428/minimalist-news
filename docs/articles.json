@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22T14:45:32.708767+09:00",
+ "updated_at": "2026-11-22T23:18:34.375279+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,44 +27,41 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-22T14:47:44.739983+09:00",
+  "generated_at": "2026-11-22T23:19:57.228273+09:00",
   "days": 3,
   "period": "11月21日〜11月22日",
   "count": 45,
-  "reduce_count": 25,
-  "own_count": 20,
-  "overview": "物を減らす手放し方や、暮らしを快適にする愛用アイテムの紹介など、多様な視点からの実践的な工夫が語られています。",
-  "reduce": "次の家にも持っていきたいかを基準にした物の見直しや、片づけの失敗談を通じた整理のコツが共有されています。",
-  "own": "乾燥対策コスメやテーブルと収納を兼ねるコンテナなど、身軽な外出や快適な室内を支える愛用品が紹介されています。",
+  "reduce_count": 26,
+  "own_count": 19,
+  "overview": "11月21日から22日にかけて、タイニーハウスでの生活実例や衣類・小物の具体的な手放し方、日常生活を快適にするための持ち物の工夫に関する記事が多数寄せられています。",
+  "reduce": "タイニーハウス村の住民による生活コストの紹介や、移住や季節の変わり目を機にした具体的なアイテムの手放し方に関する記事が多く見られます。",
+  "own": "AirPods Proの2台目に選んだ低価格イヤホンや乾燥対策コスメ、収納とテーブルを兼ねるキャンプ用品など、身軽さを追求した愛用品の紹介が目立ちます。",
   "points": [
    {
-    "title": "小物の片づけ術",
-    "body": "50代の会社員が家具を処分した体験から、ケーブルや充電器といった分別や処分方法に迷う小物の片づけづらさを綴っています。"
+    "title": "タイニーハウスの暮らし",
+    "body": "タイニーハウス村の住民21人の暮らしぶりや生活コストの紹介に加え、Escape社の大型新作モデルや、廃材を活かして地下の家を自作した事例などが語られています。"
    },
    {
-    "title": "手放す基準の活用",
-    "body": "引っ越しや移住をきっかけに、「次の家にも持っていきたいか」という基準を設けて今の暮らしに合わないモノを手放した事例が紹介されています。"
+    "title": "衣類や小物の手放し方",
+    "body": "800着の服を15着まで減らした男子大学生の体験談をはじめ、冬に備えたアイテムの整理や、ケーブルなどの小物や家具の処分に悩む様子が綴られています。"
    },
    {
-    "title": "収納を兼ねる工夫",
-    "body": "テーブルと収納の役割を兼ねられる50Lアルミコンテナを活用し、キャンプの持ち物の数を減らす工夫が紹介されています。"
-   },
-   {
-    "title": "デジタルと現実の整理",
-    "body": "AIツールを使って未読のGmailをデジタル断捨離した体験談や、脱スマホに効くアナログな道具の活用法が語られています。"
+    "title": "持ち物を減らす工夫",
+    "body": "テーブルと収納を兼ねたアルミコンテナでキャンプ道具を減らしたり、ダイソーのコインポーチやコクヨの収納グッズで外出時の荷物をコンパクトにする工夫が紹介されています。"
    }
   ],
   "keywords": [
-   "持ち物",
+   "タイニーハウス",
+   "ミニマリスト",
+   "手放し",
    "片づけ",
-   "収納",
-   "手放す"
+   "収納"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 16
+   "count": 14
   },
   {
    "name": "洋服",
@@ -87,11 +84,11 @@
    "count": 5
   },
   {
-   "name": "腕時計",
-   "count": 5
+   "name": "モバイルバッテリー",
+   "count": 4
   },
   {
-   "name": "モバイルバッテリー",
+   "name": "腕時計",
    "count": 4
   },
   {
@@ -171,10 +168,6 @@
    "count": 2
   },
   {
-   "name": "傘",
-   "count": 2
-  },
-  {
    "name": "充電ケーブル",
    "count": 2
   },
@@ -200,6 +193,10 @@
   },
   {
    "name": "洗剤",
+   "count": 2
+  },
+  {
+   "name": "洗濯乾燥機",
    "count": 2
   },
   {
@@ -282,17 +279,18 @@
   "The Scottish Sun",
   "The Simplicity Habit",
   "The Spruce",
+  "The Times of India",
   "Tiny House Talk",
   "Travel + Leisure",
   "Unisba Media",
   "Vogue Scandinavia",
   "Wales Online",
   "Who What Wear",
+  "Woman & Home",
   "Woman and Home Magazine",
   "Yahoo",
   "Yahoo!ニュース",
   "au Webポータル",
-  "autoevolution",
   "freeyork",
   "mai minimalism",
   "mamagirl",
@@ -301,7 +299,6 @@
   "note #持たない暮らし",
   "note #断捨離",
   "openPR.com",
-  "thegloss.ie",
   "veranda.com",
   "www.womanandhomemagazine.co.za",
   "うにのゆるシンプルな暮らし",
@@ -329,6 +326,126 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "86b14b01f0bb35cc",
+   "url": "https://tinyhousetalk.com/tiny-house-community-living-21-residents",
+   "title_original": "Life in a Tiny House Community: 21 Residents Share Their Stories (and What They Pay)",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/His-Hres-Tiny-Homes-For-Married-Couple-2.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-22T13:00:00+00:00",
+   "title_ja": "タイニーハウス村の住民21人の暮らしと費用",
+   "summary_ja": "引退者やシングルファーザーなど、多様な経歴を持つ21人の住民たちが、タイニーハウス村での実際の暮らしぶりや生活コストを紹介している記事です。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "ab4e9a5f1866665d",
+   "url": "https://www.roomie.jp/2026/11/1934712",
+   "title_original": "AirPods Proを愛用する私が2台目に選んだ、3,800円の新作イヤホン。ノイキャン付きでこの価格は凄すぎるよ…",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/37A7173-2.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-22T12:30:23+00:00",
+   "title_ja": "愛用するAirPods Proの2台目に選んだ低価格イヤホン",
+   "summary_ja": "普段AirPods Proを持ち歩いているライターが、ノイズキャンセリング付きの3800円の新作イヤホンを2台目として選んだ理由と使い心地を語っています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "AirPods Pro",
+    "イヤホン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "36e8c000179d63a9",
+   "url": "https://www.roomie.jp/2026/11/1932379",
+   "title_original": "ノートに貼ったメモがめくれてしまうのが気になって…。紙もの好きの私が愛用する「かどまる PRO」",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/IMG_1304-scaled.jpeg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-22T11:30:37+00:00",
+   "title_ja": "紙もの好きが愛用する角丸カッター",
+   "summary_ja": "手帳やノートに貼ったメモのめくれを防ぐため、筆者が愛用しているステーショナリーを紹介しています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "かどまる PRO"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "8974d875c8525e20",
+   "url": "https://note.com/holy_mole1734/n/ne32c9f57de3c",
+   "title_original": "ミニマリストになって、休日の過ごし方が変わった。",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/334982806/rectangle_large_type_2_421268501d222f4eda2c49df822674d3.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-22T11:03:10+00:00",
+   "title_ja": "物を減らして休日の過ごし方が変わった話",
+   "summary_ja": "物を減らしたことで家事や片付けにかかる時間が減り、家族と過ごす休日や時間の余裕が増えた実体験です。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "食洗機",
+    "洗濯乾燥機"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "5401cfeb43fa9546",
+   "url": "https://www.youtube.com/watch?v=zNOYBcvDjPA",
+   "title_original": "【Vlog】31歳ミニマリスト 家賃4万円 至高の朝コメダ ウィッシュリストを作ろう",
+   "source": "ミニマリストK",
+   "image": "https://i3.ytimg.com/vi/zNOYBcvDjPA/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-22T10:00:16+00:00",
+   "title_ja": "31歳ミニマリストの朝の過ごし方とウィッシュリスト",
+   "summary_ja": "家賃4万円の部屋で暮らす31歳ミニマリストの日常Vlog。朝コメダで過ごす様子や、ウィッシュリストを作って日々の暮らしを整える様子が紹介されています。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "56e922c7cc6bad15",
+   "url": "https://www.womanandhome.com/homes/cleaning--decluttering/things-to-declutter-prepare-for-winter-expert-advice",
+   "title_original": "6 things to declutter now to prepare for winter, according to professional organisers",
+   "source": "Woman & Home",
+   "image": "https://cdn.mos.cms.futurecdn.net/A9XXRpQJn9Fu3Ry7nFZfG4-1920-80.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-22T07:00:00+00:00",
+   "title_ja": "冬に備えて今すぐ手放すべき6つのアイテム",
+   "summary_ja": "プロのオーガナイザーが推奨する、冬を迎える前に家の中をすっきりと整えるための片づけ術。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "65735b9666e274e5",
+   "url": "https://timesofindia.indiatimes.com/astrology/vastu-feng-shui/before-2026-ends-5-decluttering-and-vastu-tips-to-remove-stagnant-energy-before-the-new-year/articleshow/136053767.cms",
+   "title_original": "Before 2026 Ends: 5 Decluttering and Vastu Tips to Remove Stagnant Energy Before the New Year",
+   "source": "The Times of India",
+   "image": "https://static.toiimg.com/thumb/msid-136053767,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-22T06:00:00+00:00",
+   "title_ja": "年末までに実践したい片づけと開運のヒント",
+   "summary_ja": "新しい年に向けて停滞したエネルギーを取り除くための、片づけのヒントを紹介している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
   {
    "id": "b27546e6bfe2bc80",
    "url": "https://note.com/takagiandnishi/n/n15705d16ea4c",
@@ -403,6 +520,22 @@
    "importance": 4
   },
   {
+   "id": "8fd1527192802fbc",
+   "url": "https://news.yahoo.co.jp/articles/7085c1d54c8ec9b1a5b1dc980169176b25936f39/images/000",
+   "title_original": "「困るかもしれない」でモノを増やす妻 vs「穴が開いたら買う」夫…片づけのプロが気づいた決定的な差 (with online)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26ojRa6-1k29uiDpRUIGOEEkdS9LxaN2VMeBy1T8bF_11AJIyVxtrE4y-7Zn5NY5fvF2YzgVIRAW_4pVx0vduGEUPmsoOwpC_GCKiwDSxsvR0",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-22T02:31:10+00:00",
+   "title_ja": "モノを増やす人と減らす人の考え方の違い",
+   "summary_ja": "「困るかもしれない」と考えて物を増やす妻と、「穴が開いたら買う」夫の片づけに対する姿勢の差について、片づけのプロが気づいたこと。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "f07dbbd0746b15d8",
    "url": "https://www.roomie.jp/2026/11/1933584",
    "title_original": "キャンプの荷物がようやく1つ減る。テーブルと収納を兼ねる天板IGT規格の50Lアルミコンテナ",
@@ -469,6 +602,22 @@
    "published": "2026-11-21T23:25:32+00:00",
    "title_ja": "移住を機に「次の家にも持っていきたいか」を基準に持ち物を手放した話",
    "summary_ja": "引っ越しと移住をきっかけに持ち物の見直しを行ったミニマリストの事例。「次の家にも持っていきたいか」という基準を設け、今の暮らしに合わなくなったモノを手放し、これから必要なモノだけを選び取って準備を進めている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "93cf4af58cb3976a",
+   "url": "https://www.bhg.com/how-to-declutter-closet-12190266",
+   "title_original": "What You Should Keep When Decluttering Your Closet and How to Store Those Items Safely",
+   "source": "Better Homes & Gardens",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-21T19:01:22+00:00",
+   "title_ja": "クローゼットの片づけで残すべき物と保管方法",
+   "summary_ja": "クローゼットをすっきりと整理する際に、手元に残すべきアイテムの見極め方と、それらを安全に保管する方法についての解説。",
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
@@ -6698,24 +6847,6 @@
    "importance": 3
   },
   {
-   "id": "82a81398f2491dcb",
-   "url": "https://note.com/makimura1/n/n67884c53ca21",
-   "title_original": "迷った服を手放すときの最後の1問",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/334979912/rectangle_large_type_2_90ca792eabcb43de7054082fb1f1f3dd.jpeg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-11T12:57:23+00:00",
-   "title_ja": "服を手放す前の最後の質問",
-   "summary_ja": "迷っている服を手放す前に、5秒で答える『最後の1問』を自分に問いかける方法を紹介。答えが『捨てる』なら手放し、残すか悩むときの基準になる。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [
-    "服"
-   ],
-   "importance": 3
-  },
-  {
    "id": "4dd620188c8660f1",
    "url": "https://tinyhousetalk.com/coslor-cove-off-grid-village-arizona-family",
    "title_original": "Family of Five Starts Over in an Off-Grid Cob Village in the Arizona Desert",
@@ -7237,153 +7368,6 @@
     "iPhone"
    ],
    "importance": 3
-  },
-  {
-   "id": "4aaf9ec087490117",
-   "url": "https://www.theguardian.com/food/2026/nov/10/school-lunchbox-bento-box-ideas-inspiration",
-   "title_original": "How to brighten up a school lunchbox | Kitchen aide",
-   "source": "The Guardian（暮らし）",
-   "image": "https://i.guim.co.uk/img/media/843ebd847a51ea48c9bec2fb4224e10b8662b6c6/449_198_3445_2756/master/3445.jpg?width=140&quality=85&auto=format&fit=max&s=a350a0cb437414d43d9c035b9ca16011",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-10T13:00:53+00:00",
-   "title_ja": "お弁当作りの負担を減らすシンプルな定番ルール",
-   "summary_ja": "毎朝の献立に悩まないよう、定番の食材とシンプルなルールを決め、お弁当箱を活用して効率よくお弁当作りの準備をしている事例。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "お弁当箱"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ea0883841c19833f",
-   "url": "https://thegloss.ie/is-the-capsule-wardrobe-dead-8-fashion-insiders-weigh-in-on-the-great-beige-debate",
-   "title_original": "Is The Capsule Wardrobe Dead? 9 Fashion Insiders Weigh In On The Beige Debate",
-   "source": "thegloss.ie",
-   "image": "https://i.resized.co/thegloss/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3N0b3JhZ2UudGhlZ2xvc3MuaWVcXFwvcHJvZFxcXC8yMDI2XFxcLzExXFxcL2NhcHN1bGUtd2FyZHJvYmUtd2l0aC1wZXJzb25hbGl0eS0yMDI2LTIuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MzAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3N0b3JhZ2UudGhlZ2xvc3MuaWVcXFwvcHJvZFxcXC90aGVnbG9zcy1uby1pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjp7XCJvdXRwdXRcIjpcImpwZ1wifX0iLCJoYXNoIjoiMjViNjFkODY0OTIxMjgyNzVlOGQ4ZDM3NDUyYmJkYzlmN2I2OTE5MCJ9/is-the-capsule-wardrobe-dead-9-fashion-insiders-weigh-in-on-the-beige-debate.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-10T13:00:04+00:00",
-   "title_ja": "カプセルワードローブは衰退？専門家9人の見解",
-   "summary_ja": "ファッション業界の専門家9名が、ベージュ中心のカプセルワードローブが今後衰退するかを議論。少数の服でコーデを組むミニマリスト的な考え方に関する意見が紹介される。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "服"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c376852d593605bf",
-   "url": "https://www.roomie.jp/2026/11/1922982",
-   "title_original": "約100gなのに意外と入る。秋の行楽に、スノーピークの万能サコッシュがちょうどよかった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/snowpeaksacoche1.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-10T12:15:14+00:00",
-   "title_ja": "約100gのスノーピーク万能サコッシュを使った話",
-   "summary_ja": "秋の行楽やアウトドアで活躍する、スノーピークの約100gのサコッシュを導入した人の話。汚れを気にせず使えて意外と荷物が入る、使い勝手の良いバッグ。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "サコッシュ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "3f29d65e1490d721",
-   "url": "https://www.countryliving.com/home-maintenance/organization/a74378028/four-week-decluttering-challenge-christmas",
-   "title_original": "This 4-Week Decluttering Challenge Can Help You Get Your Home Ready for Christmas",
-   "source": "Country Living Magazine",
-   "image": "https://hips.hearstapps.com/hmg-prod/images/declutter-for-christmas-68f9f704697e6.jpeg?crop=1.00xw:0.372xh;0,0.408xh&resize=1200:*",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-10T12:02:51+00:00",
-   "title_ja": "クリスマス前に実践できる4週間の断捨離チャレンジ",
-   "summary_ja": "4週間にわたる段階的な断捨離プログラムを紹介。クリスマスシーズンに向けて不要品を手放し、部屋をすっきりさせる具体的なステップが提示される。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "a1982a37183867dc",
-   "url": "https://www.roomie.jp/2026/11/1925690",
-   "title_original": "山崎実業のゴミ袋ホルダーが20%オフ。重い袋を持ち上げるの、もうやめた",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/20261110yamazaki.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-10T11:15:55+00:00",
-   "title_ja": "山崎実業のゴミ袋ホルダーを導入した人の話",
-   "summary_ja": "山崎実業のゴミ袋ホルダーを使い始めた人の話。袋をかけてフタをするだけで使え、ゴミが溜まったら横から引き抜くだけで簡単に交換できる便利なアイテム。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ゴミ袋ホルダー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "6bd3502bdd3543e6",
-   "url": "https://monomax.jp/archives/371046",
-   "title_original": "【20万円以下で一生モノ】今が狙い目、ティソの復刻機とスピニカーの初コラボがもたらす圧倒的な高揚感。語れる“初モノ”本格腕時計",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2027/11/260908-160079_11zon-scaled.jpeg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-10T11:00:34+00:00",
-   "title_ja": "20万円以下で手に入る一生モノ腕時計、ティソ復刻とスピニカー初コラボ",
-   "summary_ja": "20万円未満で購入できるティソ復刻機とスピニカーのコラボ腕時計を紹介。高品質で長く使える‘一生もの’として、ミニマリストが選ぶべきアイテムの例となる。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "腕時計",
-    "ティソ復刻機",
-    "スピニカーコラボ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "5e98548d0b496789",
-   "url": "https://www.roomie.jp/2026/11/1920989",
-   "title_original": "膝から下の雨まかせを解消。「KiUの防水スカート」なら好きな服のまま雨の日に出かけられる",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/IMG_1720-1.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-10T11:00:02+00:00",
-   "title_ja": "お気に入りの服で雨の日も出かける防水スカート",
-   "summary_ja": "古着や作家ものの雑貨に囲まれ、自分の世界観を大切にする暮らしを送るライターが、雨の日の外出を快適にする防水スカートを紹介しています。お気に入りの服を着たまま雨の日を過ごせる工夫です。",
-   "category": "服・ファッション",
-   "axis": "own",
-   "things": [
-    "防水スカート",
-    "傘"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "13ae76c128960f62",
-   "url": "https://www.autoevolution.com/news/turtle-cottage-is-a-41-ft-tiny-home-with-a-wooden-deck-catpatio-and-a-surprising-amount-of-storage-278203.html",
-   "title_original": "Turtle Cottage Is a 41-ft Tiny Home With a Wooden Deck, Catpatio, and a Surprising Amount of Storage",
-   "source": "autoevolution",
-   "image": "https://s1.cdn.autoevolution.com/images/news/turtle-cottage-is-a-41-ft-tiny-home-with-a-wooden-deck-catpatio-and-a-surprising-amount-of-storage-278203_1.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-10T10:20:40+00:00",
-   "title_ja": "41フィートの小さな家『Turtle Cottage』はデッキと驚きの収納が魅力",
-   "summary_ja": "全長約12.5メートルの小さな住宅『Turtle Cottage』は、木製デッキと猫用パティオを備え、驚くほどの収納スペースを確保。ミニハウスでのシンプルな暮らしを示す。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "木製デッキ",
-    "猫用パティオ",
-    "収納"
-   ],
-   "importance": 4
   }
  ]
 }
