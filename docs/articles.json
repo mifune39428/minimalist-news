@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22T03:53:12.288466+09:00",
+ "updated_at": "2026-11-22T14:45:32.708767+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,49 +27,59 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-22T03:54:38.260315+09:00",
+  "generated_at": "2026-11-22T14:47:44.739983+09:00",
   "days": 3,
-  "period": "11月20日〜11月22日",
+  "period": "11月21日〜11月22日",
   "count": 45,
-  "reduce_count": 21,
-  "own_count": 24,
-  "overview": "心と空間を整える「減らし方」の実践や、デジタルからアナログへの切り替え、持ち物をコンパクトにする工夫が語られています。",
-  "reduce": "物を手放す決断の記録や、メルカリやAIツールを活用したデジタルとリアルな片付けの具体的な手順についての話題が多く見られます。",
-  "own": "パソコン周りの便利グッズやミニマムな収納アイテムを活用して、外出時の荷物を減らし身軽に過ごす工夫が紹介されています。",
+  "reduce_count": 25,
+  "own_count": 20,
+  "overview": "物を減らす手放し方や、暮らしを快適にする愛用アイテムの紹介など、多様な視点からの実践的な工夫が語られています。",
+  "reduce": "次の家にも持っていきたいかを基準にした物の見直しや、片づけの失敗談を通じた整理のコツが共有されています。",
+  "own": "乾燥対策コスメやテーブルと収納を兼ねるコンテナなど、身軽な外出や快適な室内を支える愛用品が紹介されています。",
   "points": [
    {
-    "title": "デジタルとリアルな片付け",
-    "body": "AIツールを使って未読のGmailを整理したり、スマホやパソコンを見ない時間を作るデジタル断捨離の実践や、メルカリを活用して手放す記録を残す方法が語られています。"
+    "title": "小物の片づけ術",
+    "body": "50代の会社員が家具を処分した体験から、ケーブルや充電器といった分別や処分方法に迷う小物の片づけづらさを綴っています。"
    },
    {
-    "title": "パソコン周辺の持ち物工夫",
-    "body": "コクヨのPCに貼れるポーチや直接取り付ける収納グッズを活用し、充電器などの忘れ物を防ぎながら外出時の持ち物をコンパクトにまとめる便利なアイデアが紹介されています。"
+    "title": "手放す基準の活用",
+    "body": "引っ越しや移住をきっかけに、「次の家にも持っていきたいか」という基準を設けて今の暮らしに合わないモノを手放した事例が紹介されています。"
    },
    {
-    "title": "タイニーハウスと車中生活",
-    "body": "ジープやダンプトラック、ミニバンなどをカスタムしたコンパクトなキャンピングカーや、低コストで地下の家を自作した事例など、タイニーハウスでの暮らしが紹介されています。"
+    "title": "収納を兼ねる工夫",
+    "body": "テーブルと収納の役割を兼ねられる50Lアルミコンテナを活用し、キャンプの持ち物の数を減らす工夫が紹介されています。"
+   },
+   {
+    "title": "デジタルと現実の整理",
+    "body": "AIツールを使って未読のGmailをデジタル断捨離した体験談や、脱スマホに効くアナログな道具の活用法が語られています。"
    }
   ],
   "keywords": [
-   "ミニマリスト",
-   "断捨離"
+   "持ち物",
+   "片づけ",
+   "収納",
+   "手放す"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 15
-  },
-  {
-   "name": "スマートフォン",
-   "count": 7
+   "count": 16
   },
   {
    "name": "洋服",
    "count": 6
   },
   {
+   "name": "スマートフォン",
+   "count": 5
+  },
+  {
    "name": "スーツケース",
+   "count": 5
+  },
+  {
+   "name": "タイニーハウス",
    "count": 5
   },
   {
@@ -79,10 +89,6 @@
   {
    "name": "腕時計",
    "count": 5
-  },
-  {
-   "name": "タイニーハウス",
-   "count": 4
   },
   {
    "name": "モバイルバッテリー",
@@ -109,28 +115,12 @@
    "count": 3
   },
   {
-   "name": "リュック",
-   "count": 3
-  },
-  {
    "name": "冷蔵庫",
    "count": 3
   },
   {
    "name": "靴下",
    "count": 3
-  },
-  {
-   "name": "食器",
-   "count": 3
-  },
-  {
-   "name": "LEDランタン",
-   "count": 2
-  },
-  {
-   "name": "Tシャツ",
-   "count": 2
   },
   {
    "name": "カードケース",
@@ -157,10 +147,6 @@
    "count": 2
   },
   {
-   "name": "タオル",
-   "count": 2
-  },
-  {
    "name": "ドリップケトル",
    "count": 2
   },
@@ -169,15 +155,15 @@
    "count": 2
   },
   {
-   "name": "バスマット",
-   "count": 2
-  },
-  {
    "name": "バッグ",
    "count": 2
   },
   {
    "name": "ベスト",
+   "count": 2
+  },
+  {
+   "name": "リュック",
    "count": 2
   },
   {
@@ -190,6 +176,10 @@
   },
   {
    "name": "充電ケーブル",
+   "count": 2
+  },
+  {
+   "name": "充電器",
    "count": 2
   },
   {
@@ -213,7 +203,23 @@
    "count": 2
   },
   {
-   "name": "洗濯乾燥機",
+   "name": "洗濯機",
+   "count": 2
+  },
+  {
+   "name": "照明",
+   "count": 2
+  },
+  {
+   "name": "着物",
+   "count": 2
+  },
+  {
+   "name": "薪ストーブ",
+   "count": 2
+  },
+  {
+   "name": "靴",
    "count": 2
   }
  ],
@@ -231,12 +237,12 @@
   "Carryology",
   "Countercurrents",
   "Country Living Magazine",
+  "Cowboy State Daily",
   "Dengarden",
   "ELLE",
   "FOX6 News Milwaukee",
   "FUDGE.jp",
   "Facebook",
-  "Fast Company（働き方）",
   "Gadget Review",
   "GearJunkie",
   "Global News",
@@ -244,7 +250,6 @@
   "Homes and Gardens",
   "How-To Geek",
   "Howl.Link",
-  "Ideal Home",
   "IndexBox",
   "Infoseek",
   "JournalArta",
@@ -257,6 +262,7 @@
   "No Sidebar",
   "Parade Magazine",
   "Penticton Herald",
+  "Popbee",
   "ROOMIE",
   "ROOMIE（ルーミー）",
   "Real Simple",
@@ -324,6 +330,169 @@
  "count": 400,
  "items": [
   {
+   "id": "b27546e6bfe2bc80",
+   "url": "https://note.com/takagiandnishi/n/n15705d16ea4c",
+   "title_original": "ゆるミニマリスト 11月購入品",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/339199614/rectangle_large_type_2_c216354decfe15b079588c844f55f2e7.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-22T05:32:07+00:00",
+   "title_ja": "ゆるミニマリストが11月に購入した乾燥対策コスメの紹介",
+   "summary_ja": "ゆるミニマリストの筆者が11月に購入したアイテムとして、秋冬の乾燥対策に選んだLUNASOLのデイクリームを紹介する記事。こっくりとした質感でオフィスでの乾燥を防げている実際の使い心地を記録している。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "LUNASOL デイクリーム"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "9f6233dfc53c402f",
+   "url": "https://note.com/firm_beetle8959/n/na1926dd3b906",
+   "title_original": "【50代会社員の断捨離④】大きな家具より厄介だった。捨てられない小物の正体",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/339213927/rectangle_large_type_2_785671c539697bd76351c65c7a7e7623.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-22T05:27:04+00:00",
+   "title_ja": "50代会社員が家具処分を経て感じた処分方法に迷う小物の片づけ",
+   "summary_ja": "50代で断捨離を進める著者が、テーブルラックを処分した体験とあわせて、ケーブルや充電器、リモコンなど分別や処分方法に迷う小物の片づけづらさを綴った記録。大きな物よりも小物の整理に苦戦した実情を明かしている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "テーブルラック",
+    "ケーブル",
+    "充電器",
+    "リモコン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "78f5c1539cce1878",
+   "url": "https://www.bhg.com/organizing-mistakes-the-pros-hate-12190272",
+   "title_original": "6 Organizing Mistakes Professional Organizers Want You to Avoid for a Tidier Home",
+   "source": "Better Homes & Gardens",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-22T04:00:00+00:00",
+   "title_ja": "プロの整理収納アドバイザーが教える避けるべき6つの片づけの失敗",
+   "summary_ja": "家をすっきりと整えたい人に向けて、プロの整理収納アドバイザーが指摘する「よくある整理整頓の誤り」を6つまとめた記事。片づけの習慣を見直し、より整った部屋を作るためのアドバイスを伝えている。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "da9839a3d2720c28",
+   "url": "https://note.com/toki_minimal/n/nf00f90310d5d",
+   "title_original": "【ミニマリストブログ】服800着から15着まで減らした男子大学生の「FEWDEAR」~少ないモノをひとつずつ大切に~",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/339174501/rectangle_large_type_2_a2b52b58911255ff3fdb94d84c97dc51.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-22T03:17:01+00:00",
+   "title_ja": "服800着を15着まで減らした男子大学生の体験談",
+   "summary_ja": "かつて800着もの服を所有していた男子大学生が、持ち物を約15着にまで大幅に減らした体験談。大量の洋服を手放したことで、少ないモノをひとつずつ大切に扱うようになった心境の変化と、シンプルに暮らすための考え方が綴られている。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "f07dbbd0746b15d8",
+   "url": "https://www.roomie.jp/2026/11/1933584",
+   "title_original": "キャンプの荷物がようやく1つ減る。テーブルと収納を兼ねる天板IGT規格の50Lアルミコンテナ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/thorrcontenabox6.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-22T00:45:14+00:00",
+   "title_ja": "テーブルと収納を兼ねてキャンプの荷物を減らせるコンテナ",
+   "summary_ja": "キャンプ道具はフレームや天板を買い足すことで膨らみがちだが、テーブルと収納の役割を兼ねられるIGT規格の50Lアルミコンテナを活用することで、持ち物の数を1つ減らす工夫を紹介している。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "アルミコンテナ",
+    "テーブル"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "69107a11a4f29b4f",
+   "url": "https://minimalist-fudeko.com/when-you-wake-up-too-early",
+   "title_original": "3時半に目が覚めても、布団で粘らない。眠れない早朝の過ごし方",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/10/morning.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-22T00:10:31+00:00",
+   "title_ja": "早朝に目が覚めてしまったときのシンプルな過ごし方",
+   "summary_ja": "予定より早く目が覚めてしまったときに、無理に布団の中で粘らずに起きる対処法を紹介。目覚ましをかけずに暮らす著者が、早朝に目が覚めた際に実践している過ごし方や考え方を解説している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [
+    "目覚まし"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d474414c9ac48d1b",
+   "url": "https://www.roomie.jp/2026/11/1926555",
+   "title_original": "スタンダードプロダクツの「Z型ハンガー」で、朝の準備がちょっと楽に。“脱ぎっぱなし”防止にもなるよ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/20261115hunger03-1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-21T23:30:04+00:00",
+   "title_ja": "スタンダードプロダクツの「Z型ハンガー」で脱ぎっぱなしを防ぐ工夫",
+   "summary_ja": "スタンダードプロダクツのスラックスハンガー「Z型ハンガー」を取り入れ、パンツをワンアクションで掛けられるようにした工夫を紹介。服の脱ぎっぱなしを防ぎ、朝の準備や片づけをラクにするための収納アイデアを試している。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "Z型ハンガー",
+    "スラックスハンガー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d73037a12074c99f",
+   "url": "https://www.youtube.com/shorts/jC8AV5ywggY",
+   "title_original": "移住が決まって、迷わず手放したもの｜ミニマリスト",
+   "source": "小さな暮らしノート",
+   "image": "https://i3.ytimg.com/vi/jC8AV5ywggY/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-21T23:25:32+00:00",
+   "title_ja": "移住を機に「次の家にも持っていきたいか」を基準に持ち物を手放した話",
+   "summary_ja": "引っ越しと移住をきっかけに持ち物の見直しを行ったミニマリストの事例。「次の家にも持っていきたいか」という基準を設け、今の暮らしに合わなくなったモノを手放し、これから必要なモノだけを選び取って準備を進めている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "6b9c93a851a851c0",
+   "url": "https://tinyhousetalk.com/black-and-white-escape-evista-king-xl-tiny-house-on-wheels",
+   "title_original": "Black-and-White Escape eVista King XL: A 42-Foot Wide-and-Tall Tiny House on Wheels",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/2026/11/escape-evista-king-xl-exterior-shop.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-21T18:56:37+00:00",
+   "title_ja": "Escape社が約12.8メートルの大型タイニーハウス新作を発表",
+   "summary_ja": "タイニーハウスのEscape社が白黒デザインの特別モデル「eVista King XL」を発表。全長約12.8メートル、幅約3.5メートルの車輪付きの住まいで、販売価格11万9315ドルの仕様について紹介している。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "タイニーハウス"
+   ],
+   "importance": 3
+  },
+  {
    "id": "1a9bffdd4aa6f3cb",
    "url": "https://note.com/nycgreens/n/n464ff0b5c92b",
    "title_original": "手放した物",
@@ -340,6 +509,38 @@
     "Polèneのバッグ"
    ],
    "importance": 2
+  },
+  {
+   "id": "2e56a84b869276b3",
+   "url": "https://cowboystatedaily.com/2026/11/21/off-the-grid-in-wyoming-its-not-that-simple-to-live-simply-2",
+   "title_original": "Off The Grid In Wyoming: It’s Not That Simple To Live Simply",
+   "source": "Cowboy State Daily",
+   "image": "https://cowboystatedaily.imgix.net/off-grid-10-22-23.jpg?w=1200&q=75&auto=format%2Ccompress",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-21T18:25:00+00:00",
+   "title_ja": "ワイオミング州での自給自足生活から学ぶ、シンプルに暮らす難しさ",
+   "summary_ja": "ワイオミング州でオフグリッドの自給自足生活を送る実践を通じ、シンプルに暮らすことは決して簡単ではないという現実や、暮らしを簡素に整える際の難しさについて伝えている。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "e89b335284b7dd9d",
+   "url": "https://www.goodhousekeeping.com/home/organizing/a74470911/items-to-toss-instead-of-donate",
+   "title_original": "The #1 Item Pros Say You Should Never Donate to a Thrift Shop",
+   "source": "Good Housekeeping",
+   "image": "https://hips.hearstapps.com/hmg-prod/images/c4bef886-771e-4776-825b-46d579669088.jpeg?crop=0.890070921986xw:1xh;center,top&resize=1200:*",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-21T18:24:18+00:00",
+   "title_ja": "整理のプロが教える、リサイクルショップに寄付してはいけない不要品",
+   "summary_ja": "不要品を手放す際、リサイクルショップへ寄付すべきではない代表的なアイテムについて、整理整頓の専門家が注意点を解説。持ち物の適切な捨て方や整理の基準を学べる内容。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
   },
   {
    "id": "c5a0ab4af7822392",
@@ -488,6 +689,22 @@
    "importance": 3
   },
   {
+   "id": "819fb406df29b385",
+   "url": "https://www.newsbreak.com/decluttering-mom-311255187/5021103710567-mom-starts-a-5-day-toy-decluttering-challenge-because-her-living-room-feels-like-a-jungle-gym-and-the-slide-goes-straight-to-the-basement",
+   "title_original": "Mom Starts A 5 Day Toy Decluttering Challenge Because Her Living Room Feels Like A Jungle Gym, And The Slide Goes Straight To The Basement",
+   "source": "NewsBreak: Local News & Alerts",
+   "image": "https://img.particlenews.com/img/id/2EtPMV_1HJNJgyu00",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-21T11:18:10+00:00",
+   "title_ja": "リビングの散らかりを解消する5日間のオモチャ片づけ挑戦",
+   "summary_ja": "散らかったリビングをジャングルジムに例え、おもちゃの整理整頓を5日間かけて行う母親の挑戦。暮らしを整えるための実践的な試み。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
    "id": "f1db227d10f85fb4",
    "url": "https://www.youtube.com/watch?v=OZDbr7aM7tY",
    "title_original": "【ルームツアー】5人家族でもスッキリ暮らす｜40代ミニマリストの家を全部公開！🇺🇸生活",
@@ -507,6 +724,24 @@
     "バススポンジ"
    ],
    "importance": 4
+  },
+  {
+   "id": "e3f49bfc1f55b1ed",
+   "url": "https://monomax.jp/archives/372328",
+   "title_original": "【派手さゼロでも圧倒的存在感】45年経ってもカッコよすぎ！素材とシルエットで魅せるサッカニー「ジャズ オリジナル」をエディターが試し履き",
+   "source": "MonoMax",
+   "image": "https://monomax.jp/official/wp-content/uploads/2026/11/IMG_2137.jpeg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-21T11:00:25+00:00",
+   "title_ja": "45年続く定番スニーカー「サッカニー ジャズ オリジナル」",
+   "summary_ja": "45年の歴史を持つサッカニーの「ジャズ オリジナル」スニーカーをエディターが試し履き。素材とシルエットの魅力を紹介している。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "スニーカー"
+   ],
+   "importance": 2
   },
   {
    "id": "238852bb07b71c84",
@@ -545,6 +780,22 @@
    "things": [
     "ペダルマシン"
    ],
+   "importance": 3
+  },
+  {
+   "id": "15dd07b74f8ee406",
+   "url": "https://nosidebar.com/thoughts-spark-gratitude-today",
+   "title_original": "10 Thoughts That Will Spark Gratitude Today",
+   "source": "No Sidebar",
+   "image": "https://nosidebar.com/wp-content/uploads/gratitude-thoughts.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-21T09:00:00+00:00",
+   "title_ja": "日常の満足感を高めるために意識したい10の感謝の思考",
+   "summary_ja": "欲しいものや足りないものに意識が向きがちな中で、意識的に感謝を選ぶ大切さを伝える記事。日常で感謝の習慣を持つことが幸せや健康につながる理由を示し、小さな思考の切り替えから現状への感謝を引き出す考え方を解説している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
    "importance": 3
   },
   {
@@ -596,6 +847,22 @@
     "洗濯機ホースフック",
     "排水トラップカバー"
    ],
+   "importance": 3
+  },
+  {
+   "id": "1115ebd00bf9bc14",
+   "url": "https://popbee.com/en/lifestyle/cabane-tortin-a-swiss-alpine-chalet-above-the-glacier",
+   "title_original": "At an Altitude of 3,000 Meters, the Glacier Is Right Outside the Living Room Window! Inside Swiss Alpine Hut Cabane Tortin",
+   "source": "Popbee",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fen.popbee.com%2Fimage%2Fsites%2F2%2F2026%2F11%2F1-1-7.png?w=1200&cbr=1&q=90&format=png&fit=max",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-21T03:00:21+00:00",
+   "title_ja": "標高3000mの絶景を望むスイスの山小屋内部の暮らし",
+   "summary_ja": "標高3,000メートルに位置し、リビングの窓から氷河を一望できるスイスの山小屋「Cabane Tortin」の内部を紹介。厳しい自然環境の中で営まれる、シンプルで無駄のない住空間の様子を伝えている。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [],
    "importance": 3
   },
   {
@@ -6573,27 +6840,6 @@
    "importance": 3
   },
   {
-   "id": "2ed5ffa52558f764",
-   "url": "https://note.com/holy_mole1734/n/n02dffffdee79",
-   "title_original": "5人家族でも、物を増やさないために意識していること。",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/330466783/rectangle_large_type_2_fb52ab6ce0680c0a80f40d6d8cd40fbc.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-11T11:00:02+00:00",
-   "title_ja": "5人家族で物を増やさないために実践しているルール",
-   "summary_ja": "5人家族で暮らす中、物の数を決めておきストックは原則1つまでにすることで買い物を制限しています。洗濯乾燥機や食洗機などの便利な家電を活用し、必要最低限のタオルや食器で暮らす工夫を紹介しています。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [
-    "洗濯乾燥機",
-    "食洗機",
-    "タオル",
-    "食器"
-   ],
-   "importance": 4
-  },
-  {
    "id": "a87c776f79f3c556",
    "url": "https://www.youtube.com/shorts/buXOqfYO71M",
    "title_original": "【ミニマリスト主婦】ベッドを手放してマットレスに変えた日",
@@ -6663,24 +6909,6 @@
    "importance": 3
   },
   {
-   "id": "9a962d08ce6ae8eb",
-   "url": "https://note.com/tomo5485/n/n5a7453626457",
-   "title_original": "予定の断捨離",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/334821048/rectangle_large_type_2_d686c24be19086b6a598ae089ea4c802.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-11T05:14:29+00:00",
-   "title_ja": "子連れ外出をきっかけに予定の詰め込みをやめ、行き先を絞るようになった話",
-   "summary_ja": "子連れでの外出の大変さをきっかけに、1日にいくつも予定を入れていた暮らしを見直し、目的地を1つに絞るようになった体験談。予定を削ぎ落として大切なことに集中する姿勢を、心の断捨離として捉えている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "チャイルドシート"
-   ],
-   "importance": 3
-  },
-  {
    "id": "ed97b41fac5c8c95",
    "url": "https://www.openpr.com/news/4686967/zeagoo-unveils-2026-winter-capsule-wardrobe-fresh-layering",
    "title_original": "Zeagoo Unveils 2026 Winter Capsule Wardrobe: Fresh Layering Inspirations for Early Winter",
@@ -6695,27 +6923,6 @@
    "axis": "own",
    "things": [],
    "importance": 2
-  },
-  {
-   "id": "b23b21548bc9fc29",
-   "url": "https://note.com/minimal_life5929/n/n24426de9c1d7",
-   "title_original": "ミニマリスト宅には、マットはない。敷かない暮らし。",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/334791719/rectangle_large_type_2_cb1697104679b0522c79537747e33adf.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-11T03:37:28+00:00",
-   "title_ja": "家中のマットやシート類を手放し管理の手間を減らした体験談",
-   "summary_ja": "トイレやキッチンなどのマット類やシート類を全て手放した体験談。バスマットはタオルで代用し、何も敷かないことで汚れてもすぐに床を拭けるようになり、洗濯や管理の手間を大幅に削減している。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [
-    "バスマット",
-    "タオル",
-    "トイレマット",
-    "絨毯"
-   ],
-   "importance": 4
   },
   {
    "id": "7c8d3b5c4574cf9b",
@@ -7176,214 +7383,6 @@
     "猫用パティオ",
     "収納"
    ],
-   "importance": 4
-  },
-  {
-   "id": "bc2854e636e540e5",
-   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/10/laundry-miracle-solve-stubborn-problems-stains-rough-towels-permastank",
-   "title_original": "The laundry miracle: how to solve 10 stubborn problems – from stains to rough towels to ‘permastank’",
-   "source": "The Guardian（住まい）",
-   "image": "https://i.guim.co.uk/img/media/f0a8ad548df603dbe7d188b7224688ca4bd81cc7/1273_719_4308_3448/master/4308.jpg?width=140&quality=85&auto=format&fit=max&s=047c26a95529d6711825252d8ed5bbfb",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-10T10:00:35+00:00",
-   "title_ja": "衣類の頑固な汚れや悩みを解決する方法",
-   "summary_ja": "日用品のケアや洗濯の科学について、SNSの情報を元に試した経験を紹介している。物を大切に長く使うための実践的な知恵である。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "Tシャツ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "290d79df749666e7",
-   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/10/houseplant-hacks-do-you-really-need-plant-fertiliser",
-   "title_original": "Houseplant hacks: do you really need to feed your plants?",
-   "source": "The Guardian（住まい）",
-   "image": "https://i.guim.co.uk/img/media/3bd8ea454df8c545c4c8f6e806bf6227f25f5696/263_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=56cb7714926ee572cc86d1986e63f56a",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-10T10:00:35+00:00",
-   "title_ja": "観葉植物への施肥は本当に必要なのか",
-   "summary_ja": "観葉植物に肥料が必要かどうかを検証し、過剰な消費活動について疑問を投げかけている。暮らしにおける本当に必要なものの見極め方に関する話題。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "1fa54d019186e80c",
-   "url": "https://tinyhousetalk.com/accessibility-dimensions-small-home",
-   "title_original": "The Accessibility Dimensions That Matter in a Small Home",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/going-tiny-series-part-23.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-10T10:00:00+00:00",
-   "title_ja": "小さな家で重要なアクセシビリティの寸法",
-   "summary_ja": "小規模な住まいを検討する際、玄関から寝室までの動線や空間の寸法について解説している。限られた空間を快適に使うための設計のヒント。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "bf18ebf0e5523696",
-   "url": "https://monomax.jp/archives/371294",
-   "title_original": "ワークマン「これで1,900円はコスパ高すぎ」ガバッと開いて自立するリュックをマニアが絶賛！普段使いにもビジネスにも優秀なワケ",
-   "source": "MonoMax",
-   "image": "https://monomax.jp/official/wp-content/uploads/2027/11/0DSC05093-1-scaled.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-10T09:00:35+00:00",
-   "title_ja": "ワークマンの自立する高コスパリュック",
-   "summary_ja": "ガバッと開いて自立する便利な機能を多数搭載し、普段使いからビジネスまで幅広く活躍するとマニアが絶賛しているリュックの紹介。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "リュック"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "d4d1fe73ca301d75",
-   "url": "https://www.idealhome.co.uk/house-manual/storage-organisation-decluttering/decluttering-and-recycling-decorations-before-christmas",
-   "title_original": "Why you should declutter your decorations BEFORE Christmas",
-   "source": "Ideal Home",
-   "image": "https://cdn.mos.cms.futurecdn.net/ZiMMmf9paDQMpi3QsZushR-2400-80.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-10T09:00:00+00:00",
-   "title_ja": "クリスマス前に飾り付けを片付ける理由",
-   "summary_ja": "クリスマスシーズンの前に飾り付けを整理・見直すことの重要性や、そのメリットについて解説している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "7cb5a7576d9009fd",
-   "url": "https://bemorewithless.com/less-phone-more-heart/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
-   "title_original": "Spend Less Time on Your Phone with These 15 Little Tricks",
-   "source": "Be More with Less",
-   "image": "https://bemorewithless.com/wp-content/uploads/2023/01/how-to-spend-less-time-on-your-phone-image.png",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-10T00:22:30+00:00",
-   "title_ja": "スマホの利用時間を減らすための15の工夫",
-   "summary_ja": "ついつい触ってしまうスマートフォンの使用時間を短縮し、自由な時間や人とのつながりを増やすための15のヒントを紹介しています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "スマートフォン"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "cb9e76226fb58cd4",
-   "url": "https://nosidebar.com/5-truths-about-minimalism-to-remind-yourself-often",
-   "title_original": "5 Truths About Minimalism to Remind Yourself Often",
-   "source": "No Sidebar",
-   "image": "https://nosidebar.com/wp-content/uploads/umit-bulut-qbTC7ZwJB64-unsplash11-scaled.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-09T15:00:00+00:00",
-   "title_ja": "物を減らして豊かに暮らすミニマリズムの真実",
-   "summary_ja": "日常にあふれる膨大な広告に流されず、所有する物を減らすことで豊かな暮らしを実現することの大切さを改めて伝えています。持ち物を手放すことで本当に大切なものに気づくための考え方です。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "e3c0f91ff3e1db0c",
-   "url": "https://www.fastcompany.com/91634058/warren-buffett-says-really-successful-people-say-no-almost-everything-most-leaders-miss-point-famous-quote?partner=rss&amp%3Butm_source=rss&amp%3Butm_medium=feed&amp%3Butm_campaign=rss+fastcompany&amp%3Butm_content=rss",
-   "title_original": "Warren Buffett says really successful people say no to almost everything. Most leaders miss the point of his famous quote",
-   "source": "Fast Company（働き方）",
-   "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/11/GettyImages-148285882.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-09T14:30:00+00:00",
-   "title_ja": "成功者が実践する足すことではなく引くことの重要性",
-   "summary_ja": "仕事や組織において新しいことを始めるのは得意でも、何かをやめることは難しいものです。不要なものを引き算して整理することの大切さを、著名人の言葉を交えて考察しています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "7677b999c561dd86",
-   "url": "https://www.lifehacker.jp/article/machi-ya-infinitywarm3-review-973049",
-   "title_original": "毛布も羽毛布団も重ねない。約3cmの「薄い掛け布団」で冬の寝床がすっきりした",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2026/10/24/5d48ea31-8e5e-4878-80e1-d0785384111e/original.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-09T14:30:00+00:00",
-   "title_ja": "厚さ約3cmの薄型掛け布団1枚で冬の寝床をすっきりさせた話",
-   "summary_ja": "宇宙服の断熱素材を用いた6層構造の薄い掛け布団を導入し、毛布や羽毛布団を重ねずに冬の寝床をすっきりと整えた。丸洗いやコンパクト収納にも対応している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "掛け布団",
-    "毛布",
-    "羽毛布団"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "9c2428a0c73e1e97",
-   "url": "https://www.roomie.jp/2026/11/1921687",
-   "title_original": "出張に「マイケトル」はアリだった。水筒感覚で持ち歩けるドリテック「おでかけ温調ケトル」",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/dreteckettle1.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-09T13:45:35+00:00",
-   "title_ja": "出張先に水筒感覚で持ち運べるドリテックのマイケトル",
-   "summary_ja": "ホテルの備え付けケトルの衛生面が気になったことから、旅行や出張先でも安心して温かい飲み物を用意できるドリテックのマイケトルを導入した。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "マイケトル",
-    "水筒"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "4fb7eea7021bc087",
-   "url": "https://www.roomie.jp/2026/11/1924648",
-   "title_original": "防災グッズにも最適じゃん。スマホ充電できちゃうコールマンの小型LEDランタン",
-   "source": "ROOMIE",
-   "image": "https://www.roomie.jp/wp-content/uploads/2024/10/1-3.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-09T13:15:01+00:00",
-   "title_ja": "スマホ充電もできるコールマンの小型LEDランタン",
-   "summary_ja": "キャンプや防災グッズとして活躍する、スマートフォンを充電できるコールマンの小型LEDランタンを愛用している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "LEDランタン",
-    "スマートフォン"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "6adf3d3b1967f886",
-   "url": "https://www.theminimalists.com/p562",
-   "title_original": "Podcast Ep. 562 | Fantasy Self",
-   "source": "The Minimalists",
-   "image": "https://www.theminimalists.com/wp-content/uploads/2026/10/the-minimalists-private-podcast.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-09T13:00:00+00:00",
-   "title_ja": "The Minimalistsが語る『Fantasy Self』と不要なものの手放し",
-   "summary_ja": "The Minimalistsはポッドキャストで、散らかった生活は望まない未来へのオーディションだと指摘し、不要なものを手放す考え方と具体的なステップを語ります。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
    "importance": 4
   }
  ]
