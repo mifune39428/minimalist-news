@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22T23:18:34.375279+09:00",
+ "updated_at": "2026-11-23T08:25:41.901975+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,41 +27,48 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-22T23:19:57.228273+09:00",
+  "generated_at": "2026-11-23T08:27:10.470431+09:00",
   "days": 3,
-  "period": "11月21日〜11月22日",
+  "period": "11月21日〜11月23日",
   "count": 45,
   "reduce_count": 26,
   "own_count": 19,
-  "overview": "11月21日から22日にかけて、タイニーハウスでの生活実例や衣類・小物の具体的な手放し方、日常生活を快適にするための持ち物の工夫に関する記事が多数寄せられています。",
-  "reduce": "タイニーハウス村の住民による生活コストの紹介や、移住や季節の変わり目を機にした具体的なアイテムの手放し方に関する記事が多く見られます。",
-  "own": "AirPods Proの2台目に選んだ低価格イヤホンや乾燥対策コスメ、収納とテーブルを兼ねるキャンプ用品など、身軽さを追求した愛用品の紹介が目立ちます。",
+  "overview": "持ち物の見直しや手放し方、タイニーハウスでの暮らしなど、日々の生活をシンプルに整えるための具体的な工夫や体験談が多く語られています。",
+  "reduce": "移住や次の家を基準にした手放し方のほか、AIツールを活用したデジタル整理や小物の片づけ術が語られています。",
+  "own": "限られた空間を快適にする収納グッズや、ガジェット、キャンプ用品などの愛用品が紹介されています。",
   "points": [
    {
-    "title": "タイニーハウスの暮らし",
-    "body": "タイニーハウス村の住民21人の暮らしぶりや生活コストの紹介に加え、Escape社の大型新作モデルや、廃材を活かして地下の家を自作した事例などが語られています。"
+    "title": "手放す基準と物の見直し",
+    "body": "移住のタイミングで「次の家にも持っていきたいか」を基準に持ち物を手放したり、800着あった服を15着まで減らして大切にする心境の変化が語られています。"
    },
    {
-    "title": "衣類や小物の手放し方",
-    "body": "800着の服を15着まで減らした男子大学生の体験談をはじめ、冬に備えたアイテムの整理や、ケーブルなどの小物や家具の処分に悩む様子が綴られています。"
+    "title": "AIを活用したデジタル断捨離",
+    "body": "写真1枚でフリマ出品の下書きを作成したり、未読のGmailの数字を解消するためにAIツール「Muse」を活用して受信トレイを整理する体験談が紹介されています。"
    },
    {
-    "title": "持ち物を減らす工夫",
-    "body": "テーブルと収納を兼ねたアルミコンテナでキャンプ道具を減らしたり、ダイソーのコインポーチやコクヨの収納グッズで外出時の荷物をコンパクトにする工夫が紹介されています。"
+    "title": "省スペースな収納と持ち物",
+    "body": "山崎実業の壁付け電源タップホルダーやスタンダードプロダクツのZ型ハンガーを使い、電源タップやパンツを浮かせてすっきりと収納する工夫が取り上げられています。"
+   },
+   {
+    "title": "タイニーハウスでの暮らし",
+    "body": "タイニーハウス村の住民21人の生活コストや、Escape社の大型タイニーハウスの新作発表など、コンパクトな住まいの実例が複数紹介されています。"
    }
   ],
   "keywords": [
-   "タイニーハウス",
-   "ミニマリスト",
-   "手放し",
-   "片づけ",
-   "収納"
+   "手放す",
+   "収納",
+   "AIツール",
+   "タイニーハウス"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 14
+   "count": 15
+  },
+  {
+   "name": "バックパック",
+   "count": 6
   },
   {
    "name": "洋服",
@@ -72,19 +79,11 @@
    "count": 5
   },
   {
-   "name": "スーツケース",
-   "count": 5
-  },
-  {
    "name": "タイニーハウス",
    "count": 5
   },
   {
-   "name": "バックパック",
-   "count": 5
-  },
-  {
-   "name": "モバイルバッテリー",
+   "name": "スーツケース",
    "count": 4
   },
   {
@@ -108,11 +107,11 @@
    "count": 3
   },
   {
-   "name": "ランタン",
+   "name": "モバイルバッテリー",
    "count": 3
   },
   {
-   "name": "冷蔵庫",
+   "name": "ランタン",
    "count": 3
   },
   {
@@ -124,15 +123,7 @@
    "count": 2
   },
   {
-   "name": "キッチン",
-   "count": 2
-  },
-  {
    "name": "キーボード",
-   "count": 2
-  },
-  {
-   "name": "シャワー",
    "count": 2
   },
   {
@@ -148,11 +139,11 @@
    "count": 2
   },
   {
-   "name": "ノート",
+   "name": "バッグ",
    "count": 2
   },
   {
-   "name": "バッグ",
+   "name": "フェイスタオル",
    "count": 2
   },
   {
@@ -173,6 +164,14 @@
   },
   {
    "name": "充電器",
+   "count": 2
+  },
+  {
+   "name": "冷蔵庫",
+   "count": 2
+  },
+  {
+   "name": "収納ボックス",
    "count": 2
   },
   {
@@ -217,6 +216,10 @@
   },
   {
    "name": "靴",
+   "count": 2
+  },
+  {
+   "name": "食器",
    "count": 2
   }
  ],
@@ -327,6 +330,152 @@
  "count": 400,
  "items": [
   {
+   "id": "09b3de63b0256c74",
+   "url": "https://note.com/gay_avocet8265/n/na114ba93540e",
+   "title_original": "iPhone Duoは必要なのか？",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/339516963/rectangle_large_type_2_e4b591ba479a1022cba780331c6c8ade.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-22T23:21:55+00:00",
+   "title_ja": "モノを減らしたいガジェット好きが折りたたみスマホの必要性を考える話",
+   "summary_ja": "ガジェット好きとして新技術を楽しみたい気持ちと、持ち物を減らしてシンプルに暮らしたい思いの狭間で、折りたたみスマホが自分に本当に必要かを問い直す実例。優れた技術で暮らしを簡素化できる理想と、所有への葛藤が語られる。",
+   "category": "道具・ガジェット",
+   "axis": "reduce",
+   "things": [
+    "折りたたみスマートフォン",
+    "iPhone Duo"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "6c2c13d6f3189995",
+   "url": "https://note.com/ai_sns_update/n/nf3c916d5f5c6",
+   "title_original": "Museが写真1枚で出品の下書きまで――Facebook Marketplaceで売る流れ",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/339502990/rectangle_large_type_2_1df08097b44615f4456c6e79a5701322.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-22T23:20:58+00:00",
+   "title_ja": "写真1枚でフリマ出品の下書きを作成するAIツールの活用法",
+   "summary_ja": "不用品を手放したい時に負担となりがちな写真撮影や文章作成、価格設定を、写真を撮るだけでAIツール「Muse」が自動用意する流れを紹介。Facebook Marketplaceへの出品を円滑にし、部屋に放置されがちなモノの整理を後押しする仕組みを解説。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "5d59125a004ab008",
+   "url": "https://note.com/yokichi0530/n/n1a7ab3595098",
+   "title_original": "おもちゃ箱の底から、ぺちゃんこの折り鶴！？娘に選ばせて箱を定員制にした話",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/339515911/rectangle_large_type_2_4bdae90abcc4eb6c2f39ad2ecf1bfb18.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-22T23:14:43+00:00",
+   "title_ja": "ゴミ箱化したおもちゃ箱を全出しし子供と一緒に整理した話",
+   "summary_ja": "寝室の収納ボックスがモノを放り込むだけの状態になっていたため、クリスマス前に中身を全出しして整理を行った実例。箱の底から潰れた折り鶴や紙飛行機が見つかったことを機に、子供自身に持ち物を選ばせて収納の定員制化を進める取り組み。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "収納ボックス",
+    "折り鶴",
+    "紙飛行機"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "e23b982e80baf452",
+   "url": "https://www.roomie.jp/2026/11/1934592",
+   "title_original": "外側が熱くならないどんぶり。和平フレイズの「ふたえうつわ」で、アツアツの料理を運ぶのがこわくなくなった",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/261121_futaeutsuwa_eye.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-22T22:00:06+00:00",
+   "title_ja": "熱い料理を入れても安心して持てる食器「ふたえうつわ」の使用感",
+   "summary_ja": "和平フレイズの「ふたえうつわ」の使い心地を紹介した記事。アツアツの料理を盛り付けても外側に熱が伝わりづらいため、手を添えて安心して運ぶことができる点が解説されている。",
+   "category": "キッチン・食",
+   "axis": "own",
+   "things": [
+    "ふたえうつわ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b04756f05b7ad70a",
+   "url": "https://www.lifehacker.jp/article/2611how-to-prevent-dust-in-home-gzr",
+   "title_original": "頑張って掃除してもホコリが溜まる。そんな時に見直したい「空気の通り道」",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/11/20/331751df-e282-4ef4-8c0b-ad4f4b749636/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-22T22:00:00+00:00",
+   "title_ja": "掃除をしても溜まるホコリの対策として空気の通り道を見直す方法",
+   "summary_ja": "部屋のホコリが減らない原因と対策を説明した記事。空気の通り道に着目して部屋の環境を整えることで、繰り返し発生する掃除の手間を減らすための視点が提示されている。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "4807ed5d2ce2db8c",
+   "url": "https://note.com/noted_ninamama/n/nf1d4782ad21b",
+   "title_original": "タオル・ハンカチは何枚必要？ 適正量の決め方と手放す基準｜捨て活−6",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/339071899/rectangle_large_type_2_df0af29d694df49dd5e14081bc08b75a.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-22T21:34:29+00:00",
+   "title_ja": "タオルやハンカチの枚数を見直して手放す基準を決める方法",
+   "summary_ja": "バスタオルやフェイスタオル、キッチンタオル、ハンカチの適正枚数や手放す判断基準を解説した記事。家庭に溜まりがちなリネン類を減らし、暮らしを整える工夫が紹介されている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "バスタオル",
+    "フェイスタオル",
+    "キッチンタオル",
+    "ハンカチ"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "b3130cbb26c9f3d3",
+   "url": "https://www.lifehacker.jp/article/2611-yamajitsu-tap-holder-tower",
+   "title_original": "この小さなパーツ2つで、収納の「当たり前」がちょっと変わって見えた",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/11/20/a3943d7c-b68c-4ae4-9e9c-5dc4dc9da09d/original.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-22T13:15:00+00:00",
+   "title_ja": "電源タップを浮かせて収納する山崎実業のホルダー",
+   "summary_ja": "山崎実業の壁付け電源タップ収納ホルダーを使い、電源タップを浮かせてすっきりと収納している実例を紹介する。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "電源タップ収納ホルダー"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b28aa6d0c0e34b05",
+   "url": "https://www.lifehacker.jp/article/machi-ya-flexy-additional3-984155",
+   "title_original": "着替えを底から掘り出すのをやめました。スーツケースのように背中側が全部開くバックパック",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/11/19/e57bdaf2-66fa-4960-a16b-516da4adcecf/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-22T13:00:00+00:00",
+   "title_ja": "スーツケースのように開くバックパックの利便性",
+   "summary_ja": "背中側が全部開く構造によって、着替えを底から掘り出す手間を解消したバックパックについての紹介。",
+   "category": "旅・持ち歩き",
+   "axis": "own",
+   "things": [
+    "バックパック"
+   ],
+   "importance": 3
+  },
+  {
    "id": "86b14b01f0bb35cc",
    "url": "https://tinyhousetalk.com/tiny-house-community-living-21-residents",
    "title_original": "Life in a Tiny House Community: 21 Residents Share Their Stories (and What They Pay)",
@@ -340,6 +489,24 @@
    "category": "暮らしの実例",
    "axis": "reduce",
    "things": [],
+   "importance": 3
+  },
+  {
+   "id": "7bd16d56d98956a4",
+   "url": "https://www.roomie.jp/2026/11/1935237",
+   "title_original": "サングラスの濃さ、光におまかせ。充電いらずで使えるって、助かるなあ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/af801lp1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-22T12:45:51+00:00",
+   "title_ja": "充電いらずで光に合わせて濃さが変わるサングラス",
+   "summary_ja": "運転中の液晶画面の見にくさを解消するため、光に合わせて自動で濃さが変わる充電不要の偏光サングラス。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "偏光サングラス"
+   ],
    "importance": 3
   },
   {
@@ -1613,6 +1780,42 @@
    "importance": 3
   },
   {
+   "id": "623468173e4ae41a",
+   "url": "https://www.youtube.com/watch?v=Bq3gTUYNknU",
+   "title_original": "買い物で失敗する理由が全てわかる。1軍だけのワードローブの作り方【ミニマリスト】",
+   "source": "ミニマリストsin",
+   "image": "https://i3.ytimg.com/vi/Bq3gTUYNknU/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-20T11:00:17+00:00",
+   "title_ja": "1軍ワードローブの作り方と考え方",
+   "summary_ja": "服はあるのに着たい服がない悩みを解決するため、本当に気に入った1軍の服だけでワードローブを作る方法を紹介している。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b147f9d18deebeae",
+   "url": "https://www.youtube.com/watch?v=cSDyDNmEeWA",
+   "title_original": "【ミニマリスト】洗わなくていい加湿器/清潔、静音、省エネ",
+   "source": "ミニマリスト Nozomi",
+   "image": "https://i4.ytimg.com/vi/cSDyDNmEeWA/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-20T11:00:10+00:00",
+   "title_ja": "持ち物40個で暮らすミニマリストの生活",
+   "summary_ja": "ミニマリスト歴12年で持ち物40個、服3着で暮らす投稿者が、乳幼児と一緒に行うスマートな暮らしや思考の整理について語っている。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "服"
+   ],
+   "importance": 4
+  },
+  {
    "id": "0702020ace339f02",
    "url": "https://monomax.jp/archives/372979",
    "title_original": "【スーツケースなのにキャンプギア!?】旅・外遊び・防災までこなす3役トランク！テーブルにもなるアントラック「テオフィールド2」の実力に迫る",
@@ -1630,6 +1833,27 @@
     "テオフィールド2"
    ],
    "importance": 3
+  },
+  {
+   "id": "d110927b84c7e148",
+   "url": "https://www.youtube.com/watch?v=SrKKYl552ck",
+   "title_original": "【捨て活】ポーチはこれ一つでいい｜吊るして使える洗面用具ケース｜30代一人暮らし",
+   "source": "うにのゆるシンプルな暮らし",
+   "image": "https://i4.ytimg.com/vi/SrKKYl552ck/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-20T10:00:29+00:00",
+   "title_ja": "洗面用具ケースを使ったポーチのまとめ方",
+   "summary_ja": "増えがちだったポーチを無印良品のケースに一つにまとめ、中身を見直すことで不要なものを手放した一人暮らしの記録。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "吊るして使える洗面用具ケース",
+    "フェイスタオル",
+    "チョコようかん",
+    "スリッパ"
+   ],
+   "importance": 4
   },
   {
    "id": "fa52e099232e35a4",
@@ -1659,6 +1883,38 @@
    "title_ja": "イベント用の飾り付けを上手に減らして片付けるプロのアドバイス",
    "summary_ja": "増えがちなイベントや季節の装飾品を上手に手放し、すっきりと整理するためのポイントをプロの整理アドバイザーが解説。今年から試せる具体的な片付けのノウハウを6つのコツとして紹介している。",
    "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "2cdfd1b0568c3163",
+   "url": "https://www.youtube.com/watch?v=nm4Q-xTDDd8",
+   "title_original": "掃除が嫌いな人ほど、物を減らしたほうがいい理由｜移住に向けて断捨離するミニマリスト",
+   "source": "小さな暮らしノート",
+   "image": "https://i3.ytimg.com/vi/nm4Q-xTDDd8/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-20T08:30:04+00:00",
+   "title_ja": "物を減らすことで掃除が楽になる理由",
+   "summary_ja": "引っ越しに向けた断捨離を通して、物や不要品を手放すことで日々の管理や掃除の負担が軽くなった暮らしの記録。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "2f93464ae124b433",
+   "url": "https://www.youtube.com/watch?v=Sk30jIwG4A4",
+   "title_original": "【ミニマリスト】たくさんより、好きなものを少しだけ",
+   "source": "ぴーこ｜ゆるっとミニマルな日常",
+   "image": "https://i4.ytimg.com/vi/Sk30jIwG4A4/hqdefault.jpg",
+   "media": "youtube",
+   "region": "国内",
+   "published": "2026-11-20T08:00:06+00:00",
+   "title_ja": "好きなものを少しだけ楽しむミニマリストの考え方",
+   "summary_ja": "年齢とともに変化した楽しみ方に合わせ、物や欲張ることを手放して好きなものを少しだけ持つ生活を紹介しています。頑張らずにゆるっと暮らすためのミニマリストの考え方を語っています。",
+   "category": "心・習慣",
    "axis": "reduce",
    "things": [],
    "importance": 3
@@ -2240,6 +2496,24 @@
    "category": "手放す・捨て方",
    "axis": "reduce",
    "things": [],
+   "importance": 3
+  },
+  {
+   "id": "fd87a52398c24e8c",
+   "url": "https://minimalist-fudeko.com/let-go-of-old-gifts",
+   "title_original": "もう会わない人からのもらいもの、義理で取っておかなくていい",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/10/kokeshi.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-19T00:10:23+00:00",
+   "title_ja": "義理やもらいもので手放せずにいる物の処分法",
+   "summary_ja": "会社を辞めた先輩から譲り受けた好みではないバッグなど、義理で押し入れにしまい込んでいる使っていない物の手放し方を紹介しています。なんとなく捨てられずにいる物への向き合い方を解説。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "バッグ"
+   ],
    "importance": 3
   },
   {
@@ -6073,25 +6347,6 @@
    "importance": 2
   },
   {
-   "id": "0504c11c6c5a1c1d",
-   "url": "https://note.com/legit_colt6337/n/n9157e4654771",
-   "title_original": "好きなペン1本でノートまとめ出来る件。",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/335188460/rectangle_large_type_2_c5fde022d685ba2d7a0a8026a4a278a0.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-12T14:29:52+00:00",
-   "title_ja": "お気に入りのペン1本で分かりやすくノートをまとめる工夫",
-   "summary_ja": "ペンの種類を増やすのではなく、印の付け方やページの構成力を工夫することで、好きなペン1本でも十分に見やすく覚えられるノートが作れると気づいた経験談です。たくさんのペンを持たなくても工夫次第でシンプルにまとめられます。",
-   "category": "道具・ガジェット",
-   "axis": "reduce",
-   "things": [
-    "ペン",
-    "ノート"
-   ],
-   "importance": 3
-  },
-  {
    "id": "6cd0d6c6ba067a14",
    "url": "https://www.roomie.jp/2026/11/1926306",
    "title_original": "磁石で「カチッ」で充電開始。USB-Cケーブル全部これにしたい",
@@ -6419,24 +6674,6 @@
    "importance": 3
   },
   {
-   "id": "863d9fa3194c28a1",
-   "url": "https://note.com/daiyu_migaru/n/nfcfeba2d6a65",
-   "title_original": "減らすより残す",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/335089677/rectangle_large_type_2_f0ee9b694eed9568bc57e53784ed82dc.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-12T00:07:27+00:00",
-   "title_ja": "物を減らすことよりも残したい大切なものを選ぶ考え方",
-   "summary_ja": "手放すこと自体を目的にせず、自分にとって大切なものを選択して残すミニマリズムの思考法を解説。気に入った服や価値を感じる体験への支出、心地よい時間を意識的に残すことで暮らしの満足度を高める方法を提案している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "服"
-   ],
-   "importance": 4
-  },
-  {
    "id": "406b092e7695640a",
    "url": "https://www.roomie.jp/2026/11/1924883",
    "title_original": "1cmもない薄さ。Xiaomiの新作「Smart Band 11」は着けっぱなし派の味方",
@@ -6540,25 +6777,6 @@
    "axis": "reduce",
    "things": [],
    "importance": 3
-  },
-  {
-   "id": "74283eb7ddf59b80",
-   "url": "https://note.com/momuran/n/n0202c186cbad",
-   "title_original": "一度しか使わないもの、買うべき？ 借りる・代用する・買うの決め方",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/335044476/rectangle_large_type_2_02e3a12f3693c5ece8c2a58047300236.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-11T21:25:27+00:00",
-   "title_ja": "一度しか使わないものの選び方と手放し方の基準",
-   "summary_ja": "一度だけ必要な物を買うか、借りるか、代用するかを決めるための考え方を紹介しています。用途や次の出番を書き出して判断する手順を解説しています。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [
-    "バッグ",
-    "スーツケース"
-   ],
-   "importance": 4
   },
   {
    "id": "f3e50239a0985766",
@@ -6758,22 +6976,6 @@
    "things": [
     "スカート"
    ],
-   "importance": 3
-  },
-  {
-   "id": "7db9d1105170062f",
-   "url": "https://note.com/yohaku_money_lab/n/ne62f0a3ae3c6",
-   "title_original": "お金を使わないことが目的じゃない。ミニマリストの私がお金をかけるもの",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/334995631/rectangle_large_type_2_99c04a27fa88f063f9f699f363608563.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-11T13:37:47+00:00",
-   "title_ja": "節約が目的ではない。ミニマリストがお金をかけるもの",
-   "summary_ja": "ミニマリストといえばお金を使わないイメージがありますが、筆者にとってミニマリズムは節約そのものが目的ではありません。お金を使わないことではなく、何に価値を置くかという考え方について語られています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
    "importance": 3
   },
   {
@@ -7164,210 +7366,6 @@
     "振袖"
    ],
    "importance": 2
-  },
-  {
-   "id": "09d06aff0bbd3b26",
-   "url": "https://news.livedoor.com/topics/detail/32786155/?_clicked=echoes_list",
-   "title_original": "【暮らしvlog】ライフさん、保冷剤で消臭剤作り＆「驚くほど印象が変わる」文字隠し収納",
-   "source": "ライブドアニュース",
-   "image": "https://image.news.livedoor.com/newsimage/stf/7/d/7df83_1845_aaa376fa_9c628e2e.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-10T22:20:00+00:00",
-   "title_ja": "保冷剤を使った消臭剤作りと文字隠し収納の工夫",
-   "summary_ja": "保冷剤を活用した消臭剤の作り方や、部屋の印象がガラリと変わる文字隠し収納のアイデアを紹介している暮らしVlog。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "保冷剤",
-    "消臭剤"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "01c21399550f447d",
-   "url": "https://www.roomie.jp/2026/11/1922577",
-   "title_original": "細かく切った食材をサッとすくって、そのままレンジへ。山崎実業の新作で下ごしらえが劇的にラクになった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/261104_yamajitsu_colanderandbowl_01.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-10T22:00:51+00:00",
-   "title_ja": "山崎実業の新作キッチンアイテムで下ごしらえをラクにする",
-   "summary_ja": "限られたキッチンスペースでも使いやすい山崎実業の新作アイテムを活用し、細かく切った食材をすくってそのままレンジへ入れることで、毎日の下ごしらえをラクに快適にしている実例です。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "キッチンアイテム"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "eca31fd7da256a5f",
-   "url": "https://tinyhousetalk.com/canoe-bay-village-two-bedroom-lot-30",
-   "title_original": "A One-of-a-Kind Two-Bedroom Escape Home at Canoe Bay Village (Lot 30)",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/2026/11/canoe-bay-village-lot-30-two-bedroom-escape-home-sunset-exterior.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-10T21:53:00+00:00",
-   "title_ja": "タイニーハウスの集落にあるベッドルーム2つ付き住まいの実例",
-   "summary_ja": "湿地に面した敷地に立つ、家具付きタイニーハウスの紹介記事。2つのベッドルームに加え、多目的に使える部屋、3つのデッキ、キッチンやタイルのシャワー室などを備え、コンパクトながら機能的な暮らしの空間を実現しています。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "家具",
-    "キッチン",
-    "シャワー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "4ab456e8db50ec0d",
-   "url": "https://tinyhousetalk.com/family-sprinter-camper-van-swivel-dinette-seats-four",
-   "title_original": "Family Sprinter Camper Van with Swivel Dinette, Queen Bed, and Seating for Four",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/2026/11/Sprinter-Family-Camper-Van-Exterior.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-10T21:46:17+00:00",
-   "title_ja": "4人乗りファミリー向けキャンパーバンの装備とレイアウト",
-   "summary_ja": "スプリンターバンを家族向けに改装した車の所有事例。回転式の座席を備えたダイネットや固定のクイーンサイズベッド、調理台、後部のガレージスペースなどを備え、4人が車内で快適に生活できる工夫が凝らされています。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "スプリンターバン",
-    "クイーンベッド",
-    "ダイネット"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "8b4e038a357bf643",
-   "url": "https://article.auone.jp/3217bec5-e698-4e06-94f2-9969bd7355b8",
-   "title_original": "「捨てたいのに捨てられない…」年末までに始めたい「断捨離・捨て活」の本5選",
-   "source": "au Webポータル",
-   "image": "https://portal.auone.jp/media/thumbnails/2026/11/10/https___news_jp_i_1492965432586535628_w1037.webp",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-10T19:11:36+00:00",
-   "title_ja": "年末までに始めたい断捨離と捨て活の本5選",
-   "summary_ja": "年末に向けて物を手放したい人向けに、断捨離や捨て活のヒントが詰まったおすすめの本を5冊紹介している記事です。片付けのモチベーションを高めるための考え方を学ぶことができます。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "d0234beedac66b2d",
-   "url": "https://www.southernliving.com/things-you-can-organize-in-10-minutes-12190737",
-   "title_original": "8 Things You Can Organize In 10 Minutes",
-   "source": "Southern Living",
-   "image": "",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-10T19:00:00+00:00",
-   "title_ja": "10分でできる家の整理整頓のアイデア8選",
-   "summary_ja": "忙しい日常の中でもわずか10分あれば取り組める、効率的な片付けや整理整頓のコツを紹介しています。短時間で実践できる手法を通じて、手軽に部屋の環境を整える方法がわかります。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "471df874d6d060bf",
-   "url": "https://tinyhousetalk.com/vandoit-do-transit-camper-van-houston",
-   "title_original": "This Versatile Vandoit Transit Camper Folds Its Bed Away to Become a Gear Hauler",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/2026/11/Vandoit-Transit-Camper-Awning-Field.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-10T16:59:18+00:00",
-   "title_ja": "ベッドを収納して荷物運搬にも使えるキャンパーバン",
-   "summary_ja": "アルミニウム製のグリッド内装を採用し、ベッドを持ち上げて荷物運搬用スペースに変えられるキャンピングカーです。300Ahのソーラー電源システムも備えています。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "ソーラー電源システム",
-    "ベッド"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2e4b9c4c6d6b5b08",
-   "url": "https://tinyhousetalk.com/2017-sprinter-camper-van-motorized-bed-idaho",
-   "title_original": "A Retired Couple’s Sprinter Camper Van with a Motorized Bed",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/2026/11/2017-sprinter-camper-van-desert-canyon.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-10T16:58:03+00:00",
-   "title_ja": "電動ベッドや太陽光パネルを備えた引退夫婦のバン",
-   "summary_ja": "電動ベッドや冷蔵冷凍庫、500Wの太陽光パネル、屋外のプロパンキッチンを備えたキャンピングカーで暮らすリタイア夫婦の車両を紹介しています。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "電動ベッド",
-    "冷蔵庫",
-    "冷凍庫",
-    "太陽光パネル"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "16112e2b5bf6c753",
-   "url": "https://www.roomie.jp/2026/11/1926353",
-   "title_original": "モバイルバッテリーは重くて邪魔。そんな悩みに応える「厚さ5.5mm」の薄型モデル",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/magplate51.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-10T14:45:20+00:00",
-   "title_ja": "重さの悩みを解消する厚さ5.5mmの薄型モバイルバッテリー",
-   "summary_ja": "重くかさばる充電器を持ち歩く負担を減らすため、厚さ約5.5mm、重さ約98gの薄型モバイルバッテリーを導入した事例。日常の荷物を軽やかにするアイテムとして紹介している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "モバイルバッテリー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "20bea7fb22d92d6f",
-   "url": "https://www.roomie.jp/2026/11/1922977",
-   "title_original": "Ankerの5 in 1アダプタ、海外旅行で使ったら手放せなくなった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/ankeradapter1.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-10T13:45:15+00:00",
-   "title_ja": "海外旅行で手放せなくなったAnkerの変換プラグ",
-   "summary_ja": "海外旅行のたびに増えがちだった様々なタイプの変換プラグを整理し、これ一つにまとめることで手放せなくなったAnkerの5 in 1アダプターについて紹介している。",
-   "category": "旅・持ち歩き",
-   "axis": "own",
-   "things": [
-    "Ankerの5 in 1アダプタ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "763636d0d6f28c6a",
-   "url": "https://www.roomie.jp/2026/11/1925438",
-   "title_original": "iPhoneにピタッと密着。カメラに干渉しないCIOの極薄8.7mm充電器",
-   "source": "ROOMIE",
-   "image": "https://www.roomie.jp/wp-content/uploads/2025/10/11-1.png",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-10T13:15:07+00:00",
-   "title_ja": "iPhoneに密着するCIOの極薄8.7mm充電器",
-   "summary_ja": "安全性に配慮しつつ、iPhoneのカメラに干渉せずピタッと密着して持ち運べる、CIOの極薄8.7mmモバイルバッテリーを紹介している記事。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "CIOの充電器",
-    "iPhone"
-   ],
-   "importance": 3
   }
  ]
 }
