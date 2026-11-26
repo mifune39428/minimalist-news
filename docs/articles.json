@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T16:28:09.718540+09:00",
+ "updated_at": "2026-11-27T06:08:24.322474+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,40 +27,41 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-26T16:28:57.774618+09:00",
+  "generated_at": "2026-11-27T06:14:00.161795+09:00",
   "days": 3,
-  "period": "11月24日〜11月26日",
+  "period": "11月25日〜11月27日",
   "count": 45,
-  "reduce_count": 24,
-  "own_count": 21,
-  "overview": "年末に向けた片付けや手放し方、身軽な移動を助ける厳選された持ち物の紹介など、暮らしを見直す実践的な話題が多数語られています。",
-  "reduce": "買物の失敗や使わない物を無理に活かさず手放す基準や、SNSの理想に惑わされない片付けのコツが具体的に語られています。",
-  "own": "重さを抑えた軽量ガジェットやカプセルワードローブなど、日常や旅先で身軽に快適さを保つ工夫が紹介されています。",
+  "reduce_count": 26,
+  "own_count": 19,
+  "overview": "年末に向けた片付けや手放し方、日々の暮らしを快適にするための持ち物選びなど、無駄を削ぎ落として身軽に暮らすための具体的な工夫や体験談が多数語られています。",
+  "reduce": "年末の大掃除や引越しに向け、捨てる基準の事前設定やタイマーを活用した短時間の片付け、不要品をスムーズに手放す具体的なアイデアが多数語られています。",
+  "own": "腕時計やガジェット、カプセルワードローブなどのファッションアイテムや、日常の移動や旅を身軽にする便利な持ち物の選び方や工夫が紹介されています。",
   "points": [
    {
-    "title": "買い物の失敗と手放し方",
-    "body": "買物で失敗した物を無理に他のアイテムで活かそうとせず、あっさり手放す重要性や、年末に向けて滞貨の山を見つめ直す断捨離の記録が語られています。"
+    "title": "手放す基準と捨てる工夫",
+    "body": "年末の大掃除や引越しを前に、事前に捨てる基準を決めることや、タイマーを使って1時間で片付けを終える手順など、効率よく不要品を手放すための実践的な方法が紹介されています。"
    },
    {
-    "title": "デジタルからアナログへの回帰",
-    "body": "スマホの利用を減らすために本やノートを積み上げたり、情報漏洩をきっかけにあえて不便なアナログ手段へ切り替えるデジタルデトックスの工夫が紹介されています。"
+    "title": "デジタルデトックスの習慣",
+    "body": "スマホを断つために代わりにパズル本やノートを積み上げるアナログな習慣や、ブラックフライデーに向けてゴミ箱を用意し衝動買いを防ぐ工夫など、心と習慣を見直す意見が語られています。"
    },
    {
-    "title": "身軽な移動を支える厳選アイテム",
-    "body": "チタン製の軽量ミニストーブや約20gのキーホルダー型懐中電灯など、荷物を減らしてソロキャンプや外出時の移動を快適にする道具が取り上げられています。"
+    "title": "身軽な移動を叶える持ち物",
+    "body": "水筒や折りたたみ傘を入れないショルダーバッグや、リュックに固定するポーチ、手ぶらベルトなど、バッグの中や小物をスッキリさせ身軽に移動するためのアイテムが紹介されています。"
    }
   ],
   "keywords": [
-   "断捨離",
    "ミニマリスト",
+   "断捨離",
+   "片付け",
    "手放す",
-   "片付け"
+   "収納"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 13
+   "count": 12
   },
   {
    "name": "タイニーハウス",
@@ -91,6 +92,14 @@
    "count": 4
   },
   {
+   "name": "腕時計",
+   "count": 4
+  },
+  {
+   "name": "キッチン",
+   "count": 3
+  },
+  {
    "name": "スマートフォン",
    "count": 3
   },
@@ -111,14 +120,6 @@
    "count": 3
   },
   {
-   "name": "腕時計",
-   "count": 3
-  },
-  {
-   "name": "靴下",
-   "count": 3
-  },
-  {
    "name": "食器",
    "count": 3
   },
@@ -131,10 +132,6 @@
    "count": 2
   },
   {
-   "name": "キッチン",
-   "count": 2
-  },
-  {
    "name": "キーボード",
    "count": 2
   },
@@ -144,10 +141,6 @@
   },
   {
    "name": "ドリップケトル",
-   "count": 2
-  },
-  {
-   "name": "ノート",
    "count": 2
   },
   {
@@ -175,10 +168,6 @@
    "count": 2
   },
   {
-   "name": "ランタン",
-   "count": 2
-  },
-  {
    "name": "充電器",
    "count": 2
   },
@@ -199,10 +188,6 @@
    "count": 2
   },
   {
-   "name": "洗濯乾燥機",
-   "count": 2
-  },
-  {
    "name": "洗濯機",
    "count": 2
   },
@@ -215,7 +200,7 @@
    "count": 2
   },
   {
-   "name": "食洗機",
+   "name": "靴下",
    "count": 2
   }
  ],
@@ -296,7 +281,6 @@
   "YouTube",
   "au Webポータル",
   "freeyork",
-  "mai minimalism",
   "mamagirl",
   "note #ミニマリスト",
   "note #少ない服で暮らす",
@@ -329,6 +313,252 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "d04d7e15920de552",
+   "url": "https://note.com/chiisana_hana/n/n7155945d4822",
+   "title_original": "美容の物欲がなくなった、毎日のパック習慣",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/340638364/rectangle_large_type_2_92913ff7ddb88f2665419a4bbf416eae.jpg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-26T20:32:30+00:00",
+   "title_ja": "毎日シートマスク習慣にしたミニマリストの変化",
+   "summary_ja": "以前はほとんど使わなかったシートマスクを、MEGUMI氏の美容本をきっかけに毎朝晩使用する習慣に。お土産程度だったものが日課に変わり、持ち物リストにも加えた。",
+   "category": "心・習慣",
+   "axis": "own",
+   "things": [
+    "シートマスク"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "5e7a0346182dc3f2",
+   "url": "https://note.com/tetetete911/n/n5c2734e2d5a4",
+   "title_original": "年末の大掃除は「捨てる判断」から始める｜基準を先に決める段取り",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/341194874/rectangle_large_type_2_f399c702c9c70a4e384822c204f1809a.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-26T20:14:54+00:00",
+   "title_ja": "年末大掃除は先に捨てる基準を決める",
+   "summary_ja": "年末の大掃除は、物を手に取って悩むより、先に『捨てるかどうか』の基準を決めてから始めると集中力が保て、作業がスムーズになると筆者は実践している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "f6b934df563b10f3",
+   "url": "https://shopping.yahoo.com/home-garden/home-improvement/articles/5-rooms-declutter-holiday-guests-161000992.html",
+   "title_original": "5 Rooms To Declutter Before Holiday Guests Arrive—Start With These High-Traffic Spots",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/ded70f503535decc2beb6f0cf1f82673ff5b035873a2d379fbf3593681781b87/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsouthern_living_806%2F123958b21934a6bd037f8f9b3386e625.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-26T16:10:00+00:00",
+   "title_ja": "来客前に優先して片付けるべき5つの部屋",
+   "summary_ja": "来客を迎える前に片付けておくべき場所や、人の集まるスペースの整理整頓について解説している見出しです。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "ea61c6775fcea511",
+   "url": "https://www.goodhousekeeping.com/uk/house-and-home/household-advice/a74541009/household-items-professional-organisers-replace-annually",
+   "title_original": "‘They’re full of mould’: 7 household items professional organisers replace annually, and why you should too",
+   "source": "Good Housekeeping",
+   "image": "https://hips.hearstapps.com/hmg-prod/images/ce71ee81-dafa-451b-a2d4-78ef415cb5ab.jpg?crop=1.00xw:0.752xh;0,0.0337xh&resize=1200:*",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-26T16:08:29+00:00",
+   "title_ja": "プロが毎年買い替える7つの日用品",
+   "summary_ja": "プロの整理収納家がカビなどを理由に毎年買い替えている、家庭内の7つのアイテムについて触れている見出しです。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "4a2f28e41b3797ec",
+   "url": "https://www.roomie.jp/2026/11/1938147",
+   "title_original": "普段は腕時計をしない私でも、違和感なし。ジャケットにもパーカーにも馴染む機械式腕時計でした",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/orbital23.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-26T14:45:37+00:00",
+   "title_ja": "普段時計をしない人でも馴染む四角い軌道の機械式腕時計",
+   "summary_ja": "丸みを帯びた四角形の軌道を時針が巡る機械式自動巻き腕時計「Orbital Ⅱ」の使用感を紹介。普段は腕時計をしない人でも違和感なく着けられ、ジャケットやパーカーなどの服装にも馴染むデザインとなっている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "腕時計"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "37c225ba29de7ba6",
+   "url": "https://www.womanandhome.com/homes/cleaning--decluttering/things-to-consider-when-owning-a-robot-vacuum",
+   "title_original": "Don’t buy a robot vacuum based on price – these 7 key considerations will save you time and money",
+   "source": "Woman & Home",
+   "image": "https://cdn.mos.cms.futurecdn.net/vmeyoAheByJgfJnRnfYC5L-1920-80.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-26T14:00:00+00:00",
+   "title_ja": "価格だけでロボット掃除機を選ばないための7つのポイント",
+   "summary_ja": "ロボット掃除機を購入する際、価格だけでなく時間と節約につながる7つの重要な考慮点を確認すべきという内容。家電選びや日々の暮らしの道具を見直す際の考え方に関わる記事。",
+   "category": "道具・ガジェット",
+   "axis": "reduce",
+   "things": [
+    "ロボット掃除機"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c8b173f22ce88cfa",
+   "url": "https://www.roomie.jp/2026/11/1938673",
+   "title_original": "山崎実業で「帰ってきたら置く」の流れが定着。鍵も手袋も忘れ物がなくなった",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/202611127_yamajitsu-holder_top.png?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-26T13:00:27+00:00",
+   "title_ja": "山崎実業のアイテムで帰宅時の置き場所を定着させた工夫",
+   "summary_ja": "鍵や手袋などの帰宅時の置き場所を山崎実業のアイテムを使って定着させた事例。キーケースを使用しているため玄関のキーフックが使えない環境でも、忘れ物をなくすための収納と動線の工夫を紹介している。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "キーケース"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4786a2f7861118a8",
+   "url": "https://www.newsbreak.com/decluttering-mom-311255187/5031253134054-mom-hoping-to-be-moving-by-the-end-of-the-year-starts-decluttering-and-packing-early-beginning-with-her-toddler-s-outgrown-clothes-sorted-by-size-in-vacuum-sealed-bags",
+   "title_original": "Mom Hoping To Be Moving By The End Of The Year Starts Decluttering And Packing Early, Beginning With Her Toddler’s Outgrown Clothes Sorted By Size In Vacuum Sealed Bags",
+   "source": "NewsBreak: Local News & Alerts",
+   "image": "https://img.particlenews.com/img/id/0k2h3O_1HTbbkx000",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-26T12:30:50+00:00",
+   "title_ja": "引越しに向け子供服を整理した人の話",
+   "summary_ja": "年末の引越しに向けて早めに断捨離と荷造りを始めた母親の話。サイズアウトした子供服をサイズごとに仕分けし、真空パックの袋に詰めて整理を進めている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "子供服",
+    "真空パック袋"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "dab1be692db2ba23",
+   "url": "https://tinyhousetalk.com/treehouse-cottage-on-a-permaculture-farm-in-miami",
+   "title_original": "A Two-Story Cottage Treehouse on an Urban Permaculture Farm in Miami",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/Treehouse-Cottage-on-a-Permaculture-Farm-in-Miami-001.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-26T12:30:00+00:00",
+   "title_ja": "マイアミの都市型農地にある二階建てのツリーハウスコテージ",
+   "summary_ja": "マイアミのパーマカルチャー農地に建つ小さな二階建てコテージを紹介する記事。1階にリビングと小さなキッチン、2階にベッドルームを備えたコンパクトな暮らし。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "キッチン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5466b3a851e7eac3",
+   "url": "https://tinyhousetalk.com/235-sq-ft-studio-cabin-near-asheville",
+   "title_original": "Wren’s Nest: A Hand-Built 235 Sq Ft Studio in the Woods Near Asheville",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/235-sq-ft-studio-cabin-near-asheville-001.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-26T12:15:00+00:00",
+   "title_ja": "手作り235sqftスタジオ、再利用材で建てた小さな住まい",
+   "summary_ja": "北カロライナ州アッシュビル近郊に、再利用した納屋や倒壊住宅の木材を使い、手作りで建てた235平方フィートのスタジオが完成。森に囲まれた小さな住まいの実例です。",
+   "category": "部屋・収納",
+   "axis": "own",
+   "things": [
+    "木材",
+    "スタジオ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c317b66e171b601a",
+   "url": "https://news.livedoor.com/article/detail/32910429",
+   "title_original": "シニア世代の暮らしを見直す。ライフさんの「食・体力・物」の適量を知って快適に過ごす方法",
+   "source": "ライブドアニュース",
+   "image": "",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-26T11:46:00+00:00",
+   "title_ja": "シニア世代向け「食・体力・物」の適量で快適生活",
+   "summary_ja": "ライフさんがシニア向けに「食・体力・物」の適量を提案し、過剰にならない生活の見直し方法を紹介。快適に暮らすための具体的な指標が示されています。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [
+    "食材",
+    "持ち物"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "f9b62c136cbc5e2f",
+   "url": "https://www.realsimple.com/out-in-the-open-decluttering-method-12259370",
+   "title_original": "The “Out-in-the-Open” Decluttering Method Helped Me Finally Get Rid of Things I’d Been Holding Onto for Years",
+   "source": "Real Simple",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-26T11:15:00+00:00",
+   "title_ja": "“Out‑in‑the‑Open”片付け法で長年の不要品を手放した体験",
+   "summary_ja": "Real Simpleで紹介された“Out‑in‑the‑Open”という片付け手法は、部屋全体を見せながら整理することで、長年抱えていた不要品を思い切って処分できたと筆者が語ります。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "7e460cdfe06668bb",
+   "url": "https://news.yahoo.co.jp/articles/25ea911b775bbb1da70de9de0b9688389a58d1c2",
+   "title_original": "「高いとこやったら5万円」 3児の母・くわばたりえさんが必要ないと考えたもの 子どもの成長に伴い後悔することも（Hint-Pot）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261126-00010013-hintpot-000-1-view.jpg?exp=10800",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-26T11:10:55+00:00",
+   "title_ja": "3児の母が不要と判断したものと後悔",
+   "summary_ja": "くわばたりえさんは、子どもの成長に合わせて5万円以上かかると感じたものを手放す方針を語り、後で後悔した経験も紹介した。具体的に何を捨てたかは明かさなかったが、無駄な出費を減らす意識が変わったと語っている。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "34fd49c15cb3b09e",
+   "url": "https://note.com/shiny_impala6215/n/nf25086ce2673",
+   "title_original": "椅子を買い足す寸前だったけれど。「空気清浄機の移動」から始まった、物を増やさない動線づくり",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/340931752/rectangle_large_type_2_8275858744168d6f761263747820d201.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-26T10:01:52+00:00",
+   "title_ja": "椅子を買わずに済んだペットゲート活用術",
+   "summary_ja": "新しい椅子を購入しそうになったが、既存のペットゲートを直線に配置し範囲を区切るなど工夫して動線を整え、余計な家具を増やさずに部屋を広く使えるようにした。高さ40cmの軽量ゲートで満足。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [
+    "ペットゲート",
+    "サークル"
+   ],
+   "importance": 3
+  },
   {
    "id": "b7a0739aaaca6196",
    "url": "https://note.com/torazirou_note/n/nd2af01747669",
@@ -5883,25 +6113,6 @@
    "importance": 3
   },
   {
-   "id": "dec2440a8a484a4d",
-   "url": "https://note.com/minimal_life5929/n/n47f352ef9385",
-   "title_original": "ミニマリストと洗濯乾燥機。時間を生み出す最強の家電。",
-   "source": "note #持たない暮らし",
-   "image": "https://assets.st-note.com/production/uploads/images/335701954/rectangle_large_type_2_fec7adb450a20a5a35d71ffd62f8222a.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-15T11:53:58+00:00",
-   "title_ja": "洗濯乾燥機を導入して家事の時間と手間を減らした話",
-   "summary_ja": "洗濯物を干す・取り込む・たたむ手間や、ハンガーなどの道具を減らすために洗濯乾燥機を活用している話。家事に使う時間を減らすこともミニマリストの暮らしにおいて重要だと提案している。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [
-    "洗濯乾燥機",
-    "ハンガー"
-   ],
-   "importance": 4
-  },
-  {
    "id": "b3034489f58fbd11",
    "url": "https://www.roomie.jp/2026/11/1926436",
    "title_original": "コントローラーに掃除機も！ 巻くだけで「浮かせる収納」になる山崎実業のバンドが万能すぎる…",
@@ -6141,24 +6352,6 @@
    "category": "暮らしの実例",
    "axis": "own",
    "things": [],
-   "importance": 3
-  },
-  {
-   "id": "ab2bfcda1f5f6c69",
-   "url": "https://note.com/skip2026_/n/n4a20e1d10553",
-   "title_original": "断捨離で捨てなかったティーポット。増えたのは夫婦の時間",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/336361845/rectangle_large_type_2_8ca8e0946c1a06bd4dfde042d837148d.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-15T05:19:03+00:00",
-   "title_ja": "1日1捨てで夫婦の紅茶時間が増えた",
-   "summary_ja": "1日1捨てを続け、キッチンの奥からほとんど使わなかったティーポットを見つけ、捨てずに残したことで夫婦の紅茶タイムが増え、暮らしに余裕が生まれた。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "ティーポット"
-   ],
    "importance": 3
   },
   {
@@ -7152,222 +7345,6 @@
    "category": "部屋・収納",
    "axis": "reduce",
    "things": [],
-   "importance": 3
-  },
-  {
-   "id": "939d293d52db35f3",
-   "url": "https://news.yahoo.co.jp/articles/9a6297ec06923e0484dac53ae180d5fbfeeb8e9b",
-   "title_original": "やましたひでこさん「断捨離すれば自分を大切にできる」。自分軸の生き方を手に入れるコツ（ESSE-online）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261113-00038857-esse-000-1-view.jpg?exp=10800",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-13T11:00:38+00:00",
-   "title_ja": "やましたひでこさんに学ぶ自分軸の生き方",
-   "summary_ja": "断捨離をすることで自分を大切にし、自分軸の生き方を手に入れるためのコツについて語られている内容。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "1389d9235dc30fc6",
-   "url": "https://www.youtube.com/watch?v=tu-493rWLd8",
-   "title_original": "「それどこの？」よく聞かれるアイテムをまとめて紹介！",
-   "source": "mai minimalism",
-   "image": "https://i1.ytimg.com/vi/tu-493rWLd8/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-11-13T11:00:33+00:00",
-   "title_ja": "よく尋ねられる愛用アイテムや暮らしの道具についての紹介",
-   "summary_ja": "ミニマリストが日常で愛用しているお気に入りの生活雑貨や家具を紹介。KEYUCAの計量スプーンや無印良品のスプレーボトル、ソフトボックス、子ども用デスクなど、よく質問を受ける持ち物をまとめて取り上げている。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "計量スプーン",
-    "スプレーボトル",
-    "食器棚",
-    "ソフトボックス"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "e5f737c352c96d99",
-   "url": "https://www.youtube.com/watch?v=hb4_xWmREco",
-   "title_original": "【アラフィフから一人暮らし】軽トラ2台分の物を手放して辿り着いた、物が増えない暮らし。",
-   "source": "ミニマリストsin",
-   "image": "https://i1.ytimg.com/vi/hb4_xWmREco/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-11-13T11:00:19+00:00",
-   "title_ja": "軽トラ2台分の物を手放して到達した物が増えない一人暮らしの話",
-   "summary_ja": "アラフィフで一人暮らしを始めた人が、軽トラ2台分に及ぶ大量の不用品を手放すことで行き着いた、物が増えない暮らしの工夫や考え方を紹介する。収納にはバンカーズボックスなども活用し、すっきりとした生活スタイルを維持している。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "バンカーズボックス"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "8478b7cf8c3651df",
-   "url": "https://www.youtube.com/watch?v=dSWwy7LAh0Y",
-   "title_original": "【ミニマリスト】人間関係をラクにする/私も昔は悩んでいました",
-   "source": "ミニマリスト Nozomi",
-   "image": "https://i1.ytimg.com/vi/dSWwy7LAh0Y/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-11-13T11:00:08+00:00",
-   "title_ja": "持ち物40個で暮らすミニマリストの考え方",
-   "summary_ja": "ミニマリスト歴12年で服3着、持ち物40個で暮らす投稿者が、人間関係をラクにする方法や部屋の片付け方、思考の整理について語っている。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "服"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "d5bbf0d2739c884c",
-   "url": "https://www.youtube.com/watch?v=yNV9FFu3Xvs",
-   "title_original": "【家計簿】無職、月11万で暮らす。10月の家計簿公開/一人暮らし",
-   "source": "レイの小さな暮らし",
-   "image": "https://i2.ytimg.com/vi/yNV9FFu3Xvs/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-11-13T11:00:04+00:00",
-   "title_ja": "無職の一人暮らし、月11万円で暮らす家計簿",
-   "summary_ja": "正社員を退職した26歳の一人暮らしが、月11万円で暮らす1月の家計簿を公開し、シンプルでのんびりとした日々の暮らしを紹介している。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "98bdea78647a16ae",
-   "url": "https://www.roomie.jp/2026/11/1923882",
-   "title_original": "小さなロルバーン、わたしならこう使う。「やりたいことノート」を作ったら休みの日がもっと楽しみになった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/shiro_261108_Rollbahn_top.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-13T11:00:00+00:00",
-   "title_ja": "小型ノート「ロルバーン」を「やりたいことノート」として使う方法",
-   "summary_ja": "人気のノート「ロルバーン」の小型サイズを活用し、休日の楽しみを増やす「やりたいことノート」として使うアイデアを紹介。お気に入りの文房具を取り入れることで、日々の暮らしや休日をよりご機嫌に過ごすための工夫が語られている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ロルバーン",
-    "ノート"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "0d7ef0992d35211d",
-   "url": "https://www.roomie.jp/2026/11/1916246",
-   "title_original": "ごちゃつく靴下が、IKEAの冷蔵庫収納にシンデレラフィット！ 家中の整理整頓に役立ってます",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/20261110_ikea-1.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-13T10:30:21+00:00",
-   "title_ja": "IKEAの冷蔵庫用収納を活用してごちゃつく靴下を整える整理術",
-   "summary_ja": "ごちゃつきがちな靴下の収納に、IKEAの冷蔵庫用収納ケースを活用するアイデアを紹介。専用の収納用品にとらわれず、家の中のさまざまな場所や小物の整理整頓に応用して暮らしをすっきりと整える方法を提案している。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [
-    "IKEAの冷蔵庫収納",
-    "靴下"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "0eb35a3413ca7724",
-   "url": "https://www.roomie.jp/2026/11/1924439",
-   "title_original": "賃貸でも食洗機は導入できます。工事不要で使える「ラクア Plus」",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/sub5.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-13T10:15:23+00:00",
-   "title_ja": "賃貸でも工事不要で使えるサンコーの食洗機",
-   "summary_ja": "毎日の食器洗いの負担を減らすため、賃貸住宅でも工事なしで導入できる食器洗い乾燥機「ラクア Plus」を紹介している。日々の家事を効率化する便利なアイテムの選択肢として役立つ。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "食洗機"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "1f51bb361c41fac3",
-   "url": "https://www.youtube.com/watch?v=vQKNI0MsjHU",
-   "title_original": "【モーニングルーティン】ミニマリストを目指す30代の朝｜お菓子置き場の見直しと捨て活｜一人暮らし",
-   "source": "うにのゆるシンプルな暮らし",
-   "image": "https://i3.ytimg.com/vi/vQKNI0MsjHU/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-11-13T10:00:16+00:00",
-   "title_ja": "30代一人暮らしミニマリストの朝と、お菓子置き場の見直し",
-   "summary_ja": "物を減らし始めて4年になる30代一人暮らしの朝のルーティン。体重増加の誘惑になっていた電子レンジの上のお菓子置き場を見直し、うまくいかないことも含めた暮らしの記録を紹介している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [
-    "電子レンジ",
-    "アレクサ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "368d6fc6acc167a8",
-   "url": "https://www.youtube.com/watch?v=MHd4tV0tZaM",
-   "title_original": "「人生何周目？」と言われる私の、2年半前の話。",
-   "source": "小さな暮らしノート",
-   "image": "https://i2.ytimg.com/vi/MHd4tV0tZaM/hqdefault.jpg",
-   "media": "youtube",
-   "region": "国内",
-   "published": "2026-11-13T08:30:04+00:00",
-   "title_ja": "離婚と心に余裕のない日々から、ミニマリストになって変わった話",
-   "summary_ja": "つらい経験や自信を失っていた状態から、ミニマリズムを通じて暮らしを整え、自分を取り戻していった変化の過程を振り返る。物を減らし心を整えることで、ひとりでも生きていける自信がついた道のりを語る。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "df24443d5af654d3",
-   "url": "https://news.infoseek.co.jp/article/fudge_409988",
-   "title_original": "6畳ワンルームで暮らすミニマリストの「やめた家事」。当たり前を見直して、心にゆとりを【シンプリストの暮らしかた】",
-   "source": "Infoseek",
-   "image": "https://media.image.infoseek.co.jp/isnews/photos/fudge/fudge_409988_0.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-13T06:30:04+00:00",
-   "title_ja": "6畳ワンルームで実践するミニマリストのやめた家事",
-   "summary_ja": "6畳のワンルームで暮らすミニマリストが、当たり前とされている家事を見直し、やめた作業を具体例と共に紹介。無駄を減らすことで心にゆとりができた。生活がシンプルになった。",
-   "category": "暮らしの実例",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
-   "id": "b53cc668e1b41f28",
-   "url": "https://www.roomie.jp/2026/11/1927302",
-   "title_original": "ランタン用の「挟むマグネットフック」に目からウロコ！室内、車内でも場所を選ばずひっかけ収納が作れるぞ",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/rm261111_11.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-13T05:00:34+00:00",
-   "title_ja": "マグネットがつかない場所でも挟んで吊るせる強力磁気クリップ",
-   "summary_ja": "マグネットフックが使えない場所でも挟んで設置できるSoomloomの超強力磁気クリップを紹介する記事。室内や車内など場所を選ばずにひっかけ収納を作り出すことができ、ランタンなどの吊り下げに活用できる道具を取り上げている。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "マグネットフック",
-    "超強力磁気クリップ",
-    "ランタン"
-   ],
    "importance": 3
   }
  ]
