@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T16:24:34.248341+09:00",
+ "updated_at": "2026-11-28T05:52:52.975807+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,45 +27,42 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-27T16:25:17.488540+09:00",
+  "generated_at": "2026-11-28T05:54:01.278940+09:00",
   "days": 3,
-  "period": "11月25日〜11月27日",
+  "period": "11月26日〜11月28日",
   "count": 45,
-  "reduce_count": 26,
-  "own_count": 19,
-  "overview": "11月25日から27日にかけて、不要な資料や雑貨を手放す断捨離の工夫から、充電器や腕時計などの厳選された持ち物、小さな住まいの実例まで45件の記事が語られています。",
-  "reduce": "年末の大掃除や引越しに向け、捨てる基準の事前設定や「いつか使うかも」という思い込みを手放して暮らしを整える具体的な工夫が多数語られています。",
-  "own": "デスク周りのケーブル整理に役立つ充電器や、日々の生活を快適にするシートマスク、機能的な衣服やカプセルワードローブなどのこだわりが紹介されています。",
+  "reduce_count": 25,
+  "own_count": 20,
+  "overview": "年末に向けた片付けや不要な資料・雑貨の捨て方、長く使える愛用品やガジェットの選び方が語られています。",
+  "reduce": "年末の大掃除や引越しに向けた捨て方の基準作りや、限られたスペースをすっきりと見せる収納の工夫が多数紹介されています。",
+  "own": "長く使える厳選アイテムやガジェット、ワークチェアなどのデスク環境、ミニマリストの服や時計の選び方が語られています。",
   "points": [
    {
-    "title": "手放す基準の事前設定",
-    "body": "年末の大掃除をスムーズに進めるため、物を手に取って悩む前に「捨てるかどうか」の基準をあらかじめ決めておくという実践的なアイデアが紹介されています。"
+    "title": "手放す基準と片付け術",
+    "body": "年末の大掃除や引越しを控え、先に捨てる基準を決める方法や、雑貨や子供服など不要なものを手放すコツが語られています。"
    },
    {
-    "title": "小さな住まいと工夫",
-    "body": "マイアミやアッシュビルなどのタイニーハウスやコテージを例に、限られた空間を広く見せる建築デザインや再利用材の活用法が語られています。"
+    "title": "長く愛用する道具選び",
+    "body": "ブラックフライデーでの投資価値のある商品選びや、10年以上使い続ける有線イヤホンなど、長く大切に使う定番品が紹介されています。"
    },
    {
-    "title": "厳選されたガジェット",
-    "body": "デスク周りのケーブルを整理するCIOの充電器や、太陽光で充電できる電池交換不要のソーラークロノグラフなど、ミニマリスト向けの便利な道具が取り上げられています。"
+    "title": "デジタルと充電器の整理",
+    "body": "スマホ依存対策としてのカメラ付きイヤホンや音声入力アプリの活用、CIOの充電器によるデスクのケーブル整理が話題です。"
    }
   ],
   "keywords": [
-   "断捨離",
-   "ミニマリスト",
-   "収納",
-   "カプセルワードローブ",
-   "充電器"
+   "手放す",
+   "片付け"
   ]
  },
  "things": [
   {
    "name": "服",
-   "count": 11
+   "count": 12
   },
   {
    "name": "タイニーハウス",
-   "count": 8
+   "count": 7
   },
   {
    "name": "スーツケース",
@@ -78,10 +75,6 @@
   {
    "name": "洋服",
    "count": 5
-  },
-  {
-   "name": "キャンピングカー",
-   "count": 4
   },
   {
    "name": "スマホ",
@@ -97,6 +90,10 @@
   },
   {
    "name": "キッチン",
+   "count": 3
+  },
+  {
+   "name": "バッグ",
    "count": 3
   },
   {
@@ -132,6 +129,10 @@
    "count": 2
   },
   {
+   "name": "キャンピングカー",
+   "count": 2
+  },
+  {
    "name": "キーボード",
    "count": 2
   },
@@ -148,6 +149,10 @@
    "count": 2
   },
   {
+   "name": "チェア",
+   "count": 2
+  },
+  {
    "name": "ドリップケトル",
    "count": 2
   },
@@ -156,7 +161,7 @@
    "count": 2
   },
   {
-   "name": "バッグ",
+   "name": "バスタオル",
    "count": 2
   },
   {
@@ -176,7 +181,7 @@
    "count": 2
   },
   {
-   "name": "冷蔵庫",
+   "name": "ポーチ",
    "count": 2
   },
   {
@@ -216,7 +221,6 @@
   "A Slob Comes Clean",
   "AGARA 紀伊民報",
   "All About ニュース",
-  "Ameba News [アメーバニュース]",
   "Apartment Therapy",
   "BBC",
   "Balance Through Simplicity",
@@ -231,7 +235,6 @@
   "Country Living Magazine",
   "Cowboy State Daily",
   "ELLE",
-  "FOX6 News Milwaukee",
   "FUDGE.jp",
   "Facebook",
   "Fast Company（働き方）",
@@ -240,10 +243,12 @@
   "Good Housekeeping",
   "Homes and Gardens",
   "How-To Geek",
+  "Ideal Home",
   "Infoseek",
   "JIJICO",
   "JournalArta",
   "LMFM",
+  "Luxurious Magazine",
   "Mashable",
   "Money Crashers",
   "MonoMax",
@@ -257,9 +262,11 @@
   "Popbee",
   "ROOMIE",
   "ROOMIE（ルーミー）",
+  "RTE.ie",
   "Real Simple",
   "Sarah Therese",
   "Seattle Weekly",
+  "Simple Lionheart Life",
   "Southern Living",
   "TRILL",
   "TVer",
@@ -286,7 +293,6 @@
   "Yahoo",
   "Yahoo!ニュース",
   "YouTube",
-  "au Webポータル",
   "freeyork",
   "note #ミニマリスト",
   "note #少ない服で暮らす",
@@ -319,6 +325,216 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "1c1663004d387f2d",
+   "url": "https://note.com/180days_project/n/n96e00b5693c4",
+   "title_original": "あと123日。キーボードを卒業する日が来るかもしれない。",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/341636832/rectangle_large_type_2_8c798fc55563a8c7f137377e7268971f.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-27T20:34:36+00:00",
+   "title_ja": "音声入力アプリTypelessでキーボード不要に挑戦した話",
+   "summary_ja": "筆者はYouTubeでミニマリストしぶさんのキーボード卒業を見て、音声入力専用アプリTypelessを試した。3日間で使い方を覚え、精度の高さと文章整形機能に感動し、今後も使い続けると確信した。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "Typeless",
+    "Claude",
+    "ChatGPT"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "f87574c0930e056d",
+   "url": "https://www.theguardian.com/thefilter-us/2026/nov/22/black-friday-buy-it-for-life",
+   "title_original": "We found 21 ironclad Black Friday deals on durable products you’ll own for life",
+   "source": "The Guardian（暮らし）",
+   "image": "https://i.guim.co.uk/img/media/c178eecd397a9b7f2aa65f23e6f325a7f9af1057/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=5864b9b977ec669841d0d11820c13ae8",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-27T20:14:59+00:00",
+   "title_ja": "ブラックフライデーで手に入れる、長く使える厳選アイテム",
+   "summary_ja": "The Guardianは、安価なジャンクを避け、一生使える投資価値のある商品をブラックフライデーで割引販売する特集を紹介。バスタオルなど長持ちする生活必需品を少数購入し、物を減らす考え方に合致する提案だ。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "バスタオル"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "3faf1c612bb0af8e",
+   "url": "https://note.com/fast_tucan7842/n/n1ec34ed696d3",
+   "title_original": "「つい買ってしまう」を卒業する。本当に必要なものを選べる買い物の軸の作り方",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/341629955/rectangle_large_type_2_69780fa70ea2008b64fcd9b6c022c449.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-27T19:25:50+00:00",
+   "title_ja": "衝動買いをやめるための買い物軸の作り方",
+   "summary_ja": "筆者は、セールやSNSでの誘惑に負けて不要なものを買う経験を振り返り、必要なものだけを選ぶ基準の立て方を解説。買い物の軸を持つことで部屋の散らかりや心の余裕を取り戻す方法を提案する。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "b90404b2d7e14d3d",
+   "url": "https://simplelionheartlife.com/simpler-christmas",
+   "title_original": "How to Have a Simpler Christmas: 9 Ways to Keep Christmas Simple",
+   "source": "Simple Lionheart Life",
+   "image": "https://simplelionheartlife.com/wp-content/uploads/2023/12/How-to-Have-a-Simpler-Christmas-9-Ways-to-Keep-Christmas-Simple-1.png",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-27T18:58:43+00:00",
+   "title_ja": "シンプルなクリスマスを過ごす9つの方法",
+   "summary_ja": "ホリデーシーズンの買い物や飾り付け、スケジュールを減らす具体的なコツを9点紹介。無駄な出費や準備の手間を削減し、心地よいシンプルなクリスマスを実現できる。",
+   "category": "暮らしの実例",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "d5d79e3bde3245f4",
+   "url": "https://note.com/agile_skink5915/n/n304f6e6d4884",
+   "title_original": "リユースの裏側。なぜ査定カウンターに列ができるのか",
+   "source": "note #断捨離",
+   "image": "https://assets.st-note.com/production/uploads/images/341627228/rectangle_large_type_2_b6d10c2fb04bc83dbc6319c9ec02a070.png?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-27T18:57:35+00:00",
+   "title_ja": "リユース査定カウンターに列ができる理由",
+   "summary_ja": "リサイクルショップや買取店で、袋や箱を抱えた人が長蛇の列になる現象を、出品者の手放し動機と店舗側の在庫確保・利益確保の視点から解説。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
+   "id": "eb93134ae0c1fb1a",
+   "url": "https://www.lifehacker.jp/article/machi-ya-s12pro-start-994339",
+   "title_original": "スマホを取り出す回数を減らしたい。カメラとAIを備えたイヤホンに注目した理由",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/11/18/d32845e6-b116-4f51-b247-20da9698d02c/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-27T14:30:00+00:00",
+   "title_ja": "スマホ依存を減らすためカメラ付きイヤホンに注目した理由",
+   "summary_ja": "スマートフォンを取り出す回数を減らすため、カメラやAI機能を搭載した約34.8gの軽量なワイヤレスイヤホンに注目した理由を語る記事。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "ワイヤレスイヤホン"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "0c7a92914f113d57",
+   "url": "https://www.youtube.com/shorts/-K0wDDkaOU4",
+   "title_original": "Why a messy home messes with your mind.",
+   "source": "The Minimalists",
+   "image": "https://i2.ytimg.com/vi/-K0wDDkaOU4/hqdefault.jpg",
+   "media": "youtube",
+   "region": "海外",
+   "published": "2026-11-27T13:45:54+00:00",
+   "title_ja": "散らかった部屋が心に与える影響について",
+   "summary_ja": "散らかった家がどのように心や思考の乱れにつながるのかを解説している動画。部屋の状態が精神面に与える影響を伝えています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "97552a32eb8e6343",
+   "url": "https://www.roomie.jp/2026/11/1939125",
+   "title_original": "10年以上使っているSHUREの「定番有線イヤホン」、ロゴが剥げてもまだまだ現役です",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/ogmax_amazonbf26_shurese215spe_6-1.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-27T13:30:01+00:00",
+   "title_ja": "10年以上愛用している定番有線イヤホンの話",
+   "summary_ja": "ロゴが剥げるほど10年以上使い続けている、SHUREの定番有線イヤホンを紹介している記事。長く大切に使い続けている愛用品について語られています。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "有線イヤホン",
+    "バッグ",
+    "ポーチ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b13bcdd08d2a2140",
+   "url": "https://www.southernliving.com/discernment-method-for-decluttering-12247290",
+   "title_original": "How To Use The ‘Discernment Method’ To Declutter Your Home Before Holiday Hosting",
+   "source": "Southern Living",
+   "image": "",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-27T13:10:00+00:00",
+   "title_ja": "自宅の片付けに役立つ「ディセルメント法」",
+   "summary_ja": "自宅でゲストを迎える前に実践できる、ものを整理するための「ディセルメント法」の活用方法について解説している記事です。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "5044b4c2b1a308a1",
+   "url": "https://www.roomie.jp/2026/11/1938315",
+   "title_original": "ソロでもグループでも、私の1軍焚き火台。厚さ2.5cmに畳めるTOKYO CRAFTS「マクライト2」が31％オフ",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/IMG_0108.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-27T13:00:40+00:00",
+   "title_ja": "厚さ2.5cmに畳める焚き火台を使う理由",
+   "summary_ja": "ソロからグループまで対応する薄型に畳める焚き火台を使ってキャンプを楽しむ様子。長く使える機能的な道具選びを大切にしている。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "焚き火台"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "3202a85abcdfa99a",
+   "url": "https://tinyhousetalk.com/chuck-cassady-personal-skoolie-dt466",
+   "title_original": "Skoolie Builder Chuck Cassady’s Own Bus: A Computer-Free DT466 and an All-Electric Interior",
+   "source": "Tiny House Talk",
+   "image": "https://tinyhousetalk.com/wp-content/uploads/2026/11/chuck-cassady-thomas-skoolie-exterior-mountains.jpg",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-27T12:55:53+00:00",
+   "title_ja": "スクールバスを改装したタイニーハウスの実例",
+   "summary_ja": "バスを自ら改装して作り上げた、オフグリッド仕様でオール電化のインテリアを備える移動式住居の事例。",
+   "category": "暮らしの実例",
+   "axis": "own",
+   "things": [
+    "バス"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "a1f14d716cb74577",
+   "url": "https://www.roomie.jp/2026/11/1940313",
+   "title_original": "ブラックフライデーを有効活用！EastForce「エイリアンチェア」を導入して、家の仕事環境をアップデートしてみない？",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/796340d2b72ad4510238b5f4c9860867.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-27T12:40:44+00:00",
+   "title_ja": "自宅のデスク環境を整えるワークチェアの導入",
+   "summary_ja": "自宅での仕事やゲームなどの時間を快適にするために、機能的なワークチェアを導入してデスク環境をアップデートした話。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "チェア"
+   ],
+   "importance": 3
+  },
   {
    "id": "36e1b523571ccfd4",
    "url": "https://note.com/kalappo/n/nefafb711d928",
@@ -353,6 +569,24 @@
    "axis": "own",
    "things": [
     "ボール＆コランダーセット"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e9c16e47bf1cfcd1",
+   "url": "https://www.rte.ie/lifestyle/fashion/2026/1127/1551172-tips-for-decluttering-your-wardrobe-and-refreshing-your-style",
+   "title_original": "Tips for decluttering your wardrobe and refreshing your style",
+   "source": "RTE.ie",
+   "image": "https://www.rte.ie/images/0023afd2-1600.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-27T06:41:40+00:00",
+   "title_ja": "ワードローブを整理してスタイルを刷新するコツ",
+   "summary_ja": "クローゼットの中にある服を見直し、すっきりと片づけながら自身のスタイルを新しくしていくためのヒントを紹介している。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "服"
    ],
    "importance": 3
   },
@@ -445,6 +679,22 @@
    "importance": 3
   },
   {
+   "id": "89873118d8044b06",
+   "url": "https://www.idealhome.co.uk/house-manual/storage-organisation-decluttering/clutter-busters-to-hide-mess-over-christmas",
+   "title_original": "I’m faking a tidy home this Christmas with these clever clutter busters – they’ll maintain order in every room of the house",
+   "source": "Ideal Home",
+   "image": "https://cdn.mos.cms.futurecdn.net/C6Lr3ettoZA8xfg9hqy4Vg-2400-80.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-26T17:00:00+00:00",
+   "title_ja": "クリスマスをすっきりと見せるための片づけ術",
+   "summary_ja": "散らかりやすい家の中をすっきりと保ち、すっきりと整った空間を演出するための賢い収納や整理整頓のアイデアを紹介する。",
+   "category": "部屋・収納",
+   "axis": "reduce",
+   "things": [],
+   "importance": 2
+  },
+  {
    "id": "f6b934df563b10f3",
    "url": "https://shopping.yahoo.com/home-garden/home-improvement/articles/5-rooms-declutter-holiday-guests-161000992.html",
    "title_original": "5 Rooms To Declutter Before Holiday Guests Arrive—Start With These High-Traffic Spots",
@@ -491,6 +741,22 @@
    "axis": "own",
    "things": [],
    "importance": 4
+  },
+  {
+   "id": "ac7c14019c19e236",
+   "url": "https://www.luxuriousmagazine.com/internet-rediscovering-simpler-living",
+   "title_original": "How The Internet Is Helping Us Rediscover The Value Of A Simpler Life",
+   "source": "Luxurious Magazine",
+   "image": "https://www.luxuriousmagazine.com/wp-content/uploads/2026/11/Woman-kneading-bread-dough-at-home.jpg",
+   "media": "news",
+   "region": "海外",
+   "published": "2026-11-26T14:59:02+00:00",
+   "title_ja": "インターネットがシンプルな暮らしの価値を再発見させる",
+   "summary_ja": "インターネットを通じて、人々がよりシンプルで豊かな暮らしの価値を見直している動きについて紹介しています。物質的な豊かさから離れ、簡素な生活を求める背景やその傾向を伝えています。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
   },
   {
    "id": "4a2f28e41b3797ec",
@@ -5903,22 +6169,6 @@
    "importance": 3
   },
   {
-   "id": "8b7a4ed41c0702fb",
-   "url": "https://note.com/eo888/n/n09f971a247b8",
-   "title_original": "お風呂場もわりとピカピカ／微掃除のススメ",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/336376902/rectangle_large_type_2_4b3a37e8b8d30471e8da3003d34f4c7f.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-16T04:22:47+00:00",
-   "title_ja": "風呂場をきれいに保つ小まめな「微掃除」のすすめ",
-   "summary_ja": "浴室を清潔に維持するために、日々の暮らしの中で気軽に行う「微掃除」の習慣を提案する記事。大がかりな掃除を減らし、日々の小さな手入れによってピカピカな状態を保つための考え方を紹介している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
    "id": "c0ca2a34df9857c4",
    "url": "https://www.lifehacker.jp/article/machi-ya-geniograndeperfecto-review-988529",
    "title_original": "ミニ財布の収納力に不満があった私。ようやく「ちょうどいい長財布」に出会えたかも",
@@ -7100,254 +7350,6 @@
     "モバイルバッテリー",
     "スマートフォン"
    ],
-   "importance": 3
-  },
-  {
-   "id": "b81eed1e626ead67",
-   "url": "https://www.roomie.jp/2026/11/1924771",
-   "title_original": "北海道の秋冬キャンプに欠かせない「ぽかぽか電気毛布」。新モデルは肩までちゃんと暖かい",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/0D5A7702-2.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-13T22:00:22+00:00",
-   "title_ja": "肩までしっかり温まる秋冬キャンプ用の電気毛布",
-   "summary_ja": "北海道の厳しい秋冬キャンプの夜に欠かせない、肩までしっかりと温めてくれる新モデルの電気毛布。長く使える機能的な道具として、厳選したアウトドアギアを活用している。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "電気毛布"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "062a426343fc6b0d",
-   "url": "https://www.lifehacker.jp/article/2611-craft-note-taking-app-iphone-zfz",
-   "title_original": "メモを取るのが好きになった。このノートアプリとの出会い",
-   "source": "ライフハッカー・ジャパン",
-   "image": "https://media.loom-app.com/loom/2025/09/18/3c4c554f-8191-4450-a187-071380a5fb48/original.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-13T22:00:00+00:00",
-   "title_ja": "ノートアプリ「Craft」で思考を整理する方法",
-   "summary_ja": "美しいデザインと便利な入れ子構造を持つノートアプリ「Craft」の魅力や機能を紹介。マルチデバイス対応でメモを取る楽しさを変えるノートアプリです。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "ノートアプリ"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "379a3e8350bfaddd",
-   "url": "https://article.auone.jp/8a5c7dcd-6a89-4cf4-b537-637ccf64c874",
-   "title_original": "「金を貯めても結局不安は無くならないが…」「“いつか”に備えて貯金なんかしなくても…」50歳で会社を辞めた元朝日新聞記者（61）が実践する“最強の老後対策”",
-   "source": "au Webポータル",
-   "image": "https://portal.auone.jp/media/thumbnails/2026/11/13/https___bunshun_jp_articles_-_93224_w1280.webp",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-13T21:10:00+00:00",
-   "title_ja": "50歳で退職した元記者が実践する老後対策の話",
-   "summary_ja": "50歳で会社を辞めた元朝日新聞記者が、お金を貯めることだけに頼らない老後の暮らし方や考え方を実践している。貯金への不安を手放し、別の形で備える生き方を紹介する記事。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "73eee943c21d0175",
-   "url": "https://tinyhousetalk.com/retiree-escape-traveler-xl-fixed-income",
-   "title_original": "Lois’s Six-Year-Old Escape Traveler XL: A Retiree’s 250 Sq Ft Home on a Fixed Income",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/2026/11/escape-traveler-xl-retiree-exterior-screen-room.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-13T19:31:05+00:00",
-   "title_ja": "年金生活者が約23平米のタイニーハウスで暮らす工夫",
-   "summary_ja": "元ソーシャルワーカーの女性が、約7坪のタイニーハウス「Escape Traveler XL」に6年間住んでいる事例。年金とわずかな年金でローンなしの生活を送っています。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "タイニーハウス"
-   ],
-   "importance": 4
-  },
-  {
-   "id": "d603853b42b631d0",
-   "url": "https://www.fox6now.com/video/fmc-4s8rfgr6no3x3hmt",
-   "title_original": "Tips for creating a capsule wardrobe",
-   "source": "FOX6 News Milwaukee",
-   "image": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/do7c9h8jri6v20b7/1200/630/7w6zyxmnlryejk0o.jpg?ve=1&tl=1",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-13T17:26:18+00:00",
-   "title_ja": "カプセルワードローブを作るためのヒント",
-   "summary_ja": "服の数を絞りコーディネートを組みやすくするためのカプセルワードローブの作り方やコツを紹介している。",
-   "category": "服・ファッション",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "2667785d4fd08dbd",
-   "url": "https://www.youtube.com/shorts/1Z9G692iz1k",
-   "title_original": "Apartments are just modern caves.",
-   "source": "The Minimalists",
-   "image": "https://i2.ytimg.com/vi/1Z9G692iz1k/hqdefault.jpg",
-   "media": "youtube",
-   "region": "海外",
-   "published": "2026-11-13T16:54:42+00:00",
-   "title_ja": "アパートは現代の洞窟であるという視点",
-   "summary_ja": "アパートを現代の洞窟に例えたミニマリズムに関する動画です。暮らしのあり方について考えさせられる内容となっています。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "3a792d0a0c0d290a",
-   "url": "https://news.ameba.jp/entry/20261113-63135359",
-   "title_original": "「もったいない人」と「捨てたい人」の越えられない壁。衝突が絶えなかった実家での日々",
-   "source": "Ameba News [アメーバニュース]",
-   "image": "https://image.ext-news.ameba.jp/22bda990/OTU2MTIzMjYtMWZkNS00N2VmLWJkYmMtYzNlNDY2YjU5NTg4",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-13T15:38:06+00:00",
-   "title_ja": "「もったいない」家族と「捨てたい」自分との片づけを巡る葛藤",
-   "summary_ja": "物を「もったいない」と残したがる親と「減らしたい」と考える自身との間で繰り広げられた片づけの対立。価値観の違う家族と実家で暮らす中で生じた衝突や、手放し方に対する考え方の違いが描かれている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "332e2eedf8681a09",
-   "url": "https://tinyhousetalk.com/1955-greyhound-scenicruiser-motorhome-west-bend-wi",
-   "title_original": "A 1955 Greyhound Scenicruiser Converted Into a 40-Foot Motorhome",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/2026/11/1955-greyhound-scenicruiser-motorhome-01-exterior-crop.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-13T15:05:00+00:00",
-   "title_ja": "1955年製の大型バスを改装した約12メートルの移動式住居",
-   "summary_ja": "1955年製のGMCグレイハウンドバスをベースに、約12メートルのモーターホーム（キャンピングカー）へとリノベーションした車両の売却事例。ヴィンテージの大型車を活用したユニークな住居スタイルを紹介している。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "バス",
-    "キャンピングカー"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "50062805646fd47d",
-   "url": "https://tinyhousetalk.com/1977-dodge-xplorer-212-camper-van-encinitas",
-   "title_original": "A 1977 Dodge B200 Tradesman Xplorer 212 Camper Van in Encinitas, California",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/2026/10/01-exterior-beach.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-13T15:00:00+00:00",
-   "title_ja": "1977年製ダッジを改装したレトロなキャンピングカーの全貌",
-   "summary_ja": "1977年製のダッジB200をベースにしたキャンピングカーの紹介。車内には3WAY冷蔵庫やルーフエアコン、オリジナルのシート類が備わっており、レトロな内装と実用的な設備を備えたバンライフの所有スタイルがわかる。",
-   "category": "暮らしの実例",
-   "axis": "own",
-   "things": [
-    "キャンピングカー",
-    "冷蔵庫",
-    "エアコン"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "d8f8d9ff6751f7ea",
-   "url": "https://trilltrill.jp/articles/5181923",
-   "title_original": "11月にやっておけば大掃除がラクになる！プロが教える「今やるべき片付けの仕込み」5選",
-   "source": "TRILL",
-   "image": "https://media.trilltrill.jp/articles/5181923/featured-image.d20e50ab6c980d32c46f5f97edebcd28?w=1200",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-13T14:05:00+00:00",
-   "title_ja": "大掃除を楽にするためにプロが教える11月の片付け準備",
-   "summary_ja": "11月のうちに事前準備をしておくことで、年末の大掃除を効率的かつ楽に進めるための片付け術をプロが解説する記事。事前の仕込みとして取り組むべき5つの片付けポイントについて紹介している。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 2
-  },
-  {
-   "id": "db8e67fe570dcf21",
-   "url": "https://www.youtube.com/watch?v=UfuWfv_FhUA",
-   "title_original": "Our New PET, 4 Years Post Baby... (chit chatty vlog)",
-   "source": "Sarah Therese",
-   "image": "https://i2.ytimg.com/vi/UfuWfv_FhUA/hqdefault.jpg",
-   "media": "youtube",
-   "region": "海外",
-   "published": "2026-11-13T14:00:13+00:00",
-   "title_ja": "パン作りで愛用している道具と衣服の紹介",
-   "summary_ja": "オーガニックコットンのセーターやレギンスなどの衣服のほか、ゼロからパン作りを可能にする製パン機を愛用していることについて語っている。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "セーター",
-    "ブラタンク",
-    "レギンス",
-    "製パン機"
-   ],
-   "importance": 2
-  },
-  {
-   "id": "f391753678e3082e",
-   "url": "https://tinyhousetalk.com/westfalia-nansen-600l-bunk-bed-camper-van",
-   "title_original": "Westfalia’s Nansen 600L Fits Bunk Beds and a Full Bathroom in Under 20 Feet",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/Westfalia-Nansen-600L-Camper-Van-Exterior.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-13T12:30:00+00:00",
-   "title_ja": "Westfalia Nansen 600L、20尺未満で二段ベッドと浴室を実装",
-   "summary_ja": "WestfaliaのNansen 600Lは全長19.6フィートのFiat Ducatoに全幅二段ベッド2台と分割型ドライバスを組み込み、後部は貨物ガレージに変えられるコンパクトなレイアウトです。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "Westfalia Nansen 600L",
-    "Fiat Ducato"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "d02a34f76321d323",
-   "url": "https://tinyhousetalk.com/27north-vx-awd-sprinter-camper-van",
-   "title_original": "27North’s VX: A Missouri-Built AWD Sprinter With an Indoor Shower",
-   "source": "Tiny House Talk",
-   "image": "https://tinyhousetalk.com/wp-content/uploads/27north-2026-vx-arctic-white-grille.jpg",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-13T12:15:00+00:00",
-   "title_ja": "27North VX、屋内シャワー付きAWDスプリンター",
-   "summary_ja": "ミズーリ州で手作りされた27North VXは、AWDスプリンター2500にクイルトレザーのシート、フルインドアシャワー、ダイネットベッドへの変形席、48V電源でエアコンを駆動できる2人用キャンピングバンです。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [
-    "27North VX",
-    "Sprinter 2500"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ed9bc597f8d7cb00",
-   "url": "https://news.yahoo.co.jp/expert/articles/32e5ca885cedeb581e495994ed8b476c603f53cc",
-   "title_original": "「ブラックフライデー」どう活用するのが正解？セールで散財しない3つのコツを整理収納アドバイザーが解説",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/kawasakimisa/02764904/title-1794543652358.jpeg?exp=10800",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-13T12:00:55+00:00",
-   "title_ja": "ブラックフライデーで散財しない3つのコツを整理収納アドバイザーが解説",
-   "summary_ja": "整理収納アドバイザーが、ブラックフライデーのセールで衝動買いを防ぎ、必要なものだけを選ぶための3つのポイントを具体的に紹介しています。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
    "importance": 3
   }
  ]
