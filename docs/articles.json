@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T05:52:52.975807+09:00",
+ "updated_at": "2026-11-28T15:55:44.711269+09:00",
  "categories": [
   "手放す・捨て方",
   "部屋・収納",
@@ -27,32 +27,35 @@
   "海外"
  ],
  "digest": {
-  "generated_at": "2026-11-28T05:54:01.278940+09:00",
+  "generated_at": "2026-11-28T15:56:16.758154+09:00",
   "days": 3,
   "period": "11月26日〜11月28日",
   "count": 45,
-  "reduce_count": 25,
-  "own_count": 20,
-  "overview": "年末に向けた片付けや不要な資料・雑貨の捨て方、長く使える愛用品やガジェットの選び方が語られています。",
-  "reduce": "年末の大掃除や引越しに向けた捨て方の基準作りや、限られたスペースをすっきりと見せる収納の工夫が多数紹介されています。",
-  "own": "長く使える厳選アイテムやガジェット、ワークチェアなどのデスク環境、ミニマリストの服や時計の選び方が語られています。",
+  "reduce_count": 27,
+  "own_count": 18,
+  "overview": "11月26日〜28日に収集した45件の記事では、日々の持ち物選びや買い物の見直しに加え、年末に向けた手放し方や片付けの具体的な工夫が多角的に語られています。",
+  "reduce": "年末に向けた手放し方や片付けの基準作り、道具を買う前に今あるもので代用する工夫について多くの記事が紹介しています。",
+  "own": "長く使える定番ガジェットや衣類、コンパクトな住まいやデスク周りを整える具体的なアイテム選びの実例が多数語られています。",
   "points": [
    {
-    "title": "手放す基準と片付け術",
-    "body": "年末の大掃除や引越しを控え、先に捨てる基準を決める方法や、雑貨や子供服など不要なものを手放すコツが語られています。"
+    "title": "手放す基準と工夫",
+    "body": "整理が止まった際の思考の切り替えや、年末の大掃除に向けてあらかじめ「捨てる基準」を決めておくことで作業がスムーズになると複数の書き手が提案しています。"
    },
    {
     "title": "長く愛用する道具選び",
-    "body": "ブラックフライデーでの投資価値のある商品選びや、10年以上使い続ける有線イヤホンなど、長く大切に使う定番品が紹介されています。"
+    "body": "10年以上使い続けたバックパックや定番の有線イヤホンのほか、ブラックフライデーでは安価なものを避け一生使える生活必需品を選ぶ視点が紹介されています。"
    },
    {
-    "title": "デジタルと充電器の整理",
-    "body": "スマホ依存対策としてのカメラ付きイヤホンや音声入力アプリの活用、CIOの充電器によるデスクのケーブル整理が話題です。"
+    "title": "小さな住まいと収納",
+    "body": "バスを改装したタイニーハウスや再利用材を用いたスタジオなど、限られた空間を工夫して快適に暮らす具体的な建築デザインや収納の実例が語られています。"
    }
   ],
   "keywords": [
+   "ミニマリスト",
    "手放す",
-   "片付け"
+   "片付け",
+   "収納",
+   "道具"
   ]
  },
  "things": [
@@ -73,15 +76,15 @@
    "count": 5
   },
   {
-   "name": "洋服",
-   "count": 5
-  },
-  {
    "name": "スマホ",
    "count": 4
   },
   {
    "name": "バックパック",
+   "count": 4
+  },
+  {
+   "name": "洋服",
    "count": 4
   },
   {
@@ -98,10 +101,6 @@
   },
   {
    "name": "パソコン",
-   "count": 3
-  },
-  {
-   "name": "モバイルバッテリー",
    "count": 3
   },
   {
@@ -145,10 +144,6 @@
    "count": 2
   },
   {
-   "name": "スマートフォン",
-   "count": 2
-  },
-  {
    "name": "チェア",
    "count": 2
   },
@@ -185,11 +180,19 @@
    "count": 2
   },
   {
+   "name": "モバイルバッテリー",
+   "count": 2
+  },
+  {
    "name": "収納ボックス",
    "count": 2
   },
   {
    "name": "弁当箱型炊飯器",
+   "count": 2
+  },
+  {
+   "name": "掛け布団",
    "count": 2
   },
   {
@@ -241,7 +244,6 @@
   "Gadget Review",
   "GearJunkie",
   "Good Housekeeping",
-  "Homes and Gardens",
   "How-To Geek",
   "Ideal Home",
   "Infoseek",
@@ -325,6 +327,163 @@
  ],
  "count": 400,
  "items": [
+  {
+   "id": "490fe49b3b35c607",
+   "url": "https://note.com/minimal_pops/n/n6067ea36b338",
+   "title_original": "ミニマリストの使い切る習慣。贅沢病から抜け出すヒント",
+   "source": "note #ミニマリスト",
+   "image": "https://assets.st-note.com/production/uploads/images/341833778/rectangle_large_type_2_29a79c4988195a60e85da642189e8da4.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-28T06:46:08+00:00",
+   "title_ja": "ミニマリストの「使い切り」習慣と贅沢病脱却のヒント",
+   "summary_ja": "使い切ることで無駄な余剰を減らす考え方を紹介。アップグレード時に残ったものへの対処法や、次の欲求に走らないための基準が語られる。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "43eb2be410c4293f",
+   "url": "https://www.roomie.jp/2026/11/1939363",
+   "title_original": "スマホの背面はスッキリしたまま。この小さなリングが持ちやすさを変えてくれる",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/syantoconnectslim5.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-28T06:45:00+00:00",
+   "title_ja": "背面がスッキリするスマホリングで持ちやすさ向上",
+   "summary_ja": "背面を覆わないリングはMagSafe充電やクリアケースの装飾を妨げず、手に持つ感覚を向上させ、スマホをすっきり保てる。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "スマホリング"
+   ],
+   "importance": 2
+  },
+  {
+   "id": "5951572c95ffcba4",
+   "url": "https://www.lifehacker.jp/article/2611-costorypo-menssabo-review1",
+   "title_original": "サンダル感覚でラクなのに本革素材で高級感も。大人のサボを試してみた",
+   "source": "ライフハッカー・ジャパン",
+   "image": "https://media.loom-app.com/loom/2026/11/12/3281a0ab-677e-4e03-9b6c-9ade52f90e8a/original.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-28T06:00:00+00:00",
+   "title_ja": "本革素材でラクに履ける大人のサボを試した話",
+   "summary_ja": "サンダル感覚で手軽に履ける本革素材のベーシックサボの履き心地や魅力を紹介。スニーカー以外の選択肢として日常使いできる一足をレビューしています。",
+   "category": "服・ファッション",
+   "axis": "own",
+   "things": [
+    "サボ"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "938485c42ae225f0",
+   "url": "https://www.roomie.jp/2026/11/1939314",
+   "title_original": "ぬくぬく眠れて、洗濯機で丸洗い。冬の掛け布団はこれくらい気軽でいい",
+   "source": "ROOMIE",
+   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/infinitywarm35.jpg?w=1200",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-28T05:45:47+00:00",
+   "title_ja": "洗濯機で丸洗いできる冬のオールインワン掛け布団",
+   "summary_ja": "薄さと保温性を両立し、重ね掛け不要を目指したオールインワン掛け布団を紹介。冬の安眠を妨げない、洗濯機で丸洗いできる気軽な寝具の使い心地です。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "掛け布団"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b1ca3e8443516162",
+   "url": "https://news.infoseek.co.jp/article/itmedia_nlab_4113969",
+   "title_original": "「10数年使って、また同じバッグを買いました」 モンベルの“30Lバックパック”が大好評 「自転車移動にも便利」「カバンを1つにまとめられた」",
+   "source": "Infoseek",
+   "image": "https://media.image.infoseek.co.jp/isnews/photos/itmedia_nlab/itmedia_nlab_4113969_0-enlarge.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-28T05:00:00+00:00",
+   "title_ja": "モンベル30Lバックパックを10年使い続け再購入",
+   "summary_ja": "同じモンベルの30Lバックパックを10年以上使い続け、再び同モデルを購入。自転車通勤にも便利で、荷物を一つにまとめられる点が評価され、ミニマリスト的に『1つのバッグで完結』という持ち物の減らし方の実例として注目された。",
+   "category": "道具・ガジェット",
+   "axis": "own",
+   "things": [
+    "モンベル30Lバックパック"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "520dab29d5c86a86",
+   "url": "https://news.yahoo.co.jp/profile/expert/comments/3df6c0b0-f457-46e5-a820-dca7f128bea3",
+   "title_original": "もうこれ以上は捨てられない…整理作業で手が止まったときにやるべきたったひとつのこと(シンプリストうた)へのコメント",
+   "source": "Yahoo!ニュース",
+   "image": "https://s.yimg.jp/images/news-web/versions/20261127-93b9b54/all/images/ogp_user_commentPerma.jpg",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-28T04:03:25+00:00",
+   "title_ja": "整理が止まったときの唯一の対処法",
+   "summary_ja": "整理作業でこれ以上捨てられないときに、唯一実行すべき行動を紹介。シンプリストうたに触れながら、思考を切り替えて手放しを続ける方法を提案している。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
+  {
+   "id": "130d4248b9b5d5af",
+   "url": "https://bemorewithless.com/weekend-favorites-november-28-2026/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
+   "title_original": "emotional minimalism and 8 simple habits for better mornings",
+   "source": "Be More with Less",
+   "image": "https://bemorewithless.com/wp-content/uploads/2026/11/emotional-minimalism-image.png",
+   "media": "blog",
+   "region": "海外",
+   "published": "2026-11-28T01:13:17+00:00",
+   "title_ja": "感情のミニマリズムとより良い朝のための8つの習慣",
+   "summary_ja": "感情的なミニマリズムを取り入れ、より良い朝を迎えるために意識したい8つのシンプルな習慣について紹介している。",
+   "category": "心・習慣",
+   "axis": "reduce",
+   "things": [],
+   "importance": 3
+  },
+  {
+   "id": "5cd8665ecbaf0f3c",
+   "url": "https://minimalist-fudeko.com/use-what-you-have-before-buying",
+   "title_original": "丁寧な暮らしにあこがれて土鍋やせいろが欲しくなったら、今あるもので2週間試す",
+   "source": "筆子ジャーナル",
+   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/10/cook-rice.jpg",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-28T00:10:23+00:00",
+   "title_ja": "丁寧な暮らしに憧れて道具を買う前に今あるもので試す方法",
+   "summary_ja": "土鍋やせいろなどの道具に憧れて買う前に、まずは今あるもので2週間試してみるという、物が増えるのを防ぐための考え方。",
+   "category": "手放す・捨て方",
+   "axis": "reduce",
+   "things": [
+    "土鍋",
+    "せいろ",
+    "保存瓶",
+    "リネンのふきん"
+   ],
+   "importance": 4
+  },
+  {
+   "id": "114fc90502b1bfe7",
+   "url": "https://note.com/daisan_logbook/n/ned743ed012a9",
+   "title_original": "捨て活航海日誌｜エポスプラチナの招待を見送った話。「元を取るための出費」は本末転倒だと気づいた日",
+   "source": "note #持たない暮らし",
+   "image": "https://assets.st-note.com/production/uploads/images/341498587/rectangle_large_type_2_a5ba787d3d5cf9c322fb6ce5ac25519e.jpeg?fit=bounds&quality=85&width=1280",
+   "media": "blog",
+   "region": "国内",
+   "published": "2026-11-27T22:18:11+00:00",
+   "title_ja": "プラチナカードの招待を見送った話",
+   "summary_ja": "クレジットカードのインビテーションをあえて見送った体験談。特典の元を取るための出費は本末転倒だと気づき、不要な契約を手放す判断をした記録。",
+   "category": "お金・買い方",
+   "axis": "reduce",
+   "things": [],
+   "importance": 4
+  },
   {
    "id": "1c1663004d387f2d",
    "url": "https://note.com/180days_project/n/n96e00b5693c4",
@@ -983,6 +1142,24 @@
    "things": [
     "ペットゲート",
     "サークル"
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d69c1717b9776794",
+   "url": "https://news.yahoo.co.jp/articles/dea3ec34405fbdefcdd2806e9337c0e3c790308f",
+   "title_original": "冬服14着のミニマリストが教える“無駄な冬服を買わない方法”が参考になる 「これ保存版だね」「冷静になれました」（ねとらぼ）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261126-10178478-it_nlab-000-5-view.jpg?exp=10800",
+   "media": "news",
+   "region": "国内",
+   "published": "2026-11-26T09:00:00+00:00",
+   "title_ja": "冬服14着のミニマリストが教える無駄買いを防ぐコツ",
+   "summary_ja": "冬服を14着に絞って暮らすミニマリストが、無駄な洋服を買わないための具体的な考え方や基準を紹介している。服の増やし方に悩む人や、買い物の衝動を抑えたい人に参考になる内容。",
+   "category": "服・ファッション",
+   "axis": "reduce",
+   "things": [
+    "冬服"
    ],
    "importance": 3
   },
@@ -5910,38 +6087,6 @@
    "importance": 4
   },
   {
-   "id": "c0ffa7b34bc5074f",
-   "url": "https://note.com/tsukinomichi82/n/n805b5a93e45c",
-   "title_original": "三行日記 こんなに可愛い部屋だったのか、私の部屋",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/337001416/rectangle_large_type_2_2560bb67ca040f83c7c0737edccaed86.jpg?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-16T15:05:48+00:00",
-   "title_ja": "片付いた床が見える部屋の変化と感想",
-   "summary_ja": "部屋を整理し床が見えるようになると、壁紙や床材の魅力に気づき、以前の放置をもったいないと感じた。",
-   "category": "部屋・収納",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "e73e9fad0852eef7",
-   "url": "https://note.com/yutomini/n/n4f497e0b81e8",
-   "title_original": "ETH創設者によるDigital Detoxのすすめ",
-   "source": "note #ミニマリスト",
-   "image": "https://assets.st-note.com/production/uploads/images/337000835/rectangle_large_type_2_ce6bd2e6df959333e6a74b546b82a175.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-16T15:03:17+00:00",
-   "title_ja": "Vitalikが語るデジタル・ミニマリズムの実践",
-   "summary_ja": "Ethereum共同創設者Vitalikがデジタル・ミニマリズムを提唱し、物理的だけでなく情報との関わりも最小化する考え方を紹介した。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 4
-  },
-  {
    "id": "6e053582170c235f",
    "url": "https://nosidebar.com/the-life-changing-power-of-gratitude",
    "title_original": "The Life-Changing Power of Gratitude",
@@ -6147,24 +6292,6 @@
    "axis": "own",
    "things": [
     "マムート ゴアテックス靴"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "27f5fa8cde29f86a",
-   "url": "https://note.com/hanitan_note/n/nf43d61ce314b",
-   "title_original": "母が骨折したのでW介護が始まりました⑥：母のリハビリ病院へ転院と洋服の断捨離／－母叔母のW介護、ロマンチックに生きたい私のドタバタ奮闘記ー",
-   "source": "note #断捨離",
-   "image": "https://assets.st-note.com/production/uploads/images/333712766/rectangle_large_type_2_5c8016e552ac7f9e5d6faea05f35e107.png?fit=bounds&quality=85&width=1280",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-16T04:39:53+00:00",
-   "title_ja": "母の介護と転院に伴い洋服の断捨離を行った記録",
-   "summary_ja": "母の骨折によるリハビリ病院への転院手続きや介護費用に対応しながら、母の洋服の断捨離に取り組んだ体験談。ドタバタとした介護生活の中で、身の回りの衣類を整理して整える様子が描かれている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [
-    "洋服"
    ],
    "importance": 3
   },
@@ -7232,125 +7359,6 @@
    "axis": "own",
    "things": [],
    "importance": 2
-  },
-  {
-   "id": "d5354e07b9174dd7",
-   "url": "https://news.livedoor.com/article/detail/32816199",
-   "title_original": "浪費家から貯金350万円へ！元浪費家が実践した「お金が貯まる」7つの理由",
-   "source": "ライブドアニュース",
-   "image": "",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-14T01:54:45+00:00",
-   "title_ja": "元浪費家が貯金350万円を達成した7つの理由",
-   "summary_ja": "浪費を重ねていた状態から、お金が貯まる生活習慣へシフトして350万円を貯蓄できるようになった背景を紹介している。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "a6a99ff428906fdc",
-   "url": "https://bemorewithless.com/weekend-favorites-november-14-2026/?adt_ei=%7B%7B+subscriber.email_address+%7D%7D",
-   "title_original": "8 little habits that will make you happier + financial security",
-   "source": "Be More with Less",
-   "image": "https://bemorewithless.com/wp-content/uploads/2026/11/financial-security-image.png",
-   "media": "blog",
-   "region": "海外",
-   "published": "2026-11-14T01:19:24+00:00",
-   "title_ja": "幸福度と経済的な安定を高める小さな8つの習慣",
-   "summary_ja": "日々の暮らしの中で少しずつ実践できる小さな習慣を通じて、心のゆとりと経済的な安定を同時に手に入れる方法を解説している。",
-   "category": "心・習慣",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "4ecf37d00ee669ec",
-   "url": "https://www.chiba-tv.com/plus/detail/2026112222518",
-   "title_original": "志尊淳、3年ぶり断捨離を告白 今年のクリスマスは撮影の予備日「僕のものになるか確定していない」",
-   "source": "千葉テレビ放送",
-   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1494135631407744857/origin_1.jpg",
-   "media": "news",
-   "region": "国内",
-   "published": "2026-11-14T00:41:39+00:00",
-   "title_ja": "志尊淳さんが3年ぶりに断捨離を行った話",
-   "summary_ja": "俳優の志尊淳さんが3年ぶりとなる断捨離を実行したことを明かした話題。クリスマスシーズンの過ごし方についても触れている。",
-   "category": "手放す・捨て方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "a5a7dd3d07f8e1c8",
-   "url": "https://minimalist-fudeko.com/avoid-online-impulse-buys",
-   "title_original": "ネット通販で余計なものを買ってしまう人へ。ついで買いを防ぐ4つのコツ",
-   "source": "筆子ジャーナル",
-   "image": "https://minimalist-fudeko.com/wp-content/uploads/2026/10/online-shop.jpg",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-14T00:10:40+00:00",
-   "title_ja": "ネット通販のついで買いを防ぐための4つのコツ",
-   "summary_ja": "ネット通販で余計なものを買ってしまう人へ向けて、ついで買いを防ぐための具体的な4つのコツを紹介している。決済直前までの誘惑に負けない考え方や対策を解説。",
-   "category": "お金・買い方",
-   "axis": "reduce",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "334a20a68bb9c246",
-   "url": "https://www.roomie.jp/2026/11/1928848",
-   "title_original": "コゲ落とし、やめました。「グラタンが圧倒的に楽になる器」でオーブン料理が大好きになった",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2025/12/20251222_cerabake_thumbnail.png?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-13T23:30:20+00:00",
-   "title_ja": "コゲ落としのストレスをなくしたグラタン皿",
-   "summary_ja": "チーズの焦げやこびりつきを落とす手入れが面倒で避けていたオーブン料理を、こびりつかない不思議なお皿を導入することで快適に楽しめるようになった体験談。",
-   "category": "キッチン・食",
-   "axis": "own",
-   "things": [
-    "グラタン皿"
-   ],
-   "importance": 3
-  },
-  {
-   "id": "6b72ad2f2acdd936",
-   "url": "https://www.homesandgardens.com/celebrity-homes/chris-pratt-katherine-schwarzenegger-minimalist-gallery-wall",
-   "title_original": "Chris Pratt and Katherine Schwarzenegger's Minimalist Gallery Wall is a Study in Characterful, Neutral Living Room Elegance",
-   "source": "Homes and Gardens",
-   "image": "https://cdn.mos.cms.futurecdn.net/kYRAEbfDCcimzsxaZYezUT-2560-80.jpg",
-   "media": "news",
-   "region": "海外",
-   "published": "2026-11-13T23:00:00+00:00",
-   "title_ja": "クリス・プラット夫妻のミニマリストギャラリー壁",
-   "summary_ja": "俳優クリス・プラットとキャサリン・シュワルツェネッガーが、ニュートラルで個性を引き立てるミニマリストなギャラリー壁の作り方を紹介しています。",
-   "category": "部屋・収納",
-   "axis": "own",
-   "things": [],
-   "importance": 3
-  },
-  {
-   "id": "091a2349c853fe4e",
-   "url": "https://www.roomie.jp/2026/11/1928360",
-   "title_original": "電源コードの届く範囲から卒業。単1電池6本かモバイルバッテリーで回るレコードプレーヤー",
-   "source": "ROOMIE",
-   "image": "https://media.loom-app.com/roomie/dist/images/2026/11/gpn3btr5.jpg?w=1200",
-   "media": "blog",
-   "region": "国内",
-   "published": "2026-11-13T22:45:11+00:00",
-   "title_ja": "電池とモバイルバッテリーで動くレコードプレーヤー",
-   "summary_ja": "電源コードの制約から離れて屋外でも音楽を楽しめる、単1電池6本またはモバイルバッテリーで駆動するレコードプレーヤー。ベランダやキャンプなど好きな場所でレコードを持ち出して聴くことができる。",
-   "category": "道具・ガジェット",
-   "axis": "own",
-   "things": [
-    "レコードプレーヤー",
-    "電池",
-    "モバイルバッテリー",
-    "スマートフォン"
-   ],
-   "importance": 3
   }
  ]
 }
